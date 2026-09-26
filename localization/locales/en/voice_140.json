@@ -1,0 +1,610 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_140:r_479b340ccc6c572b": {
+      "text": "!!",
+      "status": "imported"
+    },
+    "voice_140:r_ca4acbac57a2a35e": {
+      "text": "...",
+      "status": "imported"
+    },
+    "voice_140:r_77949221bf58f862": {
+      "text": "...",
+      "status": "imported"
+    },
+    "voice_140:r_70b9c4b9f1f37eff": {
+      "text": "Do it, Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_9fcb3754cb1773c7": {
+      "text": "Give it your all, Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_3559d2fad32c2435": {
+      "text": "We're counting on Black Ox now!",
+      "status": "imported"
+    },
+    "voice_140:r_f7570547e9f80a64": {
+      "text": "I'm counting on you, Black Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_cbab0f4720e1fcf1": {
+      "text": "Now, Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_0bbe0b4f5364e732": {
+      "text": "Ox! Enemy dead ahead!",
+      "status": "imported"
+    },
+    "voice_140:r_5dda5198137cb02a": {
+      "text": "All right! Attack once more!",
+      "status": "imported"
+    },
+    "voice_140:r_83ec59afbecdec14": {
+      "text": "Ox! Take down that monster!",
+      "status": "imported"
+    },
+    "voice_140:r_e20bfd42ad95a3c9": {
+      "text": "Ox! Electromagnetic Beam!",
+      "status": "imported"
+    },
+    "voice_140:r_0f58a8822381e57f": {
+      "text": "Electromagnetic Beam, fire!",
+      "status": "imported"
+    },
+    "voice_140:r_6dbcc507fb61b51d": {
+      "text": "Electromagnetic Beam! Pin it down!",
+      "status": "imported"
+    },
+    "voice_140:r_fdeb8162976e72c1": {
+      "text": "Ox, counterattack!",
+      "status": "imported"
+    },
+    "voice_140:r_0fadb5c26df92b42": {
+      "text": "After them, Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_6b15af9a0057cdc8": {
+      "text": "Follow up with another attack!",
+      "status": "imported"
+    },
+    "voice_140:r_15b4a90140e8a33a": {
+      "text": "Let's help our allies!",
+      "status": "imported"
+    },
+    "voice_140:r_af884a6b11dff121": {
+      "text": "Protect our allies!",
+      "status": "imported"
+    },
+    "voice_140:r_ac6fe7838e95647b": {
+      "text": "We'll be their shield!",
+      "status": "imported"
+    },
+    "voice_140:r_77ca87eacd17ad52": {
+      "text": "No... We can't do anything!",
+      "status": "imported"
+    },
+    "voice_140:r_bf3244994760e535": {
+      "text": "We'll have to wait and see...",
+      "status": "imported"
+    },
+    "voice_140:r_aabfb21c9d069ce7": {
+      "text": "What's wrong?! You're moving slowly!",
+      "status": "imported"
+    },
+    "voice_140:r_02479dc8fe989560": {
+      "text": "Damn it! Are we out of energy?!",
+      "status": "imported"
+    },
+    "voice_140:r_a2df00f91a9b0a9e": {
+      "text": "No! We can't counter from here!",
+      "status": "imported"
+    },
+    "voice_140:r_48b60d6c48b9b142": {
+      "text": "We can't do anything from here...",
+      "status": "imported"
+    },
+    "voice_140:r_8927e6fb681aa809": {
+      "text": "You'll never hit Black Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_665f01666859013b": {
+      "text": "Don't think Ox is\\njust any robot!",
+      "status": "imported"
+    },
+    "voice_140:r_a571eec59b258d11": {
+      "text": "Nice work, Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_faae935cca0edc72": {
+      "text": "They missed! Now's our chance, Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_6ff1323b355593e0": {
+      "text": "That's it, Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_36133ad73a73ef98": {
+      "text": "I had a barrier ready!",
+      "status": "imported"
+    },
+    "voice_140:r_920740a0219c5085": {
+      "text": "With this gear, we're unstoppable!",
+      "status": "imported"
+    },
+    "voice_140:r_3633df5b7b8f47fa": {
+      "text": "Looks like no match for Black Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_52dfc56b14b93551": {
+      "text": "That won't make Ox flinch!",
+      "status": "imported"
+    },
+    "voice_140:r_1b9b2aab5cb104da": {
+      "text": "Make sure you dodge it, Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_cf41e8828a90cbdb": {
+      "text": "You're okay, Ox! Just one hit!",
+      "status": "imported"
+    },
+    "voice_140:r_d5e0a2317c40d322": {
+      "text": "Ox! Don't worry about that attack!",
+      "status": "imported"
+    },
+    "voice_140:r_f2d4255f1c2f7542": {
+      "text": "Black Ox is\\nstruggling so badly...!",
+      "status": "imported"
+    },
+    "voice_140:r_5d08ad19e2da125b": {
+      "text": "Give it your all, Black Ox...!",
+      "status": "imported"
+    },
+    "voice_140:r_a7246b52782a877e": {
+      "text": "You're still okay, Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_d6bdd730f24f66eb": {
+      "text": "Ox! Fight more carefully!",
+      "status": "imported"
+    },
+    "voice_140:r_9e6cf4f389dae55c": {
+      "text": "Endure the pain, Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_7432ef43ed3471dc": {
+      "text": "This is bad!\\nEven Ox felt that...!",
+      "status": "imported"
+    },
+    "voice_140:r_065443f6ddfcf0d7": {
+      "text": "Even Black Ox can't take more...",
+      "status": "imported"
+    },
+    "voice_140:r_47d52a2839c71715": {
+      "text": "Hang in there, Ox!\\nFor Dr Franken!",
+      "status": "imported"
+    },
+    "voice_140:r_eb7ae28b53dc033c": {
+      "text": "Don't give up, Ox! Get up!",
+      "status": "imported"
+    },
+    "voice_140:r_55417493fce1d347": {
+      "text": "Don't lose, Black Ox! Keep going!",
+      "status": "imported"
+    },
+    "voice_140:r_7d724dbcc4451e10": {
+      "text": "Aah! Black Ox...!",
+      "status": "imported"
+    },
+    "voice_140:r_93e25418a203cb8f": {
+      "text": "Ox...! Ooooox!!",
+      "status": "imported"
+    },
+    "voice_140:r_adeb0a29274d3d9b": {
+      "text": "I won't show villains any mercy!",
+      "status": "imported"
+    },
+    "voice_140:r_8f60f6fc86db3107": {
+      "text": "As ICPO, I won't forgive villains!",
+      "status": "imported"
+    },
+    "voice_140:r_128c35bf3e0e394c": {
+      "text": "Against terrorists,\\nno holding back!",
+      "status": "imported"
+    },
+    "voice_140:r_5213c17e13b23de0": {
+      "text": "Damn you, Branch gang! Back again?!",
+      "status": "imported"
+    },
+    "voice_140:r_38fdff9483e9245c": {
+      "text": "Not to some stubborn soldier!",
+      "status": "imported"
+    },
+    "voice_140:r_9680dcd0fddcfcc7": {
+      "text": "If you want a fight, you've got one!",
+      "status": "imported"
+    },
+    "voice_140:r_3dbeead1bd3164ef": {
+      "text": "Even a Gundam won't make me flinch!",
+      "status": "imported"
+    },
+    "voice_140:r_98d15b8cc09bc915": {
+      "text": "It's a Mobile Suit! Let's go!",
+      "status": "imported"
+    },
+    "voice_140:r_46e86d000250e137": {
+      "text": "I won't lose, even to a warship!",
+      "status": "imported"
+    },
+    "voice_140:r_ac341e7976e88f0b": {
+      "text": "I won't let any Invader through!",
+      "status": "imported"
+    },
+    "voice_140:r_cdbd128a5b4127cc": {
+      "text": "We'll beat these invaders here!",
+      "status": "imported"
+    },
+    "voice_140:r_cfccaa1fbeda124c": {
+      "text": "No one will shatter Earth's peace!",
+      "status": "imported"
+    },
+    "voice_140:r_b1f8ec192b9c083a": {
+      "text": "I'll knock you back into space!",
+      "status": "imported"
+    },
+    "voice_140:r_a007f9ab9cf048b3": {
+      "text": "I'll finish you off in no time!",
+      "status": "imported"
+    },
+    "voice_140:r_ddafde4b065ced49": {
+      "text": "I won't let you do as you please!",
+      "status": "imported"
+    },
+    "voice_140:r_de1213040856c089": {
+      "text": "There you are! I won't ever lose!",
+      "status": "imported"
+    },
+    "voice_140:r_3304412ac41f47a6": {
+      "text": "Let's go! Charge them head-on!",
+      "status": "imported"
+    },
+    "voice_140:r_d996fd6d4ef5b329": {
+      "text": "Now it's our turn!",
+      "status": "imported"
+    },
+    "voice_140:r_8ab47a28f99ef565": {
+      "text": "We can't just keep taking this!",
+      "status": "imported"
+    },
+    "voice_140:r_546de3fb6db156ea": {
+      "text": "If you're in reach, I've got you!",
+      "status": "imported"
+    },
+    "voice_140:r_ca85f87cee5e31f7": {
+      "text": "Damn it! You won't get away!",
+      "status": "imported"
+    },
+    "voice_140:r_9072ea7bc71df136": {
+      "text": "Looks like I managed to dodge it!",
+      "status": "imported"
+    },
+    "voice_140:r_04e815a8d425827d": {
+      "text": "Yes! It worked perfectly!",
+      "status": "imported"
+    },
+    "voice_140:r_d89011fe3e5d082a": {
+      "text": "How's that?! Evil can't touch us!",
+      "status": "imported"
+    },
+    "voice_140:r_5b9e8897190892eb": {
+      "text": "Villain attacks don't scare me!",
+      "status": "imported"
+    },
+    "voice_140:r_dd01a4c0d1b36a8d": {
+      "text": "Not to some sham of a monster!",
+      "status": "imported"
+    },
+    "voice_140:r_20920ad2eb3542db": {
+      "text": "I won't let the villains beat us...!",
+      "status": "imported"
+    },
+    "voice_140:r_cb846feec748c2e3": {
+      "text": "If evil wins,\\ndarkness will rule!",
+      "status": "imported"
+    },
+    "voice_140:r_5e2669b82ef75ce3": {
+      "text": "Get up...! Don't lose to a monster!",
+      "status": "imported"
+    },
+    "voice_140:r_7847e0ed7dc9282d": {
+      "text": "Damn it! You'll pay for that!",
+      "status": "imported"
+    },
+    "voice_140:r_e42b52c7a987b906": {
+      "text": "So strong...!\\nBut I can't lose!",
+      "status": "imported"
+    },
+    "voice_140:r_6825fd1ff907bd22": {
+      "text": "Damn it! That was a direct hit!",
+      "status": "imported"
+    },
+    "voice_140:r_ad3d538f1e909184": {
+      "text": "It only grazed me!",
+      "status": "imported"
+    },
+    "voice_140:r_8c61c59a1c0aebbf": {
+      "text": "Give up already and surrender!",
+      "status": "imported"
+    },
+    "voice_140:r_aba6a7662129d8ce": {
+      "text": "You plan to take out the sensors!",
+      "status": "imported"
+    },
+    "voice_140:r_95d047bcc17fccc6": {
+      "text": "Aaaaaah!! What incredible power!",
+      "status": "imported"
+    },
+    "voice_140:r_640327a12a559b31": {
+      "text": "Hold on,\\nthen turn the fight around!",
+      "status": "imported"
+    },
+    "voice_140:r_bdd38c584fa313d0": {
+      "text": "Damn it! One more hit and I'm...!",
+      "status": "imported"
+    },
+    "voice_140:r_3fd86c1027f317c8": {
+      "text": "With Ox's power, we can win!",
+      "status": "imported"
+    },
+    "voice_140:r_d0372a183d2007ad": {
+      "text": "Fight for peace, Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_f1e7ed9e5874aba5": {
+      "text": "Take that! Here's another shot!",
+      "status": "imported"
+    },
+    "voice_140:r_fc25e66a86fc2c85": {
+      "text": "Ox, will we lose like this...!",
+      "status": "imported"
+    },
+    "voice_140:r_5aeeb4917340c42d": {
+      "text": "Ox can turn this around in no time!",
+      "status": "imported"
+    },
+    "voice_140:r_b765659981b6516d": {
+      "text": "As expected of Dr Franken's robot!",
+      "status": "imported"
+    },
+    "voice_140:r_0c427458bc00eb95": {
+      "text": "Ox has the edge in speed!",
+      "status": "imported"
+    },
+    "voice_140:r_d3f01de714c015bd": {
+      "text": "More Branch Robots won't stop us!",
+      "status": "imported"
+    },
+    "voice_140:r_7d2617c809fead70": {
+      "text": "Remnants of the Branch gang?!",
+      "status": "imported"
+    },
+    "voice_140:r_ceb935ccbf830724": {
+      "text": "Gura! Snap out of it, now!",
+      "status": "imported"
+    },
+    "voice_140:r_862ef7385bf2abd4": {
+      "text": "Let's settle this, Demon General!",
+      "status": "imported"
+    },
+    "voice_140:r_001cbec4d9a4283f": {
+      "text": "Space Demon King lackey, no mercy!",
+      "status": "imported"
+    },
+    "voice_140:r_8ad40afecd02b41e": {
+      "text": "There you are, Space Robo!",
+      "status": "imported"
+    },
+    "voice_140:r_26e5efec03c03d78": {
+      "text": "Unknown foe or not,\\nwe must fight!",
+      "status": "imported"
+    },
+    "voice_140:r_4ad81e88c7557a8b": {
+      "text": "I must win to learn what it is...!",
+      "status": "imported"
+    },
+    "voice_140:r_1f65a7af190e4674": {
+      "text": "Space monster!\\nYou go no farther!",
+      "status": "imported"
+    },
+    "voice_140:r_40c5a9358ed5bf29": {
+      "text": "We must stop that space monster...!",
+      "status": "imported"
+    },
+    "voice_140:r_f2e18dfdfe0c89ea": {
+      "text": "I've cornered you, boss!",
+      "status": "imported"
+    },
+    "voice_140:r_cf7dbf49e96a5755": {
+      "text": "This world isn't yours to control!",
+      "status": "imported"
+    },
+    "voice_140:r_fa96676cc65bb509": {
+      "text": "Brute force alone won't crush us!",
+      "status": "imported"
+    },
+    "voice_140:r_4e37f92e7d2fc62e": {
+      "text": "This is the end! I swear we'll win!",
+      "status": "imported"
+    },
+    "voice_140:r_66ab4cfe1557909d": {
+      "text": "You tricked the people of Earth!",
+      "status": "imported"
+    },
+    "voice_140:r_0bad405ee6ca63ba": {
+      "text": "Your evil schemes end here!",
+      "status": "imported"
+    },
+    "voice_140:r_2072eaf71a260ae7": {
+      "text": "Ox!\\nDestroy the Branch Robot!",
+      "status": "imported"
+    },
+    "voice_140:r_06f88dcbd3c9e738": {
+      "text": "Watch out, Ox!\\nYou're facing Gura!",
+      "status": "imported"
+    },
+    "voice_140:r_8a29278549f8e07a": {
+      "text": "Ox! Take down the Demon General!",
+      "status": "imported"
+    },
+    "voice_140:r_45abf84f7757d6eb": {
+      "text": "Go, Ox! Beat the Space Demon King!",
+      "status": "imported"
+    },
+    "voice_140:r_8165e5b41f0124c4": {
+      "text": "The Space Robo is yours, Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_a60b107ea3c36a86": {
+      "text": "Ox! This is the final battle!",
+      "status": "imported"
+    },
+    "voice_140:r_99e6349431aaf23b": {
+      "text": "All right! I dodged it!",
+      "status": "imported"
+    },
+    "voice_140:r_ec1081caf845f56a": {
+      "text": "If it misses,\\npower means nothing!",
+      "status": "imported"
+    },
+    "voice_140:r_2c5b7ee872c1ed7f": {
+      "text": "A blind-side attack? Nice try!",
+      "status": "imported"
+    },
+    "voice_140:r_76d1e51c8b494a60": {
+      "text": "Good, Ox! Don't stop moving!",
+      "status": "imported"
+    },
+    "voice_140:r_eb5f687fcd372ae7": {
+      "text": "Ox's speed has your head spinning!",
+      "status": "imported"
+    },
+    "voice_140:r_2329428a6871d9fa": {
+      "text": "Gura!\\nThat attack won't work on us!",
+      "status": "imported"
+    },
+    "voice_140:r_0e7466971bec4cc4": {
+      "text": "Demon General, you don't scare me!",
+      "status": "imported"
+    },
+    "voice_140:r_efa71f7a4cc33ff3": {
+      "text": "See our power, Demon General?!",
+      "status": "imported"
+    },
+    "voice_140:r_3fc2e1186557e7a0": {
+      "text": "Not to a Space Demon King lackey!",
+      "status": "imported"
+    },
+    "voice_140:r_fa6930340a545054": {
+      "text": "You won't have your way with Earth!",
+      "status": "imported"
+    },
+    "voice_140:r_2332b9d56461d7ab": {
+      "text": "You're incredible, Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_d520c6d5298a848d": {
+      "text": "This is Black Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_099e2458cabf796f": {
+      "text": "Ox is one tough robot!",
+      "status": "imported"
+    },
+    "voice_140:r_fd910d714be70870": {
+      "text": "Stay on your guard, Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_fcd05582aa5c6068": {
+      "text": "This is just a scratch!",
+      "status": "imported"
+    },
+    "voice_140:r_bece29562818acba": {
+      "text": "That barely did any damage!",
+      "status": "imported"
+    },
+    "voice_140:r_494b5da92ed24ecb": {
+      "text": "Damn it! I couldn't dodge it!",
+      "status": "imported"
+    },
+    "voice_140:r_a4a5a96f4bd58920": {
+      "text": "Gah! You're so persistent!",
+      "status": "imported"
+    },
+    "voice_140:r_b57d2d74233f889a": {
+      "text": "You got me! But this isn't over!",
+      "status": "imported"
+    },
+    "voice_140:r_cd06d0820d82524b": {
+      "text": "No! Our maneuvers aren't working!",
+      "status": "imported"
+    },
+    "voice_140:r_c94c6d04be583774": {
+      "text": "Hang in there, Black Ox...!",
+      "status": "imported"
+    },
+    "voice_140:r_e54e2c99ef8297af": {
+      "text": "No! They're overpowering Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_f16a3eb0bcaac082": {
+      "text": "Stay calm and watch closely, Ox!",
+      "status": "imported"
+    },
+    "voice_140:r_10a408809e512df1": {
+      "text": "Space Demon King...! What power!",
+      "status": "imported"
+    },
+    "voice_140:r_bc7b9e308b879dd4": {
+      "text": "Gura! Must you really fight us?!",
+      "status": "imported"
+    },
+    "voice_140:r_98902fd3143c393e": {
+      "text": "The Demon General's true power...?!",
+      "status": "imported"
+    },
+    "voice_140:r_d907fbd7bc1c4298": {
+      "text": "Demon General! You'll pay for that!",
+      "status": "imported"
+    },
+    "voice_140:r_96b21e3a028dd074": {
+      "text": "A Space Demon King lackey won't win!",
+      "status": "imported"
+    },
+    "voice_140:r_aadc0b2442adb93b": {
+      "text": "Such power!\\nWe'll lose at this rate!",
+      "status": "imported"
+    },
+    "voice_140:r_e7a8cd8ed5bc2d1b": {
+      "text": "Damage is mounting...!\\nI must act!",
+      "status": "imported"
+    },
+    "voice_140:r_041dd920da4a7c17": {
+      "text": "I won't lose!\\nI'll fight to the end!",
+      "status": "imported"
+    },
+    "voice_140:r_c7f4280cde4605b3": {
+      "text": "Black Ox is being overwhelmed...!",
+      "status": "imported"
+    },
+    "voice_140:r_ec349c8ea9511a18": {
+      "text": "Stay strong, Ox! Don't give up!",
+      "status": "imported"
+    },
+    "voice_140:r_33236ffa3ea95b68": {
+      "text": "Not yet! It's a test of will, Ox!",
+      "status": "imported"
+    }
+  }
+}

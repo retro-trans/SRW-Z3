@@ -1,0 +1,774 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_208:r_479b340ccc6c572b": {
+      "text": "Char Aznable!\\nNow you're my enemy!",
+      "status": "imported"
+    },
+    "voice_208:r_ca4acbac57a2a35e": {
+      "text": "Got you!",
+      "status": "imported"
+    },
+    "voice_208:r_77949221bf58f862": {
+      "text": "That's far enough!",
+      "status": "imported"
+    },
+    "voice_208:r_70b9c4b9f1f37eff": {
+      "text": "There you are!",
+      "status": "imported"
+    },
+    "voice_208:r_9fcb3754cb1773c7": {
+      "text": "I won't let you!",
+      "status": "imported"
+    },
+    "voice_208:r_3559d2fad32c2435": {
+      "text": "Breaking through!",
+      "status": "imported"
+    },
+    "voice_208:r_f7570547e9f80a64": {
+      "text": "Destroying the target!",
+      "status": "imported"
+    },
+    "voice_208:r_cbab0f4720e1fcf1": {
+      "text": "Eliminating the target!",
+      "status": "imported"
+    },
+    "voice_208:r_0bbe0b4f5364e732": {
+      "text": "For the future, I fight!",
+      "status": "imported"
+    },
+    "voice_208:r_5dda5198137cb02a": {
+      "text": "We'll stamp out each small problem!",
+      "status": "imported"
+    },
+    "voice_208:r_83ec59afbecdec14": {
+      "text": "I'll intercept them with my Gundam!",
+      "status": "imported"
+    },
+    "voice_208:r_0f58a8822381e57f": {
+      "text": "00 Raiser, eliminate the target!",
+      "status": "imported"
+    },
+    "voice_208:r_6dbcc507fb61b51d": {
+      "text": "00 Raiser, move ahead and strike!",
+      "status": "imported"
+    },
+    "voice_208:r_b42ab697149a7c8a": {
+      "text": "00 Qan[T], carve open the future!",
+      "status": "imported"
+    },
+    "voice_208:r_4de4fcf3b440baf4": {
+      "text": "I'll attack with the Qan[T]!",
+      "status": "imported"
+    },
+    "voice_208:r_0121a166c715cdff": {
+      "text": "Target acquired. Destroying it!",
+      "status": "imported"
+    },
+    "voice_208:r_30fad37a42bd3ad3": {
+      "text": "At this range...!",
+      "status": "imported"
+    },
+    "voice_208:r_80a0b2a84e05d81a": {
+      "text": "No warning shots! I won't miss!",
+      "status": "imported"
+    },
+    "voice_208:r_4a9ac1dff86506d9": {
+      "text": "I'll sever it!",
+      "status": "imported"
+    },
+    "voice_208:r_bc8538e6af3d2577": {
+      "text": "This is... my range!",
+      "status": "imported"
+    },
+    "voice_208:r_924516c8de2b5342": {
+      "text": "Entering close combat!",
+      "status": "imported"
+    },
+    "voice_208:r_fdeb8162976e72c1": {
+      "text": "Hyaah!",
+      "status": "imported"
+    },
+    "voice_208:r_6b15af9a0057cdc8": {
+      "text": "Take this!",
+      "status": "imported"
+    },
+    "voice_208:r_af884a6b11dff121": {
+      "text": "Uoooooh!",
+      "status": "imported"
+    },
+    "voice_208:r_ac6fe7838e95647b": {
+      "text": "I have no intention of ending here!",
+      "status": "imported"
+    },
+    "voice_208:r_77ca87eacd17ad52": {
+      "text": "Too slow!",
+      "status": "imported"
+    },
+    "voice_208:r_bf3244994760e535": {
+      "text": "Going back in!",
+      "status": "imported"
+    },
+    "voice_208:r_aabfb21c9d069ce7": {
+      "text": "The enemy has a Gundam too...!",
+      "status": "imported"
+    },
+    "voice_208:r_02479dc8fe989560": {
+      "text": "A Gundam without a GN Drive...!",
+      "status": "imported"
+    },
+    "voice_208:r_a2df00f91a9b0a9e": {
+      "text": "That distortion of yours ends here!",
+      "status": "imported"
+    },
+    "voice_208:r_48b60d6c48b9b142": {
+      "text": "Your ideas cost the future dearly!",
+      "status": "imported"
+    },
+    "voice_208:r_8927e6fb681aa809": {
+      "text": "You spread war for your own ends!?",
+      "status": "imported"
+    },
+    "voice_208:r_665f01666859013b": {
+      "text": "Leave you be,\\nfriends face danger!",
+      "status": "imported"
+    },
+    "voice_208:r_a571eec59b258d11": {
+      "text": "What are you trying to achieve!?",
+      "status": "imported"
+    },
+    "voice_208:r_ddbe581c5ea9183d": {
+      "text": "I can hear... a voice...!?",
+      "status": "imported"
+    },
+    "voice_208:r_faae935cca0edc72": {
+      "text": "Do you truly refuse to understand!?",
+      "status": "imported"
+    },
+    "voice_208:r_d4430bf362340b32": {
+      "text": "Do you crave control of humanity!?",
+      "status": "imported"
+    },
+    "voice_208:r_6ff1323b355593e0": {
+      "text": "A species we can't understand...!",
+      "status": "imported"
+    },
+    "voice_208:r_920740a0219c5085": {
+      "text": "There are no gods in this world!",
+      "status": "imported"
+    },
+    "voice_208:r_a8451712c57c1a72": {
+      "text": "You aren't gods!",
+      "status": "imported"
+    },
+    "voice_208:r_3633df5b7b8f47fa": {
+      "text": "God or not,\\nwe'll forge our future!",
+      "status": "imported"
+    },
+    "voice_208:r_52dfc56b14b93551": {
+      "text": "Final op!\\nSetsuna F. Seiei, launch!",
+      "status": "imported"
+    },
+    "voice_208:r_1b9b2aab5cb104da": {
+      "text": "Like Ribbons!\\nEgo warps the world!",
+      "status": "imported"
+    },
+    "voice_208:r_342044c706a2340f": {
+      "text": "Trans-Am!",
+      "status": "imported"
+    },
+    "voice_208:r_cf41e8828a90cbdb": {
+      "text": "This is the end!",
+      "status": "imported"
+    },
+    "voice_208:r_d5e0a2317c40d322": {
+      "text": "Nuaaah!",
+      "status": "imported"
+    },
+    "voice_208:r_ec2ea17765052401": {
+      "text": "With Trans-Am!",
+      "status": "imported"
+    },
+    "voice_208:r_a7246b52782a877e": {
+      "text": "Hyaaaaaah!!",
+      "status": "imported"
+    },
+    "voice_208:r_dc8701f6bcb9904f": {
+      "text": "Trans-Am, activate!",
+      "status": "imported"
+    },
+    "voice_208:r_d6bdd730f24f66eb": {
+      "text": "Gooooooo!!",
+      "status": "imported"
+    },
+    "voice_208:r_9e0c80ac7e33b459": {
+      "text": "Launching GN Bits!",
+      "status": "imported"
+    },
+    "voice_208:r_7432ef43ed3471dc": {
+      "text": "GN Bits, deploy!",
+      "status": "imported"
+    },
+    "voice_208:r_065443f6ddfcf0d7": {
+      "text": "GN Bits!",
+      "status": "imported"
+    },
+    "voice_208:r_847f82e7f3eef651": {
+      "text": "I'll finish this...!",
+      "status": "imported"
+    },
+    "voice_208:r_857c4a52ce8df0fd": {
+      "text": "Mission complete. On to the next.",
+      "status": "imported"
+    },
+    "voice_208:r_8fdf5910927c9591": {
+      "text": "I'll stop them here!",
+      "status": "imported"
+    },
+    "voice_208:r_93e25418a203cb8f": {
+      "text": "Commencing the next operation!",
+      "status": "imported"
+    },
+    "voice_208:r_24cf161287ef9d5c": {
+      "text": "Qan[T]...! Let's go!",
+      "status": "imported"
+    },
+    "voice_208:r_b1de76a75a253c13": {
+      "text": "00 Qan[T], combat complete.",
+      "status": "imported"
+    },
+    "voice_208:r_84c116267b79f540": {
+      "text": "Counterattacking!",
+      "status": "imported"
+    },
+    "voice_208:r_dad38ee29af2df3a": {
+      "text": "Out of my way!",
+      "status": "imported"
+    },
+    "voice_208:r_3d32e86f8dc80909": {
+      "text": "We'll take the offensive too!",
+      "status": "imported"
+    },
+    "voice_208:r_70451ffbabe2f876": {
+      "text": "There it is!",
+      "status": "imported"
+    },
+    "voice_208:r_69dfa1659715e2fa": {
+      "text": "Now you have nowhere left to run.",
+      "status": "imported"
+    },
+    "voice_208:r_d996fd6d4ef5b329": {
+      "text": "Enemy located. Counterattacking!",
+      "status": "imported"
+    },
+    "voice_208:r_8ab47a28f99ef565": {
+      "text": "If you stand in my way...!",
+      "status": "imported"
+    },
+    "voice_208:r_546de3fb6db156ea": {
+      "text": "The mission plan is unchanged...!",
+      "status": "imported"
+    },
+    "voice_208:r_ca85f87cee5e31f7": {
+      "text": "I'll provide backup!",
+      "status": "imported"
+    },
+    "voice_208:r_9072ea7bc71df136": {
+      "text": "Thanks for the help!",
+      "status": "imported"
+    },
+    "voice_208:r_04e815a8d425827d": {
+      "text": "We'll push straight through!",
+      "status": "imported"
+    },
+    "voice_208:r_d89011fe3e5d082a": {
+      "text": "Lockon, let's coordinate!",
+      "status": "imported"
+    },
+    "voice_208:r_3c5b0c2ac812d5de": {
+      "text": "Allelujah, I'll drive them in!",
+      "status": "imported"
+    },
+    "voice_208:r_5b9e8897190892eb": {
+      "text": "Tieria, I'll cover you!",
+      "status": "imported"
+    },
+    "voice_208:r_7bea3023abbf8a94": {
+      "text": "Copy. I'll back up the Ptolemy!",
+      "status": "imported"
+    },
+    "voice_208:r_dd01a4c0d1b36a8d": {
+      "text": "That man... impressive!",
+      "status": "imported"
+    },
+    "voice_208:r_20920ad2eb3542db": {
+      "text": "Setsuna F. Seiei,\\nGundam backup!",
+      "status": "imported"
+    },
+    "voice_208:r_0ab7914877fd48ed": {
+      "text": "Shinn Asuka, I'll handle the rest!",
+      "status": "imported"
+    },
+    "voice_208:r_cb846feec748c2e3": {
+      "text": "I'm following Kira!",
+      "status": "imported"
+    },
+    "voice_208:r_c958860b0676b1f5": {
+      "text": "I'm your opponent!",
+      "status": "imported"
+    },
+    "voice_208:r_5e2669b82ef75ce3": {
+      "text": "Go! I'll handle things here!",
+      "status": "imported"
+    },
+    "voice_208:r_7847e0ed7dc9282d": {
+      "text": "Friends at risk.\\nI can't look away!",
+      "status": "imported"
+    },
+    "voice_208:r_e42b52c7a987b906": {
+      "text": "Fall back, Lockon!",
+      "status": "imported"
+    },
+    "voice_208:r_6825fd1ff907bd22": {
+      "text": "Are you all right, Allelujah!",
+      "status": "imported"
+    },
+    "voice_208:r_607f666f1563bc0d": {
+      "text": "Tieria, fall back!",
+      "status": "imported"
+    },
+    "voice_208:r_97b7431eeb81e6b6": {
+      "text": "I won't let the Ptolemy fall...!",
+      "status": "imported"
+    },
+    "voice_208:r_132f605d02975e71": {
+      "text": "You...\\nstill have work to live for!",
+      "status": "imported"
+    },
+    "voice_208:r_9b9726b1872759d6": {
+      "text": "Shinn Asuka, don't overextend!",
+      "status": "imported"
+    },
+    "voice_208:r_1252db29683fefe0": {
+      "text": "What's wrong, Kira Yamato!",
+      "status": "imported"
+    },
+    "voice_208:r_cf7dbf49e96a5755": {
+      "text": "Ngh...! Not now!",
+      "status": "imported"
+    },
+    "voice_208:r_fa96676cc65bb509": {
+      "text": "Damn...! Is there no other way...!?",
+      "status": "imported"
+    },
+    "voice_208:r_4e37f92e7d2fc62e": {
+      "text": "Tch, at this rate...!",
+      "status": "imported"
+    },
+    "voice_208:r_66ab4cfe1557909d": {
+      "text": "Should I regroup aboard Ptolemy?",
+      "status": "imported"
+    },
+    "voice_208:r_0bad405ee6ca63ba": {
+      "text": "Setsuna here. Did the plan change!?",
+      "status": "imported"
+    },
+    "voice_208:r_2072eaf71a260ae7": {
+      "text": "What!? My particle reserves...!",
+      "status": "imported"
+    },
+    "voice_208:r_6c13bbfd27a7799e": {
+      "text": "I... understand...!",
+      "status": "imported"
+    },
+    "voice_208:r_06f88dcbd3c9e738": {
+      "text": "Attacking me is pointless.",
+      "status": "imported"
+    },
+    "voice_208:r_b28faf9f71bc3598": {
+      "text": "I don't intend to get hit.",
+      "status": "imported"
+    },
+    "voice_208:r_8a29278549f8e07a": {
+      "text": "I doubt this is truly over...",
+      "status": "imported"
+    },
+    "voice_208:r_7e6c573c26177f98": {
+      "text": "Continuing the mission.",
+      "status": "imported"
+    },
+    "voice_208:r_45abf84f7757d6eb": {
+      "text": "Ngh...! What comes next...!?",
+      "status": "imported"
+    },
+    "voice_208:r_edd7a13ab8f06a14": {
+      "text": "I'll adapt...!",
+      "status": "imported"
+    },
+    "voice_208:r_8165e5b41f0124c4": {
+      "text": "Here it comes! Evasive action...!",
+      "status": "imported"
+    },
+    "voice_208:r_4e05581b7432cce8": {
+      "text": "Even a Gundam\\nif you interfere...!",
+      "status": "imported"
+    },
+    "voice_208:r_a60b107ea3c36a86": {
+      "text": "I'll show it\\nwhile your ilk exists!",
+      "status": "imported"
+    },
+    "voice_208:r_e33693e5ba4665b0": {
+      "text": "World won't obey.\\nI won't allow it!",
+      "status": "imported"
+    },
+    "voice_208:r_72a21a1a489af001": {
+      "text": "Pointless!",
+      "status": "imported"
+    },
+    "voice_208:r_eb643f8bf737a0ca": {
+      "text": "Did I block it all?",
+      "status": "imported"
+    },
+    "voice_208:r_0a3fccb71ec6cf2a": {
+      "text": "GN Field...!",
+      "status": "imported"
+    },
+    "voice_208:r_9b63cf1f3e0207ef": {
+      "text": "An attack this weak!",
+      "status": "imported"
+    },
+    "voice_208:r_8356f4e3dcdff938": {
+      "text": "Ngh! Was I too late...!?",
+      "status": "imported"
+    },
+    "voice_208:r_1d6d784036ae0bd7": {
+      "text": "You think this can stop us?",
+      "status": "imported"
+    },
+    "voice_208:r_625664af02183c17": {
+      "text": "Damage check complete. No problem.",
+      "status": "imported"
+    },
+    "voice_208:r_3701cba361f80ea5": {
+      "text": "I can't dwell on it. Moving on.",
+      "status": "imported"
+    },
+    "voice_208:r_63f429c5c68c0863": {
+      "text": "No impediment to the mission.",
+      "status": "imported"
+    },
+    "voice_208:r_38e4a434c91d8ef0": {
+      "text": "...I can do this!",
+      "status": "imported"
+    },
+    "voice_208:r_98ed411352a3a6ac": {
+      "text": "They're serious...!",
+      "status": "imported"
+    },
+    "voice_208:r_4824bea6bab3af67": {
+      "text": "They read my movement...?",
+      "status": "imported"
+    },
+    "voice_208:r_862b92e63adb9734": {
+      "text": "We can't stop...!\\nNot now or ever!",
+      "status": "imported"
+    },
+    "voice_208:r_cb306ef55e49d107": {
+      "text": "They struck from my blind spot...!",
+      "status": "imported"
+    },
+    "voice_208:r_57b2bd2de8a1408d": {
+      "text": "Why must everyone keep fighting...!",
+      "status": "imported"
+    },
+    "voice_208:r_76f080a4881e8ab5": {
+      "text": "Ugh! Did I react the wrong way...!?",
+      "status": "imported"
+    },
+    "voice_208:r_288133bc5b573dae": {
+      "text": "Gah! A Gundam can't spread war...!",
+      "status": "imported"
+    },
+    "voice_208:r_6f95653e548f8fcf": {
+      "text": "Your creed may warp the world...!",
+      "status": "imported"
+    },
+    "voice_208:r_d249d68bada91ab9": {
+      "text": "Not yet!\\nYour distortion must end!",
+      "status": "imported"
+    },
+    "voice_208:r_e9b3307e9eb69f11": {
+      "text": "Ugh...! At this rate...!",
+      "status": "imported"
+    },
+    "voice_208:r_03cdac73042343ee": {
+      "text": "I'm alive...!\\nI'm still... alive!",
+      "status": "imported"
+    },
+    "voice_208:r_6026da5acbda7c69": {
+      "text": "Not yet... I still have a chance!",
+      "status": "imported"
+    },
+    "voice_208:r_981f8fedd5414fe5": {
+      "text": "While there's a chance, I'll fight!",
+      "status": "imported"
+    },
+    "voice_208:r_96bb0dcde0c8c44a": {
+      "text": "To seize the future, I can't lose!",
+      "status": "imported"
+    },
+    "voice_208:r_641550a2f54cb456": {
+      "text": "I haven't fulfilled my role yet...!",
+      "status": "imported"
+    },
+    "voice_208:r_a0f2074af8debbfa": {
+      "text": "I must still prove my beliefs...!",
+      "status": "imported"
+    },
+    "voice_208:r_b5f5a97ed82acb0b": {
+      "text": "Grrr! Until I show the world...!",
+      "status": "imported"
+    },
+    "voice_208:r_d9cd2e4ded064396": {
+      "text": "Celestial Being!\\nYou won't beat us!",
+      "status": "imported"
+    },
+    "voice_208:r_99e6349431aaf23b": {
+      "text": "To end all war... I must stop you!",
+      "status": "imported"
+    },
+    "voice_208:r_ec1081caf845f56a": {
+      "text": "Is this that Gundam's power...!?",
+      "status": "imported"
+    },
+    "voice_208:r_2c5b7ee872c1ed7f": {
+      "text": "Gwaaaaaah!!",
+      "status": "imported"
+    },
+    "voice_208:r_76d1e51c8b494a60": {
+      "text": "But I haven't shown them yet...!",
+      "status": "imported"
+    },
+    "voice_208:r_eb5f687fcd372ae7": {
+      "text": "I'm sorry... I...",
+      "status": "imported"
+    },
+    "voice_208:r_0e7466971bec4cc4": {
+      "text": "Red Comet! Is this your answer!?",
+      "status": "imported"
+    },
+    "voice_208:r_efa71f7a4cc33ff3": {
+      "text": "Full Frontal...! This ends now!",
+      "status": "imported"
+    },
+    "voice_208:r_3fc2e1186557e7a0": {
+      "text": "I'll stop Neo Zeon...!",
+      "status": "imported"
+    },
+    "voice_208:r_fa6930340a545054": {
+      "text": "Choose war,\\nand you face us!",
+      "status": "imported"
+    },
+    "voice_208:r_2332b9d56461d7ab": {
+      "text": "We fight to eradicate war...!",
+      "status": "imported"
+    },
+    "voice_208:r_854aa0a91a3c80d1": {
+      "text": "I'll wipe out the Zeon remnants!",
+      "status": "imported"
+    },
+    "voice_208:r_0bc8ae32a406ceab": {
+      "text": "I'll stop the Cyber-Newtype...!",
+      "status": "imported"
+    },
+    "voice_208:r_82c09f011d703b2c": {
+      "text": "Why fight when you can understand!?",
+      "status": "imported"
+    },
+    "voice_208:r_2b4d8818c77b6dca": {
+      "text": "Is your power\\nmeant for this!?",
+      "status": "imported"
+    },
+    "voice_208:r_087354f2db0a31e6": {
+      "text": "I'll disable only the machine...!",
+      "status": "imported"
+    },
+    "voice_208:r_db02a2dec93dd263": {
+      "text": "If battle can't be avoided...!",
+      "status": "imported"
+    },
+    "voice_208:r_d520c6d5298a848d": {
+      "text": "If you must hate, then hate me...!",
+      "status": "imported"
+    },
+    "voice_208:r_099e2458cabf796f": {
+      "text": "A Gundam is coming...!",
+      "status": "imported"
+    },
+    "voice_208:r_fd910d714be70870": {
+      "text": "I'll handle this Gundam...!",
+      "status": "imported"
+    },
+    "voice_208:r_9736f29b11344ec3": {
+      "text": "Return everyone you've abducted...!",
+      "status": "imported"
+    },
+    "voice_208:r_fcd05582aa5c6068": {
+      "text": "That monster...! Can it think...!?",
+      "status": "imported"
+    },
+    "voice_208:r_bece29562818acba": {
+      "text": "I won't let the world end...!",
+      "status": "imported"
+    },
+    "voice_208:r_494b5da92ed24ecb": {
+      "text": "Cosmic calamity!\\nYou won't pass!",
+      "status": "imported"
+    },
+    "voice_208:r_b57d2d74233f889a": {
+      "text": "Baal... mankind's nemesis! Stop!",
+      "status": "imported"
+    },
+    "voice_208:r_c94c6d04be583774": {
+      "text": "What is this enemy...!?",
+      "status": "imported"
+    },
+    "voice_208:r_e54e2c99ef8297af": {
+      "text": "If you take hostile action...!",
+      "status": "imported"
+    },
+    "voice_208:r_f16a3eb0bcaac082": {
+      "text": "If your selfish logic fuels war...!",
+      "status": "imported"
+    },
+    "voice_208:r_10a408809e512df1": {
+      "text": "Hate-bound\\ncan't have the world!",
+      "status": "imported"
+    },
+    "voice_208:r_bc7b9e308b879dd4": {
+      "text": "Power alone makes the world warp!",
+      "status": "imported"
+    },
+    "voice_208:r_98902fd3143c393e": {
+      "text": "Final mission!\\nI'll see it through!",
+      "status": "imported"
+    },
+    "voice_208:r_d907fbd7bc1c4298": {
+      "text": "You caused this war! You're my foe!",
+      "status": "imported"
+    },
+    "voice_208:r_96b21e3a028dd074": {
+      "text": "You'll pay for your cruelty...!",
+      "status": "imported"
+    },
+    "voice_208:r_be661448b85d0009": {
+      "text": "As expected of you, Captain Amuro.",
+      "status": "imported"
+    },
+    "voice_208:r_958a56c1151cab9e": {
+      "text": "I'll cover the Red Comet...!",
+      "status": "imported"
+    },
+    "voice_208:r_8b18aa4cc69547df": {
+      "text": "I'll attack right after Kira...!",
+      "status": "imported"
+    },
+    "voice_208:r_3e87f6fc3ea65aef": {
+      "text": "Leave the rest to me, Heero...!",
+      "status": "imported"
+    },
+    "voice_208:r_5508a7bfa9074eb9": {
+      "text": "Banagher, I'll handle the rest...!",
+      "status": "imported"
+    },
+    "voice_208:r_09a003e91f0d5dc7": {
+      "text": "Right. It needn't be put in words.",
+      "status": "imported"
+    },
+    "voice_208:r_192447448ebd7bb5": {
+      "text": "Captain, fall back...!",
+      "status": "imported"
+    },
+    "voice_208:r_e92920ba4b301b9f": {
+      "text": "You still have work left to do!",
+      "status": "imported"
+    },
+    "voice_208:r_207b256d613bb896": {
+      "text": "Kira! I'll be your shield!",
+      "status": "imported"
+    },
+    "voice_208:r_a6fd676d8146501b": {
+      "text": "Heero! I'll handle things here!",
+      "status": "imported"
+    },
+    "voice_208:r_94d35e5fa8e3a198": {
+      "text": "You can't let it end here!",
+      "status": "imported"
+    },
+    "voice_208:r_b686510e636673f3": {
+      "text": "I see. We're stopping here.",
+      "status": "imported"
+    },
+    "voice_208:r_59369bad143d4272": {
+      "text": "War goes on, but peace lies ahead.",
+      "status": "imported"
+    },
+    "voice_208:r_25f9b1e39dd8d366": {
+      "text": "Beat SRW Z3. I trust peace awaits.",
+      "status": "imported"
+    },
+    "voice_208:r_307477bedd148060": {
+      "text": "I'll fight with you. Till we meet.",
+      "status": "imported"
+    },
+    "voice_208:r_09a780acca0eb4b0": {
+      "text": "But we still need your strength.",
+      "status": "imported"
+    },
+    "voice_208:r_af62f2ee466b5c8c": {
+      "text": "I'll move ahead...!",
+      "status": "imported"
+    },
+    "voice_208:r_20cfb719db02fafd": {
+      "text": "I'll draw their fire!",
+      "status": "imported"
+    },
+    "voice_208:r_570c1fdf72edb283": {
+      "text": "We'll draw the enemy over here!",
+      "status": "imported"
+    },
+    "voice_208:r_23f0d87a5a6cfca1": {
+      "text": "I'll go on ahead!",
+      "status": "imported"
+    },
+    "voice_208:r_60c94ea4eb7f7404": {
+      "text": "I'll fulfill my role...!",
+      "status": "imported"
+    },
+    "voice_208:r_727b2ee0277f9159": {
+      "text": "Leave it to me...!",
+      "status": "imported"
+    },
+    "voice_208:r_cff4d2eae8a939ed": {
+      "text": "No need to worry about us...!",
+      "status": "imported"
+    },
+    "voice_208:r_1428fe5f35a9427b": {
+      "text": "I'll be your opponent!",
+      "status": "imported"
+    },
+    "voice_208:r_96d39b8bdfa6f183": {
+      "text": "We'll stop their movement here!",
+      "status": "imported"
+    },
+    "voice_208:r_0e4f9b8a2d26ebff": {
+      "text": "You can safely leave this to us.",
+      "status": "imported"
+    },
+    "voice_208:r_79e0d542fe12bcf7": {
+      "text": "In position. Commencing attack!",
+      "status": "imported"
+    }
+  }
+}

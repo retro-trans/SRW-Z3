@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "naming_hook:r_479b340ccc6c572b": {
+      "text": "Auto-update set to pilot names.",
+      "status": "imported"
+    },
+    "naming_hook:r_ca4acbac57a2a35e": {
+      "text": "Auto-update set to mech names.",
+      "status": "imported"
+    },
+    "naming_hook:r_77949221bf58f862": {
+      "text": "Name auto-update disabled.",
+      "status": "imported"
+    }
+  }
+}

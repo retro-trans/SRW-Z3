@@ -1,0 +1,1426 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0075_04:r_caaab7bad760e16d": {
+      "text": "$$オットー$$\n「First an assassin, now they're sending in troops.\n　What are Neo Zeon's people thinking...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_99b162aa6aa286a2": {
+      "text": "$$レイアム$$\n「Do they intend to break the treaty?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_58fb02434a1c40b2": {
+      "text": "$$オットー$$\n「After everything they've pulled,\n　what nerve to show up now for a handshake...!\n　Launch all units!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_1c0f94acd5a8a143": {
+      "text": "$$レイアム$$\n「Understood.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_1263541f4071624e": {
+      "text": "$$ミヒロ$$\n「$c, all units, please launch.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_3bc300bbdc277d82": {
+      "text": "$$シン$$\n「Did they stop $$ギュネイ$$ and the others from launching?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_38762a09460d8b6b": {
+      "text": "$$カミーユ$$\n「Until we know what Neo Zeon plans,\n　there's no other choice.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_7ab28e70b4d4f641": {
+      "text": "$$バナージ$$\n（Ms. $$マリーダ$$...）",
+      "status": "translated"
+    },
+    "stage0075_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$リディ$$\n「Listen, $$バナージ$$?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ec335e69f984b8b3": {
+      "text": "$$バナージ$$\n「Ah, yes...\n　What is it, Ensign $$リディ$$?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_0abcaf0c31978670": {
+      "text": "$$リディ$$\n「What's your relationship with $$オードリー$$?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_1d6bc48b7f246730": {
+      "text": "$$バナージ$$\n「Huh...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_1af20fccc3c53cfc": {
+      "text": "$$リディ$$\n「This is a private channel.\n　No one else can hear us.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_f951916061232dcd": {
+      "text": "$$バナージ$$\n「Our relationship, well...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_4d863c3fb88a4c39": {
+      "text": "$$リディ$$\n「Are you two together?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_44f4742c3dcce39a": {
+      "text": "$$バナージ$$\n「It's not like that...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_9e701cdeb3842c21": {
+      "text": "$$リディ$$\n「Then maybe I've got a shot too?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_6fd81f4abebe60c5": {
+      "text": "$$バナージ$$\n「Ensign $$リディ$$...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_da2132b5038ec737": {
+      "text": "$$リディ$$\n「I like to compete fair and square on\n　things like this. That's why I launched\n　with you today.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_495d61d3ec7e16f2": {
+      "text": "$$リディ$$\n「Seems like you're a bit ahead right now,\n　but from today, we're rivals.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_5cd353758cfe474d": {
+      "text": "$$バナージ$$\n「What made you fall for $$オードリー$$, Ensign?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_a653c8dec4c0f06f": {
+      "text": "$$リディ$$\n「Her eyes, I guess.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_86d493e37a9799a7": {
+      "text": "$$リディ$$\n「Those eyes that seem to see right through\n　everything, yet look a little sad.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_09d0fcc600cdd3df": {
+      "text": "$$バナージ$$\n「I understand.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_182faded068c15ed": {
+      "text": "$$リディ$$\n「The rest can wait.\n　Zeon's here...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_9c206d19bfda4bd5": {
+      "text": "$$刹那$$\n「$$ハマーン・カーン$$'s here...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_6e558bc69acf5bf3": {
+      "text": "$$ロックオン$$\n「A Neo Zeon exec came in person just to\n　announce they're tearing up the treaty!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d60d0818e965232f": {
+      "text": "$$ハマーン$$\n「That's right.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_5b23687574286204": {
+      "text": "$$スメラギ$$\n「Just why!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_6fd86c96891ea942": {
+      "text": "$$ハマーン$$\n「The cause lies with the Earth Federation.\n　We've learned that EFF Supreme Command\n　is preparing a direct strike on the colony.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_43e4e548c0b28376": {
+      "text": "$$ブライト$$\n「What did you say!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d80a9688790ed583": {
+      "text": "$$バナージ$$\n「No way...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_708bea61e3c43ada": {
+      "text": "$$バナージ$$\n「Something like that...!\n　How could that ever be allowed!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_7b6f159eeaf4de0f": {
+      "text": "$$カミーユ$$\n「Calm down, $$バナージ$$!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_0827963cfd706e8d": {
+      "text": "$$バナージ$$\n「But...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$アムロ$$\n（This is bad...\n　Is $$ハマーン$$ trying to rattle\n　us psychologically...!）",
+      "status": "translated"
+    },
+    "stage0075_04:r_3f4035fd9db81258": {
+      "text": "$$ゼロ$$\n「$$ハマーン・カーン$$...\n　Even if that's true, we're an independent\n　unit, outside Supreme Command's authority.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_567b361a454c4b73": {
+      "text": "$$ゼロ$$\n「You should have understood that already.\n　Breaking the treaty here isn't wise,\n　not even for the singularity search.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d22851aaafbbf8fc": {
+      "text": "$$ハマーン$$\n「The situation's changed.\n　It seems even $$シャア$$ couldn't bring himself\n　to trust you all under these circumstances.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_352534f64413d954": {
+      "text": "$$カミーユ$$\n「Are you saying he's given up on us...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_79f2664edb1af798": {
+      "text": "$$キラ$$\n「That's a misunderstanding!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$ハマーン$$\n「Then can you fight the Federation forces\n　to protect the colony?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_1c5aa0d15ae24846": {
+      "text": "$$ゼロ$$\n「If it comes to that, we will.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_53bb64ee17750ee2": {
+      "text": "$$クルツ$$\n「I get how you feel, but isn't that pushing it?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_7a7add80fde475ba": {
+      "text": "$$ティエリア$$\n「But we can't just overlook this.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b2befefdbed1393d": {
+      "text": "$$ブライト$$\n「$$ハマーン・カーン$$.\n　We're currently confirming the situation ourselves.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_2103f6df2ea2e447": {
+      "text": "$$ブライト$$\n「Depending on the situation, we may act too,\n　to stop the attack on the colony.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_a12e3e130d896ff7": {
+      "text": "$$オットー$$\n「Are you sure, Commander $$ブライト$$!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ブライト$$\n「What's the point of an independent unit's\n　authority, then! If we keep overlooking\n　their tyranny, the Federation will collapse!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_91bf33c27ad39f0a": {
+      "text": "$$オットー$$\n「U-Understood!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ee220318b96ab538": {
+      "text": "$$ハマーン$$\n「It seems you're not rotten to the core, after all.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ce1b55e526b6277a": {
+      "text": "$$ブライト$$\n「But you'll explain yourself, $$ハマーン$$.\n　Why did you try to assassinate $$アムロ$$?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_c304df6888eb78f7": {
+      "text": "$$ハマーン$$\n「Assassinate $$アムロ・レイ$$...?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_c26958634526e597": {
+      "text": "$$デュオ$$\n「Even the Iron Lady can't play dumb\n　about something like this.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_cdb750c9d380881a": {
+      "text": "$$刹那$$\n「We've already confirmed the assassin\n　was Neo Zeon.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_95fda74613c97b39": {
+      "text": "$$ハマーン$$\n（So that man's behind this...\n　He's done something needless.）",
+      "status": "translated"
+    },
+    "stage0075_04:r_1956994937f8171e": {
+      "text": "$$ハマーン$$\n（But this is good timing.\n　I'll make use of the situation.）",
+      "status": "translated"
+    },
+    "stage0075_04:r_48f49f6728c15612": {
+      "text": "$$カミーユ$$\n「$$ハマーン$$...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ハマーン$$\n「...If the assassination failed,\n　then we'll settle this head-on.\n　All units, scatter!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_f02c37d91387d0ad": {
+      "text": "$$アムロ$$\n「That's your answer, is it...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$ブライト$$\n「All units, intercept Neo Zeon!\n　$$ネェル・アーガマ$$, hold your position!\n　Detain the Neo Zeon liaison!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_9796b3efa401a303": {
+      "text": "$$ダグザ$$\n「$$コンロイ$$!\n　I'm leaving that to you!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_643b6eebfc0186b3": {
+      "text": "$$コンロイ$$\n「Understood!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_291280e5f7eb9d70": {
+      "text": "$$ハマーン$$\n（If $$マリーダ$$'s aboard, that's convenient.\n　This way, we'll secure Lady $$ミネバ$$.）",
+      "status": "translated"
+    },
+    "stage0075_04:r_32eb462c1b4999cb": {
+      "text": "$$ハマーン$$\n（Forgive me, Lady $$ミネバ$$.\n　I won't let him use you.）",
+      "status": "translated"
+    },
+    "stage0075_04:r_1f4337d6d393fc37": {
+      "text": "$$シン$$\n「So it comes to this, after all...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_4740e748fae085ee": {
+      "text": "$n\n「This is no time for that!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b76524cd840e1d37": {
+      "text": "$$アムロ$$\n（$$シャア$$...!\n　What are you thinking...!）",
+      "status": "translated"
+    },
+    "stage0075_04:r_730ffe18400abfc2": {
+      "text": "$$アムロ$$\n「That's your answer, is it...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ffe0fca26da5cd38": {
+      "text": "$$ブライト$$\n「All units, intercept Neo Zeon!\n　$$ネェル・アーガマ$$, hold your position!\n　Detain the Neo Zeon liaison!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_bfb27f9eb2f7073e": {
+      "text": "$$オットー$$\n「Major $$コンロイ$$!\n　I'm leaving that to you!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_859dfa27bcaafe30": {
+      "text": "$$コンロイ$$\n「Understood!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_71ebf05996a4b0fd": {
+      "text": "$$ハマーン$$\n（If $$マリーダ$$'s aboard, that's convenient.\n　This way, we'll secure Lady $$ミネバ$$.）",
+      "status": "translated"
+    },
+    "stage0075_04:r_6214c11b1bca811e": {
+      "text": "$$ハマーン$$\n（Forgive me, Lady $$ミネバ$$.\n　I won't let him use you.）",
+      "status": "translated"
+    },
+    "stage0075_04:r_8eaf6f3098ffed12": {
+      "text": "$$シン$$\n「So it comes to this, after all...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_cf507214fe955d75": {
+      "text": "$n\n「This is no time for that!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_2113dcbabdfc758a": {
+      "text": "$$アムロ$$\n（$$シャア$$...!\n　What are you thinking...!）",
+      "status": "translated"
+    },
+    "stage0075_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ハマーン$$\n（Hurry, $$マリーダ$$...）",
+      "status": "translated"
+    },
+    "stage0075_04:r_6a74519e1fc29c4b": {
+      "text": "$$ハマーン$$\n（If you fail,\n　I'll have to resort to messier means.）",
+      "status": "translated"
+    },
+    "stage0075_04:r_5b992878fee054b5": {
+      "text": "$$ハマーン$$\n「Tch!\n　As expected, gravity puts us at a disadvantage!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$カミーユ$$\n「That's far enough, $$ハマーン$$!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ハマーン$$\n「If we keep fighting like this,\n　we'll only wear down our forces.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_20cf167c0ec0d4d5": {
+      "text": "$$ブライト$$\n「Major $$コンロイ$$!\n　Report on $$ネェル・アーガマ$$'s status!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b591d812c96c6c99": {
+      "text": "$$コンロイ$$\n「$$ギュネイ$$ and $$クェス$$ took $$ミコット$$ hostage\n　and boarded their mobile suits!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_e350fa099c1ab072": {
+      "text": "$$コンロイ$$\n「It seems $$マリーダ$$'s taken a hostage too!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ブライト$$\n「Just who did they take hostage!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_c33bd700553abf91": {
+      "text": "$$コンロイ$$\n「$$オードリー$$!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_feee5c91826230e1": {
+      "text": "$$バナージ$$\n「What!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_bccc48e1964ad22d": {
+      "text": "$$ハマーン$$\n（I can't spend any more time on this.\n　$$シャア$$... I'll resort to underhanded means.）",
+      "status": "translated"
+    },
+    "stage0075_04:r_f8736aaaa216c766": {
+      "text": "$$ハマーン$$\n「$c, listen well.\n　Cease your resistance at once, and\n　release the Neo Zeon liaison.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d1ec2522c87c361d": {
+      "text": "$$カツ$$\n「You're the ones who broke the ceasefire,\n　and you say that to us!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_3599f0a4343fd95c": {
+      "text": "$$ハマーン$$\n「Is that wise?\n　If this demand isn't met,\n　you'll turn every Zeon citizen against you.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_3bc7834a5bf3ee76": {
+      "text": "$n\n「Earth and the colonies are at war...!\n　What now!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_366814efdc8b5800": {
+      "text": "$$ハマーン$$\n「Then I'll announce that you abducted\n　$$ミネバ・ラオ・ザビ$$ and held her hostage.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_9be1a4c10bb62515": {
+      "text": "$$オットー$$\n「$$ミネバ・ラオ・ザビ$$!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_94a88c90e557e16e": {
+      "text": "$$リディ$$\n「Dozle Zabi's daughter...\n　The last of the Zabi bloodline...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_1c208ca0cbf26f28": {
+      "text": "$$ファ$$\n「She's the hostage...? What's going on...!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_5b7ee307a700171a": {
+      "text": "$$バナージ$$\n「No way...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_8d8f065c932da30a": {
+      "text": "$$ハマーン$$\n「I hear she's been going by $$オードリー・バーン$$.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_f5432119677514f7": {
+      "text": "$$カミーユ$$\n「$$オードリー$$...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_4e5c8e989c4a7691": {
+      "text": "$$リディ$$\n「$$ミネバ$$ Zabi...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_adec86483b13599a": {
+      "text": "$$シン$$\n「Did you know, $$バナージ$$!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_2cf701bbcde3ec13": {
+      "text": "$$バナージ$$\n「N-no...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_c17c58fdba72005e": {
+      "text": "$$バナージ$$\n（So this is what $$フル・フロンタル$$ meant...\n　someone close by that I never understood...）",
+      "status": "translated"
+    },
+    "stage0075_04:r_1fe8564d2b959317": {
+      "text": "$$オットー$$\n「I-If that's true,\n　there's even more reason not to hand her over...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_f527e012803f7f1c": {
+      "text": "$$ハマーン$$\n「Is that wise, Captain?\n　If it comes out you used the Spacenoids'\n　hope as a hostage, $c will be hated.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_4b1247bd3ca4905d": {
+      "text": "$$ハマーン$$\n「That anger and hatred will be stoked\n　by the Earth supremacists' attack on the\n　colony, leading to the worst outcome.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_00c55e25f87b71d0": {
+      "text": "$$アムロ$$\n「Is that what you want?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_338f3b27e51dcc41": {
+      "text": "$$ハマーン$$\n「Don't underestimate me, $$アムロ$$.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d91d4bc2d52b61c4": {
+      "text": "$$アムロ$$\n「Coming from someone propping up the Zabi family now!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_0c8ea89b07432421": {
+      "text": "$$ハマーン$$\n「For now, I'll accept those words.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_4dbfba00ba7744ee": {
+      "text": "$$ハマーン$$\n「Decide, $c.\n　Do you intend to stoke hatred between\n　Earth and the colonies?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_be100a32b731708d": {
+      "text": "$$ブライト$$\n「There's no choice...\n　Release $$ギュネイ$$ and the others.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_702f82442fcec8a9": {
+      "text": "$$オットー$$\n「U-Understood.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b1e38da4e8775ffe": {
+      "text": "$$ミコット$$\n「$$オードリー$$... you...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ミネバ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0075_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$ミコット$$\n「You lied to us... to $$バナージ$$, this whole time!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_3dad695c99e9e052": {
+      "text": "$$ミネバ$$\n「That's not true.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_66d4ae3a21caf881": {
+      "text": "$$ミコット$$\n「Then what were you doing with $c!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_0c18da7b3a37825d": {
+      "text": "$$ミネバ$$\n「I believed there were things only I could\n　do, in my position. And now, I think that\n　time has come.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_63249745ffae61b6": {
+      "text": "$$ミコット$$\n「There's no way I could believe words like that!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_abdb034ae8509702": {
+      "text": "$$ミネバ$$\n「Even so.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_3ff2e21207d1d1d3": {
+      "text": "$$ミコット$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0075_04:r_e51ecf6d6aa42e75": {
+      "text": "$$ミコット$$\n「...Just go, already.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_47ddabb7b60131c2": {
+      "text": "$$ミネバ$$\n「$$ミコット$$...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b025267f22788233": {
+      "text": "$$ミコット$$\n「Don't think I've forgiven you.\n　And if you don't take responsibility...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ec1a06a7023bf72c": {
+      "text": "$$ミネバ$$\n「Those words... I will never forget them.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_8805f96e52aaa462": {
+      "text": "$$マリーダ$$\n「Now then, Lady $$ミネバ$$...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_124591cb154fae64": {
+      "text": "$$ミネバ$$\n（$$バナージ$$...）",
+      "status": "translated"
+    },
+    "stage0075_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_4bf9b05b5f948170": {
+      "text": "$$クェス$$\n「$$ギュネイ$$...\n　Did you know... about her?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_eaa52d152f444bfd": {
+      "text": "$$ギュネイ$$\n「The ones trying to prop up $$ミネバ$$ Zabi\n　are the old guard within Neo Zeon.\n　At least, the Colonel has no such intent.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b4bc9e9435b58e6f": {
+      "text": "$$ギュネイ$$\n「Besides, they kept her existence\n　a closely guarded secret, fearing assassination.\n　Even I only just saw her for the first time.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_a9227573166977a9": {
+      "text": "$$ミネバ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b0600ab9a9e8559d": {
+      "text": "$$マリーダ$$\n「I'm going.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_7cbc63dad295f862": {
+      "text": "$$ミネバ$$\n（$$バナージ$$...）",
+      "status": "translated"
+    },
+    "stage0075_04:r_07f53c816e0a51f5": {
+      "text": "$$バナージ$$\n「$$オードリー$$!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_2d09c6f6a2d990ea": {
+      "text": "$$リディ$$\n「What are you planning to do, $$バナージ$$!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_3c5fcfc484a51913": {
+      "text": "$$バナージ$$\n「I'm saving $$オードリー$$!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_0476ffd10c764b0e": {
+      "text": "$$マリーダ$$\n「What are you doing, $$バナージ$$!?\n　Do you even know what you're doing!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$バナージ$$\n「You must know it too, $$マリーダ$$!\n　That $$オードリー$$ doesn't want to go back!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_2b3479c4cf0680f4": {
+      "text": "$$ミネバ$$\n「!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_e370696b8936b08c": {
+      "text": "$$バナージ$$\n「$$オードリー$$!\n　If you go back to Neo Zeon like this,\n　that man will only use you!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_9d7b02c5e728b7aa": {
+      "text": "$$バナージ$$\n「If you say you're going back of your own will,\n　I won't try to stop you!\n　But you...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_9af213fc64e0afec": {
+      "text": "$$ミネバ$$\n「I...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d7f1c506e78e55ff": {
+      "text": "$$ミネバ$$\n「I am $$ミネバ$$ Zabi.\n　$c, if you wish to be rid of future troubles,\n　you may kill me here.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_0c705091f748360e": {
+      "text": "$$ミネバ$$\n「If you claim to be saving the world, then show me that pride.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_9eb8599304125b2f": {
+      "text": "$$バナージ$$\n「$$オードリー$$!\n　You can't talk like that!\n　You're only cornering others, and yourself!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_a072aa25e5f521e0": {
+      "text": "$$ミネバ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0075_04:r_24e1a808a1609a1a": {
+      "text": "$$マリーダ$$\n「That's enough, $$バナージ$$!\n　Lady $$ミネバ$$ is Neo Zeon's hope!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_53128ce8f154fd06": {
+      "text": "$$マリーダ$$\n「Besides, you must have heard it too!\n　What the Federation Forces are planning!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_03b5db9ce98fb8d6": {
+      "text": "$$バナージ$$\n「Even so!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_3915fb4102f1c1dd": {
+      "text": "$$マリーダ$$\n「!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_817b2773b4ed563e": {
+      "text": "$$ミネバ$$\n「$$バナージ$$!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_1cc233cbc8c80af7": {
+      "text": "$$バナージ$$\n「The hatch...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$マリーダ$$\n「Lady $$ミネバ$$...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_e180b22d18f48d38": {
+      "text": "$$ミネバ$$\n「Aaahh!!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_e598c2a0b27e7f50": {
+      "text": "$$リディ$$\n「Uwooooooooh!!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_4d2a9066c4e7b27f": {
+      "text": "$$リディ$$\n「Are you hurt, $$オードリー$$?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_10340119af3ed6db": {
+      "text": "$$ミネバ$$\n「Thank you, Ensign $$リディ$$.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_23a9c7ab620ab112": {
+      "text": "$$リディ$$\n「This is $$リディ・マーセナス$$.\n　I've secured $$ミネバ$$ Zabi.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_4f0aca6deda07883": {
+      "text": "$$ミネバ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0075_04:r_8fe40600ce62dfbc": {
+      "text": "$$リディ$$\n「Also, from here on, I'm leaving the battlefield.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ff4ce5f3cf96b617": {
+      "text": "$$オットー$$\n「What are you saying!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d73c21f119847e35": {
+      "text": "$$バナージ$$\n「Ensign $$リディ$$...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_89766f5ffaa912d4": {
+      "text": "$$ミネバ$$\n「What are you...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$リディ$$\n「You want to stop the war, don't you?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_451f726d4299ea35": {
+      "text": "$$ミネバ$$\n「Eh...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_e3d111e8bb190cb1": {
+      "text": "$$リディ$$\n「Answer me...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$ミネバ$$\n「For that, I'm even prepared to give up my life.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ab97c2b2418ea732": {
+      "text": "$$リディ$$\n「That resolve... I've taken it to heart.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_2ddff5064af78db4": {
+      "text": "$$ミネバ$$\n「No way...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_050d0532c4b24bfe": {
+      "text": "$$リディ$$\n「For the first time, I'm grateful\n　to be a Marcenas.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d583fcea31bdad2e": {
+      "text": "$$バナージ$$\n「What are you planning to do, Ensign $$リディ$$!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_475f7653621a91b5": {
+      "text": "$$リディ$$\n「This isn't the time to explain in detail.\n　But I intend to find the best way, with her.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_f228ae702350849b": {
+      "text": "$$リディ$$\n「$$ミネバ$$... no, $$オードリー$$,\n　I'll see that she's delivered where she belongs.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d69dc027cba3003f": {
+      "text": "$$バナージ$$\n「$$オードリー$$, tell me just one thing.\n　Is that what you want to do?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_3c3735172a480b72": {
+      "text": "$$ミネバ$$\n「Yes, I believe so.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_1f418b5594cea300": {
+      "text": "$$バナージ$$\n「...I understand.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_f87fb889124bfaef": {
+      "text": "$$バナージ$$\n「Ensign $$リディ$$, I'm trusting you as a man.\n　Take care of $$オードリー$$!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_79c90de32a79212d": {
+      "text": "$$リディ$$\n「I promise.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_33f7fd55913419e8": {
+      "text": "$$リディ$$\n「...That's a killer line.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_473d9a88b4ca96e7": {
+      "text": "$$ミネバ$$\n「Eh...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_4de6ac85c63bac12": {
+      "text": "$$リディ$$\n「This is between men.\n　...I will protect you, no matter what.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_4c92652c9b1adf6f": {
+      "text": "$$オットー$$\n「That young master...!!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ce90563a934d49fb": {
+      "text": "$$ミヒロ$$\n（Ensign $$リディ$$...）",
+      "status": "translated"
+    },
+    "stage0075_04:r_4fb296e63cb1fb46": {
+      "text": "$$マリーダ$$\n「Damn you, Federation Forces!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$ハマーン$$\n「Leave it, $$マリーダ$$...!\n　A clumsy pursuit would put Lady $$ミネバ$$ in danger!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_9dc59affd40f32fc": {
+      "text": "$$マリーダ$$\n「Her Excellency $$ハマーン$$...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_0cea115be526a319": {
+      "text": "$$カミーユ$$\n「$$ハマーン$$...\n　You...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d36072babd12aeb4": {
+      "text": "$$ハマーン$$\n「Don't say unnecessary things, $$カミーユ$$.\n　You're a bit too impertinent.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_09ee921a85025fd3": {
+      "text": "$$カミーユ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0075_04:r_fae689f2a1057b61": {
+      "text": "$$カレン$$\n「Reinforcements...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_91c6d0bb53854ecc": {
+      "text": "$$ハマーン$$\n「Reinforcements have arrived.\n　I'll leave the rest to you, $$ギュネイ$$.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_42a3149105314ab8": {
+      "text": "$$ギュネイ$$\n「Understood」",
+      "status": "translated"
+    },
+    "stage0075_04:r_62ecd978c667bd29": {
+      "text": "$$ハマーン$$\n（Lady $$ミネバ$$... I leave the rest to your judgment.）",
+      "status": "translated"
+    },
+    "stage0075_04:r_d441e6cc908ac01b": {
+      "text": "$$バナージ$$\n「$$ハマーン・カーン$$...\n　That woman... $$オードリー$$...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b2aab8873350ea1f": {
+      "text": "$$マリーダ$$\n「Ngh...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_2c7af4c55d8ac938": {
+      "text": "$$バナージ$$\n「$$マリーダ$$!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_653b741d07545dff": {
+      "text": "$$マリーダ$$\n「The agreement has been broken.\n　From now, you and I are enemies.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d584d4b5af55b1cf": {
+      "text": "$$ギュネイ$$\n「That's how it is, $$カミーユ$$!\n　Now I can settle things with you!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_db0ee69ece206fcd": {
+      "text": "$$カミーユ$$\n「$$ギュネイ$$!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_f97e6925c9e37332": {
+      "text": "$$ブライト$$\n「All units, intercept Neo Zeon!\n　$$ネェル・アーガマ$$, move forward too!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_422861e0b8d77d0c": {
+      "text": "$$オットー$$\n「Understood!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ef16bcaa2b0e0c45": {
+      "text": "$$バナージ$$\n（Ensign $$リディ$$...!\n　Take care of $$オードリー$$!）",
+      "status": "translated"
+    },
+    "stage0075_04:r_2b93cca10f1c36a8": {
+      "text": "$$マリーダ$$\n「Guah!!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_7980fd37141d88d0": {
+      "text": "$$バナージ$$\n「$$マリーダ$$!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ac21212c36d2b9ad": {
+      "text": "$$マリーダ$$\n「Aaaaahh!!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_a26e2108358af7a4": {
+      "text": "$n\n「What's happening!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_a8118b2e37aa1382": {
+      "text": "$$刹那$$\n「Her mind is reaching its limit...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_017a56991b7b8ca4": {
+      "text": "$$スザク$$\n「Its limit!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ad3e1db3419665fb": {
+      "text": "$$カミーユ$$\n「The backlash from her enhancement is hitting her!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_0149e3a5f2e5ef78": {
+      "text": "$$バナージ$$\n「No way...!\n　That can't be...!!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_3ad10e705167a3fa": {
+      "text": "$$バナージ$$\n「$$マリーダ$$!!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_bdc546b199c80996": {
+      "text": "$$マリーダ$$\n「Stay away!\n　Stay awaaaaay!!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_22c8caf8c08c5119": {
+      "text": "$$バナージ$$\n「$$マリーダ$$, don't you recognize me!?\n　$$マリーダ$$!!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_9c13714b3efbc7a8": {
+      "text": "$$マリーダ$$\n「Uwaaaaaaah!!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_96f156e19b53fc09": {
+      "text": "$$バナージ$$\n「To make a person become like this...\n　Is this... what war is...?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_feb0390bba7fe1fb": {
+      "text": "$$バナージ$$\n「Something like this... can't be forgiven!!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_8a78bcec22029401": {
+      "text": "$$カミーユ$$\n「Dodge, $$バナージ$$!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_f42017dfce31dea9": {
+      "text": "$$バナージ$$\n「!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ef7426919f628d8a": {
+      "text": "$$バナージ$$\n「Gwah!!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_9e994a4b926d9906": {
+      "text": "$$ロックオン$$\n「Sniped from ultra-long range!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ffae76d2a77abf5a": {
+      "text": "$$アレルヤ$$\n「Something's coming!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_3ac462d37e5893ff": {
+      "text": "$$バナージ$$\n「$$ギルボア$$... sir...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_fd6bdf7910d7d925": {
+      "text": "$$ギルボア$$\n「Don't think ill of me, $$バナージ$$.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d38be46e6cd7a5e5": {
+      "text": "$$フラスト$$\n「Captain!\n　We've captured the Unicorn!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_3fe2078328753c16": {
+      "text": "$$ジンネマン$$\n「Alright...!\n　$$ガランシェール$$, withdraw!!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_c66844158d1ce600": {
+      "text": "$$フラスト$$\n「$$マリーダ$$ is...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d037ecbc1e348dc9": {
+      "text": "$$ジンネマン$$\n「...Right now, we're under $$フル・フロンタル$$'s command.\n　First, we complete the mission.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_bcd53d14c4785426": {
+      "text": "$$フラスト$$\n「Understood...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_9ca55ea7feca954a": {
+      "text": "$$アムロ$$\n「$$バナージ$$!!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_554ae12c4c170253": {
+      "text": "$$アルベルト$$\n「Th-the Unicorn...!\n　Someone! Do something, fast!!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_fa59c6df081e6ae4": {
+      "text": "$n\n「No good!\n　We can't catch up from here!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ca3edf3b8b52aedf": {
+      "text": "$$ギュネイ$$\n「The withdrawal order's been given.\n　We're falling back too, $$クェス$$.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_aa5d235c78ebe19f": {
+      "text": "$$クェス$$\n「But, $$マリーダ$$...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_0b3b19cddb871f90": {
+      "text": "$$ギュネイ$$\n「If we leave it to $c,\n　nothing bad will happen.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_304e98dac43c9333": {
+      "text": "$$クェス$$\n「Yeah... you're right.」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b740d817a14afd3a": {
+      "text": "$$ギュネイ$$\n（$$マリーダ$$...\n　Live, and let's meet again.）",
+      "status": "translated"
+    },
+    "stage0075_04:r_40e4c010d1b35b4c": {
+      "text": "$$ギュネイ$$\n「The withdrawal order's been given.\n　There's nothing to do but pull back here...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_c33abf00683a32bc": {
+      "text": "$$ギュネイ$$\n（$c...\n　I'm counting on you, look after $$マリーダ$$）",
+      "status": "translated"
+    },
+    "stage0075_04:r_3036adce91d1f4a8": {
+      "text": "$$クェス$$\n「The order to retreat's out...\n　I have to fall back...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_019293cb83599509": {
+      "text": "$$クェス$$\n（I'm counting on you, $c...\n　I'll leave $$マリーダ$$ to you）",
+      "status": "translated"
+    },
+    "stage0075_04:r_9b949b9281aaeef1": {
+      "text": "$$レイアム$$\n「We've lost track of the Neo Zeon unit」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b39a1dd705fe6cbf": {
+      "text": "$$アルベルト$$\n「The truce was broken without warning,\n　the girl we picked up is $$ミネバ$$ Zabi, and\n　the Unicorn's been stolen... What is going on!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_c9016e3ab05470b0": {
+      "text": "$$オットー$$\n「That's what I'd like to know...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_a684e6cea428e518": {
+      "text": "$$ヒイロ$$\n「Is Neo Zeon still after\n　Laplace's Box...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_cf907a4d5de8b5c9": {
+      "text": "$$宗介$$\n「At this stage, what is the point of that...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_a5774604a0f00702": {
+      "text": "$$クルツ$$\n「Beats me.\n　Guess we'll have to ask that $$フル・フロンタル$$\n　guy for the answer」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b4fa30f33e84207f": {
+      "text": "$$キラ$$\n「Where's Ensign $$リディ$$?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_9133b7e0b34de48f": {
+      "text": "$$ミレイナ$$\n「We've completely lost track of them too」",
+      "status": "translated"
+    },
+    "stage0075_04:r_4ae9c4bd77494c4a": {
+      "text": "$$ラッセ$$\n「They blasted off in the $$デルタプラス$$.\n　Can't blame them」",
+      "status": "translated"
+    },
+    "stage0075_04:r_7313331f4077d255": {
+      "text": "$$エマ$$\n「I know where they're headed」",
+      "status": "translated"
+    },
+    "stage0075_04:r_a84ab0c3c1ba44d4": {
+      "text": "$$ハサウェイ$$\n「Is that true, Lieutenant $$エマ$$?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_414e6e90094d1413": {
+      "text": "$$エマ$$\n「I'm sure the Ensign's gone to their father's」",
+      "status": "translated"
+    },
+    "stage0075_04:r_83a9e41e15444c69": {
+      "text": "$$ヒルデ$$\n「Their father...?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_09227dec2bd6f4d8": {
+      "text": "$$ノイン$$\n「$$ローナン・マーセナス$$...\n　A powerful figure in the Earth Federation Assembly」",
+      "status": "translated"
+    },
+    "stage0075_04:r_7b3a37f5039eb1f6": {
+      "text": "$$スズネ$$\n「Then...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_cb6d9ee71c24b042": {
+      "text": "$$ゼクス$$\n「So Ensign $$リディ$$ and $$ミネバ$$ Zabi mean to\n　reach out to the Federation government's\n　core on their own...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ddd97a6ef823929a": {
+      "text": "$$アムロ$$\n「How will that move things along...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_df349052cd9cdd0c": {
+      "text": "$$ギュネイ$$\n「Tch!\n　Did my own needless mercy bring this on!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_a7ce9f908380694c": {
+      "text": "$$マリーダ$$\n「Fall back, $$ギュネイ$$!\n　I'll handle the rest!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_de3cc1f733dcb073": {
+      "text": "$$ギュネイ$$\n「Sorry, $$マリーダ$$!\n　It's yours!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_0835ec3fff318aff": {
+      "text": "$$クェス$$\n「I'm the one who'll repay $$ギュネイ$$'s debt!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_c32efc7394910997": {
+      "text": "$$マリーダ$$\n「Don't push yourself, $$クェス$$.\n　Don't make $$ギュネイ$$ grieve」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b01db8213417811e": {
+      "text": "$$クェス$$\n「Thanks, $$マリーダ$$.\n　But you're the same way too」",
+      "status": "translated"
+    },
+    "stage0075_04:r_bc0273c6ae91c929": {
+      "text": "$$クェス$$\n「If you push yourself, $$マリーダ$$,\n　it'll make me sad too」",
+      "status": "translated"
+    },
+    "stage0075_04:r_8deea7c70d7a76e7": {
+      "text": "$$マリーダ$$\n「Sorry...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_660c72e627d873c7": {
+      "text": "$$マリーダ$$\n（But I'm already...）",
+      "status": "translated"
+    },
+    "stage0075_04:r_5d8b67b5bd8ce190": {
+      "text": "$$クェス$$\n「...No...!\n　I can't fight feeling like this!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_7cf3c91395139f5c": {
+      "text": "$$マリーダ$$\n「Fall back, $$クェス$$.\n　You've grown too attached to $c」",
+      "status": "translated"
+    },
+    "stage0075_04:r_6ccd85652ef4ccf1": {
+      "text": "$$クェス$$\n「Huh...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_fbe7bf7d854012a7": {
+      "text": "$$マリーダ$$\n「Don't push yourself.\n　Leave the rest to me」",
+      "status": "translated"
+    },
+    "stage0075_04:r_1f438885dbc1359e": {
+      "text": "$$クェス$$\n「Okay...\n　Sorry, $$マリーダ$$」",
+      "status": "translated"
+    },
+    "stage0075_04:r_2e59226caa35f6e5": {
+      "text": "$$ギュネイ$$\n「Sorry, $$マリーダ$$.\n　For making you look after $$クェス$$」",
+      "status": "translated"
+    },
+    "stage0075_04:r_5d7a3adb077ad934": {
+      "text": "$$マリーダ$$\n「Don't worry about it.\n　Since I'm the same sex as her, she'll\n　listen to me honestly, at least somewhat」",
+      "status": "translated"
+    },
+    "stage0075_04:r_78d3b2a75e38d6f7": {
+      "text": "$$ギュネイ$$\n「But don't push yourself too hard, $$マリーダ$$.\n　You're...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_8d461de418389bf8": {
+      "text": "$$マリーダ$$\n「I know my own body better than anyone.\n　No need to worry」",
+      "status": "translated"
+    },
+    "stage0075_04:r_5cb2acefa1e7c7fb": {
+      "text": "$$ギュネイ$$\n「I see...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_59ce7fd9524ec8be": {
+      "text": "$$ハサウェイ$$\n「Come back, $$クェス$$!\n　You were doing fine with $c!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_33f67c683bda9203": {
+      "text": "$$クェス$$\n「But...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_476fb20ab9d18957": {
+      "text": "$$ハサウェイ$$\n「$$シャア$$ broke his promise unilaterally\n　and tried to kill $$アムロ$$!\n　How can you trust a man like that!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_6be0d6139fac197c": {
+      "text": "$$クェス$$\n「That's why I'm going back to $$アクシズ$$,\n　to find out what the Colonel's thinking!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_df899b8031b4ca06": {
+      "text": "$$ハサウェイ$$\n「No, $$クェス$$!\n　I won't let you go!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_c5d048c7db7cac75": {
+      "text": "$$クェス$$\n「Please understand, $$ハサウェイ$$!\n　I have to see the Colonel!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_308e8ac66b1141ef": {
+      "text": "$$カミーユ$$\n「$$ハマーン$$!\n　Is this battle $$シャア・アズナブル$$'s true intent!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_64f25294d71a5d55": {
+      "text": "$$ハマーン$$\n「That's right!\n　He too must have understood the Earth\n　Federation's hopeless incompetence!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b6ca80db4741a62c": {
+      "text": "$$カミーユ$$\n「People who only deny each other like that\n　just keep spreading the fighting further!\n　Why can't you or $$シャア$$ see that!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_432a29155221625f": {
+      "text": "$$アムロ$$\n「To think it would end like this...!\n　Seems I thought too highly of\n　both you and $$シャア$$!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_9f7c18d1ea1b55c9": {
+      "text": "$$ハマーン$$\n「$$シャア$$ overrates you all too...!\n　You most of all!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_56688ad8e41b7b42": {
+      "text": "$$アムロ$$\n「But he's not a man to use assassination!\n　Who's really behind this!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_34a510533cb8a9f5": {
+      "text": "$$ハマーン$$\n「Don't get familiar with me, $$アムロ・レイ$$!\n　If you want the truth, ask $$シャア$$ yourself!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_1afedc9fa466f321": {
+      "text": "$$アムロ$$\n「Then I'll beat you and do just that!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_9547b3241808695f": {
+      "text": "$$ハマーン$$\n「So you're $$バナージ・リンクス$$...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_32b2a8ce24deeb9f": {
+      "text": "$$バナージ$$\n「What is this feeling...\n　It's subtly different from hostility...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_c7ef92060bb8199d": {
+      "text": "$$ハマーン$$\n（I'll give you my thanks for protecting her, up until today）",
+      "status": "translated"
+    },
+    "stage0075_04:r_1be6d12f616f04e4": {
+      "text": "$$ハマーン$$\n（But battle is a different matter...!\n　To stop his pointless scheme,\n　I'll destroy that machine!）",
+      "status": "translated"
+    },
+    "stage0075_04:r_80f948aeaed93de8": {
+      "text": "$$シン$$\n「Why widen this fight!\n　Do you even get what's at stake right now!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_0d24e9726dcc79f9": {
+      "text": "$$ハマーン$$\n「That's exactly why we strike the Federation!\n　Do that, and the obstacle to the\n　singularity search disappears too!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_da648116badd491a": {
+      "text": "$$シン$$\n「You're going about this all wrong!\n　Do you want a war that badly!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_4e91ccecf1dd0f66": {
+      "text": "$$キラ$$\n「Please, stop this fight!\n　You and $$シャア・アズナブル$$ should be able\n　to find a better way!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_668b7114a3ac1d77": {
+      "text": "$$ハマーン$$\n「At that rate, Earth won't last!\n　What we need are results!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ef339c6f71e7560f": {
+      "text": "$$キラ$$\n「If doing that makes someone grieve...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ce68dd10a19e01ea": {
+      "text": "$$キラ$$\n「I'll stop you!\n　That's the fight we're fighting!!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_13ce8d4e4858b193": {
+      "text": "$$刹那$$\n「Why do you refuse?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_075101b23517fbaa": {
+      "text": "$$ハマーン$$\n「What!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_13c2ae299018c9ee": {
+      "text": "$$刹那$$\n「Why won't you try to understand each other?\n　You should be able to do it!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_6f4f8dd80820f5e7": {
+      "text": "$$ハマーン$$\n「Another rude man forcing his way into people's hearts!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_afa513b4815df4c9": {
+      "text": "$$ハマーン$$\n「I'll teach you too!\n　That entering another's heart takes\n　qualifications to match!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_6cf1e5ed68d98bd4": {
+      "text": "$$ゼロ$$\n「So this is $$シャア・アズナブル$$'s choice!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_e62eb587b8d34cb9": {
+      "text": "$$ハマーン$$\n「Even a man like you couldn't see it coming」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d72cc2c0739c9088": {
+      "text": "$$ゼロ$$\n「Of course, I'd considered it.\n　But I didn't want to believe it」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ecf4e1c8c0f8d2d7": {
+      "text": "$$ゼロ$$\n「If that man meant to carry the whole world\n　alone, we were going to lighten\n　that burden for him!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_e5a692ea5ce09cac": {
+      "text": "$$ハマーン$$\n「That's my role!\n　I'll eliminate you here, for leading $$シャア$$ astray!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_e793fc3ce3a0c28d": {
+      "text": "$$ギュネイ$$\n「Guess it really was our fate to end up like this!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_2be6c657d0e12c4b": {
+      "text": "$$カミーユ$$\n「$$ギュネイ$$!\n　Fighting us should have shown you\n　just what state this world's in!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_f89f6c6c4b076e16": {
+      "text": "$$ギュネイ$$\n「You're right about that!\n　That's why I'll strike you down,\n　not as myself, but as a Neo Zeon soldier!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_7569f965fff4d791": {
+      "text": "$$ギュネイ$$\n「If the Colonel says he'll save the world,\n　then I'll lend him my strength!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b43bdba9393d4d68": {
+      "text": "$$カミーユ$$\n「If that's how it is, I'll be your opponent!\n　Here I come, $$ギュネイ$$!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_3ec159d1a3492877": {
+      "text": "$$シン$$\n「And here I thought we might actually\n　get along, you and I...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_4e2fbafa9ebef558": {
+      "text": "$$ギュネイ$$\n「Yeah, I thought so too, $$シン$$」",
+      "status": "translated"
+    },
+    "stage0075_04:r_bde2e27bac7e3317": {
+      "text": "$$シン$$\n「$$ギュネイ$$...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_631834aa1545ba7b": {
+      "text": "$$ギュネイ$$\n「But I'm a Neo Zeon soldier!\n　If the Colonel says he'll save the world,\n　I'll fight with everything I've got!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_0cd6aab432ee5af7": {
+      "text": "$$シン$$\n「You stubborn fool!\n　Don't you get that choosing war as\n　your answer is exactly the problem!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_c8b75f3bca245a85": {
+      "text": "$$ギュネイ$$\n「I've got no interest in Laplace's Box!\n　I won't hold back, $$バナージ$$!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b26be73e3c0c8bed": {
+      "text": "$$バナージ$$\n「Do we really have to fight, $$ギュネイ$$!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_1a4dc288e81719ee": {
+      "text": "$$ギュネイ$$\n「Seems that's just our fate!\n　Don't take it personally!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b8902c992035da79": {
+      "text": "$$クェス$$\n「Listen, $$アムロ$$!\n　It wasn't the Colonel who tried to\n　assassinate you! It has to be him!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_df10ad0a71c307da": {
+      "text": "$$アムロ$$\n「I know that, $$クェス$$」",
+      "status": "translated"
+    },
+    "stage0075_04:r_9293c52555ba1457": {
+      "text": "$$クェス$$\n「Really!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_6c41647935e2574a": {
+      "text": "$$アムロ$$\n「But if $$シャア$$ starts this fight again,\n　I'll be the one to stop him!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_ca702b5726ebd4da": {
+      "text": "$$アムロ$$\n「If he wants to settle this, I'll meet him head-on!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_51ce1d8caa34c103": {
+      "text": "$$クェス$$\n「Hasa!\n　If you say you've gotten stronger, show me!\n　You won't lose to the Colonel, right!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d00313056b19262c": {
+      "text": "$$ハサウェイ$$\n「Right now, I still might not beat $$シャア$$...!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d41f1e36365baa6f": {
+      "text": "$$ハサウェイ$$\n「But someday, I'll surpass the Red Comet,\n　I swear it! And I'll win you back!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_2c37dd5b8f919a88": {
+      "text": "$$クェス$$\n「Here I come, Hasa!\n　If you can't even beat me,\n　beating the Colonel's just a pipe dream!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_53f5199f05a9aad8": {
+      "text": "$$バナージ$$\n「$$マリーダ$$!\n　Why...!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_c6937f14a8985c35": {
+      "text": "$$マリーダ$$\n「Say nothing, $$バナージ$$.\n　Our paths won't cross again」",
+      "status": "translated"
+    },
+    "stage0075_04:r_07513334490fbdf9": {
+      "text": "$$バナージ$$\n「I can't accept that!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d90c4affdd742a0e": {
+      "text": "$$マリーダ$$\n「If you can't accept it, then let yourself\n　be struck down! That's what war is!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_082a55c75a163780": {
+      "text": "$$バナージ$$\n「There's nothing... left but to fight!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_fa09fad95980b867": {
+      "text": "$$カミーユ$$\n「Stop this, $$マリーダ$$!\n　Your body...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_f5507082e5c31362": {
+      "text": "$$マリーダ$$\n「I'm your enemy!\n　Can you afford needless mercy for an enemy!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_3c9956c9d519d2a2": {
+      "text": "$$カミーユ$$\n「$$マリーダ$$...」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d150caab246bbd7a": {
+      "text": "$$マリーダ$$\n（You're kind, $$カミーユ$$...\n　If he's guided by you, $$バナージ$$\n　will surely grow into a strong, kind man...）",
+      "status": "translated"
+    },
+    "stage0075_04:r_d23d30b65284f69d": {
+      "text": "$$ハマーン$$\n「This unit's pilot...!\n　Seems you've gotten better!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b2f67d46499f2bbd": {
+      "text": "$n\n「I'm desperate too!\n　Dealing with a stubborn fool like you\n　takes everything I've got!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_fc1b13eaa4071b9a": {
+      "text": "$$ハマーン$$\n「Quite the mouth on you, boy!\n　Facing you, I might enjoy being just\n　a pilot again!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_c4cdd41ba9207e9c": {
+      "text": "$n\n「I'll turn that smirk into terror, $$ハマーン・カーン$$!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_c33c28fb471faf59": {
+      "text": "$$ボン太くん#pilot$$\n「Fumofumo, fumomo!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_d0fc4899507f74b2": {
+      "text": "$$ハマーン$$\n「You're just like $$シャア$$!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_11f13ec5326eaa51": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo!?」",
+      "status": "translated"
+    },
+    "stage0075_04:r_b69df689192adfc2": {
+      "text": "$$ハマーン$$\n「Enjoying leading me astray like that!?\n　Know your shame, you beast!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_8a9ac301023aa8d3": {
+      "text": "$$ボン太くん#pilot$$\n「F-fumomo, fumoo!」",
+      "status": "translated"
+    },
+    "stage0075_04:r_e4ae97a37c9b0cce": {
+      "text": "$n\n「Ah!」",
+      "status": "translated"
+    }
+  }
+}

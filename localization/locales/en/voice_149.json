@@ -1,0 +1,658 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_149:r_479b340ccc6c572b": {
+      "text": "This will finish you!",
+      "status": "imported"
+    },
+    "voice_149:r_ca4acbac57a2a35e": {
+      "text": "We shall never know defeat!",
+      "status": "imported"
+    },
+    "voice_149:r_70b9c4b9f1f37eff": {
+      "text": "You won't reach the Grand Cathedral!",
+      "status": "imported"
+    },
+    "voice_149:r_9fcb3754cb1773c7": {
+      "text": "Martial skill brings all harmony!",
+      "status": "imported"
+    },
+    "voice_149:r_3559d2fad32c2435": {
+      "text": "True harmony lies in martial skill!",
+      "status": "imported"
+    },
+    "voice_149:r_f7570547e9f80a64": {
+      "text": "Through battle, we seek God's path!",
+      "status": "imported"
+    },
+    "voice_149:r_cbab0f4720e1fcf1": {
+      "text": "Battle itself is peace!",
+      "status": "imported"
+    },
+    "voice_149:r_0bbe0b4f5364e732": {
+      "text": "Allegium's glory is with us!",
+      "status": "imported"
+    },
+    "voice_149:r_5dda5198137cb02a": {
+      "text": "Conflict is the doctrine of Martial!",
+      "status": "imported"
+    },
+    "voice_149:r_83ec59afbecdec14": {
+      "text": "Your very existence is forbidden!",
+      "status": "imported"
+    },
+    "voice_149:r_e20bfd42ad95a3c9": {
+      "text": "You dare defile the holy land!",
+      "status": "imported"
+    },
+    "voice_149:r_0f58a8822381e57f": {
+      "text": "I merely follow our doctrine!",
+      "status": "imported"
+    },
+    "voice_149:r_6dbcc507fb61b51d": {
+      "text": "They've breached the holy land?!",
+      "status": "imported"
+    },
+    "voice_149:r_b42ab697149a7c8a": {
+      "text": "Receive divine punishment!",
+      "status": "imported"
+    },
+    "voice_149:r_4de4fcf3b440baf4": {
+      "text": "You won't get away with this!",
+      "status": "imported"
+    },
+    "voice_149:r_0121a166c715cdff": {
+      "text": "Just as we predicted!",
+      "status": "imported"
+    },
+    "voice_149:r_30fad37a42bd3ad3": {
+      "text": "Learn your place!",
+      "status": "imported"
+    },
+    "voice_149:r_80a0b2a84e05d81a": {
+      "text": "If this works!",
+      "status": "imported"
+    },
+    "voice_149:r_4a9ac1dff86506d9": {
+      "text": "This is the end!",
+      "status": "imported"
+    },
+    "voice_149:r_bc8538e6af3d2577": {
+      "text": "Take this!",
+      "status": "imported"
+    },
+    "voice_149:r_924516c8de2b5342": {
+      "text": "Prepare yourself!",
+      "status": "imported"
+    },
+    "voice_149:r_da1174533722333f": {
+      "text": "You're mine!",
+      "status": "imported"
+    },
+    "voice_149:r_fdeb8162976e72c1": {
+      "text": "I dedicate this battle to our god!",
+      "status": "imported"
+    },
+    "voice_149:r_0fadb5c26df92b42": {
+      "text": "Skill will make up for the size gap!",
+      "status": "imported"
+    },
+    "voice_149:r_6b15af9a0057cdc8": {
+      "text": "I see you're an ace pilot!",
+      "status": "imported"
+    },
+    "voice_149:r_15b4a90140e8a33a": {
+      "text": "First, I'll sink the battleship!",
+      "status": "imported"
+    },
+    "voice_149:r_af884a6b11dff121": {
+      "text": "If I get in close, I can win!",
+      "status": "imported"
+    },
+    "voice_149:r_ac6fe7838e95647b": {
+      "text": "A machine...?! No, a giant?!",
+      "status": "imported"
+    },
+    "voice_149:r_77ca87eacd17ad52": {
+      "text": "Black Knights remnants still live?!",
+      "status": "imported"
+    },
+    "voice_149:r_bf3244994760e535": {
+      "text": "A KMF is our opponent!",
+      "status": "imported"
+    },
+    "voice_149:r_aabfb21c9d069ce7": {
+      "text": "We won't lose to Mithril mercs!",
+      "status": "imported"
+    },
+    "voice_149:r_02479dc8fe989560": {
+      "text": "An AS negates the size disadvantage!",
+      "status": "imported"
+    },
+    "voice_149:r_a2df00f91a9b0a9e": {
+      "text": "Target: high-mobility variable unit!",
+      "status": "imported"
+    },
+    "voice_149:r_48b60d6c48b9b142": {
+      "text": "I must protect His Holiness!",
+      "status": "imported"
+    },
+    "voice_149:r_8927e6fb681aa809": {
+      "text": "I've heard the rumors, Gundam!",
+      "status": "imported"
+    },
+    "voice_149:r_665f01666859013b": {
+      "text": "Take out the commander to sow chaos!",
+      "status": "imported"
+    },
+    "voice_149:r_a571eec59b258d11": {
+      "text": "If I strike the right place...!",
+      "status": "imported"
+    },
+    "voice_149:r_ddbe581c5ea9183d": {
+      "text": "I'll run circles around you!",
+      "status": "imported"
+    },
+    "voice_149:r_faae935cca0edc72": {
+      "text": "A Quent mercenary...!",
+      "status": "imported"
+    },
+    "voice_149:r_d4430bf362340b32": {
+      "text": "That's the man who killed God...!",
+      "status": "imported"
+    },
+    "voice_149:r_6ff1323b355593e0": {
+      "text": "Mutants have no right to exist!",
+      "status": "imported"
+    },
+    "voice_149:r_b7b5625d7cd4282f": {
+      "text": "The Untouchable must not exist!",
+      "status": "imported"
+    },
+    "voice_149:r_36133ad73a73ef98": {
+      "text": "I'll stop you, whatever it takes!",
+      "status": "imported"
+    },
+    "voice_149:r_920740a0219c5085": {
+      "text": "We must eliminate them at once...!",
+      "status": "imported"
+    },
+    "voice_149:r_a8451712c57c1a72": {
+      "text": "To think we let them infiltrate...!",
+      "status": "imported"
+    },
+    "voice_149:r_3633df5b7b8f47fa": {
+      "text": "I offer this Gundam battle to God!",
+      "status": "imported"
+    },
+    "voice_149:r_0c0775e051211840": {
+      "text": "I allowed a counterattack?!",
+      "status": "imported"
+    },
+    "voice_149:r_a2afffe1c396f0b3": {
+      "text": "Now we'll take the offensive!",
+      "status": "imported"
+    },
+    "voice_149:r_13c25fbdfddc8a24": {
+      "text": "If you insist on opposing us...!",
+      "status": "imported"
+    },
+    "voice_149:r_42ba1ecb310b4bd7": {
+      "text": "You're in range...! Counterattack!",
+      "status": "imported"
+    },
+    "voice_149:r_d692f1d420460a47": {
+      "text": "You won't escape!",
+      "status": "imported"
+    },
+    "voice_149:r_a5643cec86b18bd2": {
+      "text": "This is the doctrine of Martial!",
+      "status": "imported"
+    },
+    "voice_149:r_68f2dfab20a4a30e": {
+      "text": "Pay for defying God!",
+      "status": "imported"
+    },
+    "voice_149:r_9cedad8237480563": {
+      "text": "We will smite the Order's foes!",
+      "status": "imported"
+    },
+    "voice_149:r_a03fabecba1508ca": {
+      "text": "Did you think we'd go quietly?!",
+      "status": "imported"
+    },
+    "voice_149:r_5391b24a71eb10ae": {
+      "text": "I'll teach you the will of God!",
+      "status": "imported"
+    },
+    "voice_149:r_a554ceef5c87b972": {
+      "text": "I'm following up with an attack!",
+      "status": "imported"
+    },
+    "voice_149:r_546c3d5937fbb7ee": {
+      "text": "I'll provide support!",
+      "status": "imported"
+    },
+    "voice_149:r_1568ff6298b12b96": {
+      "text": "Leave the rest to me!",
+      "status": "imported"
+    },
+    "voice_149:r_2c9d94ba13c5fc50": {
+      "text": "I'll follow the Shield of Order!",
+      "status": "imported"
+    },
+    "voice_149:r_a77f4913375098d2": {
+      "text": "Lady Teitania, allow me to assist!",
+      "status": "imported"
+    },
+    "voice_149:r_428c2116ac3071b1": {
+      "text": "This isn't over yet!",
+      "status": "imported"
+    },
+    "voice_149:r_84c116267b79f540": {
+      "text": "This time, I'll finish you!",
+      "status": "imported"
+    },
+    "voice_149:r_dad38ee29af2df3a": {
+      "text": "N-no! Aaaaaagh!",
+      "status": "imported"
+    },
+    "voice_149:r_3d32e86f8dc80909": {
+      "text": "Eject! This machine won't last!",
+      "status": "imported"
+    },
+    "voice_149:r_70451ffbabe2f876": {
+      "text": "So strong...! I can't defeat them!",
+      "status": "imported"
+    },
+    "voice_149:r_69dfa1659715e2fa": {
+      "text": "R-regrettably, I must abandon it!",
+      "status": "imported"
+    },
+    "voice_149:r_d996fd6d4ef5b329": {
+      "text": "I-is this too a trial from my god?!",
+      "status": "imported"
+    },
+    "voice_149:r_8ab47a28f99ef565": {
+      "text": "Glory to Martial!",
+      "status": "imported"
+    },
+    "voice_149:r_546de3fb6db156ea": {
+      "text": "Forgive me, Your Holiness...!",
+      "status": "imported"
+    },
+    "voice_149:r_ca85f87cee5e31f7": {
+      "text": "I won't die! I'll return to battle!",
+      "status": "imported"
+    },
+    "voice_149:r_9072ea7bc71df136": {
+      "text": "I-it truly lives up to its name...!",
+      "status": "imported"
+    },
+    "voice_149:r_04e815a8d425827d": {
+      "text": "They're truly the Untouchable...!",
+      "status": "imported"
+    },
+    "voice_149:r_d89011fe3e5d082a": {
+      "text": "Reconsider, Your Holiness! They...",
+      "status": "imported"
+    },
+    "voice_149:r_3c5b0c2ac812d5de": {
+      "text": "Th-the Untouchable,\\nChirico Cuvie!",
+      "status": "imported"
+    },
+    "voice_149:r_5b9e8897190892eb": {
+      "text": "No! They're truly a forbidden being!",
+      "status": "imported"
+    },
+    "voice_149:r_7bea3023abbf8a94": {
+      "text": "A Quent, indeed!\\nNo easy foe!",
+      "status": "imported"
+    },
+    "voice_149:r_dd01a4c0d1b36a8d": {
+      "text": "No! Their power is far too great!",
+      "status": "imported"
+    },
+    "voice_149:r_20920ad2eb3542db": {
+      "text": "That power...! A true giant god!",
+      "status": "imported"
+    },
+    "voice_149:r_0ab7914877fd48ed": {
+      "text": "C-could they be the fabled taboo?!",
+      "status": "imported"
+    },
+    "voice_149:r_c958860b0676b1f5": {
+      "text": "They entered the forbidden realm?!",
+      "status": "imported"
+    },
+    "voice_149:r_7847e0ed7dc9282d": {
+      "text": "Gundam! Stronger than the rumors!",
+      "status": "imported"
+    },
+    "voice_149:r_e42b52c7a987b906": {
+      "text": "I can't fight an attack from above!",
+      "status": "imported"
+    },
+    "voice_149:r_6825fd1ff907bd22": {
+      "text": "Strong...!\\nTrue warriors by trade!",
+      "status": "imported"
+    },
+    "voice_149:r_607f666f1563bc0d": {
+      "text": "Cursed Black Knights ghosts!",
+      "status": "imported"
+    },
+    "voice_149:r_97b7431eeb81e6b6": {
+      "text": "Is that thing a monster...?!",
+      "status": "imported"
+    },
+    "voice_149:r_132f605d02975e71": {
+      "text": "Ngh! My armor won't last!",
+      "status": "imported"
+    },
+    "voice_149:r_9b9726b1872759d6": {
+      "text": "What's going on?! Am I losing?!",
+      "status": "imported"
+    },
+    "voice_149:r_1252db29683fefe0": {
+      "text": "No! At this rate, my machine...!",
+      "status": "imported"
+    },
+    "voice_149:r_ad3d538f1e909184": {
+      "text": "Defeat... is not permitted!",
+      "status": "imported"
+    },
+    "voice_149:r_8c61c59a1c0aebbf": {
+      "text": "To fight on is faith in my god!",
+      "status": "imported"
+    },
+    "voice_149:r_aba6a7662129d8ce": {
+      "text": "I'll pass this trial at any cost!",
+      "status": "imported"
+    },
+    "voice_149:r_b84afafb8a33ec60": {
+      "text": "Is this also God's providence...?!",
+      "status": "imported"
+    },
+    "voice_149:r_c8c59db85bf875e6": {
+      "text": "Not yet! I must fulfill my duty...!",
+      "status": "imported"
+    },
+    "voice_149:r_391aa56435d9dd6e": {
+      "text": "If I must, I'll ram them to a stop!",
+      "status": "imported"
+    },
+    "voice_149:r_7c796ba53bd7ea03": {
+      "text": "It moves!\\nI serve our creed of war!",
+      "status": "imported"
+    },
+    "voice_149:r_fa944da4b6519006": {
+      "text": "The faithful of Martial only fight!",
+      "status": "imported"
+    },
+    "voice_149:r_d3f01de714c015bd": {
+      "text": "We're being pushed back...?!",
+      "status": "imported"
+    },
+    "voice_149:r_7d2617c809fead70": {
+      "text": "Ugh! Was I too slow to react?!",
+      "status": "imported"
+    },
+    "voice_149:r_ceb935ccbf830724": {
+      "text": "This act is rebellion against God!",
+      "status": "imported"
+    },
+    "voice_149:r_862ef7385bf2abd4": {
+      "text": "Damn you, harbingers of disaster...!",
+      "status": "imported"
+    },
+    "voice_149:r_001cbec4d9a4283f": {
+      "text": "I must regain my footing at once...!",
+      "status": "imported"
+    },
+    "voice_149:r_8ad40afecd02b41e": {
+      "text": "No...! I must never suffer defeat!",
+      "status": "imported"
+    },
+    "voice_149:r_26e5efec03c03d78": {
+      "text": "Damn it! Why has it come to this?!",
+      "status": "imported"
+    },
+    "voice_149:r_4ad81e88c7557a8b": {
+      "text": "That one...! No ordinary foe!",
+      "status": "imported"
+    },
+    "voice_149:r_1f65a7af190e4674": {
+      "text": "Martial's faithful never retreat!",
+      "status": "imported"
+    },
+    "voice_149:r_40c5a9358ed5bf29": {
+      "text": "Is my faith being tested?!",
+      "status": "imported"
+    },
+    "voice_149:r_f2e18dfdfe0c89ea": {
+      "text": "So much for being a mutant!",
+      "status": "imported"
+    },
+    "voice_149:r_cf7dbf49e96a5755": {
+      "text": "The Untouchable legend is a sham!",
+      "status": "imported"
+    },
+    "voice_149:r_fa96676cc65bb509": {
+      "text": "Quent fool! Your efforts are futile!",
+      "status": "imported"
+    },
+    "voice_149:r_4e37f92e7d2fc62e": {
+      "text": "You oversized, useless dummy...!",
+      "status": "imported"
+    },
+    "voice_149:r_66ab4cfe1557909d": {
+      "text": "Size does not decide a battle!",
+      "status": "imported"
+    },
+    "voice_149:r_0bad405ee6ca63ba": {
+      "text": "Even Gundam's power has its limits!",
+      "status": "imported"
+    },
+    "voice_149:r_2072eaf71a260ae7": {
+      "text": "Mercenaries are nothing to fear!",
+      "status": "imported"
+    },
+    "voice_149:r_6c13bbfd27a7799e": {
+      "text": "Did they catch me off guard?!",
+      "status": "imported"
+    },
+    "voice_149:r_06f88dcbd3c9e738": {
+      "text": "The damage is minimal!",
+      "status": "imported"
+    },
+    "voice_149:r_b28faf9f71bc3598": {
+      "text": "The armor stopped it!",
+      "status": "imported"
+    },
+    "voice_149:r_8a29278549f8e07a": {
+      "text": "How feeble!",
+      "status": "imported"
+    },
+    "voice_149:r_7e6c573c26177f98": {
+      "text": "Our faith is ironclad!",
+      "status": "imported"
+    },
+    "voice_149:r_45abf84f7757d6eb": {
+      "text": "That was nothing but a lucky hit!",
+      "status": "imported"
+    },
+    "voice_149:r_edd7a13ab8f06a14": {
+      "text": "Your aim was the only good part!",
+      "status": "imported"
+    },
+    "voice_149:r_8165e5b41f0124c4": {
+      "text": "Is that all you can do?!",
+      "status": "imported"
+    },
+    "voice_149:r_4e05581b7432cce8": {
+      "text": "This too is God's protection!",
+      "status": "imported"
+    },
+    "voice_149:r_a60b107ea3c36a86": {
+      "text": "This won't\\nbreak our faith!",
+      "status": "imported"
+    },
+    "voice_149:r_625664af02183c17": {
+      "text": "You utter fool!",
+      "status": "imported"
+    },
+    "voice_149:r_3701cba361f80ea5": {
+      "text": "It seems you're nothing special!",
+      "status": "imported"
+    },
+    "voice_149:r_63f429c5c68c0863": {
+      "text": "Too slow, you witless fool!",
+      "status": "imported"
+    },
+    "voice_149:r_38e4a434c91d8ef0": {
+      "text": "It seems our mobility is superior!",
+      "status": "imported"
+    },
+    "voice_149:r_98ed411352a3a6ac": {
+      "text": "Begone at once!",
+      "status": "imported"
+    },
+    "voice_149:r_4824bea6bab3af67": {
+      "text": "This is a trivial matter!",
+      "status": "imported"
+    },
+    "voice_149:r_862b92e63adb9734": {
+      "text": "Pathetic! Will you still struggle?!",
+      "status": "imported"
+    },
+    "voice_149:r_cb306ef55e49d107": {
+      "text": "We dedicate our victory to God!",
+      "status": "imported"
+    },
+    "voice_149:r_57b2bd2de8a1408d": {
+      "text": "Behold the majesty of God!",
+      "status": "imported"
+    },
+    "voice_149:r_76f080a4881e8ab5": {
+      "text": "Don't you see that it's useless?!",
+      "status": "imported"
+    },
+    "voice_149:r_d249d68bada91ab9": {
+      "text": "Why?! Why can't I counterattack?!",
+      "status": "imported"
+    },
+    "voice_149:r_e9b3307e9eb69f11": {
+      "text": "I let the enemy go... Such disgrace!",
+      "status": "imported"
+    },
+    "voice_149:r_03cdac73042343ee": {
+      "text": "Must I simply let them get away?!",
+      "status": "imported"
+    },
+    "voice_149:r_6026da5acbda7c69": {
+      "text": "Damn! I can't attack...!",
+      "status": "imported"
+    },
+    "voice_149:r_981f8fedd5414fe5": {
+      "text": "Damn it! Is there nothing I can do?!",
+      "status": "imported"
+    },
+    "voice_149:r_96bb0dcde0c8c44a": {
+      "text": "Where are they?! Where did they go?!",
+      "status": "imported"
+    },
+    "voice_149:r_641550a2f54cb456": {
+      "text": "How could this be?! God, forgive me!",
+      "status": "imported"
+    },
+    "voice_149:r_a0f2074af8debbfa": {
+      "text": "Damn! I hate that they're better!",
+      "status": "imported"
+    },
+    "voice_149:r_ec349c8ea9511a18": {
+      "text": "I won't let you harm my comrade!",
+      "status": "imported"
+    },
+    "voice_149:r_33236ffa3ea95b68": {
+      "text": "Damn it! What are you doing?!",
+      "status": "imported"
+    },
+    "voice_149:r_689d0b123de71ae0": {
+      "text": "Fall back while you can!",
+      "status": "imported"
+    },
+    "voice_149:r_84883aa95f63ce32": {
+      "text": "I must protect the Shield of Order!",
+      "status": "imported"
+    },
+    "voice_149:r_25493e978ce8ff16": {
+      "text": "Lady Teitania, fall back!",
+      "status": "imported"
+    },
+    "voice_149:r_7316666150e42960": {
+      "text": "I'll take the lead!",
+      "status": "imported"
+    },
+    "voice_149:r_c4f11aa93dc5b668": {
+      "text": "I'll hold them off!",
+      "status": "imported"
+    },
+    "voice_149:r_ce1a22dfe3a4d339": {
+      "text": "I'll launch a feint!",
+      "status": "imported"
+    },
+    "voice_149:r_240651adab81e145": {
+      "text": "Focus your attacks!",
+      "status": "imported"
+    },
+    "voice_149:r_cff0deaae73c2858": {
+      "text": "I'll stop them before they start!",
+      "status": "imported"
+    },
+    "voice_149:r_dca67f68a573fab7": {
+      "text": "Target confirmed!",
+      "status": "imported"
+    },
+    "voice_149:r_a6630215fefaf294": {
+      "text": "A worthy opponent!",
+      "status": "imported"
+    },
+    "voice_149:r_6f94566ad37f8ff8": {
+      "text": "If it's one-on-one!",
+      "status": "imported"
+    },
+    "voice_149:r_942ca03c9de80143": {
+      "text": "Leave this front to me!",
+      "status": "imported"
+    },
+    "voice_149:r_d8c669c70659e18a": {
+      "text": "I'm your opponent!",
+      "status": "imported"
+    },
+    "voice_149:r_8f5bade7ac2db78e": {
+      "text": "I'm closing the distance!",
+      "status": "imported"
+    },
+    "voice_149:r_05ea490d2f522520": {
+      "text": "I'll force this into close combat!",
+      "status": "imported"
+    },
+    "voice_149:r_f5658c702d91db7a": {
+      "text": "Then I'll fight you at close range!",
+      "status": "imported"
+    },
+    "voice_149:r_686df329b50f195b": {
+      "text": "Target acquired!",
+      "status": "imported"
+    },
+    "voice_149:r_25f0ab0fa3cf690c": {
+      "text": "I've got you!",
+      "status": "imported"
+    },
+    "voice_149:r_b708a1d959013dbf": {
+      "text": "This close, I'll hit you dead on!",
+      "status": "imported"
+    }
+  }
+}

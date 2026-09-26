@@ -1,0 +1,674 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0044b_04:r_caaab7bad760e16d": {
+      "text": "$$グーラ$$\n「So that blue star is Earth...」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_99b162aa6aa286a2": {
+      "text": "$$正太郎$$\n「Yeah... that's our planet.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_58fb02434a1c40b2": {
+      "text": "$$ワッ太$$\n「Pretty planet, right?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_1c0f94acd5a8a143": {
+      "text": "$$グーラ$$\n「True enough.\n　I'll grant you that.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_1263541f4071624e": {
+      "text": "$$タケル$$\n「$$グーラ$$ and $$正太郎$$'s group got real close\n　on the way to Earth.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_3bc300bbdc277d82": {
+      "text": "$$ロゼ$$\n「Even from different planets, they're close in age.\n　No wonder they hit it off.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_38762a09460d8b6b": {
+      "text": "$$マッキー$$\n「But you know, $$グーラ$$\n　has an elegance $$正太郎$$ and $$ワッ太$$ lack.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_7ab28e70b4d4f641": {
+      "text": "$$さやか$$\n「Heh... seems $$マッキー$$ has her eye on $$グーラ$$.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$マッキー$$\n「Maybe $$グーラ$$ is\n　a prince from some planet, don't you think?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_ec335e69f984b8b3": {
+      "text": "$$甲児$$\n「Whoa, hold on!\n　Dumping $$正太郎$$ for $$グーラ$$?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_0abcaf0c31978670": {
+      "text": "$$マッキー$$\n「Oh, come on, $$甲児$$!\n　It's not like that with me and $$正太郎$$!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_1d6bc48b7f246730": {
+      "text": "$$ワッ太$$\n「$$正太郎$$...\n　$$マッキー$$'s saying something.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_1af20fccc3c53cfc": {
+      "text": "$$正太郎$$\n「Just ignore them.\n　...$$グーラ$$, once we land,\n　I'll show you all kinds of places.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_f951916061232dcd": {
+      "text": "$$グーラ$$\n「There's no need.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_4d863c3fb88a4c39": {
+      "text": "$$正太郎$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_44f4742c3dcce39a": {
+      "text": "$$グーラ$$\n「On the way here,\n　I learned about Earth from you and the records.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_9e701cdeb3842c21": {
+      "text": "$$グーラ$$\n「The more I learn, the more worthless it seems.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_6fd81f4abebe60c5": {
+      "text": "$$正太郎$$\n「$$グーラ$$...」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_da2132b5038ec737": {
+      "text": "$$ワッ太$$\n「What are you talking about!?\n　Don't act like you know Earth from that!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_495d61d3ec7e16f2": {
+      "text": "$$タケル$$\n「What's up, $$ワッ太$$?\n　A fight?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_5cd353758cfe474d": {
+      "text": "$$ワッ太$$\n「Listen to this, $$タケル$$!\n　$$グーラ$$ says Earth's a worthless planet!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_a653c8dec4c0f06f": {
+      "text": "$$グーラ$$\n「I only stated a fact.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_86d493e37a9799a7": {
+      "text": "$$ワッ太$$\n「What was that!?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_09d0fcc600cdd3df": {
+      "text": "$$正太郎$$\n「Stop it, $$ワッ太$$.\n　You too, $$グーラ$$.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_182faded068c15ed": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_9c206d19bfda4bd5": {
+      "text": "$$正太郎$$\n「$$グーラ$$... I guess we haven't\n　done a good job showing you Earth.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_6e558bc69acf5bf3": {
+      "text": "$$正太郎$$\n「But I want you to understand,\n　that our planet, Earth, is a wonderful place.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_d60d0818e965232f": {
+      "text": "$$タケル$$\n「That's right, $$グーラ$$.\n　Too soon to judge from so little.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_5b23687574286204": {
+      "text": "$$タケル$$\n「Land on Earth, and I bet things\n　that'll surprise you are waiting.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_6fd86c96891ea942": {
+      "text": "$$グーラ$$\n「If only there were time for that...」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_43e4e548c0b28376": {
+      "text": "$$正太郎$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_d80a9688790ed583": {
+      "text": "$$田中司令$$\n「This isn't good...」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_708bea61e3c43ada": {
+      "text": "$$Ｆ．Ｓ．$$\n「This signal... UG?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_7b6f159eeaf4de0f": {
+      "text": "$$田中司令$$\n「This isn't much of a welcome-back party.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_0827963cfd706e8d": {
+      "text": "$$Ｆ．Ｓ．$$\n「$c, all units, sortie!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$n\n「UG... they're striking here, of all places?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_3f4035fd9db81258": {
+      "text": "$$スズネ$$\n「But, whatever for...?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_567b361a454c4b73": {
+      "text": "$$葵$$\n「Not sure why,\n　but that unmanned bat looks to be\n　targeting $$ドラゴンズハイヴ$$.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_d22851aaafbbf8fc": {
+      "text": "$$ワッ太$$\n「Could it be... them!?\n　Are they after $$グーラ$$!?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_352534f64413d954": {
+      "text": "$$甲児$$\n「Given the situation, what else could it be!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_79f2664edb1af798": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$正太郎$$\n「It's all right, $$グーラ$$.\n　$c won't lose to the likes of them.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_1c5aa0d15ae24846": {
+      "text": "$$グーラ$$\n「You're going to protect me?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_53bb64ee17750ee2": {
+      "text": "$$正太郎$$\n「Of course.\n　We're friends, aren't we.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_7a7add80fde475ba": {
+      "text": "$$グーラ$$\n「$$正太郎$$...」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_b2befefdbed1393d": {
+      "text": "$$シモン$$\n「Whoever they are,\n　if they come at us, we'll fight back!\n　Let's go, everyone!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_2103f6df2ea2e447": {
+      "text": "$$ワッ太$$\n「Roger!\n　Watch this, $$グーラ$$!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_a12e3e130d896ff7": {
+      "text": "$$タケル$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_b6f7b219eb4bd64b": {
+      "text": "$n\n「What's wrong, $$タケル$$?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_91bf33c27ad39f0a": {
+      "text": "$$タケル$$\n「No... it's nothing.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_ee220318b96ab538": {
+      "text": "$$タケル$$\n（What is this...\n　This bad feeling keeps swelling inside me...）",
+      "status": "imported"
+    },
+    "stage0044b_04:r_ce1b55e526b6277a": {
+      "text": "$$ワッ太$$\n「How do you like that!\n　Did you see, $$グーラ$$!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_c304df6888eb78f7": {
+      "text": "$$正太郎$$\n「Huh... where's $$グーラ$$?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_c26958634526e597": {
+      "text": "$$マッキー$$\n「I thought he was right there a second ago...」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_cdb750c9d380881a": {
+      "text": "$$ロゼ$$\n「Be careful, everyone!\n　Something's coming!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_95fda74613c97b39": {
+      "text": "$$竜馬$$\n「Damn it...!\n　Tenacious for a lousy bat!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_1956994937f8171e": {
+      "text": "$$ワッ太$$\n「Wait for us, $$グーラ$$!\n　We'll wipe out those guys in no time!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_48f49f6728c15612": {
+      "text": "$$正太郎$$\n「Huh... where's $$グーラ$$?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$マッキー$$\n「I thought he was right there a second ago...」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_f02c37d91387d0ad": {
+      "text": "$$シモン$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$ヴィラル$$\n「Watch out!\n　The ones who took out the bat are coming!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_9796b3efa401a303": {
+      "text": "$$タケル$$\n「The $$宇宙魔王#pilot$$'s army!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_643b6eebfc0186b3": {
+      "text": "$$アルト$$\n「One headache after another!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_291280e5f7eb9d70": {
+      "text": "$$桂$$\n「Dealing with it is our job!\n　Let's go without complaining!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_32eb462c1b4999cb": {
+      "text": "$$正太郎$$\n「Showing up at a time like this...\n　does the $$宇宙魔王#pilot$$ want $$グーラ$$ too?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_1f4337d6d393fc37": {
+      "text": "$$マッキー$$\n「$$正太郎$$!\n　Papa and I will look for $$グーラ$$!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_4740e748fae085ee": {
+      "text": "$$正太郎$$\n「Count on it, $$マッキー$$!\n　We'll fight off the $$宇宙魔王#pilot$$'s army!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_b76524cd840e1d37": {
+      "text": "$$Ｆ．Ｓ．$$\n「All units, commence attack...!\n　Destroy the $$宇宙魔王#pilot$$'s forces!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_730ffe18400abfc2": {
+      "text": "$$セイミー$$\n「Hey, who's that!\n　Trying to open the hatch!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_ffe0fca26da5cd38": {
+      "text": "$$Ｆ．Ｓ．$$\n「$$ＷＩＬＬ$$...!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_bfb27f9eb2f7073e": {
+      "text": "$$ＷＩＬＬ$$\n「No good...!\n　We won't seal it in time!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_859dfa27bcaafe30": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_71ebf05996a4b0fd": {
+      "text": "$$マッキー$$\n「$$グーラ$$!!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_6214c11b1bca811e": {
+      "text": "$$ワッ太$$\n「Is that $$グーラ$$ in there!?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_8eaf6f3098ffed12": {
+      "text": "$$正太郎$$\n「That's reckless, $$グーラ$$!\n　Fighting in a $$シャトル|lc$$ like that!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_cf507214fe955d75": {
+      "text": "$$タケル$$\n「No good!\n　He's going to be hit!!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_2113dcbabdfc758a": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ダンカン$$\n「I am Demon General $$ダンカン$$.\n　I've come to escort you, Prince $$グーラ$$」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_6a74519e1fc29c4b": {
+      "text": "$$グーラ$$\n「Your Highness...?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_5b992878fee054b5": {
+      "text": "$$ダンカン$$\n「Ah... it seems your long slumber\n　has cost you some of your memories」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$グーラ$$\n「But I understand.\n　The fact that you've come for me means...」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_4a14ec0c511c7f0d": {
+      "text": "$$正太郎$$\n「$$グーラ$$...」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_20cf167c0ec0d4d5": {
+      "text": "$$ルカ$$\n「Dimensional boundary distortion confirmed!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_b591d812c96c6c99": {
+      "text": "$$シモン$$\n「A dimensional quake!?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_e350fa099c1ab072": {
+      "text": "$$赤木$$\n「Since when was spacetime 'stable', huh!?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_fb05d8e5f1ee93e5": {
+      "text": "???\n「$$グーラ$$...\n　The time has finally come.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_c33bd700553abf91": {
+      "text": "$$タケル$$\n「That voice...!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_feee5c91826230e1": {
+      "text": "$$正太郎$$\n「$$宇宙魔王#pilot$$!!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_bccc48e1964ad22d": {
+      "text": "$$クルツ$$\n「That monster showed up out of nowhere!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_f8736aaaa216c766": {
+      "text": "$$マオ$$\n「That overprotective idiot of a father\n　must've warped space to send it in!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_d1ec2522c87c361d": {
+      "text": "$$グーラ$$\n「Father, I will fight as well.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_3599f0a4343fd95c": {
+      "text": "$$グーラ$$\n「Father...!\n　Leave the rest to me!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_3bc7834a5bf3ee76": {
+      "text": "$$宇宙魔王#pilot$$\n「$$グーラ$$.\n　Don't disappoint me」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_366814efdc8b5800": {
+      "text": "$$グーラ$$\n「In the name of $$グーラ・キング・Ｊｒ．$$...」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_9be1a4c10bb62515": {
+      "text": "$$正太郎$$\n「$$グーラ$$! Are you really going to fight!?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_94a88c90e557e16e": {
+      "text": "$$グーラ$$\n「$$正太郎$$... and you, so-called $c...!\n　You, whom Father deems a threat,\n　will face me, $$グーラ・キング・Ｊｒ．$$!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_1c208ca0cbf26f28": {
+      "text": "$$ワッ太$$\n「You stubborn fool!\n　$$正太郎$$'s calling you\n　his friend!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_5b7ee307a700171a": {
+      "text": "$$正太郎$$\n「That's enough, $$ワッ太$$...!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_8d8f065c932da30a": {
+      "text": "$$タケル$$\n「$$正太郎$$...」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_f5432119677514f7": {
+      "text": "$$正太郎$$\n「$$グーラ$$...\n　If you're an ally of the $$宇宙魔王#pilot$$\n　who's after Earth, I'll fight you!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_4e5c8e989c4a7691": {
+      "text": "$$ワッ太$$\n「But, $$正太郎$$...!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_adec86483b13599a": {
+      "text": "$$正太郎$$\n「We have a duty to protect Earth!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_2cf701bbcde3ec13": {
+      "text": "$$グーラ$$\n「Come at me, $$正太郎$$!\n　As one last mercy... I'll face you myself!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_c17c58fdba72005e": {
+      "text": "$$正太郎$$\n「Let's go, $$鉄人$$!\n　We're the ones who'll stop $$グーラ$$!!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_1fe8564d2b959317": {
+      "text": "$$タケル$$\n（$$正太郎$$...!\n　Are you sure about this!）",
+      "status": "imported"
+    },
+    "stage0044b_04:r_f527e012803f7f1c": {
+      "text": "$$田中司令$$\n「Confirmed, all enemies destroyed.\n　For now, no reinforcements in sight.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_4b1247bd3ca4905d": {
+      "text": "$$Ｆ．Ｓ．$$\n「It seems that $$宇宙魔王#pilot$$\n　has the power to warp dimensions.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_00c55e25f87b71d0": {
+      "text": "$$タケル$$\n「The son of the $$宇宙魔王#pilot$$,\n　$$グーラ・キング・Ｊｒ．$$...」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_338f3b27e51dcc41": {
+      "text": "$$正太郎$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_d91d4bc2d52b61c4": {
+      "text": "$$ワッ太$$\n「$$正太郎$$...」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_0c8ea89b07432421": {
+      "text": "$$正太郎$$\n（$$グーラ$$...\n　must we really fight...）",
+      "status": "imported"
+    },
+    "stage0044b_04:r_4dbfba00ba7744ee": {
+      "text": "$$ワッ太$$\n「Another one warped in!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_be100a32b731708d": {
+      "text": "$$葵$$\n「Even as a gift for his darling son,\n　this is way too much...!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_702f82442fcec8a9": {
+      "text": "$$ギミー$$\n「If we don't know where they'll come from,\n　there's no way to prepare!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_b1e38da4e8775ffe": {
+      "text": "$$シモン$$\n「Then we crush every one that shows up!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$Ｆ．Ｓ．$$\n「All units, stay alert.\n　He'll keep sending in reinforcements.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$いぶき$$\n「No reinforcements coming...?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_3dad695c99e9e052": {
+      "text": "$$青山$$\n「Looks like that's the last of them.」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_66d4ae3a21caf881": {
+      "text": "$$赤木$$\n「All right! Now let's finish off what's left!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_0c18da7b3a37825d": {
+      "text": "$$ダンカン$$\n「My failure...!\n　Bested by Earthlings, twice over!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_63249745ffae61b6": {
+      "text": "$$グーラ$$\n「Fall back, $$ダンカン$$.\n　I'll take it from here」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_abdb034ae8509702": {
+      "text": "$$ダンカン$$\n「B, but...!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_3ff2e21207d1d1d3": {
+      "text": "$$グーラ$$\n「Do you doubt my power?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_e51ecf6d6aa42e75": {
+      "text": "$$ダンカン$$\n「...Understood.\n　I'll pray for your safety」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_47ddabb7b60131c2": {
+      "text": "$$ダンカン$$\n「My failure...!\n　Bested by Earthlings, twice over!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_b025267f22788233": {
+      "text": "$$ダンカン$$\n「But His Highness $$グーラ$$ withdrew safely.\n　I'll pull back too, then」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_ec1a06a7023bf72c": {
+      "text": "$$正太郎$$\n「We won, $$グーラ$$!\n　Surrender quietly!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_8805f96e52aaa462": {
+      "text": "$$グーラ$$\n「Don't get carried away, $$正太郎$$!\n　Today's fight was just a probe!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_124591cb154fae64": {
+      "text": "$$グーラ$$\n「On the name $$グーラ・キング・Ｊｒ．$$,\n　I'll repay today's debt next time!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$正太郎$$\n「$$グーラ$$!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_4bf9b05b5f948170": {
+      "text": "$$ワッ太$$\n「$$正太郎$$... you...」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_eaa52d152f444bfd": {
+      "text": "$$正太郎$$\n「I thought we'd finally become friends,\n　so why must we fight now...」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_b4bc9e9435b58e6f": {
+      "text": "$$タケル$$\n「Stop fighting, $$グーラ$$!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_a9227573166977a9": {
+      "text": "$$グーラ$$\n「I recalled Father's message.\n　So you were that Mars all along」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_b0600ab9a9e8559d": {
+      "text": "$$グーラ$$\n「You, who felled even Emperor $$ズール$$,\n　now beg for your life at this point?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_7cbc63dad295f862": {
+      "text": "$$タケル$$\n「I'll say it again!\n　Stop fighting, for $$正太郎$$'s sake too!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_07f53c816e0a51f5": {
+      "text": "$$グーラ$$\n「Don't be absurd...!\n　That $$正太郎$$ wants this fight!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_2d09c6f6a2d990ea": {
+      "text": "$$タケル$$\n「Do you really believe that!?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_3c5fcfc484a51913": {
+      "text": "$$グーラ$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_0476ffd10c764b0e": {
+      "text": "$$タケル$$\n「$$正太郎$$ is stifling his own heart,\n　trying to fight for Earth!\n　Can't you see that!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$グーラ$$\n「How foolish.\n　Why hesitate over something like that?\n　There's no need to hesitate to strike down a foe」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_2b3479c4cf0680f4": {
+      "text": "$$タケル$$\n「Wake up, $$グーラ$$!\n　Even now, $$正太郎$$ still thinks of you as a friend!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_e370696b8936b08c": {
+      "text": "$$グーラ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_9d7b02c5e728b7aa": {
+      "text": "$$タケル$$\n「Don't you feel any hesitation, $$グーラ$$!?\n　Even for a short while, you too must have\n　thought of $$正太郎$$ as a friend!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_9af213fc64e0afec": {
+      "text": "$$グーラ$$\n「...I am $$グーラ・キング・Ｊｒ．$$...\n　Son of the great $$宇宙魔王#pilot$$!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_d7f1c506e78e55ff": {
+      "text": "$$タケル$$\n「$$宇宙魔王#pilot$$ has nothing to do with this!\n　This is between you and $$正太郎$$!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_0c705091f748360e": {
+      "text": "$$タケル$$\n「I don't want to watch kindred hearts fight!\n　Stop fighting, $$グーラ$$!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_9eb8599304125b2f": {
+      "text": "$$グーラ$$\n「Silence, Mars!\n　I won't listen to your words!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_a072aa25e5f521e0": {
+      "text": "$$タケル$$\n「Tch...!\n　If it's come to this, I'll take your power to fight!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_24e1a808a1609a1a": {
+      "text": "$$グーラ$$\n「Come, robot servant of $$正太郎$$!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_53128ce8f154fd06": {
+      "text": "$$正太郎$$\n「$$鉄人$$ is my precious partner!\n　I won't forgive you mocking him, $$グーラ$$!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_03b5db9ce98fb8d6": {
+      "text": "$$グーラ$$\n「Then I'll destroy that $$鉄人$$!\n　That'll be this $$グーラ・キング・Ｊｒ．$$'s\n　first step in conquering Earth!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_3915fb4102f1c1dd": {
+      "text": "$$正太郎$$\n「$$グーラ$$...!\n　If you insist on fighting,\n　then I'll be your opponent!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_817b2773b4ed563e": {
+      "text": "$$正太郎$$\n「Even for a short while, you and I were friends!\n　So I'll stop you with my own hands!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_1cc233cbc8c80af7": {
+      "text": "$$ワッ太$$\n「Stop it, $$グーラ$$!\n　Neither $$正太郎$$ nor I want to fight you!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$グーラ$$\n「Naive, $$ワッ太$$!\n　Do you think words like that will stop me\n　now that I've recalled I'm the $$宇宙魔王#pilot$$'s son!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_e180b22d18f48d38": {
+      "text": "$$ワッ太$$\n「You block-headed numbskull!\n　If you want a fist that badly,\n　me and Trider will give you one!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_e598c2a0b27e7f50": {
+      "text": "$$ワッ太$$\n「And I'll make you apologize to $$正太郎$$ for sure!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_4d2a9066c4e7b27f": {
+      "text": "$$タケル$$\n「You truly won't stop fighting, $$グーラ$$!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_10340119af3ed6db": {
+      "text": "$$グーラ$$\n「Tiresome...!\n　I've nothing more to say to you!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_23a9c7ab620ab112": {
+      "text": "$$タケル$$\n「Then, $$グーラ$$...!\n　I'll steel my heart too!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_4f0aca6deda07883": {
+      "text": "$$タケル$$\n「I won't let $$正太郎$$ carry this sorrow!\n　I'll be the one to stop you!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_8fe40600ce62dfbc": {
+      "text": "$$タケル$$\n「Stop fighting, Prince $$グーラ$$!\n　Can't you see $$正太郎$$'s grief!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_ff4ce5f3cf96b617": {
+      "text": "$$グーラ$$\n「A meddlesome man.\n　What are you to $$正太郎$$?」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_d73c21f119847e35": {
+      "text": "$$タケル$$\n「$$正太郎$$ is my precious comrade!\n　And you're that $$正太郎$$'s friend!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_89766f5ffaa912d4": {
+      "text": "$$タケル$$\n「I know the sorrow of two kindred hearts\n　forced to fight! Before that tragedy\n　repeats, I'll stop you no matter what!」",
+      "status": "imported"
+    },
+    "stage0044b_04:r_c2df6b71e3b4b6ec": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

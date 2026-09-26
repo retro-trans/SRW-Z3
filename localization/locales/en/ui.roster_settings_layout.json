@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ui.roster_settings_layout:repair_compact": {"text": "Rep.", "status": "translated"},
+    "ui.roster_settings_layout:resupply_compact": {"text": "Resup", "status": "translated"},
+    "ui.roster_settings_layout:r_fc00d6eef03a120d": {
+      "text": "S. Atk",
+      "status": "imported"
+    },
+    "ui.roster_settings_layout:r_601d77ae3cbbe336": {
+      "text": "S. Def",
+      "status": "imported"
+    },
+    "ui.roster_settings_layout:r_4fc1691d82f2431c": {
+      "text": "S. Atk",
+      "status": "imported"
+    },
+    "ui.roster_settings_layout:r_a6f26337cde6b674": {
+      "text": "S. Def",
+      "status": "imported"
+    },
+    "ui.roster_settings_layout:r_2b78bcef730854b0": {
+      "text": "S. Atk",
+      "status": "imported"
+    },
+    "ui.roster_settings_layout:r_aacdf712b86f2bb1": {
+      "text": "S. Def",
+      "status": "imported"
+    },
+    "ui.roster_settings_layout:r_cc252cd6a864e2d0": {
+      "text": "S. Atk",
+      "status": "imported"
+    },
+    "ui.roster_settings_layout:r_dc8e7a2f4c5950f9": {
+      "text": "S. Def",
+      "status": "imported"
+    },
+    "ui.roster_settings_layout:r_0632923e1bf3be7b": {
+      "text": "Settings ",
+      "status": "imported"
+    }
+  }
+}

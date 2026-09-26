@@ -1,0 +1,702 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_153:r_479b340ccc6c572b": {
+      "text": "Commencing combat!",
+      "status": "imported"
+    },
+    "voice_153:r_ca4acbac57a2a35e": {
+      "text": "Target acquired!",
+      "status": "imported"
+    },
+    "voice_153:r_77949221bf58f862": {
+      "text": "I can sense the enemy...!",
+      "status": "imported"
+    },
+    "voice_153:r_70b9c4b9f1f37eff": {
+      "text": "Marida Cruz, commencing attack!",
+      "status": "imported"
+    },
+    "voice_153:r_9fcb3754cb1773c7": {
+      "text": "Get off me!",
+      "status": "imported"
+    },
+    "voice_153:r_3559d2fad32c2435": {
+      "text": "You're too sluggish...!",
+      "status": "imported"
+    },
+    "voice_153:r_f7570547e9f80a64": {
+      "text": "I'll silence you!",
+      "status": "imported"
+    },
+    "voice_153:r_cbab0f4720e1fcf1": {
+      "text": "What an unpleasant opponent...!",
+      "status": "imported"
+    },
+    "voice_153:r_0bbe0b4f5364e732": {
+      "text": "You're wide open!",
+      "status": "imported"
+    },
+    "voice_153:r_5dda5198137cb02a": {
+      "text": "I can read you!",
+      "status": "imported"
+    },
+    "voice_153:r_83ec59afbecdec14": {
+      "text": "Their next move is...!",
+      "status": "imported"
+    },
+    "voice_153:r_e20bfd42ad95a3c9": {
+      "text": "I've already read your moves!",
+      "status": "imported"
+    },
+    "voice_153:r_0f58a8822381e57f": {
+      "text": "I'll finish you!",
+      "status": "imported"
+    },
+    "voice_153:r_6dbcc507fb61b51d": {
+      "text": "I'll carry out my mission swiftly!",
+      "status": "imported"
+    },
+    "voice_153:r_b42ab697149a7c8a": {
+      "text": "I'll take down all I can...!",
+      "status": "imported"
+    },
+    "voice_153:r_4de4fcf3b440baf4": {
+      "text": "You won't go any farther!",
+      "status": "imported"
+    },
+    "voice_153:r_0121a166c715cdff": {
+      "text": "Initiating close combat!",
+      "status": "imported"
+    },
+    "voice_153:r_30fad37a42bd3ad3": {
+      "text": "How careless!",
+      "status": "imported"
+    },
+    "voice_153:r_80a0b2a84e05d81a": {
+      "text": "You misjudged the distance!",
+      "status": "imported"
+    },
+    "voice_153:r_4a9ac1dff86506d9": {
+      "text": "Can I get a shot...?!",
+      "status": "imported"
+    },
+    "voice_153:r_bc8538e6af3d2577": {
+      "text": "So that's where you are!",
+      "status": "imported"
+    },
+    "voice_153:r_924516c8de2b5342": {
+      "text": "The perfect range!",
+      "status": "imported"
+    },
+    "voice_153:r_da1174533722333f": {
+      "text": "If this lands directly...!",
+      "status": "imported"
+    },
+    "voice_153:r_48b60d6c48b9b142": {
+      "text": "Tch!",
+      "status": "imported"
+    },
+    "voice_153:r_8927e6fb681aa809": {
+      "text": "Haaah!",
+      "status": "imported"
+    },
+    "voice_153:r_665f01666859013b": {
+      "text": "Ngh!",
+      "status": "imported"
+    },
+    "voice_153:r_a571eec59b258d11": {
+      "text": "Hit!",
+      "status": "imported"
+    },
+    "voice_153:r_ddbe581c5ea9183d": {
+      "text": "Damn it!",
+      "status": "imported"
+    },
+    "voice_153:r_faae935cca0edc72": {
+      "text": "There!",
+      "status": "imported"
+    },
+    "voice_153:r_d4430bf362340b32": {
+      "text": "I see you!",
+      "status": "imported"
+    },
+    "voice_153:r_6ff1323b355593e0": {
+      "text": "How's that?!",
+      "status": "imported"
+    },
+    "voice_153:r_b7b5625d7cd4282f": {
+      "text": "Here I go!",
+      "status": "imported"
+    },
+    "voice_153:r_920740a0219c5085": {
+      "text": "Here they come!",
+      "status": "imported"
+    },
+    "voice_153:r_1b9b2aab5cb104da": {
+      "text": "Go dowwwwn!!",
+      "status": "imported"
+    },
+    "voice_153:r_719e897304ec42d4": {
+      "text": "Siiink!!",
+      "status": "imported"
+    },
+    "voice_153:r_f2d4255f1c2f7542": {
+      "text": "This attack will do it!!",
+      "status": "imported"
+    },
+    "voice_153:r_47d52a2839c71715": {
+      "text": "Once more!",
+      "status": "imported"
+    },
+    "voice_153:r_847f82e7f3eef651": {
+      "text": "Whatever it takes...!",
+      "status": "imported"
+    },
+    "voice_153:r_eb7ae28b53dc033c": {
+      "text": "It didn't go down...! Then!",
+      "status": "imported"
+    },
+    "voice_153:r_857c4a52ce8df0fd": {
+      "text": "I'll handle the Gundam...!",
+      "status": "imported"
+    },
+    "voice_153:r_55417493fce1d347": {
+      "text": "I've found you, Gundam...!",
+      "status": "imported"
+    },
+    "voice_153:r_8fdf5910927c9591": {
+      "text": "Another Gundam is here...!",
+      "status": "imported"
+    },
+    "voice_153:r_7d724dbcc4451e10": {
+      "text": "I've no use for a Gundam knockoff!",
+      "status": "imported"
+    },
+    "voice_153:r_93e25418a203cb8f": {
+      "text": "I'll disable and capture that unit!",
+      "status": "imported"
+    },
+    "voice_153:r_adeb0a29274d3d9b": {
+      "text": "That white one...! A new Gundam?!",
+      "status": "imported"
+    },
+    "voice_153:r_24cf161287ef9d5c": {
+      "text": "Banagher...! I won't hold back...!",
+      "status": "imported"
+    },
+    "voice_153:r_8f60f6fc86db3107": {
+      "text": "Are you ready, Banagher?!",
+      "status": "imported"
+    },
+    "voice_153:r_b1de76a75a253c13": {
+      "text": "Banagher! Lost to the system?!",
+      "status": "imported"
+    },
+    "voice_153:r_128c35bf3e0e394c": {
+      "text": "This pressure...!\\nLondo Bell's ace?!",
+      "status": "imported"
+    },
+    "voice_153:r_5213c17e13b23de0": {
+      "text": "I won't let Londo Bell interfere!",
+      "status": "imported"
+    },
+    "voice_153:r_38fdff9483e9245c": {
+      "text": "Londo Bell has entered the fray...!",
+      "status": "imported"
+    },
+    "voice_153:r_620fedec67706d7d": {
+      "text": "Don't disrupt this sensation...!",
+      "status": "imported"
+    },
+    "voice_153:r_9680dcd0fddcfcc7": {
+      "text": "Don't try to enter my mind!",
+      "status": "imported"
+    },
+    "voice_153:r_2a00f1044ad5cbaa": {
+      "text": "A being just like me...!",
+      "status": "imported"
+    },
+    "voice_153:r_3dbeead1bd3164ef": {
+      "text": "A concept opposite to Kshatriya...!",
+      "status": "imported"
+    },
+    "voice_153:r_98d15b8cc09bc915": {
+      "text": "A bloated machine is just a target!",
+      "status": "imported"
+    },
+    "voice_153:r_46e86d000250e137": {
+      "text": "Faster or not,\\nI have ways to fight!",
+      "status": "imported"
+    },
+    "voice_153:r_ac341e7976e88f0b": {
+      "text": "I won't spare a weaker machine!",
+      "status": "imported"
+    },
+    "voice_153:r_cdbd128a5b4127cc": {
+      "text": "Sink their mothership and we win...!",
+      "status": "imported"
+    },
+    "voice_153:r_cfccaa1fbeda124c": {
+      "text": "Up close, a battleship is helpless!",
+      "status": "imported"
+    },
+    "voice_153:r_b1f8ec192b9c083a": {
+      "text": "To think I'd have to fight this...!",
+      "status": "imported"
+    },
+    "voice_153:r_a007f9ab9cf048b3": {
+      "text": "Monster...!\\nYou go no farther!",
+      "status": "imported"
+    },
+    "voice_153:r_69dfa1659715e2fa": {
+      "text": "It can be used this way too...!",
+      "status": "imported"
+    },
+    "voice_153:r_d996fd6d4ef5b329": {
+      "text": "Funnel!",
+      "status": "imported"
+    },
+    "voice_153:r_546de3fb6db156ea": {
+      "text": "Take it down, Funnel!",
+      "status": "imported"
+    },
+    "voice_153:r_9072ea7bc71df136": {
+      "text": "Funnel...! Go!",
+      "status": "imported"
+    },
+    "voice_153:r_d89011fe3e5d082a": {
+      "text": "You can't escape the Funnel...!",
+      "status": "imported"
+    },
+    "voice_153:r_3c5b0c2ac812d5de": {
+      "text": "Go, Fin Funnel!",
+      "status": "imported"
+    },
+    "voice_153:r_7bea3023abbf8a94": {
+      "text": "You can't stop a blindside strike!",
+      "status": "imported"
+    },
+    "voice_153:r_cb846feec748c2e3": {
+      "text": "I'll use the Fin Funnel!",
+      "status": "imported"
+    },
+    "voice_153:r_5e2669b82ef75ce3": {
+      "text": "This machine...! What is it?!",
+      "status": "imported"
+    },
+    "voice_153:r_7847e0ed7dc9282d": {
+      "text": "Power is flowing through my body...!",
+      "status": "imported"
+    },
+    "voice_153:r_e42b52c7a987b906": {
+      "text": "Aaaaaagh!!",
+      "status": "imported"
+    },
+    "voice_153:r_2072eaf71a260ae7": {
+      "text": "For what you did to me...!",
+      "status": "imported"
+    },
+    "voice_153:r_6c13bbfd27a7799e": {
+      "text": "Now it's my turn!",
+      "status": "imported"
+    },
+    "voice_153:r_06f88dcbd3c9e738": {
+      "text": "I'll repay that debt!",
+      "status": "imported"
+    },
+    "voice_153:r_b28faf9f71bc3598": {
+      "text": "Now that I know where you are!",
+      "status": "imported"
+    },
+    "voice_153:r_8a29278549f8e07a": {
+      "text": "I'll finish you while I can!",
+      "status": "imported"
+    },
+    "voice_153:r_7e6c573c26177f98": {
+      "text": "I won't let you escape!",
+      "status": "imported"
+    },
+    "voice_153:r_45abf84f7757d6eb": {
+      "text": "Marida here. Providing support!",
+      "status": "imported"
+    },
+    "voice_153:r_edd7a13ab8f06a14": {
+      "text": "I'll attack from here too...!",
+      "status": "imported"
+    },
+    "voice_153:r_8165e5b41f0124c4": {
+      "text": "I'll support you, Master!",
+      "status": "imported"
+    },
+    "voice_153:r_4e05581b7432cce8": {
+      "text": "Gilboa, I'll take it from here!",
+      "status": "imported"
+    },
+    "voice_153:r_a60b107ea3c36a86": {
+      "text": "Please leave the rest to me...!",
+      "status": "imported"
+    },
+    "voice_153:r_72a21a1a489af001": {
+      "text": "Gyunei, I'll lend you a hand!",
+      "status": "imported"
+    },
+    "voice_153:r_eb643f8bf737a0ca": {
+      "text": "Good attack, Quess!",
+      "status": "imported"
+    },
+    "voice_153:r_0a3fccb71ec6cf2a": {
+      "text": "I'll support the Personal Guard!",
+      "status": "imported"
+    },
+    "voice_153:r_9b63cf1f3e0207ef": {
+      "text": "Banagher, I'm following you...!",
+      "status": "imported"
+    },
+    "voice_153:r_8356f4e3dcdff938": {
+      "text": "To think I'd aid Londo Bell...",
+      "status": "imported"
+    },
+    "voice_153:r_1d6d784036ae0bd7": {
+      "text": "Don't die in front of me...!",
+      "status": "imported"
+    },
+    "voice_153:r_625664af02183c17": {
+      "text": "Use me as your shield!",
+      "status": "imported"
+    },
+    "voice_153:r_3701cba361f80ea5": {
+      "text": "I won't let them harm Master!",
+      "status": "imported"
+    },
+    "voice_153:r_63f429c5c68c0863": {
+      "text": "Gilboa, fall back!",
+      "status": "imported"
+    },
+    "voice_153:r_38e4a434c91d8ef0": {
+      "text": "The Colonel was captured...!",
+      "status": "imported"
+    },
+    "voice_153:r_4824bea6bab3af67": {
+      "text": "That was careless, Gyunei!",
+      "status": "imported"
+    },
+    "voice_153:r_862b92e63adb9734": {
+      "text": "Don't be reckless, Quess!",
+      "status": "imported"
+    },
+    "voice_153:r_cb306ef55e49d107": {
+      "text": "I'll cover the Personal Guard!",
+      "status": "imported"
+    },
+    "voice_153:r_57b2bd2de8a1408d": {
+      "text": "Banagher...! Fall back!",
+      "status": "imported"
+    },
+    "voice_153:r_76f080a4881e8ab5": {
+      "text": "For now, this is my mission...!",
+      "status": "imported"
+    },
+    "voice_153:r_288133bc5b573dae": {
+      "text": "I let my chance to counter slip...!",
+      "status": "imported"
+    },
+    "voice_153:r_6f95653e548f8fcf": {
+      "text": "I'll make up for this failure...!",
+      "status": "imported"
+    },
+    "voice_153:r_d249d68bada91ab9": {
+      "text": "I'm nearing my operating limit...!",
+      "status": "imported"
+    },
+    "voice_153:r_e9b3307e9eb69f11": {
+      "text": "I can't counter at this range...!",
+      "status": "imported"
+    },
+    "voice_153:r_03cdac73042343ee": {
+      "text": "Tch! They got in close...!",
+      "status": "imported"
+    },
+    "voice_153:r_6026da5acbda7c69": {
+      "text": "What a sloppy attack...!",
+      "status": "imported"
+    },
+    "voice_153:r_981f8fedd5414fe5": {
+      "text": "There you are...!",
+      "status": "imported"
+    },
+    "voice_153:r_96bb0dcde0c8c44a": {
+      "text": "You're in plain sight...!",
+      "status": "imported"
+    },
+    "voice_153:r_641550a2f54cb456": {
+      "text": "Such naked hostility...!",
+      "status": "imported"
+    },
+    "voice_153:r_a0f2074af8debbfa": {
+      "text": "Killing intent...!",
+      "status": "imported"
+    },
+    "voice_153:r_b5f5a97ed82acb0b": {
+      "text": "You won't hit me!",
+      "status": "imported"
+    },
+    "voice_153:r_d9cd2e4ded064396": {
+      "text": "Just as I predicted...!",
+      "status": "imported"
+    },
+    "voice_153:r_99e6349431aaf23b": {
+      "text": "Read your moves, and it's easy...!",
+      "status": "imported"
+    },
+    "voice_153:r_ec1081caf845f56a": {
+      "text": "Catch Kshatriya\\nwith that...!?",
+      "status": "imported"
+    },
+    "voice_153:r_2c5b7ee872c1ed7f": {
+      "text": "Poor upkeep...!\\nI won't fall easily!",
+      "status": "imported"
+    },
+    "voice_153:r_76d1e51c8b494a60": {
+      "text": "Even a Gundam is no match for me...!",
+      "status": "imported"
+    },
+    "voice_153:r_eb5f687fcd372ae7": {
+      "text": "Gundam...! You're overrated!",
+      "status": "imported"
+    },
+    "voice_153:r_2329428a6871d9fa": {
+      "text": "That's an amateur's attack!",
+      "status": "imported"
+    },
+    "voice_153:r_0e7466971bec4cc4": {
+      "text": "Is that all, Banagher...?!",
+      "status": "imported"
+    },
+    "voice_153:r_efa71f7a4cc33ff3": {
+      "text": "Ngh!\\nI can't sense Banagher...!",
+      "status": "imported"
+    },
+    "voice_153:r_3fc2e1186557e7a0": {
+      "text": "Even if you're Londo Bell's ace!",
+      "status": "imported"
+    },
+    "voice_153:r_fa6930340a545054": {
+      "text": "Londo Bell...! Resist all you want!",
+      "status": "imported"
+    },
+    "voice_153:r_2332b9d56461d7ab": {
+      "text": "Ngh...!\\nThe pressure is growing...!",
+      "status": "imported"
+    },
+    "voice_153:r_854aa0a91a3c80d1": {
+      "text": "That won't work on me...!",
+      "status": "imported"
+    },
+    "voice_153:r_82c09f011d703b2c": {
+      "text": "This field can stop some attacks...!",
+      "status": "imported"
+    },
+    "voice_153:r_2b4d8818c77b6dca": {
+      "text": "My armor stopped it...!",
+      "status": "imported"
+    },
+    "voice_153:r_087354f2db0a31e6": {
+      "text": "The binder stopped it...!",
+      "status": "imported"
+    },
+    "voice_153:r_a4a5a96f4bd58920": {
+      "text": "Ngh...!",
+      "status": "imported"
+    },
+    "voice_153:r_b57d2d74233f889a": {
+      "text": "It hit...!",
+      "status": "imported"
+    },
+    "voice_153:r_cd06d0820d82524b": {
+      "text": "My reaction was too slow...!?",
+      "status": "imported"
+    },
+    "voice_153:r_c94c6d04be583774": {
+      "text": "I sensed it coming, but...!",
+      "status": "imported"
+    },
+    "voice_153:r_e54e2c99ef8297af": {
+      "text": "You outmaneuvered me...!",
+      "status": "imported"
+    },
+    "voice_153:r_f16a3eb0bcaac082": {
+      "text": "What a cheap trick...!",
+      "status": "imported"
+    },
+    "voice_153:r_10a408809e512df1": {
+      "text": "An attack like that won't...!",
+      "status": "imported"
+    },
+    "voice_153:r_bc7b9e308b879dd4": {
+      "text": "I sense something sinister...!",
+      "status": "imported"
+    },
+    "voice_153:r_98902fd3143c393e": {
+      "text": "With Kshatriya's armor...!",
+      "status": "imported"
+    },
+    "voice_153:r_d907fbd7bc1c4298": {
+      "text": "Ngh...! A direct hit...!",
+      "status": "imported"
+    },
+    "voice_153:r_96b21e3a028dd074": {
+      "text": "Fast...! Faster than I expected!",
+      "status": "imported"
+    },
+    "voice_153:r_ce140b5d8e6b7310": {
+      "text": "Have my senses dulled...!?",
+      "status": "imported"
+    },
+    "voice_153:r_0e0335789c5396d7": {
+      "text": "I'm being pushed back...!?",
+      "status": "imported"
+    },
+    "voice_153:r_a8e85bd950696403": {
+      "text": "They caught me...! Then!",
+      "status": "imported"
+    },
+    "voice_153:r_772c8bc40ab6cb61": {
+      "text": "I'll lose momentum at this rate...!",
+      "status": "imported"
+    },
+    "voice_153:r_58dd2826a199ef51": {
+      "text": "I'll regroup and attack again...!",
+      "status": "imported"
+    },
+    "voice_153:r_aadc0b2442adb93b": {
+      "text": "Was my killing intent too clear...?!",
+      "status": "imported"
+    },
+    "voice_153:r_e7a8cd8ed5bc2d1b": {
+      "text": "Even our spares\\nare running low...!",
+      "status": "imported"
+    },
+    "voice_153:r_041dd920da4a7c17": {
+      "text": "Gundam...! Beyond the data...?!",
+      "status": "imported"
+    },
+    "voice_153:r_c7f4280cde4605b3": {
+      "text": "Zeon's nemesis! Such fearsome power!",
+      "status": "imported"
+    },
+    "voice_153:r_ec349c8ea9511a18": {
+      "text": "That new model... Such power...!",
+      "status": "imported"
+    },
+    "voice_153:r_33236ffa3ea95b68": {
+      "text": "That's it, Banagher...! Good...!",
+      "status": "imported"
+    },
+    "voice_153:r_689d0b123de71ae0": {
+      "text": "Not Banagher...!\\nSomething fiercer!",
+      "status": "imported"
+    },
+    "voice_153:r_84883aa95f63ce32": {
+      "text": "The might of Londo Bell's ace...!",
+      "status": "imported"
+    },
+    "voice_153:r_25493e978ce8ff16": {
+      "text": "Londo Bell...! They're strong...!",
+      "status": "imported"
+    },
+    "voice_153:r_7316666150e42960": {
+      "text": "I can't resist their pressure...!",
+      "status": "imported"
+    },
+    "voice_153:r_c4f11aa93dc5b668": {
+      "text": "As an Enhanced, can't I beat them?!",
+      "status": "imported"
+    },
+    "voice_153:r_05ea490d2f522520": {
+      "text": "Guh! A direct hit...!",
+      "status": "imported"
+    },
+    "voice_153:r_f5658c702d91db7a": {
+      "text": "They outpaced my reactions...!?",
+      "status": "imported"
+    },
+    "voice_153:r_686df329b50f195b": {
+      "text": "This malice... It will kill me...!",
+      "status": "imported"
+    },
+    "voice_153:r_25f0ab0fa3cf690c": {
+      "text": "No...! I can't let it consume me...!",
+      "status": "imported"
+    },
+    "voice_153:r_b708a1d959013dbf": {
+      "text": "They surpass me in every way...!?",
+      "status": "imported"
+    },
+    "voice_153:r_59fca03e929366c1": {
+      "text": "Lose here,\\nthen why do I exist...?",
+      "status": "imported"
+    },
+    "voice_153:r_0d65eb631dcb7514": {
+      "text": "I can't face Master after this...!",
+      "status": "imported"
+    },
+    "voice_153:r_d03018a31e23f1e9": {
+      "text": "I... fight for Master...!",
+      "status": "imported"
+    },
+    "voice_153:r_279da5f732aa8847": {
+      "text": "They pushed Kshatriya this far...!",
+      "status": "imported"
+    },
+    "voice_153:r_97f82e3cb6f70110": {
+      "text": "I can't fall here...!",
+      "status": "imported"
+    },
+    "voice_153:r_c5611d8dd6def96b": {
+      "text": "I'm sorry, Master...!",
+      "status": "imported"
+    },
+    "voice_153:r_6f12cc8ed2732eb5": {
+      "text": "Kshatriya, falling back...!",
+      "status": "imported"
+    },
+    "voice_153:r_7abfc55f8fb62ba7": {
+      "text": "What's wrong, Banagher? You're off.",
+      "status": "imported"
+    },
+    "voice_153:r_9639a2dbcd2f58ed": {
+      "text": "Draw their attacks to me...!",
+      "status": "imported"
+    },
+    "voice_153:r_aeea0893acb93d35": {
+      "text": "I'll overwhelm them with attacks!",
+      "status": "imported"
+    },
+    "voice_153:r_b31568654e53487b": {
+      "text": "I'll be the decoy!",
+      "status": "imported"
+    },
+    "voice_153:r_2502132569141ea3": {
+      "text": "Match your timing to mine!",
+      "status": "imported"
+    },
+    "voice_153:r_1ff312798a52c8eb": {
+      "text": "I'll handle things here!",
+      "status": "imported"
+    },
+    "voice_153:r_fa07d90fca62f593": {
+      "text": "I'm your opponent!",
+      "status": "imported"
+    },
+    "voice_153:r_a25bf2676ecf9d83": {
+      "text": "We'll pick them off one by one!",
+      "status": "imported"
+    },
+    "voice_153:r_237a0288b42dce20": {
+      "text": "We'll split up their forces!",
+      "status": "imported"
+    }
+  }
+}

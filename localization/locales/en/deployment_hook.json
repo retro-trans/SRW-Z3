@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "deployment_hook:r_479b340ccc6c572b": {
+      "text": "All units, deploy!",
+      "status": "imported"
+    },
+    "deployment_hook:r_ca4acbac57a2a35e": {
+      "text": "Battleships, deploy!",
+      "status": "imported"
+    },
+    "deployment_hook:r_77949221bf58f862": {
+      "text": "Change positions on the map.",
+      "status": "imported"
+    },
+    "deployment_hook:r_70b9c4b9f1f37eff": {
+      "text": "Wait a moment.",
+      "status": "imported"
+    },
+    "deployment_hook:r_9fcb3754cb1773c7": {
+      "text": "Return to deployment preparation.",
+      "status": "imported"
+    },
+    "deployment_hook:r_3559d2fad32c2435": {
+      "text": "Deploy with these teams?",
+      "status": "imported"
+    },
+    "deployment_hook:r_f7570547e9f80a64": {
+      "text": "Deploy with these battleships?",
+      "status": "imported"
+    }
+  }
+}

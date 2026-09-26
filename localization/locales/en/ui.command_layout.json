@@ -1,0 +1,346 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ui.command_layout:r_24f8d43d1e93b8a1": {
+      "text": "End Phase",
+      "status": "imported"
+    },
+    "ui.command_layout:r_9c0e8c2691adb4f1": {
+      "text": "Search",
+      "status": "imported"
+    },
+    "ui.command_layout:r_7c43dd0cfd5d3c49": {
+      "text": "Unit List",
+      "status": "imported"
+    },
+    "ui.command_layout:r_f5c2c45cc55e7e3c": {
+      "text": "Objectives",
+      "status": "imported"
+    },
+    "ui.command_layout:r_7f8c6e5c5e4e347e": {
+      "text": "Battle Report",
+      "status": "imported"
+    },
+    "ui.command_layout:r_9fc62866844dfe9a": {
+      "text": "System",
+      "status": "imported"
+    },
+    "ui.command_layout:r_dfa93022bbc30980": {
+      "text": "Quick Save",
+      "status": "imported"
+    },
+    "ui.command_layout:r_1416360379dea645": {
+      "text": "Move",
+      "status": "imported"
+    },
+    "ui.command_layout:r_07bda9bbd38c277e": {
+      "text": "Ground",
+      "status": "imported"
+    },
+    "ui.command_layout:r_9dcbffc950a2f863": {
+      "text": "Transform",
+      "status": "imported"
+    },
+    "ui.command_layout:r_a4a8b66523fec5ef": {
+      "text": "Change Main",
+      "status": "imported"
+    },
+    "ui.command_layout:r_c3f7096c93353c69": {
+      "text": "Spirit",
+      "status": "imported"
+    },
+    "ui.command_layout:r_4bfe6b7f166985f6": {
+      "text": "Status",
+      "status": "imported"
+    },
+    "ui.command_layout:r_e6622a0af4cd94f4": {
+      "text": "Ally /",
+      "status": "imported"
+    },
+    "ui.command_layout:r_392dbb3fa782aa56": {
+      "text": "Enemy",
+      "status": "imported"
+    },
+    "ui.command_layout:r_f35bb291f78fe83a": {
+      "text": "Ally",
+      "status": "imported"
+    },
+    "ui.command_layout:r_f548063f042ac39b": {
+      "text": "/ Enemy",
+      "status": "imported"
+    },
+    "ui.command_layout:r_5449e369bee5b409": {
+      "text": "Space",
+      "status": "imported"
+    },
+    "ui.command_layout:r_e0d0a768d1583671": {
+      "text": "Persuade",
+      "status": "imported"
+    },
+    "ui.command_layout:r_bf1a4977327a4fc8": {
+      "text": "Board",
+      "status": "imported"
+    },
+    "ui.command_layout:r_3cf6aecbc98cca7f": {
+      "text": "Launch",
+      "status": "imported"
+    },
+    "ui.command_layout:r_faa8114290185415": {
+      "text": "Attack",
+      "status": "imported"
+    },
+    "ui.command_layout:r_67500aec0f9b0bac": {
+      "text": "Song",
+      "status": "imported"
+    },
+    "ui.command_layout:r_444f7f15f226c8a7": {
+      "text": "Max Break",
+      "status": "imported"
+    },
+    "ui.command_layout:r_b2eb4d7c959caa8d": {
+      "text": "Tag Command",
+      "status": "imported"
+    },
+    "ui.command_layout:r_03118e8846ac661c": {
+      "text": "Repair",
+      "status": "imported"
+    },
+    "ui.command_layout:r_6baeda8d536fac93": {
+      "text": "Resupply",
+      "status": "imported"
+    },
+    "ui.command_layout:r_42a983f55d340aac": {
+      "text": "Air",
+      "status": "imported"
+    },
+    "ui.command_layout:r_ab2a88b66db4be62": {
+      "text": "Underground",
+      "status": "imported"
+    },
+    "ui.command_layout:r_03f5ce909d7de11f": {
+      "text": "Underwater",
+      "status": "imported"
+    },
+    "ui.command_layout:r_d590a498d19945e6": {
+      "text": "Parts",
+      "status": "imported"
+    },
+    "ui.command_layout:r_e82d5dfb0dff9bcb": {
+      "text": "E-Change",
+      "status": "imported"
+    },
+    "ui.command_layout:r_fbf0f7c19af03699": {
+      "text": "Tactical Cmd",
+      "status": "imported"
+    },
+    "ui.command_layout:r_e08b1cf222e4a2a0": {
+      "text": "Trans-Am",
+      "status": "imported"
+    },
+    "ui.command_layout:r_e7510922d925b533": {
+      "text": "NT-D",
+      "status": "imported"
+    },
+    "ui.command_layout:r_109d5fa3ed6e91f3": {
+      "text": "GAI Mode",
+      "status": "imported"
+    },
+    "ui.command_layout:r_05defd326750860f": {
+      "text": "Tengen Toppa",
+      "status": "imported"
+    },
+    "ui.command_layout:r_18d28770a2e8b0a6": {
+      "text": "Combine",
+      "status": "imported"
+    },
+    "ui.command_layout:r_856e76c7b54eb7ea": {
+      "text": "Separate",
+      "status": "imported"
+    },
+    "ui.command_layout:r_d253a1502bae57a6": {
+      "text": "Wait",
+      "status": "imported"
+    },
+    "ui.command_layout:r_e95260cbc82dbc73": {
+      "text": "Recover",
+      "status": "imported"
+    },
+    "ui.command_layout:r_7734a0a058920390": {
+      "text": "Auto Trans.",
+      "status": "imported"
+    },
+    "ui.command_layout:r_47b714f8af25410b": {
+      "text": "Save to Hard Disk",
+      "status": "imported"
+    },
+    "ui.command_layout:r_eb67189ba1e77948": {
+      "text": "Upload to Network",
+      "status": "imported"
+    },
+    "ui.command_layout:r_df70e8eef794da3b": {
+      "text": "Don't Save",
+      "status": "imported"
+    },
+    "ui.command_layout:r_4fb94a9f50b60e8a": {
+      "text": "Save your current map progress.",
+      "status": "imported"
+    },
+    "ui.command_layout:r_99578b82af0123b2": {
+      "text": "Please select a save destination.",
+      "status": "imported"
+    },
+    "ui.command_layout:r_d3e83d471701761d": {
+      "text": "End the phase?",
+      "status": "imported"
+    },
+    "ui.command_layout:r_719a15f977768aa6": {
+      "text": "Teams still able to act: 0.",
+      "status": "imported"
+    },
+    "ui.command_layout:r_36e67147c66e5aab": {
+      "text": "Teams still able to act: 10.",
+      "status": "imported"
+    },
+    "ui.command_layout:r_b23b1f9034963514": {
+      "text": "Bonus from AG",
+      "status": "imported"
+    },
+    "ui.command_layout:r_06972662aeb13faf": {
+      "text": "Bonus from AG",
+      "status": "imported"
+    },
+    "ui.command_layout:r_ef67c34420659891": {
+      "text": "Received 1,000 Z Chips.",
+      "status": "imported"
+    },
+    "ui.command_layout:r_f68e91b782cf994e": {
+      "text": "Received 100 Z Chips.",
+      "status": "imported"
+    },
+    "ui.command_layout:r_832477efac905e4d": {
+      "text": "Received 200 Z Chips.",
+      "status": "imported"
+    },
+    "ui.command_layout:r_6d9518eec4c8a56f": {
+      "text": "Start Battle",
+      "status": "imported"
+    },
+    "ui.command_layout:r_515a34ea2fe71c76": {
+      "text": "Settings 1",
+      "status": "imported"
+    },
+    "ui.command_layout:r_e5c678ea31eb53c5": {
+      "text": "Settings 2",
+      "status": "imported"
+    },
+    "ui.command_layout:r_f86fa5cf90671682": {
+      "text": "Ally",
+      "status": "imported"
+    },
+    "ui.command_layout:r_8538e59a2e0811ad": {
+      "text": "Enemy",
+      "status": "imported"
+    },
+    "ui.command_layout:r_21c269a126ecc9a1": {
+      "text": "Paved Road",
+      "status": "imported"
+    },
+    "ui.command_layout:r_663cd11f291af3ce": {
+      "text": "Flatland",
+      "status": "imported"
+    },
+    "ui.command_layout:r_b117b6753bd1fcf0": {
+      "text": "Building",
+      "status": "imported"
+    },
+    "ui.command_layout:r_603805f67e8cc26e": {
+      "text": "Construction Site",
+      "status": "imported"
+    },
+    "ui.command_layout:r_112d9f5edae6ec97": {
+      "text": ": None",
+      "status": "imported"
+    },
+    "ui.command_layout:r_86caca8c012ac17b": {
+      "text": "Cliff",
+      "status": "imported"
+    },
+    "ui.command_layout:r_16de04bb4460012f": {
+      "text": "Robot Encyclopedia",
+      "status": "imported"
+    },
+    "ui.command_layout:r_e66329c6ac0f6268": {
+      "text": "Character Encyclopedia",
+      "status": "imported"
+    },
+    "ui.command_layout:r_8b4e0292956bd5c2": {
+      "text": "Glossary",
+      "status": "imported"
+    },
+    "ui.command_layout:r_412693189a5bcdb3": {
+      "text": "Sound Select",
+      "status": "imported"
+    },
+    "ui.command_layout:r_a7a77a29cf42b03f": {
+      "text": "Scenario Chart",
+      "status": "imported"
+    },
+    "ui.command_layout:r_c9eab47dc1f50d39": {
+      "text": "PS Store",
+      "status": "imported"
+    },
+    "ui.command_layout:r_d038973063732093": {
+      "text": "Save complete.",
+      "status": "imported"
+    },
+    "ui.command_layout:r_f8caee7ecb6a98dc": {
+      "text": "Continue playing?",
+      "status": "imported"
+    },
+    "ui.command_layout:r_3c05ce39c9ab8c49": {
+      "text": "Overwrite the existing save?",
+      "status": "imported"
+    },
+    "ui.command_layout:r_670c9bdcb78c3743": {
+      "text": "Create a new save?",
+      "status": "imported"
+    },
+    "ui.command_layout:r_de44072308f7dacb": {
+      "text": "Overwrite this save data?",
+      "status": "imported"
+    },
+    "ui.command_layout:r_468e3f1ac02ecb6a": {
+      "text": "Return to the title screen?",
+      "status": "imported"
+    },
+    "ui.command_layout:r_e77dda179903d616": {
+      "text": "Team Setup",
+      "status": "imported"
+    },
+    "ui.command_layout:r_c877bc88db4ae7b1": {
+      "text": "Pilot Training",
+      "status": "imported"
+    },
+    "ui.command_layout:r_aabfadaa48196183": {
+      "text": "Pilot Swap",
+      "status": "imported"
+    },
+    "ui.command_layout:r_5905878053362b35": {
+      "text": "Upgrades",
+      "status": "imported"
+    },
+    "ui.command_layout:r_1eaf00052cb7b945": {
+      "text": "Power Parts",
+      "status": "imported"
+    },
+    "ui.command_layout:r_7a7f01f9d42eccee": {
+      "text": "Swap Parts",
+      "status": "imported"
+    },
+    "ui.command_layout:r_c6571f087bb0ab6e": {
+      "text": "Ship Upgrades",
+      "status": "imported"
+    }
+  }
+}

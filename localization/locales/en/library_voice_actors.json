@@ -1,0 +1,618 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "library_voice_actors:r_22db5c1605465870": {
+      "text": "Satomi Majima",
+      "status": "imported"
+    },
+    "library_voice_actors:r_64d0a278bea1876b": {
+      "text": "Ichiro Nagai",
+      "status": "imported"
+    },
+    "library_voice_actors:r_f1d0cafd6dabf1bb": {
+      "text": "Yuzuru Fujimoto",
+      "status": "imported"
+    },
+    "library_voice_actors:r_e714834e49130d59": {
+      "text": "Tokio Shoji",
+      "status": "imported"
+    },
+    "library_voice_actors:r_d19975dc2daf341a": {
+      "text": "Keiko Han",
+      "status": "imported"
+    },
+    "library_voice_actors:r_7d898dbe90be49c4": {
+      "text": "Eiko Yamada",
+      "status": "imported"
+    },
+    "library_voice_actors:r_3ecf9b18411eb283": {
+      "text": "Mitsuki Saiga",
+      "status": "imported"
+    },
+    "library_voice_actors:r_536fe7842f342260": {
+      "text": "Yusaku Yara",
+      "status": "imported"
+    },
+    "library_voice_actors:r_00a6d59277995005": {
+      "text": "Hidekatsu Shibata",
+      "status": "imported"
+    },
+    "library_voice_actors:r_a9d8b7faffd2ce3f": {
+      "text": "Yu Mizushima",
+      "status": "imported"
+    },
+    "library_voice_actors:r_5b3ebc1fb796a8d3": {
+      "text": "Hiroya Ishimaru",
+      "status": "imported"
+    },
+    "library_voice_actors:r_68c1dac60c671ccb": {
+      "text": "Go Shinomiya",
+      "status": "imported"
+    },
+    "library_voice_actors:r_1b8310da767c59d3": {
+      "text": "Yoku Shioya",
+      "status": "imported"
+    },
+    "library_voice_actors:r_196ce76ad6cff809": {
+      "text": "Yoko Kawanami",
+      "status": "imported"
+    },
+    "library_voice_actors:r_1cca0ac26a700b1b": {
+      "text": "Rumiko Ukai",
+      "status": "imported"
+    },
+    "library_voice_actors:r_fe72b9b84f089bfb": {
+      "text": "Hozumi Goda",
+      "status": "imported"
+    },
+    "library_voice_actors:r_758112a89dadcdb7": {
+      "text": "Issei Masamune",
+      "status": "imported"
+    },
+    "library_voice_actors:r_8927ad5198ca04ff": {
+      "text": "Masashi Hirose",
+      "status": "imported"
+    },
+    "library_voice_actors:r_1dfa1db66fb0eb24": {
+      "text": "Yoko Matsuoka",
+      "status": "imported"
+    },
+    "library_voice_actors:r_a713ac345a16cefe": {
+      "text": "Show Hayami",
+      "status": "imported"
+    },
+    "library_voice_actors:r_ae8f9cc916e827b6": {
+      "text": "Sanae Miyuki",
+      "status": "imported"
+    },
+    "library_voice_actors:r_989b04f769418c3b": {
+      "text": "Nobuo Tobita",
+      "status": "imported"
+    },
+    "library_voice_actors:r_55b305261adab4a2": {
+      "text": "Satomi Arai",
+      "status": "imported"
+    },
+    "library_voice_actors:r_40778269ec53376d": {
+      "text": "Yukana",
+      "status": "imported"
+    },
+    "library_voice_actors:r_52387fbbadd67f53": {
+      "text": "Maya Okamoto",
+      "status": "imported"
+    },
+    "library_voice_actors:r_bfaebc96de7ed187": {
+      "text": "Daisuke Namikawa",
+      "status": "imported"
+    },
+    "library_voice_actors:r_322bd8118f9bf9ea": {
+      "text": "Yoshiko Sakakibara",
+      "status": "imported"
+    },
+    "library_voice_actors:r_6ec5ac56f39a8711": {
+      "text": "Toru Furuya",
+      "status": "imported"
+    },
+    "library_voice_actors:r_3430173f4113c1b1": {
+      "text": "Shuichi Ikeda",
+      "status": "imported"
+    },
+    "library_voice_actors:r_932d3788c46694e4": {
+      "text": "Maria Kawamura",
+      "status": "imported"
+    },
+    "library_voice_actors:r_c676ee685bd1a8a9": {
+      "text": "Koichi Yamadera",
+      "status": "imported"
+    },
+    "library_voice_actors:r_d6b767d89a1d4a3d": {
+      "text": "Kazue Ikura",
+      "status": "imported"
+    },
+    "library_voice_actors:r_0d1c15b7f80c103e": {
+      "text": "Nozomu Sasaki",
+      "status": "imported"
+    },
+    "library_voice_actors:r_22cea3e04bb3814c": {
+      "text": "Hikaru Midorikawa",
+      "status": "imported"
+    },
+    "library_voice_actors:r_a7b2e105e1b8bc0a": {
+      "text": "Toshihiko Seki",
+      "status": "imported"
+    },
+    "library_voice_actors:r_39c4f27f6cb0f68a": {
+      "text": "Shigeru Nakahara",
+      "status": "imported"
+    },
+    "library_voice_actors:r_f6f10baff4d36c05": {
+      "text": "Ai Orikasa",
+      "status": "imported"
+    },
+    "library_voice_actors:r_fc369e80abc947f4": {
+      "text": "Ryuzo Ishino",
+      "status": "imported"
+    },
+    "library_voice_actors:r_fae08e2d64dab4fc": {
+      "text": "Takehito Koyasu",
+      "status": "imported"
+    },
+    "library_voice_actors:r_6c653f176c6a6df2": {
+      "text": "Chisa Yokoyama",
+      "status": "imported"
+    },
+    "library_voice_actors:r_081f9c18ea590c93": {
+      "text": "Kae Araki",
+      "status": "imported"
+    },
+    "library_voice_actors:r_56fb59f5478d6708": {
+      "text": "Kenichi Suzumura",
+      "status": "imported"
+    },
+    "library_voice_actors:r_b3de72343ba9b57f": {
+      "text": "Soichiro Hoshi",
+      "status": "imported"
+    },
+    "library_voice_actors:r_8cbfa10b85a5ad35": {
+      "text": "Mamoru Miyano",
+      "status": "imported"
+    },
+    "library_voice_actors:r_bfbfda494115ef1f": {
+      "text": "Shinichiro Miki",
+      "status": "imported"
+    },
+    "library_voice_actors:r_77d3badb9a4235c6": {
+      "text": "Arisa Ogasawara",
+      "status": "imported"
+    },
+    "library_voice_actors:r_a58335be9de13e35": {
+      "text": "Arise Sato",
+      "status": "imported"
+    },
+    "library_voice_actors:r_eff0de7376baf1b0": {
+      "text": "Hiroyuki Yoshino",
+      "status": "imported"
+    },
+    "library_voice_actors:r_9403c697c839b6f3": {
+      "text": "Hiroshi Kamiya",
+      "status": "imported"
+    },
+    "library_voice_actors:r_0648b2a0d8744e79": {
+      "text": "Yoko Honna",
+      "status": "imported"
+    },
+    "library_voice_actors:r_f26c58cd8722b6f3": {
+      "text": "Hiroki Tochi",
+      "status": "imported"
+    },
+    "library_voice_actors:r_cda44d5cf76c9791": {
+      "text": "Ayahi Takagaki",
+      "status": "imported"
+    },
+    "library_voice_actors:r_d5f205f5fa9c7560": {
+      "text": "Haruka Tomatsu",
+      "status": "imported"
+    },
+    "library_voice_actors:r_5b2d3a2188b5d95e": {
+      "text": "Yuichi Nakamura",
+      "status": "imported"
+    },
+    "library_voice_actors:r_018402013269190a": {
+      "text": "Kenji Hamada",
+      "status": "imported"
+    },
+    "library_voice_actors:r_5cbce6b6214356b3": {
+      "text": "Tetsu Shiratori",
+      "status": "imported"
+    },
+    "library_voice_actors:r_97bd58c34e48f66d": {
+      "text": "Koki Uchiyama",
+      "status": "imported"
+    },
+    "library_voice_actors:r_cae4b89cc24d4ef6": {
+      "text": "Naoya Uchida",
+      "status": "imported"
+    },
+    "library_voice_actors:r_879ff307461e70f3": {
+      "text": "Misa Watanabe",
+      "status": "imported"
+    },
+    "library_voice_actors:r_098e46d8041445ea": {
+      "text": "Megumi Toyoguchi",
+      "status": "imported"
+    },
+    "library_voice_actors:r_e38f87484865abd8": {
+      "text": "Ken Narita",
+      "status": "imported"
+    },
+    "library_voice_actors:r_791280c17950a088": {
+      "text": "Unsho Ishizuka",
+      "status": "imported"
+    },
+    "library_voice_actors:r_a7ca6cbc6b2ef294": {
+      "text": "Tetsuya Kakihara",
+      "status": "imported"
+    },
+    "library_voice_actors:r_a426dd9308ec1c89": {
+      "text": "Yuko Kaida",
+      "status": "imported"
+    },
+    "library_voice_actors:r_9b8ae2f421439073": {
+      "text": "Hideaki Tezuka",
+      "status": "imported"
+    },
+    "library_voice_actors:r_b1baa08b244107fa": {
+      "text": "Rikiya Koyama",
+      "status": "imported"
+    },
+    "library_voice_actors:r_3ef64e7462dfd276": {
+      "text": "Cho",
+      "status": "imported"
+    },
+    "library_voice_actors:r_b06639936f2d2259": {
+      "text": "Mariya Ise",
+      "status": "imported"
+    },
+    "library_voice_actors:r_811d7bec88e603bb": {
+      "text": "Hideyuki Umezu",
+      "status": "imported"
+    },
+    "library_voice_actors:r_7d6d39e3e28552a7": {
+      "text": "Ayumi Fujimura",
+      "status": "imported"
+    },
+    "library_voice_actors:r_eaaa7c2ef0da5285": {
+      "text": "Noriko Hidaka",
+      "status": "imported"
+    },
+    "library_voice_actors:r_36df629e8374a89d": {
+      "text": "Nobutoshi Canna",
+      "status": "imported"
+    },
+    "library_voice_actors:r_3ad2a40b271f019e": {
+      "text": "Tomo Sakurai",
+      "status": "imported"
+    },
+    "library_voice_actors:r_3fda5cf7f1782ffa": {
+      "text": "Masashi Sugawara",
+      "status": "imported"
+    },
+    "library_voice_actors:r_413d747e673f1353": {
+      "text": "Jun Fukuyama",
+      "status": "imported"
+    },
+    "library_voice_actors:r_423338801795fc0b": {
+      "text": "Katsuyuki Konishi",
+      "status": "imported"
+    },
+    "library_voice_actors:r_c9dc25f3476d8dd4": {
+      "text": "Houko Kuwashima",
+      "status": "imported"
+    },
+    "library_voice_actors:r_99dc6d29ea68ba52": {
+      "text": "Toru Okawa",
+      "status": "imported"
+    },
+    "library_voice_actors:r_4eb0784471c6db76": {
+      "text": "Kenta Miyake",
+      "status": "imported"
+    },
+    "library_voice_actors:r_fa947537be0d4a5f": {
+      "text": "Sanae Kobayashi",
+      "status": "imported"
+    },
+    "library_voice_actors:r_9e5e7623678f001c": {
+      "text": "Rie Tanaka",
+      "status": "imported"
+    },
+    "library_voice_actors:r_5ad7ec2d22c4aa30": {
+      "text": "Hideo Ishikawa",
+      "status": "imported"
+    },
+    "library_voice_actors:r_5c6f80563e69bcee": {
+      "text": "Shozo Iizuka",
+      "status": "imported"
+    },
+    "library_voice_actors:r_f8a83e02a5603c56": {
+      "text": "Tomokazu Seki",
+      "status": "imported"
+    },
+    "library_voice_actors:r_0c34233812498da2": {
+      "text": "Narumi Hidaka",
+      "status": "imported"
+    },
+    "library_voice_actors:r_1a6f94c5ace93e38": {
+      "text": "Yasunori Matsumoto",
+      "status": "imported"
+    },
+    "library_voice_actors:r_c16095de4f2823a8": {
+      "text": "Kenji Akabane",
+      "status": "imported"
+    },
+    "library_voice_actors:r_1fdfa81d332c7096": {
+      "text": "Yoko Honda",
+      "status": "imported"
+    },
+    "library_voice_actors:r_dd122f65c51c462d": {
+      "text": "Kenichiro Matsuda",
+      "status": "imported"
+    },
+    "library_voice_actors:r_38b9658d18fae6c4": {
+      "text": "Kiyohito Yoshikai",
+      "status": "imported"
+    },
+    "library_voice_actors:r_f8f07166bae6ba5e": {
+      "text": "Hideki Nakanishi",
+      "status": "imported"
+    },
+    "library_voice_actors:r_40720068995d113e": {
+      "text": "Minoru Inaba",
+      "status": "imported"
+    },
+    "library_voice_actors:r_8168c94b52d10c23": {
+      "text": "Masaaki Yajima",
+      "status": "imported"
+    },
+    "library_voice_actors:r_e41b6cf5185c38b3": {
+      "text": "Kenji Utsumi",
+      "status": "imported"
+    },
+    "library_voice_actors:r_95586eadb92d02ad": {
+      "text": "Kentaro Ito",
+      "status": "imported"
+    },
+    "library_voice_actors:r_b6562f9afe03d8dd": {
+      "text": "Akiko Hiramatsu",
+      "status": "imported"
+    },
+    "library_voice_actors:r_71c6075665a04485": {
+      "text": "Mitsuru Miyamoto",
+      "status": "imported"
+    },
+    "library_voice_actors:r_361e813fd52797fb": {
+      "text": "Akiko Yajima",
+      "status": "imported"
+    },
+    "library_voice_actors:r_ea2ae7feb85feb09": {
+      "text": "Emi Shinohara",
+      "status": "imported"
+    },
+    "library_voice_actors:r_ebf797132d4ffa69": {
+      "text": "Katsunosuke Hori",
+      "status": "imported"
+    },
+    "library_voice_actors:r_c9d5ec55631344b6": {
+      "text": "Hochu Otsuka",
+      "status": "imported"
+    },
+    "library_voice_actors:r_315a8d0f196a6963": {
+      "text": "Mitsuo Senda",
+      "status": "imported"
+    },
+    "library_voice_actors:r_89c80493038ffdb2": {
+      "text": "Keiichi Sonobe",
+      "status": "imported"
+    },
+    "library_voice_actors:r_f72bcfb9bfa3d544": {
+      "text": "Michiko Neya",
+      "status": "imported"
+    },
+    "library_voice_actors:r_b39ba072e29ab8d3": {
+      "text": "Tomomichi Nishimura",
+      "status": "imported"
+    },
+    "library_voice_actors:r_488f30840bac94a8": {
+      "text": "Tetsu Inada",
+      "status": "imported"
+    },
+    "library_voice_actors:r_f5a5ae987f35a18e": {
+      "text": "Masahiko Tanaka",
+      "status": "imported"
+    },
+    "library_voice_actors:r_c053012f6e570be5": {
+      "text": "Mayumi Asano",
+      "status": "imported"
+    },
+    "library_voice_actors:r_5289bc59f884199c": {
+      "text": "Susumu Chiba",
+      "status": "imported"
+    },
+    "library_voice_actors:r_129fbdb666a8377e": {
+      "text": "Satsuki Yukino",
+      "status": "imported"
+    },
+    "library_voice_actors:r_81d1652b3d5d3bdb": {
+      "text": "Tomoko Kaneda",
+      "status": "imported"
+    },
+    "library_voice_actors:r_85224db4c73e3a89": {
+      "text": "Takehiro Murozono",
+      "status": "imported"
+    },
+    "library_voice_actors:r_442605c41c194373": {
+      "text": "Miyuki Sawashiro",
+      "status": "imported"
+    },
+    "library_voice_actors:r_391a5830debdcf5f": {
+      "text": "Haruna Ikezawa",
+      "status": "imported"
+    },
+    "library_voice_actors:r_d635bc95cca2eefc": {
+      "text": "Tatsuhisa Suzuki",
+      "status": "imported"
+    },
+    "library_voice_actors:r_fc6c1ad3aaad84be": {
+      "text": "Yuki Tai",
+      "status": "imported"
+    },
+    "library_voice_actors:r_7e32d4dd879d983f": {
+      "text": "Yuko Goto",
+      "status": "imported"
+    },
+    "library_voice_actors:r_66c527316be219d0": {
+      "text": "Kazuki Yao",
+      "status": "imported"
+    },
+    "library_voice_actors:r_ef92b81c2d3e99e5": {
+      "text": "Keiji Fujiwara",
+      "status": "imported"
+    },
+    "library_voice_actors:r_5934cc96623b84f1": {
+      "text": "Nobuyuki Hiyama",
+      "status": "imported"
+    },
+    "library_voice_actors:r_782bb400809ace5a": {
+      "text": "Marina Inoue",
+      "status": "imported"
+    },
+    "library_voice_actors:r_dc30e97301af83bc": {
+      "text": "Yukari Fukui",
+      "status": "imported"
+    },
+    "library_voice_actors:r_eea02b86c584acb7": {
+      "text": "Takako Honda",
+      "status": "imported"
+    },
+    "library_voice_actors:r_552048ef4a63494a": {
+      "text": "Shizuka Ito",
+      "status": "imported"
+    },
+    "library_voice_actors:r_0b2438830b4325ce": {
+      "text": "Kisho Taniyama",
+      "status": "imported"
+    },
+    "library_voice_actors:r_bb11d2b8500b7ca6": {
+      "text": "Daiki Nakamura",
+      "status": "imported"
+    },
+    "library_voice_actors:r_d1c92c06c20f2d4e": {
+      "text": "Masaya Onosaka",
+      "status": "imported"
+    },
+    "library_voice_actors:r_06c62d2d4dbfe1c1": {
+      "text": "Narushi Ikeda",
+      "status": "imported"
+    },
+    "library_voice_actors:r_1605361ae94f63cd": {
+      "text": "Daisuke Kirii",
+      "status": "imported"
+    },
+    "library_voice_actors:r_1cd10e07156b399e": {
+      "text": "Takaya Kamikawa",
+      "status": "imported"
+    },
+    "library_voice_actors:r_b4e9a44e1c4bc326": {
+      "text": "Megumi Ogata",
+      "status": "imported"
+    },
+    "library_voice_actors:r_826d6ce700e58910": {
+      "text": "Megumi Hayashibara",
+      "status": "imported"
+    },
+    "library_voice_actors:r_71dd2a668016cf40": {
+      "text": "Yuko Miyamura",
+      "status": "imported"
+    },
+    "library_voice_actors:r_8c38e9f3befdb0f8": {
+      "text": "Maaya Sakamoto",
+      "status": "imported"
+    },
+    "library_voice_actors:r_91ad0bced918aa89": {
+      "text": "Kotono Mitsuishi",
+      "status": "imported"
+    },
+    "library_voice_actors:r_41c62d922737f351": {
+      "text": "Takahiro Sakurai",
+      "status": "imported"
+    },
+    "library_voice_actors:r_5b693ecc15d686a4": {
+      "text": "Ami Koshimizu",
+      "status": "imported"
+    },
+    "library_voice_actors:r_792f0e23683814a5": {
+      "text": "Yuki Kaji",
+      "status": "imported"
+    },
+    "library_voice_actors:r_2a1704c70d3cac6c": {
+      "text": "Ai Kayano",
+      "status": "imported"
+    },
+    "library_voice_actors:r_4fefe0f72e849a40": {
+      "text": "Kana Hanazawa",
+      "status": "imported"
+    },
+    "library_voice_actors:r_6069243bd7dbacf3": {
+      "text": "Kohsuke Toriumi",
+      "status": "imported"
+    },
+    "library_voice_actors:r_8bd3e144205c319d": {
+      "text": "Kensuke Sato",
+      "status": "imported"
+    },
+    "library_voice_actors:r_1d1c042bb5d958c9": {
+      "text": "Yui Ogura",
+      "status": "imported"
+    },
+    "library_voice_actors:r_a94420c7fd1f573c": {
+      "text": "Megumi Nakajima",
+      "status": "imported"
+    },
+    "library_voice_actors:r_c42efede3e6ca39a": {
+      "text": "Sakura Tange",
+      "status": "imported"
+    },
+    "library_voice_actors:r_8eb5ac267f040cf7": {
+      "text": "Jun Fukushima",
+      "status": "imported"
+    },
+    "library_voice_actors:r_d565b4bdd6de6847": {
+      "text": "Hiroki Yasumoto",
+      "status": "imported"
+    },
+    "library_voice_actors:r_061a141d20bfe9ee": {
+      "text": "Ryu Murakami",
+      "status": "imported"
+    },
+    "library_voice_actors:r_b43e3fefea6865df": {
+      "text": "Ryoka Yuzuki",
+      "status": "imported"
+    },
+    "library_voice_actors:r_dd5c2ca2bd7eab6a": {
+      "text": "Shunsuke Sakuya",
+      "status": "imported"
+    },
+    "library_voice_actors:r_1063eea16481e847": {
+      "text": "Kazumi Togashi",
+      "status": "imported"
+    },
+    "library_voice_actors:r_bfbfba07bc31b489": {
+      "text": "Koichi Sakaguchi",
+      "status": "imported"
+    },
+    "library_voice_actors:r_6dd039a5d9934e78": {
+      "text": "Junichi Suwabe",
+      "status": "imported"
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "spirit_hook:r_479b340ccc6c572b": {
+      "text": "Doubles damage dealt and song effects for one attack.\nIf used with Soul, Soul's effect takes priority.",
+      "status": "imported"
+    },
+    "spirit_hook:r_ca4acbac57a2a35e": {
+      "text": "Multiplies damage dealt by 2.2 for one attack.\nIf used with Valor, Soul's effect takes priority.",
+      "status": "imported"
+    },
+    "spirit_hook:r_77949221bf58f862": {
+      "text": "Guarantees a critical hit for one attack.\nNo effect if stacked with Valor or Soul.",
+      "status": "imported"
+    },
+    "spirit_hook:r_70b9c4b9f1f37eff": {
+      "text": "Evades an attack completely for one battle.",
+      "status": "imported"
+    },
+    "spirit_hook:r_9fcb3754cb1773c7": {
+      "text": "Cuts damage taken to 1/8 for one battle.",
+      "status": "imported"
+    },
+    "spirit_hook:r_3559d2fad32c2435": {
+      "text": "Cuts damage taken to 1/4 for 1 turn.",
+      "status": "imported"
+    },
+    "spirit_hook:r_f7570547e9f80a64": {
+      "text": "Hit rate and evasion +30% for 1 turn.",
+      "status": "imported"
+    },
+    "spirit_hook:r_cbab0f4720e1fcf1": {
+      "text": "Sets hit rate to 100% for 1 turn.",
+      "status": "imported"
+    },
+    "spirit_hook:r_0bbe0b4f5364e732": {
+      "text": "Sets the target ally's hit rate to 100%\nfor 1 turn.",
+      "status": "imported"
+    },
+    "spirit_hook:r_5dda5198137cb02a": {
+      "text": "Applies Strike and Alert at the same time.",
+      "status": "imported"
+    },
+    "spirit_hook:r_83ec59afbecdec14": {
+      "text": "Gives the team +3 Move for one action.\nLasts until the unit moves.",
+      "status": "imported"
+    },
+    "spirit_hook:r_e20bfd42ad95a3c9": {
+      "text": "Gives the team one extra action.\nCannot be stacked.",
+      "status": "imported"
+    },
+    "spirit_hook:r_0f58a8822381e57f": {
+      "text": "Restores the user's HP by 30% of max HP.",
+      "status": "imported"
+    },
+    "spirit_hook:r_6dbcc507fb61b51d": {
+      "text": "Fully restores the user's HP.",
+      "status": "imported"
+    },
+    "spirit_hook:r_b42ab697149a7c8a": {
+      "text": "Restores 3000 HP to the target ally.",
+      "status": "imported"
+    },
+    "spirit_hook:r_4de4fcf3b440baf4": {
+      "text": "Restores 2500 HP to the target ally team.",
+      "status": "imported"
+    },
+    "spirit_hook:r_0121a166c715cdff": {
+      "text": "Restores 5000 HP to the whole ally team.",
+      "status": "imported"
+    },
+    "spirit_hook:r_30fad37a42bd3ad3": {
+      "text": "Fully restores ammo and EN of the target ally.\nThe target's Focus will not decrease.",
+      "status": "imported"
+    },
+    "spirit_hook:r_80a0b2a84e05d81a": {
+      "text": "Raises Focus by 10.",
+      "status": "imported"
+    },
+    "spirit_hook:r_4a9ac1dff86506d9": {
+      "text": "Raises Focus by 30.",
+      "status": "imported"
+    },
+    "spirit_hook:r_bc8538e6af3d2577": {
+      "text": "Raises Focus by 5 for every pilot\non the target ally team.",
+      "status": "imported"
+    },
+    "spirit_hook:r_924516c8de2b5342": {
+      "text": "Leaves the enemy at 10 HP instead of finishing them.\nOnly works on a foe with lower Skill than the user.",
+      "status": "imported"
+    },
+    "spirit_hook:r_da1174533722333f": {
+      "text": "Adds +2 range to weapons other than map weapons\nand range-1 weapons for one battle.",
+      "status": "imported"
+    },
+    "spirit_hook:r_fdeb8162976e72c1": {
+      "text": "Ignores damage reduction from size difference,\nAoE penalties, and the foe's defensive skills.",
+      "status": "imported"
+    },
+    "spirit_hook:r_0fadb5c26df92b42": {
+      "text": "Lets any weapon but map weapons be used\nafter moving, for one attack.",
+      "status": "imported"
+    },
+    "spirit_hook:r_6b15af9a0057cdc8": {
+      "text": "Reveals the stats of the target enemy team.",
+      "status": "imported"
+    },
+    "spirit_hook:r_15b4a90140e8a33a": {
+      "text": "Lowers the target enemy team's Focus by 10.",
+      "status": "imported"
+    },
+    "spirit_hook:r_af884a6b11dff121": {
+      "text": "Halves every enemy's hit rate for 1 turn.",
+      "status": "imported"
+    },
+    "spirit_hook:r_ac6fe7838e95647b": {
+      "text": "Applies Accel, Strike, Alert, Valor, Spirit,\nGain, and Luck all at once.",
+      "status": "imported"
+    },
+    "spirit_hook:r_77ca87eacd17ad52": {
+      "text": "Applies Accel, Strike, Wall, Valor, Spirit,\nand Break all at once.",
+      "status": "translated"
+    },
+    "spirit_hook:r_bf3244994760e535": {
+      "text": "Doubles funds from the next enemy defeated.",
+      "status": "imported"
+    },
+    "spirit_hook:r_aabfb21c9d069ce7": {
+      "text": "Applies Luck to the target ally team.",
+      "status": "imported"
+    },
+    "spirit_hook:r_02479dc8fe989560": {
+      "text": "Doubles EXP earned in the next battle.",
+      "status": "imported"
+    },
+    "spirit_hook:r_a2df00f91a9b0a9e": {
+      "text": "Applies Gain to the target ally team.",
+      "status": "imported"
+    },
+    "spirit_hook:r_48b60d6c48b9b142": {
+      "text": "For 1 turn, damage to the target enemy team x1.1\nand damage from that team x0.9.",
+      "status": "imported"
+    },
+    "spirit_hook:r_8927e6fb681aa809": {
+      "text": "Evades the enemy's attack completely for one battle.",
+      "status": "imported"
+    },
+    "spirit_hook:r_665f01666859013b": {
+      "text": "Cuts damage from enemy attacks to 1/4 for 1 turn.",
+      "status": "imported"
+    },
+    "spirit_hook:r_a571eec59b258d11": {
+      "text": "?",
+      "status": "imported"
+    }
+  }
+}

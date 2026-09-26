@@ -1,0 +1,326 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "enemy_names:r_34dc6d5fcf53fd54": {
+      "text": "Neo Zeon Soldier",
+      "status": "imported"
+    },
+    "enemy_names:r_25957df2aa1318c7": {
+      "text": "Altair Soldier",
+      "status": "imported"
+    },
+    "enemy_names:r_39984eeaac8f5f92": {
+      "text": "Terrorist",
+      "status": "imported"
+    },
+    "enemy_names:r_ad84a3869df89781": {
+      "text": "Geminis",
+      "status": "imported"
+    },
+    "enemy_names:r_d21fc2c15f96eb3e": {
+      "text": "Vajra",
+      "status": "imported"
+    },
+    "enemy_names:r_748b65b79a45a9ea": {
+      "text": "Citizen",
+      "status": "imported"
+    },
+    "enemy_names:r_58fdd750786317a2": {
+      "text": "Advanced AI",
+      "status": "imported"
+    },
+    "enemy_names:r_f30b4fc7c781d242": {
+      "text": "Amalgam",
+      "status": "imported"
+    },
+    "enemy_names:r_e679637319b76d28": {
+      "text": "Federation Soldier",
+      "status": "imported"
+    },
+    "enemy_names:r_33e8d9149cf7aa3a": {
+      "text": "AT Pilot",
+      "status": "imported"
+    },
+    "enemy_names:r_2bb07736dab2bb46": {
+      "text": "Mercenary",
+      "status": "imported"
+    },
+    "enemy_names:r_f25f6d74c609811d": {
+      "text": "Firebug Trooper",
+      "status": "imported"
+    },
+    "enemy_names:r_8a21b660c12609ad": {
+      "text": "Space Monster",
+      "status": "imported"
+    },
+    "enemy_names:r_50e87a2fb9246781": {
+      "text": "Space Demon King Soldier",
+      "status": "imported"
+    },
+    "enemy_names:r_01b5de5926290a2c": {
+      "text": "Firebug Trooper",
+      "status": "imported"
+    },
+    "enemy_names:r_08b31989702bc39a": {
+      "text": "AI",
+      "status": "imported"
+    },
+    "enemy_names:r_9d1e81c489407e90": {
+      "text": "Soldier",
+      "status": "imported"
+    },
+    "enemy_names:r_51f94720bca4ee27": {
+      "text": "Kedora",
+      "status": "imported"
+    },
+    "enemy_names:r_a7c14315947afa54": {
+      "text": "Zeon Soldier",
+      "status": "imported"
+    },
+    "enemy_names:r_7438109290fa0b31": {
+      "text": "Branch Member",
+      "status": "imported"
+    },
+    "enemy_names:r_9f1a12ec8fddca3b": {
+      "text": "Mariemaia Soldier",
+      "status": "imported"
+    },
+    "enemy_names:r_0df897000b7652c1": {
+      "text": "Psychic",
+      "status": "imported"
+    },
+    "enemy_names:r_3556a07e9185f541": {
+      "text": "Trooper",
+      "status": "imported"
+    },
+    "enemy_names:r_889c8f331a7fcbce": {
+      "text": "Asuka Shikinami",
+      "status": "imported"
+    },
+    "enemy_names:r_a25b77867981e81a": {
+      "text": "Cardinal",
+      "status": "imported"
+    },
+    "enemy_names:r_6ccee0acff8a8ba7": {
+      "text": "Autonomous Circuit",
+      "status": "imported"
+    },
+    "enemy_names:r_f84b6adc322e4f3f": {
+      "text": "Spectator",
+      "status": "imported"
+    },
+    "enemy_names:r_5e96c2d4a6beaa39": {
+      "text": "A21 Member",
+      "status": "imported"
+    },
+    "enemy_names:r_7f1a897167a5f9e7": {
+      "text": "Gilgamesh Soldier",
+      "status": "imported"
+    },
+    "enemy_names:r_a8450742280831fc": {
+      "text": "Neo Zeon Captain",
+      "status": "imported"
+    },
+    "enemy_names:r_efe82ff4e704e780": {
+      "text": "Balarant Soldier",
+      "status": "imported"
+    },
+    "enemy_names:r_f2875d71a5c44b88": {
+      "text": "Doctor",
+      "status": "imported"
+    },
+    "enemy_names:r_6e30726570a2a0cd": {
+      "text": "Entourage",
+      "status": "imported"
+    },
+    "enemy_names:r_3e22edb5ee1d50f2": {
+      "text": "New U.N. Spacy Soldier",
+      "status": "imported"
+    },
+    "enemy_names:r_582bb72623803e75": {
+      "text": "Mechanical Beast",
+      "status": "imported"
+    },
+    "enemy_names:r_1d16f45685dbc8cb": {
+      "text": "Beastman",
+      "status": "imported"
+    },
+    "enemy_names:r_a3908d26fb4365a5": {
+      "text": "Allegium Defense Trooper",
+      "status": "imported"
+    },
+    "enemy_names:r_5469c8e0f074bc05": {
+      "text": "Mari Makinami",
+      "status": "imported"
+    },
+    "enemy_names:r_7ff5b3d8f787d6f5": {
+      "text": "Kamishiro",
+      "status": "imported"
+    },
+    "enemy_names:r_d811a476360967e3": {
+      "text": "Defense Trooper",
+      "status": "imported"
+    },
+    "enemy_names:r_8e31814e30aafa31": {
+      "text": "Hibiki",
+      "status": "imported"
+    },
+    "enemy_names:r_9f7813de6e1412a7": {
+      "text": "Andrei Sergeivich",
+      "status": "imported"
+    },
+    "enemy_names:r_dfb0c793e039f4bd": {
+      "text": "Idom",
+      "status": "imported"
+    },
+    "enemy_names:r_13c99bb6d60acd9c": {
+      "text": "Waynewright",
+      "status": "imported"
+    },
+    "enemy_names:r_009480de9f260a5e": {
+      "text": "Gilgamesh Officer",
+      "status": "imported"
+    },
+    "enemy_names:r_286cf1995e995d3a": {
+      "text": "Danies",
+      "status": "imported"
+    },
+    "enemy_names:r_c53c21b6e2b2880d": {
+      "text": "Dummy System",
+      "status": "imported"
+    },
+    "enemy_names:r_38d5560376ccfd93": {
+      "text": "Balarant Officer",
+      "status": "imported"
+    },
+    "enemy_names:r_911b3cf33c3772af": {
+      "text": "Parking",
+      "status": "imported"
+    },
+    "enemy_names:r_c348efc26174b46e": {
+      "text": "Britannian Baron",
+      "status": "imported"
+    },
+    "enemy_names:r_95bc3bd940f68c4b": {
+      "text": "Master",
+      "status": "imported"
+    },
+    "enemy_names:r_d36486d1350b3dd7": {
+      "text": "Mars",
+      "status": "imported"
+    },
+    "enemy_names:r_e431f5ae1f6cd8c3": {
+      "text": "Meldy",
+      "status": "imported"
+    },
+    "enemy_names:r_cadf3d35bf21f19e": {
+      "text": "Richard Henry",
+      "status": "imported"
+    },
+    "enemy_names:r_0a0e1f5ebd807e0e": {
+      "text": "Member A",
+      "status": "imported"
+    },
+    "enemy_names:r_e71e9eb0d03975de": {
+      "text": "Member B",
+      "status": "imported"
+    },
+    "enemy_names:r_490050322be52a53": {
+      "text": "Kenzo",
+      "status": "imported"
+    },
+    "enemy_names:r_e2dbb21f0a83311a": {
+      "text": "Medical Staff",
+      "status": "imported"
+    },
+    "enemy_names:r_a2f2db7593bde094": {
+      "text": "Carryover",
+      "status": "imported"
+    },
+    "enemy_names:r_5fc77f5e17459e21": {
+      "text": "Maintenance Soldier",
+      "status": "imported"
+    },
+    "enemy_names:r_202509b78dd24bb8": {
+      "text": "Unmanned",
+      "status": "imported"
+    },
+    "enemy_names:r_1b7d64e77f63a7d7": {
+      "text": "Researcher",
+      "status": "imported"
+    },
+    "enemy_names:r_f0cb9e845b305bae": {
+      "text": "Secretary",
+      "status": "imported"
+    },
+    "enemy_names:r_c2cfdc7d002c6b1f": {
+      "text": "Eighth Angel",
+      "status": "imported"
+    },
+    "enemy_names:r_35a822c832ebcc77": {
+      "text": "Nerima Red Dragon",
+      "status": "imported"
+    },
+    "enemy_names:r_8b90717e1d0a4588": {
+      "text": "Nerima RD",
+      "status": "imported"
+    },
+    "enemy_names:r_878908678607b2e3": {
+      "text": "Narashino Base Trooper",
+      "status": "imported"
+    },
+    "enemy_names:r_a525390ad3259ed7": {
+      "text": "Military Police",
+      "status": "imported"
+    },
+    "enemy_names:r_636b23d8d204acd7": {
+      "text": "Iron Cross Soldier",
+      "status": "imported"
+    },
+    "enemy_names:r_11d0c516e4a45c21": {
+      "text": "EVA Unit-01",
+      "status": "imported"
+    },
+    "enemy_names:r_be8cafc8d1821da6": {
+      "text": "R. Dorothy",
+      "status": "imported"
+    },
+    "enemy_names:r_5a2025f2419c2ba3": {
+      "text": "Guen Bien",
+      "status": "imported"
+    },
+    "enemy_names:r_cdc3de65e6ab38fa": {
+      "text": "Schwarzwald",
+      "status": "imported"
+    },
+    "enemy_names:r_3e94910d041ba4a9": {
+      "text": "John Howard",
+      "status": "imported"
+    },
+    "enemy_names:r_6666b52bd7353fc8": {
+      "text": "Da Montewells",
+      "status": "imported"
+    },
+    "enemy_names:r_be8cff84c1cea2bd": {
+      "text": "Paul Rochina",
+      "status": "imported"
+    },
+    "enemy_names:r_c5b4d3071005d201": {
+      "text": "Yohei",
+      "status": "imported"
+    },
+    "enemy_names:r_9f398d52243067b0": {
+      "text": "Eri",
+      "status": "imported"
+    },
+    "enemy_names:r_0f8d6902c92b2fe3": {
+      "text": "Rika",
+      "status": "imported"
+    },
+    "enemy_names:r_3f8600c734f11d74": {
+      "text": "Mass-Produced Bonta-kun",
+      "status": "imported"
+    }
+  }
+}

@@ -1,0 +1,690 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_063:r_479b340ccc6c572b": {
+      "text": "Can you dodge this?",
+      "status": "imported"
+    },
+    "voice_063:r_ca4acbac57a2a35e": {
+      "text": "Hit 'em!",
+      "status": "imported"
+    },
+    "voice_063:r_77949221bf58f862": {
+      "text": "This is as far as you go!",
+      "status": "imported"
+    },
+    "voice_063:r_70b9c4b9f1f37eff": {
+      "text": "Take this!",
+      "status": "imported"
+    },
+    "voice_063:r_9fcb3754cb1773c7": {
+      "text": "There!",
+      "status": "imported"
+    },
+    "voice_063:r_3559d2fad32c2435": {
+      "text": "Too slow!",
+      "status": "imported"
+    },
+    "voice_063:r_f7570547e9f80a64": {
+      "text": "Out of my way!",
+      "status": "imported"
+    },
+    "voice_063:r_cbab0f4720e1fcf1": {
+      "text": "Go!\\nFunnel!",
+      "status": "imported"
+    },
+    "voice_063:r_0bbe0b4f5364e732": {
+      "text": "Strike the hostility I sense!",
+      "status": "imported"
+    },
+    "voice_063:r_5dda5198137cb02a": {
+      "text": "With this Funnel!",
+      "status": "imported"
+    },
+    "voice_063:r_83ec59afbecdec14": {
+      "text": "Go doooown!",
+      "status": "imported"
+    },
+    "voice_063:r_e20bfd42ad95a3c9": {
+      "text": "You...!",
+      "status": "imported"
+    },
+    "voice_063:r_0f58a8822381e57f": {
+      "text": "Go!",
+      "status": "imported"
+    },
+    "voice_063:r_6dbcc507fb61b51d": {
+      "text": "You bastard!",
+      "status": "imported"
+    },
+    "voice_063:r_b42ab697149a7c8a": {
+      "text": "Impossible! Me...?",
+      "status": "imported"
+    },
+    "voice_063:r_4de4fcf3b440baf4": {
+      "text": "Damn it! Is it over?!",
+      "status": "imported"
+    },
+    "voice_063:r_0121a166c715cdff": {
+      "text": "Damn! I screwed up!",
+      "status": "imported"
+    },
+    "voice_063:r_30fad37a42bd3ad3": {
+      "text": "What?!",
+      "status": "imported"
+    },
+    "voice_063:r_80a0b2a84e05d81a": {
+      "text": "Damn!\\nDid I take too much damage?!",
+      "status": "imported"
+    },
+    "voice_063:r_4a9ac1dff86506d9": {
+      "text": "Impossible!\\nI'm being overwhelmed?!",
+      "status": "imported"
+    },
+    "voice_063:r_bc8538e6af3d2577": {
+      "text": "Ngh! Am I going down?!",
+      "status": "imported"
+    },
+    "voice_063:r_924516c8de2b5342": {
+      "text": "Ngh! Not yet!",
+      "status": "imported"
+    },
+    "voice_063:r_da1174533722333f": {
+      "text": "Not bad! But...!",
+      "status": "imported"
+    },
+    "voice_063:r_fdeb8162976e72c1": {
+      "text": "Ngh! I'm not done yet!",
+      "status": "imported"
+    },
+    "voice_063:r_0fadb5c26df92b42": {
+      "text": "Rrgh! I'm just getting started!",
+      "status": "imported"
+    },
+    "voice_063:r_6b15af9a0057cdc8": {
+      "text": "Tch!\\nBut I'm not finished yet!",
+      "status": "imported"
+    },
+    "voice_063:r_15b4a90140e8a33a": {
+      "text": "Is that all you've got?!",
+      "status": "imported"
+    },
+    "voice_063:r_af884a6b11dff121": {
+      "text": "That attack was nothing!",
+      "status": "imported"
+    },
+    "voice_063:r_ac6fe7838e95647b": {
+      "text": "That won't work!",
+      "status": "imported"
+    },
+    "voice_063:r_77ca87eacd17ad52": {
+      "text": "It's useless!",
+      "status": "imported"
+    },
+    "voice_063:r_bf3244994760e535": {
+      "text": "Like that'll work!",
+      "status": "imported"
+    },
+    "voice_063:r_a2df00f91a9b0a9e": {
+      "text": "Beam attacks are useless!",
+      "status": "imported"
+    },
+    "voice_063:r_48b60d6c48b9b142": {
+      "text": "Ngh! It's no use...",
+      "status": "imported"
+    },
+    "voice_063:r_8927e6fb681aa809": {
+      "text": "Time to show them what I can do!",
+      "status": "imported"
+    },
+    "voice_063:r_665f01666859013b": {
+      "text": "You'll be my stepping stone!",
+      "status": "imported"
+    },
+    "voice_063:r_a571eec59b258d11": {
+      "text": "I know I can surpass the Colonel!",
+      "status": "imported"
+    },
+    "voice_063:r_ddbe581c5ea9183d": {
+      "text": "If I can read their movements...!",
+      "status": "imported"
+    },
+    "voice_063:r_faae935cca0edc72": {
+      "text": "If you're going to interfere...!",
+      "status": "imported"
+    },
+    "voice_063:r_d4430bf362340b32": {
+      "text": "I'll shoot you down!",
+      "status": "imported"
+    },
+    "voice_063:r_6ff1323b355593e0": {
+      "text": "I'm a Newtype!",
+      "status": "imported"
+    },
+    "voice_063:r_b7b5625d7cd4282f": {
+      "text": "Like hell I'll let you through!",
+      "status": "imported"
+    },
+    "voice_063:r_36133ad73a73ef98": {
+      "text": "I can see your every move!",
+      "status": "imported"
+    },
+    "voice_063:r_920740a0219c5085": {
+      "text": "You think you can escape?!",
+      "status": "imported"
+    },
+    "voice_063:r_a8451712c57c1a72": {
+      "text": "I'll prove how powerful I am!",
+      "status": "imported"
+    },
+    "voice_063:r_3633df5b7b8f47fa": {
+      "text": "I'll be a man worthy of Quess!",
+      "status": "imported"
+    },
+    "voice_063:r_52dfc56b14b93551": {
+      "text": "This belongs in a museum.",
+      "status": "imported"
+    },
+    "voice_063:r_1b9b2aab5cb104da": {
+      "text": "I never thought I'd pilot a Gundam!",
+      "status": "imported"
+    },
+    "voice_063:r_342044c706a2340f": {
+      "text": "This will be a direct hit!",
+      "status": "imported"
+    },
+    "voice_063:r_cf41e8828a90cbdb": {
+      "text": "Like hell I'll miss!",
+      "status": "imported"
+    },
+    "voice_063:r_719e897304ec42d4": {
+      "text": "Don't move from there!",
+      "status": "imported"
+    },
+    "voice_063:r_d5e0a2317c40d322": {
+      "text": "I've already got you in my sights!",
+      "status": "imported"
+    },
+    "voice_063:r_ec2ea17765052401": {
+      "text": "You came too close!",
+      "status": "imported"
+    },
+    "voice_063:r_f2d4255f1c2f7542": {
+      "text": "I'll take you on up close!",
+      "status": "imported"
+    },
+    "voice_063:r_5d08ad19e2da125b": {
+      "text": "Bet you never saw this coming!",
+      "status": "imported"
+    },
+    "voice_063:r_8fdf5910927c9591": {
+      "text": "There!",
+      "status": "imported"
+    },
+    "voice_063:r_7d724dbcc4451e10": {
+      "text": "Not yet!",
+      "status": "imported"
+    },
+    "voice_063:r_adeb0a29274d3d9b": {
+      "text": "With this!",
+      "status": "imported"
+    },
+    "voice_063:r_24cf161287ef9d5c": {
+      "text": "This isn't over!",
+      "status": "imported"
+    },
+    "voice_063:r_8f60f6fc86db3107": {
+      "text": "Time to finish you!",
+      "status": "imported"
+    },
+    "voice_063:r_b1de76a75a253c13": {
+      "text": "I'll wipe you all out at once!",
+      "status": "imported"
+    },
+    "voice_063:r_38fdff9483e9245c": {
+      "text": "Running away won't save you!",
+      "status": "imported"
+    },
+    "voice_063:r_620fedec67706d7d": {
+      "text": "I'll corner you!",
+      "status": "imported"
+    },
+    "voice_063:r_2a00f1044ad5cbaa": {
+      "text": "Ignored Gyunei Guss's warning!\\nPay!",
+      "status": "imported"
+    },
+    "voice_063:r_3dbeead1bd3164ef": {
+      "text": "Still standing? Then take one more!",
+      "status": "imported"
+    },
+    "voice_063:r_98d15b8cc09bc915": {
+      "text": "Still in my way, Londo Bell?!",
+      "status": "imported"
+    },
+    "voice_063:r_46e86d000250e137": {
+      "text": "This is as far as you go, Gundam!",
+      "status": "imported"
+    },
+    "voice_063:r_ac341e7976e88f0b": {
+      "text": "I'll beat him,\\nColonel or Commander!",
+      "status": "imported"
+    },
+    "voice_063:r_cdbd128a5b4127cc": {
+      "text": "If I kill the One Year War hero...!",
+      "status": "imported"
+    },
+    "voice_063:r_cfccaa1fbeda124c": {
+      "text": "So the Colonel took a shine to you!",
+      "status": "imported"
+    },
+    "voice_063:r_b1f8ec192b9c083a": {
+      "text": "Damn split-horn! What pressure...!",
+      "status": "imported"
+    },
+    "voice_063:r_a007f9ab9cf048b3": {
+      "text": "Why, Quess?!",
+      "status": "imported"
+    },
+    "voice_063:r_ddafde4b065ced49": {
+      "text": "Quess! I'll get serious too!",
+      "status": "imported"
+    },
+    "voice_063:r_de1213040856c089": {
+      "text": "I had them enhance me\\nto stop you!",
+      "status": "imported"
+    },
+    "voice_063:r_3304412ac41f47a6": {
+      "text": "It's come to this -\\nno mercy, Char!",
+      "status": "imported"
+    },
+    "voice_063:r_0c0775e051211840": {
+      "text": "You're no Red Comet after all!",
+      "status": "imported"
+    },
+    "voice_063:r_a2afffe1c396f0b3": {
+      "text": "Frontal's lapdog!",
+      "status": "imported"
+    },
+    "voice_063:r_13c25fbdfddc8a24": {
+      "text": "Dumped by the Colonel, you fight!",
+      "status": "imported"
+    },
+    "voice_063:r_42ba1ecb310b4bd7": {
+      "text": "I'll shoot down their mothership...!",
+      "status": "imported"
+    },
+    "voice_063:r_d692f1d420460a47": {
+      "text": "Target the battleship!",
+      "status": "imported"
+    },
+    "voice_063:r_a5643cec86b18bd2": {
+      "text": "Monster! I won't let you pass!",
+      "status": "imported"
+    },
+    "voice_063:r_68f2dfab20a4a30e": {
+      "text": "Earth and colonies -\\nnot yours!",
+      "status": "imported"
+    },
+    "voice_063:r_9cedad8237480563": {
+      "text": "Kill or be killed -\\ndon't hesitate!",
+      "status": "imported"
+    },
+    "voice_063:r_5391b24a71eb10ae": {
+      "text": "Here comes that pressure!",
+      "status": "imported"
+    },
+    "voice_063:r_95d047bcc17fccc6": {
+      "text": "Funnel!",
+      "status": "imported"
+    },
+    "voice_063:r_bdd38c584fa313d0": {
+      "text": "Funnel, go!",
+      "status": "imported"
+    },
+    "voice_063:r_3fd86c1027f317c8": {
+      "text": "Hiiit!",
+      "status": "imported"
+    },
+    "voice_063:r_217aa5e1d545b44d": {
+      "text": "Fin Funnel!",
+      "status": "imported"
+    },
+    "voice_063:r_fc25e66a86fc2c85": {
+      "text": "It's no mere cooling fin!",
+      "status": "imported"
+    },
+    "voice_063:r_b765659981b6516d": {
+      "text": "I'll throw them off with the Beam!",
+      "status": "imported"
+    },
+    "voice_063:r_0c427458bc00eb95": {
+      "text": "If it draws in people's souls...!",
+      "status": "imported"
+    },
+    "voice_063:r_774a9ab4d8fd5351": {
+      "text": "Then I can do it too...!",
+      "status": "imported"
+    },
+    "voice_063:r_d3f01de714c015bd": {
+      "text": "Raaaaaaagh!",
+      "status": "imported"
+    },
+    "voice_063:r_f2e18dfdfe0c89ea": {
+      "text": "Go down!",
+      "status": "imported"
+    },
+    "voice_063:r_fa96676cc65bb509": {
+      "text": "Sink!",
+      "status": "imported"
+    },
+    "voice_063:r_0bad405ee6ca63ba": {
+      "text": "Like hell I'll let you escape!",
+      "status": "imported"
+    },
+    "voice_063:r_2072eaf71a260ae7": {
+      "text": "You're full of openings!",
+      "status": "imported"
+    },
+    "voice_063:r_6c13bbfd27a7799e": {
+      "text": "Should've stayed hidden!",
+      "status": "imported"
+    },
+    "voice_063:r_06f88dcbd3c9e738": {
+      "text": "I'll pay you back!",
+      "status": "imported"
+    },
+    "voice_063:r_b28faf9f71bc3598": {
+      "text": "It's your fault for attacking me!",
+      "status": "imported"
+    },
+    "voice_063:r_8a29278549f8e07a": {
+      "text": "I know exactly where you are!",
+      "status": "imported"
+    },
+    "voice_063:r_7e6c573c26177f98": {
+      "text": "I'll take it from here!",
+      "status": "imported"
+    },
+    "voice_063:r_45abf84f7757d6eb": {
+      "text": "I'll strike when your guard is down!",
+      "status": "imported"
+    },
+    "voice_063:r_edd7a13ab8f06a14": {
+      "text": "Colonel, leave this to me!",
+      "status": "imported"
+    },
+    "voice_063:r_8165e5b41f0124c4": {
+      "text": "Watch me, Quess!",
+      "status": "imported"
+    },
+    "voice_063:r_4e05581b7432cce8": {
+      "text": "I'll cover you, Marida!",
+      "status": "imported"
+    },
+    "voice_063:r_a60b107ea3c36a86": {
+      "text": "You didn't finish the job!",
+      "status": "imported"
+    },
+    "voice_063:r_e33693e5ba4665b0": {
+      "text": "Not bad, Amuro Ray!",
+      "status": "imported"
+    },
+    "voice_063:r_72a21a1a489af001": {
+      "text": "I won't lose to you of all people!",
+      "status": "imported"
+    },
+    "voice_063:r_eb643f8bf737a0ca": {
+      "text": "I'll cover you, Gundam!",
+      "status": "imported"
+    },
+    "voice_063:r_0a3fccb71ec6cf2a": {
+      "text": "I'll handle this!",
+      "status": "imported"
+    },
+    "voice_063:r_9b63cf1f3e0207ef": {
+      "text": "Don't worry! This is my mission too!",
+      "status": "imported"
+    },
+    "voice_063:r_625664af02183c17": {
+      "text": "Colonel, don't mind me!",
+      "status": "imported"
+    },
+    "voice_063:r_3701cba361f80ea5": {
+      "text": "Watch out, Quess!",
+      "status": "imported"
+    },
+    "voice_063:r_63f429c5c68c0863": {
+      "text": "That was careless, Quess!",
+      "status": "imported"
+    },
+    "voice_063:r_38e4a434c91d8ef0": {
+      "text": "Don't push yourself, Marida!",
+      "status": "imported"
+    },
+    "voice_063:r_98ed411352a3a6ac": {
+      "text": "You got careless, Amuro Ray!",
+      "status": "imported"
+    },
+    "voice_063:r_4824bea6bab3af67": {
+      "text": "Pathetic, Kamille!",
+      "status": "imported"
+    },
+    "voice_063:r_862b92e63adb9734": {
+      "text": "Stay out of this, brat!",
+      "status": "imported"
+    },
+    "voice_063:r_57b2bd2de8a1408d": {
+      "text": "Stand back, Gundam pilot!",
+      "status": "imported"
+    },
+    "voice_063:r_76f080a4881e8ab5": {
+      "text": "I can't counter...! Not now!",
+      "status": "imported"
+    },
+    "voice_063:r_288133bc5b573dae": {
+      "text": "I have to let them get away?!",
+      "status": "imported"
+    },
+    "voice_063:r_6f95653e548f8fcf": {
+      "text": "I'll only disgrace myself like this!",
+      "status": "imported"
+    },
+    "voice_063:r_d249d68bada91ab9": {
+      "text": "Too bad for you!",
+      "status": "imported"
+    },
+    "voice_063:r_e9b3307e9eb69f11": {
+      "text": "Hah! You've got to be kidding!",
+      "status": "imported"
+    },
+    "voice_063:r_03cdac73042343ee": {
+      "text": "Don't get cocky!",
+      "status": "imported"
+    },
+    "voice_063:r_6026da5acbda7c69": {
+      "text": "You won't even graze me!",
+      "status": "imported"
+    },
+    "voice_063:r_981f8fedd5414fe5": {
+      "text": "Enough wasting time on small fry!",
+      "status": "imported"
+    },
+    "voice_063:r_96bb0dcde0c8c44a": {
+      "text": "I cost them a fortune, you know!",
+      "status": "imported"
+    },
+    "voice_063:r_641550a2f54cb456": {
+      "text": "So much for the famous Gundam!",
+      "status": "imported"
+    },
+    "voice_063:r_a0f2074af8debbfa": {
+      "text": "So Amuro's nothing special!",
+      "status": "imported"
+    },
+    "voice_063:r_b5f5a97ed82acb0b": {
+      "text": "So you're the Colonel's rising star!",
+      "status": "imported"
+    },
+    "voice_063:r_d9cd2e4ded064396": {
+      "text": "I know all your tricks!",
+      "status": "imported"
+    },
+    "voice_063:r_99e6349431aaf23b": {
+      "text": "Damn! Are you serious, Quess?!",
+      "status": "imported"
+    },
+    "voice_063:r_0e7466971bec4cc4": {
+      "text": "Like hell I'll let that hit me!",
+      "status": "imported"
+    },
+    "voice_063:r_efa71f7a4cc33ff3": {
+      "text": "Your aim is way too sloppy!",
+      "status": "imported"
+    },
+    "voice_063:r_3fc2e1186557e7a0": {
+      "text": "I can see you!",
+      "status": "imported"
+    },
+    "voice_063:r_fa6930340a545054": {
+      "text": "That won't do a thing to me!",
+      "status": "imported"
+    },
+    "voice_063:r_854aa0a91a3c80d1": {
+      "text": "The Funnel can even form a barrier.",
+      "status": "imported"
+    },
+    "voice_063:r_0bc8ae32a406ceab": {
+      "text": "Is that the best you can do?!",
+      "status": "imported"
+    },
+    "voice_063:r_82c09f011d703b2c": {
+      "text": "Are you playing around in battle?!",
+      "status": "imported"
+    },
+    "voice_063:r_2b4d8818c77b6dca": {
+      "text": "You think that can beat me...?!",
+      "status": "imported"
+    },
+    "voice_063:r_087354f2db0a31e6": {
+      "text": "No direct hit, no problem!",
+      "status": "imported"
+    },
+    "voice_063:r_db02a2dec93dd263": {
+      "text": "Don't cheer just because you hit me!",
+      "status": "imported"
+    },
+    "voice_063:r_d520c6d5298a848d": {
+      "text": "I can avoid a direct hit!",
+      "status": "imported"
+    },
+    "voice_063:r_099e2458cabf796f": {
+      "text": "Damn it all!",
+      "status": "imported"
+    },
+    "voice_063:r_fd910d714be70870": {
+      "text": "This much won't make me explode!",
+      "status": "imported"
+    },
+    "voice_063:r_9736f29b11344ec3": {
+      "text": "They only hit part of my monitor!",
+      "status": "imported"
+    },
+    "voice_063:r_fcd05582aa5c6068": {
+      "text": "Now that's more like it!",
+      "status": "imported"
+    },
+    "voice_063:r_bece29562818acba": {
+      "text": "Even my reflexes can't keep up...?!",
+      "status": "imported"
+    },
+    "voice_063:r_494b5da92ed24ecb": {
+      "text": "Tch...! Not just small fry, then!",
+      "status": "imported"
+    },
+    "voice_063:r_a4a5a96f4bd58920": {
+      "text": "Damn you, Gundam...!",
+      "status": "imported"
+    },
+    "voice_063:r_b57d2d74233f889a": {
+      "text": "So this is Amuro Ray's power!",
+      "status": "imported"
+    },
+    "voice_063:r_cd06d0820d82524b": {
+      "text": "Damn you, Kamille Bidan!",
+      "status": "imported"
+    },
+    "voice_063:r_c94c6d04be583774": {
+      "text": "The Red Comet earned that name!",
+      "status": "imported"
+    },
+    "voice_063:r_e54e2c99ef8297af": {
+      "text": "That's enough, Quess!",
+      "status": "imported"
+    },
+    "voice_063:r_96b21e3a028dd074": {
+      "text": "As long as it moves, that's enough!",
+      "status": "imported"
+    },
+    "voice_063:r_ce140b5d8e6b7310": {
+      "text": "Any more damage will be fatal...!",
+      "status": "imported"
+    },
+    "voice_063:r_0e0335789c5396d7": {
+      "text": "Me, being pushed back...?!",
+      "status": "imported"
+    },
+    "voice_063:r_a8e85bd950696403": {
+      "text": "Ngh! Is that thing a monster?!",
+      "status": "imported"
+    },
+    "voice_063:r_772c8bc40ab6cb61": {
+      "text": "Think! There must still be a way...!",
+      "status": "imported"
+    },
+    "voice_063:r_58dd2826a199ef51": {
+      "text": "Damn it! I'm Gyunei Guss!",
+      "status": "imported"
+    },
+    "voice_063:r_aadc0b2442adb93b": {
+      "text": "Tch! So this is as far as I go...!",
+      "status": "imported"
+    },
+    "voice_063:r_e7a8cd8ed5bc2d1b": {
+      "text": "I failed as an Enhanced Human...!",
+      "status": "imported"
+    },
+    "voice_063:r_33236ffa3ea95b68": {
+      "text": "I'll go on ahead!",
+      "status": "imported"
+    },
+    "voice_063:r_689d0b123de71ae0": {
+      "text": "You'd make me clear the way...?!",
+      "status": "imported"
+    },
+    "voice_063:r_84883aa95f63ce32": {
+      "text": "We'll hold them here!",
+      "status": "imported"
+    },
+    "voice_063:r_25493e978ce8ff16": {
+      "text": "I'll finish them first!",
+      "status": "imported"
+    },
+    "voice_063:r_7316666150e42960": {
+      "text": "I just need to take that one out...!",
+      "status": "imported"
+    },
+    "voice_063:r_c4f11aa93dc5b668": {
+      "text": "I'll see if you're a worthy foe!",
+      "status": "imported"
+    },
+    "voice_063:r_ce1a22dfe3a4d339": {
+      "text": "I need to live up to expectations!",
+      "status": "imported"
+    },
+    "voice_063:r_240651adab81e145": {
+      "text": "Like hell I'll lose one-on-one!",
+      "status": "imported"
+    }
+  }
+}

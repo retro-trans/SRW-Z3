@@ -1,0 +1,78 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "command_swap_labels:echange_help": {
+      "text": "Change $$ゲパルト$$'s or $$スパーダ$$'s main pilot.",
+      "status": "translated"
+    },
+    "command_swap_labels:element_skill_help": {
+      "text": "Each Element's unique special skill.",
+      "status": "translated"
+    },
+    "command_swap_labels:echange_reset": {
+      "text": "E-Change removes the Spirit effects applied by the pilot being replaced.",
+      "status": "translated"
+    },
+    "command_swap_labels:sp_part_help": {
+      "text": "Restore all main-pilot SP. Single-use; ships can target adjacent units.",
+      "status": "translated"
+    },
+    "command_swap_labels:extra_action_help": {
+      "text": "Gain one extra action if the next attack destroys the enemy team.",
+      "status": "translated"
+    },
+    "command_swap_labels:stat_help": {
+      "text": "Melee/Ranged +30; Defense/Evade -40",
+      "status": "translated"
+    },
+    "command_swap_labels:range_select": {
+      "text": "Select the area of effect.",
+      "status": "translated"
+    },
+    "command_swap_labels:range_confirm": {
+      "text": "Confirm the area of effect.",
+      "status": "translated"
+    },
+    "command_swap_labels:cheer_target": {
+      "text": "『Cheer』 Select an allied team.",
+      "status": "translated"
+    },
+    "command_swap_labels:ally_target": {
+      "text": "Select an allied team.",
+      "status": "translated"
+    },
+    "command_swap_labels:enemy_target": {
+      "text": "Select an enemy team.",
+      "status": "translated"
+    },
+    "command_swap_labels:tactical_title": {
+      "text": "＜Tactical Cmd＞",
+      "status": "translated"
+    },
+    "command_swap_labels:use_suffix": {
+      "text": "is used.",
+      "status": "translated"
+    },
+    "command_swap_labels:bws": {
+      "text": "BWS",
+      "status": "translated"
+    },
+    "command_swap_labels:unknown": {
+      "text": "???",
+      "status": "translated"
+    },
+    "command_swap_labels:a21": {
+      "text": "A21",
+      "status": "translated"
+    },
+    "command_swap_labels:asi": {
+      "text": "ASI",
+      "status": "translated"
+    },
+    "command_swap_labels:ai": {
+      "text": "AI",
+      "status": "translated"
+    }
+  }
+}

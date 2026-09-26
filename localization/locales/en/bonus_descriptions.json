@@ -1,0 +1,950 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "bonus_descriptions:va_709668": {
+      "text": "PP earned via the President skill\nis doubled.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709698": {
+      "text": "On stage clear, receive\n1 Power Part: Ikue's Snack.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_7096d8": {
+      "text": "Skill +10, Move +1,\nhit rate +10%, evasion +10%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709718": {
+      "text": "SP cost of all Spirit Commands -5.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709740": {
+      "text": "At own phase start,\nallied units' Focus +5.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709770": {
+      "text": "At own phase start,\nenemy Focus -3.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_7097a0": {
+      "text": "At 20% HP or less, gains\nWall at own phase start.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_7097e0": {
+      "text": "Hit rate +5%, evasion +5%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709800": {
+      "text": "The ESP skill\nbecomes Super ESP.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709838": {
+      "text": "Cosmo Crusher pilots get\nSP +10 when deployed.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709870": {
+      "text": "Hit rate +10%, evasion +10%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709898": {
+      "text": "At 30% HP or less, the\nSurvivor skill activates.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_7098d0": {
+      "text": "Assist Attack damage dealt x1.4.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_7098f8": {
+      "text": "Damage dealt to lower-level\nfoes x1.5.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709930": {
+      "text": "Counterattack damage x1.2,\nhit rate +20%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709960": {
+      "text": "At Focus 130+, gains the Focus\nSpirit at own phase start.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_7099a0": {
+      "text": "Per female pilot on own or\nan adjacent allied team,\nall stats +3.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_7099f8": {
+      "text": "Counterattack damage x1.2,\ncritical rate +20%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709a30": {
+      "text": "The Enhanced skill becomes\nNewtype, and its level +1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709a70": {
+      "text": "Assist/Support Attack\ndamage dealt x1.2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709aa0": {
+      "text": "Disrupt Spirit SP cost\nbecomes 40.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709ad0": {
+      "text": "Negates consecutive-target\npenalty. Final dmg taken x0.8.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709b08": {
+      "text": "Newtype-only weapon range +1,\nSkill +20.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709b38": {
+      "text": "Newtype skill level +1,\nSkill +20.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709b70": {
+      "text": "At Focus 130+, gains Zeal\nat own phase start.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709bb0": {
+      "text": "Zeal Spirit SP cost\nbecomes 50.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709be0": {
+      "text": "If Char is on the map,\nall stats +10.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709c10": {
+      "text": "At Focus 130+, gains Intuition\nat own phase start.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709c50": {
+      "text": "Hit rate, evasion,\ncritical rate +10%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709c80": {
+      "text": "The Valor Spirit\nbecomes Love.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709cb0": {
+      "text": "Hit rate +10%, damage taken x0.9.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709cd8": {
+      "text": "Move +1.\nZero System activates at Focus 110.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709d10": {
+      "text": "Evasion +20%,\ncritical rate +20%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709d40": {
+      "text": "All-target attack damage x1.2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709d68": {
+      "text": "At own phase start, Focus +3\nfor own and adjacent allied teams.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709da8": {
+      "text": "At Focus 130+, gains Wall\nat own phase start.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709de8": {
+      "text": "On deploy, all allied\nteams gain Accel.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709e18": {
+      "text": "Rouse Spirit SP cost\nbecomes 25.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709e48": {
+      "text": "SP +20 on deploy.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709e60": {
+      "text": "Move +1.\nSEED activates at Focus 110+.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709e98": {
+      "text": "Evasion +20%.\nSEED activates at Focus 110+.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709ed8": {
+      "text": "SP recovery from Innovator\ngets a further +5.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709f10": {
+      "text": "Critical rate +20%.\nAll-target attack damage x1.1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709f50": {
+      "text": "Evasion +20%.\nTeam Move +1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709f80": {
+      "text": "At Focus 130+, enemy teams fought\nare under Analyze until the start\nof the next own phase.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_709fd8": {
+      "text": "Part Supply reaches\nall of command range.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a008": {
+      "text": "Vs. Air/Space terrain: hit +20%,\ndamage dealt x1.1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a040": {
+      "text": "At Focus 120+, gains Luck\nat own phase start.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a080": {
+      "text": "Damage taken x0.9.\nCounterattack damage x1.2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a0b8": {
+      "text": "In Unicorn Gundam (Destroy Mode):\nPP earned x1.2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a100": {
+      "text": "Own team's EXP\nand funds earned x1.2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a128": {
+      "text": "Allies in cmd range:\ndamage taken x0.9.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a158": {
+      "text": "Own team's damage taken x0.8,\nhit rate +20%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a188": {
+      "text": "At own phase start, allies in\ncommand range get Focus +3.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a1c0": {
+      "text": "If Frontal is on the map,\ndamage taken x0.7.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a1f8": {
+      "text": "At own phase start, allies in\ncommand range recover 1000 HP.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a238": {
+      "text": "On Support Attack,\ndamage dealt x1.2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a260": {
+      "text": "Counterattack damage x1.2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a280": {
+      "text": "At Focus 130+, gains Strike\nat own phase start.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a2c0": {
+      "text": "Damage taken x0.9.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a2d8": {
+      "text": "When Feral activates, gains\nthe Zeal Spirit once.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a318": {
+      "text": "At own phase start, allied units\nin command range get SP +2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a358": {
+      "text": "On deploy, Song\nEnergy +20000.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a388": {
+      "text": "Own team: evasion +20%,\nhit rate +15%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a3b8": {
+      "text": "Can Transform after moving;\nthe unit gains Double Image.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a3f8": {
+      "text": "With a female pilot on own team,\ncritical rate +30%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a438": {
+      "text": "Analyze and Disrupt Spirit\nSP costs -10.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a478": {
+      "text": "Basara's song effect values on\nown team's pilots are doubled;\nevasion +15%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a4c8": {
+      "text": "If Michel is on the map,\ncritical rate +30%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a500": {
+      "text": "Own team's weapon range +1,\nexcept MAP and range-1 weapons.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a538": {
+      "text": "Allies in command range:\nhit rate +15%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a568": {
+      "text": "If another Vajra is\nattacked, Focus +1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a5a0": {
+      "text": "At Focus 170+,\ndamage dealt x1.3.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a5d0": {
+      "text": "At Focus 150+,\nevasion +40%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a5f8": {
+      "text": "At Focus 150+,\ndamage taken x0.7.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a628": {
+      "text": "At Focus 130+,\nSP +10 at own phase start.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a660": {
+      "text": "Focus +2 when damaged.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a680": {
+      "text": "At Focus 130+,\ndamage dealt x1.2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a6b0": {
+      "text": "Repair HP recovery\nis doubled.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a6d8": {
+      "text": "The Spirit command\nbecomes Spirit+.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a708": {
+      "text": "All Mech. Beasts: hit +20%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a728": {
+      "text": "At own phase start,\nown team SP +5, Focus +3.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a760": {
+      "text": "Once, at 50% HP or less,\ngains the Bravery Spirit.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a7a0": {
+      "text": "Hit rate +20%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a7b8": {
+      "text": "Hit rate +20%,\nFocus +5 at own phase start.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a7e8": {
+      "text": "Hit rate +15%,\nFocus +3 at own phase start.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a818": {
+      "text": "When Potential triggers,\nMove +1, dmg dealt x1.1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a850": {
+      "text": "Hit rate +10%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a868": {
+      "text": "The Negotiator skill's Focus\nreduction becomes -5.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a8a0": {
+      "text": "Damage taken x0.8.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a8b8": {
+      "text": "At 50% HP or less, uses\nDisrupt at own phase start.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a8f8": {
+      "text": "The Lucky skill\nbecomes Genius.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a920": {
+      "text": "All own-team units gain\nthe Grav Field effect.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a950": {
+      "text": "All own-team pilots gain\nthe Linking effect.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a980": {
+      "text": "All own-team units gain\nthe Impact effect.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a9b0": {
+      "text": "All own-team units gain\nthe Despair Sen effect.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70a9e0": {
+      "text": "All own-team units gain\nthe Digging effect.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70aa10": {
+      "text": "Spirit Song's stat boost\nbecomes +10.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70aa40": {
+      "text": "All own-team units gain\nthe Fragile effect.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70aa70": {
+      "text": "All own-team units gain\nthe Space Fill effect.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70aaa8": {
+      "text": "All own-team units gain\nthe Opt. Camo effect.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70aae0": {
+      "text": "Corrosion's effect\nrange +1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70ab08": {
+      "text": "At own phase start, allied\npilots on the map get Focus +2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70ab40": {
+      "text": "When Counter triggers,\ndamage dealt x1.1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70ab78": {
+      "text": "Severing's damage reduction\nbecomes 1500.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70aba8": {
+      "text": "At Focus 150+, gains Love\nat own phase start.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70abe0": {
+      "text": "Re-Attack can\nalways trigger.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70ac08": {
+      "text": "Dmg dealt to women x0.8,\ndmg dealt to men x1.2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70ac48": {
+      "text": "On using Tactic Cmd, gain 3 PP\nper allied team affected.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70ac98": {
+      "text": "Geass Curse is always\nactive.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70acc0": {
+      "text": "All own-team units'\nmelee weapon dmg\ndealt x1.1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70ad00": {
+      "text": "At Focus 130+,\nall own-team pilot stats +10.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70ad38": {
+      "text": "The Spiral Pow skill\nbecomes Spiral MAX.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70ad68": {
+      "text": "When tagged with Darry,\ndamage dealt x1.2, taken x0.8.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70ada8": {
+      "text": "When tagged with Gimmy,\ndamage dealt x1.2, taken x0.8.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70ade8": {
+      "text": "At Focus 140+, gains Fury\nat own phase start.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70ae28": {
+      "text": "Love Spirit SP cost\nbecomes 50.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70ae58": {
+      "text": "At own phase start,\nenemy Focus -5.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70ae88": {
+      "text": "Sync Rate +25 on deploy.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70aea8": {
+      "text": "A.T. Field base value\nbecomes 3300.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70aee0": {
+      "text": "Focus +10 on deploy;\nAssail Spirit SP cost\nbecomes 20.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70af28": {
+      "text": "Support Attack dmg x1.2;\nFocus +5 when joining one.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70af68": {
+      "text": "Sync Rate +50 on entry.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70af88": {
+      "text": "Foc always 170.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70afa0": {
+      "text": "Once, at 5% HP or less,\nHP/EN fully recover.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70afd8": {
+      "text": "Tentacle power +500, range +2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b000": {
+      "text": "At Focus 130+, gains the\nStrike and Snipe Spirits.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b040": {
+      "text": "When HP hits 0, HP fully\nrecovers once.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b078": {
+      "text": "A.T. Field effect\n+1000.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b0a8": {
+      "text": "Ranged, Melee, Hit, Skill +10.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b0c8": {
+      "text": "Foes it battles lose 5 Focus.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b0e8": {
+      "text": "Allies in command range:\ncritical rate +20%, hit rate +10%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b128": {
+      "text": "Dmg dealt to women x0.9,\ndmg dealt to men x1.1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b168": {
+      "text": "Fury SP cost\nbecomes 20.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b198": {
+      "text": "Allies in command range:\nEXP and funds earned x1.2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b1d8": {
+      "text": "Focus +3 when damaged;\ncounterattack damage x1.2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b210": {
+      "text": "Foes it damages lose\n5 Focus and 5 SP.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b240": {
+      "text": "If Yu Lan is on the map,\ndamage dealt x1.1, taken x0.8.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b288": {
+      "text": "If Yu Fan is on the map,\ndamage dealt x1.1, taken x0.8.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b2d0": {
+      "text": "At Focus 130+,\ndamage taken x0.8.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b300": {
+      "text": "A21 units on the map:\nhit rate +10%, evasion +10%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b338": {
+      "text": "All weapon ammo x2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b350": {
+      "text": "Hit rate +10%, critical rate +10%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b380": {
+      "text": "At Focus 150+,\nworks a Miracle once.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b3b0": {
+      "text": "At Focus 150+,\ndamage dealt x1.1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b3e0": {
+      "text": "At Focus 130+,\ndamage dealt x1.1, Move +1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b418": {
+      "text": "At own phase start,\nown team's pilots get SP +10.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b450": {
+      "text": "Hit rate +10%, evasion +10%,\ncritical rate +10%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b490": {
+      "text": "Hit rate +10%. Evasion +10%.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b4b8": {
+      "text": "Saber and Bird Attack range +2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b4e8": {
+      "text": "Resupplied pilots get Focus +5.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b510": {
+      "text": "On daytime and space maps, gains EN Regen (M).",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b548": {
+      "text": "Black Ox Attack power +200, range +1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b588": {
+      "text": "EN +100, Move +2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b5a8": {
+      "text": "Move +1, all weapon power +300.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b5d8": {
+      "text": "Move +1, all weapon CRT +30.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b600": {
+      "text": "Pile Bunker ammo +3, Move +1, Mobility +20.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b640": {
+      "text": "Move +1, Volley Fire range +2, ammo +2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b670": {
+      "text": "When Bio-Sensor activates, pilot stats +10.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b6b0": {
+      "text": "Long Rifle power +300.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b6d8": {
+      "text": "Gains Resupply Module.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b6f8": {
+      "text": "Newtype-only weapon power rises with skill level.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b738": {
+      "text": "Beam Rifle power +300.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b760": {
+      "text": "Move +1, all weapon range +1, except MAP/range-1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b7a0": {
+      "text": "Mega Particle Salvo power +300, Max EN +60.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b7d8": {
+      "text": "Funnel ammo +4, CRT +25.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b808": {
+      "text": "Funnel ammo +4, hit +30.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b838": {
+      "text": "Enhances Zero System.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b860": {
+      "text": "Hyper Jammer has no Focus limit; all weapon CRT +20.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b8a0": {
+      "text": "Mobility +15, all weapon ammo x1.5.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b8d8": {
+      "text": "Armor +300, gains Resupply Module.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b908": {
+      "text": "Dragon Fang range +2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b928": {
+      "text": "Mobility +15, Beam Rifle becomes usable after moving.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b968": {
+      "text": "Move +2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b978": {
+      "text": "Accuracy +10, Beam Rifle power +200.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b9b0": {
+      "text": "Accuracy +15, all weapon range +1, except MAP/range-1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70b9f0": {
+      "text": "Max EN +80, all weapon CRT +30.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70ba20": {
+      "text": "Mobility +15, all weapon range +1, except MAP/range-1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70ba60": {
+      "text": "Max EN +100.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70ba78": {
+      "text": "All weapon range +2, except MAP/range-1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bab0": {
+      "text": "Move +1, all weapons usable after moving.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bae8": {
+      "text": "GN Field effect +400, Max EN +50.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bb28": {
+      "text": "During Trans-Am, all weapons usable after moving.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bb60": {
+      "text": "Move +1, Mobility +15.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bb80": {
+      "text": "Unit/weapon terrain: Space S, Air S.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bbb0": {
+      "text": "Move +1, Mobility +15, Max EN +80.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bbe0": {
+      "text": "Mega Beam Launcher power +200, hit +20.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bc20": {
+      "text": "Transform after move.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bc38": {
+      "text": "HP recovered by Repair x2.0.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bc60": {
+      "text": "Hyper Mega Particle Cannon EN cost -30, Focus req. -10.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bca0": {
+      "text": "Newtype-only weapon power +200, CRT +10.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bce0": {
+      "text": "All weapon power +300, hit +20.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bd10": {
+      "text": "All weapon power +200.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bd30": {
+      "text": "Armor +200, Max EN +80.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bd50": {
+      "text": "Move +1, gains EN Regen (S).",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bd78": {
+      "text": "All song range +2, excl. MAP/range-1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bda8": {
+      "text": "Move +1, all weapon power +200.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bdd8": {
+      "text": "Unit/weapon terrain: Air S.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70be00": {
+      "text": "Sniper Rifle (Precision) range +2, adds Mobility Down.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70be40": {
+      "text": "Jamming effect also covers adjacent teams.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70be80": {
+      "text": "Mobility +20, Accuracy +20, Armor +200.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70beb0": {
+      "text": "Impact Cannon power +200, range +1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bee8": {
+      "text": "Volley Fire ammo +2, Armor +400.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bf18": {
+      "text": "Docked recovery becomes 100%, with no Focus loss.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bf58": {
+      "text": "Unit/weapon terrain: Air S, Space S.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bf88": {
+      "text": "At own phase start, adjacent allied units recover 40 EN.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bfc8": {
+      "text": "All weapon terrain ranks: S.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70bff0": {
+      "text": "Armor +300, EN +50.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c010": {
+      "text": "Repair Module range +2.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c038": {
+      "text": "Resupply Module range +1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c060": {
+      "text": "HP and EN Regen become (L).",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c088": {
+      "text": "Great Knot Punisher power +200, ammo +1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c0c8": {
+      "text": "Plasma Gimmick becomes usable after moving.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c100": {
+      "text": "Max HP +1500, EN +50.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c128": {
+      "text": "Spread Phase-Shift Cannon (All) power +300.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c158": {
+      "text": "Radiant Wave Surger power +300.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c180": {
+      "text": "MVS Dual Wield power +300.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c1a8": {
+      "text": "Varis Full Power power +300.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c1d8": {
+      "text": "Max EN +100, all weapon CRT +20.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c208": {
+      "text": "Weapon range +1, except MAP and range-1; Armor +200.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c248": {
+      "text": "Gunmarl Glaive power +200, range +1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c280": {
+      "text": "Gunmarl Glaive (Shot) power +200, range +1.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c2c0": {
+      "text": "Max HP +2000, Armor +300.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c2e8": {
+      "text": "Missile Salvo becomes usable after moving.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c318": {
+      "text": "A.T. Field effect +400.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c348": {
+      "text": "All weapon ammo x1.5.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c370": {
+      "text": "Move +1, Max HP +500, Armor +200.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c3a0": {
+      "text": "Enhances Lambda Driver.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c3c8": {
+      "text": "Mobility +15, Crimson Edge power +200.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c400": {
+      "text": "All weapons gain Focus Down.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c428": {
+      "text": "Inertial Canceller EN cost -5.",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c460": {
+      "text": "None",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c468": {
+      "text": "Unit/wpn terrain: Air S",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c488": {
+      "text": "Unit/wpn terrain: Land S",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c4a8": {
+      "text": "Unit/wpn terrain: Sea S",
+      "status": "translated"
+    },
+    "bonus_descriptions:va_70c4c8": {
+      "text": "Unit/wpn terrain: Space S",
+      "status": "translated"
+    }
+  }
+}

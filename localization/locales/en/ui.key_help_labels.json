@@ -1,0 +1,374 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ui.key_help_labels:r_f8b3ebee87de84b8": {
+      "text": "Change Page",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_05e7634b8081f430": {
+      "text": "Back",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_86b6701b7e295756": {
+      "text": "Switch Details",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_e058ebcca8e2a393": {
+      "text": "(Power Parts)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_724cf522ef04e256": {
+      "text": "(Change Unit)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_b2cdb6dfe07f096b": {
+      "text": "(Sub-Pilot)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_58b6b6ee0f037639": {
+      "text": "Character Encyclopedia",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_61f4ef041484f9b4": {
+      "text": "(Pilot Training)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_d63a9a525f4989b3": {
+      "text": "Robot Encyclopedia",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_b3e6376a2773cdd7": {
+      "text": "(Upgrades)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_b710070fc03eb2d1": {
+      "text": "Move Cursor",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_9bc44e79e9076c1d": {
+      "text": "Select Unit",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_f78d5db29b2af4fe": {
+      "text": "Locate on Map",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_e27a030707b8d08e": {
+      "text": "Status",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_95cf0cedfd541853": {
+      "text": "Switch Team Info",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_8af3adf5ae071ec3": {
+      "text": "Switch Enemy / Ally",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_1a398fb189190402": {
+      "text": "Change Sort Order",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_128157faf36a6ebf": {
+      "text": "Switch Sub-Info",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_46037d685457376b": {
+      "text": "Switch Unit Info",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_58dab78490fff4e2": {
+      "text": "Select",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_a68e61f8f7e406cb": {
+      "text": "Confirm",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_742573c979f7759c": {
+      "text": "Change Search",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_0175225ed4cc62e3": {
+      "text": "Locate Marked Unit",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_8bacaa812cd54ac2": {
+      "text": "(Toggle Mark)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_40ef0f509227a620": {
+      "text": "First / Last on Page",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_f71f26bada9b8294": {
+      "text": "Switch Item",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_99e53b1d338acd0e": {
+      "text": "Select Pilot",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_7ee1dd018b1a8b6f": {
+      "text": "Pilot Status",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_36fcb9ae8fd00e7a": {
+      "text": "Unit Status",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_b61d6ff40cd5ee28": {
+      "text": "Change Conditions",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_765d1ec07326c08d": {
+      "text": "Select Mech",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_e65a4ee818a238e2": {
+      "text": "Mech Status",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_15449ba871bb0a4b": {
+      "text": "Confirm Mark",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_19eccd3296147e70": {
+      "text": "Launch",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_85383fd67ec0a5ca": {
+      "text": "Switch",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_40b23b3143d852c1": {
+      "text": "(Settings)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_15f3691e034df578": {
+      "text": "Finish Settings",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_0a4044757532753c": {
+      "text": "Play",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_7e23643ec5b10b84": {
+      "text": "Set Default Music",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_13dcdb3eedd6df1d": {
+      "text": "Randomize All",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_bd3a1e2b6432cf25": {
+      "text": "(Switch Details)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_fe472cc7ca9b28e4": {
+      "text": "Select Command",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_750797e15934e606": {
+      "text": "Spirit Commands",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_350e8ec0172f930c": {
+      "text": "Start Battle",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_f66a383f120c15a8": {
+      "text": "(Switch Target)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_bdfcab4c5132058f": {
+      "text": "(Switch Sub Action)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_1715bf93a435a185": {
+      "text": "(Toggle Support Attack)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_846394542ea1b6b5": {
+      "text": "Toggle Animation",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_30aeec41bb72b31a": {
+      "text": "View Map",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_a85d380cc2d08fe7": {
+      "text": "(Select Weapon)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_c8b32c9d1b1da869": {
+      "text": "(Switch Main Action)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_4ed78f2edfa97a88": {
+      "text": "(Toggle Support Defense)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_9ee9d299c34f3af7": {
+      "text": "Toggle Mark",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_7afe6e4f0d45d687": {
+      "text": "Unmark / Back",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_e3d69b9cbe67e27e": {
+      "text": "Open Confirmation",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_b911e010acd1e5c7": {
+      "text": "List / Individual",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_f478b0abb65bfa2c": {
+      "text": "Adjust Upgrade Level",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_94f278d7a1db750a": {
+      "text": "Cancel Upgrade / Back",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_f694445cfbe94fa8": {
+      "text": "(View Transformations)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_2392e20bcfba6a02": {
+      "text": "Change Unit",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_ddc1a2799af20b1b": {
+      "text": "Remove",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_7db33fa7087817e7": {
+      "text": "(Change Page)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_bb8901d15ce4b611": {
+      "text": "Change Category",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_346112f915e90cb8": {
+      "text": "Apply Mark",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_ec5c03917b8e1176": {
+      "text": "(Status)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_2c1a1fdb82ea408e": {
+      "text": "Select Item",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_280f1025f24d7eb1": {
+      "text": "Switch Pilot",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_fc30ea62365fb2c3": {
+      "text": "Adjust Stats",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_b9735ce56d3968cb": {
+      "text": "(Change / Switch)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_bec6c7853846a2d9": {
+      "text": "Individual / All",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_230f63bf987f61aa": {
+      "text": "Fill Empty Slots",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_44a66b9bada64a98": {
+      "text": "Switch Order",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_9fa8e7b6d936cc2e": {
+      "text": "Cursor",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_6df45c680d3a48c8": {
+      "text": "Delete / Space",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_cb24324f32dbb663": {
+      "text": "Space / Delete",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_3853dd7eaac1ba4d": {
+      "text": "Finish Entry",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_21664a81d51cab8f": {
+      "text": "Move Text Cursor",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_6acda239f715d7b7": {
+      "text": "Change Character Type",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_2f435430643d1838": {
+      "text": "Next Reading",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_c8303681fd9ea18d": {
+      "text": "Change Input Mode",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_2a92bdfa74c06390": {
+      "text": "(Assign to Team)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_bbdf2b3859fd5652": {
+      "text": "(Menu)",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_94b707b5d9089fc4": {
+      "text": "Support Commands",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_0b6cdd5f06430782": {
+      "text": "Switch Search Item",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_1665d2801c9c7485": {
+      "text": "Select Team",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_1a23733bdf1c989a": {
+      "text": "Execute",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_116b97a82f2548ec": {
+      "text": "Toggle All Marks",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_1bb50ac0c64d7a59": {
+      "text": "Swap",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_dc362a01bb418737": {
+      "text": "Switch Mode",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_8cbcd91cb336a6fd": {
+      "text": "Trade List",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_933f9563033461be": {
+      "text": "Page / Quantity",
+      "status": "imported"
+    },
+    "ui.key_help_labels:r_191cf964f9167b10": {
+      "text": "Power Part slots. A slot lights up when a part is equipped.",
+      "status": "imported"
+    }
+  }
+}

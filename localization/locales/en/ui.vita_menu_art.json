@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ui.vita_menu_art:main": {"text": "Main", "status": "translated"},
+    "ui.vita_menu_art:tutorial": {"text": "Tutorial", "status": "translated"},
+    "ui.vita_menu_art:scenario": {"text": "Scenario", "status": "translated"}
+  }
+}

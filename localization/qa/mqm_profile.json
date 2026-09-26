@@ -1,0 +1,14 @@
+{
+  "id": "srw-z3-ai-mqm-v1",
+  "label": "AI-assessed MQM; not human-validated",
+  "severity_weights": {"neutral": 0, "minor": 1, "major": 5, "critical": 25},
+  "linguistic_categories": ["accuracy", "terminology", "fluency", "style", "context"],
+  "separate_categories": ["design_markup"],
+  "denominator": "1000 source Unicode characters excluding whitespace, declared tokens, and link delimiters; includes punctuation and speaker names",
+  "threshold": null,
+  "batch_rows": 80,
+  "sources": [
+    "https://www.themqm.org/mqm-pillars/the-mqm-scoring-models/",
+    "https://www.themqm.org/guidance/values-and-scores/"
+  ]
+}

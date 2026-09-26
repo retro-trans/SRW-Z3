@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "language": "en",
+  "translation_root": "localization/locales/en",
+  "glossary": "localization/locales/en/glossary.json",
+  "content_globs": ["localization/messages/*.json", "localization/locales/{language}/*.json", "localization/manifest.json", "localization/assets.json", "platforms/ps3/localization/*.json", "platforms/vita/localization/*.json"],
+  "exclude": [],
+  "policy": "Edit shared locale messages once. Legacy JSON is a generated compatibility view. Platform bindings are not portable addresses; each platform must verify its own locations."
+}

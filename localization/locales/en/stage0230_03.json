@@ -1,0 +1,762 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0230_03:r_caaab7bad760e16d": {
+      "text": "Crusher Team Base Salon",
+      "status": "imported"
+    },
+    "stage0230_03:r_99b162aa6aa286a2": {
+      "text": "Crusher Team Base Salon",
+      "status": "imported"
+    },
+    "stage0230_03:r_58fb02434a1c40b2": {
+      "text": "Crusher Team Base Salon",
+      "status": "imported"
+    },
+    "stage0230_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　　\n　　　　　　　　　～ Far East Branch Base Salon ～",
+      "status": "imported"
+    },
+    "stage0230_03:r_1263541f4071624e": {
+      "text": "$$ワッ太$$\n「Sounds like you had it rough too, $$桂$$.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_3bc300bbdc277d82": {
+      "text": "$$桂$$\n「When I returned from $$ＡＤＷ$$, that spacequake\n　didn't send me to this world. I made it back\n　to the 《$$ファクトリー$$》 safely...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_38762a09460d8b6b": {
+      "text": "$$桂$$\n「I thought I could go back to roaming around\n　with Mimsy, free as the wind. Then I got caught\n　in another spacequake. Just my luck.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_7ab28e70b4d4f641": {
+      "text": "$n\n（This man fought with $$ＺＥＵＴＨ$$ in $$ＵＣＷ$$,\n　then joined $$ＺＥＸＩＳ$$ in $$ＡＤＷ$$ too...）",
+      "status": "imported"
+    },
+    "stage0230_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$桂$$\n「Well... Maybe it's the fate of a Singularity.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_ec335e69f984b8b3": {
+      "text": "$n\n「A Singularity?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_0abcaf0c31978670": {
+      "text": "$$柿小路$$\n「Ah... This is your first time meeting $$桂$$, $n.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_1d6bc48b7f246730": {
+      "text": "Kei\n「Then let me introduce myself.\n　I'm $$桂木桂$$, a handsome young man,\n　as you can see, and I pilot the $$オーガス$$.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_1af20fccc3c53cfc": {
+      "text": "$$モーム$$\n「I'm $$モーム$$, Master $$桂$$'s personal assistant robot.\n　It's a pleasure to meet you.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_f951916061232dcd": {
+      "text": "$$スズネ$$\n「I can't believe such an adorable girl is a robot...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_4d863c3fb88a4c39": {
+      "text": "$$ワッ太$$\n「Miss $$スズネ$$'s right.\n　If only a certain dimensional merchant\n　were as cute as $$モーム$$.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_44f4742c3dcce39a": {
+      "text": "$$モーム$$\n「Thank you, Master $$ワッ太$$.\n　I'm so happy to hear you say that.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_9e701cdeb3842c21": {
+      "text": "$$ワッ太$$\n「Hehe... I'm used to being called President,\n　but Master still feels kind of embarrassing.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_6fd81f4abebe60c5": {
+      "text": "$n\n「So what did you mean by Singularity?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_da2132b5038ec737": {
+      "text": "$$桂$$\n「Simply put, I'm the reason the current\n　multiverse came into being.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_495d61d3ec7e16f2": {
+      "text": "$n\n「What...?!」",
+      "status": "imported"
+    },
+    "stage0230_03:r_5cd353758cfe474d": {
+      "text": "$$桂$$\n「During an operation in another world,\n　I activated something called a 《$$時空震動弾$$》.\n　It caused the dimensional barriers to collapse...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_a653c8dec4c0f06f": {
+      "text": "$$桂$$\n「The result was a multiverse where parallel worlds\n　all mixed together.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_86d493e37a9799a7": {
+      "text": "$n\n「The $$時空震動弾$$...\n　That was the root cause of everything...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_09d0fcc600cdd3df": {
+      "text": "$$桂$$\n「When I activated it,\n　my partner $$オルソン#50$$ and I were both there,\n　and we became Singularities...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_182faded068c15ed": {
+      "text": "$$桂$$\n「That made us the key to $$時空修復$$ in $$ＵＣＷ$$.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_9c206d19bfda4bd5": {
+      "text": "$$スズネ$$\n「Then can you repair spacetime\n　and restore the world to how it was?!」",
+      "status": "imported"
+    },
+    "stage0230_03:r_6e558bc69acf5bf3": {
+      "text": "$$桂$$\n「If a Singularity, the will that began a spacequake,\n　contacts the origin of the dimensions forming the\n　multiverse, the Great Singularity, repair is possible...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_d60d0818e965232f": {
+      "text": "$$桂$$\n「But so many spacequakes have struck this multiverse,\n　we no longer know where that origin is.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_5b23687574286204": {
+      "text": "$$ワッ太$$\n「So basically, it's impossible?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_6fd86c96891ea942": {
+      "text": "$$桂$$\n「Yeah, pretty much.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_43e4e548c0b28376": {
+      "text": "$$柿小路$$\n「You're as carefree as ever, $$桂$$.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_d80a9688790ed583": {
+      "text": "$$桂$$\n「We have no choice but to accept what happened.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_708bea61e3c43ada": {
+      "text": "$$モーム$$\n「That positive attitude is what makes you so great,\n　Master $$桂$$!」",
+      "status": "imported"
+    },
+    "stage0230_03:r_7b6f159eeaf4de0f": {
+      "text": "$$桂$$\n「Though I guess I've gotten used\n　to this kind of situation...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_0827963cfd706e8d": {
+      "text": "$$桂$$\n「For now, I'll keep hope alive in this world too.\n　I dream of the day I return to my beloved Mimsy.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$モーム$$\n「Of course I'll help too, Master Kei!\n　With daily life and even navigating the $$オーガス$$!」",
+      "status": "imported"
+    },
+    "stage0230_03:r_3f4035fd9db81258": {
+      "text": "$$桂$$\n「I'm counting on you, $$モーム$$.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_567b361a454c4b73": {
+      "text": "$$桂$$\n「Well, I'll be in your care from now on.\n　Should I start by saying hello to Director $$大塚$$?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_d22851aaafbbf8fc": {
+      "text": "$$ワッ太$$\n「I heard the Director went to $$アクエリア市$$.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_352534f64413d954": {
+      "text": "$$柿小路$$\n「It likely has something to do\n　with that machine called Aquarion.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_79f2664edb1af798": {
+      "text": "$$桂$$\n「I see...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$桂$$\n（What's this strange feeling...?\n　That was my first time seeing Aquarion,\n　yet it somehow feels familiar...）",
+      "status": "imported"
+    },
+    "stage0230_03:r_1c5aa0d15ae24846": {
+      "text": "$$桂$$\n（But everyone from $$ＺＥＵＴＨ$$ and $$ＺＥＸＩＳ$$\n　says they've never seen it before...\n　Is it just my imagination...?）",
+      "status": "imported"
+    },
+    "stage0230_03:r_53bb64ee17750ee2": {
+      "text": "Neo-DEAVA Command Room",
+      "status": "imported"
+    },
+    "stage0230_03:r_7a7add80fde475ba": {
+      "text": "Neo-DEAVA Command Room",
+      "status": "imported"
+    },
+    "stage0230_03:r_b2befefdbed1393d": {
+      "text": "Neo-DEAVA Command Room",
+      "status": "imported"
+    },
+    "stage0230_03:r_2103f6df2ea2e447": {
+      "text": "　\n　\n　　　　　　　　～ Neo-DEAVA Command Room ～",
+      "status": "imported"
+    },
+    "stage0230_03:r_a12e3e130d896ff7": {
+      "text": "$$大塚$$\n「...Very well, Chairwoman $$クレア$$.\n　As you proposed, the Far East Branch will take in\n　Aquarion and the Elements.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_b6f7b219eb4bd64b": {
+      "text": "$$クレア$$\n「Thank you, Director $$大塚$$.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_91bf33c27ad39f0a": {
+      "text": "$$クレア$$\n「I intend to deploy Aquarion with the combination\n　that is currently most stable:\n　$$アマタ$$, $$カイエン$$, and $$ゼシカ$$.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_ee220318b96ab538": {
+      "text": "$$クレア$$\n「However, the Elements will be swapped as needed\n　to suit battlefield conditions.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_ce1b55e526b6277a": {
+      "text": "$$ミサト$$\n「You mean Element Change via teleportation.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_c304df6888eb78f7": {
+      "text": "$$クレア$$\n「$$ゲパルト$$'s crew are $$カイエン$$, $$アンディ$$, $$モロイ$$, and $$ミコノ$$.\n　$$スパーダ$$'s are $$ゼシカ$$, $$ＭＩＸ$$, $$サザンカ$$, and $$シュレード$$...\n　Switch them on the battlefield as needed.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_c26958634526e597": {
+      "text": "$$クレア$$\n「When you do, the Elements' mental condition\n　will carry over from the previous pilots.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_cdb750c9d380881a": {
+      "text": "$$ミサト$$\n「Understood.\n　For the time being, I, Lt. Col. Katsuragi,\n　will oversee its operation.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_95fda74613c97b39": {
+      "text": "$$クレア$$\n「Also, when Aquarion uses certain weapons,\n　the optimal Elements will be selected automatically.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_1956994937f8171e": {
+      "text": "$$城田$$\n「I see...\n　So there is no need to perform Element Change\n　consciously.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_48f49f6728c15612": {
+      "text": "$$クレア$$\n「Correct.\n　Changes made when using these weapons are temporary.\n　Afterward, it will return to its prior state.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ミサト$$\n「As expected of technology from another world...\n　It's unlike any machine system we know.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_f02c37d91387d0ad": {
+      "text": "$$クレア$$\n「Furthermore, $$聖天使学園$$ has established\n　a sister school partnership with Jindai High\n　in Tokyo-2.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$クレア$$\n「When there are no deployments,\n　the Elements will study a variety of subjects\n　at Jindai High.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_9796b3efa401a303": {
+      "text": "$$大塚$$\n「Understood.\n　We will make the necessary arrangements.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_643b6eebfc0186b3": {
+      "text": "$$不動$$\n「May I ask one thing?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_291280e5f7eb9d70": {
+      "text": "$$城田$$\n「What is it, Supreme Commander $$不動$$?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_32eb462c1b4999cb": {
+      "text": "$$不動$$\n「How does one make this doughnut vanish?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_1f4337d6d393fc37": {
+      "text": "$$城田$$\n「What...?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_4740e748fae085ee": {
+      "text": "$$城田$$\n（Is this some sort of Zen riddle...?\n　No, before that... Where did this man\n　even get that doughnut...?）",
+      "status": "imported"
+    },
+    "stage0230_03:r_b76524cd840e1d37": {
+      "text": "$$不動$$\n「Well...?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_730ffe18400abfc2": {
+      "text": "$$ミサト$$\n（What is the point of this question...?\n　Could our answer make them withdraw the offer\n　to entrust Aquarion to us...?）",
+      "status": "imported"
+    },
+    "stage0230_03:r_ffe0fca26da5cd38": {
+      "text": "$$不動$$\n「Well...?!」",
+      "status": "imported"
+    },
+    "stage0230_03:r_bfb27f9eb2f7073e": {
+      "text": "$$大塚$$\n「Wouldn't the doughnut be gone if you ate it?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_859dfa27bcaafe30": {
+      "text": "$$城田$$\n「D-Director $$大塚$$...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_71ebf05996a4b0fd": {
+      "text": "$$不動$$\n「Then all that remains is the void...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_6214c11b1bca811e": {
+      "text": "$$大塚$$\n「That's rather dramatic.\n　If you're still hungry, just buy another.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_8eaf6f3098ffed12": {
+      "text": "$$不動$$\n「Splendid...!」",
+      "status": "imported"
+    },
+    "stage0230_03:r_cf507214fe955d75": {
+      "text": "$$大塚$$\n「Pardon?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_2113dcbabdfc758a": {
+      "text": "$$不動$$\n「Director $$大塚$$, the Elements are in your care.\n　May these youths enjoy a wholesome education.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$大塚$$\n「You need not worry about that.\n　Our force has many young people\n　around their age.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_6a74519e1fc29c4b": {
+      "text": "$$城田$$\n「W-Well then, we will take our leave.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_5b992878fee054b5": {
+      "text": "$$スオミ$$\n「...But are you certain about this?\n　You're placing the Elements in an environment\n　where they will mingle with the opposite sex.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$クレア$$\n「That is also why we are assigning them to this force.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_4a14ec0c511c7f0d": {
+      "text": "$$スオミ$$\n「Why, Chairwoman?\n　Didn't we fit the Elements with devices\n　that shock them to prevent romance?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_20cf167c0ec0d4d5": {
+      "text": "$$不動$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0230_03:r_b591d812c96c6c99": {
+      "text": "$$スオミ$$\n「I heard you and the Chairwoman traveled the world\n　to unravel Aquarion's mysteries. What connection\n　does love have to Aquarion?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_e350fa099c1ab072": {
+      "text": "$$クレア$$\n「Miss $$スオミ$$...\n　You know the story of $$アポロン$$ and $$シルフィ$$, yes?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$スオミ$$\n「Y-Yes... Everyone knows that fairy tale.\n　I believe they even made a movie about it.\n　It was called $$アクエリアの舞う空$$...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_c33bd700553abf91": {
+      "text": "$$クレア$$\n「Yes... 12,000 years ago, after the battle\n　with the $$堕天翅$$, the lovers $$アポロン$$\n　and $$シルフィ$$ were torn apart.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_feee5c91826230e1": {
+      "text": "$$クレア$$\n「Feelings too intense can sometimes bring ruin...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_bccc48e1964ad22d": {
+      "text": "$$クレア$$\n「$$アポロン$$ and $$シルフィ$$'s longing for each other\n　after being torn apart is what causes the revived\n　Aquarion of our era to go berserk.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_f8736aaaa216c766": {
+      "text": "$$スオミ$$\n「Berserk...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_d1ec2522c87c361d": {
+      "text": "$$クレア$$\n「That is why Neo-DEAVA sealed Aquarion's true power.\n　...You know that all too well,\n　don't you, Mr. $$ドナール$$?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_3599f0a4343fd95c": {
+      "text": "$$ドナール$$\n「Yes... More than I ever wanted to.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_3bc7834a5bf3ee76": {
+      "text": "$$クレア$$\n「It seems we cannot avoid fighting the Abductors\n　in this world either.\n　And our enemies are growing more powerful.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_366814efdc8b5800": {
+      "text": "$$クレア$$\n「To fight them,\n　we have no choice but to rely on forbidden power.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_9be1a4c10bb62515": {
+      "text": "$$スオミ$$\n「Forbidden power...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_94a88c90e557e16e": {
+      "text": "$$クレア$$\n「Aquarion syncs with the Elements' emotions\n　across dimensions, amplifying its power in battle...\n　The fiercer the emotions, the greater its strength.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_1c208ca0cbf26f28": {
+      "text": "$$クレア$$\n「What is the fiercest, most passionate emotion\n　a person can feel...? Do you know, Miss $$スオミ$$?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_5b7ee307a700171a": {
+      "text": "$$スオミ$$\n「Resentment or jealousy, perhaps...?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_8d8f065c932da30a": {
+      "text": "$$不動$$\n「Wrong.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_f5432119677514f7": {
+      "text": "$$スオミ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_4e5c8e989c4a7691": {
+      "text": "$$不動$$\n「A crush.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_adec86483b13599a": {
+      "text": "$$スオミ$$\n「A crush...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_2cf701bbcde3ec13": {
+      "text": "$$クレア$$\n「But it must remain only a crush.\n　If it ever develops into genuine romance,\n　Aquarion will go berserk...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_c17c58fdba72005e": {
+      "text": "$$ドナール$$\n（That was the tragedy of that Aquarion...\n　The day I lost Nanao...）",
+      "status": "imported"
+    },
+    "stage0230_03:r_1fe8564d2b959317": {
+      "text": "$$クレア$$\n「But if they fight just shy of the forbidden step,\n　right at the threshold where a crush becomes romance,\n　Aquarion will wield tremendous power.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_f527e012803f7f1c": {
+      "text": "$$スオミ$$\n「Then the power $$アマタ・ソラ$$ has shown until now...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_4b1247bd3ca4905d": {
+      "text": "$$クレア$$\n「Likely came from his relationship with\n　$$ミコノ・スズシロ$$, just short of romance.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_00c55e25f87b71d0": {
+      "text": "$$不動$$\n「We seek power just shy of running wild...\n　This is love held at the brink!」",
+      "status": "imported"
+    },
+    "stage0230_03:r_338f3b27e51dcc41": {
+      "text": "$$クレア$$\n「The Elements have lived in the closed world\n　of $$聖天使学園$$. They will have many new\n　experiences in the world beyond it.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_d91d4bc2d52b61c4": {
+      "text": "$$スオミ$$\n「And learn about love...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_0c8ea89b07432421": {
+      "text": "$$ドナール$$\n「But what if it develops into romance...?!」",
+      "status": "imported"
+    },
+    "stage0230_03:r_4dbfba00ba7744ee": {
+      "text": "$$クレア$$\n「I wonder what will happen...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_be100a32b731708d": {
+      "text": "$$不動$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0230_03:r_702f82442fcec8a9": {
+      "text": "Student Council Room",
+      "status": "imported"
+    },
+    "stage0230_03:r_b1e38da4e8775ffe": {
+      "text": "Student Council Room",
+      "status": "imported"
+    },
+    "stage0230_03:r_d2f1bf5ab2f0e41a": {
+      "text": "Student Council Room",
+      "status": "imported"
+    },
+    "stage0230_03:r_2acc8ade0cc6dfa2": {
+      "text": "　\n　\n　　　　　　　　　～ Jindai High, Student Council Room ～",
+      "status": "imported"
+    },
+    "stage0230_03:r_3dad695c99e9e052": {
+      "text": "$$アルト$$\n「...If the student council president summoned us,\n　does this have something to do\n　with the Volunteer Club's activities?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_66d4ae3a21caf881": {
+      "text": "$$かなめ$$\n「Most likely.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_0c18da7b3a37825d": {
+      "text": "$n\n「I understand why $$アルト$$, our president, Chidori,\n　our manager, and $$宗介$$, our security officer,\n　are here, but do I need to be?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_63249745ffae61b6": {
+      "text": "$$かなめ$$\n「What are you talking about?\n　$n... You're the vice president.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_abdb034ae8509702": {
+      "text": "$n\n「When did that happen?!」",
+      "status": "imported"
+    },
+    "stage0230_03:r_3ff2e21207d1d1d3": {
+      "text": "$$アルト$$\n「That's news to me too.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_e51ecf6d6aa42e75": {
+      "text": "$$かなめ$$\n「Well... While you were all away on missions,\n　the school pointed out that we hadn't chosen\n　a vice president...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_47ddabb7b60131c2": {
+      "text": "$$かなめ$$\n「So there you have it.\n　I chose based on my own judgment and bias.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_b025267f22788233": {
+      "text": "$n\n「Without even asking me...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_ec1a06a7023bf72c": {
+      "text": "$$かなめ$$\n「Sorry, sorry.\n　But I did put plenty of thought into it.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_8805f96e52aaa462": {
+      "text": "$$アルト$$\n「Give it up, $n.\n　Taking on things like this is part\n　of the volunteer spirit.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_124591cb154fae64": {
+      "text": "$n\n「...I guess I have no choice...\n　I owe all of you, after all.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$かなめ$$\n「You all have it rough too...\n　You fight across the world and in space, then come\n　back and get sent everywhere as volunteers...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_4bf9b05b5f948170": {
+      "text": "$$アルト$$\n「That's what we get for naming the club this!」",
+      "status": "imported"
+    },
+    "stage0230_03:r_eaa52d152f444bfd": {
+      "text": "$n\n「Calm down, $$アルト$$.\n　Is your volunteer spirit as president a sham?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_b4bc9e9435b58e6f": {
+      "text": "$$アルト$$\n「Ugh...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_a9227573166977a9": {
+      "text": "$$宗介$$\n「That is enough.\n　His Excellency the President has arrived.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_b0600ab9a9e8559d": {
+      "text": "$$林水$$\n「Everyone assembled ahead of time.\n　You are clearly well trained.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_7cbc63dad295f862": {
+      "text": "$$宗介$$\n「We are honored, Your Excellency.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_07f53c816e0a51f5": {
+      "text": "$$かなめ$$\n（These two get along strangely well...）",
+      "status": "imported"
+    },
+    "stage0230_03:r_2d09c6f6a2d990ea": {
+      "text": "$n\n（If he is on $$宗介$$'s wavelength,\n　then that president isn't normal either.）",
+      "status": "imported"
+    },
+    "stage0230_03:r_3c5fcfc484a51913": {
+      "text": "$$アルト$$\n（Neither are you.）",
+      "status": "imported"
+    },
+    "stage0230_03:r_0476ffd10c764b0e": {
+      "text": "$$林水$$\n「I read Miss $$スズネ$$'s report\n　on the Volunteer Club's accomplishments.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$かなめ$$\n「What...? But wasn't that report for the school...?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_2b3479c4cf0680f4": {
+      "text": "$$林水$$\n「Students are a vital part of this school.\n　I believe the student council that governs them\n　naturally has the right to examine such reports.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_e370696b8936b08c": {
+      "text": "$$かなめ$$\n「So you got the report\n　through some shady means...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_9d7b02c5e728b7aa": {
+      "text": "$$林水$$\n「I merely exercised a legitimate right.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_9af213fc64e0afec": {
+      "text": "$$アルト$$\n（Just who is that president...?）",
+      "status": "imported"
+    },
+    "stage0230_03:r_d7f1c506e78e55ff": {
+      "text": "$n\n（It would be dangerous to defy him carelessly...）",
+      "status": "imported"
+    },
+    "stage0230_03:r_0c705091f748360e": {
+      "text": "$$宗介$$\n「So, Your Excellency...\n　Does your summons mean\n　we have a new mission?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_9eb8599304125b2f": {
+      "text": "$$林水$$\n「Correct.\n　Mr. $$大貫$$, the caretaker, has requested\n　assistance cleaning the school.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_a072aa25e5f521e0": {
+      "text": "$$林水$$\n「Though he has gained a young helper in Mr. Nagare,\n　it appears he still cannot attend\n　to the entire school.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_24e1a808a1609a1a": {
+      "text": "$$かなめ$$\n「And you want the Volunteer Club to help?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_53128ce8f154fd06": {
+      "text": "$$林水$$\n「Compelling you to accept would violate\n　the spirit of volunteerism.\n　You must decide for yourselves whether to accept.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_03b5db9ce98fb8d6": {
+      "text": "$n\n「What do you say, $$アルト$$?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_3915fb4102f1c1dd": {
+      "text": "$$アルト$$\n「What do I say...?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_817b2773b4ed563e": {
+      "text": "$$かなめ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0230_03:r_1cc233cbc8c80af7": {
+      "text": "$$かなめ$$\n「Accept the request」\n「Decline the request」",
+      "status": "imported"
+    },
+    "stage0230_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$$かなめ$$\n「$$アルト$$, we have no choice but to accept.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_e180b22d18f48d38": {
+      "text": "$$アルト$$\n「But...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_e598c2a0b27e7f50": {
+      "text": "$n\n（Read the room, $$アルト$$.\n　This is the student council president's trap.）",
+      "status": "imported"
+    },
+    "stage0230_03:r_4d2a9066c4e7b27f": {
+      "text": "$$かなめ$$\n（If we refuse here,\n　he'll saddle us with an even harder problem.）",
+      "status": "imported"
+    },
+    "stage0230_03:r_10340119af3ed6db": {
+      "text": "$$アルト$$\n「F-Fine...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_23a9c7ab620ab112": {
+      "text": "$$林水$$\n「Well then, Saotome...\n　May I take it that you accept the request?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_4f0aca6deda07883": {
+      "text": "$$アルト$$\n「Yes!\n　The Volunteer Club pledges to serve\n　our school and society in the spirit of service!」",
+      "status": "imported"
+    },
+    "stage0230_03:r_8fe40600ce62dfbc": {
+      "text": "$n\n（You're getting desperate, President...）",
+      "status": "imported"
+    },
+    "stage0230_03:r_ff4ce5f3cf96b617": {
+      "text": "$$林水$$\n「Understood.\n　Ask Mr. $$大貫$$ for the details.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_d73c21f119847e35": {
+      "text": "$$かなめ$$\n（Aww... So much for our long awaited day off...）",
+      "status": "imported"
+    },
+    "stage0230_03:r_89766f5ffaa912d4": {
+      "text": "$$アルト$$\n（Then we'll finish as fast as we can.\n　I'll make $$カミーユ$$, $$葵$$, and the others help too.）",
+      "status": "imported"
+    },
+    "stage0230_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$かなめ$$\n「President, we'd very much like to help Mr. $$大貫$$,\n　but our members are tired from all their activities\n　both in and outside school.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_451f726d4299ea35": {
+      "text": "$$かなめ$$\n「So, regrettable though it is,\n　we will have to take this time to rest.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_e3d111e8bb190cb1": {
+      "text": "$$林水$$\n「Then it cannot be helped.\n　Well... Mr. Nagare should do the work\n　of about ten people.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_7c0d3c51f9a11ca0": {
+      "text": "$$かなめ$$\n「Yes!\n　I'm sure he can handle it!」",
+      "status": "imported"
+    },
+    "stage0230_03:r_ab97c2b2418ea732": {
+      "text": "$$アルト$$\n「$$かなめ$$...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_2ddff5064af78db4": {
+      "text": "$n\n「You were looking out for us...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_050d0532c4b24bfe": {
+      "text": "$$かなめ$$\n「I'm the manager.\n　Looking after everyone's health is part of my job.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_d583fcea31bdad2e": {
+      "text": "$$かなめ$$\n「Everyone, enjoy your first day off in ages.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_475f7653621a91b5": {
+      "text": "$$宗介$$\n「The timing is convenient.\n　$$風間$$ invited me to an event.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_f228ae702350849b": {
+      "text": "$n\n「An event?」",
+      "status": "imported"
+    },
+    "stage0230_03:r_d69dc027cba3003f": {
+      "text": "$$宗介$$\n「It is quite interesting.\n　You should all come with me.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_3c3735172a480b72": {
+      "text": "$$アルト$$\n「An event $$宗介$$ finds interesting...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_1f418b5594cea300": {
+      "text": "$$かなめ$$\n「I'm getting a bad feeling about this...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_f87fb889124bfaef": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0230_03:r_79c90de32a79212d": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0230_03:r_33f7fd55913419e8": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0230_03:r_473d9a88b4ca96e7": {
+      "text": "　\n　　\n　　　　　　　　　　　～ D-Trader ～",
+      "status": "imported"
+    },
+    "stage0230_03:r_4de6ac85c63bac12": {
+      "text": "$$ＡＧ$$\n「Well, well. It seems $n and the others\n　will be volunteering under the direction\n　of Mr. $$大貫$$, the caretaker.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_4c92652c9b1adf6f": {
+      "text": "$$ＡＧ$$\n「As for this Mr. $$大貫$$...\n　By my estimation...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_ce90563a934d49fb": {
+      "text": "$$ＡＧ$$\n「Too bad! We're out of time!\n　A stranger to the spirit of service,\n　I'll work hard today too... business, business!」",
+      "status": "imported"
+    },
+    "stage0230_03:r_4fb296e63cb1fb46": {
+      "text": "$$ＡＧ$$\n「Well, well. It seems $n and the others\n　will be heading out with $$宗介$$ as their guide.」",
+      "status": "imported"
+    },
+    "stage0230_03:r_6d77e72dbbcd7dfe": {
+      "text": "$$ＡＧ$$\n「Goodness. I must agree with $$かなめ$$,\n　this leaves me deeply worried...」",
+      "status": "imported"
+    },
+    "stage0230_03:r_9dc59affd40f32fc": {
+      "text": "$$ＡＧ$$\n「Well, I suppose it's only to be expected.\n　Now then, I'll work hard today too...\n　business, business!」",
+      "status": "imported"
+    }
+  }
+}

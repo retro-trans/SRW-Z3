@@ -1,0 +1,842 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0094_04:r_caaab7bad760e16d": {
+      "text": "$$テッサ$$\n「Things have gone smoothly so far.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_99b162aa6aa286a2": {
+      "text": "$$マデューカス$$\n「If we maintain this pace,\n　we'll reach a position overlooking Leyte Island in three hours.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_58fb02434a1c40b2": {
+      "text": "$$テッサ$$\n「But Neo Zeon won't just\n　leave us be.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_1c0f94acd5a8a143": {
+      "text": "$$マデューカス$$\n「I expect the $c ships departing $$メリダ島$$ later\n　will serve as a diversion, but...」",
+      "status": "translated"
+    },
+    "stage0094_04:r_1263541f4071624e": {
+      "text": "$$テッサ$$\n「What worries me is Amalgam.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_3bc300bbdc277d82": {
+      "text": "$$カリーニン$$\n「You think they'll move, using this as a chance?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_38762a09460d8b6b": {
+      "text": "$$テッサ$$\n「There have already been several instances of them\n　cooperating with Neo Zeon, or rather,\n　with $$フル・フロンタル$$'s faction.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_7ab28e70b4d4f641": {
+      "text": "$$テッサ$$\n「What's more, they've also been seen\n　coordinating with Geminis.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$カリーニン$$\n「Neo Zeon's $$フル・フロンタル$$, Amalgam,\n　Geminis...」",
+      "status": "translated"
+    },
+    "stage0094_04:r_ec335e69f984b8b3": {
+      "text": "$$マデューカス$$\n「I see...\n　Every one of them holds a particular\n　hostility toward $c and $$ミスリル$$.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_0abcaf0c31978670": {
+      "text": "$$テッサ$$\n「I can't imagine they'd let this chance slip by.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_1d6bc48b7f246730": {
+      "text": "$$テッサ$$\n「Report the situation!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_1af20fccc3c53cfc": {
+      "text": "$$マデューカス$$\n「Zeon underwater mobile suits confirmed on our heading!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_f951916061232dcd": {
+      "text": "$$カリーニン$$\n「So, they've come after all...」",
+      "status": "translated"
+    },
+    "stage0094_04:r_4d863c3fb88a4c39": {
+      "text": "$$テッサ$$\n「It seems our movements were detected.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_44f4742c3dcce39a": {
+      "text": "$$マデューカス$$\n「What are your orders, Captain?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_9e701cdeb3842c21": {
+      "text": "$$テッサ$$\n「We can't afford to waste time or strength here.\n　We'll force a breakthrough with this ship.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_6fd81f4abebe60c5": {
+      "text": "$$マデューカス$$\n「Aye aye, ma'am!\n　All hands, battle stations!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_da2132b5038ec737": {
+      "text": "$$テッサ$$\n（Sagara, everyone...\n　I'll get you all to space, whatever it takes.）",
+      "status": "translated"
+    },
+    "stage0094_04:r_495d61d3ec7e16f2": {
+      "text": "$$マデューカス$$\n「Enemy craft closing in confirmed!\n　They're charging straight at us!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_5cd353758cfe474d": {
+      "text": "$$テッサ$$\n「Evasive action, hurry!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_a653c8dec4c0f06f": {
+      "text": "$$テッサ$$\n「A suicide charge...!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_86d493e37a9799a7": {
+      "text": "$$マデューカス$$\n「The ballast tanks are damaged!\n　We're having trouble adjusting buoyancy!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_09d0fcc600cdd3df": {
+      "text": "$$テッサ$$\n「It can't be helped.\n　The Danaan will surface close to sea level!\n　We'll deploy the strike force there!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_182faded068c15ed": {
+      "text": "$$マデューカス$$\n「Aye, ma'am!\n　The Danaan, surface!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_9c206d19bfda4bd5": {
+      "text": "$$宗介$$\n「We'll cover the Danaan from this position!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_6e558bc69acf5bf3": {
+      "text": "$$アル$$\n「Sergeant, enemy units are inbound to this area.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_d60d0818e965232f": {
+      "text": "$$宗介$$\n「What!?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_5b23687574286204": {
+      "text": "$$ガウルン$$\n「Nice work, Mr. Zeon.\n　You drew them out nicely.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_6fd86c96891ea942": {
+      "text": "$$宗介$$\n「$$ガウルン$$!\n　So you're alive!?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_43e4e548c0b28376": {
+      "text": "$$ガウルン$$\n「Yo, Kashim.\n　That turnaround in Hong Kong was quite the show.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_d80a9688790ed583": {
+      "text": "$$ガウルン$$\n「Guess a trick like that wasn't gonna kill you after all.\n　So here I am, come in person.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_708bea61e3c43ada": {
+      "text": "$$クルーゾー$$\n「The enemy's an Amalgam elite unit...!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_7b6f159eeaf4de0f": {
+      "text": "$$クルツ$$\n「On top of Lambda Driver models,\n　there's that huge AS too...!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_0827963cfd706e8d": {
+      "text": "$$マオ$$\n「Working with Neo Zeon\n　to crush us, huh...!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$ロジャー$$\n「And on top of that, $$ファイヤバグ$$ and that unpleasant\n　trio of theirs are here too.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_3f4035fd9db81258": {
+      "text": "$$カレン$$\n「Not now, this is annoying!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_567b361a454c4b73": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0094_04:r_d22851aaafbbf8fc": {
+      "text": "$$宗介$$\n「As always, $$キリコ$$ just ignores it.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_352534f64413d954": {
+      "text": "$$ロジャー$$\n「Ignore the eyesore punks...\n　I should take a page from his book.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_79f2664edb1af798": {
+      "text": "$$ゲイツ$$\n「That's what he says, bro.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$ベック$$\n「That stuck-up attitude of his\n　is what I hate!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_1c5aa0d15ae24846": {
+      "text": "$$カン・ユー$$\n「I know how you feel, $$ベック$$!\n　That's why today we must make them eat their words!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_53bb64ee17750ee2": {
+      "text": "$$ファイヤバグ$$ Trooper\n（Ever since the $$姫$$ cast us aside, it's been\n　one hardship after another, but taking in\n　that trio made it even worse...）",
+      "status": "translated"
+    },
+    "stage0094_04:r_7a7add80fde475ba": {
+      "text": "$$ファイヤバグ$$ Trooper\n（Those guys... are they cursed!?）",
+      "status": "translated"
+    },
+    "stage0094_04:r_b2befefdbed1393d": {
+      "text": "$$ファイヤバグ$$ Trooper\n（Ahh... where is our new $$姫$$...）",
+      "status": "translated"
+    },
+    "stage0094_04:r_2103f6df2ea2e447": {
+      "text": "$$ガウルン$$\n「Work hard, Mister $$ゲイツ$$.\n　Don't waste the favor I did you, giving work\n　to a guy who quit the organization.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_a12e3e130d896ff7": {
+      "text": "$$ゲイツ$$\n「Oh, listen to you!\n　You let your pet Lolita run wild in Hong Kong,\n　so why do you get off scot-free!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ガウルン$$\n「Mr. Ag took care of that nicely for me.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_91bf33c27ad39f0a": {
+      "text": "$$ゲイツ$$\n「Ugh, I hate it, I hate it!\n　In the end, it's all about who you know!\n　What a harsh world, so hard to live in!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_ee220318b96ab538": {
+      "text": "$$ガウルン$$\n「So, want to come back to Amalgam?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_ce1b55e526b6277a": {
+      "text": "$$ゲイツ$$\n「Don't make me laugh.\n　This $$ゲイツ$$... is satisfied with his life now.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_c304df6888eb78f7": {
+      "text": "$$ゲイツ$$\n「The most important thing in this world!\n　It's freedom! A free heart bound by nothing!\n　Viva freedom!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_c26958634526e597": {
+      "text": "$$キラ$$\n「...What a strange guy.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_cdb750c9d380881a": {
+      "text": "$$宗介$$\n「But be careful.\n　His skill is real.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_95fda74613c97b39": {
+      "text": "$$ガウルン$$\n「Well then, here I come, Kashim.\n　And you too, $c.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_1956994937f8171e": {
+      "text": "$$ガウルン$$\n「This is my one true final battle!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_48f49f6728c15612": {
+      "text": "$$宗介$$\n「Just what I wanted, $$ガウルン$$!\n　This time, I'll settle things with you for good!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$マデューカス$$\n「Enemy annihilation confirmed」",
+      "status": "translated"
+    },
+    "stage0094_04:r_f02c37d91387d0ad": {
+      "text": "$$カリーニン$$\n「But this means our arrival at Leyte Island\n　will be significantly delayed.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$テッサ$$\n「That's likely exactly what Amalgam\n　and Neo Zeon were aiming for.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_9796b3efa401a303": {
+      "text": "$$レナード$$\n「Too bad, Teletha.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_643b6eebfc0186b3": {
+      "text": "$$テッサ$$\n「...!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_291280e5f7eb9d70": {
+      "text": "$$マデューカス$$\n「An intruder on our comm line!?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_32eb462c1b4999cb": {
+      "text": "$$カリーニン$$\n「It looks like $c's units are getting the transmission too.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_1f4337d6d393fc37": {
+      "text": "$$レナード$$\n「I'd rather you not be surprised by something this small.\n　You $$ミスリル$$ folks seem to have a habit\n　of thinking you're the top of the world.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_4740e748fae085ee": {
+      "text": "$$テッサ$$\n「...Are you with Amalgam?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_b76524cd840e1d37": {
+      "text": "$$レナード$$\n「That's right.\n　I've been given the code name Mr. Ag.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_730ffe18400abfc2": {
+      "text": "$$レナード$$\n「First, let me honestly commend you\n　for turning back the unit we sent.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_ffe0fca26da5cd38": {
+      "text": "$$レナード$$\n「But meanwhile, we took the opportunity\n　to crush your lifeline.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_bfb27f9eb2f7073e": {
+      "text": "$$マデューカス$$\n「You don't mean...!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_859dfa27bcaafe30": {
+      "text": "$$レナード$$\n「Amalgam's forces destroyed\n　the launch facility on Leyte Island.\n　This should delay $c's trip to space considerably.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_71ebf05996a4b0fd": {
+      "text": "$$テッサ$$\n「Are you saying you don't care what happens to the world?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_6214c11b1bca811e": {
+      "text": "$$レナード$$\n「I don't think that at all.\n　But $$エタニティ・フラット$$ and Neo Zeon\n　are both trivial matters to me.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_8eaf6f3098ffed12": {
+      "text": "$$レナード$$\n「Why don't you give up already?\n　Risking your life to protect such a twisted world\n　is a ridiculous thing to do.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_cf507214fe955d75": {
+      "text": "$$レナード$$\n「Or do you still not understand, Teletha?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_2113dcbabdfc758a": {
+      "text": "$$テッサ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0094_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$レナード$$\n「Then let me make you understand.\n　It's not a very smart method, though.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_6a74519e1fc29c4b": {
+      "text": "$$マデューカス$$\n「Reinforcements!?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_5b992878fee054b5": {
+      "text": "$$レナード$$\n「Facing this many at once\n　will be tough, even for your prized submarine.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$レナード$$\n「You'd do well to surrender quietly, Teletha.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_4a14ec0c511c7f0d": {
+      "text": "$$テッサ$$\n「...$$マデューカス$$, $$カリーニン$$,\n　please recover $c's units.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_20cf167c0ec0d4d5": {
+      "text": "$$マデューカス$$\n「Aye, ma'am.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_b591d812c96c6c99": {
+      "text": "$$カリーニン$$\n「All units, return to the $$トゥアハー・デ・ダナン$$.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_e350fa099c1ab072": {
+      "text": "$$クルツ$$\n「What are you planning to do, $$テッサ$$!?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ゼロ$$\n「For now, we have no choice but to follow Captain Testarossa's orders.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_c33bd700553abf91": {
+      "text": "$$宗介$$\n「Captain...」",
+      "status": "translated"
+    },
+    "stage0094_04:r_feee5c91826230e1": {
+      "text": "$$マデューカス$$\n「Recovery of all units confirmed.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_bccc48e1964ad22d": {
+      "text": "$$テッサ$$\n「Well then...」",
+      "status": "translated"
+    },
+    "stage0094_04:r_f8736aaaa216c766": {
+      "text": "$$マデューカス$$\n「Yes.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_d1ec2522c87c361d": {
+      "text": "$$レナード$$\n「Planning to force your way through?\n　But I've already read that tactic.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_3599f0a4343fd95c": {
+      "text": "$$テッサ$$\n「$$レナード$$...\n　Neither we nor the world will go the way you want.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_3bc7834a5bf3ee76": {
+      "text": "$$マデューカス$$\n「Attention all hands!\n　From here, we set sail into an uncharted sea!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_366814efdc8b5800": {
+      "text": "$$テッサ$$\n「$$かなめ$$, here we go!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_9be1a4c10bb62515": {
+      "text": "$$かなめ$$\n（Mm...）",
+      "status": "translated"
+    },
+    "stage0094_04:r_94a88c90e557e16e": {
+      "text": "$$テッサ$$\n「$$トゥアハー・デ・ダナン$$, surface!!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_1c208ca0cbf26f28": {
+      "text": "$$レナード$$\n「!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_5b7ee307a700171a": {
+      "text": "$$マデューカス$$\n「All systems stable!\n　Kaname Chidori's vitals are fine too!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_8d8f065c932da30a": {
+      "text": "$$テッサ$$\n「Thrust to maximum!\n　All systems, switch to Mode S!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_f5432119677514f7": {
+      "text": "$$マデューカス$$\n「Aye aye, ma'am!\n　Switching to Mode S!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_4e5c8e989c4a7691": {
+      "text": "$$テッサ$$\n「This ship will now break atmosphere!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_adec86483b13599a": {
+      "text": "$$かなめ$$\n（Let's go, $$宗介$$... everyone...\n　to protect this world...）",
+      "status": "translated"
+    },
+    "stage0094_04:r_2cf701bbcde3ec13": {
+      "text": "$$ガウルン$$\n「Not bad, Kashim.\n　You've gone soft, but you seem to have gotten stronger too...」",
+      "status": "translated"
+    },
+    "stage0094_04:r_c17c58fdba72005e": {
+      "text": "$$宗介$$\n「$$ガウルン$$...」",
+      "status": "translated"
+    },
+    "stage0094_04:r_1fe8564d2b959317": {
+      "text": "$$ガウルン$$\n「If you think that's something to say, you're dead wrong!\n　Kashim! Let's fall to hell together!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_f527e012803f7f1c": {
+      "text": "$$宗介$$\n「I refuse!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_4b1247bd3ca4905d": {
+      "text": "$$ガウルン$$\n「Don't be so cold, Kashim!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_00c55e25f87b71d0": {
+      "text": "$$宗介$$\n「Kashim, Kashim, so familiar all of a sudden,\n　you bastard!!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_338f3b27e51dcc41": {
+      "text": "$$ガウルン$$\n「Hahahaha!\n　Thanks. It was the best life a guy could ask for!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_d91d4bc2d52b61c4": {
+      "text": "$$カリーニン$$\n「So that was that man's end...」",
+      "status": "translated"
+    },
+    "stage0094_04:r_0c8ea89b07432421": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0094_04:r_4dbfba00ba7744ee": {
+      "text": "$n\n「$$宗介$$...」",
+      "status": "translated"
+    },
+    "stage0094_04:r_be100a32b731708d": {
+      "text": "$$宗介$$\n「...To me, he was just another enemy.\n　I feel no needless sentiment.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_702f82442fcec8a9": {
+      "text": "$$ヒイロ$$\n「If that's what you say, then that's fine.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_b1e38da4e8775ffe": {
+      "text": "$$宗介$$\n（$$ガウルン$$...\n　I won't become what you wanted.）",
+      "status": "translated"
+    },
+    "stage0094_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$宗介$$\n（I'm not Kashim anymore.\n　I'm Jindai High Year 2 Class 4's trash duty, a Volunteer Club member,\n　$$ミスリル$$'s $$ウルズ$$ 7, $c's $$相良宗介$$.）",
+      "status": "translated"
+    },
+    "stage0094_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$ゲイツ$$\n「Ha-haah!\n　Not bad at all, gentlemen!\n　But that's all for today!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_3dad695c99e9e052": {
+      "text": "$$ゲイツ$$\n「Sea breeze is the enemy of my sideburns!\n　So, with that said, I'll be taking my leave!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_66d4ae3a21caf881": {
+      "text": "$$ヒイロ$$\n「...What is that?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_0c18da7b3a37825d": {
+      "text": "$$刹那$$\n「Incomprehensible.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_63249745ffae61b6": {
+      "text": "$$ゼロ$$\n「Is that a parting shot?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_abdb034ae8509702": {
+      "text": "$$シンジ$$\n「A-anyway, I'm glad they left...」",
+      "status": "translated"
+    },
+    "stage0094_04:r_3ff2e21207d1d1d3": {
+      "text": "$$カン・ユー$$\n「Argh!\n　Is this as far as I can go!?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_e51ecf6d6aa42e75": {
+      "text": "$$キリコ$$\n「Then disappear.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_47ddabb7b60131c2": {
+      "text": "$$カン・ユー$$\n「Y-you'll regret this, $$キリコ$$!\n　You'll regret this! You'll regret this!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_b025267f22788233": {
+      "text": "$$カレン$$\n「What was that about?\n　Did he finally run out of parting shots?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_ec1a06a7023bf72c": {
+      "text": "$$Ｃ．Ｃ．$$\n「He got a reaction out of $$キリコ$$ for once.\n　Maybe that rattled him.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_8805f96e52aaa462": {
+      "text": "$$シャッコ$$\n「Could be.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_124591cb154fae64": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0094_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$ベック$$\n「Tch!\n　This is exactly why I said\n　I hated taking jobs like this!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_4bf9b05b5f948170": {
+      "text": "$$ロジャー$$\n「That's unseemly, $$ベック$$.\n　A professional must see a job through\n　to the end, once he's accepted it.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_eaa52d152f444bfd": {
+      "text": "$$ベック$$\n「Shut up!\n　My biggest complaint about this job\n　is having to look at your face, $$ロジャー・スミス$$!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_b4bc9e9435b58e6f": {
+      "text": "$$ベック$$\n「One of these days, I'll show you!\n　My true power, that is!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_a9227573166977a9": {
+      "text": "$$ベック$$\n「Don't you dare die before then,\n　you damn negotiator!!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_b0600ab9a9e8559d": {
+      "text": "$$ドロシー#240$$\n「How vulgar.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_7cbc63dad295f862": {
+      "text": "$$ロジャー$$\n「That's nothing new.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_07f53c816e0a51f5": {
+      "text": "$$ロジャー$$\n「Still, who'd have thought a punk like that\n　would wish me luck.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_2d09c6f6a2d990ea": {
+      "text": "$$ドロシー#240$$\n「Does that bother you?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_3c5fcfc484a51913": {
+      "text": "$$ロジャー$$\n「Actually, surprisingly, it doesn't.\n　He's a petty little crook, but like me,\n　he's someone who's escaped the curse of Memory.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_0476ffd10c764b0e": {
+      "text": "$$ティエリア$$\n「I've shot down every $$アクシオ・バーグラー$$ unit.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$ロックオン$$\n「Still, sounds like they're having a hard time too.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_2b3479c4cf0680f4": {
+      "text": "$$カトル$$\n「I suppose that's what happens\n　when you lose a strong leader.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_e370696b8936b08c": {
+      "text": "$$カレン$$\n「What'll you do, $$テッサ$$?\n　Those guys might come to recruit you again.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_9d7b02c5e728b7aa": {
+      "text": "$$テッサ$$\n「I will refuse, absolutely!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_9af213fc64e0afec": {
+      "text": "$$デュオ$$\n「Still, they're first-class\n　when it comes to stubbornness.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_d7f1c506e78e55ff": {
+      "text": "$$青山$$\n「At this rate, they'll be running wild\n　for a while yet.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_0c705091f748360e": {
+      "text": "$$ロックオン$$\n「Guess we'll leave delivering\n　the final blow to him, after all.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_9eb8599304125b2f": {
+      "text": "$$デュオ$$\n「Well... knowing him,\n　he'll probably say there's nothing in it for him.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_a072aa25e5f521e0": {
+      "text": "$$ティエリア$$\n「I've shot down every $$アクシオ・バーグラー$$ unit.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_24e1a808a1609a1a": {
+      "text": "$$ロックオン$$\n「Still, sounds like they're having a hard time too.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_53128ce8f154fd06": {
+      "text": "$$デュオ$$\n「No kidding.\n　Well, they're first-class when it comes to stubbornness.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_03b5db9ce98fb8d6": {
+      "text": "$$青山$$\n「At this rate, they'll be running wild\n　for a while yet.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_3915fb4102f1c1dd": {
+      "text": "$$ロックオン$$\n「Guess we'll leave delivering\n　the final blow to him, after all.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_817b2773b4ed563e": {
+      "text": "$$デュオ$$\n「Well... knowing him,\n　he'll probably say there's nothing in it for him.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_1cc233cbc8c80af7": {
+      "text": "$$マデューカス$$\n「Captain...」",
+      "status": "translated"
+    },
+    "stage0094_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$テッサ$$\n「I understand.\n　The enemy's aim is probably to hold us back here.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_e180b22d18f48d38": {
+      "text": "$$テッサ$$\n「That's why we need to break through\n　these waters as quickly as we can.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_e598c2a0b27e7f50": {
+      "text": "$$マデューカス$$\n「Aye, ma'am.\n　This crew will give it everything we have.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_4d2a9066c4e7b27f": {
+      "text": "$$テッサ$$\n（But we need to prepare\n　for the worst, just in case...）",
+      "status": "translated"
+    },
+    "stage0094_04:r_10340119af3ed6db": {
+      "text": "$$ガウルン$$\n「A last battle with you\n　on some tiny island nobody's heard of!\n　This is the best, Kashim!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_23a9c7ab620ab112": {
+      "text": "$$宗介$$\n「Get out of the way, $$ガウルン$$!\n　We have to go!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_4f0aca6deda07883": {
+      "text": "$$ガウルン$$\n「I know!\n　That's exactly why we came, to hold you back!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_8fe40600ce62dfbc": {
+      "text": "$$ガウルン$$\n「Ha, that's rich!\n　Me, a guy with a bit of a name in the underworld,\n　and my end is being a throwaway pawn!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_ff4ce5f3cf96b617": {
+      "text": "$$宗介$$\n「$$ガウルン$$...」",
+      "status": "translated"
+    },
+    "stage0094_04:r_d73c21f119847e35": {
+      "text": "$$ガウルン$$\n「Whoa, don't get the wrong idea, Kashim!\n　I don't care how big the fight is\n　or how important the mission is!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_89766f5ffaa912d4": {
+      "text": "$$ガウルン$$\n「All that matters is how much fun I have!\n　That's the only thing that counts!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$宗介$$\n「You haven't changed one bit!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_451f726d4299ea35": {
+      "text": "$$ガウルン$$\n「But you've changed, Kashim!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_e3d111e8bb190cb1": {
+      "text": "$$宗介$$\n「So what!\n　I'm always me!\n　I won't be fooled by the likes of you anymore!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$ガウルン$$\n「That's it, that's it, Kashim!\n　Your direction's changed a bit, but the Kashim\n　I love has come back!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_ab97c2b2418ea732": {
+      "text": "$$ガウルン$$\n「Guess this means we can take a piss\n　together in hell, no regrets!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_2ddff5064af78db4": {
+      "text": "$$宗介$$\n「Shut up, $$ガウルン$$!\n　Go there by yourself!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_050d0532c4b24bfe": {
+      "text": "$$ガウルン$$\n「That's cold, Kashim!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_d583fcea31bdad2e": {
+      "text": "$$宗介$$\n「I said shut up, $$ガウルン$$!!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_475f7653621a91b5": {
+      "text": "$$ゲイツ$$\n「Found you, whitey!\n　Ever since I ran into you,\n　my life's been nothing but bad luck!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_f228ae702350849b": {
+      "text": "$$宗介$$\n「I don't care about your life!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_d69dc027cba3003f": {
+      "text": "$$ゲイツ$$\n「Ha ha ha!\n　That was a lie, whitey!\n　Deep down, I'm actually grateful to you!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_3c3735172a480b72": {
+      "text": "$$ゲイツ$$\n「Getting beaten by you is what made me\n　quit Amalgam, and once I did,\n　my world opened up without limits!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_1f418b5594cea300": {
+      "text": "$$アル$$\n「Sergeant... I do not understand\n　what he is saying.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_f87fb889124bfaef": {
+      "text": "$$宗介$$\n「Don't worry, $$アル$$.\n　I don't either.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_79c90de32a79212d": {
+      "text": "$$アル$$\n「Then...」",
+      "status": "translated"
+    },
+    "stage0094_04:r_33f7fd55913419e8": {
+      "text": "$$宗介$$\n「There's only one thing we need to do...!\n　Eliminate the enemy, swiftly!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_473d9a88b4ca96e7": {
+      "text": "$$ゲイツ$$\n「Ah, wait a second!\n　I was just about to show you\n　this new sensation I've discovered!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_4de6ac85c63bac12": {
+      "text": "$$宗介$$\n「I have no interest in a world that twisted!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_4c92652c9b1adf6f": {
+      "text": "$$ロジャー$$\n「$$ビッグオー$$! Action!!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_ce90563a934d49fb": {
+      "text": "$$ベック$$\n「Wait a second!\n　You're supposed to be a negotiator,\n　and you go straight for force!?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_4fb296e63cb1fb46": {
+      "text": "$$ロジャー$$\n「We're in a hurry.\n　Talking with someone too dim to understand\n　my words would be a waste of time.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$ロジャー$$\n「Or, $$ベック$$...\n　do you actually intend to hear me out?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_9dc59affd40f32fc": {
+      "text": "$$ベック$$\n「Not one bit!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_0cea115be526a319": {
+      "text": "$$ロジャー$$\n「Then our interests align!\n　In that case, I'll proceed without hesitation!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_d36072babd12aeb4": {
+      "text": "$$ベック$$\n「S-something about this doesn't sit right, hey!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_09ee921a85025fd3": {
+      "text": "$$カン・ユー$$\n「$$キリコ$$!\n　Today's the day I finally settle things with you!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_fae689f2a1057b61": {
+      "text": "$$キリコ$$\n「Those words... how many times now?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_91c6d0bb53854ecc": {
+      "text": "$$カン・ユー$$\n「Eh... ah... uh...」",
+      "status": "translated"
+    },
+    "stage0094_04:r_42a3149105314ab8": {
+      "text": "$$キリコ$$\n「If you're done talking, I'm going.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_62ecd978c667bd29": {
+      "text": "$$カン・ユー$$\n「Ah... w-wait!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_d441e6cc908ac01b": {
+      "text": "$$キリコ$$\n「I have no time to waste on you.」",
+      "status": "translated"
+    },
+    "stage0094_04:r_b2aab8873350ea1f": {
+      "text": "$$アムロ$$\n（I need to get up into space\n　as soon as possible...）",
+      "status": "translated"
+    },
+    "stage0094_04:r_2c7af4c55d8ac938": {
+      "text": "$$アムロ$$\n（If my hunch is right, he's...）",
+      "status": "translated"
+    },
+    "stage0094_04:r_653b741d07545dff": {
+      "text": "$n\n（Chidori...）",
+      "status": "translated"
+    },
+    "stage0094_04:r_d584d4b5af55b1cf": {
+      "text": "$n\n（So you're a singularity...）",
+      "status": "translated"
+    },
+    "stage0094_04:r_db0ee69ece206fcd": {
+      "text": "$$ガウルン$$\n「A last battle with you\n　on some tiny island nobody's heard of!\n　This is the best, Kashim!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_f97e6925c9e37332": {
+      "text": "$$ボン太くん#pilot$$\n「Fumomo!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_422861e0b8d77d0c": {
+      "text": "$$ガウルン$$\n「My bad.\n　Guess it's $$ボン太くん#pilot$$ now, is it?」",
+      "status": "translated"
+    },
+    "stage0094_04:r_ef16bcaa2b0e0c45": {
+      "text": "$$ボン太くん#pilot$$\n「Fumomooo! Fumo!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_2b93cca10f1c36a8": {
+      "text": "$$ガウルン$$\n「Ha ha ha!\n　At this point, anything goes!\n　Let's have some fun, $$ボン太くん#pilot$$!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_7980fd37141d88d0": {
+      "text": "$$ボン太くん#pilot$$\n「Fumofumo, fumofu! Fumoffu!!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_ac21212c36d2b9ad": {
+      "text": "$$ガウルン$$\n「This kind of ending ain't half bad!」",
+      "status": "translated"
+    },
+    "stage0094_04:r_a26e2108358af7a4": {
+      "text": "$n\n「Ah!」",
+      "status": "translated"
+    }
+  }
+}

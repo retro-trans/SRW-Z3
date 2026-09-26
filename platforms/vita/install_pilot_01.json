@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "build": "vita-english-pilot-01-install",
+  "title_id": "PCSG00264",
+  "app_version": "01.00",
+  "date": "2026-09-14",
+  "output": "work/vita/english_pilot_01_install/SRW-Z3-Vita-English-pilot-01-install.zip",
+  "zip_bytes": 1874630556,
+  "zip_sha256": "a20e507926427250435dd8f7b150389ff0bb4b8c429751d7b88e02499737818d",
+  "expanded_bytes": 2341565849,
+  "file_count": 589,
+  "unchanged_files": 580,
+  "english_cpk_files": 3,
+  "decrypted_self_files": 6,
+  "byte_preserved_executable_segments": 30,
+  "translated_opening_records": 244,
+  "zip_all_entries_size_sha256_crc_verified": true,
+  "runtime_tested": false,
+  "full_english_port": false,
+  "includes_license_or_firmware_or_saves": false,
+  "focused_tests_passed": 45
+}

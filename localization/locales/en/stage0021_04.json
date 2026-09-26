@@ -1,0 +1,758 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0021_04:r_caaab7bad760e16d": {
+      "text": "Spectator\n「So those two debut today, huh.\n　But thrown into a《$$リアルバトル$$》 right off...\n　and a battle royale on top of that」",
+      "status": "imported"
+    },
+    "stage0021_04:r_99b162aa6aa286a2": {
+      "text": "Spectator\n「But there's a Berzelga among them.\n　Means there's a Kuent native in the mix」",
+      "status": "imported"
+    },
+    "stage0021_04:r_58fb02434a1c40b2": {
+      "text": "Spectator\n「Their skill's the real deal.\n　If I'm betting, it's got to be him」",
+      "status": "imported"
+    },
+    "stage0021_04:r_1c0f94acd5a8a143": {
+      "text": "Spectator\n「Amateur!\n　I'm putting it all on that white AS!\n　That thing's no ordinary machine!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_1263541f4071624e": {
+      "text": "Spectator\n「Who's the amateur here!\n　Flashy looks like that usually mean\n　the pilot doesn't trust their own skill!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_3bc300bbdc277d82": {
+      "text": "Spectator\n「Speaking of looks, what about the blue one?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_38762a09460d8b6b": {
+      "text": "Spectator\n「That's not an AT, AS, or KMF.\n　Going by size, is it a Mobile Suit?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_7ab28e70b4d4f641": {
+      "text": "Spectator\n「Might be a dark horse, that one.\n　Guess I'll put a little on them too」",
+      "status": "imported"
+    },
+    "stage0021_04:r_b05f6a6e8f3d9b24": {
+      "text": "Spectator\n「That leaves the Dog...」",
+      "status": "imported"
+    },
+    "stage0021_04:r_ec335e69f984b8b3": {
+      "text": "Spectator\n「Plain looking...」",
+      "status": "imported"
+    },
+    "stage0021_04:r_0abcaf0c31978670": {
+      "text": "Spectator\n「Probably just there to fill the roster.\n　That one's the first to go down」",
+      "status": "imported"
+    },
+    "stage0021_04:r_1d6bc48b7f246730": {
+      "text": "$$マオ$$\n「You hear that, $$キリコ$$?\n　That's what the crowd thinks of you two」",
+      "status": "imported"
+    },
+    "stage0021_04:r_1af20fccc3c53cfc": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0021_04:r_f951916061232dcd": {
+      "text": "$$ゴウト$$\n「Heh... it's suckers like that\n　that keep our pockets full」",
+      "status": "imported"
+    },
+    "stage0021_04:r_4d863c3fb88a4c39": {
+      "text": "$$クルツ$$\n「So that means, old man...」",
+      "status": "imported"
+    },
+    "stage0021_04:r_44f4742c3dcce39a": {
+      "text": "$$ゴウト$$\n「Naturally, all in on $$キリコ$$」",
+      "status": "imported"
+    },
+    "stage0021_04:r_9e701cdeb3842c21": {
+      "text": "$$クルツ$$\n「What a coincidence.\n　Same here」",
+      "status": "imported"
+    },
+    "stage0021_04:r_6fd81f4abebe60c5": {
+      "text": "$$マオ$$\n「$$クルツ$$...\n　you refused to sortie\n　just to bet on $$キリコ$$, didn't you?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_da2132b5038ec737": {
+      "text": "$$クルツ$$\n「Come on, Boss.\n　$n's the one who said\n　they wanted to enter $$バトリング$$」",
+      "status": "imported"
+    },
+    "stage0021_04:r_495d61d3ec7e16f2": {
+      "text": "$$マオ$$\n「I respect their wish to get stronger,\n　but our foes are seasoned veterans」",
+      "status": "imported"
+    },
+    "stage0021_04:r_5cd353758cfe474d": {
+      "text": "$$マオ$$\n「On top of that, it's a battle royale.\n　Slip up once and they'll gang up, instant kill」",
+      "status": "imported"
+    },
+    "stage0021_04:r_a653c8dec4c0f06f": {
+      "text": "$$クルツ$$\n「Guess we pray Miss $$スズネ$$\n　can keep that under control」",
+      "status": "imported"
+    },
+    "stage0021_04:r_86d493e37a9799a7": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0021_04:r_09d0fcc600cdd3df": {
+      "text": "$$スズネ$$\n「Calm down, $n」",
+      "status": "imported"
+    },
+    "stage0021_04:r_182faded068c15ed": {
+      "text": "$n\n「...$$キリコ$$」",
+      "status": "imported"
+    },
+    "stage0021_04:r_9c206d19bfda4bd5": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0021_04:r_6e558bc69acf5bf3": {
+      "text": "$n\n「You said $$バトリング$$ wasn't for me.\n　But I have a reason to fight」",
+      "status": "imported"
+    },
+    "stage0021_04:r_d60d0818e965232f": {
+      "text": "$$キリコ$$\n「By shutting a lid on your own heart?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_5b23687574286204": {
+      "text": "$n\n「...!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_6fd86c96891ea942": {
+      "text": "$$キリコ$$\n「It's not just about $$バトリング$$.\n　You're not cut out to fight」",
+      "status": "imported"
+    },
+    "stage0021_04:r_43e4e548c0b28376": {
+      "text": "$$スズネ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0021_04:r_d80a9688790ed583": {
+      "text": "$$シャッコ$$\n「That's enough.\n　The other fighters are coming soon」",
+      "status": "imported"
+    },
+    "stage0021_04:r_708bea61e3c43ada": {
+      "text": "$$バニラ$$\n「$$シャッコ$$!\n　I've got money on you, don't let me down!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ココナ$$\n「Cut it out, all of you, $$バニラ$$, $$クルツ$$, old man!\n　$$キリコ$$ and the others are on a mission!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_0827963cfd706e8d": {
+      "text": "$$マオ$$\n「It's fine, $$ココナ$$.\n　Infiltrating $$バトリング$$ to scout things out\n　from the inside, that's the mission」",
+      "status": "imported"
+    },
+    "stage0021_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$マオ$$\n「So we'd better act the part too,\n　here in the stands」",
+      "status": "imported"
+    },
+    "stage0021_04:r_3f4035fd9db81258": {
+      "text": "$$クルツ$$\n「So, Boss, who are you backing?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_567b361a454c4b73": {
+      "text": "$$マオ$$\n「Sousuke.\n　He's shrewd in times like this」",
+      "status": "imported"
+    },
+    "stage0021_04:r_d22851aaafbbf8fc": {
+      "text": "$$クルツ$$\n「Come on, nobody's betting on $n?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_352534f64413d954": {
+      "text": "$$バニラ$$\n「Out of pity, $$ココナ$$.\n　Put something on them, will you」",
+      "status": "imported"
+    },
+    "stage0021_04:r_79f2664edb1af798": {
+      "text": "$$ココナ$$\n「No way!\n　I've put everything on $$キリコ$$!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$バニラ$$\n「Come on!\n　You went and bet too after all!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_1c5aa0d15ae24846": {
+      "text": "$$ゴウト$$\n「Quit it, you two!\n　Look, the other fighters are entering!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_53bb64ee17750ee2": {
+      "text": "$n\n「Decent number of them」",
+      "status": "imported"
+    },
+    "stage0021_04:r_7a7add80fde475ba": {
+      "text": "$$スズネ$$\n「A battle royale means everyone's an enemy...\n　Only the last one standing wins」",
+      "status": "imported"
+    },
+    "stage0021_04:r_b2befefdbed1393d": {
+      "text": "???\n「Kukuku... fufufu...」",
+      "status": "imported"
+    },
+    "stage0021_04:r_2103f6df2ea2e447": {
+      "text": "$n\n「That AT pilot at the front... are they laughing?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_a12e3e130d896ff7": {
+      "text": "$$宗介$$\n「Broadcasting that on external speakers...\n　A strange hobby」",
+      "status": "imported"
+    },
+    "stage0021_04:r_b6f7b219eb4bd64b": {
+      "text": "???\n「Hahahahaha!\n　I have waited for this moment!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_91bf33c27ad39f0a": {
+      "text": "$$シャッコ$$\n「$$キリコ$$...!\n　That's...」",
+      "status": "imported"
+    },
+    "stage0021_04:r_ee220318b96ab538": {
+      "text": "$$カン・ユー$$\n「That's right, $$キリコ$$, $$シャッコ$$!\n　Your commanding officer, $$カン・ユー$$!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_ce1b55e526b6277a": {
+      "text": "$$クルツ$$\n「Looks like a real attention hog showed up」",
+      "status": "imported"
+    },
+    "stage0021_04:r_c304df6888eb78f7": {
+      "text": "$$マオ$$\n「What's with him...?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_c26958634526e597": {
+      "text": "$$バニラ$$\n「That's $$カン・ユー$$.\n　$$キリコ$$ and $$シャッコ$$'s old commander\n　from their mercenary days, a nasty piece of work」",
+      "status": "imported"
+    },
+    "stage0021_04:r_cdb750c9d380881a": {
+      "text": "$$バニラ$$\n「He was such scum that in the end\n　$$キリコ$$ and the others abandoned him,\n　and now he's holding a grudge over it」",
+      "status": "imported"
+    },
+    "stage0021_04:r_95fda74613c97b39": {
+      "text": "$$マオ$$\n「Some reunions are happy, some a headache...\n　$$ア・コバ$$ earns its name as a drifters' den」",
+      "status": "imported"
+    },
+    "stage0021_04:r_1956994937f8171e": {
+      "text": "$$カン・ユー$$\n「Can you hear me, $$キリコ$$!\n　No greeting for your reunited commander!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_48f49f6728c15612": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0021_04:r_0ebc5a6f1e0f81bf": {
+      "text": "Spectator\n「A mic performance, huh!\n　Really gets the crowd going!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_f02c37d91387d0ad": {
+      "text": "Spectator\n「A grudge match kicking off!\n　Now I'm fired up!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$カン・ユー$$\n「$$キリコ$$!\n　When I heard you and $$シャッコ$$\n　were entering $$バトリング$$, I was overjoyed!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_9796b3efa401a303": {
+      "text": "$$カン・ユー$$\n「Ever since the $$新世時空震動$$\n　scattered me from my men, I've known\n　nothing but hardship, but luck has finally struck!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_643b6eebfc0186b3": {
+      "text": "$$宗介$$\n「Troublesome.\n　May I open fire?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_291280e5f7eb9d70": {
+      "text": "$$スズネ$$\n「S-$$宗介$$... let's at least hear him out」",
+      "status": "imported"
+    },
+    "stage0021_04:r_32eb462c1b4999cb": {
+      "text": "$$カン・ユー$$\n「Today I settle this, $$キリコ$$!\n　In this $$バトリング$$, you and your friends will die!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_1f4337d6d393fc37": {
+      "text": "$$ココナ$$\n「What are you even saying, it's a battle royale!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_4740e748fae085ee": {
+      "text": "$$クルツ$$\n「Uh... this is bad」",
+      "status": "imported"
+    },
+    "stage0021_04:r_b76524cd840e1d37": {
+      "text": "$$マオ$$\n「Seems like the other fighters\n　have all been bought off by that $$カン・ユー$$ guy」",
+      "status": "imported"
+    },
+    "stage0021_04:r_730ffe18400abfc2": {
+      "text": "$$バニラ$$\n「So it's $$キリコ$$ and the others against that whole mob!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_ffe0fca26da5cd38": {
+      "text": "$$ココナ$$\n「That's not fair!\n　This match should be void!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_bfb27f9eb2f7073e": {
+      "text": "$$ゴウト$$\n「No, it's too late for that now.\n　Even the organizers fear a riot,\n　so they can't cancel it at this point」",
+      "status": "imported"
+    },
+    "stage0021_04:r_859dfa27bcaafe30": {
+      "text": "$$バニラ$$\n「Tch! For $$カン・ユー$$,\n　that's a slick move he's pulled!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_71ebf05996a4b0fd": {
+      "text": "$$スズネ$$\n「$n...!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_6214c11b1bca811e": {
+      "text": "$n\n「I'll prove I can fight my own way」",
+      "status": "imported"
+    },
+    "stage0021_04:r_8eaf6f3098ffed12": {
+      "text": "$$宗介$$\n「I will join you, $n」",
+      "status": "imported"
+    },
+    "stage0021_04:r_cf507214fe955d75": {
+      "text": "$n\n「$$宗介$$...」",
+      "status": "imported"
+    },
+    "stage0021_04:r_2113dcbabdfc758a": {
+      "text": "$$宗介$$\n「This too is a battlefield.\n　I will not tolerate being lectured\n　by a third-rater with a petty grudge」",
+      "status": "imported"
+    },
+    "stage0021_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$キリコ$$\n「His target is me」",
+      "status": "imported"
+    },
+    "stage0021_04:r_6a74519e1fc29c4b": {
+      "text": "$$シャッコ$$\n「Same for me」",
+      "status": "imported"
+    },
+    "stage0021_04:r_5b992878fee054b5": {
+      "text": "$n\n「So basically, you two are fired up too」",
+      "status": "imported"
+    },
+    "stage0021_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$マオ$$\n「Then the bets change!\n　Whichever team wins, its top scorer\n　is the winner of this match!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_4a14ec0c511c7f0d": {
+      "text": "Spectator\n「Got it!\n　Works for us, Boss!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_20cf167c0ec0d4d5": {
+      "text": "Spectator\n「Alright!\n　Don't you lose, blue one!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_b591d812c96c6c99": {
+      "text": "$n\n「That's the plan」",
+      "status": "imported"
+    },
+    "stage0021_04:r_e350fa099c1ab072": {
+      "text": "$$カン・ユー$$\n「Y-you insolent...!\n　Just how far will you mock me!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$カン・ユー$$\n「I was going to spare everyone\n　but $$キリコ$$ and $$シャッコ$$, forget it! Forget it!\n　I'll kill every last one of you!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_c33bd700553abf91": {
+      "text": "$n\n「'Everyone' and 'kill' kind of overlap」",
+      "status": "imported"
+    },
+    "stage0021_04:r_feee5c91826230e1": {
+      "text": "$$カン・ユー$$\n「Nguhhh!\n　All units, begin attack!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_bccc48e1964ad22d": {
+      "text": "$$マオ$$\n「That settles it」",
+      "status": "imported"
+    },
+    "stage0021_04:r_f8736aaaa216c766": {
+      "text": "Spectator\n「No way!\n　That plain old Dog came out on top!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_d1ec2522c87c361d": {
+      "text": "Spectator\n「N-no way...!\n　Don't tell me he's a $$レッドショルダー$$!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_3599f0a4343fd95c": {
+      "text": "$$クルツ$$\n「We did it, old man, $$ココナ$$!\n　That's easy money!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_3bc7834a5bf3ee76": {
+      "text": "$$ココナ$$\n「Hahaha! Course it was gonna go that way!\n　It's $$キリコ$$, after all!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_366814efdc8b5800": {
+      "text": "$$ゴウト$$\n「No kidding!\n　Ever since we first met in the Ghetto,\n　I knew he'd make us money!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_9be1a4c10bb62515": {
+      "text": "$$クルツ$$\n「Thanks a ton, $$キリコ$$!\n　I'll chip in for your girl's medicine!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_94a88c90e557e16e": {
+      "text": "$$マオ$$\n「This isn't the time to get excited, $$クルツ$$!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_1c208ca0cbf26f28": {
+      "text": "$$マオ$$\n「That settles it」",
+      "status": "imported"
+    },
+    "stage0021_04:r_5b7ee307a700171a": {
+      "text": "Spectator\n「Yeah! That's a Quentian for you!\n　You're number one!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_8d8f065c932da30a": {
+      "text": "$$バニラ$$\n「The old man gets it, huh!\n　When it comes down to it, you can\n　always count on that guy!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_f5432119677514f7": {
+      "text": "$$クルツ$$\n「Damn...!\n　$$バニラ$$ wins, huh!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_4e5c8e989c4a7691": {
+      "text": "$$バニラ$$\n「Don't sulk, $$クルツ$$.\n　I'll cover your drinks tonight at least!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_adec86483b13599a": {
+      "text": "$$マオ$$\n「This isn't the time to be so laid-back!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_2cf701bbcde3ec13": {
+      "text": "$$マオ$$\n「That settles it」",
+      "status": "imported"
+    },
+    "stage0021_04:r_c17c58fdba72005e": {
+      "text": "$$クルツ$$\n「No way!\n　The top spot goes to the silent sergeant!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_1fe8564d2b959317": {
+      "text": "$$マオ$$\n「Well done, Sousuke!\n　You're a subordinate I'm proud of!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_f527e012803f7f1c": {
+      "text": "Spectator\n「Did you take it, Boss!?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_4b1247bd3ca4905d": {
+      "text": "Spectator\n「Damn it...!\n　And here I'm broke because of this!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_00c55e25f87b71d0": {
+      "text": "$$マオ$$\n「Don't make such a sour face!\n　Tonight's on me, so let's have a blast!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_338f3b27e51dcc41": {
+      "text": "Spectator\n「You're the best, Boss!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_d91d4bc2d52b61c4": {
+      "text": "Spectator\n「Yahoo!\n　You're the goddess of $$ア・コバ$$!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_0c8ea89b07432421": {
+      "text": "$$クルツ$$\n「$$バニラ$$!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_4dbfba00ba7744ee": {
+      "text": "$$バニラ$$\n「Yeah, what the hell!\n　We'll take you up on the free drinks too!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_be100a32b731708d": {
+      "text": "$$マオ$$\n「...Doesn't look like the time for that!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_702f82442fcec8a9": {
+      "text": "$$マオ$$\n「That settles it」",
+      "status": "imported"
+    },
+    "stage0021_04:r_b1e38da4e8775ffe": {
+      "text": "$$ゴウト$$\n「The top spot goes to that $n!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_d2f1bf5ab2f0e41a": {
+      "text": "Spectator\n「Woohoo!\n　Nice going, Blue!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$クルツ$$\n「That $n!\n　Read the room already!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_3dad695c99e9e052": {
+      "text": "$$マオ$$\n「Don't say that.\n　That kid did their best in their own way.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_66d4ae3a21caf881": {
+      "text": "$$ココナ$$\n「Says the one who was slinging filthy\n　language just a minute ago.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_0c18da7b3a37825d": {
+      "text": "$$マオ$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_63249745ffae61b6": {
+      "text": "$$ココナ$$\n「W-what!\n　I'm just telling the truth!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_abdb034ae8509702": {
+      "text": "$$マオ$$\n「That's not it...!\n　This might be bad news!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_3ff2e21207d1d1d3": {
+      "text": "$$マオ$$\n「That settles it」",
+      "status": "imported"
+    },
+    "stage0021_04:r_e51ecf6d6aa42e75": {
+      "text": "Spectator\n「What happens if there's a tie for first...!?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_47ddabb7b60131c2": {
+      "text": "$$マオ$$\n「No hard feelings, it's probably void...」",
+      "status": "imported"
+    },
+    "stage0021_04:r_b025267f22788233": {
+      "text": "$$クルツ$$\n「What kind of ending is that!\n　That's the most boring one there is!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_ec1a06a7023bf72c": {
+      "text": "$$マオ$$\n「Quit your griping.\n　The fighters gave it their all.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_8805f96e52aaa462": {
+      "text": "$$マオ$$\n「Especially you, who skipped the sortie.\n　You've got no right to say anything.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_124591cb154fae64": {
+      "text": "$$クルツ$$\n「Yeah, well, that's true, but still!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$マオ$$\n「That's enough griping.\n　Looks like things are getting messy...!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_4bf9b05b5f948170": {
+      "text": "$$宗介$$\n「That unit... Balarant?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_eaa52d152f444bfd": {
+      "text": "$$スズネ$$\n「With the Earth Federation's reorganization,\n　the $$アストラギウス$$ Gilgamesh and Balarant forces\n　should have been absorbed into the Federation...」",
+      "status": "imported"
+    },
+    "stage0021_04:r_b4bc9e9435b58e6f": {
+      "text": "$$宗介$$\n「No Federation ID signal from the enemy ahead.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_a9227573166977a9": {
+      "text": "$n\n「So basically, they're just thugs\n　who use $$ア・コバ$$ as their turf...!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_b0600ab9a9e8559d": {
+      "text": "$$シャッコ$$\n「So they're making their move.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_7cbc63dad295f862": {
+      "text": "$$宗介$$\n「Do they mean to crush us for disrupting\n　the $$バトリング$$, or are they the ones behind $$ア・コバ$$?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_07f53c816e0a51f5": {
+      "text": "$n\n「Ask them and you'll find out...!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_2d09c6f6a2d990ea": {
+      "text": "$$スズネ$$\n「The Quarter's here too!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_3c5fcfc484a51913": {
+      "text": "$$クルツ$$\n「OK, you guys!\n　Leave the rest to us!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_0476ffd10c764b0e": {
+      "text": "$n\n（Weren't you just watching the $$バトリング$$\n　a second ago? Look who's talking...）",
+      "status": "imported"
+    },
+    "stage0021_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$宗介$$\n（That's the man, $$クルツ・ウェーバー$$.）",
+      "status": "imported"
+    },
+    "stage0021_04:r_2b3479c4cf0680f4": {
+      "text": "$$オズマ$$\n「Skull Leader to all units!\n　Looks like Balarant forces and mercenaries,\n　since they're not Federation, they're a militia!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_e370696b8936b08c": {
+      "text": "$$オズマ$$\n「If they want a fight, we'll give them one!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_9d7b02c5e728b7aa": {
+      "text": "$$ミシェル$$\n「I see...\n　Londo Bell and Super Robots aren't cut\n　out for a mission like this.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_9af213fc64e0afec": {
+      "text": "$$クラン$$\n「Then we must live up to the expectations\n　of the $$ミスリル$$ that requested $$Ｓ．Ｍ．Ｓ$$!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_d7f1c506e78e55ff": {
+      "text": "$$アルト$$\n「$$宗介$$! Leave the enemy air power to us!\n　You and $$キリコ$$'s group hit the AS and armor!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_0c705091f748360e": {
+      "text": "$$宗介$$\n「$$ウルズ$$ 7, understood.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_9eb8599304125b2f": {
+      "text": "$$オズマ$$\n「$$キリコ$$ and $$シャッコ$$, $$宗介$$ and $n,\n　form up into teams!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_a072aa25e5f521e0": {
+      "text": "$$ジェフリー$$\n「All units, begin the attack.\n　I don't want any needless trouble.\n　Let's finish this quickly.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_24e1a808a1609a1a": {
+      "text": "$$モニカ$$\n「Confirmed, the enemy unit has been wiped out.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_53128ce8f154fd06": {
+      "text": "$$キャシー$$\n「Judging by the pilots who ejected,\n　they're likely Balarant personnel after all.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_03b5db9ce98fb8d6": {
+      "text": "$$カリーニン$$\n「An $$アストラギウス$$ unit outside the Federation...」",
+      "status": "imported"
+    },
+    "stage0021_04:r_3915fb4102f1c1dd": {
+      "text": "$$ジェフリー$$\n「Major, do you have an idea?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_817b2773b4ed563e": {
+      "text": "$$カリーニン$$\n「At this point it's only a guess.\n　Let's keep gathering information.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_1cc233cbc8c80af7": {
+      "text": "$$ジェフリー$$\n「Understood.\n　Order all units to return.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0021_04:r_e180b22d18f48d38": {
+      "text": "$$シャッコ$$\n「What's wrong, $$キリコ$$?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_e598c2a0b27e7f50": {
+      "text": "$$キリコ$$\n「Someone's watching me...」",
+      "status": "imported"
+    },
+    "stage0021_04:r_4d2a9066c4e7b27f": {
+      "text": "???\n「Found you...」",
+      "status": "imported"
+    },
+    "stage0021_04:r_10340119af3ed6db": {
+      "text": "$$ニーバ$$\n「Found you, $$レッドショルダー$$.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_23a9c7ab620ab112": {
+      "text": "$$カン・ユー$$\n「Damn you, $$キリコ$$!\n　Today was just a probe!\n　Next time, I'll finish you for good!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_4f0aca6deda07883": {
+      "text": "$$スズネ$$\n「That person... they must have come here\n　to settle things with $$キリコ$$...」",
+      "status": "imported"
+    },
+    "stage0021_04:r_8fe40600ce62dfbc": {
+      "text": "$n\n「There's no need to take that kind of\n　person's sour grapes seriously.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_ff4ce5f3cf96b617": {
+      "text": "$$宗介$$\n「Even $$キリコ$$ doesn't seem to be listening at all.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_d73c21f119847e35": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0021_04:r_89766f5ffaa912d4": {
+      "text": "$$カン・ユー$$\n「$$キリコ$$!\n　The day I finally settle things with you has come!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0021_04:r_451f726d4299ea35": {
+      "text": "$$カン・ユー$$\n「Th-that attitude of yours is unforgivable!\n　Cry, beg for your life, do something!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_e3d111e8bb190cb1": {
+      "text": "$$キリコ$$\n「There's no need to do that for someone like you.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$カン・ユー$$\n「It's not too late, even now, $$シャッコ$$!\n　Apologize to me, and I might forgive you!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_ab97c2b2418ea732": {
+      "text": "$$シャッコ$$\n「I've no head to bow to a man like you.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_2ddff5064af78db4": {
+      "text": "$$カン・ユー$$\n「You'd defy your superior officer to the end!?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_050d0532c4b24bfe": {
+      "text": "$$シャッコ$$\n「Just when do you think this is?\n　I can't be bothered with this.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_d583fcea31bdad2e": {
+      "text": "$$カン・ユー$$\n「An AS I've never seen before!\n　This one looks worth crushing!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_475f7653621a91b5": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0021_04:r_f228ae702350849b": {
+      "text": "$$カン・ユー$$\n「Y-you're ignoring me too!?\n　Just like $$キリコ$$!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_d69dc027cba3003f": {
+      "text": "$$宗介$$\n「A natural response for a soldier.\n　Something you, who chatters uselessly\n　on the battlefield, wouldn't understand.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_3c3735172a480b72": {
+      "text": "$$カン・ユー$$\n「So you're their weak point!\n　I'll deal with you first!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_1f418b5594cea300": {
+      "text": "$n\n「I know that without you telling me...!\n　But so what!?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_f87fb889124bfaef": {
+      "text": "$$カン・ユー$$\n「Wh-what is this!?\n　Throwing caution to the wind!?」",
+      "status": "imported"
+    },
+    "stage0021_04:r_79c90de32a79212d": {
+      "text": "$n\n「I'm not being reckless!\n　I don't plan on dying before that day comes!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_33f7fd55913419e8": {
+      "text": "$$クルツ$$\n「Let's go, you guys!\n　I'm in top form today!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_473d9a88b4ca96e7": {
+      "text": "$$クルツ$$\n「Thanks, $$キリコ$$!\n　Thanks to you, I'll have good dreams tonight!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_4de6ac85c63bac12": {
+      "text": "$$マオ$$\n「Heh... thanks to Sousuke,\n　today's beer is going to be the best.」",
+      "status": "imported"
+    },
+    "stage0021_04:r_4c92652c9b1adf6f": {
+      "text": "$$マオ$$\n「But first, I need to work up a good sweat!\n　You lot are going to be my sparring partners!」",
+      "status": "imported"
+    },
+    "stage0021_04:r_ce90563a934d49fb": {
+      "text": "$n\n（I can do this...!\n　I'm getting stronger...!）",
+      "status": "imported"
+    },
+    "stage0021_04:r_4fb296e63cb1fb46": {
+      "text": "$n\n（Whether I'm suited for battle or not, who cares...!\n　I have no choice but to fight!）",
+      "status": "imported"
+    },
+    "stage0021_04:r_6d77e72dbbcd7dfe": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_139:r_479b340ccc6c572b": {
+      "text": "Ready to attack at any time!",
+      "status": "imported"
+    },
+    "voice_139:r_ca4acbac57a2a35e": {
+      "text": "All right, we can do this!",
+      "status": "imported"
+    },
+    "voice_139:r_77949221bf58f862": {
+      "text": "All gun crews, aim carefully!",
+      "status": "imported"
+    },
+    "voice_139:r_70b9c4b9f1f37eff": {
+      "text": "Concentrate your attacks!",
+      "status": "imported"
+    },
+    "voice_139:r_9fcb3754cb1773c7": {
+      "text": "Don't waste your shots!",
+      "status": "imported"
+    },
+    "voice_139:r_3559d2fad32c2435": {
+      "text": "Focus all fire on the enemy ahead!",
+      "status": "imported"
+    },
+    "voice_139:r_f7570547e9f80a64": {
+      "text": "Put up a barrage!",
+      "status": "imported"
+    },
+    "voice_139:r_cbab0f4720e1fcf1": {
+      "text": "Don't let them have their way!",
+      "status": "imported"
+    },
+    "voice_139:r_0bbe0b4f5364e732": {
+      "text": "Don't hit our allies!",
+      "status": "imported"
+    },
+    "voice_139:r_5dda5198137cb02a": {
+      "text": "Bring them down, no matter what!",
+      "status": "imported"
+    },
+    "voice_139:r_83ec59afbecdec14": {
+      "text": "Commence another attack!",
+      "status": "imported"
+    },
+    "voice_139:r_e20bfd42ad95a3c9": {
+      "text": "This ship will continue its attack!",
+      "status": "imported"
+    },
+    "voice_139:r_0f58a8822381e57f": {
+      "text": "Everyone, keep up the attack!",
+      "status": "imported"
+    },
+    "voice_139:r_6dbcc507fb61b51d": {
+      "text": "We have to hold Char back!",
+      "status": "imported"
+    },
+    "voice_139:r_b42ab697149a7c8a": {
+      "text": "It's the Red Comet! Stay sharp!",
+      "status": "imported"
+    },
+    "voice_139:r_4de4fcf3b440baf4": {
+      "text": "I know how this foe operates...!",
+      "status": "imported"
+    },
+    "voice_139:r_0121a166c715cdff": {
+      "text": "A Cyber-Newtype unit!\\nStay sharp!",
+      "status": "imported"
+    },
+    "voice_139:r_30fad37a42bd3ad3": {
+      "text": "Mobile Armor inbound!\\nThicken fire!",
+      "status": "imported"
+    },
+    "voice_139:r_80a0b2a84e05d81a": {
+      "text": "Don't let Neo Zeon have its way!",
+      "status": "imported"
+    },
+    "voice_139:r_4a9ac1dff86506d9": {
+      "text": "Neo Zeon... At a time like this...!",
+      "status": "imported"
+    },
+    "voice_139:r_bc8538e6af3d2577": {
+      "text": "Crushing them is Londo Bell's duty!",
+      "status": "imported"
+    },
+    "voice_139:r_924516c8de2b5342": {
+      "text": "Frontal's coming! Intercept them!",
+      "status": "imported"
+    },
+    "voice_139:r_da1174533722333f": {
+      "text": "Target the Garencieres!",
+      "status": "imported"
+    },
+    "voice_139:r_fdeb8162976e72c1": {
+      "text": "It's the Sleeves' guard! Incoming!",
+      "status": "imported"
+    },
+    "voice_139:r_0fadb5c26df92b42": {
+      "text": "Engage the Rewloola!",
+      "status": "imported"
+    },
+    "voice_139:r_6b15af9a0057cdc8": {
+      "text": "Haman! So you've come yourself...!",
+      "status": "imported"
+    },
+    "voice_139:r_15b4a90140e8a33a": {
+      "text": "It's a Gundam... Don't let up!",
+      "status": "imported"
+    },
+    "voice_139:r_af884a6b11dff121": {
+      "text": "They'd revive the One Year War...?",
+      "status": "imported"
+    },
+    "voice_139:r_ac6fe7838e95647b": {
+      "text": "We'll end their One Year War!",
+      "status": "imported"
+    },
+    "voice_139:r_77ca87eacd17ad52": {
+      "text": "Don't let that monster run wild!",
+      "status": "imported"
+    },
+    "voice_139:r_bf3244994760e535": {
+      "text": "Humanity's foe?\\nWe'll be theirs!",
+      "status": "imported"
+    },
+    "voice_139:r_02479dc8fe989560": {
+      "text": "To stop them,\\nwe'll hold this line!",
+      "status": "imported"
+    },
+    "voice_139:r_8927e6fb681aa809": {
+      "text": "Unknown foe!\\nStay vigilant!",
+      "status": "imported"
+    },
+    "voice_139:r_665f01666859013b": {
+      "text": "A battleship can defeat an Angel...!",
+      "status": "imported"
+    },
+    "voice_139:r_a571eec59b258d11": {
+      "text": "We'll eliminate the invaders!",
+      "status": "imported"
+    },
+    "voice_139:r_faae935cca0edc72": {
+      "text": "Don't let their speed throw you off!",
+      "status": "imported"
+    },
+    "voice_139:r_d4430bf362340b32": {
+      "text": "Hard to target!\\nLet them get close!",
+      "status": "imported"
+    },
+    "voice_139:r_6ff1323b355593e0": {
+      "text": "Heavy armor! Concentrate fire!",
+      "status": "imported"
+    },
+    "voice_139:r_b7b5625d7cd4282f": {
+      "text": "Banagher!\\nConsumed by the Gundam...?",
+      "status": "imported"
+    },
+    "voice_139:r_36133ad73a73ef98": {
+      "text": "This is the only way we have...!",
+      "status": "imported"
+    },
+    "voice_139:r_920740a0219c5085": {
+      "text": "Gun crews, avoid direct hits!",
+      "status": "imported"
+    },
+    "voice_139:r_a8451712c57c1a72": {
+      "text": "Prioritize the command unit!",
+      "status": "imported"
+    },
+    "voice_139:r_3633df5b7b8f47fa": {
+      "text": "Their tactical core! Take it out...!",
+      "status": "imported"
+    },
+    "voice_139:r_52dfc56b14b93551": {
+      "text": "Target the enemy ship! Engage it!",
+      "status": "imported"
+    },
+    "voice_139:r_1b9b2aab5cb104da": {
+      "text": "A slugging match at a standstill...!",
+      "status": "imported"
+    },
+    "voice_139:r_342044c706a2340f": {
+      "text": "Rule by force is\\nunacceptable...!",
+      "status": "imported"
+    },
+    "voice_139:r_cf41e8828a90cbdb": {
+      "text": "All hands, rally!\\nEnd this war!",
+      "status": "imported"
+    },
+    "voice_139:r_719e897304ec42d4": {
+      "text": "Lives in my hands!\\nReady to attack!",
+      "status": "imported"
+    },
+    "voice_139:r_d5e0a2317c40d322": {
+      "text": "We'll stop the war's mastermind!",
+      "status": "imported"
+    },
+    "voice_139:r_ec2ea17765052401": {
+      "text": "They'll pay\\nfor all they've done...!",
+      "status": "imported"
+    },
+    "voice_139:r_f2d4255f1c2f7542": {
+      "text": "Fiiire!",
+      "status": "imported"
+    },
+    "voice_139:r_5d08ad19e2da125b": {
+      "text": "Return fire with machine guns!",
+      "status": "imported"
+    },
+    "voice_139:r_a7246b52782a877e": {
+      "text": "Anti-Air Machine Gun, open fire!",
+      "status": "imported"
+    },
+    "voice_139:r_dc8701f6bcb9904f": {
+      "text": "Air defense! Hurry!",
+      "status": "imported"
+    },
+    "voice_139:r_d6bdd730f24f66eb": {
+      "text": "Missile launch! Fire!",
+      "status": "imported"
+    },
+    "voice_139:r_41997412868c48c4": {
+      "text": "Missile, fire horizontally!",
+      "status": "imported"
+    },
+    "voice_139:r_9e6cf4f389dae55c": {
+      "text": "Missile, launch in succession!",
+      "status": "imported"
+    },
+    "voice_139:r_9e0c80ac7e33b459": {
+      "text": "Missile! Open all launch tubes!",
+      "status": "imported"
+    },
+    "voice_139:r_7432ef43ed3471dc": {
+      "text": "Mega Particle Cannon, fire!",
+      "status": "imported"
+    },
+    "voice_139:r_065443f6ddfcf0d7": {
+      "text": "Fire the Mega Particle Cannon!",
+      "status": "imported"
+    },
+    "voice_139:r_47d52a2839c71715": {
+      "text": "Main cannon, fire!",
+      "status": "imported"
+    },
+    "voice_139:r_847f82e7f3eef651": {
+      "text": "Main guns, Volley Fire!",
+      "status": "imported"
+    },
+    "voice_139:r_eb7ae28b53dc033c": {
+      "text": "All guns, fire at three-second gaps!",
+      "status": "imported"
+    },
+    "voice_139:r_857c4a52ce8df0fd": {
+      "text": "Destroy each enemy unit separately!",
+      "status": "imported"
+    },
+    "voice_139:r_9072ea7bc71df136": {
+      "text": "Counterattack while evading!",
+      "status": "imported"
+    },
+    "voice_139:r_04e815a8d425827d": {
+      "text": "Counterattack! Return fire!",
+      "status": "imported"
+    },
+    "voice_139:r_d89011fe3e5d082a": {
+      "text": "Turn and counterattack! Hurry!",
+      "status": "imported"
+    },
+    "voice_139:r_3c5b0c2ac812d5de": {
+      "text": "No escape! Bring them down!",
+      "status": "imported"
+    },
+    "voice_139:r_5b9e8897190892eb": {
+      "text": "Now's our chance to down the enemy!",
+      "status": "imported"
+    },
+    "voice_139:r_7bea3023abbf8a94": {
+      "text": "We can't let them go any further...!",
+      "status": "imported"
+    },
+    "voice_139:r_dd01a4c0d1b36a8d": {
+      "text": "Don't let close enemies escape!",
+      "status": "imported"
+    },
+    "voice_139:r_20920ad2eb3542db": {
+      "text": "Enemy in range?\\nReturn fire now!",
+      "status": "imported"
+    },
+    "voice_139:r_0ab7914877fd48ed": {
+      "text": "Follow up with another attack!",
+      "status": "imported"
+    },
+    "voice_139:r_cb846feec748c2e3": {
+      "text": "Provide support! Hurry!",
+      "status": "imported"
+    },
+    "voice_139:r_c958860b0676b1f5": {
+      "text": "Ship forward! We'll attack too!",
+      "status": "imported"
+    },
+    "voice_139:r_5e2669b82ef75ce3": {
+      "text": "Captain, you broke their line!",
+      "status": "imported"
+    },
+    "voice_139:r_7847e0ed7dc9282d": {
+      "text": "Follow the Lieutenant's attack!",
+      "status": "imported"
+    },
+    "voice_139:r_e42b52c7a987b906": {
+      "text": "We'll cover the Ensign!",
+      "status": "imported"
+    },
+    "voice_139:r_6825fd1ff907bd22": {
+      "text": "Don't take it all on, Amuro!",
+      "status": "imported"
+    },
+    "voice_139:r_607f666f1563bc0d": {
+      "text": "Excellent attack, Kamille!",
+      "status": "imported"
+    },
+    "voice_139:r_97b7431eeb81e6b6": {
+      "text": "Katz! Don't chase them too far!",
+      "status": "imported"
+    },
+    "voice_139:r_132f605d02975e71": {
+      "text": "Hathaway! Don't stray too far!",
+      "status": "imported"
+    },
+    "voice_139:r_9b9726b1872759d6": {
+      "text": "Impressive as ever, Char!",
+      "status": "imported"
+    },
+    "voice_139:r_1252db29683fefe0": {
+      "text": "Let's help Haman!",
+      "status": "imported"
+    },
+    "voice_139:r_ad3d538f1e909184": {
+      "text": "Banagher, very impressive...!",
+      "status": "imported"
+    },
+    "voice_139:r_8c61c59a1c0aebbf": {
+      "text": "Don't rush, Ensign Riddhe!",
+      "status": "imported"
+    },
+    "voice_139:r_aba6a7662129d8ce": {
+      "text": "Match timing\\nwith the Nahel Argama!",
+      "status": "imported"
+    },
+    "voice_139:r_b84afafb8a33ec60": {
+      "text": "Use the ship as a shield!",
+      "status": "imported"
+    },
+    "voice_139:r_c8c59db85bf875e6": {
+      "text": "Move the Ra Cailum to the front!",
+      "status": "imported"
+    },
+    "voice_139:r_391aa56435d9dd6e": {
+      "text": "Accept some damage!\\nSave our allies!",
+      "status": "imported"
+    },
+    "voice_139:r_7c796ba53bd7ea03": {
+      "text": "Don't let them get the Captain!",
+      "status": "imported"
+    },
+    "voice_139:r_fa944da4b6519006": {
+      "text": "Pull the Lieutenant back!",
+      "status": "imported"
+    },
+    "voice_139:r_95d047bcc17fccc6": {
+      "text": "Support the Ensign!",
+      "status": "imported"
+    },
+    "voice_139:r_640327a12a559b31": {
+      "text": "What are you doing, Amuro!",
+      "status": "imported"
+    },
+    "voice_139:r_bdd38c584fa313d0": {
+      "text": "Calm Kamille down!",
+      "status": "imported"
+    },
+    "voice_139:r_3fd86c1027f317c8": {
+      "text": "Katz! Another reckless stunt!",
+      "status": "imported"
+    },
+    "voice_139:r_d0372a183d2007ad": {
+      "text": "I'm sorry, everyone...!",
+      "status": "imported"
+    },
+    "voice_139:r_217aa5e1d545b44d": {
+      "text": "The Red Comet still has work to do!",
+      "status": "imported"
+    },
+    "voice_139:r_381992c5d8224937": {
+      "text": "Move in front of Haman!",
+      "status": "imported"
+    },
+    "voice_139:r_f1e7ed9e5874aba5": {
+      "text": "Order Banagher to fall back!",
+      "status": "imported"
+    },
+    "voice_139:r_fc25e66a86fc2c85": {
+      "text": "Ensign Riddhe! You rush for glory!",
+      "status": "imported"
+    },
+    "voice_139:r_5aeeb4917340c42d": {
+      "text": "Nahel Argama, fall in behind us!",
+      "status": "imported"
+    },
+    "voice_139:r_b765659981b6516d": {
+      "text": "Is counterattack impossible!?",
+      "status": "imported"
+    },
+    "voice_139:r_0c427458bc00eb95": {
+      "text": "All we can do is watch them go...?",
+      "status": "imported"
+    },
+    "voice_139:r_774a9ab4d8fd5351": {
+      "text": "No supplies?\\nWe can't fight on...?",
+      "status": "imported"
+    },
+    "voice_139:r_d3f01de714c015bd": {
+      "text": "From outside our range!?",
+      "status": "imported"
+    },
+    "voice_139:r_7d2617c809fead70": {
+      "text": "Bad positioning,\\nand now this...!",
+      "status": "imported"
+    },
+    "voice_139:r_ceb935ccbf830724": {
+      "text": "They dodged!?",
+      "status": "imported"
+    },
+    "voice_139:r_862ef7385bf2abd4": {
+      "text": "Good, we shook them!",
+      "status": "imported"
+    },
+    "voice_139:r_001cbec4d9a4283f": {
+      "text": "Evasive maneuvers, hurry!",
+      "status": "imported"
+    },
+    "voice_139:r_8ad40afecd02b41e": {
+      "text": "Hard to starboard! Evade!",
+      "status": "imported"
+    },
+    "voice_139:r_26e5efec03c03d78": {
+      "text": "Evade every three seconds!",
+      "status": "imported"
+    },
+    "voice_139:r_4ad81e88c7557a8b": {
+      "text": "I saw that coming!",
+      "status": "imported"
+    },
+    "voice_139:r_1f65a7af190e4674": {
+      "text": "Don't fear the Red Comet, all hands!",
+      "status": "imported"
+    },
+    "voice_139:r_40c5a9358ed5bf29": {
+      "text": "Are you toying with us, Char...?",
+      "status": "imported"
+    },
+    "voice_139:r_f2e18dfdfe0c89ea": {
+      "text": "Damn you, Frontal, so composed...!",
+      "status": "imported"
+    },
+    "voice_139:r_cf7dbf49e96a5755": {
+      "text": "Haman can't be this weak...",
+      "status": "imported"
+    },
+    "voice_139:r_fa96676cc65bb509": {
+      "text": "Neo Zeon comes in waves!\\nStay sharp!",
+      "status": "imported"
+    },
+    "voice_139:r_4e37f92e7d2fc62e": {
+      "text": "Neo Zeon... Still not finished?!",
+      "status": "imported"
+    },
+    "voice_139:r_66ab4cfe1557909d": {
+      "text": "So their spirit alone runs high...!",
+      "status": "imported"
+    },
+    "voice_139:r_0bad405ee6ca63ba": {
+      "text": "A surrender call is useless...?",
+      "status": "imported"
+    },
+    "voice_139:r_2072eaf71a260ae7": {
+      "text": "Named Gundam...\\nThis isn't over.",
+      "status": "imported"
+    },
+    "voice_139:r_6c13bbfd27a7799e": {
+      "text": "Monster...!\\nDon't slight Londo Bell!",
+      "status": "imported"
+    },
+    "voice_139:r_06f88dcbd3c9e738": {
+      "text": "Don't falter!\\nShow humanity's might!",
+      "status": "imported"
+    },
+    "voice_139:r_0a3fccb71ec6cf2a": {
+      "text": "What a pointless effort!",
+      "status": "imported"
+    },
+    "voice_139:r_8356f4e3dcdff938": {
+      "text": "The barrier activated!",
+      "status": "imported"
+    },
+    "voice_139:r_1d6d784036ae0bd7": {
+      "text": "Hmm, no serious damage, right?",
+      "status": "imported"
+    },
+    "voice_139:r_625664af02183c17": {
+      "text": "This won't bring us down!",
+      "status": "imported"
+    },
+    "voice_139:r_3701cba361f80ea5": {
+      "text": "All gun crews, put up a barrage!",
+      "status": "imported"
+    },
+    "voice_139:r_63f429c5c68c0863": {
+      "text": "Air defense! Keep the enemy away!",
+      "status": "imported"
+    },
+    "voice_139:r_38e4a434c91d8ef0": {
+      "text": "Evasion is too slow!",
+      "status": "imported"
+    },
+    "voice_139:r_98ed411352a3a6ac": {
+      "text": "We avoided a direct hit...!",
+      "status": "imported"
+    },
+    "voice_139:r_4824bea6bab3af67": {
+      "text": "Air defense, what are you doing?!",
+      "status": "imported"
+    },
+    "voice_139:r_862b92e63adb9734": {
+      "text": "Thin barrage! What are you doing?!",
+      "status": "imported"
+    },
+    "voice_139:r_cb306ef55e49d107": {
+      "text": "Intercept system, keep auto-firing!",
+      "status": "imported"
+    },
+    "voice_139:r_57b2bd2de8a1408d": {
+      "text": "Thicken the barrage! Hurry!",
+      "status": "imported"
+    },
+    "voice_139:r_76f080a4881e8ab5": {
+      "text": "They've latched on! At this rate...!",
+      "status": "imported"
+    },
+    "voice_139:r_288133bc5b573dae": {
+      "text": "Ra Cailum won't sink from this...!",
+      "status": "imported"
+    },
+    "voice_139:r_6f95653e548f8fcf": {
+      "text": "Red Comet's threat,\\nonce more...!",
+      "status": "imported"
+    },
+    "voice_139:r_d249d68bada91ab9": {
+      "text": "Char...! So you're serious!",
+      "status": "imported"
+    },
+    "voice_139:r_e9b3307e9eb69f11": {
+      "text": "Those moves\\nbefit the Red Comet...!",
+      "status": "imported"
+    },
+    "voice_139:r_03cdac73042343ee": {
+      "text": "Haman...!\\nYou found our blind spot!",
+      "status": "imported"
+    },
+    "voice_139:r_6026da5acbda7c69": {
+      "text": "Damn Neo Zeon...! They got us!",
+      "status": "imported"
+    },
+    "voice_139:r_981f8fedd5414fe5": {
+      "text": "Their morale surpasses ours...?",
+      "status": "imported"
+    },
+    "voice_139:r_96bb0dcde0c8c44a": {
+      "text": "Stand firm!\\nShow Londo Bell's pride!",
+      "status": "imported"
+    },
+    "voice_139:r_641550a2f54cb456": {
+      "text": "Obsession\\nfuels their strength...?",
+      "status": "imported"
+    },
+    "voice_139:r_a0f2074af8debbfa": {
+      "text": "I must admit it...\\nA true Gundam!",
+      "status": "imported"
+    },
+    "voice_139:r_b5f5a97ed82acb0b": {
+      "text": "A monster in looks and power...?",
+      "status": "imported"
+    },
+    "voice_139:r_d9cd2e4ded064396": {
+      "text": "Damn...!\\nHumanity's true nemesis...!",
+      "status": "imported"
+    },
+    "voice_139:r_82c09f011d703b2c": {
+      "text": "Damn! The enemy's desperate too!",
+      "status": "imported"
+    },
+    "voice_139:r_2b4d8818c77b6dca": {
+      "text": "Not yet! Don't fall yet!",
+      "status": "imported"
+    },
+    "voice_139:r_087354f2db0a31e6": {
+      "text": "Damn! Not yet! Hold together!",
+      "status": "imported"
+    },
+    "voice_139:r_db02a2dec93dd263": {
+      "text": "We're hit! Send units to cover us!",
+      "status": "imported"
+    },
+    "voice_139:r_d520c6d5298a848d": {
+      "text": "Turn, hurry! They're targeting us!",
+      "status": "imported"
+    },
+    "voice_139:r_099e2458cabf796f": {
+      "text": "Flagship Ra Cailum!\\nNever sink!",
+      "status": "imported"
+    },
+    "voice_139:r_fd910d714be70870": {
+      "text": "Damn! All hands, abandon ship!",
+      "status": "imported"
+    },
+    "voice_139:r_9736f29b11344ec3": {
+      "text": "Ra Cailum...! How could this be...?",
+      "status": "imported"
+    },
+    "voice_139:r_fcd05582aa5c6068": {
+      "text": "All hands, battle stations!",
+      "status": "imported"
+    },
+    "voice_139:r_494b5da92ed24ecb": {
+      "text": "All guns!\\nOpen fire in range!",
+      "status": "imported"
+    },
+    "voice_139:r_a4a5a96f4bd58920": {
+      "text": "Roger! We'll take them one by one!",
+      "status": "imported"
+    },
+    "voice_139:r_b57d2d74233f889a": {
+      "text": "Enemy units are now within range!",
+      "status": "imported"
+    },
+    "voice_139:r_cd06d0820d82524b": {
+      "text": "Eliminate them at once!",
+      "status": "imported"
+    },
+    "voice_139:r_c94c6d04be583774": {
+      "text": "Target acquired!",
+      "status": "imported"
+    },
+    "voice_139:r_e54e2c99ef8297af": {
+      "text": "Begin the attack immediately!",
+      "status": "imported"
+    },
+    "voice_139:r_f16a3eb0bcaac082": {
+      "text": "Minovsky particles, combat spread!",
+      "status": "imported"
+    },
+    "voice_139:r_10a408809e512df1": {
+      "text": "Roger! Spreading Minovsky particles!",
+      "status": "imported"
+    },
+    "voice_139:r_bc7b9e308b879dd4": {
+      "text": "Axis is accelerating!",
+      "status": "imported"
+    },
+    "voice_139:r_98902fd3143c393e": {
+      "text": "All ahead full! Break their line!",
+      "status": "imported"
+    },
+    "voice_139:r_d907fbd7bc1c4298": {
+      "text": "Captain! This is far too reckless!",
+      "status": "imported"
+    },
+    "voice_139:r_96b21e3a028dd074": {
+      "text": "We do it even if it's reckless!",
+      "status": "imported"
+    },
+    "voice_139:r_7316666150e42960": {
+      "text": "Lead unit at 3x speed!\\nClosing in!",
+      "status": "imported"
+    },
+    "voice_139:r_c4f11aa93dc5b668": {
+      "text": "The Red Comet! At least stop them!",
+      "status": "imported"
+    },
+    "voice_139:r_ce1a22dfe3a4d339": {
+      "text": "This is a difficult fight...",
+      "status": "imported"
+    },
+    "voice_139:r_240651adab81e145": {
+      "text": "So we\\nmust do it ourselves...!",
+      "status": "imported"
+    },
+    "voice_139:r_cff0deaae73c2858": {
+      "text": "We'll bring that Gundam down!",
+      "status": "imported"
+    },
+    "voice_139:r_dca67f68a573fab7": {
+      "text": "It won't be easy, but let's try!",
+      "status": "imported"
+    },
+    "voice_139:r_f5658c702d91db7a": {
+      "text": "Don't let this chance slip away!",
+      "status": "imported"
+    },
+    "voice_139:r_686df329b50f195b": {
+      "text": "Attack after our allies!",
+      "status": "imported"
+    },
+    "voice_139:r_25f0ab0fa3cf690c": {
+      "text": "Don't let them take our allies!",
+      "status": "imported"
+    },
+    "voice_139:r_b708a1d959013dbf": {
+      "text": "Moving to cover them now!",
+      "status": "imported"
+    },
+    "voice_139:r_59fca03e929366c1": {
+      "text": "We were completely overwhelmed...!",
+      "status": "imported"
+    },
+    "voice_139:r_0d65eb631dcb7514": {
+      "text": "We have no way to counterattack...!",
+      "status": "imported"
+    },
+    "voice_139:r_d03018a31e23f1e9": {
+      "text": "Maintain constant ship speed!",
+      "status": "imported"
+    },
+    "voice_139:r_279da5f732aa8847": {
+      "text": "Roger! Holding constant ship speed!",
+      "status": "imported"
+    },
+    "voice_139:r_97f82e3cb6f70110": {
+      "text": "All hands, stay alert!",
+      "status": "imported"
+    },
+    "voice_139:r_c5611d8dd6def96b": {
+      "text": "Evasion successful, Captain!",
+      "status": "imported"
+    },
+    "voice_139:r_6f12cc8ed2732eb5": {
+      "text": "It missed us.",
+      "status": "imported"
+    },
+    "voice_139:r_7abfc55f8fb62ba7": {
+      "text": "If only it always went this well...",
+      "status": "imported"
+    },
+    "voice_139:r_99e7a66c650b5892": {
+      "text": "Field deployment confirmed!",
+      "status": "imported"
+    },
+    "voice_139:r_5b2247b5cfbcd7b2": {
+      "text": "This should hold for a while...!",
+      "status": "imported"
+    },
+    "voice_139:r_2d7a9c06347582d9": {
+      "text": "Check all sections for damage!",
+      "status": "imported"
+    },
+    "voice_139:r_bf953d64c3c7d9b7": {
+      "text": "Minor damage! Operations unaffected!",
+      "status": "imported"
+    },
+    "voice_139:r_e09b933e3e706779": {
+      "text": "Enemy units have breached the ship!",
+      "status": "imported"
+    },
+    "voice_139:r_66236eb99b676e5b": {
+      "text": "Some damage is unavoidable...!",
+      "status": "imported"
+    },
+    "voice_139:r_9639a2dbcd2f58ed": {
+      "text": "We've been hit! Check damage!",
+      "status": "imported"
+    },
+    "voice_139:r_aeea0893acb93d35": {
+      "text": "Ignore it! We only advance now!",
+      "status": "imported"
+    },
+    "voice_139:r_b31568654e53487b": {
+      "text": "Check our damage, hurry!",
+      "status": "imported"
+    },
+    "voice_139:r_2502132569141ea3": {
+      "text": "Hangar hit! Fire crews responding!",
+      "status": "imported"
+    },
+    "voice_139:r_1ff312798a52c8eb": {
+      "text": "All hands! Prioritize our advance!",
+      "status": "imported"
+    },
+    "voice_139:r_fa07d90fca62f593": {
+      "text": "Roger! Informing the entire fleet!",
+      "status": "imported"
+    },
+    "voice_139:r_a25bf2676ecf9d83": {
+      "text": "Fires breaking out across the ship!",
+      "status": "imported"
+    },
+    "voice_139:r_237a0288b42dce20": {
+      "text": "Drop bulkheads! Spray retardant!",
+      "status": "imported"
+    },
+    "voice_139:r_0556e8a22779ea8e": {
+      "text": "A direct hit...!? Hurry, report!",
+      "status": "imported"
+    },
+    "voice_139:r_09d377101a48d92a": {
+      "text": "We're checking now!",
+      "status": "imported"
+    },
+    "voice_139:r_11517cc7b0494dbf": {
+      "text": "Send fire and repair crews there!",
+      "status": "imported"
+    },
+    "voice_139:r_b5864501463db244": {
+      "text": "Seal failed!\\nFire's out of control!",
+      "status": "imported"
+    },
+    "voice_139:r_a88939ea84b4474d": {
+      "text": "Captain, this is too reckless!",
+      "status": "imported"
+    },
+    "voice_139:r_a870d0cf7cc11ec6": {
+      "text": "Reckless or not! Now is the time!",
+      "status": "imported"
+    },
+    "voice_139:r_03f6158ef83964f3": {
+      "text": "Engine output dropping!",
+      "status": "imported"
+    },
+    "voice_139:r_2970a83693cdcc25": {
+      "text": "Keep it together! Axis will fall!",
+      "status": "imported"
+    },
+    "voice_139:r_be661448b85d0009": {
+      "text": "Captain! Abandon ship!!",
+      "status": "imported"
+    },
+    "voice_139:r_958a56c1151cab9e": {
+      "text": "Is this as far as we go...!?",
+      "status": "imported"
+    },
+    "voice_139:r_8b18aa4cc69547df": {
+      "text": "Pay no heed\\nto an ego-mad tyrant!",
+      "status": "imported"
+    },
+    "voice_139:r_5508a7bfa9074eb9": {
+      "text": "Sorry. Lend me your lives...!",
+      "status": "imported"
+    }
+  }
+}

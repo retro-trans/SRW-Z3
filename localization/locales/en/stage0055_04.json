@@ -1,0 +1,1238 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0055_04:r_caaab7bad760e16d": {
+      "text": "$$フロンタル$$\n「Too slow.」",
+      "status": "imported"
+    },
+    "stage0055_04:r_99b162aa6aa286a2": {
+      "text": "Federation Soldier\n「Aaaaaugh!!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_58fb02434a1c40b2": {
+      "text": "$$アンジェロ$$\n「That wipes out the defense force.」",
+      "status": "imported"
+    },
+    "stage0055_04:r_1c0f94acd5a8a143": {
+      "text": "$$フロンタル$$\n「Don't let your guard down.\n　They're only the opening act.」",
+      "status": "imported"
+    },
+    "stage0055_04:r_1263541f4071624e": {
+      "text": "$$クェス$$\n「Here they come, $$ギュネイ$$...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_3bc300bbdc277d82": {
+      "text": "$$ギュネイ$$\n「$c, is it...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_38762a09460d8b6b": {
+      "text": "$$メラン$$\n「The Fifth Luna garrison is wiped out.」",
+      "status": "imported"
+    },
+    "stage0055_04:r_7ab28e70b4d4f641": {
+      "text": "$$ブライト$$\n「Too late...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_b05f6a6e8f3d9b24": {
+      "text": "$n\n「Doesn't look like the $$レウルーラ$$'s here.」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ec335e69f984b8b3": {
+      "text": "$$シン$$\n「But there's another Red Comet here...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_0abcaf0c31978670": {
+      "text": "$$バナージ$$\n「$$フル・フロンタル$$...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_1d6bc48b7f246730": {
+      "text": "$$フロンタル$$\n「I've been waiting, $c.\n　But this is a fact that must not change.」",
+      "status": "imported"
+    },
+    "stage0055_04:r_1af20fccc3c53cfc": {
+      "text": "$$アンジェロ$$\n「All units, scatter!\n　Switch to defense!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_f951916061232dcd": {
+      "text": "$$ギュネイ$$\n「Now it's our turn to take on $c!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_4d863c3fb88a4c39": {
+      "text": "$$クェス$$\n「If you want a fight, I won't back down...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_44f4742c3dcce39a": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$...!\n　You're here too...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_9e701cdeb3842c21": {
+      "text": "$$カツ$$\n「Calm down, Hasa!\n　In the chaos, we might get a shot at $$クェス$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_6fd81f4abebe60c5": {
+      "text": "$$ハサウェイ$$\n「Yes!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_da2132b5038ec737": {
+      "text": "$$マリーダ$$\n（$$バナージ$$...\n　Is this our fate, then...）",
+      "status": "imported"
+    },
+    "stage0055_04:r_495d61d3ec7e16f2": {
+      "text": "$$バナージ$$\n（Ms. $$マリーダ$$...\n　So you really are going to fight...）",
+      "status": "imported"
+    },
+    "stage0055_04:r_5cd353758cfe474d": {
+      "text": "$$ブライト$$\n「All units, begin the attack!\n　We don't know what the enemy's after,\n　but we're retaking Fifth Luna!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_a653c8dec4c0f06f": {
+      "text": "$$カミーユ$$\n「Captain $$アムロ$$...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_86d493e37a9799a7": {
+      "text": "$$アムロ$$\n「Yeah...!\n　$$シャア$$'s somewhere nearby!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_09d0fcc600cdd3df": {
+      "text": "$$アムロ$$\n「We'll smash through them and draw him out!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_182faded068c15ed": {
+      "text": "$$フロンタル$$\n「Impressive, as expected...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_9c206d19bfda4bd5": {
+      "text": "$$レイアム$$\n「A unit is closing in on this sector!\n　It's Neo Zeon's!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_6e558bc69acf5bf3": {
+      "text": "$$オットー$$\n「One more reinforcement won't change a thing now!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_d60d0818e965232f": {
+      "text": "$$レイアム$$\n「What...! Acceleration is triple a normal unit's!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_5b23687574286204": {
+      "text": "$$オットー$$\n「W-what!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_6fd86c96891ea942": {
+      "text": "$$リディ$$\n「A red mobile suit...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_43e4e548c0b28376": {
+      "text": "$$カミーユ$$\n「There's no mistaking it!\n　That's...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_d80a9688790ed583": {
+      "text": "$$アムロ$$\n「$$シャア$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_708bea61e3c43ada": {
+      "text": "$$シャア$$\n「Come, $$アムロ$$.」",
+      "status": "imported"
+    },
+    "stage0055_04:r_7b6f159eeaf4de0f": {
+      "text": "$$アムロ$$\n「I'm going to hear it, $$シャア$$!\n　Your true intentions!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_0827963cfd706e8d": {
+      "text": "$$シャア$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$アムロ$$\n「You must know this world's in crisis too!\n　Keep this up and humanity really ends!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_3f4035fd9db81258": {
+      "text": "$$シャア$$\n「That's exactly why...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_567b361a454c4b73": {
+      "text": "$$アムロ$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_d22851aaafbbf8fc": {
+      "text": "$$シャア$$\n「That's why people must change...!\n　Beyond this war!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_352534f64413d954": {
+      "text": "$$アムロ$$\n「You're rushing it, $$シャア$$!\n　People and the world both need time to change!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_79f2664edb1af798": {
+      "text": "$$シャア$$\n「You too must know there's no time left, $$アムロ$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$シャア$$\n「Unless humanity moves into a new world,\n　into space, our souls are bound to gravity forever!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_1c5aa0d15ae24846": {
+      "text": "$$シャア$$\n「I'm prepared to bear everything for that!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_53bb64ee17750ee2": {
+      "text": "$$アムロ$$\n「Don't tell me... you mean to use this Fifth Luna...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_7a7add80fde475ba": {
+      "text": "$$シャア$$\n「Just as you think.\n　I'm going to drop this on Earth...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_b2befefdbed1393d": {
+      "text": "$$キラ$$\n「If you do that...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_2103f6df2ea2e447": {
+      "text": "$n\n「Do you have any idea how much damage that'll cause!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_a12e3e130d896ff7": {
+      "text": "$$アルト$$\n「Wasn't this war supposed to leave the\n　colonies unharmed!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_b6f7b219eb4bd64b": {
+      "text": "$$アムロ$$\n「Answer me, $$シャア$$!\n　Is this what you call a fight!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_91bf33c27ad39f0a": {
+      "text": "$$シャア$$\n「$$アムロ$$...!\n　No, $c!\n　Come to Neo Zeon with me!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ee220318b96ab538": {
+      "text": "$$カミーユ$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ce1b55e526b6277a": {
+      "text": "$$シャア$$\n「I'll need your strength to lead humanity forward!\n　And together, we'll overthrow the old order!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_c304df6888eb78f7": {
+      "text": "$$アムロ$$\n「Are you talking about the Earth supremacists!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_c26958634526e597": {
+      "text": "$$シャア$$\n「That's right!\n　They haven't changed a bit since the days\n　of the $$ティターンズ$$ and $$ブルーコスモス$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_cdb750c9d380881a": {
+      "text": "$$シン$$\n「Even so, starting a war means\n　dragging innocent people into it too!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_95fda74613c97b39": {
+      "text": "$$カミーユ$$\n「This isn't like the $$エゥーゴ$$!\n　This only spreads sorrow across the whole world!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_1956994937f8171e": {
+      "text": "$$アムロ$$\n「$$シャア$$!\n　Is this what you learned fighting $$トレーズ$$ and Zero!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_48f49f6728c15612": {
+      "text": "$$アムロ$$\n「Whatever $$トレーズ$$ entrusted to you,\n　it can't have been this!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$シャア$$\n「...The one to carry on his wish isn't me...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_f02c37d91387d0ad": {
+      "text": "$$アムロ$$\n「Don't run, $$シャア$$!\n　If you care for the world's future, come with us!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$シャア$$\n「That... I cannot do...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_9796b3efa401a303": {
+      "text": "$$アムロ$$\n「$$シャア$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_643b6eebfc0186b3": {
+      "text": "$$フロンタル$$\n「Got you now, $$アムロ・レイ$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_291280e5f7eb9d70": {
+      "text": "$$アムロ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_32eb462c1b4999cb": {
+      "text": "$$アムロ$$\n「Damn it!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_1f4337d6d393fc37": {
+      "text": "$$フロンタル$$\n「You avoided a fatal blow...!\n　I'll grant you that much!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_4740e748fae085ee": {
+      "text": "$$シャア$$\n「$$フル・フロンタル$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_b76524cd840e1d37": {
+      "text": "$$フロンタル$$\n「His existence confuses the Supreme Commander!\n　Leave this to me!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_730ffe18400abfc2": {
+      "text": "$$アムロ$$\n「I'm going down...!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ffe0fca26da5cd38": {
+      "text": "$$ベルトーチカ$$\n「Run, $$アムロ$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_bfb27f9eb2f7073e": {
+      "text": "$$アムロ$$\n「$$ベルトーチカ$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_859dfa27bcaafe30": {
+      "text": "$$フロンタル$$\n「$$アムロ・レイ$$!\n　Your existence cannot be allowed!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_71ebf05996a4b0fd": {
+      "text": "$$カミーユ$$\n「I won't let you!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_6214c11b1bca811e": {
+      "text": "$$フロンタル$$\n「Tch!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_8eaf6f3098ffed12": {
+      "text": "$$バナージ$$\n「Captain $$アムロ$$! Now!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_cf507214fe955d75": {
+      "text": "$$アムロ$$\n「Sorry...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_2113dcbabdfc758a": {
+      "text": "$$アムロ$$\n「$$νガンダム$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$アルベルト$$\n「Even that Gundam is coming here...\n　what's going on!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_6a74519e1fc29c4b": {
+      "text": "$$ベルトーチカ$$\n「Hurry, $$アムロ$$!\n　It's your Gundam!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_5b992878fee054b5": {
+      "text": "$$アムロ$$\n「Thanks, $$ベルトーチカ$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$フロンタル$$\n「So you've boarded the $$νガンダム$$...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_4a14ec0c511c7f0d": {
+      "text": "$$シャア$$\n「That's fine.\n　$$アムロ$$ will need that Gundam.」",
+      "status": "imported"
+    },
+    "stage0055_04:r_20cf167c0ec0d4d5": {
+      "text": "$$アムロ$$\n「$$シャア$$...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_b591d812c96c6c99": {
+      "text": "$$シャア$$\n「Fall back, $$フロンタル$$.」",
+      "status": "imported"
+    },
+    "stage0055_04:r_e350fa099c1ab072": {
+      "text": "$$フロンタル$$\n「But...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$シャア$$\n「If something should happen to me,\n　I'll need you to take action.」",
+      "status": "imported"
+    },
+    "stage0055_04:r_c33bd700553abf91": {
+      "text": "$$フロンタル$$\n「...Understood.\n　I'll pray for your safety.」",
+      "status": "imported"
+    },
+    "stage0055_04:r_feee5c91826230e1": {
+      "text": "$$シャア$$\n「$$アムロ$$!\n　If you deny me, then stop me!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_bccc48e1964ad22d": {
+      "text": "$$アムロ$$\n「You don't have to tell me!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_f8736aaaa216c766": {
+      "text": "$$バナージ$$\n「$$アムロ$$'s consciousness is flowing into me...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_d1ec2522c87c361d": {
+      "text": "$$カミーユ$$\n「Anger... sorrow... hesitation...\n　And resolve...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_3599f0a4343fd95c": {
+      "text": "$$メラン$$\n「Captain!\n　A transmission from Federation Supreme Command!\n　The fleet will reach us in three minutes!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_3bc7834a5bf3ee76": {
+      "text": "$$ブライト$$\n「You heard it!\n　All units, hold the line for these 3 minutes!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_366814efdc8b5800": {
+      "text": "$$アムロ$$\n「$$シャア$$!\n　If that's what you want, we'll stop you!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_9be1a4c10bb62515": {
+      "text": "$$シャア$$\n「Come, then!\n　For humanity, I'll surpass you and the past!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_94a88c90e557e16e": {
+      "text": "$$シャア$$\n「So there's still hesitation left in me...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_1c208ca0cbf26f28": {
+      "text": "$$アムロ$$\n「Wait, $$シャア$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_5b7ee307a700171a": {
+      "text": "$$シャア$$\n「$$アムロ$$...!\n　No matter what you say to me,\n　I'll follow my own will!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_8d8f065c932da30a": {
+      "text": "$$メラン$$\n「The Federation fleet will arrive soon!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_f5432119677514f7": {
+      "text": "$$ブライト$$\n「Good!\n　We'll join them and go on the offensive at once!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_4e5c8e989c4a7691": {
+      "text": "$$オットー$$\n「An ambush!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_adec86483b13599a": {
+      "text": "$$レイアム$$\n「An enemy ship is heading for us!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_2cf701bbcde3ec13": {
+      "text": "$$ジンネマン$$\n「Charge!\n　Let's do this!!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_c17c58fdba72005e": {
+      "text": "$$アレク$$\n「We've recovered His Excellency!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_1fe8564d2b959317": {
+      "text": "$$ジンネマン$$\n「$$ガランシェール$$, fall back!\n　Hurry!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_f527e012803f7f1c": {
+      "text": "$$レイアム$$\n「The enemy ship is pulling away!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_4b1247bd3ca4905d": {
+      "text": "$$オットー$$\n「What was that all about...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_00c55e25f87b71d0": {
+      "text": "$$シャア$$\n（So $$ハマーン$$ got what she wanted too...）",
+      "status": "imported"
+    },
+    "stage0055_04:r_338f3b27e51dcc41": {
+      "text": "$$シャア$$\n「All units, fall back.\n　We're abandoning Fifth Luna.」",
+      "status": "imported"
+    },
+    "stage0055_04:r_d91d4bc2d52b61c4": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$!!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_0c8ea89b07432421": {
+      "text": "$$カツ$$\n「No, Hasa!\n　Chasing them is pointless!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_4dbfba00ba7744ee": {
+      "text": "$$オズマ$$\n「So they've pulled back...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_be100a32b731708d": {
+      "text": "$$桂$$\n「What's this...?\n　After all that talk of resolve,\n　the retreat sure was quick.」",
+      "status": "imported"
+    },
+    "stage0055_04:r_702f82442fcec8a9": {
+      "text": "$$アムロ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0055_04:r_b1e38da4e8775ffe": {
+      "text": "$$カミーユ$$\n「What do you make of it, Captain?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$アムロ$$\n「$$シャア$$'s resolve was genuine...\n　But there seemed to be hesitation in this plan.」",
+      "status": "imported"
+    },
+    "stage0055_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$キラ$$\n「So that's why they retreated...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_3dad695c99e9e052": {
+      "text": "$$アムロ$$\n（$$シャア$$... what are you in such a hurry for...?）",
+      "status": "imported"
+    },
+    "stage0055_04:r_66d4ae3a21caf881": {
+      "text": "$$メラン$$\n「The Federation fleet is coming.」",
+      "status": "imported"
+    },
+    "stage0055_04:r_0c18da7b3a37825d": {
+      "text": "$$ブライト$$\n「After it's all over, huh...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_63249745ffae61b6": {
+      "text": "$$サイガス$$\n「Good work, $c」",
+      "status": "imported"
+    },
+    "stage0055_04:r_abdb034ae8509702": {
+      "text": "$$ブライト$$\n「Brig. Gen. $$サイガス$$...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_3ff2e21207d1d1d3": {
+      "text": "$$ファ$$\n「Him again...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_e51ecf6d6aa42e75": {
+      "text": "$$エマ$$\n「Brig. Gen. $$サイガス・エイロニー$$...\n　He also heads EFF Supreme Command's\n　campaign against Neo Zeon」",
+      "status": "imported"
+    },
+    "stage0055_04:r_47ddabb7b60131c2": {
+      "text": "$$リディ$$\n「So he's effectively the Federation's\n　top man in this war?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_b025267f22788233": {
+      "text": "$$エマ$$\n「Yes...\n　And he's also known as a hawkish Earth\n　supremacist」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ec1a06a7023bf72c": {
+      "text": "$$カミーユ$$\n「A man like that, commanding the operation...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_8805f96e52aaa462": {
+      "text": "$$サイガス$$\n「There's also a battle report.\n　$c, your ships will join us and fall\n　under my command from here on」",
+      "status": "imported"
+    },
+    "stage0055_04:r_124591cb154fae64": {
+      "text": "$n\n「Wh...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$スズネ$$\n「Even more overbearing than I'd heard」",
+      "status": "imported"
+    },
+    "stage0055_04:r_4bf9b05b5f948170": {
+      "text": "$$ブライト$$\n「My apologies, General.\n　As an independent unit, we hold the right\n　to decide our own actions」",
+      "status": "imported"
+    },
+    "stage0055_04:r_eaa52d152f444bfd": {
+      "text": "$$ブライト$$\n「From here, we pursue the Neo Zeon\n　Supreme Commander」",
+      "status": "imported"
+    },
+    "stage0055_04:r_b4bc9e9435b58e6f": {
+      "text": "$$サイガス$$\n「Wait, Colonel $$ブライト$$...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_a9227573166977a9": {
+      "text": "$$ブライト$$\n「Dawdle, and we lose our chance.\n　...All hands, pull out of this area!\n　We're pursuing Neo Zeon!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_b0600ab9a9e8559d": {
+      "text": "$$アルト$$\n「Nice one, Captain $$ブライト$$」",
+      "status": "imported"
+    },
+    "stage0055_04:r_7cbc63dad295f862": {
+      "text": "$$ダグザ$$\n「Supreme Command's been interfering with\n　Londo Bell for a while now.\n　He must've finally had enough」",
+      "status": "imported"
+    },
+    "stage0055_04:r_07f53c816e0a51f5": {
+      "text": "$$オズマ$$\n「Then we'll exercise our rights as an\n　independent unit and take on a new mission!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_2d09c6f6a2d990ea": {
+      "text": "$$サイガス$$\n「Damn you, $$ブライト・ノア$$...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_3c5fcfc484a51913": {
+      "text": "$$サイガス$$\n「Damn $c...!\n　Keep getting in my way, and remember\n　that I have my own methods too...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_0476ffd10c764b0e": {
+      "text": "$$ギュネイ$$\n「Tch! Even with the Colonel watching,\n　is this as far as I get!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$ギュネイ$$\n「I'll pay this back, I swear...!\n　$$ギュネイ・ガス$$, falling back!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_2b3479c4cf0680f4": {
+      "text": "$$アンジェロ$$\n「Pathetic, $$ギュネイ$$.\n　Go get your enhancements redone」",
+      "status": "imported"
+    },
+    "stage0055_04:r_e370696b8936b08c": {
+      "text": "$$クェス$$\n「How dare you, to $$ギュネイ$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_9d7b02c5e728b7aa": {
+      "text": "$$ハサウェイ$$\n「Stop it, $$クェス$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_9af213fc64e0afec": {
+      "text": "$$クェス$$\n「Shut up!\n　The Colonel's watching!\n　I won't lose!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_d7f1c506e78e55ff": {
+      "text": "$$アンジェロ$$\n「This is humiliating!\n　Right in front of the Colonel, how dare you!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_0c705091f748360e": {
+      "text": "$$フロンタル$$\n「Fall back, $$アンジェロ$$.\n　There's still work I need you to do」",
+      "status": "imported"
+    },
+    "stage0055_04:r_9eb8599304125b2f": {
+      "text": "$$アンジェロ$$\n「...My apologies, Colonel.\n　$$アンジェロ・ザウパー$$ will fall back」",
+      "status": "imported"
+    },
+    "stage0055_04:r_a072aa25e5f521e0": {
+      "text": "$$アンジェロ$$\n「Humiliating! To fail the operation\n　the Colonel devised...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_24e1a808a1609a1a": {
+      "text": "$$アンジェロ$$\n「Remember this, $c!\n　I will wipe out this disgrace, I swear it!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_53128ce8f154fd06": {
+      "text": "$$ギュネイ$$\n「Unsightly, $$アンジェロ$$. In the end, you're\n　just $$フロンタル$$'s private soldiers」",
+      "status": "imported"
+    },
+    "stage0055_04:r_03b5db9ce98fb8d6": {
+      "text": "$$マリーダ$$\n「This is as far as I go...!\n　$$マリーダ・クルス$$, falling back!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_3915fb4102f1c1dd": {
+      "text": "$$マリーダ$$\n（Master... please be safe...）",
+      "status": "imported"
+    },
+    "stage0055_04:r_817b2773b4ed563e": {
+      "text": "$$バナージ$$\n「$$マリーダ$$...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_1cc233cbc8c80af7": {
+      "text": "$$カミーユ$$\n（That four-winged pilot...\n　shares a bond of hearts with $$バナージ$$...）",
+      "status": "imported"
+    },
+    "stage0055_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$アムロ$$\n（Even if we could understand each other,\n　is fighting still unavoidable...）",
+      "status": "imported"
+    },
+    "stage0055_04:r_e180b22d18f48d38": {
+      "text": "$$クェス$$\n「No good!\n　The unit won't hold much longer!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_e598c2a0b27e7f50": {
+      "text": "$$クェス$$\n「Sorry, Colonel!\n　Falling back!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_4d2a9066c4e7b27f": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$!!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_10340119af3ed6db": {
+      "text": "$$アムロ$$\n（Not even $$ハサウェイ$$'s voice reaches her...）",
+      "status": "imported"
+    },
+    "stage0055_04:r_23a9c7ab620ab112": {
+      "text": "$$ギュネイ$$\n「How dare you, to $$クェス$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_4f0aca6deda07883": {
+      "text": "$$ギュネイ$$\n「I'll pay back what you did to $$クェス$$!\n　Here I come, $c!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_8fe40600ce62dfbc": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$! Listen to me!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ff4ce5f3cf96b617": {
+      "text": "$$クェス$$\n「$$ハサウェイ$$! You're fighting with $c!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_d73c21f119847e35": {
+      "text": "$$ハサウェイ$$\n「It's to bring you back!!\n　Get out of that mobile suit, $$クェス$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_89766f5ffaa912d4": {
+      "text": "$$クェス$$\n「Bring me back, what's that supposed to mean!?\n　I'm not yours!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$ハサウェイ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_451f726d4299ea35": {
+      "text": "$$クェス$$\n「I'm my own person!\n　Only the Colonel really understands that!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_e3d111e8bb190cb1": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$クェス$$\n「Shut up!\n　Keep following me, and I'll deal with you,\n　even if it's you, $$ハサウェイ$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ab97c2b2418ea732": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$! Listen to me!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_2ddff5064af78db4": {
+      "text": "$$クェス$$\n「$$ハサウェイ$$! You're fighting with $c!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_050d0532c4b24bfe": {
+      "text": "$$ハサウェイ$$\n「It's to bring you back!\n　Get out of that mobile suit, $$クェス$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_d583fcea31bdad2e": {
+      "text": "$$クェス$$\n「Bring me back, what's that supposed to mean!?\n　I'm not yours!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_475f7653621a91b5": {
+      "text": "$$ハサウェイ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_f228ae702350849b": {
+      "text": "$$クェス$$\n「I'm my own person!\n　Only the Colonel really understands that!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_d69dc027cba3003f": {
+      "text": "$$クェス$$\n「The Colonel's watching!\n　I have to live up to his expectations!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_3c3735172a480b72": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_1f418b5594cea300": {
+      "text": "$$クェス$$\n「Shut up!\n　Keep following me, and I'll deal with you,\n　even if it's you, $$ハサウェイ$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_f87fb889124bfaef": {
+      "text": "$$フロンタル$$\n「$$アムロ$$!\n　Your existence has no place in this world!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_79c90de32a79212d": {
+      "text": "$$アムロ$$\n（What is this feeling...!?\n　It's like I'm caught in the illusion\n　of fighting $$シャア$$ again...!）",
+      "status": "imported"
+    },
+    "stage0055_04:r_33f7fd55913419e8": {
+      "text": "$$フロンタル$$\n「$$バナージ$$, is it...!\n　Even you will have to withdraw here...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_473d9a88b4ca96e7": {
+      "text": "$$バナージ$$\n（This man isn't just a soldier...!\n　It's like the whole world is being\n　dragged into him...!）",
+      "status": "imported"
+    },
+    "stage0055_04:r_4de6ac85c63bac12": {
+      "text": "$$バナージ$$\n（I have to stop him...!\n　He's someone who crushes possibility itself!）",
+      "status": "imported"
+    },
+    "stage0055_04:r_4c92652c9b1adf6f": {
+      "text": "$$ギュネイ$$\n「$$カミーユ・ビダン$$!\n　You've gotten a bit better at this!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ce90563a934d49fb": {
+      "text": "$$カミーユ$$\n「I'll move forward, even lost in doubt!\n　If you're going to get in my way...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_4fb296e63cb1fb46": {
+      "text": "$$ギュネイ$$\n「That's the man the Colonel had his eye on!\n　Beating you will take me even higher!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$カミーユ$$\n「You...!\n　Still saying things like that!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_9dc59affd40f32fc": {
+      "text": "$$バナージ$$\n「$$マリーダ$$, you have no intention of backing\n　down, do you!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_0cea115be526a319": {
+      "text": "$$マリーダ$$\n「Isn't that the same for you?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_d36072babd12aeb4": {
+      "text": "$$バナージ$$\n「I fight... to bring this war to an end...!\n　This $c is a gathering of people who\n　feel the same!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_09ee921a85025fd3": {
+      "text": "$$マリーダ$$\n「That's just Federation logic...!\n　No matter how you argue it, I can't\n　accept it!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_fae689f2a1057b61": {
+      "text": "$$バナージ$$\n「Then I will!\n　I'll take away your power to fight!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_91c6d0bb53854ecc": {
+      "text": "$$マリーダ$$\n「Good, that's how it should be!\n　We met on the battlefield, so we're\n　enemies!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_42a3149105314ab8": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$! Stop fighting!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_62ecd978c667bd29": {
+      "text": "$$クェス$$\n「Shut up! I fight for the Colonel!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_d441e6cc908ac01b": {
+      "text": "$$ハサウェイ$$\n「No good! My words aren't reaching her!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_b2aab8873350ea1f": {
+      "text": "$$クェス$$\n「If you're getting in the Colonel's way,\n　even if it's $$アムロ$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_2c7af4c55d8ac938": {
+      "text": "$$アムロ$$\n（$$シャア$$...! Whatever conviction you hold,\n　I won't let you use a child like\n　$$クェス$$ this way!）",
+      "status": "imported"
+    },
+    "stage0055_04:r_653b741d07545dff": {
+      "text": "$$アムロ$$\n（Are you planning to repeat $$ララァ$$'s\n　tragedy!）",
+      "status": "imported"
+    },
+    "stage0055_04:r_d584d4b5af55b1cf": {
+      "text": "$$カミーユ$$\n「Captain $$クワトロ$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_db0ee69ece206fcd": {
+      "text": "$$シャア$$\n「Stop it, $$カミーユ$$.\n　Right now, I am $$シャア・アズナブル$$」",
+      "status": "imported"
+    },
+    "stage0055_04:r_f97e6925c9e37332": {
+      "text": "$$カミーユ$$\n「So you're denying everything\n　you fought us for too!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_422861e0b8d77d0c": {
+      "text": "$$シャア$$\n「Without casting off the past, there's no\n　moving forward...! Not for me, nor Earth!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ef16bcaa2b0e0c45": {
+      "text": "$$カミーユ$$\n「Is there a life that's fine to throw away\n　for that!? Answer me!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_2b93cca10f1c36a8": {
+      "text": "$$シャア$$\n「Direct that anger at me, $$カミーユ$$.\n　That's all the man I am」",
+      "status": "imported"
+    },
+    "stage0055_04:r_7980fd37141d88d0": {
+      "text": "$$カミーユ$$\n「You think words like that will satisfy me!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ac21212c36d2b9ad": {
+      "text": "$$シャア$$\n「Then fight! The answer you're seeking\n　lies beyond that!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_a26e2108358af7a4": {
+      "text": "$$カミーユ$$\n「You always act like you're carrying\n　everything alone!!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_a8118b2e37aa1382": {
+      "text": "$$リディ$$\n「He's the true Red Comet...!\n　Half-hearted resolve won't beat him!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_017a56991b7b8ca4": {
+      "text": "$$シャア$$\n「You seem to have real talent...!\n　But unless you widen that narrow view,\n　your power's wasted!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ad3e1db3419665fb": {
+      "text": "$$エマ$$\n「Captain $$クワトロ$$!\n　With the world facing crisis, why are\n　you fighting!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_0149e3a5f2e5ef78": {
+      "text": "$$シャア$$\n「I believe I'm looking beyond that!\n　That's why I took this name!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_3ad10e705167a3fa": {
+      "text": "$$エマ$$\n「You really have changed from before...\n　Maybe that's exactly what Ensign Recoa\n　wanted from you...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_bdc546b199c80996": {
+      "text": "$$シャア$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0055_04:r_22c8caf8c08c5119": {
+      "text": "$$エマ$$\n「But I think if she were here,\n　she'd have denied who you are now!\n　And so would I!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_9c13714b3efbc7a8": {
+      "text": "$$シャア$$\n「I... cast off the past!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_96f156e19b53fc09": {
+      "text": "$$エマ$$\n「Captain $$クワトロ$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_feb0390bba7fe1fb": {
+      "text": "$$シャア$$\n「Step aside, Lieutenant $$エマ$$!\n　Right now, I am your enemy!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_8a78bcec22029401": {
+      "text": "$$カツ$$\n「$$シャア・アズナブル$$!\n　So you really did turn against $$アムロ$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_f42017dfce31dea9": {
+      "text": "$$シャア$$\n「$$カツ$$, is it...!\n　Fall back if you don't want to die!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ef7426919f628d8a": {
+      "text": "$$カツ$$\n「Not a chance!\n　I'm not the kid shaking on the White Base\n　anymore!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_9e994a4b926d9906": {
+      "text": "$$カツ$$\n「I'll be the one to end the legend\n　of the Red Comet!!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ffae76d2a77abf5a": {
+      "text": "$$ファ$$\n「Please stop, Captain $$クワトロ$$!\n　This isn't the time for humanity to\n　fight itself!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_3ac462d37e5893ff": {
+      "text": "$$シャア$$\n「Fall back, $$ファ$$.\n　I don't want to fight you」",
+      "status": "imported"
+    },
+    "stage0055_04:r_fd6bdf7910d7d925": {
+      "text": "$$シャア$$\n「You're someone $$カミーユ$$ can't do without.\n　I don't want to shoot you」",
+      "status": "imported"
+    },
+    "stage0055_04:r_d38be46e6cd7a5e5": {
+      "text": "$$ファ$$\n「No! Even if I can't win,\n　I'll still fight you!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_3fe2078328753c16": {
+      "text": "$$ファ$$\n「Because I believe it will help $$カミーユ$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_c66844158d1ce600": {
+      "text": "$$アムロ$$\n「$$シャア$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_d037ecbc1e348dc9": {
+      "text": "$$シャア$$\n「With this $$サザビー$$,\n　I can more than match your $$νガンダム$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_bcd53d14c4785426": {
+      "text": "$$アムロ$$\n「You said it yourself!\n　That a mobile suit's performance isn't\n　what decides the outcome!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_9ca55ea7feca954a": {
+      "text": "$$シャア$$\n「Then are you saying a Newtype's power\n　is what decides it?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_554ae12c4c170253": {
+      "text": "$$アムロ$$\n「That's wrong too!\n　We... Newtypes aren't a power meant for war!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_fa59c6df081e6ae4": {
+      "text": "$$アムロ$$\n「I understand you want to push humanity\n　to its next stage!\n　But don't use war as the means!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ca3edf3b8b52aedf": {
+      "text": "$$シャア$$\n「Humanity has reached a point where\n　that alone won't hold!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_aa5d235c78ebe19f": {
+      "text": "$$アムロ$$\n「Then use your words!\n　Don't think eggheaded intellectual ideas\n　can change people!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_0b3b19cddb871f90": {
+      "text": "$$シャア$$\n「Just as I thought!\n　It's you who stands in my way, after all!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_304e98dac43c9333": {
+      "text": "$$アムロ$$\n「If you want to settle this with me,\n　I'll oblige! But don't drag all of\n　humanity into it!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_b740d817a14afd3a": {
+      "text": "$$ハサウェイ$$\n「$$シャア・アズナブル$$!\n　Give $$クェス$$ back!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_40e4c010d1b35b4c": {
+      "text": "$$シャア$$\n「This straightforwardness of his...\n　It's hard to bear」",
+      "status": "imported"
+    },
+    "stage0055_04:r_c33abf00683a32bc": {
+      "text": "$$バナージ$$\n「This is the true Red Comet's pressure...!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_3036adce91d1f4a8": {
+      "text": "$$シャア$$\n（A new power is growing here, too...）",
+      "status": "imported"
+    },
+    "stage0055_04:r_019293cb83599509": {
+      "text": "$$シャア$$\n（Can you see it, $$アムロ$$...!\n　This is why I rose up!）",
+      "status": "imported"
+    },
+    "stage0055_04:r_9b949b9281aaeef1": {
+      "text": "$$ダグザ$$\n「The Red Comet!\n　Even if I can't win, I'll hold him up!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_b39a1dd705fe6cbf": {
+      "text": "$$シャア$$\n「That's not nearly enough to stop me!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_c9016e3ab05470b0": {
+      "text": "$$ダグザ$$\n「Don't underestimate me!\n　I have the pride of a soldier of Echoes...\n　of the Earth Federation, too!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_a684e6cea428e518": {
+      "text": "$$ダグザ$$\n「However many words you pile up, whatever\n　ideals you preach, I refuse to accept you,\n　who took Geminis' bait and started a war!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_cf907a4d5de8b5c9": {
+      "text": "$$シン$$\n「Captain $$クワトロ$$!\n　I'll keep the promise from the $$多元戦争$$, here!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_a5774604a0f00702": {
+      "text": "$$シャア$$\n「If I ever strayed from the path,\n　you and $$カミーユ$$ would stop me, was that it...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_b4fa30f33e84207f": {
+      "text": "$$シン$$\n「I won't let $$カミーユ$$ do this!\n　I'll be the one to strike you down!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_9133b7e0b34de48f": {
+      "text": "$$シャア$$\n「You've grown, $$シン$$...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_4ae9c4bd77494c4a": {
+      "text": "$$シャア$$\n「Then you too will face my resolve!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_7313331f4077d255": {
+      "text": "$$シン$$\n「No matter how many words you pile up,\n　you still chose war as your method!\n　I will never accept that, not ever!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_a84ab0c3c1ba44d4": {
+      "text": "$$キラ$$\n「You have no intention of stopping, Captain $$クワトロ$$?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_414e6e90094d1413": {
+      "text": "$$シャア$$\n「I don't seek anyone else's understanding.\n　...Right now, I'm just like you used to be」",
+      "status": "imported"
+    },
+    "stage0055_04:r_83a9e41e15444c69": {
+      "text": "$$キラ$$\n「If you believe in your own justice,\n　then we'll believe in ours...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_09227dec2bd6f4d8": {
+      "text": "$$キラ$$\n「Stopping you, stopping this war...!\n　That's the answer we've chosen!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_7b3a37f5039eb1f6": {
+      "text": "$$シャア$$\n「Very well, $$キラ$$!\n　Then let's wager our own justices\n　and fight, you and I!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_cb6d9ee71c24b042": {
+      "text": "$$オズマ$$\n「Tch...!\n　No man's more trouble as an enemy than you!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ddd97a6ef823929a": {
+      "text": "$$シャア$$\n「As expected, Major $$オズマ$$!\n　Fighting me on even terms!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_df349052cd9cdd0c": {
+      "text": "$$オズマ$$\n「Sorry, $$シャア・アズナブル$$!\n　I don't plan on settling for even!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_a7ce9f908380694c": {
+      "text": "$$シャア$$\n「You've gotten better, $$アルト$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_de3cc1f733dcb073": {
+      "text": "$$アルト$$\n「Don't think you can keep looking down\n　on me forever like that!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_0835ec3fff318aff": {
+      "text": "$$アルト$$\n「Get ready, $$シャア・アズナブル$$!\n　I'm not soft like $$カミーユ$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_c32efc7394910997": {
+      "text": "$$シャア$$\n「Bothering to say your resolve out loud\n　is both your softness, and your charm...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_b01db8213417811e": {
+      "text": "$$ミシェル$$\n「No matter how far ahead you read and move,\n　you can't escape my aim!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_bc0273c6ae91c929": {
+      "text": "$$シャア$$\n「Then I'll simply stay a step ahead, $$ミシェル$$」",
+      "status": "imported"
+    },
+    "stage0055_04:r_8deea7c70d7a76e7": {
+      "text": "$$ミシェル$$\n「Ha... guess I'm broken too.\n　My blood's racing, even in a fight like this...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_660c72e627d873c7": {
+      "text": "$$ルカ$$\n「You're beyond all the data I have on you...!\n　Captain $$クワトロ$$ now isn't the one from before!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_5d8b67b5bd8ce190": {
+      "text": "$$シャア$$\n「People grow, that's all.\n　And I, who took up this name again,\n　have shed everything unnecessary along the way」",
+      "status": "imported"
+    },
+    "stage0055_04:r_7cf3c91395139f5c": {
+      "text": "$$ルカ$$\n「The same goes for me, $$シャア・アズナブル$$...!\n　I'll show you how I've grown!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_6ccd85652ef4ccf1": {
+      "text": "$$カナリア$$\n「Now that you're the enemy, I won't hold back...!\n　Don't hold it against me, $$シャア・アズナブル$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_fbe7bf7d854012a7": {
+      "text": "$$シャア$$\n「Same goes for me.\n　Though even if you hate me for it, I won't stop...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_1f438885dbc1359e": {
+      "text": "$$クラン$$\n「My Zentradi blood, that should race in battle,\n　runs cold...! Am I... feeling fear...!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_2e59226caa35f6e5": {
+      "text": "$$シャア$$\n「Then fall back, $$クラン$$!\n　I have no wish to fight a pointless battle!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_5d7a3adb077ad934": {
+      "text": "$$クラン$$\n「Don't underestimate me, $$シャア・アズナブル$$!\n　Overcoming this fear is what makes me Zentradi!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_78d3b2a75e38d6f7": {
+      "text": "$$シャア$$\n「A new Aquarion approaches!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_8d461de418389bf8": {
+      "text": "$$アマタ$$\n「New...? Does that man know about\n　the Mythical Aquarion...!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_5cb2acefa1e7c7fb": {
+      "text": "$$アマタ$$\n「Just who is that man...!?\n　It's like he's Supreme Commander $$不動$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_59ce7fd9524ec8be": {
+      "text": "$$桂$$\n「This makes twice we've gone at it for real,\n　Captain $$クワトロ$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_33f67c683bda9203": {
+      "text": "$$シャア$$\n「You mean back during the $$多元戦争$$...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_476fb20ab9d18957": {
+      "text": "$$桂$$\n「Back then, I swore I'd never fight\n　a comrade again as long as I lived,\n　and now it's come to this...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_6be0d6139fac197c": {
+      "text": "$$シャア$$\n「No need to trouble yourself over it.\n　Neither of us is being deceived this time,\n　we're each fighting under our own convictions」",
+      "status": "imported"
+    },
+    "stage0055_04:r_df899b8031b4ca06": {
+      "text": "$$桂$$\n「For my part, I'd have felt better\n　if one of us had just been tricked!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_c5d048c7db7cac75": {
+      "text": "$$桂$$\n「But if you're serious, half-measures won't win!\n　I'm going all out, $$シャア・アズナブル$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_308e8ac66b1141ef": {
+      "text": "$$バサラ$$\n「Quit bottling it all up inside, man!\n　Let more of yourself out!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_64f25294d71a5d55": {
+      "text": "$$シャア$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_b6ca80db4741a62c": {
+      "text": "$$バサラ$$\n「One more thing, I'll tell you!\n　War's a load of crap!\n　Listen to my soooong!!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_432a29155221625f": {
+      "text": "$$シャア$$\n「You're right about that, $$熱気バサラ$$...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_9f7c18d1ea1b55c9": {
+      "text": "$$ガムリン$$\n「A man like you, and you don't understand\n　what kind of time this is!?」",
+      "status": "imported"
+    },
+    "stage0055_04:r_56688ad8e41b7b42": {
+      "text": "$$シャア$$\n「What I'm looking at lies beyond this war.\n　That's why I can't afford to stop here...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_34a510533cb8a9f5": {
+      "text": "$$ガムリン$$\n「I misjudged you, $$シャア・アズナブル$$!\n　I never wanted to hear a dictator's logic\n　come out of your mouth!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_1afedc9fa466f321": {
+      "text": "$n\n「So this is the true Red Comet's pressure...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_9547b3241808695f": {
+      "text": "$$シャア$$\n「I can't stand watching youth throw their lives away...!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_32b2a8ce24deeb9f": {
+      "text": "$n\n「I don't plan on dying here!\n　You're not my only enemy!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_c7ef92060bb8199d": {
+      "text": "$$シャア$$\n「You're not the only one eyeing a distant enemy...!\n　I too have reasons I cannot retreat!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_1be6d12f616f04e4": {
+      "text": "$n\n「You talk a lot, $$シャア・アズナブル$$!\n　If you're trying to hide the doubt inside you,\n　sorry, but I've no interest in hearing it!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_80f948aeaed93de8": {
+      "text": "$n\n「However you dress it up, you're my enemy!!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_0d24e9726dcc79f9": {
+      "text": "$$ブライト$$\n「Don't let him get in close!\n　Layer the barrage two, three deep!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_da648116badd491a": {
+      "text": "$$シャア$$\n「Not bad, $$ブライト$$...!\n　Guess we haven't known each other this long for nothing!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_4e91ccecf1dd0f66": {
+      "text": "$$レイアム$$\n「Captain!\n　The enemy's slipping through every barrage we throw up!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_668b7114a3ac1d77": {
+      "text": "$$オットー$$\n「Damn it!\n　So the name Red Comet isn't for nothing!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ef339c6f71e7560f": {
+      "text": "$$オットー$$\n「Anyone with a free hand, man the guns!\n　If it comes to this, we'll counter with numbers!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_ce68dd10a19e01ea": {
+      "text": "$$シャア$$\n（This feeling...\n　Is she aboard that ship...）",
+      "status": "imported"
+    },
+    "stage0055_04:r_13ce8d4e4858b193": {
+      "text": "$$ラム$$\n「All guns, intercept!\n　We can't lock onto $$シャア・アズナブル$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_075101b23517fbaa": {
+      "text": "$$ジェフリー$$\n「To be reminded of his skill in a spot like this...」",
+      "status": "imported"
+    },
+    "stage0055_04:r_13c2ae299018c9ee": {
+      "text": "$$ジェフリー$$\n「But we have no retreat!\n　We'll bring this ship's full power to bear\n　and take down $$シャア・アズナブル$$!」",
+      "status": "imported"
+    },
+    "stage0055_04:r_6f4f8dd80820f5e7": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "weapon_requirement_runtime:ammo": {
+      "text": "・Ammo",
+      "status": "translated"
+    },
+    "weapon_requirement_runtime:en": {
+      "text": "・EN",
+      "status": "translated"
+    },
+    "weapon_requirement_runtime:focus": {
+      "text": "・Focus",
+      "status": "translated"
+    },
+    "weapon_requirement_runtime:skill": {
+      "text": "・Skill",
+      "status": "translated"
+    },
+    "weapon_requirement_runtime:terrain": {
+      "text": "・Terrain",
+      "status": "translated"
+    },
+    "weapon_requirement_runtime:range": {
+      "text": "・Range",
+      "status": "translated"
+    },
+    "weapon_requirement_runtime:post_move": {
+      "text": "・Use After Moving",
+      "status": "translated"
+    },
+    "weapon_requirement_runtime:combo": {
+      "text": "・Combo Partner",
+      "status": "translated"
+    },
+    "weapon_requirement_runtime:support": {
+      "text": "・Support Attack Use",
+      "status": "translated"
+    },
+    "weapon_requirement_runtime:again": {
+      "text": "・Attack Again Use",
+      "status": "translated"
+    },
+    "weapon_requirement_runtime:counter": {
+      "text": "・Counterattack Use",
+      "status": "translated"
+    },
+    "weapon_requirement_runtime:satellite": {
+      "text": "・Satellite Charge",
+      "status": "translated"
+    },
+    "weapon_requirement_runtime:maximum": {
+      "text": "・Max Break Use",
+      "status": "translated"
+    },
+    "weapon_requirement_runtime:other": {
+      "text": "・Other",
+      "status": "translated"
+    }
+  }
+}

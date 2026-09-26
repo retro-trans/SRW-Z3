@@ -1,0 +1,762 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_005:r_479b340ccc6c572b": {
+      "text": "M-A-X-G-O-D! Dancouga Max God!",
+      "status": "imported"
+    },
+    "voice_005:r_ca4acbac57a2a35e": {
+      "text": "Dancouga, Team D, sortie!",
+      "status": "imported"
+    },
+    "voice_005:r_77949221bf58f862": {
+      "text": "The time has come.",
+      "status": "imported"
+    },
+    "voice_005:r_70b9c4b9f1f37eff": {
+      "text": "Shift Dragon's Hive to attack mode.",
+      "status": "imported"
+    },
+    "voice_005:r_9fcb3754cb1773c7": {
+      "text": "I shall fight alongside them.",
+      "status": "imported"
+    },
+    "voice_005:r_3559d2fad32c2435": {
+      "text": "Of course, I feel the same, yes.",
+      "status": "imported"
+    },
+    "voice_005:r_f7570547e9f80a64": {
+      "text": "We must not lose to any enemy.",
+      "status": "imported"
+    },
+    "voice_005:r_cbab0f4720e1fcf1": {
+      "text": "I quite agree. Then...!",
+      "status": "imported"
+    },
+    "voice_005:r_0bbe0b4f5364e732": {
+      "text": "It seems the time has come.",
+      "status": "imported"
+    },
+    "voice_005:r_5dda5198137cb02a": {
+      "text": "Now is the dragon's time to rise.",
+      "status": "imported"
+    },
+    "voice_005:r_83ec59afbecdec14": {
+      "text": "Dispel this world's dark fog...!",
+      "status": "imported"
+    },
+    "voice_005:r_e20bfd42ad95a3c9": {
+      "text": "So that's the Fog Sweeper,\\nyou mean?",
+      "status": "imported"
+    },
+    "voice_005:r_0f58a8822381e57f": {
+      "text": "WILL,\\nplease lock onto the target.",
+      "status": "imported"
+    },
+    "voice_005:r_6dbcc507fb61b51d": {
+      "text": "Beyond the fog lies hope's light...!",
+      "status": "imported"
+    },
+    "voice_005:r_b42ab697149a7c8a": {
+      "text": "Then, your orders, please.",
+      "status": "imported"
+    },
+    "voice_005:r_4de4fcf3b440baf4": {
+      "text": "Human hope, Dragon's Hive,\\nnow...!",
+      "status": "imported"
+    },
+    "voice_005:r_0121a166c715cdff": {
+      "text": "We're fully prepared to attack.",
+      "status": "imported"
+    },
+    "voice_005:r_30fad37a42bd3ad3": {
+      "text": "Dragon's Hive,\\nnow show your power!",
+      "status": "imported"
+    },
+    "voice_005:r_80a0b2a84e05d81a": {
+      "text": "Hit them now - and hit them hard...!",
+      "status": "imported"
+    },
+    "voice_005:r_4a9ac1dff86506d9": {
+      "text": "Wicked invaders, I shall face you.",
+      "status": "imported"
+    },
+    "voice_005:r_bc8538e6af3d2577": {
+      "text": "Fools, perhaps.\\nWe fight for faith.",
+      "status": "imported"
+    },
+    "voice_005:r_da1174533722333f": {
+      "text": "I trust battle\\nshows the way ahead",
+      "status": "imported"
+    },
+    "voice_005:r_0fadb5c26df92b42": {
+      "text": "For all life upon this planet.",
+      "status": "imported"
+    },
+    "voice_005:r_6b15af9a0057cdc8": {
+      "text": "I fight any who crush our potential.",
+      "status": "imported"
+    },
+    "voice_005:r_15b4a90140e8a33a": {
+      "text": "Then, a line for the final boss...",
+      "status": "imported"
+    },
+    "voice_005:r_af884a6b11dff121": {
+      "text": "Behold,\\nour infinite potential...!",
+      "status": "imported"
+    },
+    "voice_005:r_ac6fe7838e95647b": {
+      "text": "Future, hope, peace...\\nall ours...!",
+      "status": "imported"
+    },
+    "voice_005:r_77ca87eacd17ad52": {
+      "text": "That's why\\nwe cannot lose here.",
+      "status": "imported"
+    },
+    "voice_005:r_bf3244994760e535": {
+      "text": "Open every gunport...!",
+      "status": "imported"
+    },
+    "voice_005:r_aabfb21c9d069ce7": {
+      "text": "Commence the attack!",
+      "status": "imported"
+    },
+    "voice_005:r_02479dc8fe989560": {
+      "text": "Energy charging...! Fire!",
+      "status": "imported"
+    },
+    "voice_005:r_a2df00f91a9b0a9e": {
+      "text": "All guns, fire at once!",
+      "status": "imported"
+    },
+    "voice_005:r_48b60d6c48b9b142": {
+      "text": "Focus all fire on the enemy ahead!",
+      "status": "imported"
+    },
+    "voice_005:r_8927e6fb681aa809": {
+      "text": "Concentrate all energy...!",
+      "status": "imported"
+    },
+    "voice_005:r_665f01666859013b": {
+      "text": "Fire!",
+      "status": "imported"
+    },
+    "voice_005:r_a571eec59b258d11": {
+      "text": "This is our power.",
+      "status": "imported"
+    },
+    "voice_005:r_ddbe581c5ea9183d": {
+      "text": "The dragon's roar smites evil...!",
+      "status": "imported"
+    },
+    "voice_005:r_faae935cca0edc72": {
+      "text": "Roar...! Dragon's Hive!",
+      "status": "imported"
+    },
+    "voice_005:r_d4430bf362340b32": {
+      "text": "We will not lose to anyone.",
+      "status": "imported"
+    },
+    "voice_005:r_6ff1323b355593e0": {
+      "text": "Hear\\nDragon's Hive's furious cry...!",
+      "status": "imported"
+    },
+    "voice_005:r_b7b5625d7cd4282f": {
+      "text": "Let's do this!",
+      "status": "imported"
+    },
+    "voice_005:r_36133ad73a73ef98": {
+      "text": "We will forge a path to the future.",
+      "status": "imported"
+    },
+    "voice_005:r_920740a0219c5085": {
+      "text": "Return fire immediately.",
+      "status": "imported"
+    },
+    "voice_005:r_a8451712c57c1a72": {
+      "text": "Yes, we are ready.",
+      "status": "imported"
+    },
+    "voice_005:r_3633df5b7b8f47fa": {
+      "text": "Enemy in sight. Your orders?",
+      "status": "imported"
+    },
+    "voice_005:r_52dfc56b14b93551": {
+      "text": "We'll face them with all our might.",
+      "status": "imported"
+    },
+    "voice_005:r_1b9b2aab5cb104da": {
+      "text": "I waited\\nfor you to move first.",
+      "status": "imported"
+    },
+    "voice_005:r_342044c706a2340f": {
+      "text": "Now for the counterattack at last.",
+      "status": "imported"
+    },
+    "voice_005:r_cf41e8828a90cbdb": {
+      "text": "Counterattack is the best offense.",
+      "status": "imported"
+    },
+    "voice_005:r_719e897304ec42d4": {
+      "text": "Allow me to prove it.",
+      "status": "imported"
+    },
+    "voice_005:r_d5e0a2317c40d322": {
+      "text": "The enemy won't get away in time.",
+      "status": "imported"
+    },
+    "voice_005:r_ec2ea17765052401": {
+      "text": "We cannot let that opening pass.",
+      "status": "imported"
+    },
+    "voice_005:r_f2d4255f1c2f7542": {
+      "text": "Those who come at us get no mercy.",
+      "status": "imported"
+    },
+    "voice_005:r_5d08ad19e2da125b": {
+      "text": "So we'll be going all out!",
+      "status": "imported"
+    },
+    "voice_005:r_a7246b52782a877e": {
+      "text": "The battle is still underway.",
+      "status": "imported"
+    },
+    "voice_005:r_dc8701f6bcb9904f": {
+      "text": "I shall take a support role.",
+      "status": "imported"
+    },
+    "voice_005:r_d6bdd730f24f66eb": {
+      "text": "Just as I expected from Team D.",
+      "status": "imported"
+    },
+    "voice_005:r_41997412868c48c4": {
+      "text": "Use Dragon's Hive as a shield.",
+      "status": "imported"
+    },
+    "voice_005:r_9e6cf4f389dae55c": {
+      "text": "It's a bit forceful, but so be it.",
+      "status": "imported"
+    },
+    "voice_005:r_9e0c80ac7e33b459": {
+      "text": "It is my duty to protect Team D.",
+      "status": "imported"
+    },
+    "voice_005:r_7432ef43ed3471dc": {
+      "text": "So we cannot counterattack...",
+      "status": "imported"
+    },
+    "voice_005:r_065443f6ddfcf0d7": {
+      "text": "We have no choice but to defend now.",
+      "status": "imported"
+    },
+    "voice_005:r_47d52a2839c71715": {
+      "text": "What a crude, arrogant attack.",
+      "status": "imported"
+    },
+    "voice_005:r_847f82e7f3eef651": {
+      "text": "No coincidence. This was inevitable.",
+      "status": "imported"
+    },
+    "voice_005:r_eb7ae28b53dc033c": {
+      "text": "That attack caused no damage at all.",
+      "status": "imported"
+    },
+    "voice_005:r_857c4a52ce8df0fd": {
+      "text": "A pointless act.",
+      "status": "imported"
+    },
+    "voice_005:r_55417493fce1d347": {
+      "text": "Our sights are set far higher.",
+      "status": "imported"
+    },
+    "voice_005:r_8fdf5910927c9591": {
+      "text": "To aim higher,\\nwe cannot stand still",
+      "status": "imported"
+    },
+    "voice_005:r_7d724dbcc4451e10": {
+      "text": "We'll never yield to invaders.",
+      "status": "imported"
+    },
+    "voice_005:r_adeb0a29274d3d9b": {
+      "text": "If you wish to waste time, go ahead.",
+      "status": "imported"
+    },
+    "voice_005:r_24cf161287ef9d5c": {
+      "text": "That will not work on us.",
+      "status": "imported"
+    },
+    "voice_005:r_128c35bf3e0e394c": {
+      "text": "Are they still holding back?",
+      "status": "imported"
+    },
+    "voice_005:r_5213c17e13b23de0": {
+      "text": "That last attack was likely a probe.",
+      "status": "imported"
+    },
+    "voice_005:r_38fdff9483e9245c": {
+      "text": "No matter. Let them have their way.",
+      "status": "imported"
+    },
+    "voice_005:r_620fedec67706d7d": {
+      "text": "Understood.",
+      "status": "imported"
+    },
+    "voice_005:r_9680dcd0fddcfcc7": {
+      "text": "We were hit, but there's no problem.",
+      "status": "imported"
+    },
+    "voice_005:r_2a00f1044ad5cbaa": {
+      "text": "You take Dragon's Hive\\ntoo lightly.",
+      "status": "imported"
+    },
+    "voice_005:r_3dbeead1bd3164ef": {
+      "text": "Is that meant to be a feint?",
+      "status": "imported"
+    },
+    "voice_005:r_98d15b8cc09bc915": {
+      "text": "Combat strength below projections.",
+      "status": "imported"
+    },
+    "voice_005:r_46e86d000250e137": {
+      "text": "None can halt the dragon's advance.",
+      "status": "imported"
+    },
+    "voice_005:r_ac341e7976e88f0b": {
+      "text": "Invaders,\\nbehold human potential...!",
+      "status": "imported"
+    },
+    "voice_005:r_cdbd128a5b4127cc": {
+      "text": "We need to update the enemy data.",
+      "status": "imported"
+    },
+    "voice_005:r_cfccaa1fbeda124c": {
+      "text": "Yes. Switching to real-time updates.",
+      "status": "imported"
+    },
+    "voice_005:r_b1f8ec192b9c083a": {
+      "text": "Foes target Dragon's Hive,\\nen masse.",
+      "status": "imported"
+    },
+    "voice_005:r_a007f9ab9cf048b3": {
+      "text": "The dragon only marches on, unafraid",
+      "status": "imported"
+    },
+    "voice_005:r_ddafde4b065ced49": {
+      "text": "Humans and Dragon's Hive won't lose.",
+      "status": "imported"
+    },
+    "voice_005:r_de1213040856c089": {
+      "text": "Sammy is handling\\nthe damage.",
+      "status": "imported"
+    },
+    "voice_005:r_0c0775e051211840": {
+      "text": "The repairs aren't keeping up!",
+      "status": "imported"
+    },
+    "voice_005:r_a2afffe1c396f0b3": {
+      "text": "Mighty power...!\\nBut we won't yield!",
+      "status": "imported"
+    },
+    "voice_005:r_13c25fbdfddc8a24": {
+      "text": "We can conquer\\npain and fear...!",
+      "status": "imported"
+    },
+    "voice_005:r_42ba1ecb310b4bd7": {
+      "text": "Past rage, past sorrow,\\nwe fight...!",
+      "status": "imported"
+    },
+    "voice_005:r_d692f1d420460a47": {
+      "text": "I trust...\\nour shared potential...!",
+      "status": "imported"
+    },
+    "voice_005:r_a5643cec86b18bd2": {
+      "text": "Sadly, it seems this is our end.",
+      "status": "imported"
+    },
+    "voice_005:r_68f2dfab20a4a30e": {
+      "text": "The rest is yours... Good luck...",
+      "status": "imported"
+    },
+    "voice_005:r_9cedad8237480563": {
+      "text": "Hope, the future... end here...!?",
+      "status": "imported"
+    },
+    "voice_005:r_a03fabecba1508ca": {
+      "text": "I'll fight on for this planet...!",
+      "status": "imported"
+    },
+    "voice_005:r_5391b24a71eb10ae": {
+      "text": "You have roused the dragon's wrath.",
+      "status": "imported"
+    },
+    "voice_005:r_a554ceef5c87b972": {
+      "text": "Now we'll show our true power.",
+      "status": "imported"
+    },
+    "voice_005:r_546c3d5937fbb7ee": {
+      "text": "WILL warns,\\ndanger lies ahead!",
+      "status": "imported"
+    },
+    "voice_005:r_1568ff6298b12b96": {
+      "text": "Ghh! Dragon's Hive's last power\\nNow!",
+      "status": "imported"
+    },
+    "voice_005:r_2c9d94ba13c5fc50": {
+      "text": "The enemy's actions were unexpected.",
+      "status": "imported"
+    },
+    "voice_005:r_a77f4913375098d2": {
+      "text": "Such surprises,\\nI could do without.",
+      "status": "imported"
+    },
+    "voice_005:r_428c2116ac3071b1": {
+      "text": "So they came for Dragon's Hive.",
+      "status": "imported"
+    },
+    "voice_005:r_84c116267b79f540": {
+      "text": "How trivial...",
+      "status": "imported"
+    },
+    "voice_005:r_3d32e86f8dc80909": {
+      "text": "I failed to read the battle...",
+      "status": "imported"
+    },
+    "voice_005:r_70451ffbabe2f876": {
+      "text": "They outmaneuvered us.",
+      "status": "imported"
+    },
+    "voice_005:r_69dfa1659715e2fa": {
+      "text": "Don't take it personally, yes.",
+      "status": "imported"
+    },
+    "voice_005:r_d996fd6d4ef5b329": {
+      "text": "How about this one?",
+      "status": "imported"
+    },
+    "voice_005:r_8ab47a28f99ef565": {
+      "text": "Please stay there.\\nIt would help...",
+      "status": "imported"
+    },
+    "voice_005:r_546de3fb6db156ea": {
+      "text": "Dragon's Hive has you\\nin range...",
+      "status": "imported"
+    },
+    "voice_005:r_ca85f87cee5e31f7": {
+      "text": "Let's see how they respond to that.",
+      "status": "imported"
+    },
+    "voice_005:r_9072ea7bc71df136": {
+      "text": "Dragon's Hive will be your opponent.",
+      "status": "imported"
+    },
+    "voice_005:r_04e815a8d425827d": {
+      "text": "Now then, let's make this brief.",
+      "status": "imported"
+    },
+    "voice_005:r_d89011fe3e5d082a": {
+      "text": "Let's give it a go!\\nHow's that, Ruu?",
+      "status": "imported"
+    },
+    "voice_005:r_3c5b0c2ac812d5de": {
+      "text": "No. You mustn't let your guard down.",
+      "status": "imported"
+    },
+    "voice_005:r_5b9e8897190892eb": {
+      "text": "Now, don't be shy. Please, take it.",
+      "status": "imported"
+    },
+    "voice_005:r_7bea3023abbf8a94": {
+      "text": "We don't always\\nside with the weak.",
+      "status": "imported"
+    },
+    "voice_005:r_dd01a4c0d1b36a8d": {
+      "text": "No hard feelings between us, agreed?",
+      "status": "imported"
+    },
+    "voice_005:r_20920ad2eb3542db": {
+      "text": "In terms of size, we're your equal.",
+      "status": "imported"
+    },
+    "voice_005:r_0ab7914877fd48ed": {
+      "text": "Small or not, we won't go easy.",
+      "status": "imported"
+    },
+    "voice_005:r_cb846feec748c2e3": {
+      "text": "Even you are no match\\nfor our WILL.",
+      "status": "imported"
+    },
+    "voice_005:r_c958860b0676b1f5": {
+      "text": "Precise moves make prediction easy.",
+      "status": "imported"
+    },
+    "voice_005:r_5e2669b82ef75ce3": {
+      "text": "Dragon's Hive\\nmonster hunting, then?",
+      "status": "imported"
+    },
+    "voice_005:r_7847e0ed7dc9282d": {
+      "text": "Sadly,\\nwe can never be friends.",
+      "status": "imported"
+    },
+    "voice_005:r_e42b52c7a987b906": {
+      "text": "A pessimistic life is no fun.",
+      "status": "imported"
+    },
+    "voice_005:r_6825fd1ff907bd22": {
+      "text": "You seem a rather troublesome foe.",
+      "status": "imported"
+    },
+    "voice_005:r_97b7431eeb81e6b6": {
+      "text": "Sorry,\\nwe don't want this either...",
+      "status": "imported"
+    },
+    "voice_005:r_132f605d02975e71": {
+      "text": "This pains us deeply as well.",
+      "status": "imported"
+    },
+    "voice_005:r_9b9726b1872759d6": {
+      "text": "Cross-cultural exchange is difficult",
+      "status": "imported"
+    },
+    "voice_005:r_1252db29683fefe0": {
+      "text": "Long trip.\\nNow please go home.",
+      "status": "imported"
+    },
+    "voice_005:r_ad3d538f1e909184": {
+      "text": "Your methods...\\nwe cannot support.",
+      "status": "imported"
+    },
+    "voice_005:r_8c61c59a1c0aebbf": {
+      "text": "Sadly, our principles do not align.",
+      "status": "imported"
+    },
+    "voice_005:r_aba6a7662129d8ce": {
+      "text": "Well, what an enlightening lecture.",
+      "status": "imported"
+    },
+    "voice_005:r_b84afafb8a33ec60": {
+      "text": "We won't hand Earth over,\\nyou see.",
+      "status": "imported"
+    },
+    "voice_005:r_38e4a434c91d8ef0": {
+      "text": "Take careful aim...! Fire!",
+      "status": "imported"
+    },
+    "voice_005:r_98ed411352a3a6ac": {
+      "text": "Please, fire!",
+      "status": "imported"
+    },
+    "voice_005:r_4824bea6bab3af67": {
+      "text": "Let's give it all we've got!",
+      "status": "imported"
+    },
+    "voice_005:r_862b92e63adb9734": {
+      "text": "Now then, commence the attack!",
+      "status": "imported"
+    },
+    "voice_005:r_cb306ef55e49d107": {
+      "text": "If it hits, that's a bonus...!",
+      "status": "imported"
+    },
+    "voice_005:r_57b2bd2de8a1408d": {
+      "text": "Oh! An opening!",
+      "status": "imported"
+    },
+    "voice_005:r_76f080a4881e8ab5": {
+      "text": "We won't take this\\nlying down.",
+      "status": "imported"
+    },
+    "voice_005:r_288133bc5b573dae": {
+      "text": "Sorry,\\nbut I owe you some payback.",
+      "status": "imported"
+    },
+    "voice_005:r_6f95653e548f8fcf": {
+      "text": "Please understand this is payback.",
+      "status": "imported"
+    },
+    "voice_005:r_d249d68bada91ab9": {
+      "text": "Now it is our turn.",
+      "status": "imported"
+    },
+    "voice_005:r_e9b3307e9eb69f11": {
+      "text": "One moment. I'll return fire now.",
+      "status": "imported"
+    },
+    "voice_005:r_03cdac73042343ee": {
+      "text": "You're leaving a little too soon.",
+      "status": "imported"
+    },
+    "voice_005:r_6026da5acbda7c69": {
+      "text": "Think of us as a little bonus...",
+      "status": "imported"
+    },
+    "voice_005:r_981f8fedd5414fe5": {
+      "text": "Well done. We'll take it from here.",
+      "status": "imported"
+    },
+    "voice_005:r_96bb0dcde0c8c44a": {
+      "text": "We'll provide support for Team D.",
+      "status": "imported"
+    },
+    "voice_005:r_641550a2f54cb456": {
+      "text": "We'll be joining you, Aoi.",
+      "status": "imported"
+    },
+    "voice_005:r_a0f2074af8debbfa": {
+      "text": "We all help each other in need.",
+      "status": "imported"
+    },
+    "voice_005:r_b5f5a97ed82acb0b": {
+      "text": "Dragon's Hive will take over.",
+      "status": "imported"
+    },
+    "voice_005:r_d9cd2e4ded064396": {
+      "text": "Rescuing Team D takes priority.",
+      "status": "imported"
+    },
+    "voice_005:r_99e6349431aaf23b": {
+      "text": "Team D, is everyone safe?",
+      "status": "imported"
+    },
+    "voice_005:r_ec1081caf845f56a": {
+      "text": "Now then, what should we do...?",
+      "status": "imported"
+    },
+    "voice_005:r_2c5b7ee872c1ed7f": {
+      "text": "Hmm, this is quite a pickle...",
+      "status": "imported"
+    },
+    "voice_005:r_76d1e51c8b494a60": {
+      "text": "At this point,\\nwe're helpless.",
+      "status": "imported"
+    },
+    "voice_005:r_eb5f687fcd372ae7": {
+      "text": "Out of range? Well, this is awkward.",
+      "status": "imported"
+    },
+    "voice_005:r_2329428a6871d9fa": {
+      "text": "Now that's quite a distant attack...",
+      "status": "imported"
+    },
+    "voice_005:r_0e7466971bec4cc4": {
+      "text": "Just as WILL calculated.",
+      "status": "imported"
+    },
+    "voice_005:r_efa71f7a4cc33ff3": {
+      "text": "Oh? You managed to dodge?",
+      "status": "imported"
+    },
+    "voice_005:r_3fc2e1186557e7a0": {
+      "text": "You know\\nthat trick is meaningless.",
+      "status": "imported"
+    },
+    "voice_005:r_fa6930340a545054": {
+      "text": "The barrier is functioning normally.",
+      "status": "imported"
+    },
+    "voice_005:r_2332b9d56461d7ab": {
+      "text": "Excellent work, Sammy.",
+      "status": "imported"
+    },
+    "voice_005:r_854aa0a91a3c80d1": {
+      "text": "Too bad! That is the barrier!",
+      "status": "imported"
+    },
+    "voice_005:r_0bc8ae32a406ceab": {
+      "text": "Oh? It seems we took a hit.",
+      "status": "imported"
+    },
+    "voice_005:r_82c09f011d703b2c": {
+      "text": "A hit, but that seems to be all.",
+      "status": "imported"
+    },
+    "voice_005:r_2b4d8818c77b6dca": {
+      "text": "My! Well done, well done...!",
+      "status": "imported"
+    },
+    "voice_005:r_087354f2db0a31e6": {
+      "text": "Sorry, Sammy.\\nJust a small scratch.",
+      "status": "imported"
+    },
+    "voice_005:r_db02a2dec93dd263": {
+      "text": "Sadly, that will not bring us down.",
+      "status": "imported"
+    },
+    "voice_005:r_d520c6d5298a848d": {
+      "text": "Sorry,\\nbut would you kindly leave?",
+      "status": "imported"
+    },
+    "voice_005:r_099e2458cabf796f": {
+      "text": "My! You really got us there.",
+      "status": "imported"
+    },
+    "voice_005:r_fd910d714be70870": {
+      "text": "Oh, no! Please don't get serious.",
+      "status": "imported"
+    },
+    "voice_005:r_9736f29b11344ec3": {
+      "text": "Hmm, this may be bad...",
+      "status": "imported"
+    },
+    "voice_005:r_fcd05582aa5c6068": {
+      "text": "Oh, Sammy's\\nangry shouts reach me...",
+      "status": "imported"
+    },
+    "voice_005:r_bece29562818acba": {
+      "text": "Oh dear... That's serious damage...",
+      "status": "imported"
+    },
+    "voice_005:r_494b5da92ed24ecb": {
+      "text": "Oh,\\na hit in quite a bad spot!",
+      "status": "imported"
+    },
+    "voice_005:r_a4a5a96f4bd58920": {
+      "text": "Bravo!\\nBut this is no time for that!",
+      "status": "imported"
+    },
+    "voice_005:r_b57d2d74233f889a": {
+      "text": "WILL,\\nrebuild our evasion pattern!",
+      "status": "imported"
+    },
+    "voice_005:r_cd06d0820d82524b": {
+      "text": "Sammy, handle this at once,\\nplease!",
+      "status": "imported"
+    },
+    "voice_005:r_c94c6d04be583774": {
+      "text": "Direct hit...\\nCan't laugh it off...!",
+      "status": "imported"
+    },
+    "voice_005:r_e54e2c99ef8297af": {
+      "text": "Seal bulkheads!\\nKeep damage down!",
+      "status": "imported"
+    },
+    "voice_005:r_f16a3eb0bcaac082": {
+      "text": "All hands, maintain defense!",
+      "status": "imported"
+    },
+    "voice_005:r_10a408809e512df1": {
+      "text": "I'm sorry, everyone! Farewell!",
+      "status": "imported"
+    },
+    "voice_005:r_bc7b9e308b879dd4": {
+      "text": "Welcome! I'd rather rest than fight.",
+      "status": "imported"
+    },
+    "voice_005:r_98902fd3143c393e": {
+      "text": "Not lazy. All in moderation, yes.",
+      "status": "imported"
+    },
+    "voice_005:r_d907fbd7bc1c4298": {
+      "text": "One last job remains... Ready, F.S.?",
+      "status": "imported"
+    },
+    "voice_005:r_96b21e3a028dd074": {
+      "text": "Ahem! SRW Z3! And next time...!",
+      "status": "imported"
+    },
+    "voice_005:r_ce140b5d8e6b7310": {
+      "text": "Let's dooo this!",
+      "status": "imported"
+    }
+  }
+}

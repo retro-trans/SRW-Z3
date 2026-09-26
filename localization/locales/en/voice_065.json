@@ -1,0 +1,666 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_065:r_479b340ccc6c572b": {
+      "text": "...",
+      "status": "imported"
+    },
+    "voice_065:r_77949221bf58f862": {
+      "text": "Get out of the way.",
+      "status": "imported"
+    },
+    "voice_065:r_70b9c4b9f1f37eff": {
+      "text": "So, you've come.",
+      "status": "imported"
+    },
+    "voice_065:r_9fcb3754cb1773c7": {
+      "text": "Here I go.",
+      "status": "imported"
+    },
+    "voice_065:r_3559d2fad32c2435": {
+      "text": "Attacking.",
+      "status": "imported"
+    },
+    "voice_065:r_f7570547e9f80a64": {
+      "text": "You're wide open.",
+      "status": "imported"
+    },
+    "voice_065:r_cbab0f4720e1fcf1": {
+      "text": "That opening will cost your life.",
+      "status": "imported"
+    },
+    "voice_065:r_0bbe0b4f5364e732": {
+      "text": "Stay out of my way.",
+      "status": "imported"
+    },
+    "voice_065:r_5dda5198137cb02a": {
+      "text": "Don't make me go to extra trouble.",
+      "status": "imported"
+    },
+    "voice_065:r_83ec59afbecdec14": {
+      "text": "I'll take out the nearest first.",
+      "status": "imported"
+    },
+    "voice_065:r_e20bfd42ad95a3c9": {
+      "text": "You're out of luck.",
+      "status": "imported"
+    },
+    "voice_065:r_0f58a8822381e57f": {
+      "text": "Battlefields are the same anywhere.",
+      "status": "imported"
+    },
+    "voice_065:r_6dbcc507fb61b51d": {
+      "text": "I don't have any leeway either.",
+      "status": "imported"
+    },
+    "voice_065:r_b42ab697149a7c8a": {
+      "text": "Combat is ingrained in my body.",
+      "status": "imported"
+    },
+    "voice_065:r_4de4fcf3b440baf4": {
+      "text": "It's the only thing I'm good at.",
+      "status": "imported"
+    },
+    "voice_065:r_0121a166c715cdff": {
+      "text": "I'll land a direct hit.",
+      "status": "imported"
+    },
+    "voice_065:r_30fad37a42bd3ad3": {
+      "text": "Sights are set.",
+      "status": "imported"
+    },
+    "voice_065:r_80a0b2a84e05d81a": {
+      "text": "I don't intend to waste a shot.",
+      "status": "imported"
+    },
+    "voice_065:r_4a9ac1dff86506d9": {
+      "text": "Target acquired.",
+      "status": "imported"
+    },
+    "voice_065:r_bc8538e6af3d2577": {
+      "text": "This'll do it...!",
+      "status": "imported"
+    },
+    "voice_065:r_924516c8de2b5342": {
+      "text": "There you are...!",
+      "status": "imported"
+    },
+    "voice_065:r_da1174533722333f": {
+      "text": "I'll finish you...!",
+      "status": "imported"
+    },
+    "voice_065:r_ac6fe7838e95647b": {
+      "text": "Can I land one more hit?",
+      "status": "imported"
+    },
+    "voice_065:r_77ca87eacd17ad52": {
+      "text": "Finish them when you get the chance.",
+      "status": "imported"
+    },
+    "voice_065:r_bf3244994760e535": {
+      "text": "Was I too late to pull out?",
+      "status": "imported"
+    },
+    "voice_065:r_aabfb21c9d069ce7": {
+      "text": "I don't like how you operate.",
+      "status": "imported"
+    },
+    "voice_065:r_02479dc8fe989560": {
+      "text": "Just hit the weak point directly.",
+      "status": "imported"
+    },
+    "voice_065:r_a2df00f91a9b0a9e": {
+      "text": "Even an AT has ways to fight.",
+      "status": "imported"
+    },
+    "voice_065:r_48b60d6c48b9b142": {
+      "text": "Didn't think I'd fight one of those.",
+      "status": "imported"
+    },
+    "voice_065:r_8927e6fb681aa809": {
+      "text": "Fight it like you would a human.",
+      "status": "imported"
+    },
+    "voice_065:r_665f01666859013b": {
+      "text": "This will bring it all to an end.",
+      "status": "imported"
+    },
+    "voice_065:r_a571eec59b258d11": {
+      "text": "Whoever you are... I have one task.",
+      "status": "imported"
+    },
+    "voice_065:r_98d15b8cc09bc915": {
+      "text": "Time to counterattack.",
+      "status": "imported"
+    },
+    "voice_065:r_46e86d000250e137": {
+      "text": "Don't run.",
+      "status": "imported"
+    },
+    "voice_065:r_ac341e7976e88f0b": {
+      "text": "I'll return the favor.",
+      "status": "imported"
+    },
+    "voice_065:r_cdbd128a5b4127cc": {
+      "text": "I'm still alive.",
+      "status": "imported"
+    },
+    "voice_065:r_cfccaa1fbeda124c": {
+      "text": "You took the bait.",
+      "status": "imported"
+    },
+    "voice_065:r_b1f8ec192b9c083a": {
+      "text": "You'll clear a path for me.",
+      "status": "imported"
+    },
+    "voice_065:r_a007f9ab9cf048b3": {
+      "text": "They haven't noticed our approach?",
+      "status": "imported"
+    },
+    "voice_065:r_ddafde4b065ced49": {
+      "text": "Continuing the attack.",
+      "status": "imported"
+    },
+    "voice_065:r_de1213040856c089": {
+      "text": "I'll handle it.",
+      "status": "imported"
+    },
+    "voice_065:r_3304412ac41f47a6": {
+      "text": "I can't attack?",
+      "status": "imported"
+    },
+    "voice_065:r_0c0775e051211840": {
+      "text": "A miss... That hurts.",
+      "status": "imported"
+    },
+    "voice_065:r_a2afffe1c396f0b3": {
+      "text": "The range is off.",
+      "status": "imported"
+    },
+    "voice_065:r_13c25fbdfddc8a24": {
+      "text": "So that's your position...",
+      "status": "imported"
+    },
+    "voice_065:r_a5643cec86b18bd2": {
+      "text": "A miss.",
+      "status": "imported"
+    },
+    "voice_065:r_68f2dfab20a4a30e": {
+      "text": "Just as I thought.",
+      "status": "imported"
+    },
+    "voice_065:r_9cedad8237480563": {
+      "text": "So that's your move.",
+      "status": "imported"
+    },
+    "voice_065:r_a03fabecba1508ca": {
+      "text": "I knew it.",
+      "status": "imported"
+    },
+    "voice_065:r_5391b24a71eb10ae": {
+      "text": "Luck has abandoned you.",
+      "status": "imported"
+    },
+    "voice_065:r_a554ceef5c87b972": {
+      "text": "Too bad.",
+      "status": "imported"
+    },
+    "voice_065:r_546c3d5937fbb7ee": {
+      "text": "I don't plan to die either.",
+      "status": "imported"
+    },
+    "voice_065:r_1568ff6298b12b96": {
+      "text": "That was cutting it close.",
+      "status": "imported"
+    },
+    "voice_065:r_2c9d94ba13c5fc50": {
+      "text": "I know how to defend myself.",
+      "status": "imported"
+    },
+    "voice_065:r_a77f4913375098d2": {
+      "text": "A single hit could be fatal to me.",
+      "status": "imported"
+    },
+    "voice_065:r_428c2116ac3071b1": {
+      "text": "The Mission Disc came in handy.",
+      "status": "imported"
+    },
+    "voice_065:r_84c116267b79f540": {
+      "text": "I've done this till I'm sick of it.",
+      "status": "imported"
+    },
+    "voice_065:r_3d32e86f8dc80909": {
+      "text": "It's no use.",
+      "status": "imported"
+    },
+    "voice_065:r_70451ffbabe2f876": {
+      "text": "That's useful equipment.",
+      "status": "imported"
+    },
+    "voice_065:r_546de3fb6db156ea": {
+      "text": "Ngh...",
+      "status": "imported"
+    },
+    "voice_065:r_ca85f87cee5e31f7": {
+      "text": "Just as I expected.",
+      "status": "imported"
+    },
+    "voice_065:r_9072ea7bc71df136": {
+      "text": "It won't hinder my actions.",
+      "status": "imported"
+    },
+    "voice_065:r_04e815a8d425827d": {
+      "text": "I dodged too late.",
+      "status": "imported"
+    },
+    "voice_065:r_d89011fe3e5d082a": {
+      "text": "This machine's response is sluggish.",
+      "status": "imported"
+    },
+    "voice_065:r_3c5b0c2ac812d5de": {
+      "text": "Can't dodge all of it, I see.",
+      "status": "imported"
+    },
+    "voice_065:r_7bea3023abbf8a94": {
+      "text": "Ghh...!",
+      "status": "imported"
+    },
+    "voice_065:r_dd01a4c0d1b36a8d": {
+      "text": "Did I make a mistake?",
+      "status": "imported"
+    },
+    "voice_065:r_20920ad2eb3542db": {
+      "text": "This is worse than expected.",
+      "status": "imported"
+    },
+    "voice_065:r_0ab7914877fd48ed": {
+      "text": "No danger of a chain reaction.",
+      "status": "imported"
+    },
+    "voice_065:r_cb846feec748c2e3": {
+      "text": "They read my evasion pattern?",
+      "status": "imported"
+    },
+    "voice_065:r_c958860b0676b1f5": {
+      "text": "Did my move backfire?",
+      "status": "imported"
+    },
+    "voice_065:r_5e2669b82ef75ce3": {
+      "text": "The legs can't keep up?",
+      "status": "imported"
+    },
+    "voice_065:r_7847e0ed7dc9282d": {
+      "text": "As long as the weapons are intact.",
+      "status": "imported"
+    },
+    "voice_065:r_6825fd1ff907bd22": {
+      "text": "Damn...!",
+      "status": "imported"
+    },
+    "voice_065:r_607f666f1563bc0d": {
+      "text": "Is this place hell too?",
+      "status": "imported"
+    },
+    "voice_065:r_97b7431eeb81e6b6": {
+      "text": "The situation looks hopeless.",
+      "status": "imported"
+    },
+    "voice_065:r_132f605d02975e71": {
+      "text": "One more hit is the limit.",
+      "status": "imported"
+    },
+    "voice_065:r_9b9726b1872759d6": {
+      "text": "I don't intend to die here.",
+      "status": "imported"
+    },
+    "voice_065:r_1252db29683fefe0": {
+      "text": "Standard patterns won't work here?",
+      "status": "imported"
+    },
+    "voice_065:r_ad3d538f1e909184": {
+      "text": "Part of the Muscle Cylinder failed.",
+      "status": "imported"
+    },
+    "voice_065:r_8c61c59a1c0aebbf": {
+      "text": "The Mission Disc burned out?",
+      "status": "imported"
+    },
+    "voice_065:r_b84afafb8a33ec60": {
+      "text": "Is this the end...?",
+      "status": "imported"
+    },
+    "voice_065:r_c8c59db85bf875e6": {
+      "text": "I'm abandoning this machine.",
+      "status": "imported"
+    },
+    "voice_065:r_4ad81e88c7557a8b": {
+      "text": "I'll fight you so I can live.",
+      "status": "imported"
+    },
+    "voice_065:r_cf7dbf49e96a5755": {
+      "text": "Did Shako distract them?",
+      "status": "imported"
+    },
+    "voice_065:r_fa96676cc65bb509": {
+      "text": "I can still go on.",
+      "status": "imported"
+    },
+    "voice_065:r_4e37f92e7d2fc62e": {
+      "text": "Now the real fight begins.",
+      "status": "imported"
+    },
+    "voice_065:r_66ab4cfe1557909d": {
+      "text": "It's a little shaky.",
+      "status": "imported"
+    },
+    "voice_065:r_0bad405ee6ca63ba": {
+      "text": "The armor stopped it?",
+      "status": "imported"
+    },
+    "voice_065:r_2072eaf71a260ae7": {
+      "text": "I let my guard down. Unlike me.",
+      "status": "imported"
+    },
+    "voice_065:r_6c13bbfd27a7799e": {
+      "text": "I have to keep going.",
+      "status": "imported"
+    },
+    "voice_065:r_06f88dcbd3c9e738": {
+      "text": "Kill or be killed.",
+      "status": "imported"
+    },
+    "voice_065:r_b28faf9f71bc3598": {
+      "text": "Every place is full of war.",
+      "status": "imported"
+    },
+    "voice_065:r_8a29278549f8e07a": {
+      "text": "I'll be used while war exists...",
+      "status": "imported"
+    },
+    "voice_065:r_7e6c573c26177f98": {
+      "text": "War follows me, wanted or not...",
+      "status": "imported"
+    },
+    "voice_065:r_45abf84f7757d6eb": {
+      "text": "My war isn't over yet...",
+      "status": "imported"
+    },
+    "voice_065:r_edd7a13ab8f06a14": {
+      "text": "I'll end this.",
+      "status": "imported"
+    },
+    "voice_065:r_8165e5b41f0124c4": {
+      "text": "Give up.",
+      "status": "imported"
+    },
+    "voice_065:r_4e05581b7432cce8": {
+      "text": "You won't get away.",
+      "status": "imported"
+    },
+    "voice_065:r_a60b107ea3c36a86": {
+      "text": "Fyana...\\nI'm a Red Shoulder again.",
+      "status": "imported"
+    },
+    "voice_065:r_e33693e5ba4665b0": {
+      "text": "We only meet when things get hectic.",
+      "status": "imported"
+    },
+    "voice_065:r_72a21a1a489af001": {
+      "text": "I've had enough of this.",
+      "status": "imported"
+    },
+    "voice_065:r_eb643f8bf737a0ca": {
+      "text": "A servant of God...!",
+      "status": "imported"
+    },
+    "voice_065:r_0a3fccb71ec6cf2a": {
+      "text": "So I'm facing the Shield of Order.",
+      "status": "imported"
+    },
+    "voice_065:r_9b63cf1f3e0207ef": {
+      "text": "The Martial Order...",
+      "status": "imported"
+    },
+    "voice_065:r_8356f4e3dcdff938": {
+      "text": "Don't concern yourself with me...!",
+      "status": "imported"
+    },
+    "voice_065:r_1d6d784036ae0bd7": {
+      "text": "Relax. I'll only put you to sleep.",
+      "status": "imported"
+    },
+    "voice_065:r_625664af02183c17": {
+      "text": "Struggle, and it'll only hurt more.",
+      "status": "imported"
+    },
+    "voice_065:r_3701cba361f80ea5": {
+      "text": "Didn't expect this thing to show up.",
+      "status": "imported"
+    },
+    "voice_065:r_38e4a434c91d8ef0": {
+      "text": "I'm used to hunting monsters too.",
+      "status": "imported"
+    },
+    "voice_065:r_98ed411352a3a6ac": {
+      "text": "If it shows itself, I'll strike it.",
+      "status": "imported"
+    },
+    "voice_065:r_7316666150e42960": {
+      "text": "You're wide open after you attack.",
+      "status": "imported"
+    },
+    "voice_065:r_c4f11aa93dc5b668": {
+      "text": "If I'm hit, I hit back. That's all.",
+      "status": "imported"
+    },
+    "voice_065:r_ce1a22dfe3a4d339": {
+      "text": "I don't plan to die either.",
+      "status": "imported"
+    },
+    "voice_065:r_240651adab81e145": {
+      "text": "That's enough. I'll handle the rest.",
+      "status": "imported"
+    },
+    "voice_065:r_cff0deaae73c2858": {
+      "text": "I'll follow too.",
+      "status": "imported"
+    },
+    "voice_065:r_dca67f68a573fab7": {
+      "text": "Urzu 7, I'll cover you.",
+      "status": "imported"
+    },
+    "voice_065:r_a6630215fefaf294": {
+      "text": "Kallen, I'm coming too.",
+      "status": "imported"
+    },
+    "voice_065:r_6f94566ad37f8ff8": {
+      "text": "Zero, I'll lend a hand.",
+      "status": "imported"
+    },
+    "voice_065:r_942ca03c9de80143": {
+      "text": "I'll draw the enemy in.",
+      "status": "imported"
+    },
+    "voice_065:r_d8c669c70659e18a": {
+      "text": "That's enough. Fall back.",
+      "status": "imported"
+    },
+    "voice_065:r_8f5bade7ac2db78e": {
+      "text": "Fall back, Urzu 7.",
+      "status": "imported"
+    },
+    "voice_065:r_05ea490d2f522520": {
+      "text": "Fall back, Kallen.",
+      "status": "imported"
+    },
+    "voice_065:r_f5658c702d91db7a": {
+      "text": "That's not like you, Zero.",
+      "status": "imported"
+    },
+    "voice_065:r_686df329b50f195b": {
+      "text": "I won't wait around to be beaten.",
+      "status": "imported"
+    },
+    "voice_065:r_25f0ab0fa3cf690c": {
+      "text": "Did I fall for the enemy's trap...?",
+      "status": "imported"
+    },
+    "voice_065:r_b708a1d959013dbf": {
+      "text": "Don't concern yourself with me.",
+      "status": "imported"
+    },
+    "voice_065:r_59fca03e929366c1": {
+      "text": "Don't get in my way.",
+      "status": "imported"
+    },
+    "voice_065:r_0d65eb631dcb7514": {
+      "text": "Looks like you miscalculated.",
+      "status": "imported"
+    },
+    "voice_065:r_d03018a31e23f1e9": {
+      "text": "That was close.",
+      "status": "imported"
+    },
+    "voice_065:r_279da5f732aa8847": {
+      "text": "Just as planned.",
+      "status": "imported"
+    },
+    "voice_065:r_97f82e3cb6f70110": {
+      "text": "It's about time you gave up.",
+      "status": "imported"
+    },
+    "voice_065:r_c5611d8dd6def96b": {
+      "text": "Looks like a junk battleship.",
+      "status": "imported"
+    },
+    "voice_065:r_6f12cc8ed2732eb5": {
+      "text": "There are ways to fight even a PS.",
+      "status": "imported"
+    },
+    "voice_065:r_7abfc55f8fb62ba7": {
+      "text": "Stop following me around already.",
+      "status": "imported"
+    },
+    "voice_065:r_bf953d64c3c7d9b7": {
+      "text": "I'm lucky to get off this lightly.",
+      "status": "imported"
+    },
+    "voice_065:r_e09b933e3e706779": {
+      "text": "No problem. Continuing combat.",
+      "status": "imported"
+    },
+    "voice_065:r_66236eb99b676e5b": {
+      "text": "That's nowhere near fatal.",
+      "status": "imported"
+    },
+    "voice_065:r_9639a2dbcd2f58ed": {
+      "text": "The machine can still move.",
+      "status": "imported"
+    },
+    "voice_065:r_aeea0893acb93d35": {
+      "text": "I can fight if the legs are intact.",
+      "status": "imported"
+    },
+    "voice_065:r_b31568654e53487b": {
+      "text": "I'll just try a different pattern.",
+      "status": "imported"
+    },
+    "voice_065:r_2502132569141ea3": {
+      "text": "Yes, I was a Red Shoulder.\\nSo what?",
+      "status": "imported"
+    },
+    "voice_065:r_1ff312798a52c8eb": {
+      "text": "Are you satisfied now?",
+      "status": "imported"
+    },
+    "voice_065:r_fa07d90fca62f593": {
+      "text": "Your tenacity is notable, at least.",
+      "status": "imported"
+    },
+    "voice_065:r_a25bf2676ecf9d83": {
+      "text": "So your abilities do match a PS.",
+      "status": "imported"
+    },
+    "voice_065:r_b5864501463db244": {
+      "text": "I'm used to walking through hell.",
+      "status": "imported"
+    },
+    "voice_065:r_a88939ea84b4474d": {
+      "text": "There must still be some way...",
+      "status": "imported"
+    },
+    "voice_065:r_a870d0cf7cc11ec6": {
+      "text": "I've faced this many times before.",
+      "status": "imported"
+    },
+    "voice_065:r_03f6158ef83964f3": {
+      "text": "Is ejecting my only option?",
+      "status": "imported"
+    },
+    "voice_065:r_2970a83693cdcc25": {
+      "text": "Is that one a PS too?",
+      "status": "imported"
+    },
+    "voice_065:r_3e87f6fc3ea65aef": {
+      "text": "I won't obey even a god.",
+      "status": "imported"
+    },
+    "voice_065:r_e92920ba4b301b9f": {
+      "text": "Bad timing. We always meet in chaos.",
+      "status": "imported"
+    },
+    "voice_065:r_207b256d613bb896": {
+      "text": "...",
+      "status": "imported"
+    },
+    "voice_065:r_a6fd676d8146501b": {
+      "text": "...Don't interfere, Teitania.",
+      "status": "imported"
+    },
+    "voice_065:r_94d35e5fa8e3a198": {
+      "text": "Once more: don't interfere. Got it?",
+      "status": "imported"
+    },
+    "voice_065:r_b686510e636673f3": {
+      "text": "Rest fuels me for the next battle.",
+      "status": "imported"
+    },
+    "voice_065:r_59369bad143d4272": {
+      "text": "I'm not joking. I'm deadly serious.",
+      "status": "imported"
+    },
+    "voice_065:r_25f9b1e39dd8d366": {
+      "text": "24th Melkia ASU X-1: Chirico Cuvie",
+      "status": "imported"
+    },
+    "voice_065:r_af62f2ee466b5c8c": {
+      "text": "Understood. I'll go ahead.",
+      "status": "imported"
+    },
+    "voice_065:r_20cfb719db02fafd": {
+      "text": "I'll create a diversion.",
+      "status": "imported"
+    },
+    "voice_065:r_570c1fdf72edb283": {
+      "text": "I'll assist.",
+      "status": "imported"
+    },
+    "voice_065:r_23f0d87a5a6cfca1": {
+      "text": "I'll leave that to you.",
+      "status": "imported"
+    },
+    "voice_065:r_60c94ea4eb7f7404": {
+      "text": "Is that the target?",
+      "status": "imported"
+    },
+    "voice_065:r_727b2ee0277f9159": {
+      "text": "I'll fulfill the role I was given.",
+      "status": "imported"
+    },
+    "voice_065:r_cff4d2eae8a939ed": {
+      "text": "I'll handle things here.",
+      "status": "imported"
+    }
+  }
+}

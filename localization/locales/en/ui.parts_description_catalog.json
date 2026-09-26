@@ -1,0 +1,282 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ui.parts_description_catalog:r_36f268db006f5e6b": {
+      "text": "Movement +1.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_f565890c7cfc843a": {
+      "text": "Movement +2.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_7a76682e43b328c2": {
+      "text": "Movement +1; Mobility +10.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_d770ccafdd37bcab": {
+      "text": "Mobility +10.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_e4535d212e04428e": {
+      "text": "Mobility +20.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_75e9258a05902206": {
+      "text": "Accuracy +10.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_b9cbdea23f228e9d": {
+      "text": "Accuracy +20.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_4831f6bda2d91be1": {
+      "text": "Critical hit chance +20%.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_2eb2159ac1f40688": {
+      "text": "Weapon/song range +1, excluding MAP weapons and weapons with a range of 1.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_58856809015e781e": {
+      "text": "Accuracy +20. Weapon/song range +1, excluding MAP weapons and range-1 weapons.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_5078c0cfad836bf9": {
+      "text": "Movement +2; Mobility/Accuracy +25. Weapon/song range +1, excluding MAP and range-1 weapons.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_ccb004029a060033": {
+      "text": "Max HP +500; Armor +100.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_09f8ea93026ef625": {
+      "text": "Max HP +1000; Armor +150.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_77f038e1486eff06": {
+      "text": "Max HP +1200; Armor +250. Restores 10% of max EN at the start of each player turn.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_c90803a34d9641fa": {
+      "text": "Max EN +100. Restores 10% of max EN at the start of each player turn.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_efcf42a6a46e51ae": {
+      "text": "Max EN +150.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_8320cc893386038d": {
+      "text": "Barrier reduces damage from all attacks by 1000. Costs 5 EN per activation.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_1d0996e1703c951c": {
+      "text": "100% Parry; blocks pilot status effects. Negates consecutive-targeting and placement penalties.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_6c74c95b4d9551ab": {
+      "text": "Mobility/Accuracy +25; Armor +200; critical hit chance +25%.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_d1141c8d1b990207": {
+      "text": "Mobility/Accuracy +30; Armor +250; critical hit chance +30%.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_f257d8d4ca5f8b2a": {
+      "text": "Movement +1; weapon/song power +200, range +1. Range excludes MAP and range-1 weapons.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_ad3bbd061562e864": {
+      "text": "Each player turn: restores 10% of max HP/EN and 10 SP to the main pilot.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_3d70f54b4bf189d4": {
+      "text": "At Focus 130 or higher, final damage dealt increases by 20%.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_f4c8b1f5732acc65": {
+      "text": "Final damage bonus = missing HP% / 3. Example: 60% HP lost gives +20% damage.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_ca9388f8c71461cf": {
+      "text": "50% evade at Focus 130+. Blocks damage under 1200 (10 EN). Team Hit/Evade +10%.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_a4584e80743b2361": {
+      "text": "Adds the Repair and Resupply abilities.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_b772a55a4d2ad3d8": {
+      "text": "All weapons/songs: power +300, ignore size penalties and pierce barriers.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_ee5f9d9a893cdeb5": {
+      "text": "Movement +4. When leading the team, ignores terrain and enemy units while moving.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_a8b0fda29297cbef": {
+      "text": "Fully restores EN at the start of each player turn.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_c1143f122f6e6911": {
+      "text": "Max HP +1000; Armor +200. Blocks status effects inflicted by enemy weapons.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_bf5e34977f793d2d": {
+      "text": "Weapon/song power +300, range +2. Range excludes MAP and range-1 weapons.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_14f11b83115e42cd": {
+      "text": "Unit/weapon Air terrain rank S. Grants flight except to fixed-movement units.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_d4f638629c7e71c5": {
+      "text": "Unit and weapon Space terrain ranks become S.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_5ba3a5be21bccfe9": {
+      "text": "Unit/weapon Ground terrain rank S. Grants ground movement except to fixed-movement units.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_ff6f847015c4739e": {
+      "text": "Unit/weapon Water terrain rank S. Grants water movement except to fixed-movement units.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_412e12562f8d8816": {
+      "text": "All unit and weapon terrain ranks become A.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_7d10124253095ae9": {
+      "text": "All unit and weapon terrain ranks become S.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_7a4ca4cfa801523f": {
+      "text": "Restores 250 EN to this unit. Usable once per stage.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_65672f7339d81e42": {
+      "text": "Fully restores this unit's ammo. Usable once per stage.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_8c60929d97072275": {
+      "text": "Restores 6000 HP to this unit. Usable once per stage.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_4a1e2f1bbebb42b3": {
+      "text": "Fully restores this unit's HP, EN and ammo. Usable once per stage.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_0038bef8ce1318e1": {
+      "text": "Restores 20 SP to the main pilot. Usable once per stage.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_0361e29217adb6e5": {
+      "text": "Restores 40 SP to the main pilot. Usable once per stage.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_3db8f5bb948746a5": {
+      "text": "Restores 60 SP to the main pilot. Usable once per stage.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_6c2e2df3f7db702a": {
+      "text": "Restores 100 SP to the main pilot. Usable once per stage.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_1e0b4caa82fc27bd": {
+      "text": "Applies the $$愛$$ Spirit effect. Usable once per stage.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_3e053a42ac9c98ae": {
+      "text": "Applies $$愛$$, $$勇気$$, $$魂$$, $$闘志$$, $$覚醒$$, $$狙撃$$, $$突撃$$, $$鉄壁$$ and $$集中$$. Once per stage.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_4b9eda7c977afa32": {
+      "text": "Starting Focus +5 when deployed.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_c48f03831752b289": {
+      "text": "Starting Focus +10 when deployed.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_578e466c84163346": {
+      "text": "Starting Focus +20 when deployed.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_a802bcd0cb41e098": {
+      "text": "Main pilot gains 3 Focus each player turn, from the unit's second deployed turn.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_5068123850c4843f": {
+      "text": "Restores 10 SP to the main pilot each turn.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_a17adb76f3c76023": {
+      "text": "Z Chips from defeated enemies x1.5. Does not stack with other parts.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_61eac4b3336b8176": {
+      "text": "Destroy an enemy team: main pilot gains 10 SP. No extra SP for multi-team kills.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_85f17425264930c5": {
+      "text": "All pilots aboard: maximum Focus +30. Equipping multiple copies does not stack.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_5cb4f498002d6f4e": {
+      "text": "Whenever your team gains Tag Tension, it gains 1 extra point.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_e4d4cc62efc3bfe6": {
+      "text": "Focus 150+: kill PP and team funds/Z Chips x2. No stacking with other parts.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_a8e8f4f34d26ec0e": {
+      "text": "Grants the effect of Commander Lv4.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_8a70fdfb3a62ddf8": {
+      "text": "Earn 500 funds for each map square your team moves.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_9734ad080cbd44c7": {
+      "text": "Chance-based effects are 10 percentage points more likely to work in your favor.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_b11c0a9995792e9e": {
+      "text": "Battle EXP x2. Stacks with the $$努力$$ Spirit effect.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_4e5c36b902efeace": {
+      "text": "Restores 15 SP to the main pilot each turn.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_5838b602af77e84c": {
+      "text": "PP from defeated enemies x2. Stacks with Bonus PP Tag Command, but not other parts.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_1769fe2ef94d9d9c": {
+      "text": "Team funds from defeated enemies x2. Stacks with $$幸運$$, but not other parts.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_cec9a68b699c8494": {
+      "text": "Team gains 1 extra action each player turn if this part is equipped by the main unit at turn start.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_fca1efae838c90de": {
+      "text": "Max HP +1500; Armor +250. Restores 10% of max HP/EN at each player turn's start.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_72dcb76a9e28041a": {
+      "text": "Move +2; crit +20%; unit/weapon Air S. Grants flight except to fixed-movement units.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_9dddeffa080f4c56": {
+      "text": "Accuracy +20; all unit/weapon terrain A. Weapon/song range +1, excluding MAP and range-1 weapons.",
+      "status": "imported"
+    },
+    "ui.parts_description_catalog:r_de0c5aa92f823ff3": {
+      "text": "Mobility +20; 50% evade at Focus 130+. Barrier cuts all damage by 1000 (5 EN/use).",
+      "status": "imported"
+    }
+  }
+}

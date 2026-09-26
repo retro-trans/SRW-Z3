@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "terrain_hook:r_479b340ccc6c572b": {
+      "text": "Paved Road",
+      "status": "imported"
+    },
+    "terrain_hook:r_ca4acbac57a2a35e": {
+      "text": "Flatland",
+      "status": "imported"
+    },
+    "terrain_hook:r_77949221bf58f862": {
+      "text": "Building",
+      "status": "imported"
+    },
+    "terrain_hook:r_70b9c4b9f1f37eff": {
+      "text": "Construction Site",
+      "status": "imported"
+    },
+    "terrain_hook:r_9fcb3754cb1773c7": {
+      "text": "Cliff",
+      "status": "imported"
+    }
+  }
+}

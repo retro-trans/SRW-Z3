@@ -1,0 +1,754 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_084:r_479b340ccc6c572b": {
+      "text": "All preparations are complete!",
+      "status": "imported"
+    },
+    "voice_084:r_77949221bf58f862": {
+      "text": "Can I do this...? No, I have to!",
+      "status": "imported"
+    },
+    "voice_084:r_70b9c4b9f1f37eff": {
+      "text": "I've waited so long for this day...!",
+      "status": "imported"
+    },
+    "voice_084:r_9fcb3754cb1773c7": {
+      "text": "At last, this day has come!",
+      "status": "imported"
+    },
+    "voice_084:r_3559d2fad32c2435": {
+      "text": "Glory and victory shall be ours!",
+      "status": "imported"
+    },
+    "voice_084:r_f7570547e9f80a64": {
+      "text": "If we strike, make it swift!",
+      "status": "imported"
+    },
+    "voice_084:r_cbab0f4720e1fcf1": {
+      "text": "If we're striking, now's the time!",
+      "status": "imported"
+    },
+    "voice_084:r_0bbe0b4f5364e732": {
+      "text": "This wind, this feel... This is war!",
+      "status": "imported"
+    },
+    "voice_084:r_5dda5198137cb02a": {
+      "text": "Zeon can fight for ten more years!",
+      "status": "imported"
+    },
+    "voice_084:r_83ec59afbecdec14": {
+      "text": "I'll show you how battle is fought!",
+      "status": "imported"
+    },
+    "voice_084:r_e20bfd42ad95a3c9": {
+      "text": "Anyone in my way is going down!",
+      "status": "imported"
+    },
+    "voice_084:r_0f58a8822381e57f": {
+      "text": "If I don't get them, they'll get me!",
+      "status": "imported"
+    },
+    "voice_084:r_6dbcc507fb61b51d": {
+      "text": "Specs alone\\ndon't decide victory!",
+      "status": "imported"
+    },
+    "voice_084:r_b42ab697149a7c8a": {
+      "text": "We gave up everything to come here!",
+      "status": "imported"
+    },
+    "voice_084:r_4de4fcf3b440baf4": {
+      "text": "I'll repay every humiliation today!",
+      "status": "imported"
+    },
+    "voice_084:r_0121a166c715cdff": {
+      "text": "Our days in hiding end here today!",
+      "status": "imported"
+    },
+    "voice_084:r_30fad37a42bd3ad3": {
+      "text": "All we have left is to fight!",
+      "status": "imported"
+    },
+    "voice_084:r_80a0b2a84e05d81a": {
+      "text": "For this moment!\\nGlory to Zeon!",
+      "status": "imported"
+    },
+    "voice_084:r_4a9ac1dff86506d9": {
+      "text": "Zeon isn't dead yet!",
+      "status": "imported"
+    },
+    "voice_084:r_bc8538e6af3d2577": {
+      "text": "Sieg Zeon!",
+      "status": "imported"
+    },
+    "voice_084:r_924516c8de2b5342": {
+      "text": "I'll hit the power unit dead-on!",
+      "status": "imported"
+    },
+    "voice_084:r_da1174533722333f": {
+      "text": "This ammo is precious! I can't miss!",
+      "status": "imported"
+    },
+    "voice_084:r_fdeb8162976e72c1": {
+      "text": "My barrel burns out, or you fall!",
+      "status": "imported"
+    },
+    "voice_084:r_0fadb5c26df92b42": {
+      "text": "Hit! Come on, hit!",
+      "status": "imported"
+    },
+    "voice_084:r_6b15af9a0057cdc8": {
+      "text": "I know this is reckless!",
+      "status": "imported"
+    },
+    "voice_084:r_15b4a90140e8a33a": {
+      "text": "If I can force a grapple...!!",
+      "status": "imported"
+    },
+    "voice_084:r_af884a6b11dff121": {
+      "text": "Melee is where experience shows!",
+      "status": "imported"
+    },
+    "voice_084:r_ac6fe7838e95647b": {
+      "text": "This is mobile suit\\nmelee combat!",
+      "status": "imported"
+    },
+    "voice_084:r_6ff1323b355593e0": {
+      "text": "Go!",
+      "status": "imported"
+    },
+    "voice_084:r_b7b5625d7cd4282f": {
+      "text": "Hah!",
+      "status": "imported"
+    },
+    "voice_084:r_36133ad73a73ef98": {
+      "text": "Take this!",
+      "status": "imported"
+    },
+    "voice_084:r_920740a0219c5085": {
+      "text": "You little...!",
+      "status": "imported"
+    },
+    "voice_084:r_a8451712c57c1a72": {
+      "text": "Make contact!",
+      "status": "imported"
+    },
+    "voice_084:r_3633df5b7b8f47fa": {
+      "text": "Time to finish this!",
+      "status": "imported"
+    },
+    "voice_084:r_52dfc56b14b93551": {
+      "text": "There!",
+      "status": "imported"
+    },
+    "voice_084:r_1b9b2aab5cb104da": {
+      "text": "This finishes you!",
+      "status": "imported"
+    },
+    "voice_084:r_342044c706a2340f": {
+      "text": "You're first!",
+      "status": "imported"
+    },
+    "voice_084:r_cf41e8828a90cbdb": {
+      "text": "I've got you!",
+      "status": "imported"
+    },
+    "voice_084:r_719e897304ec42d4": {
+      "text": "This one's mine!",
+      "status": "imported"
+    },
+    "voice_084:r_5d08ad19e2da125b": {
+      "text": "Raaaaaaaaagh!",
+      "status": "imported"
+    },
+    "voice_084:r_d6bdd730f24f66eb": {
+      "text": "Haaaaaaaaah!",
+      "status": "imported"
+    },
+    "voice_084:r_9e0c80ac7e33b459": {
+      "text": "This will finish it!",
+      "status": "imported"
+    },
+    "voice_084:r_47d52a2839c71715": {
+      "text": "Raaagh! Fall! Faaaaall!!",
+      "status": "imported"
+    },
+    "voice_084:r_93e25418a203cb8f": {
+      "text": "I'll come at you again and again!",
+      "status": "imported"
+    },
+    "voice_084:r_adeb0a29274d3d9b": {
+      "text": "Too slow! Here's another!",
+      "status": "imported"
+    },
+    "voice_084:r_24cf161287ef9d5c": {
+      "text": "Gundams make my old wounds ache...!",
+      "status": "imported"
+    },
+    "voice_084:r_8f60f6fc86db3107": {
+      "text": "Chance to down a Gundam\\nat last...!",
+      "status": "imported"
+    },
+    "voice_084:r_b1de76a75a253c13": {
+      "text": "Gundam or not,\\nit's still an MS!",
+      "status": "imported"
+    },
+    "voice_084:r_128c35bf3e0e394c": {
+      "text": "You devil! We meet in battle again!",
+      "status": "imported"
+    },
+    "voice_084:r_5213c17e13b23de0": {
+      "text": "Hear us, Gundam! Hear our hatred!",
+      "status": "imported"
+    },
+    "voice_084:r_38fdff9483e9245c": {
+      "text": "What can a fake Gundam possibly do!",
+      "status": "imported"
+    },
+    "voice_084:r_620fedec67706d7d": {
+      "text": "So that's the latest Gundam!",
+      "status": "imported"
+    },
+    "voice_084:r_9680dcd0fddcfcc7": {
+      "text": "Wings off,\\nI'll smash you down!",
+      "status": "imported"
+    },
+    "voice_084:r_46e86d000250e137": {
+      "text": "Federation small fry!",
+      "status": "imported"
+    },
+    "voice_084:r_ac341e7976e88f0b": {
+      "text": "An advanced GM model, huh?",
+      "status": "imported"
+    },
+    "voice_084:r_cdbd128a5b4127cc": {
+      "text": "A transformable mobile suit...!",
+      "status": "imported"
+    },
+    "voice_084:r_cfccaa1fbeda124c": {
+      "text": "Skill will make up the power gap!",
+      "status": "imported"
+    },
+    "voice_084:r_b1f8ec192b9c083a": {
+      "text": "We should have the edge in agility!",
+      "status": "imported"
+    },
+    "voice_084:r_a007f9ab9cf048b3": {
+      "text": "Faster than a mobile suit...!",
+      "status": "imported"
+    },
+    "voice_084:r_ddafde4b065ced49": {
+      "text": "You'd face me in that weak unit...!",
+      "status": "imported"
+    },
+    "voice_084:r_de1213040856c089": {
+      "text": "Your equipment is controlling you!",
+      "status": "imported"
+    },
+    "voice_084:r_0c0775e051211840": {
+      "text": "You and I are dogs of the same war!",
+      "status": "imported"
+    },
+    "voice_084:r_a2afffe1c396f0b3": {
+      "text": "So the newest AS has arrived!",
+      "status": "imported"
+    },
+    "voice_084:r_13c25fbdfddc8a24": {
+      "text": "Black Knights' remnants went Fed!",
+      "status": "imported"
+    },
+    "voice_084:r_42ba1ecb310b4bd7": {
+      "text": "Down their ace and morale crumbles!",
+      "status": "imported"
+    },
+    "voice_084:r_d692f1d420460a47": {
+      "text": "We survived this long\\nfor a reason!",
+      "status": "imported"
+    },
+    "voice_084:r_a5643cec86b18bd2": {
+      "text": "Crush their leader, and we can win!",
+      "status": "imported"
+    },
+    "voice_084:r_68f2dfab20a4a30e": {
+      "text": "The battleship is our top priority!",
+      "status": "imported"
+    },
+    "voice_084:r_9cedad8237480563": {
+      "text": "Those moves are stiff... A rookie?",
+      "status": "imported"
+    },
+    "voice_084:r_a03fabecba1508ca": {
+      "text": "So young... Your moves give it away!",
+      "status": "imported"
+    },
+    "voice_084:r_5391b24a71eb10ae": {
+      "text": "Some brat with no resolve...!",
+      "status": "imported"
+    },
+    "voice_084:r_1f65a7af190e4674": {
+      "text": "Counterattack!",
+      "status": "imported"
+    },
+    "voice_084:r_40c5a9358ed5bf29": {
+      "text": "You're not getting away!",
+      "status": "imported"
+    },
+    "voice_084:r_f2e18dfdfe0c89ea": {
+      "text": "Can you keep up?!",
+      "status": "imported"
+    },
+    "voice_084:r_cf7dbf49e96a5755": {
+      "text": "You thought you took me down?!",
+      "status": "imported"
+    },
+    "voice_084:r_fa96676cc65bb509": {
+      "text": "I won't let you get any cockier!",
+      "status": "imported"
+    },
+    "voice_084:r_4e37f92e7d2fc62e": {
+      "text": "I won't let this chance slip away!",
+      "status": "imported"
+    },
+    "voice_084:r_66ab4cfe1557909d": {
+      "text": "This counterattack will finish you!",
+      "status": "imported"
+    },
+    "voice_084:r_0bad405ee6ca63ba": {
+      "text": "I'll repay my debt, no matter what!",
+      "status": "imported"
+    },
+    "voice_084:r_2072eaf71a260ae7": {
+      "text": "I'll cover you!",
+      "status": "imported"
+    },
+    "voice_084:r_6c13bbfd27a7799e": {
+      "text": "Let me lend a hand!",
+      "status": "imported"
+    },
+    "voice_084:r_06f88dcbd3c9e738": {
+      "text": "Time to show the soul of Zeon!",
+      "status": "imported"
+    },
+    "voice_084:r_b28faf9f71bc3598": {
+      "text": "Shambro has you distracted!",
+      "status": "imported"
+    },
+    "voice_084:r_8a29278549f8e07a": {
+      "text": "Follow Major Kirks!",
+      "status": "imported"
+    },
+    "voice_084:r_7e6c573c26177f98": {
+      "text": "Regroup while we can!",
+      "status": "imported"
+    },
+    "voice_084:r_45abf84f7757d6eb": {
+      "text": "I won't stand by and let you!",
+      "status": "imported"
+    },
+    "voice_084:r_edd7a13ab8f06a14": {
+      "text": "Some glory is only won by living!",
+      "status": "imported"
+    },
+    "voice_084:r_8165e5b41f0124c4": {
+      "text": "If Shambro falls, the plan fails...!",
+      "status": "imported"
+    },
+    "voice_084:r_4e05581b7432cce8": {
+      "text": "Fall back, Major Kirks!",
+      "status": "imported"
+    },
+    "voice_084:r_a60b107ea3c36a86": {
+      "text": "A counterattack is... impossible?!",
+      "status": "imported"
+    },
+    "voice_084:r_e33693e5ba4665b0": {
+      "text": "Tch! I missed the perfect chance...!",
+      "status": "imported"
+    },
+    "voice_084:r_72a21a1a489af001": {
+      "text": "Damn! I'm a sitting duck like this!",
+      "status": "imported"
+    },
+    "voice_084:r_eb643f8bf737a0ca": {
+      "text": "This is completely one-sided...!",
+      "status": "imported"
+    },
+    "voice_084:r_0a3fccb71ec6cf2a": {
+      "text": "Ngh! Am I finally out of options?!",
+      "status": "imported"
+    },
+    "voice_084:r_9b63cf1f3e0207ef": {
+      "text": "The equipment gap is showing...!",
+      "status": "imported"
+    },
+    "voice_084:r_8356f4e3dcdff938": {
+      "text": "Even my energy has run dry...!",
+      "status": "imported"
+    },
+    "voice_084:r_1d6d784036ae0bd7": {
+      "text": "An attack from beyond my range...!",
+      "status": "imported"
+    },
+    "voice_084:r_625664af02183c17": {
+      "text": "All right! I dodged it!",
+      "status": "imported"
+    },
+    "voice_084:r_3701cba361f80ea5": {
+      "text": "This machine and I still have it!",
+      "status": "imported"
+    },
+    "voice_084:r_63f429c5c68c0863": {
+      "text": "They missed...! The tide is turning!",
+      "status": "imported"
+    },
+    "voice_084:r_38e4a434c91d8ef0": {
+      "text": "My unit's weaker, but I'm better!",
+      "status": "imported"
+    },
+    "voice_084:r_98ed411352a3a6ac": {
+      "text": "Battle is all about tactics!",
+      "status": "imported"
+    },
+    "voice_084:r_4824bea6bab3af67": {
+      "text": "You think I'm that slow?!",
+      "status": "imported"
+    },
+    "voice_084:r_862b92e63adb9734": {
+      "text": "That's it! I'm not easy to hit!",
+      "status": "imported"
+    },
+    "voice_084:r_cb306ef55e49d107": {
+      "text": "Power means nothing if it can't hit!",
+      "status": "imported"
+    },
+    "voice_084:r_57b2bd2de8a1408d": {
+      "text": "A Gundam alone won't make you win!",
+      "status": "imported"
+    },
+    "voice_084:r_76f080a4881e8ab5": {
+      "text": "The Gundam legend is history now!",
+      "status": "imported"
+    },
+    "voice_084:r_288133bc5b573dae": {
+      "text": "You're nowhere near the White Devil!",
+      "status": "imported"
+    },
+    "voice_084:r_6f95653e548f8fcf": {
+      "text": "So much for the latest model!",
+      "status": "imported"
+    },
+    "voice_084:r_d249d68bada91ab9": {
+      "text": "A fake is still just a fake!",
+      "status": "imported"
+    },
+    "voice_084:r_e9b3307e9eb69f11": {
+      "text": "GM types are easy prey as ever!",
+      "status": "imported"
+    },
+    "voice_084:r_03cdac73042343ee": {
+      "text": "Without the Feds,\\nyou're helpless!",
+      "status": "imported"
+    },
+    "voice_084:r_6026da5acbda7c69": {
+      "text": "All for show, you hollow dummy!",
+      "status": "imported"
+    },
+    "voice_084:r_981f8fedd5414fe5": {
+      "text": "Pilot can't cope\\nwith that speed...!",
+      "status": "imported"
+    },
+    "voice_084:r_96bb0dcde0c8c44a": {
+      "text": "So you're as weak as you look!",
+      "status": "imported"
+    },
+    "voice_084:r_641550a2f54cb456": {
+      "text": "You brat! Run home to your mama!",
+      "status": "imported"
+    },
+    "voice_084:r_a0f2074af8debbfa": {
+      "text": "You're too green to be in battle!",
+      "status": "imported"
+    },
+    "voice_084:r_0bc8ae32a406ceab": {
+      "text": "The barrier activated!",
+      "status": "imported"
+    },
+    "voice_084:r_82c09f011d703b2c": {
+      "text": "If I can deflect it with this...!",
+      "status": "imported"
+    },
+    "voice_084:r_2b4d8818c77b6dca": {
+      "text": "I'll take it on the shield!",
+      "status": "imported"
+    },
+    "voice_084:r_087354f2db0a31e6": {
+      "text": "It hit the shield...!",
+      "status": "imported"
+    },
+    "voice_084:r_db02a2dec93dd263": {
+      "text": "This shield won't last forever...!",
+      "status": "imported"
+    },
+    "voice_084:r_d520c6d5298a848d": {
+      "text": "The armor stopped it...!",
+      "status": "imported"
+    },
+    "voice_084:r_099e2458cabf796f": {
+      "text": "You're hardly a threat!",
+      "status": "imported"
+    },
+    "voice_084:r_fd910d714be70870": {
+      "text": "Underestimate this old model and...!",
+      "status": "imported"
+    },
+    "voice_084:r_9736f29b11344ec3": {
+      "text": "That wasn't impossible to dodge...!",
+      "status": "imported"
+    },
+    "voice_084:r_fcd05582aa5c6068": {
+      "text": "A scratch or two means nothing now!",
+      "status": "imported"
+    },
+    "voice_084:r_bece29562818acba": {
+      "text": "Your attack won't stop my momentum!",
+      "status": "imported"
+    },
+    "voice_084:r_494b5da92ed24ecb": {
+      "text": "Cheap tricks are all you're good at!",
+      "status": "imported"
+    },
+    "voice_084:r_a4a5a96f4bd58920": {
+      "text": "That won't break my spirit!",
+      "status": "imported"
+    },
+    "voice_084:r_b57d2d74233f889a": {
+      "text": "A direct hit?!",
+      "status": "imported"
+    },
+    "voice_084:r_cd06d0820d82524b": {
+      "text": "My instincts have gotten dull...!",
+      "status": "imported"
+    },
+    "voice_084:r_c94c6d04be583774": {
+      "text": "Ngh...! That was careless of me!",
+      "status": "imported"
+    },
+    "voice_084:r_e54e2c99ef8297af": {
+      "text": "My way of fighting doesn't work...!?",
+      "status": "imported"
+    },
+    "voice_084:r_f16a3eb0bcaac082": {
+      "text": "Old model or not, I can still...!",
+      "status": "imported"
+    },
+    "voice_084:r_10a408809e512df1": {
+      "text": "Damn you! Don't think this is over!",
+      "status": "imported"
+    },
+    "voice_084:r_bc7b9e308b879dd4": {
+      "text": "I can't keep taking these hits...!",
+      "status": "imported"
+    },
+    "voice_084:r_98902fd3143c393e": {
+      "text": "Power gap\\ncan't be overcome...!",
+      "status": "imported"
+    },
+    "voice_084:r_d907fbd7bc1c4298": {
+      "text": "A moment later and I'd be dead...!",
+      "status": "imported"
+    },
+    "voice_084:r_96b21e3a028dd074": {
+      "text": "They don't hesitate...! A tough foe!",
+      "status": "imported"
+    },
+    "voice_084:r_ce140b5d8e6b7310": {
+      "text": "My controls haven't been taken out!",
+      "status": "imported"
+    },
+    "voice_084:r_0e0335789c5396d7": {
+      "text": "Damn! Not your stepping stone!",
+      "status": "imported"
+    },
+    "voice_084:r_a8e85bd950696403": {
+      "text": "Will a Gundam defeat me again...!",
+      "status": "imported"
+    },
+    "voice_084:r_772c8bc40ab6cb61": {
+      "text": "Like us,\\nGundam's legend survives!",
+      "status": "imported"
+    },
+    "voice_084:r_58dd2826a199ef51": {
+      "text": "This thing...! White Devil or worse!",
+      "status": "imported"
+    },
+    "voice_084:r_aadc0b2442adb93b": {
+      "text": "Gundam! Damn you... Damn you!",
+      "status": "imported"
+    },
+    "voice_084:r_e7a8cd8ed5bc2d1b": {
+      "text": "Strong...! Latest-model power!",
+      "status": "imported"
+    },
+    "voice_084:r_041dd920da4a7c17": {
+      "text": "I can't even beat a fake Gundam?!",
+      "status": "imported"
+    },
+    "voice_084:r_c7f4280cde4605b3": {
+      "text": "Even the GMs have been upgraded...!",
+      "status": "imported"
+    },
+    "voice_084:r_ec349c8ea9511a18": {
+      "text": "I can't fall to\\nspineless Feds...!",
+      "status": "imported"
+    },
+    "voice_084:r_33236ffa3ea95b68": {
+      "text": "C-could that one...!\\nBe a Newtype?!",
+      "status": "imported"
+    },
+    "voice_084:r_689d0b123de71ae0": {
+      "text": "I can't keep up...!\\nCan it be...?!",
+      "status": "imported"
+    },
+    "voice_084:r_84883aa95f63ce32": {
+      "text": "No! That sheer power will crush me!",
+      "status": "imported"
+    },
+    "voice_084:r_25493e978ce8ff16": {
+      "text": "Ngh! That speed is too much for me!",
+      "status": "imported"
+    },
+    "voice_084:r_7316666150e42960": {
+      "text": "I underestimated that small unit...!",
+      "status": "imported"
+    },
+    "voice_084:r_c4f11aa93dc5b668": {
+      "text": "H-have the times really changed...?",
+      "status": "imported"
+    },
+    "voice_084:r_ce1a22dfe3a4d339": {
+      "text": "Power... Drive... Is this youth...?!",
+      "status": "imported"
+    },
+    "voice_084:r_d03018a31e23f1e9": {
+      "text": "O-our firepower is worlds apart!",
+      "status": "imported"
+    },
+    "voice_084:r_279da5f732aa8847": {
+      "text": "Whoa!? Is that thing a monster?!",
+      "status": "imported"
+    },
+    "voice_084:r_97f82e3cb6f70110": {
+      "text": "N-no! I won't let you! I won't!",
+      "status": "imported"
+    },
+    "voice_084:r_c5611d8dd6def96b": {
+      "text": "Will Zeon lose yet again...!?",
+      "status": "imported"
+    },
+    "voice_084:r_6f12cc8ed2732eb5": {
+      "text": "Still moving...! I can still fight!",
+      "status": "imported"
+    },
+    "voice_084:r_7abfc55f8fb62ba7": {
+      "text": "Not yet...!\\nIt's not over yet!",
+      "status": "imported"
+    },
+    "voice_084:r_99e7a66c650b5892": {
+      "text": "My prized mobile suit\\nisn't yours!",
+      "status": "imported"
+    },
+    "voice_084:r_5b2247b5cfbcd7b2": {
+      "text": "If it comes to it, I'll ram you!",
+      "status": "imported"
+    },
+    "voice_084:r_2d7a9c06347582d9": {
+      "text": "If I run, my ten years mean nothing!",
+      "status": "imported"
+    },
+    "voice_084:r_bf953d64c3c7d9b7": {
+      "text": "As long as it moves, I'll fight on!",
+      "status": "imported"
+    },
+    "voice_084:r_e09b933e3e706779": {
+      "text": "My machine and I are worn...! But!",
+      "status": "imported"
+    },
+    "voice_084:r_66236eb99b676e5b": {
+      "text": "No retreat! I'll fight to the end!",
+      "status": "imported"
+    },
+    "voice_084:r_9639a2dbcd2f58ed": {
+      "text": "The rest... is up to you...!",
+      "status": "imported"
+    },
+    "voice_084:r_aeea0893acb93d35": {
+      "text": "Comrade... Carry on my cause...",
+      "status": "imported"
+    },
+    "voice_084:r_b31568654e53487b": {
+      "text": "Thanks for everything, partner...",
+      "status": "imported"
+    },
+    "voice_084:r_2502132569141ea3": {
+      "text": "Looks like I won't make it back...",
+      "status": "imported"
+    },
+    "voice_084:r_1ff312798a52c8eb": {
+      "text": "Waaaaaaaagh!",
+      "status": "imported"
+    },
+    "voice_084:r_fa07d90fca62f593": {
+      "text": "I-is this as far as I go?!",
+      "status": "imported"
+    },
+    "voice_084:r_a25bf2676ecf9d83": {
+      "text": "Glory... to Zeon!",
+      "status": "imported"
+    },
+    "voice_084:r_237a0288b42dce20": {
+      "text": "S-Sieg! Zeoooooon!!",
+      "status": "imported"
+    },
+    "voice_084:r_0556e8a22779ea8e": {
+      "text": "I'll make the first move!",
+      "status": "imported"
+    },
+    "voice_084:r_09d377101a48d92a": {
+      "text": "I'll take them down for certain!",
+      "status": "imported"
+    },
+    "voice_084:r_11517cc7b0494dbf": {
+      "text": "If we concentrate our numbers...!",
+      "status": "imported"
+    },
+    "voice_084:r_b5864501463db244": {
+      "text": "I'll focus on holding them back!",
+      "status": "imported"
+    },
+    "voice_084:r_a88939ea84b4474d": {
+      "text": "Follow me!",
+      "status": "imported"
+    },
+    "voice_084:r_a870d0cf7cc11ec6": {
+      "text": "Target the enemy before us!",
+      "status": "imported"
+    },
+    "voice_084:r_03f6158ef83964f3": {
+      "text": "You'll be fighting me!",
+      "status": "imported"
+    },
+    "voice_084:r_2970a83693cdcc25": {
+      "text": "If only we weren't outnumbered!",
+      "status": "imported"
+    },
+    "voice_084:r_be661448b85d0009": {
+      "text": "I'll start with one!",
+      "status": "imported"
+    },
+    "voice_084:r_958a56c1151cab9e": {
+      "text": "Leave that one to me!",
+      "status": "imported"
+    }
+  }
+}

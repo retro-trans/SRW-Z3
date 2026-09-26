@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ui.weapon_requirements:r_0f01f91c31f8ec5e": {
+      "text": "The following ",
+      "status": "imported"
+    },
+    "ui.weapon_requirements:r_068d7f4170519e1f": {
+      "text": "requirements are not met.",
+      "status": "imported"
+    },
+    "ui.weapon_requirements:r_7c43dd0cfd5d3c49": {
+      "text": "Ammo",
+      "status": "imported"
+    },
+    "ui.weapon_requirements:r_f5c2c45cc55e7e3c": {
+      "text": "EN",
+      "status": "imported"
+    },
+    "ui.weapon_requirements:r_7f8c6e5c5e4e347e": {
+      "text": "Focus",
+      "status": "imported"
+    },
+    "ui.weapon_requirements:r_9fc62866844dfe9a": {
+      "text": "Skill",
+      "status": "imported"
+    },
+    "ui.weapon_requirements:r_dfa93022bbc30980": {
+      "text": "Terrain",
+      "status": "imported"
+    },
+    "ui.weapon_requirements:r_1416360379dea645": {
+      "text": "Range",
+      "status": "imported"
+    },
+    "ui.weapon_requirements:r_07bda9bbd38c277e": {
+      "text": "Use After Moving",
+      "status": "imported"
+    }
+  }
+}

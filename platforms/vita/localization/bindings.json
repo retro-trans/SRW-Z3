@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "adapter": "platforms/vita/build_test.py:load_inputs",
+  "shared_groups": [
+    "stage0001a",
+    "stage0001b_03",
+    "stage0001b_04",
+    "glossary"
+  ],
+  "matching": "event + ordinal + speaker + Japanese fingerprint; no PS3 offsets",
+  "category_adapter": "platforms/vita/category_port.py:Port",
+  "ui_text_hook": {
+    "adapter": "platforms/vita/ui_text.py:prepare",
+    "status": "cpu_tested_candidate_not_runtime_verified",
+    "site": "0x81006e50",
+    "native_sources": ["pinned original EBOOT", "DATA/AIDDATA/AIDDataPack.cpk member0 ASSF", "CommonData/MtData/rpw_data.cpk"],
+    "description_site": "0x810d9dd8",
+    "max_encoded_line_bytes": 256,
+    "keys": 1523,
+    "native_widget_records": 5440,
+    "matching": "Exact whole native font bytes, hash plus full NUL-terminated comparison; UTF8 keys use native Unicode-to-font tables",
+    "shared_groups": ["ui_hook", "ui_utf8", "ui_eboot", "abilities", "spirit_hook", "skill_hook", "ability_hook", "parts_desc_hook", "tutorial_hook", "issue_hook", "trader_hook", "naming_hook", "weapon_effect_hook", "battle_report_hook", "message_class_hook", "unlock_shop_hook", "terrain_all_hook", "deployment_hook", "squad_names_hook", "ui.key_help_labels", "scenario_titles", "ui.episode_heading_hooks", "ui_aiddata", "ui.runtime_names"],
+    "excluded": {"conflicting_keys": 12, "private_glyph_messages": 16, "format_control_messages": 46, "unlocated_messages": 526, "missing_source": 1},
+    "widget_conflict_policy": "Prefer ui_aiddata only when the exact key is a native widget; log all competing IDs. Other conflicting values remain excluded.",
+    "birthday_display": {"message": "ui_aiddata:birthday_format", "adapter": "platforms/vita/ui_text.py:birthday_stub", "month_suffix_call": "0x8106da7e", "day_suffix_call": "0x8106dad6", "preserves": "Native numbers, calendar values, input code and all shared suffix literals"},
+    "layout": "MtV translation precedes splitting; other dynamic fragments, composed episode headings, title textures, centering and clipping remain unverified"
+  },
+  "startup_heading_art": {
+    "adapter": "platforms/vita/startup_art.py:prepare",
+    "archive": "DATA/AIDDATA/AIDDataPack.cpk", "member": 1, "texture": 2,
+    "source_sha256": "d33206f0bf10b45e88ee1b87a58f575241ac9c8e0dca1b4db12e5bf809db360b",
+    "messages": {"ui_aiddata:protagonist_setup_heading": [304,384,208,48], "ui_aiddata:scenario_select_heading": [272,432,240,40]},
+    "status": "source_verified_preview_reviewed_not_packaged_or_runtime_verified"
+  },
+  "verified_in_memory": {
+    "opening_narration": {
+      "adapter": "platforms/vita/opening_narration.py:prepare",
+      "archive": "DATA/STAGE/STG0001a.cpk", "member": 7,
+      "source_sha256": "88c8525bfa287ca31c250c7e767f6259aa995381f831088f01929a5d86dfcc8d",
+      "group": "narration_0001a", "records": 28,
+      "native_record_grid": {"base": 20, "stride": 84, "count": 95, "measured_text_bytes": 52},
+      "matching": "All unique Japanese strings on native grid, ignoring expanded legacy mirrors; no PS3 member or offset reuse",
+      "preserves": "All bytes except replacement text and its NUL terminator, including timing/control fields and record tails",
+      "status": "source_verified_not_packaged_or_runtime_verified"
+    },
+    "stages": {"selector": "platforms/ps3/manifest.py:STAGES", "guard": "Every Vita member matched by full stamped source identity", "members": 201, "records": 42742},
+    "suspend": {"archive": "DATA/STAGE/STG0700.cpk", "member": 1, "group": "suspend_scene", "records": 7, "untranslated_source_records": 865},
+    "libraries": {"archives": ["CommonData/MtData/MtZkn_KW.cpk", "CommonData/MtData/MtZkn_Pt.cpk", "CommonData/MtData/MtZkn_Rt.cpk"], "entries": [141, 408, 253], "guard": "Native source audit + complete data equality + parsed field round trips"},
+    "keywords": {"archive": "CommonData/MtData/MtV_all_keyword_def.cpk", "entries": 141, "guard": "Native source audit + data equality + four fields independently followed for every ID"},
+    "gameplay_terms": {"archive": "CommonData/MtData/rpw_data.cpk", "translated_strings": 1685, "pointer_overrides": 953, "guard": "Native source audit + data equality + original ordinals, semantic NULLs and binary non-pointer words preserved"},
+    "battle_subtitles": {"file": "DATA/BTLC/SRVC.BIN", "records": 31666, "blocks": 276, "native_table": {"segment": 1, "relative_offset": 433180, "entries": 277, "endian": "little"}, "guard": "Full native table independently located, source subtitles matched, cues verified, segment-relative executable edit and inverse"}
+  },
+  "pending_categories": ["Menu/UI native readers, relocation and placement", "Gameplay effect/help descriptions", "Stage-title rendering", "Map labels and other text sprites", "Approved logo conversion to native Vita art", "Remaining suspend scenes", "Native runtime/layout validation for every adapted category"],
+  "coverage_note": "Counts describe checked shared content, not a complete inventory of every translatable Vita asset. The broad adapter writes review JSON only; it is not connected to the old 244-record ZIP builder.",
+  "vwf": "Source/development candidate only; not runtime verified"
+}

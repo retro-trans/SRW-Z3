@@ -1,0 +1,402 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0040_04:r_caaab7bad760e16d": {
+      "text": "$$カグラ$$\n「Where are you hiding, damn woman!\n　Get out here already!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_99b162aa6aa286a2": {
+      "text": "Altair Soldier\n「Lord $$カグラ$$...!\n　Isn't Lord $$ジン$$ also in this town...!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_58fb02434a1c40b2": {
+      "text": "$$カグラ$$\n「Like I care!\n　If $$ジン$$ took a stray shot,\n　that's just how it is!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_1c0f94acd5a8a143": {
+      "text": "$$スオミ$$\n「Abductors!\n　Deploying across $$アクエリア市$$!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_1263541f4071624e": {
+      "text": "$$クレア$$\n「No need to worry.\n　They have arrived」",
+      "status": "imported"
+    },
+    "stage0040_04:r_3bc300bbdc277d82": {
+      "text": "$$ゼシカ$$\n「That beast is back again!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_38762a09460d8b6b": {
+      "text": "$$ミコノ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0040_04:r_7ab28e70b4d4f641": {
+      "text": "$$ユノハ$$\n「Let's do our best, $$ミコノ$$...!\n　To protect $$アクエリア市$$ too!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$シンジ$$\n「That's right!\n　We can't lose the fight in our hearts first!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_ec335e69f984b8b3": {
+      "text": "$$ミコノ$$\n「$$ユノハ$$, $$シンジ$$...」",
+      "status": "imported"
+    },
+    "stage0040_04:r_0abcaf0c31978670": {
+      "text": "$$ミサト$$\n「Listen to them talk now, those two」",
+      "status": "imported"
+    },
+    "stage0040_04:r_1d6bc48b7f246730": {
+      "text": "$$アルト$$\n「We can't afford to lose either!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_1af20fccc3c53cfc": {
+      "text": "$$オズマ$$\n「Skull Leader to all units!\n　The enemy's core is that beast bastard!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_f951916061232dcd": {
+      "text": "$$葵$$\n（That name... it gives me mixed feelings...）",
+      "status": "imported"
+    },
+    "stage0040_04:r_4d863c3fb88a4c39": {
+      "text": "$$アムロ$$\n「To keep the damage to the city from spreading,\n　let's take him down quickly」",
+      "status": "imported"
+    },
+    "stage0040_04:r_44f4742c3dcce39a": {
+      "text": "$$アマタ$$\n「Roger that!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_9e701cdeb3842c21": {
+      "text": "$$カグラ$$\n「Damn it!\n　Why can't we beat them!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_6fd81f4abebe60c5": {
+      "text": "$$ミカゲ$$\n「Looks like you're struggling, $$カグラ$$」",
+      "status": "imported"
+    },
+    "stage0040_04:r_da2132b5038ec737": {
+      "text": "$$カグラ$$\n「Shut up and watch, $$ミカゲ$$!\n　I'm not beaten yet!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_495d61d3ec7e16f2": {
+      "text": "$$ミカゲ$$\n「How cute, that bravado of yours.\n　Well then, allow me to help you」",
+      "status": "imported"
+    },
+    "stage0040_04:r_5cd353758cfe474d": {
+      "text": "$$キャシー$$\n「Dimensional boundary distortion confirmed!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_a653c8dec4c0f06f": {
+      "text": "$$ボビー$$\n「Abductor reinforcements are coming!?」",
+      "status": "imported"
+    },
+    "stage0040_04:r_86d493e37a9799a7": {
+      "text": "$$キャシー$$\n「It's not a dimensional gate appearing...!\n　This is a defold reaction!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_09d0fcc600cdd3df": {
+      "text": "$$アルト$$\n「Vajra!?」",
+      "status": "imported"
+    },
+    "stage0040_04:r_182faded068c15ed": {
+      "text": "$$カグラ$$\n「What are you thinking, $$ミカゲ$$!\n　What is that bug!?」",
+      "status": "imported"
+    },
+    "stage0040_04:r_9c206d19bfda4bd5": {
+      "text": "$$ミカゲ$$\n「That is the trans-dimensional life form...\n　It exists since the universe's birth, to witness its end」",
+      "status": "imported"
+    },
+    "stage0040_04:r_6e558bc69acf5bf3": {
+      "text": "$$ヴィラル$$\n「It strikes indiscriminately!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_d60d0818e965232f": {
+      "text": "$$シモン$$\n「What's going on, $$アルト$$!?\n　Didn't the Vajra come to understand humans\n　through $$ランカ$$ and $$シェリル$$'s song!?」",
+      "status": "imported"
+    },
+    "stage0040_04:r_5b23687574286204": {
+      "text": "$$アルト$$\n「Even we don't really understand it!\n　Even $$ランカ$$'s song isn't getting through to them!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_6fd86c96891ea942": {
+      "text": "$$ダリー$$\n「But, if this keeps up, the city...!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_43e4e548c0b28376": {
+      "text": "$$ギミー$$\n「Guess that means we gotta fight!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_d80a9688790ed583": {
+      "text": "$$ミカゲ$$\n「Hahahahaha, what lovely chaos.\n　This will be a sight to see」",
+      "status": "imported"
+    },
+    "stage0040_04:r_708bea61e3c43ada": {
+      "text": "$$カグラ$$\n「$$ミカゲ$$!!\n　Youuu baaastard!!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_7b6f159eeaf4de0f": {
+      "text": "$$アマタ$$\n「He... went back...」",
+      "status": "imported"
+    },
+    "stage0040_04:r_0827963cfd706e8d": {
+      "text": "$$ミコノ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0040_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$アマタ$$\n（$$ミコノ$$...\n　why do you look so sad...）",
+      "status": "imported"
+    },
+    "stage0040_04:r_3f4035fd9db81258": {
+      "text": "$$アマタ$$\n（What happened between you and him...?）",
+      "status": "imported"
+    },
+    "stage0040_04:r_567b361a454c4b73": {
+      "text": "$$赤木$$\n「This isn't the time to chase him!\n　First, we protect the city!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_d22851aaafbbf8fc": {
+      "text": "$$アルト$$\n「Vajra...!\n　Is there nothing we can do!?」",
+      "status": "imported"
+    },
+    "stage0040_04:r_352534f64413d954": {
+      "text": "$$カグラ$$\n「Tch!\n　Not bad, are you!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_79f2664edb1af798": {
+      "text": "$$ミカゲ$$\n「Looks like you're struggling, $$カグラ$$」",
+      "status": "imported"
+    },
+    "stage0040_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$カグラ$$\n「Shut up and watch, $$ミカゲ$$!\n　I'm not beaten yet!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_1c5aa0d15ae24846": {
+      "text": "$$ミカゲ$$\n「How cute, that bravado of yours.\n　Well then, allow me to help you」",
+      "status": "imported"
+    },
+    "stage0040_04:r_53bb64ee17750ee2": {
+      "text": "$$キャシー$$\n「Dimensional boundary distortion confirmed!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_7a7add80fde475ba": {
+      "text": "$$ボビー$$\n「Abductor reinforcements are coming!?」",
+      "status": "imported"
+    },
+    "stage0040_04:r_b2befefdbed1393d": {
+      "text": "$$キャシー$$\n「It's not a dimensional gate appearing...!\n　This is a defold reaction!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_2103f6df2ea2e447": {
+      "text": "$$アルト$$\n「Vajra!?」",
+      "status": "imported"
+    },
+    "stage0040_04:r_a12e3e130d896ff7": {
+      "text": "$$カグラ$$\n「What are you thinking, $$ミカゲ$$!\n　What is that bug!?」",
+      "status": "imported"
+    },
+    "stage0040_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ミカゲ$$\n「That is the trans-dimensional life form...\n　It exists since the universe's birth, to witness its end」",
+      "status": "imported"
+    },
+    "stage0040_04:r_91bf33c27ad39f0a": {
+      "text": "$$ヴィラル$$\n「It strikes indiscriminately!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_ee220318b96ab538": {
+      "text": "$$シモン$$\n「What's going on, $$アルト$$!?\n　Didn't the Vajra come to understand humans\n　through $$ランカ$$ and $$シェリル$$'s song!?」",
+      "status": "imported"
+    },
+    "stage0040_04:r_ce1b55e526b6277a": {
+      "text": "$$アルト$$\n「Even we don't really understand it!\n　Even $$ランカ$$'s song isn't getting through to them!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_c304df6888eb78f7": {
+      "text": "$$ダリー$$\n「But, if this keeps up, the city...!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_c26958634526e597": {
+      "text": "$$ギミー$$\n「Guess that means we gotta fight!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_cdb750c9d380881a": {
+      "text": "$$ミカゲ$$\n「Hahahahaha, what lovely chaos.\n　This will be a sight to see」",
+      "status": "imported"
+    },
+    "stage0040_04:r_95fda74613c97b39": {
+      "text": "$$ミカゲ$$\n「Now then, $$カグラ$$... fight to your heart's content」",
+      "status": "imported"
+    },
+    "stage0040_04:r_1956994937f8171e": {
+      "text": "$$カグラ$$\n「Damn it all!\n　Fine, then! Both them and the bugs,\n　I'll smash 'em all at once!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_48f49f6728c15612": {
+      "text": "$$アマタ$$\n「Here it comes...!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$赤木$$\n「This isn't the time to focus only on him!\n　First, we protect the city!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_f02c37d91387d0ad": {
+      "text": "$$アルト$$\n「Vajra...!\n　Is there nothing we can do!?」",
+      "status": "imported"
+    },
+    "stage0040_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$田中司令$$\n「A battle royale between Abductors and Vajra...\n　That was quite the tough one」",
+      "status": "imported"
+    },
+    "stage0040_04:r_9796b3efa401a303": {
+      "text": "$$Ｆ．Ｓ．$$\n「$$ＷＩＬＬ$$...\n　What was the situation when the Vajra appeared?」",
+      "status": "imported"
+    },
+    "stage0040_04:r_643b6eebfc0186b3": {
+      "text": "$$ＷＩＬＬ$$\n「An unnatural boundary distortion was confirmed\n　right before, and the Vajra folded in on it」",
+      "status": "imported"
+    },
+    "stage0040_04:r_291280e5f7eb9d70": {
+      "text": "$$Ｆ．Ｓ．$$\n「...Is there a chance the Vajra itself\n　was folded in by someone's hand...?」",
+      "status": "imported"
+    },
+    "stage0040_04:r_32eb462c1b4999cb": {
+      "text": "$$ＷＩＬＬ$$\n「Impossible」",
+      "status": "imported"
+    },
+    "stage0040_04:r_1f4337d6d393fc37": {
+      "text": "$$ＷＩＬＬ$$\n「Distorting a boundary this stable, let alone\n　summoning Vajra that would be in a parallel\n　world, is inconceivable」",
+      "status": "imported"
+    },
+    "stage0040_04:r_4740e748fae085ee": {
+      "text": "$$Ｆ．Ｓ．$$\n「We must also account for the possibility\n　that such an inconceivable enemy exists...」",
+      "status": "imported"
+    },
+    "stage0040_04:r_b76524cd840e1d37": {
+      "text": "$$オズマ$$\n「Good work out there, everyone.\n　Return to base at once」",
+      "status": "imported"
+    },
+    "stage0040_04:r_730ffe18400abfc2": {
+      "text": "$$アルト$$\n「Let's hurry, everyone」",
+      "status": "imported"
+    },
+    "stage0040_04:r_ffe0fca26da5cd38": {
+      "text": "$$アマタ$$\n「Hurry... where to?」",
+      "status": "imported"
+    },
+    "stage0040_04:r_bfb27f9eb2f7073e": {
+      "text": "$n\n「Obviously.\n　Beach cleanup」",
+      "status": "imported"
+    },
+    "stage0040_04:r_859dfa27bcaafe30": {
+      "text": "$$カグラ$$\n「Damn it!\n　Why can't we beat them!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_71ebf05996a4b0fd": {
+      "text": "$$ミカゲ$$\n「That's simple, $$カグラ$$...\n　it's because you're weak」",
+      "status": "imported"
+    },
+    "stage0040_04:r_6214c11b1bca811e": {
+      "text": "$$カグラ$$\n「$$ミカゲ$$!\n　You baaastard!!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_8eaf6f3098ffed12": {
+      "text": "$$カイエン$$\n「They retreated...」",
+      "status": "imported"
+    },
+    "stage0040_04:r_cf507214fe955d75": {
+      "text": "$$ミコノ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0040_04:r_2113dcbabdfc758a": {
+      "text": "$$アマタ$$\n（$$ミコノ$$...\n　why do you look so sad...）",
+      "status": "imported"
+    },
+    "stage0040_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$アマタ$$\n（What happened between you and him...?）",
+      "status": "imported"
+    },
+    "stage0040_04:r_6a74519e1fc29c4b": {
+      "text": "$$カグラ$$\n「Move it, scentless man!\n　I don't have time for you!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_5b992878fee054b5": {
+      "text": "$$アマタ$$\n「You're after $$ミコノ$$ again!?」",
+      "status": "imported"
+    },
+    "stage0040_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$カグラ$$\n「Of course!\n　That damn woman is mine!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_4a14ec0c511c7f0d": {
+      "text": "$$アマタ$$\n「Don't decide that on your own!\n　$$ミコノ$$ is... $$ミコノ$$ is...!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_20cf167c0ec0d4d5": {
+      "text": "$$カグラ$$\n「Interesting!\n　So you're fired up now!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_b591d812c96c6c99": {
+      "text": "$$カグラ$$\n「Then I'll teach you!\n　Just how powerless and useless you really are!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_e350fa099c1ab072": {
+      "text": "$$カグラ$$\n「Found you, damn woman!\n　I came here to kill you\n　with my own hands!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ミコノ$$\n「I'm sorry...\n　I... to you...」",
+      "status": "imported"
+    },
+    "stage0040_04:r_c33bd700553abf91": {
+      "text": "$$アマタ$$\n「$$ミコノ$$...」",
+      "status": "imported"
+    },
+    "stage0040_04:r_feee5c91826230e1": {
+      "text": "$$カグラ$$\n「Fine, damn woman!\n　I'll hear you out plenty later!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_bccc48e1964ad22d": {
+      "text": "$$アマタ$$\n「Fight, $$ミコノ$$!\n　Reject him!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_f8736aaaa216c766": {
+      "text": "$$ミコノ$$\n「But...」",
+      "status": "imported"
+    },
+    "stage0040_04:r_d1ec2522c87c361d": {
+      "text": "$$アマタ$$\n「You're a member of Element!\n　And he's our enemy!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_3599f0a4343fd95c": {
+      "text": "$$ミコノ$$\n「Enemy...」",
+      "status": "imported"
+    },
+    "stage0040_04:r_3bc7834a5bf3ee76": {
+      "text": "$$カグラ$$\n「Gonna resist, damn woman!?\n　But it's pointless, and I'll show you why!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_366814efdc8b5800": {
+      "text": "$$ミコノ$$\n「I... I'll fight too...!\n　Together with $$アマタ$$ and the others...!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_9be1a4c10bb62515": {
+      "text": "$$アルト$$\n（I believe we'll understand each other someday...!\n　But for now...!）",
+      "status": "imported"
+    },
+    "stage0040_04:r_94a88c90e557e16e": {
+      "text": "$$アルト$$\n「Right now, my job is protecting people!\n　So I'll fight!!」",
+      "status": "imported"
+    },
+    "stage0040_04:r_1c208ca0cbf26f28": {
+      "text": "$$シンジ$$\n（The people who live in this city...\n　$$聖天使学園$$ is waiting for our help...）",
+      "status": "imported"
+    },
+    "stage0040_04:r_5b7ee307a700171a": {
+      "text": "$$シンジ$$\n（Just wait, $$ジン$$...!\n　We'll definitely protect everyone...）",
+      "status": "imported"
+    },
+    "stage0040_04:r_8d8f065c932da30a": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "activation_prompts:transam_time": {
+      "text": "Once 2 turns have passed,",
+      "status": "translated"
+    },
+    "activation_prompts:transam_end": {
+      "text": "Trans-Am will end automatically.",
+      "status": "translated"
+    },
+    "activation_prompts:transam_once": {
+      "text": "It cannot be activated again on this map.",
+      "status": "translated"
+    },
+    "activation_prompts:transam_confirm": {
+      "text": "Activate Trans-Am?",
+      "status": "translated"
+    },
+    "activation_prompts:ntd_time": {
+      "text": "Once 5 turns have passed,",
+      "status": "translated"
+    },
+    "activation_prompts:ntd_end": {
+      "text": "Destroy Mode will end automatically.",
+      "status": "translated"
+    },
+    "activation_prompts:ntd_once": {
+      "text": "NT-D cannot be activated again on this map.",
+      "status": "translated"
+    },
+    "activation_prompts:ntd_confirm": {
+      "text": "Activate NT-D?",
+      "status": "translated"
+    },
+    "activation_prompts:gai_time": {
+      "text": "Once 1 turn has passed,",
+      "status": "translated"
+    },
+    "activation_prompts:gai_end": {
+      "text": "GAI Mode will end automatically.",
+      "status": "translated"
+    },
+    "activation_prompts:gai_once": {
+      "text": "It cannot be activated again on this map.",
+      "status": "translated"
+    },
+    "activation_prompts:gai_confirm": {
+      "text": "Activate GAI Mode?",
+      "status": "translated"
+    },
+    "activation_prompts:gai_permanent": {
+      "text": "Once GAI Mode is activated,",
+      "status": "translated"
+    },
+    "activation_prompts:genion_return": {
+      "text": "you cannot return to $$ジェニオン$$ on this map.",
+      "status": "translated"
+    },
+    "activation_prompts:tengen_start": {
+      "text": "Once you transform into Tengen Toppa,",
+      "status": "translated"
+    },
+    "activation_prompts:tengen_return": {
+      "text": "you cannot return to $$超銀河グレンラガン$$ on this map.",
+      "status": "translated"
+    },
+    "activation_prompts:tengen_confirm": {
+      "text": "Transform into Tengen Toppa?",
+      "status": "translated"
+    },
+    "activation_prompts:skill_upgrade": {
+      "text": "」 after upgrading.",
+      "status": "translated"
+    },
+    "activation_prompts:skill_plus": {
+      "text": "+1」 will be learned.",
+      "status": "translated"
+    },
+    "activation_prompts:skill_new": {
+      "text": "」 will be learned.",
+      "status": "translated"
+    },
+    "activation_prompts:skill_overwrite": {
+      "text": "」 will be overwritten and lost.",
+      "status": "translated"
+    }
+  }
+}

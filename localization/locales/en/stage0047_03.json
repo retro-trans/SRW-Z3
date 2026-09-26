@@ -1,0 +1,1510 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0047_03:r_caaab7bad760e16d": {
+      "text": "Laboratory",
+      "status": "imported"
+    },
+    "stage0047_03:r_99b162aa6aa286a2": {
+      "text": "Laboratory",
+      "status": "imported"
+    },
+    "stage0047_03:r_58fb02434a1c40b2": {
+      "text": "Laboratory",
+      "status": "imported"
+    },
+    "stage0047_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　\n　　　　　　～ $$ミスリル$$-affiliated Research Facility ～",
+      "status": "imported"
+    },
+    "stage0047_03:r_1263541f4071624e": {
+      "text": "$$トライア$$\n「Long time no see, Captain $$テッサ$$.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_3bc300bbdc277d82": {
+      "text": "$$テッサ$$\n「Thank you for taking the trouble to come,\n　Dr. $$トライア$$.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_38762a09460d8b6b": {
+      "text": "$$トライア$$\n「Don't worry about it.\n　I wanted to cross-check data with\n　this research group here too.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_7ab28e70b4d4f641": {
+      "text": "$$トライア$$\n「Besides, this is a serious matter.\n　It's no time to complain about the hassle.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$テッサ$$\n「Then...?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ec335e69f984b8b3": {
+      "text": "$$トライア$$\n「Unfortunately, it looks like the result will be\n　as we guessed. Even as a side effect of the\n　boundary stabilizing, it's nothing to laugh at.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_0abcaf0c31978670": {
+      "text": "$$トライア$$\n「The time limit is about 4 months...\n　By then the graph will be completely flat.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_1d6bc48b7f246730": {
+      "text": "$$テッサ$$\n「...Have you reported this anywhere?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_1af20fccc3c53cfc": {
+      "text": "$$トライア$$\n「Even I have my sense of honor.\n　That's why my sponsor hears it first, like this.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_f951916061232dcd": {
+      "text": "$$テッサ$$\n「Then this information is known only to\n　a few of us within $$ミスリル$$\n　and your research group, correct?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_4d863c3fb88a4c39": {
+      "text": "$$トライア$$\n「Well, yes.\n　There aren't many people studying\n　hyperspace physics in the first place.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_44f4742c3dcce39a": {
+      "text": "$$トライア$$\n「But I doubt we can keep hiding this forever.\n　More people will start to sense something's off.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_9e701cdeb3842c21": {
+      "text": "$$トライア$$\n「Besides, in four months everyone\n　will know about it anyway.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_6fd81f4abebe60c5": {
+      "text": "$$テッサ$$\n「I understand that much.\n　I intend to follow the proper steps quickly\n　and report it to the Federation $$大統領$$.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_da2132b5038ec737": {
+      "text": "$$トライア$$\n「Well... even the $$大統領$$\n　probably can't do anything about it...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_495d61d3ec7e16f2": {
+      "text": "$$テッサ$$\n「The $$新世時空震動$$...\n　I never imagined it would bring this...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_5cd353758cfe474d": {
+      "text": "$$トライア$$\n「Sorry to interrupt your brooding, but\n　how did the investigation I asked for go?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_a653c8dec4c0f06f": {
+      "text": "$$テッサ$$\n「As for this thing you call the $$スフィア$$,\n　we found no matching data.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_86d493e37a9799a7": {
+      "text": "$$トライア$$\n「I see...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_09d0fcc600cdd3df": {
+      "text": "$$テッサ$$\n「What in the world is this $$スフィア$$...?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_182faded068c15ed": {
+      "text": "$$トライア$$\n「That's the thing... I don't know either.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_9c206d19bfda4bd5": {
+      "text": "$$テッサ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_6e558bc69acf5bf3": {
+      "text": "$$トライア$$\n「Diverting energy from another dimension\n　to obtain enormous output...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d60d0818e965232f": {
+      "text": "$$テッサ$$\n「What's known as $$次元力$$, then.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_5b23687574286204": {
+      "text": "$$トライア$$\n「Confirming the phenomenon is one thing, but\n　we've only just begun researching how to use it,\n　and there's nothing concrete to show yet...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_6fd86c96891ea942": {
+      "text": "$$トライア$$\n「While building that theory,\n　a word just popped into my head...\n　That's the $$スフィア$$.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_43e4e548c0b28376": {
+      "text": "$$テッサ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d80a9688790ed583": {
+      "text": "$$トライア$$\n「I don't quite understand the logic, but\n　I think it'll be the key to future research.\n　Though nothing but that word comes to mind.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_708bea61e3c43ada": {
+      "text": "$$テッサ$$\n（The way it manifests resembles a $$ウィスパード$$'s...\n　Dr. $$トライア$$ never showed any aptitude\n　like that before...）",
+      "status": "imported"
+    },
+    "stage0047_03:r_7b6f159eeaf4de0f": {
+      "text": "$$トライア$$\n「Well, never mind...\n　If there's no result, just forget about this one.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_0827963cfd706e8d": {
+      "text": "$$トライア$$\n「So, what about the other one?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$テッサ$$\n「I've compiled a report on how\n　《$$カルロス$$》 Axion Jr. organized\n　《$$新帝国インペリウム$$》.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_3f4035fd9db81258": {
+      "text": "$$テッサ$$\n「If you read this,\n　I think you'll understand the details.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_567b361a454c4b73": {
+      "text": "$$トライア$$\n「As expected of $$ミスリル$$.\n　This helps a lot.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d22851aaafbbf8fc": {
+      "text": "$$テッサ$$\n「...I hear you and 《$$カルロス$$》 Axion Jr.\n　were personally acquainted, Doctor.\n　Does this request relate to that?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_352534f64413d954": {
+      "text": "$$トライア$$\n「Well, yes...\n　Sometimes between research, looking back,\n　his smirking face comes to mind...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_79f2664edb1af798": {
+      "text": "$$トライア$$\n「And then I stop understanding...\n　just what that fool was fighting...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$テッサ$$\n「I understand the $$新帝国インペリウム$$ was founded\n　to overthrow the old order, but...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_1c5aa0d15ae24846": {
+      "text": "$$トライア$$\n「Then Celestial Being or the Black Knights\n　would've been enough, I'd think...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_53bb64ee17750ee2": {
+      "text": "$$トライア$$\n「What that guy was fighting for...\n　If there's a reason behind it, I want to know.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_7a7add80fde475ba": {
+      "text": "$$テッサ$$\n「I don't know if this report\n　will help with that, but\n　we'll keep investigating regardless.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b2befefdbed1393d": {
+      "text": "$$トライア$$\n「Sorry about that.\n　Even though the world may have bigger problems.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_2103f6df2ea2e447": {
+      "text": "$$テッサ$$\n「No...\n　Your words gave me something to think about too.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_a12e3e130d896ff7": {
+      "text": "$$テッサ$$\n「I'll take my leave now, then.\n　If you're going to read the report, Doctor,\n　please feel free to use this room.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b6f7b219eb4bd64b": {
+      "text": "$$トライア$$\n「I'll do that.\n　Looks like there's a fair amount to get through.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_91bf33c27ad39f0a": {
+      "text": "$$テッサ$$\n「As for that matter... the $$エタニティ・フラット$$,\n　I intend to act on it swiftly.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ee220318b96ab538": {
+      "text": "$$トライア$$\n「Please do.\n　Even I find that kind of eternity\n　pretty horrifying.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ce1b55e526b6277a": {
+      "text": "$$テッサ$$\n「Well then...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_c304df6888eb78f7": {
+      "text": "$$トライア$$\n「$$エタニティ・フラット$$...\n　In a way, it's the end of human history...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_c26958634526e597": {
+      "text": "$$トライア$$\n「That $$スフィア$$ must be the key to a breakthrough.\n　Just a baseless hunch, though...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_cdb750c9d380881a": {
+      "text": "$$トライア$$\n「...There it is again...\n　Thinking about the $$スフィア$$ gives me a headache...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_95fda74613c97b39": {
+      "text": "$$トライア$$\n「Because of it, I can't remember...\n　someone precious, deep down in my heart...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_1956994937f8171e": {
+      "text": "$$ラー・カイラム$$ Hangar",
+      "status": "imported"
+    },
+    "stage0047_03:r_48f49f6728c15612": {
+      "text": "$$ラー・カイラム$$ Hangar",
+      "status": "imported"
+    },
+    "stage0047_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ラー・カイラム$$ Hangar",
+      "status": "imported"
+    },
+    "stage0047_03:r_f02c37d91387d0ad": {
+      "text": "　\n　\n　　　　　　～ $$ラー・カイラム$$ Hangar ～",
+      "status": "imported"
+    },
+    "stage0047_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$ノイン$$\n「...Everyone's here, right?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_9796b3efa401a303": {
+      "text": "$$デュオ$$\n「Geez, what's this about...\n　and on my day off, too...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_643b6eebfc0186b3": {
+      "text": "$$カトル$$\n「Calling us in on an emergency basis,\n　did something happen?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_291280e5f7eb9d70": {
+      "text": "$$ノイン$$\n「To be precise, I want you to prevent\n　an incident that's about to happen.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_32eb462c1b4999cb": {
+      "text": "$$ノイン$$\n「This mission was requested directly by\n　Commander $$レディ・アン$$ of $$プリベンター$$.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_1f4337d6d393fc37": {
+      "text": "$$トロワ$$\n「Some sort of VIP protection detail?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_4740e748fae085ee": {
+      "text": "$$ヒルデ$$\n「If so, I'd think $$ゼクス$$ would suit better...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b76524cd840e1d37": {
+      "text": "$$ゼクス$$\n「Unfortunately, I'm not the one for this.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_730ffe18400abfc2": {
+      "text": "$$デュオ$$\n「Don't get it...\n　Leaving a job even a guy like you gives up on\n　to the rest of us.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ffe0fca26da5cd38": {
+      "text": "$$カトル$$\n「$$ノイン$$... what is this mission?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_bfb27f9eb2f7073e": {
+      "text": "$$ノイン$$\n「At Jindai High, you'll be guarding\n　the $$トゥウィンクルプロジェクト$$.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_859dfa27bcaafe30": {
+      "text": "$$デュオ$$\n「So we're guarding $$シェリル$$ and $$ランカ$$...!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_71ebf05996a4b0fd": {
+      "text": "$$トロワ$$\n「I see...\n　Babysitting troublemakers, then.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_6214c11b1bca811e": {
+      "text": "$$ヒルデ$$\n「No wonder $$ゼクス$$ wanted no part of it...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_8eaf6f3098ffed12": {
+      "text": "$$ノイン$$\n「Operation details will be given on-site.\n　But understand, this isn't a game.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_cf507214fe955d75": {
+      "text": "$$ヒイロ$$\n「Mission, understood.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_2113dcbabdfc758a": {
+      "text": "$$デュオ$$\n（Yeah, right. I smell more chaos coming...）",
+      "status": "imported"
+    },
+    "stage0047_03:r_4b0e43ba6a5f2f5b": {
+      "text": "Schoolyard",
+      "status": "imported"
+    },
+    "stage0047_03:r_6a74519e1fc29c4b": {
+      "text": "Schoolyard",
+      "status": "imported"
+    },
+    "stage0047_03:r_5b992878fee054b5": {
+      "text": "Schoolyard",
+      "status": "imported"
+    },
+    "stage0047_03:r_95a3dd16c2c4cc3e": {
+      "text": "　\n　\n　　　　　　～ Jindai High, Back Hill ～",
+      "status": "imported"
+    },
+    "stage0047_03:r_4a14ec0c511c7f0d": {
+      "text": "$$シュレード$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0047_03:r_20cf167c0ec0d4d5": {
+      "text": "$$カイエン$$\n「So you were here.\n　Everyone's gathered in the clubroom.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b591d812c96c6c99": {
+      "text": "$$シュレード$$\n「Got it...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_e350fa099c1ab072": {
+      "text": "$$カイエン$$\n「Cicadas, huh...\n　Guess it's that season already.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$シュレード$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_c33bd700553abf91": {
+      "text": "$$カイエン$$\n「Still, they never get tired of singing.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_feee5c91826230e1": {
+      "text": "$$シュレード$$\n「They spend years underground,\n　then sing away their last week, life on the line...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_bccc48e1964ad22d": {
+      "text": "$$シュレード$$\n「Just like me, huh...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_f8736aaaa216c766": {
+      "text": "$$カイエン$$\n「$$シュレード$$...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d1ec2522c87c361d": {
+      "text": "$$シュレード$$\n「...Forget I said that.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_3599f0a4343fd95c": {
+      "text": "$$カイエン$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0047_03:r_3bc7834a5bf3ee76": {
+      "text": "Clubroom",
+      "status": "imported"
+    },
+    "stage0047_03:r_366814efdc8b5800": {
+      "text": "Clubroom",
+      "status": "imported"
+    },
+    "stage0047_03:r_9be1a4c10bb62515": {
+      "text": "Clubroom",
+      "status": "imported"
+    },
+    "stage0047_03:r_94a88c90e557e16e": {
+      "text": "　\n　　\n　　　　　　～ Volunteer Club, Clubroom ～",
+      "status": "imported"
+    },
+    "stage0047_03:r_1c208ca0cbf26f28": {
+      "text": "$$かなめ$$\n「The Galactic Fairy and the hyperspace\n　Cinderella are coming to visit our school!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_5b7ee307a700171a": {
+      "text": "$$アルト$$\n「I just found out by $$メール$$ myself.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_8d8f065c932da30a": {
+      "text": "$$アンディ$$\n「Whoa!!\n　A super popular artist paying us\n　an incognito visit on their day off!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_f5432119677514f7": {
+      "text": "$$モロイ$$\n「Hm... this gets me fired up...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_4e5c8e989c4a7691": {
+      "text": "$$アルト$$\n「This isn't the time to be laid-back!\n　There's no way those two, especially $$シェリル$$,\n　can stay incognito!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_adec86483b13599a": {
+      "text": "$$アルト$$\n「And I was going to eat cold ramen at\n　'Niang Niang' on my way home today...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_2cf701bbcde3ec13": {
+      "text": "$n\n「Calm down, $$アルト$$.\n　Think about how they just want to enjoy\n　their day off too.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_c17c58fdba72005e": {
+      "text": "$$アルト$$\n「Then you deal with it.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_1fe8564d2b959317": {
+      "text": "$n\n「Refused!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_f527e012803f7f1c": {
+      "text": "$$ミシェル$$\n「He said it flat out.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_4b1247bd3ca4905d": {
+      "text": "$$ルカ$$\n「Would this also be the Grave Pit Drill's doing...?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_00c55e25f87b71d0": {
+      "text": "$$アルト$$\n「Damn it...!\n　So he's learned to bluff his way through!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_338f3b27e51dcc41": {
+      "text": "$n\n「It's a necessary skill for surviving\n　in this Volunteer Club.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d91d4bc2d52b61c4": {
+      "text": "$$甲児$$\n「Anyway!\n　This could throw the whole school into panic!\n　Let's figure out a plan!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_0c8ea89b07432421": {
+      "text": "$$宗介$$\n「Shall $n and I set traps\n　and capture them?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_4dbfba00ba7744ee": {
+      "text": "$$かなめ$$\n「Hey, you!\n　You want the fans to kill you!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_be100a32b731708d": {
+      "text": "$n\n「No need to worry, Chidori.\n　I'll use a type that keeps things peaceful.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_702f82442fcec8a9": {
+      "text": "$$かなめ$$\n「That's not the point!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b1e38da4e8775ffe": {
+      "text": "$$カレン$$\n「Calm down too, $$かなめ$$!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$かなめ$$\n「How am I supposed to stay calm!\n　If this school panics over the $$アルト$$-centered\n　Bermuda Triangle, what'll you do!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_2acc8ade0cc6dfa2": {
+      "text": "$n\n「Most Bermuda Triangle incidents have\n　had proper causes identified by recent research,\n　so treating them as paranormal is wrong...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_3dad695c99e9e052": {
+      "text": "$$かなめ$$\n「Nobody asked for that explanation!!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_66d4ae3a21caf881": {
+      "text": "$n\n「...Sorry...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_0c18da7b3a37825d": {
+      "text": "$$宗介$$\n「Someone seems to have arrived.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_63249745ffae61b6": {
+      "text": "$$アルト$$\n「Miss $$スズネ$$ works out well.\n　Let's talk to her about $$シェリル$$ and the others」",
+      "status": "imported"
+    },
+    "stage0047_03:r_abdb034ae8509702": {
+      "text": "$$シェリル$$\n「Al... to...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_3ff2e21207d1d1d3": {
+      "text": "$$ランカ$$\n「Sorry to intrude」",
+      "status": "imported"
+    },
+    "stage0047_03:r_e51ecf6d6aa42e75": {
+      "text": "$$アルト$$\n「$$シェリル$$! $$ランカ$$, too!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_47ddabb7b60131c2": {
+      "text": "$$シェリル$$\n「Just as promised, I've arrived」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b025267f22788233": {
+      "text": "$$アルト$$\n「I-it's still lunch break!\n　You can't just show up now...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ec1a06a7023bf72c": {
+      "text": "$$シェリル$$\n「Oh? $$アルト$$'s school starts summer\n　break tomorrow, so there shouldn't be\n　any classes this afternoon?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_8805f96e52aaa462": {
+      "text": "$$かなめ$$\n「How do you know that!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_124591cb154fae64": {
+      "text": "$$ランカ$$\n「$$正太郎$$ told me about it.\n　We email each other sometimes」",
+      "status": "imported"
+    },
+    "stage0047_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$宗介$$\n「To think $$ＩＣＰＯ$$ had a spy in it...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_4bf9b05b5f948170": {
+      "text": "$$ルカ$$\n「Now that you mention it, $$正太郎$$\n　was a fan of $$ランカ$$'s, wasn't he」",
+      "status": "imported"
+    },
+    "stage0047_03:r_eaa52d152f444bfd": {
+      "text": "$$シェリル$$\n「Besides, Takeo General Company sends\n　the 'Volunteer Club Newsletter' regularly,\n　so we're fully caught up on their school life」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b4bc9e9435b58e6f": {
+      "text": "$$アマタ$$\n「You mean $$ワッ太$$ was a spy, too!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_a9227573166977a9": {
+      "text": "$$甲児$$\n「No way!\n　That's got to be $$木下$$'s doing!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b0600ab9a9e8559d": {
+      "text": "$$アルト$$\n「That old man!\n　Currying favor with $$シェリル$$ and $$ランカ$$!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_7cbc63dad295f862": {
+      "text": "$$クラン$$\n「Still, how did they even make it\n　to the Volunteer Club's room...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_07f53c816e0a51f5": {
+      "text": "$$小野Ｄ$$\n「That would be...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_2d09c6f6a2d990ea": {
+      "text": "$$風間$$\n「We showed them the way」",
+      "status": "imported"
+    },
+    "stage0047_03:r_3c5fcfc484a51913": {
+      "text": "$$甲児$$\n「$$小野Ｄ$$! $$風間$$, too!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_0476ffd10c764b0e": {
+      "text": "$$シェリル$$\n「Thanks for the guidance.\n　You really saved us」",
+      "status": "imported"
+    },
+    "stage0047_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$小野Ｄ$$\n「Not at all!\n　It's an honor to help you both!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_2b3479c4cf0680f4": {
+      "text": "$$風間$$\n「Still, that's impressive, Saotome.\n　I heard the Volunteer Club even handled\n　security for the $$トゥウィンクルプロジェクト$$ concert?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_e370696b8936b08c": {
+      "text": "$$アルト$$\n「$$小野Ｄ$$, $$風間$$!\n　You two... you sold us out!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_9d7b02c5e728b7aa": {
+      "text": "$$風間$$\n「Well, don't blame us,\n　almost every boy in school volunteered\n　to be their guide...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_9af213fc64e0afec": {
+      "text": "$$小野Ｄ$$\n「Right, right.\n　And since we're in your class,\n　we got the honor of guiding them」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d7f1c506e78e55ff": {
+      "text": "$$風間$$\n「Everyone else just tagged along\n　as an entourage, though」",
+      "status": "imported"
+    },
+    "stage0047_03:r_0c705091f748360e": {
+      "text": "$$さやか$$\n「Amazing!\n　The whole school's boys are crammed\n　in the clubroom building!!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_9eb8599304125b2f": {
+      "text": "$n\n「As expected of the Galactic Fairy and\n　the Super Dimension Cinderella...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_a072aa25e5f521e0": {
+      "text": "$$かなめ$$\n「This is no time to be impressed!\n　We'll have a panic on our hands!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_24e1a808a1609a1a": {
+      "text": "$$宗介$$\n「I believe it already has...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_53128ce8f154fd06": {
+      "text": "$$かなめ$$\n「Quiet!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_03b5db9ce98fb8d6": {
+      "text": "$$竜馬$$\n「You in there, $$アルト$$!!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_3915fb4102f1c1dd": {
+      "text": "$$アルト$$\n「$$竜馬$$, Miss $$スズネ$$...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_817b2773b4ed563e": {
+      "text": "$$竜馬$$\n「Don't just stand there!\n　Hurry up and settle this ruckus!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_1cc233cbc8c80af7": {
+      "text": "$$アルト$$\n「But, how...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$$スズネ$$\n「That's for you to figure out and\n　take responsibility for!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_e180b22d18f48d38": {
+      "text": "$$アルト$$\n「Even Miss $$スズネ$$...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_e598c2a0b27e7f50": {
+      "text": "$$竜馬$$\n「Onodera, $$風間$$!\n　For now, get that unruly mob lined up!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_4d2a9066c4e7b27f": {
+      "text": "$$風間$$\n「Huh? Us?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_10340119af3ed6db": {
+      "text": "$$竜馬$$\n「You're in Class 2-4, aren't you!\n　Associate members of the Volunteer Club!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_23a9c7ab620ab112": {
+      "text": "$$小野Ｄ$$\n「Y-yes sir!\n　Understood!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_4f0aca6deda07883": {
+      "text": "$$ランカ$$\n「Since we're here, I'd love a tour\n　of $$アルト$$'s school」",
+      "status": "imported"
+    },
+    "stage0047_03:r_8fe40600ce62dfbc": {
+      "text": "$$シェリル$$\n「Naturally, $$アルト$$ will be our guide」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ff4ce5f3cf96b617": {
+      "text": "$$かなめ$$\n「Go right ahead, go right ahead.\n　If $$アルト$$ alone isn't enough, we can lend\n　you some of our club's proud members」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d73c21f119847e35": {
+      "text": "$$アンディ$$\n「Leave the secret passages to me」",
+      "status": "imported"
+    },
+    "stage0047_03:r_89766f5ffaa912d4": {
+      "text": "$$アマタ$$\n「I can guide you from the sky, too」",
+      "status": "imported"
+    },
+    "stage0047_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$ミコノ$$\n「$$アマタ$$...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_451f726d4299ea35": {
+      "text": "$$ゼシカ$$\n「Unbelievable...!\n　$$アマタ$$, anyone will do for you, huh!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_e3d111e8bb190cb1": {
+      "text": "$$アマタ$$\n「T-that's not it...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_7c0d3c51f9a11ca0": {
+      "text": "$$ミコノ$$\n「Ugh... forget it!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ab97c2b2418ea732": {
+      "text": "$$シェリル$$\n「Sorry, Elements.\n　$$アルト$$'s got us covered for now」",
+      "status": "imported"
+    },
+    "stage0047_03:r_2ddff5064af78db4": {
+      "text": "$$カレン$$\n「$$アルト$$!\n　The only way to settle this ruckus\n　is to offer you up as a sacrifice!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_050d0532c4b24bfe": {
+      "text": "$n\n「Counting on you, President!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d583fcea31bdad2e": {
+      "text": "$$アルト$$\n「Ngh... can't be helped...!\n　Guess I've got no choice!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_475f7653621a91b5": {
+      "text": "$$シェリル$$\n「Can't be helped...!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_f228ae702350849b": {
+      "text": "$$ランカ$$\n「I'm sorry, $$アルト$$...\n　You finally got to visit school again,\n　and we dragged you around for our own sake...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d69dc027cba3003f": {
+      "text": "$$アルト$$\n「N-no... that's not what I meant, earlier...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_3c3735172a480b72": {
+      "text": "$$竜馬$$\n「Quit yammering and get moving!\n　Take that crowd with you, too!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_1f418b5594cea300": {
+      "text": "$$アルト$$\n「Fine, I got it!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_f87fb889124bfaef": {
+      "text": "$$ＭＩＸ$$\n「Phew... the storm's finally passed...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_79c90de32a79212d": {
+      "text": "$$クラン$$\n「Still, trouble's bound to follow\n　wherever they go」",
+      "status": "imported"
+    },
+    "stage0047_03:r_33f7fd55913419e8": {
+      "text": "$$ミコノ$$\n「Huh... where's $$サザンカ$$...?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_473d9a88b4ca96e7": {
+      "text": "$$ユノハ$$\n「She said it was a chance for\n　a treasure photo... and dashed off」",
+      "status": "imported"
+    },
+    "stage0047_03:r_4de6ac85c63bac12": {
+      "text": "$$宗介$$\n「...We should have set traps\n　and repelled them early on, after all」",
+      "status": "imported"
+    },
+    "stage0047_03:r_4c92652c9b1adf6f": {
+      "text": "$$かなめ$$\n「Please, don't give me any more\n　headaches than I've already got...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ce90563a934d49fb": {
+      "text": "$$宗介$$\n「About that, Chidori...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_4fb296e63cb1fb46": {
+      "text": "$$かなめ$$\n「What?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_6d77e72dbbcd7dfe": {
+      "text": "$$宗介$$\n「That is... as Class 2-4's class rep,\n　and as the Volunteer Club's manager,\n　you work hard every day」",
+      "status": "imported"
+    },
+    "stage0047_03:r_9dc59affd40f32fc": {
+      "text": "$$かなめ$$\n「W-what... all of a sudden...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_0cea115be526a319": {
+      "text": "$$宗介$$\n「To express my gratitude, I...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d36072babd12aeb4": {
+      "text": "$$かなめ$$\n「Eh... ehh...!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_09ee921a85025fd3": {
+      "text": "$$竜馬$$\n「Oi, Volunteer Club!\n　Quit lounging around and go after them!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_fae689f2a1057b61": {
+      "text": "$$竜馬$$\n「They're stirring up trouble\n　everywhere they go!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_91c6d0bb53854ecc": {
+      "text": "$$甲児$$\n「I knew it!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_42a3149105314ab8": {
+      "text": "$$竜馬$$\n「If you knew, then hurry up, boys!\n　Someone could end up dead!!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_62ecd978c667bd29": {
+      "text": "$n\n「Can't be helped...!\n　Let's go, everyone!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d441e6cc908ac01b": {
+      "text": "$$アマタ$$\n「Y-yeah...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b2aab8873350ea1f": {
+      "text": "$$宗介$$\n「I'll prepare riot control equipment!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_2c7af4c55d8ac938": {
+      "text": "$n\n「Don't make this any more complicated!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_653b741d07545dff": {
+      "text": "$$かなめ$$\n「Ah... Sousuke...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d584d4b5af55b1cf": {
+      "text": "$$さやか$$\n「Too bad, $$かなめ$$」",
+      "status": "imported"
+    },
+    "stage0047_03:r_db0ee69ece206fcd": {
+      "text": "$$かなめ$$\n「W-what do you mean, too bad...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_f97e6925c9e37332": {
+      "text": "$$ミコノ$$\n「$$宗介$$...\n　he looked like he was about to say\n　something important, didn't he」",
+      "status": "imported"
+    },
+    "stage0047_03:r_422861e0b8d77d0c": {
+      "text": "$$カレン$$\n「I've got to report this to $$テッサ$$...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ef16bcaa2b0e0c45": {
+      "text": "$$ゼシカ$$\n「Why does $$ミスリル$$'s pretty young\n　captain come into it?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_2b93cca10f1c36a8": {
+      "text": "$$カレン$$\n「That's a secret」",
+      "status": "imported"
+    },
+    "stage0047_03:r_7980fd37141d88d0": {
+      "text": "$$ユノハ$$\n「Could it be... a love triangle...?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ac21212c36d2b9ad": {
+      "text": "$$クラン$$\n「That development again!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_a26e2108358af7a4": {
+      "text": "$$さやか$$\n「That's true...\n　In $c, that kind of thing might be\n　common, too...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_a8118b2e37aa1382": {
+      "text": "$$ＭＩＸ$$\n「Honestly! That's far too indecent!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_017a56991b7b8ca4": {
+      "text": "$$ゼシカ$$\n「Come on, $$ＭＩＸ$$.\n　No one can stop someone from\n　falling for another person...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ad3e1db3419665fb": {
+      "text": "$$ミコノ$$\n「$$ゼシカ$$...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_0149e3a5f2e5ef78": {
+      "text": "$$さやか$$\n「Speaking of love triangles,\n　Kyoko said she saw $n with\n　a woman in town the other day」",
+      "status": "imported"
+    },
+    "stage0047_03:r_3ad10e705167a3fa": {
+      "text": "$$さやか$$\n「Apparently, that someone...\n　was a nurse from that hospital」",
+      "status": "imported"
+    },
+    "stage0047_03:r_bdc546b199c80996": {
+      "text": "$$カレン$$\n「Eh...!\n　Wasn't $n devoted only to\n　Miss $$スズネ$$!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_22c8caf8c08c5119": {
+      "text": "$$さやか$$\n「A teacher and a student...\n　It really must be difficult, I think」",
+      "status": "imported"
+    },
+    "stage0047_03:r_9c13714b3efbc7a8": {
+      "text": "$$カレン$$\n「But the way Miss $$スズネ$$ looks at $n\n　seems a little special, too...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_96f156e19b53fc09": {
+      "text": "$$クラン$$\n「Looked at that way, romance between\n　students has no obstacles at all,\n　and is perfectly wholesome」",
+      "status": "imported"
+    },
+    "stage0047_03:r_feb0390bba7fe1fb": {
+      "text": "$$かなめ$$\n「I-I'll have you know,\n　$$宗介$$ and I are not like that at all!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_8a78bcec22029401": {
+      "text": "$$ユノハ$$\n「But earlier, $$宗介$$...\n　seemed a little different than usual」",
+      "status": "imported"
+    },
+    "stage0047_03:r_f42017dfce31dea9": {
+      "text": "$$かなめ$$\n「Y-you too, $$ユノハ$$...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ef7426919f628d8a": {
+      "text": "$$かなめ$$\n「I mean, honestly, that guy...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_9e994a4b926d9906": {
+      "text": "$$さやか$$\n「What was that noise!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ffae76d2a77abf5a": {
+      "text": "$$カレン$$\n「Was that an explosion...!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_3ac462d37e5893ff": {
+      "text": "$$かなめ$$\n「$$宗介$$!\n　You went and did something again, didn't you!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_fd6bdf7910d7d925": {
+      "text": "Schoolyard",
+      "status": "imported"
+    },
+    "stage0047_03:r_d38be46e6cd7a5e5": {
+      "text": "Schoolyard",
+      "status": "imported"
+    },
+    "stage0047_03:r_3fe2078328753c16": {
+      "text": "Schoolyard",
+      "status": "imported"
+    },
+    "stage0047_03:r_c66844158d1ce600": {
+      "text": "$$かなめ$$\n「What's going on, $$宗介$$!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d037ecbc1e348dc9": {
+      "text": "$$宗介$$\n「Don't come any closer...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_bcd53d14c4785426": {
+      "text": "$$かなめ$$\n「Eh...!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_9ca55ea7feca954a": {
+      "text": "$n\n「There were explosives planted\n　in the school...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_554ae12c4c170253": {
+      "text": "$$カレン$$\n「That's not... $$宗介$$'s doing, is it?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_fa59c6df081e6ae4": {
+      "text": "$$宗介$$\n「Not this time」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ca3edf3b8b52aedf": {
+      "text": "$$ゼシカ$$\n「What about $$シェリル$$ and $$ランカ$$...!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_aa5d235c78ebe19f": {
+      "text": "$n\n「$$アルト$$, $$甲児$$, and $$竜馬$$ are with them...!\n　$$ミシェル$$ and $$アマタ$$ are evacuating the boys!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_0b3b19cddb871f90": {
+      "text": "$$かなめ$$\n「There are terrorists... in the school...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_304e98dac43c9333": {
+      "text": "$$宗介$$\n「...!\n　Watch out, Chidori!!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b740d817a14afd3a": {
+      "text": "Mercenary\n「Ngh!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_40e4c010d1b35b4c": {
+      "text": "$n\n「Uwoooaaahh!!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_c33abf00683a32bc": {
+      "text": "Mercenary\n「Gah!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_3036adce91d1f4a8": {
+      "text": "Mercenary\n「Tch!!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_019293cb83599509": {
+      "text": "$$ミコノ$$\n「Incredible...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_9b949b9281aaeef1": {
+      "text": "$$ユノハ$$\n「So that's $n's $$ブーストアップ$$...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b39a1dd705fe6cbf": {
+      "text": "$$宗介$$\n「This is bad, $n...!\n　From the look of it, a good number\n　of enemies have gotten into the school...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_c9016e3ab05470b0": {
+      "text": "$n\n「Is their target $$シェリル$$ and $$ランカ$$...\n　or something else...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_a684e6cea428e518": {
+      "text": "$$かなめ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0047_03:r_cf907a4d5de8b5c9": {
+      "text": "$n\n「If they start using firearms, we can't fight back.\n　$$宗介$$... get Chidori somewhere safe.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_a5774604a0f00702": {
+      "text": "$$宗介$$\n「Understood.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b4fa30f33e84207f": {
+      "text": "$$かなめ$$\n「$$宗介$$...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_9133b7e0b34de48f": {
+      "text": "$$宗介$$\n「Don't worry, Chidori.\n　I will protect you, no matter what.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_4ae9c4bd77494c4a": {
+      "text": "$$かなめ$$\n「Y-yeah...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_7313331f4077d255": {
+      "text": "$$ガウルン$$\n「Looking good, Kashim.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_a84ab0c3c1ba44d4": {
+      "text": "$$宗介$$\n「$$ガウルン$$!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_414e6e90094d1413": {
+      "text": "$$ガウルン$$\n「This job was to snatch the songstress,\n　but maybe I'll grab a little extra too.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_83a9e41e15444c69": {
+      "text": "$$宗介$$\n「I won't hand Chidori over to you!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_09227dec2bd6f4d8": {
+      "text": "$$ガウルン$$\n「Don't get the wrong idea, Kashim!\n　It's you I'm here to take!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_7b3a37f5039eb1f6": {
+      "text": "$$宗介$$\n「Ngh!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_cb6d9ee71c24b042": {
+      "text": "$$ガウルン$$\n「It's not that I missed.\n　I chose to miss, just now.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ddd97a6ef823929a": {
+      "text": "$$ガウルン$$\n「It's a rare reunion, after all.\n　Let's enjoy it to the fullest, Kashim!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_df349052cd9cdd0c": {
+      "text": "$n\n「$$宗介$$!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_a7ce9f908380694c": {
+      "text": "$$宗介$$\n「$n!\n　Take everyone and run!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_de3cc1f733dcb073": {
+      "text": "$n\n「But!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_0835ec3fff318aff": {
+      "text": "$$宗介$$\n「His target is me!\n　I don't want to drag Chidori into this!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_c32efc7394910997": {
+      "text": "$n\n「Got it!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b01db8213417811e": {
+      "text": "$$かなめ$$\n「Sousuke!\n　Don't you dare die!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_bc0273c6ae91c929": {
+      "text": "$$ガウルン$$\n「I see...\n　So that girl's the reason you changed...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_8deea7c70d7a76e7": {
+      "text": "$$宗介$$\n「I changed...?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_660c72e627d873c7": {
+      "text": "$$ガウルン$$\n「That's right, Kashim!\n　Though I liked the old you better!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_5d8b67b5bd8ce190": {
+      "text": "$$デュオ$$\n「Oops... did I interrupt a love confession?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_7cf3c91395139f5c": {
+      "text": "$$ガウルン$$\n「Tch... a party crasher, huh!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_6ccd85652ef4ccf1": {
+      "text": "$$カトル$$\n「Are you all right, $$宗介$$!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_fbe7bf7d854012a7": {
+      "text": "$$宗介$$\n「You two...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_1f438885dbc1359e": {
+      "text": "$$カトル$$\n「Even someone as skilled as you\n　can't fight that beast bare-handed.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_2e59226caa35f6e5": {
+      "text": "$$トロワ$$\n「Leave this to us.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_5d7a3adb077ad934": {
+      "text": "$$ガウルン$$\n「How pathetic, Kashim!\n　Hiding behind your friends' backs!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_78d3b2a75e38d6f7": {
+      "text": "$$ガウルン$$\n「Let's start over!\n　If you want to protect what's precious to you,\n　get in an AS!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_8d461de418389bf8": {
+      "text": "$$デュオ$$\n「You're not getting away!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_5cb2acefa1e7c7fb": {
+      "text": "$$宗介$$\n「$$ガウルン$$...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_59ce7fd9524ec8be": {
+      "text": "$$ヒイロ$$\n「$$宗介$$.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_33f67c683bda9203": {
+      "text": "$$宗介$$\n「$$ヒイロ$$...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_476fb20ab9d18957": {
+      "text": "$$ヒイロ$$\n「You... keep going as you are.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_6be0d6139fac197c": {
+      "text": "$$宗介$$\n「What...?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_df899b8031b4ca06": {
+      "text": "$$ヒイロ$$\n「Don't fear change.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_c5d048c7db7cac75": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0047_03:r_308e8ac66b1141ef": {
+      "text": "$$ラー・カイラム$$ Hangar",
+      "status": "imported"
+    },
+    "stage0047_03:r_64f25294d71a5d55": {
+      "text": "$$ラー・カイラム$$ Hangar",
+      "status": "imported"
+    },
+    "stage0047_03:r_b6ca80db4741a62c": {
+      "text": "$$ラー・カイラム$$ Hangar",
+      "status": "imported"
+    },
+    "stage0047_03:r_432a29155221625f": {
+      "text": "　\n　\n　　　　　　～ $$ラー・カイラム$$ Hangar ～",
+      "status": "imported"
+    },
+    "stage0047_03:r_9f7c18d1ea1b55c9": {
+      "text": "$n\n「...You saved us, $$ヒイロ$$.\n　Thanks to you all, we somehow managed\n　to protect $$シェリル・ノーム$$ and the others.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_56688ad8e41b7b42": {
+      "text": "$$ヒイロ$$\n「That's our mission.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_34a510533cb8a9f5": {
+      "text": "$$アルト$$\n「But what's going on?\n　What were those guys planning to do\n　after kidnapping $$シェリル$$ and the others...?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_1afedc9fa466f321": {
+      "text": "$$ゼクス$$\n「The war between the Earth Federation and Neo Zeon...\n　Within it, their existence carries special meaning.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_9547b3241808695f": {
+      "text": "$$アルト$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_32b2a8ce24deeb9f": {
+      "text": "$$ゼクス$$\n「Currently, the Frontier fleet\n　belongs to the Federation, but being out\n　in space, it maintains a neutral stance.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_c7ef92060bb8199d": {
+      "text": "$$ゼクス$$\n「Being from there themselves, the two of them\n　also perform concerts for both the Federation\n　and Neo Zeon alike, as neutral figures.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_1be6d12f616f04e4": {
+      "text": "$$カトル$$\n「Quite a few people are hoping\n　it could spark reconciliation between the two.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_80f948aeaed93de8": {
+      "text": "$$クラン$$\n「That's amazing!\n　So those two... could become this world's\n　$$リン・ミンメイ$$!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_0d24e9726dcc79f9": {
+      "text": "$$カトル$$\n「They aren't the only ones like that.\n　There are others working in neutral positions,\n　hoping for reconciliation between Earth and the colonies.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_da648116badd491a": {
+      "text": "$$デュオ$$\n「Word is Princess $$マリナ・イスマイール$$ of Azadistan\n　and Representative $$カガリ・ユラ・アスハ$$ of Orb\n　are calling for a ceasefire, each in their own way.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_4e91ccecf1dd0f66": {
+      "text": "$$ノイン$$\n「Even within the Earth Federation,\n　starting with the President and Lady $$リリーナ$$,\n　some hold back Earth supremacists, seeking peace.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_668b7114a3ac1d77": {
+      "text": "$$ヒイロ$$\n　（$$リリーナ$$...\n　So that's the path you chose...）",
+      "status": "imported"
+    },
+    "stage0047_03:r_ef339c6f71e7560f": {
+      "text": "$n\n「So that also means there are those\n　who see such people as an obstacle...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ce68dd10a19e01ea": {
+      "text": "$$カトル$$\n「The mysterious hypnosis-like power\n　that triggered the clash between Earth and the colonies...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_13ce8d4e4858b193": {
+      "text": "$$カトル$$\n「And then there are those who, like today's\n　terrorists, target neutral people wishing for a ceasefire...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_075101b23517fbaa": {
+      "text": "$$ノイン$$\n「$$レディ・アン$$ has asked $c\n　to deal with all of that.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_13c2ae299018c9ee": {
+      "text": "$$ゼクス$$\n「Ahead of the next battle, I hear $c's ships\n　will be overhauled at a $$ミスリル$$ facility.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_6f4f8dd80820f5e7": {
+      "text": "$n\n「To help stop the fighting between\n　Earth and the colonies, I hope we can\n　learn about the power that started it all...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_afa513b4815df4c9": {
+      "text": "$$アルト$$\n「By the way, where's $$宗介$$...?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_6cf1e5ed68d98bd4": {
+      "text": "$n\n「He's helping clean up the school\n　with $$甲児$$ and the others, under $$竜馬$$'s direction.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_e62eb587b8d34cb9": {
+      "text": "$$ヒイロ$$\n「How is $$宗介$$ doing?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d72cc2c0739c9088": {
+      "text": "$$アルト$$\n「How... well, he's brooding as usual...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ecf4e1c8c0f8d2d7": {
+      "text": "$$ヒイロ$$\n「I see...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_e5a692ea5ce09cac": {
+      "text": "Schoolyard",
+      "status": "imported"
+    },
+    "stage0047_03:r_e793fc3ce3a0c28d": {
+      "text": "Schoolyard",
+      "status": "imported"
+    },
+    "stage0047_03:r_2be6c657d0e12c4b": {
+      "text": "Schoolyard",
+      "status": "imported"
+    },
+    "stage0047_03:r_f89f6c6c4b076e16": {
+      "text": "　\n　　\n　　　～ Jindai High School Schoolyard ～",
+      "status": "imported"
+    },
+    "stage0047_03:r_7569f965fff4d791": {
+      "text": "$$シェリル$$\n「...so... what do you see in that broody one?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b43bdba9393d4d68": {
+      "text": "$$かなめ$$\n「What do I see in him...\n　I've never even thought about that!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_3ec159d1a3492877": {
+      "text": "$$ランカ$$\n「So then, you like everything about $$宗介$$?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_4e2fbafa9ebef558": {
+      "text": "$$かなめ$$\n「Look...\n　where does that idea even come from...?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_bde2e27bac7e3317": {
+      "text": "$$ＭＩＸ$$\n「Then, let me ask the two of you\n　from the $$トゥウィンクルプロジェクト$$ instead.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_631834aa1545ba7b": {
+      "text": "$$ＭＩＸ$$\n「What do you see in that wishy-washy\n　$$早乙女アルト$$?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_0cd6aab432ee5af7": {
+      "text": "$$シェリル$$\n「Let's see...\n　I guess it's that he doesn't treat me special.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_c8b75f3bca245a85": {
+      "text": "$$ランカ$$\n「Um... well... he always helps me\n　whenever I'm in trouble...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b26be73e3c0c8bed": {
+      "text": "$$カレン$$\n「Lucky guys, both $$アルト$$ and $$宗介$$.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_1a4dc288e81719ee": {
+      "text": "$$かなめ$$\n「That's why...!\n　It's not like that between me and Sousuke!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b8902c992035da79": {
+      "text": "$$さやか$$\n「Kyouko said you were on the phone\n　talking about something before the battle.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_df10ad0a71c307da": {
+      "text": "$$かなめ$$\n「N-nothing happened!\n　Uh, ha... hahahaha!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_9293c52555ba1457": {
+      "text": "$$サザンカ$$\n「That's a blatantly suspicious laugh...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_6c41647935e2574a": {
+      "text": "$$ユノハ$$\n「But it does seem like something good happened.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_ca702b5726ebd4da": {
+      "text": "$$かなめ$$\n「D-does it look that way...?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_51ce1d8caa34c103": {
+      "text": "$$カレン$$\n「Just go ahead and tell us what happened.\n　We'll help if there's anything we can do.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d00313056b19262c": {
+      "text": "$$テッサ$$\n「$$カレン$$...!\n　Isn't taking one side a bit unfair!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d41f1e36365baa6f": {
+      "text": "$$かなめ$$\n「$$テッサ$$...!\n　Why are you here!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_2c37dd5b8f919a88": {
+      "text": "$$テッサ$$\n「Didn't you hear from Sagara?\n　I've come to pick you up.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_53f5199f05a9aad8": {
+      "text": "$$かなめ$$\n「Wait... don't tell me... the sea...!?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_c6937f14a8985c35": {
+      "text": "$$テッサ$$\n「Yes.\n　$$千鳥かなめ$$, I invite you aboard our ship...\n　the $$トゥアハー・デ・ダナン$$.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_07513334490fbdf9": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0047_03:r_d90c4affdd742a0e": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0047_03:r_082a55c75a163780": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0047_03:r_fa09fad95980b867": {
+      "text": "$$ＡＧ$$\n「Oh...?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_f5507082e5c31362": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0047_03:r_3c9956c9d519d2a2": {
+      "text": "$$ＡＧ$$\n「What's wrong, Master $$宗介$$?\n　You seem even broodier than usual...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d150caab246bbd7a": {
+      "text": "$$宗介$$\n「It's none of your business.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d23d30b65284f69d": {
+      "text": "$$ＡＧ$$\n「This is about that $$ガウルン$$, isn't it?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b2f67d46499f2bbd": {
+      "text": "$$宗介$$\n「...Affirmative.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_fc1b13eaa4071b9a": {
+      "text": "$$ＡＧ$$\n「Thought so...\n　When you fought that man, Master $$宗介$$'s heart\n　wavered, producing 50Z worth of Z-Chips.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_c4cdd41ba9207e9c": {
+      "text": "$$ＡＧ$$\n「I'll add these Z-Chips to the squad's stock.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_c33c28fb471faf59": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d0fc4899507f74b2": {
+      "text": "$$ＡＧ$$\n「Do be careful, Master $$宗介$$.\n　I hear that $$ガウルン$$ is being transferred\n　to the $$トゥアハー・デ・ダナン$$ for questioning.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_11f13ec5326eaa51": {
+      "text": "$$ＡＧ$$\n「Personally speaking, I,\n　would very much like Master $$宗介$$ to meet that beast\n　and produce even more Z-Chips.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_b69df689192adfc2": {
+      "text": "$$宗介$$\n「...I don't take orders from you...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_8a9ac301023aa8d3": {
+      "text": "$$ＡＧ$$\n「This won't do, this...\n　Master $$宗介$$ has ended up\n　just like $n...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_e4ae97a37c9b0cce": {
+      "text": "$$ＡＧ$$\n「I have a feeling there's going to be\n　quite the commotion aboard the $$トゥアハー・デ・ダナン$$.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_4cab8ba7b88b6c2a": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0047_03:r_38f89a2d27debb9e": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0047_03:r_20aab898d4d14e51": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0047_03:r_e418ba9e04898c28": {
+      "text": "　\n　\n　　　　　　～ D-Trader ～",
+      "status": "imported"
+    },
+    "stage0047_03:r_88461d9fd17c56e7": {
+      "text": "$$ＡＧ$$\n「Well, well...\n　Lady $$シェリル$$ and Lady $$ランカ$$, welcome.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_f79b2ac118e41c1a": {
+      "text": "$$シェリル$$\n「So you're $$ＡＧ$$.\n　I've heard about you from $$アルト$$ and the others.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_d7bf635b7e5f811c": {
+      "text": "$$ランカ$$\n「So you really are a robot...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_24cb831c779807fd": {
+      "text": "$$ＡＧ$$\n「When the two of you look at me like that,\n　my internal oil pressure spikes...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_3f9082480d045564": {
+      "text": "$$シェリル$$\n「That's kind of cute.\n　Being able to flatter like that.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_312a78dfbb065f65": {
+      "text": "$$ＡＧ$$\n「Meeting you like this must be some kind of fate...\n　There's a favor I'd like to ask...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_9f17991d2b19374c": {
+      "text": "$$ランカ$$\n「If it's something we can do, we'll help.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_9bf1948e282e5587": {
+      "text": "$$ＡＧ$$\n「Well then...」",
+      "status": "imported"
+    },
+    "stage0047_03:r_67c9e002d64d9781": {
+      "text": "$$ＡＧ$$\n「Are you both ready?」",
+      "status": "imported"
+    },
+    "stage0047_03:r_cb5e5d90104f7a88": {
+      "text": "$$ランカ$$\n「Y-yes!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_34f8d5cbd504c416": {
+      "text": "$$シェリル$$\n「I don't do this kind of favor for just anyone.」",
+      "status": "imported"
+    },
+    "stage0047_03:r_8246cdac0973a25f": {
+      "text": "$$ＡＧ$$\n「All right, here we go...!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_0a597f4cd9c8309b": {
+      "text": "$$シェリル$$\n「$$ＤＥＭ$$ Corporation, trusted and proven!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_fc7afc4ebf9fd013": {
+      "text": "$$ランカ$$\n「Crossing dimensions to bring\n　wonderful goods right to you!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_833975ddd032dd18": {
+      "text": "$$シェリル$$\n「So let's give it our all today too!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_1608d4c4d3f78b24": {
+      "text": "$$ランカ$$\n「Business is business!」",
+      "status": "imported"
+    },
+    "stage0047_03:r_149109e3b1cf253b": {
+      "text": "$$ＡＧ$$\n「Thank you very much!\n　I'll be using this commercial again!」",
+      "status": "imported"
+    }
+  }
+}

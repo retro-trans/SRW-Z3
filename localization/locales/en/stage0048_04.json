@@ -1,0 +1,446 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0048_04:r_caaab7bad760e16d": {
+      "text": "$$テッサ$$\n「What's the situation?」",
+      "status": "imported"
+    },
+    "stage0048_04:r_99b162aa6aa286a2": {
+      "text": "$$マデューカス$$\n「The Unknown moving underwater will soon\n　enter range. The team including $c\n　is already in position」",
+      "status": "imported"
+    },
+    "stage0048_04:r_58fb02434a1c40b2": {
+      "text": "$$テッサ$$\n「Whoever they may be,\n　let's teach them how foolish it is\n　to challenge the Danaan underwater」",
+      "status": "imported"
+    },
+    "stage0048_04:r_1c0f94acd5a8a143": {
+      "text": "$$マデューカス$$\n「Unknown confirmed...!\n　It's UG」",
+      "status": "imported"
+    },
+    "stage0048_04:r_1263541f4071624e": {
+      "text": "$$テッサ$$\n「Their movements... gradually,\n　they're growing more active...」",
+      "status": "imported"
+    },
+    "stage0048_04:r_3bc300bbdc277d82": {
+      "text": "$$マデューカス$$\n「All the more reason we can't lose」",
+      "status": "imported"
+    },
+    "stage0048_04:r_38762a09460d8b6b": {
+      "text": "$$テッサ$$\n「$c, signal all units to launch...!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_7ab28e70b4d4f641": {
+      "text": "$$アムロ$$\n「Only this many units could sortie...!?」",
+      "status": "imported"
+    },
+    "stage0048_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$エマ$$\n「The hatch closed on us mid-launch...」",
+      "status": "imported"
+    },
+    "stage0048_04:r_ec335e69f984b8b3": {
+      "text": "$$甲児$$\n「Is it some kind of trouble...?」",
+      "status": "imported"
+    },
+    "stage0048_04:r_0abcaf0c31978670": {
+      "text": "$$タケル$$\n「Since we can't reach the Danaan's\n　command center, that's the only read」",
+      "status": "imported"
+    },
+    "stage0048_04:r_1d6bc48b7f246730": {
+      "text": "$$シモン$$\n「Then we fight with what we've got!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_1af20fccc3c53cfc": {
+      "text": "$$竜馬$$\n「They're all underwater, huh...!\n　This is gonna be a pain!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_f951916061232dcd": {
+      "text": "$$ガウルン$$\n「Oh... reinforcements, huh」",
+      "status": "imported"
+    },
+    "stage0048_04:r_4d863c3fb88a4c39": {
+      "text": "$$マデューカス$$\n「Damn it!\n　Isn't their aim to seize this ship!?」",
+      "status": "imported"
+    },
+    "stage0048_04:r_44f4742c3dcce39a": {
+      "text": "$$ガウルン$$\n「Ah, I had that changed.\n　To sink this ship instead」",
+      "status": "imported"
+    },
+    "stage0048_04:r_9e701cdeb3842c21": {
+      "text": "$$テッサ$$\n「What have you done!?」",
+      "status": "imported"
+    },
+    "stage0048_04:r_6fd81f4abebe60c5": {
+      "text": "$$ガウルン$$\n「I've heard how great this ship is.\n　So then, let's see how much of\n　their attack it can dodge」",
+      "status": "imported"
+    },
+    "stage0048_04:r_da2132b5038ec737": {
+      "text": "$$テッサ$$\n「This is the worst!\n　Hand the helm to me right now!\n　Release the helmsman and sonarman too!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_495d61d3ec7e16f2": {
+      "text": "$$ガウルン$$\n「Nope」",
+      "status": "imported"
+    },
+    "stage0048_04:r_5cd353758cfe474d": {
+      "text": "$$テッサ$$\n「This is the brink of whether this ship sinks!\n　Even I don't know if I can dodge it...!\n　There's no way you possibly can!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_a653c8dec4c0f06f": {
+      "text": "$$ガウルン$$\n「You won't know until you try, right?」",
+      "status": "imported"
+    },
+    "stage0048_04:r_86d493e37a9799a7": {
+      "text": "$$マデューカス$$\n「This man...」",
+      "status": "imported"
+    },
+    "stage0048_04:r_09d0fcc600cdd3df": {
+      "text": "$$ガウルン$$\n「Now... here comes the second shot...!\n　If it works out, that'll be a laugh!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_182faded068c15ed": {
+      "text": "$$ガウルン$$\n「Now, dodge it!\n　Can you do it, I wonder?\n　Or maybe you can't... ahahahaha!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_9c206d19bfda4bd5": {
+      "text": "$$テッサ$$\n（Now, $$かなめ$$!）",
+      "status": "imported"
+    },
+    "stage0048_04:r_6e558bc69acf5bf3": {
+      "text": "$$テッサ$$\n「This ship will now cover $c\n　and intercept the enemy force!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_d60d0818e965232f": {
+      "text": "$$マデューカス$$\n「Aye, ma'am!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_5b23687574286204": {
+      "text": "$n\n「$$宗介$$ is...!?」",
+      "status": "imported"
+    },
+    "stage0048_04:r_6fd86c96891ea942": {
+      "text": "$$ヒイロ$$\n「Look at the flight hatch...!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_43e4e548c0b28376": {
+      "text": "$$スズネ$$\n「$$宗介$$ and an enemy AS!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_d80a9688790ed583": {
+      "text": "$$ガウルン$$\n「This is fun, Kashim!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_708bea61e3c43ada": {
+      "text": "$$宗介$$\n「Give up, $$ガウルン$$!\n　You're trapped now!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ガウルン$$\n「But no.\n　I've still got a trump card to turn this around!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_0827963cfd706e8d": {
+      "text": "$$宗介$$\n「Bluffing, at a time like this!?」",
+      "status": "imported"
+    },
+    "stage0048_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$ガウルン$$\n「That's not it.\n　My AS is loaded with enough explosives\n　to blow this ship away with ease」",
+      "status": "imported"
+    },
+    "stage0048_04:r_3f4035fd9db81258": {
+      "text": "$$宗介$$\n「You...!\n　You mean to take $$トゥアハー・デ・ダナン$$ down with you!?」",
+      "status": "imported"
+    },
+    "stage0048_04:r_567b361a454c4b73": {
+      "text": "$$ガウルン$$\n「Not just the ship, Kashim!\n　You too!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_d22851aaafbbf8fc": {
+      "text": "$$宗介$$\n「Damn it!\n　What do I do!?」",
+      "status": "imported"
+    },
+    "stage0048_04:r_352534f64413d954": {
+      "text": "$$かなめ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0048_04:r_79f2664edb1af798": {
+      "text": "$$宗介$$\n「Chidori...!?」",
+      "status": "imported"
+    },
+    "stage0048_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$かなめ$$\n「Don't worry.\n　Everything is gonna\n　Happy!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_1c5aa0d15ae24846": {
+      "text": "$$宗介$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0048_04:r_53bb64ee17750ee2": {
+      "text": "$$テッサ$$\n「Sagara!\n　Right now, $$かなめ$$ is one with the Danaan!\n　The Danaan is like her own hands and feet!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_7a7add80fde475ba": {
+      "text": "$$宗介$$\n「Alright...!\n　Chidori, I'm counting on you!!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_b2befefdbed1393d": {
+      "text": "$$ガウルン$$\n「I don't know what you're planning,\n　but my finger's already on the trigger!\n　You've got 30 seconds left!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_2103f6df2ea2e447": {
+      "text": "$$ガウルン$$\n「Or so I thought, but I changed my mind!\n　Make that 10 seconds!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_a12e3e130d896ff7": {
+      "text": "$$宗介$$\n「$$ガウルン$$!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_b6f7b219eb4bd64b": {
+      "text": "$$マデューカス$$\n「The enemy AS and the Arbalest\n　are on the catapult!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_91bf33c27ad39f0a": {
+      "text": "$$テッサ$$\n「Now, $$かなめ$$!!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_ee220318b96ab538": {
+      "text": "$$テッサ$$\n「We did it!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_ce1b55e526b6277a": {
+      "text": "$$ガウルン$$\n「Now that's a surprise!\n　So this is why you shoved me onto the catapult!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_c304df6888eb78f7": {
+      "text": "$$ガウルン$$\n「Fine by me!\n　You went to the trouble of setting the stage,\n　so let's have some fun with it, Kashim!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_c26958634526e597": {
+      "text": "$$宗介$$\n「Just how far will you go...!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_cdb750c9d380881a": {
+      "text": "$$ガウルン$$\n「Not yet! Your killing intent's still lacking!\n　That won't reach the Kashim\n　I love so much!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_95fda74613c97b39": {
+      "text": "$$宗介$$\n「Gah...!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_1956994937f8171e": {
+      "text": "$$ヒイロ$$\n「$$宗介$$...!\n　Face who you are right now!\n　You are you!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_48f49f6728c15612": {
+      "text": "$$宗介$$\n「$$ヒイロ$$...」",
+      "status": "imported"
+    },
+    "stage0048_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$クルツ$$\n「Geez, quit playing the sensitive tough guy,\n　you brooding sergeant!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_f02c37d91387d0ad": {
+      "text": "$$マオ$$\n「Quit stalling and crush that bastard already!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_6bbd5a3c5afb87e0": {
+      "text": "$n\n「$$宗介$$!\n　You want to make it up to Chidori,\n　don't you! So live and come back!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_9796b3efa401a303": {
+      "text": "$n\n「That's your most important mission, isn't it!!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_643b6eebfc0186b3": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0048_04:r_291280e5f7eb9d70": {
+      "text": "$$ガウルン$$\n「Something's off, Kashim!\n　I didn't want to see you cheered on by friends!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_32eb462c1b4999cb": {
+      "text": "$$宗介$$\n「Shut up, $$ガウルン$$!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_1f4337d6d393fc37": {
+      "text": "$$ガウルン$$\n「!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_4740e748fae085ee": {
+      "text": "$$宗介$$\n「$$ガウルン$$... I'll kill you!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_b76524cd840e1d37": {
+      "text": "$$ガウルン$$\n「I'm glad, Kashim!\n　I don't know the logic behind it, but if\n　you're fired up now, I've got no complaints!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_730ffe18400abfc2": {
+      "text": "$$ガウルン$$\n「Now, let's enjoy this to the fullest!\n　A rotten mudslinging match!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_ffe0fca26da5cd38": {
+      "text": "$$宗介$$\n「That ends today!\n　I'm sick of looking at your face!!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_bfb27f9eb2f7073e": {
+      "text": "$$マデューカス$$\n「Enemy annihilation confirmed」",
+      "status": "imported"
+    },
+    "stage0048_04:r_859dfa27bcaafe30": {
+      "text": "$$テッサ$$\n「Our damage was heavy as well,\n　but we gained a great deal too」",
+      "status": "imported"
+    },
+    "stage0048_04:r_71ebf05996a4b0fd": {
+      "text": "$$マデューカス$$\n「Amalgam, is it...」",
+      "status": "imported"
+    },
+    "stage0048_04:r_6214c11b1bca811e": {
+      "text": "$$テッサ$$\n「And the fact that they've joined hands with UG」",
+      "status": "imported"
+    },
+    "stage0048_04:r_8eaf6f3098ffed12": {
+      "text": "$n\n「It's over, $$宗介$$」",
+      "status": "imported"
+    },
+    "stage0048_04:r_cf507214fe955d75": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0048_04:r_2113dcbabdfc758a": {
+      "text": "$n\n「$$宗介$$?」",
+      "status": "imported"
+    },
+    "stage0048_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$宗介$$\n「Kashim, Kashim, so familiar all of a sudden,\n　you bastard!!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_6a74519e1fc29c4b": {
+      "text": "$$かなめ$$\n（Good work, $$宗介$$...）",
+      "status": "imported"
+    },
+    "stage0048_04:r_5b992878fee054b5": {
+      "text": "$$かなめ$$\n（Sorry for saying something so thoughtless.\n　Now that I think about it, I...\n　I still don't know anything about you）",
+      "status": "imported"
+    },
+    "stage0048_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$かなめ$$\n（What an amazing guy...\n　Honestly, I think you're cool, $$宗介$$...）",
+      "status": "imported"
+    },
+    "stage0048_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ガウルン$$\n「Well, that was fun enough, Kashim!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_20cf167c0ec0d4d5": {
+      "text": "$$クルツ$$\n「We did it!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_b591d812c96c6c99": {
+      "text": "$$マオ$$\n「Just like he said,\n　he really had a ton of explosives\n　loaded up. Went out with a bang」",
+      "status": "imported"
+    },
+    "stage0048_04:r_e350fa099c1ab072": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0048_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$宗介$$\n（$$ガウルン$$...\n　Whatever you say, I'm $$相良宗介$$...）",
+      "status": "imported"
+    },
+    "stage0048_04:r_c33bd700553abf91": {
+      "text": "$$テッサ$$\n「The Danaan!!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_feee5c91826230e1": {
+      "text": "$$ガウルン$$\n「This is priceless!\n　Who'd have thought it'd end like this!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_bccc48e1964ad22d": {
+      "text": "$$ガウルン$$\n「Don't get in my way, you!\n　I'll deal with you after Kashim,\n　so sit tight and wait there!!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_f8736aaaa216c766": {
+      "text": "$$テッサ$$\n「If the enemy's target is this Danaan,\n　all the better. Let's teach them just how\n　foolish and reckless a fight they picked」",
+      "status": "imported"
+    },
+    "stage0048_04:r_d1ec2522c87c361d": {
+      "text": "$$マデューカス$$\n「All hands, you heard her.\n　Consider it a chance to vent our pent-up frustration」",
+      "status": "imported"
+    },
+    "stage0048_04:r_3599f0a4343fd95c": {
+      "text": "$$テッサ$$\n（Alright, here we go, $$かなめ$$...!）",
+      "status": "imported"
+    },
+    "stage0048_04:r_3bc7834a5bf3ee76": {
+      "text": "$$ガウルン$$\n「I've been waiting, Kashim!\n　For this very moment!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_366814efdc8b5800": {
+      "text": "$$宗介$$\n「Same goes for me, $$ガウルン$$!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_9be1a4c10bb62515": {
+      "text": "$$ガウルン$$\n「But you can't relax yet, Kashim!\n　As long as doubt remains in you,\n　who knows when you'll slide back to being useless!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_94a88c90e557e16e": {
+      "text": "$$宗介$$\n「I've no reason to be told\n　how to live my life by you!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_1c208ca0cbf26f28": {
+      "text": "$$ガウルン$$\n「Don't be so cold, Kashim!\n　Aren't we close, you and I?」",
+      "status": "imported"
+    },
+    "stage0048_04:r_5b7ee307a700171a": {
+      "text": "$$宗介$$\n「Shut up!\n　I've no wish to hear another word from you!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_8d8f065c932da30a": {
+      "text": "$$ガウルン$$\n「Why, Kashim!!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_f5432119677514f7": {
+      "text": "$$宗介$$\n「Kashim, Kashim, always Kashim...!!」",
+      "status": "imported"
+    },
+    "stage0048_04:r_4e5c8e989c4a7691": {
+      "text": "$n\n「$$ヒイロ$$...\n　Why do you care so much about $$宗介$$?」",
+      "status": "imported"
+    },
+    "stage0048_04:r_adec86483b13599a": {
+      "text": "$$ヒイロ$$\n「I don't intend to answer」",
+      "status": "imported"
+    },
+    "stage0048_04:r_2cf701bbcde3ec13": {
+      "text": "$n\n「...Fine.\n　But I'm grateful for your help」",
+      "status": "imported"
+    },
+    "stage0048_04:r_c17c58fdba72005e": {
+      "text": "$$ヒイロ$$\n「As his friend?」",
+      "status": "imported"
+    },
+    "stage0048_04:r_1fe8564d2b959317": {
+      "text": "$n\n「That's part of it」",
+      "status": "imported"
+    },
+    "stage0048_04:r_f527e012803f7f1c": {
+      "text": "$n\n「But more urgently,\n　when $$宗介$$ and Chidori fight,\n　it lands on me」",
+      "status": "imported"
+    },
+    "stage0048_04:r_4b1247bd3ca4905d": {
+      "text": "$$ヒイロ$$\n「That man's in quite an enviable position」",
+      "status": "imported"
+    },
+    "stage0048_04:r_00c55e25f87b71d0": {
+      "text": "$n\n「Agreed.\n　Now, let's clean up the enemy」",
+      "status": "imported"
+    },
+    "stage0048_04:r_338f3b27e51dcc41": {
+      "text": "$$ヒイロ$$\n「Understood」",
+      "status": "imported"
+    },
+    "stage0048_04:r_d91d4bc2d52b61c4": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

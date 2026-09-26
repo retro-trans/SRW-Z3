@@ -1,0 +1,62 @@
+# never commit game content
+Linear_API.txt
+work/
+game/
+*.SDAT
+*.sdat
+*.CPK
+*.cpk
+*.unedat
+*.lua
+*.GTF
+*.USM
+*.AWB
+*.BIN
+*.bin
+
+__pycache__/
+*.pyc
+
+# never commit disc images
+*.iso
+*.ISO
+*.PUP
+*.pup
+*.elf
+*.ELF
+
+# Vita packages, textures and executables are also game data.
+*.pkg
+*.PKG
+*.vpk
+*.VPK
+*.gxt
+*.GXT
+*.self
+*.suprx
+
+# generated: rebuild with tools/glossary_html.py
+analysis/html/
+
+# regenerate with: python tools/extract.py --disc <USRDIR>  (or --iso)
+source/
+
+# built patches: game content. manifests (releases/*.json) ARE committed.
+releases/*/
+
+# Short-lived build-number transaction files (the JSON counter is tracked).
+build_version.lock
+build_version.json.tmp
+
+# Local-only Japanese source catalog and duplicate source-bearing exports.
+# Keep these files on disk; editable translations live in localization/locales/.
+/localization/messages/
+/platforms/ps3/localization/legacy.json
+/translation/**/*.json
+/translation/**/*.tsv
+/translation/*.json
+/translation/*.tsv
+
+# Downloaded tools and built patch archives are not repository source.
+*.exe
+*.zip

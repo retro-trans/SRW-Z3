@@ -1,0 +1,546 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0087_03:r_caaab7bad760e16d": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "translated"
+    },
+    "stage0087_03:r_99b162aa6aa286a2": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "translated"
+    },
+    "stage0087_03:r_58fb02434a1c40b2": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "translated"
+    },
+    "stage0087_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　　\n　　　　　　　　～ $$ドラゴンズハイヴ$$ Hangar ～",
+      "status": "translated"
+    },
+    "stage0087_03:r_1263541f4071624e": {
+      "text": "$$カグラ$$\n「Are you ready, you lot!\n　Let's go beat that $$宇宙魔王#pilot$$ down already!」",
+      "status": "translated"
+    },
+    "stage0087_03:r_3bc300bbdc277d82": {
+      "text": "$$葵$$\n「Um... getting fired up is fine, but...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_38762a09460d8b6b": {
+      "text": "$$くらら$$\n「Do you... know something about the $$宇宙魔王#pilot$$?」",
+      "status": "translated"
+    },
+    "stage0087_03:r_7ab28e70b4d4f641": {
+      "text": "$$カグラ$$\n「So he's basically some full-of-himself\n　bastard and our enemy, right?\n　Then I'll just knock him flat, is all!」",
+      "status": "translated"
+    },
+    "stage0087_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$キタン$$\n「Now there's a guy with some real fire in him」",
+      "status": "translated"
+    },
+    "stage0087_03:r_ec335e69f984b8b3": {
+      "text": "$$ギミー$$\n「Yeah! He seems like he'll be reliable!」",
+      "status": "translated"
+    },
+    "stage0087_03:r_0abcaf0c31978670": {
+      "text": "$$朔哉$$\n「Since he's such a wild guy, I was thinking\n　of making him a Team D reserve,\n　but this one suits the Dai-Gurren Brigade more」",
+      "status": "translated"
+    },
+    "stage0087_03:r_1d6bc48b7f246730": {
+      "text": "$$ダリー$$\n「$$朔哉$$...!\n　Please don't think the Dai-Gurren Brigade\n　is just about charging in」",
+      "status": "translated"
+    },
+    "stage0087_03:r_1af20fccc3c53cfc": {
+      "text": "$$ヨーコ$$\n「Well, some of our members can't help\n　giving that impression, I guess」",
+      "status": "translated"
+    },
+    "stage0087_03:r_f951916061232dcd": {
+      "text": "$$カグラ$$\n「A fight's basically about charging in, right?\n　And if there's someone you can't drop there,\n　you finish it with the next hit」",
+      "status": "translated"
+    },
+    "stage0087_03:r_4d863c3fb88a4c39": {
+      "text": "$$エイーダ$$\n「$$カグラ$$'s guardiaaan!」",
+      "status": "translated"
+    },
+    "stage0087_03:r_44f4742c3dcce39a": {
+      "text": "$$ジョニー$$\n「Please give him a refresher on\n　the basics of combat before the\n　decisive battle with the $$宇宙魔王#pilot$$」",
+      "status": "translated"
+    },
+    "stage0087_03:r_9e701cdeb3842c21": {
+      "text": "$$アマタ$$\n「I'm counting on you, $$ゼシカ$$」",
+      "status": "translated"
+    },
+    "stage0087_03:r_6fd81f4abebe60c5": {
+      "text": "$$ゼシカ$$\n「Can't be helped, I guess.\n　C'mon... let's go to the simulator, $$カグラ$$」",
+      "status": "translated"
+    },
+    "stage0087_03:r_da2132b5038ec737": {
+      "text": "$$カグラ$$\n「Do I even need that at this point?」",
+      "status": "translated"
+    },
+    "stage0087_03:r_495d61d3ec7e16f2": {
+      "text": "$n\n「Looks like a wild beast really does\n　need to be tamed by force」",
+      "status": "translated"
+    },
+    "stage0087_03:r_5cd353758cfe474d": {
+      "text": "$$カグラ$$\n「W-what is this guy...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_a653c8dec4c0f06f": {
+      "text": "$$ゼシカ$$\n「Get ready, $$カグラ$$.\n　$n's going to be your training partner」",
+      "status": "translated"
+    },
+    "stage0087_03:r_86d493e37a9799a7": {
+      "text": "$n\n「My $$ハンター$$ blood's stirring for the first time in a while」",
+      "status": "translated"
+    },
+    "stage0087_03:r_09d0fcc600cdd3df": {
+      "text": "$$カグラ$$\n「Bring it on.\n　I'll eat you alive instead」",
+      "status": "translated"
+    },
+    "stage0087_03:r_182faded068c15ed": {
+      "text": "$$ゼシカ$$\n「Now now, don't use such dangerous words\n　on a teammate」",
+      "status": "translated"
+    },
+    "stage0087_03:r_9c206d19bfda4bd5": {
+      "text": "$$カグラ$$\n「While we're at it!\n　You two come too!」",
+      "status": "translated"
+    },
+    "stage0087_03:r_6e558bc69acf5bf3": {
+      "text": "$$シンジ$$\n「Huh... us?」",
+      "status": "translated"
+    },
+    "stage0087_03:r_d60d0818e965232f": {
+      "text": "$$ユノハ$$\n「W-what is it?」",
+      "status": "translated"
+    },
+    "stage0087_03:r_5b23687574286204": {
+      "text": "$$カグラ$$\n「...Tell me about $$ジン$$.\n　What he saw and felt out there in Vega」",
+      "status": "translated"
+    },
+    "stage0087_03:r_6fd86c96891ea942": {
+      "text": "$$ユノハ$$\n「Yes...!」",
+      "status": "translated"
+    },
+    "stage0087_03:r_43e4e548c0b28376": {
+      "text": "$$スズネ$$\n「At first I was worried, $$カグラ$$...\n　but it looks like you'll manage somehow」",
+      "status": "translated"
+    },
+    "stage0087_03:r_d80a9688790ed583": {
+      "text": "$$ミコノ$$\n「It's thanks to $$ゼシカ$$ acting as the go-between」",
+      "status": "translated"
+    },
+    "stage0087_03:r_708bea61e3c43ada": {
+      "text": "$$アルト$$\n（More like a trainer than a go-between）",
+      "status": "translated"
+    },
+    "stage0087_03:r_7b6f159eeaf4de0f": {
+      "text": "$$宗介$$\n「How are $$シェリル$$ and $$ランカ$$ doing?」",
+      "status": "translated"
+    },
+    "stage0087_03:r_0827963cfd706e8d": {
+      "text": "$$アルト$$\n「Those two are in their room.\n　Given the situation, they'll be\n　coming along with $c as is」",
+      "status": "translated"
+    },
+    "stage0087_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$マオ$$\n「Is that going to be all right?」",
+      "status": "translated"
+    },
+    "stage0087_03:r_3f4035fd9db81258": {
+      "text": "$$アルト$$\n「This kind of thing's happened before too,\n　so they're both okay with it」",
+      "status": "translated"
+    },
+    "stage0087_03:r_567b361a454c4b73": {
+      "text": "$$クルツ$$\n「Nah, that's not it.\n　I'm talking about $$ランカ$$-chan」",
+      "status": "translated"
+    },
+    "stage0087_03:r_d22851aaafbbf8fc": {
+      "text": "$$アルト$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0087_03:r_352534f64413d954": {
+      "text": "$$マオ$$\n「Guess it's not that you hadn't noticed」",
+      "status": "translated"
+    },
+    "stage0087_03:r_79f2664edb1af798": {
+      "text": "$$クルツ$$\n「Seems like that girl's been\n　kind of down since the fight at Altair」",
+      "status": "translated"
+    },
+    "stage0087_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$宗介$$\n「Is she afraid of $$ミカゲ$$'s hatred?」",
+      "status": "translated"
+    },
+    "stage0087_03:r_1c5aa0d15ae24846": {
+      "text": "$$マオ$$\n「He's already been defeated.\n　No need to worry about that」",
+      "status": "translated"
+    },
+    "stage0087_03:r_53bb64ee17750ee2": {
+      "text": "$$アルト$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0087_03:r_7a7add80fde475ba": {
+      "text": "$$スズネ$$\n「$$アルト$$... caring about the other person\n　matters too, but right now, focus on\n　what's in front of you」",
+      "status": "translated"
+    },
+    "stage0087_03:r_b2befefdbed1393d": {
+      "text": "$$スズネ$$\n「The next battle's sure to be a tough one too」",
+      "status": "translated"
+    },
+    "stage0087_03:r_2103f6df2ea2e447": {
+      "text": "$$アルト$$\n「Thank you, Miss $$スズネ$$」",
+      "status": "translated"
+    },
+    "stage0087_03:r_a12e3e130d896ff7": {
+      "text": "$$スズネ$$\n「Don't forget, that you coming back\n　alive matters more to those kids\n　than anything else」",
+      "status": "translated"
+    },
+    "stage0087_03:r_b6f7b219eb4bd64b": {
+      "text": "$$スズネ$$\n「...What happened to $$シュレード$$ was awful,\n　but that's why I want all of us to return\n　to Jindai High without losing anyone else」",
+      "status": "translated"
+    },
+    "stage0087_03:r_91bf33c27ad39f0a": {
+      "text": "$$スズネ$$\n「So, $$アルト$$... let's do our best」",
+      "status": "translated"
+    },
+    "stage0087_03:r_ee220318b96ab538": {
+      "text": "$$アルト$$\n「Yes.」",
+      "status": "translated"
+    },
+    "stage0087_03:r_ce1b55e526b6277a": {
+      "text": "$$マオ$$\n「Miss $$スズネ$$'s really grown up, hasn't she.\n　She's a full-fledged teacher now」",
+      "status": "translated"
+    },
+    "stage0087_03:r_c304df6888eb78f7": {
+      "text": "$$スズネ$$\n「I've grown too, you know」",
+      "status": "translated"
+    },
+    "stage0087_03:r_c26958634526e597": {
+      "text": "$$クルツ$$\n「Well then, Miss... how about me...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_cdb750c9d380881a": {
+      "text": "$$スズネ$$\n「No private lessons allowed.\n　A teacher should be fair to every student」",
+      "status": "translated"
+    },
+    "stage0087_03:r_95fda74613c97b39": {
+      "text": "$$クルツ$$\n「Aww, guess she saw right through me」",
+      "status": "translated"
+    },
+    "stage0087_03:r_1956994937f8171e": {
+      "text": "$$宗介$$\n「If you repeat the same tactic\n　enough times, this is the natural result」",
+      "status": "translated"
+    },
+    "stage0087_03:r_48f49f6728c15612": {
+      "text": "$$マオ$$\n「But isn't there a kid who seriously\n　needs some individual care?」",
+      "status": "translated"
+    },
+    "stage0087_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$スズネ$$\n「That one, I've left to $$タケル$$ and $$ワッ太$$」",
+      "status": "translated"
+    },
+    "stage0087_03:r_f02c37d91387d0ad": {
+      "text": "$$ドラゴンズハイヴ$$ Salon",
+      "status": "translated"
+    },
+    "stage0087_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$ドラゴンズハイヴ$$ Salon",
+      "status": "translated"
+    },
+    "stage0087_03:r_9796b3efa401a303": {
+      "text": "$$ドラゴンズハイヴ$$ Salon",
+      "status": "translated"
+    },
+    "stage0087_03:r_643b6eebfc0186b3": {
+      "text": "　\n　　\n　　　　　　　　～ $$ドラゴンズハイヴ$$ Salon ～",
+      "status": "translated"
+    },
+    "stage0087_03:r_291280e5f7eb9d70": {
+      "text": "$$ワッ太$$\n「$$正太郎$$...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_32eb462c1b4999cb": {
+      "text": "$$正太郎$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0087_03:r_1f4337d6d393fc37": {
+      "text": "$$タケル$$\n「$$正太郎$$...\n　For the next battle... you stay and\n　guard $$ドラゴンズハイヴ$$」",
+      "status": "translated"
+    },
+    "stage0087_03:r_4740e748fae085ee": {
+      "text": "$$正太郎$$\n「No... I'm sending out $$鉄人$$」",
+      "status": "translated"
+    },
+    "stage0087_03:r_b76524cd840e1d37": {
+      "text": "$$ワッ太$$\n「But... $$グーラ$$'s not in the mood\n　to listen to what we've got to say」",
+      "status": "translated"
+    },
+    "stage0087_03:r_730ffe18400abfc2": {
+      "text": "$$正太郎$$\n「Then...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_ffe0fca26da5cd38": {
+      "text": "$$正太郎$$\n「I'll settle things with $$グーラ$$ myself」",
+      "status": "translated"
+    },
+    "stage0087_03:r_bfb27f9eb2f7073e": {
+      "text": "$$タケル$$\n「There's no need for that.\n　I'll be the one to fight him」",
+      "status": "translated"
+    },
+    "stage0087_03:r_859dfa27bcaafe30": {
+      "text": "$$正太郎$$\n「...$$グーラ$$ is an enemy targeting Earth」",
+      "status": "translated"
+    },
+    "stage0087_03:r_71ebf05996a4b0fd": {
+      "text": "$$正太郎$$\n「Precisely because $$グーラ$$'s my friend,\n　if he's going to do something wrong,\n　I'll be the one to stop him」",
+      "status": "translated"
+    },
+    "stage0087_03:r_6214c11b1bca811e": {
+      "text": "$$タケル$$\n「$$正太郎$$...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_8eaf6f3098ffed12": {
+      "text": "$$正太郎$$\n「The time I spent with $$グーラ$$ was short.\n　But I... I can't think of $$グーラ$$\n　as a stranger」",
+      "status": "translated"
+    },
+    "stage0087_03:r_cf507214fe955d75": {
+      "text": "$$正太郎$$\n「Just as $$グーラ$$ became Earth's invasion\n　commander as the $$宇宙魔王#pilot$$'s son,\n　I too was entrusted with $$鉄人$$ by my father...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_2113dcbabdfc758a": {
+      "text": "$$正太郎$$\n「That's why I...\n　I want to stop $$グーラ$$...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ワッ太$$\n「But...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_6a74519e1fc29c4b": {
+      "text": "$$正太郎$$\n「I fight against evil...\n　That's my mission, entrusted\n　with $$鉄人$$」",
+      "status": "translated"
+    },
+    "stage0087_03:r_5b992878fee054b5": {
+      "text": "$$正太郎$$\n「If I forgive evil just because\n　it's my friend, I'd have to\n　give up $$鉄人$$」",
+      "status": "translated"
+    },
+    "stage0087_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$タケル$$\n「You've already... made up your mind」",
+      "status": "translated"
+    },
+    "stage0087_03:r_4a14ec0c511c7f0d": {
+      "text": "$$正太郎$$\n「Yes...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_20cf167c0ec0d4d5": {
+      "text": "$$正太郎$$\n（$$グーラ$$...\n　If you won't change your mind,\n　I'll defeat you...）",
+      "status": "translated"
+    },
+    "stage0087_03:r_b591d812c96c6c99": {
+      "text": "$$正太郎$$\n（That's... my fight...）",
+      "status": "translated"
+    },
+    "stage0087_03:r_e350fa099c1ab072": {
+      "text": "Space",
+      "status": "translated"
+    },
+    "stage0087_03:r_fb05d8e5f1ee93e5": {
+      "text": "Space",
+      "status": "translated"
+    },
+    "stage0087_03:r_c33bd700553abf91": {
+      "text": "Space",
+      "status": "translated"
+    },
+    "stage0087_03:r_feee5c91826230e1": {
+      "text": "$$タケル$$\n「Where is this...!?」",
+      "status": "translated"
+    },
+    "stage0087_03:r_bccc48e1964ad22d": {
+      "text": "???\n「A world of darkness...\n　A place filled with the power of shadow」",
+      "status": "translated"
+    },
+    "stage0087_03:r_f8736aaaa216c766": {
+      "text": "$$タケル$$\n「...!」",
+      "status": "translated"
+    },
+    "stage0087_03:r_d1ec2522c87c361d": {
+      "text": "???\n「The stellar energy absorbed\n　into $$鉄人$$ gained $$正太郎$$'s\n　pure will and gave birth to power」",
+      "status": "translated"
+    },
+    "stage0087_03:r_3599f0a4343fd95c": {
+      "text": "???\n「It annihilated the black hole,\n　and destroyed the $$宇宙魔王#pilot$$」",
+      "status": "translated"
+    },
+    "stage0087_03:r_3bc7834a5bf3ee76": {
+      "text": "$$タケル$$\n「But, $$鉄人$$ is...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_366814efdc8b5800": {
+      "text": "???\n「Having used up all its power,\n　$$鉄人$$ fell into this world」",
+      "status": "translated"
+    },
+    "stage0087_03:r_9be1a4c10bb62515": {
+      "text": "$$マーグ#pilot$$\n「Mars...\n　Use your power to guide $$鉄人$$\n　to the world of light」",
+      "status": "translated"
+    },
+    "stage0087_03:r_94a88c90e557e16e": {
+      "text": "$$タケル$$\n「Brother...!\n　I knew it, it really is you, Brother!」",
+      "status": "translated"
+    },
+    "stage0087_03:r_1c208ca0cbf26f28": {
+      "text": "$$マーグ#pilot$$\n「Hurry, Mars.\n　You and I together can bridge\n　darkness and light」",
+      "status": "translated"
+    },
+    "stage0087_03:r_5b7ee307a700171a": {
+      "text": "$$タケル$$\n「Something like that is possible...?」",
+      "status": "translated"
+    },
+    "stage0087_03:r_8d8f065c932da30a": {
+      "text": "$$マーグ#pilot$$\n「That's our fate...\n　The mission of us both, born\n　into darkness and light」",
+      "status": "translated"
+    },
+    "stage0087_03:r_f5432119677514f7": {
+      "text": "$$タケル$$\n「Brother...!\n　I'll give it a try!」",
+      "status": "translated"
+    },
+    "stage0087_03:r_4e5c8e989c4a7691": {
+      "text": "$$マーグ#pilot$$\n「Fight, Mars...\n　My other half, who holds the light...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_adec86483b13599a": {
+      "text": "$$タケル$$\n「Uooooooooh!!」",
+      "status": "translated"
+    },
+    "stage0087_03:r_2cf701bbcde3ec13": {
+      "text": "Bar",
+      "status": "translated"
+    },
+    "stage0087_03:r_c17c58fdba72005e": {
+      "text": "Bar",
+      "status": "translated"
+    },
+    "stage0087_03:r_1fe8564d2b959317": {
+      "text": "Bar",
+      "status": "translated"
+    },
+    "stage0087_03:r_f527e012803f7f1c": {
+      "text": "　\n　\n　　　　　　～ Paradigm City Bar 'SPEAK EASY' ～",
+      "status": "translated"
+    },
+    "stage0087_03:r_4b1247bd3ca4905d": {
+      "text": "$$ガドライト$$\n「Not drinking?」",
+      "status": "translated"
+    },
+    "stage0087_03:r_00c55e25f87b71d0": {
+      "text": "$$エンジェル$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0087_03:r_338f3b27e51dcc41": {
+      "text": "$$ガドライト$$\n「It's exactly when you're in a mood\n　like that, that you oughta drink.\n　To forget all the crap you hate」",
+      "status": "translated"
+    },
+    "stage0087_03:r_d91d4bc2d52b61c4": {
+      "text": "$$エンジェル$$\n「...I finally understand」",
+      "status": "translated"
+    },
+    "stage0087_03:r_0c8ea89b07432421": {
+      "text": "$$ガドライト$$\n「Understand what?」",
+      "status": "translated"
+    },
+    "stage0087_03:r_4dbfba00ba7744ee": {
+      "text": "$$エンジェル$$\n「Why I was drawn to you」",
+      "status": "translated"
+    },
+    "stage0087_03:r_be100a32b731708d": {
+      "text": "$$ガドライト$$\n「A man and a woman don't need\n　a reason, do they?」",
+      "status": "translated"
+    },
+    "stage0087_03:r_702f82442fcec8a9": {
+      "text": "$$エンジェル$$\n「You're the same as me...\n　There's no place for you here」",
+      "status": "translated"
+    },
+    "stage0087_03:r_b1e38da4e8775ffe": {
+      "text": "$$ガドライト$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0087_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$エンジェル$$\n「A doll, placed in a world\n　someone built...\n　I... I came to know that...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$エンジェル$$\n「No... I'd known it for a\n　long time now. But I thought\n　I could live on, looking away from it」",
+      "status": "translated"
+    },
+    "stage0087_03:r_3dad695c99e9e052": {
+      "text": "$$エンジェル$$\n「But he wouldn't accept that」",
+      "status": "translated"
+    },
+    "stage0087_03:r_66d4ae3a21caf881": {
+      "text": "$$ガドライト$$\n「$$ロジャー・スミス$$, huh...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_0c18da7b3a37825d": {
+      "text": "$$エンジェル$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0087_03:r_63249745ffae61b6": {
+      "text": "$$ガドライト$$\n「He's a reckless guy too.\n　If he'd just lived on without his memories,\n　he'd have been free of both pain and sorrow...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_abdb034ae8509702": {
+      "text": "$$エンジェル$$\n「In you, choosing to live that way,\n　I felt something the same as myself...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_3ff2e21207d1d1d3": {
+      "text": "$$エンジェル$$\n「But... I think I'm at my limit...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_e51ecf6d6aa42e75": {
+      "text": "$$ガドライト$$\n「H-hey...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_47ddabb7b60131c2": {
+      "text": "$$エンジェル$$\n「I... I've read it...\n　The final chapter of '$$メトロポリス$$'...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_b025267f22788233": {
+      "text": "$$エンジェル$$\n「I want to forget everything...\n　Go back to when I knew nothing...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_ec1a06a7023bf72c": {
+      "text": "$$ガドライト$$\n「$$エンジェル$$...\n　A messenger of god... huh...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_8805f96e52aaa462": {
+      "text": "$$ガドライト$$\n「...Damn...\n　The booze is gonna taste bad again...」",
+      "status": "translated"
+    },
+    "stage0087_03:r_124591cb154fae64": {
+      "text": "D-Trader Backdrop",
+      "status": "translated"
+    },
+    "stage0087_03:r_7bdb6fecc8b3bde8": {
+      "text": "D-Trader Backdrop",
+      "status": "translated"
+    },
+    "stage0087_03:r_4bf9b05b5f948170": {
+      "text": "D-Trader Backdrop",
+      "status": "translated"
+    },
+    "stage0087_03:r_eaa52d152f444bfd": {
+      "text": "　\n　　\n　　　　　　　　　　　～ D-Trader ～",
+      "status": "translated"
+    },
+    "stage0087_03:r_b4bc9e9435b58e6f": {
+      "text": "$$ＡＧ$$\n「My apologies!\n　An emergency's come up, so today\n　D-Trader will run on the automatic system!」",
+      "status": "translated"
+    },
+    "stage0087_03:r_a9227573166977a9": {
+      "text": "$$ＡＧ$$\n「The celebration for the ace pilot\n　will also be carried over to next time!」",
+      "status": "translated"
+    },
+    "stage0087_03:r_b0600ab9a9e8559d": {
+      "text": "$$ＡＧ$$\n「Even I have to say, this is bad...!\n　This is an unexpected situation\n　even for me! Well then, excuse me!」",
+      "status": "translated"
+    }
+  }
+}

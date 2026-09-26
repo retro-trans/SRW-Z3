@@ -1,0 +1,626 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0063_04:r_caaab7bad760e16d": {
+      "text": "$$田中司令$$\n「According to Director $$大塚$$,\n　these ruins may be the Mechanical Beast Army's base」",
+      "status": "imported"
+    },
+    "stage0063_04:r_99b162aa6aa286a2": {
+      "text": "$$Ｆ．Ｓ．$$\n「$$ＷＩＬＬ$$... sensing anything?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_58fb02434a1c40b2": {
+      "text": "$$ＷＩＬＬ$$\n「No response from sensors or anything else」",
+      "status": "imported"
+    },
+    "stage0063_04:r_1c0f94acd5a8a143": {
+      "text": "$$ミサト$$\n「If it's come to this, all we can do is\n　dig through the ruins ourselves」",
+      "status": "imported"
+    },
+    "stage0063_04:r_1263541f4071624e": {
+      "text": "$$田中司令$$\n「Indeed.\n　And our digging expert is in fine form, too」",
+      "status": "imported"
+    },
+    "stage0063_04:r_3bc300bbdc277d82": {
+      "text": "$$Ｆ．Ｓ．$$\n「Good... all units, launch」",
+      "status": "imported"
+    },
+    "stage0063_04:r_38762a09460d8b6b": {
+      "text": "$$さやか$$\n「It's completely fallen to ruin」",
+      "status": "imported"
+    },
+    "stage0063_04:r_7ab28e70b4d4f641": {
+      "text": "$$ボス$$\n「Is that $$あしゅら$$ jerk really out here?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$甲児$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0063_04:r_ec335e69f984b8b3": {
+      "text": "$n\n「What's wrong, $$甲児$$?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_0abcaf0c31978670": {
+      "text": "$$甲児$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_1d6bc48b7f246730": {
+      "text": "$$さやか$$\n「$$甲児$$!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_1af20fccc3c53cfc": {
+      "text": "$$甲児$$\n「Ah...」",
+      "status": "imported"
+    },
+    "stage0063_04:r_f951916061232dcd": {
+      "text": "$$竜馬$$\n「You're out of it.\n　We don't know when a Mechanical Beast might show up」",
+      "status": "imported"
+    },
+    "stage0063_04:r_4d863c3fb88a4c39": {
+      "text": "$$ノリコ$$\n「Were you dreaming or something?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_44f4742c3dcce39a": {
+      "text": "$$甲児$$\n「...Maybe I was...」",
+      "status": "imported"
+    },
+    "stage0063_04:r_9e701cdeb3842c21": {
+      "text": "$$ミカ$$\n「Be careful!\n　There's a huge energy reading from underground!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_6fd81f4abebe60c5": {
+      "text": "$$タケル$$\n「So this really is their base!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_da2132b5038ec737": {
+      "text": "$$甲児$$\n「So, they've come out!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_495d61d3ec7e16f2": {
+      "text": "$$ブロッケン$$\n「Welcome, $$兜甲児$$ and $c!\n　Today, I'll finally settle this with you!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_5cd353758cfe474d": {
+      "text": "$$ワッ太$$\n「Just so you know,\n　we're always ready for that!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_a653c8dec4c0f06f": {
+      "text": "$$赤木$$\n「You're the one making excuses\n　and running away, if anything!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_86d493e37a9799a7": {
+      "text": "$$ブロッケン$$\n「Grrr!\n　Such a mouthy bunch!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_09d0fcc600cdd3df": {
+      "text": "$$あしゅら$$\n「Don't rise to their taunts, $$ブロッケン$$」",
+      "status": "imported"
+    },
+    "stage0063_04:r_182faded068c15ed": {
+      "text": "$$ブロッケン$$\n「I know...!\n　I'll give the insolent what they deserve!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_9c206d19bfda4bd5": {
+      "text": "$$隼人$$\n「So the enemy's thrown every Mechanical Beast they have」",
+      "status": "imported"
+    },
+    "stage0063_04:r_6e558bc69acf5bf3": {
+      "text": "$$弁慶$$\n「Seems they mean to finish this for real」",
+      "status": "imported"
+    },
+    "stage0063_04:r_d60d0818e965232f": {
+      "text": "$$竜馬$$\n「Just what I wanted!\n　Don't slip up, everyone!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_5b23687574286204": {
+      "text": "$n\n「Understood!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_6fd86c96891ea942": {
+      "text": "$$甲児$$\n「Here we go, $$あしゅら$$, $$ブロッケン$$!\n　I'll end our fight right here!!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_43e4e548c0b28376": {
+      "text": "$$あしゅら$$\n（Heh...）",
+      "status": "imported"
+    },
+    "stage0063_04:r_d80a9688790ed583": {
+      "text": "$$あしゅら$$\n（So it ends...）",
+      "status": "imported"
+    },
+    "stage0063_04:r_708bea61e3c43ada": {
+      "text": "$$あしゅら$$\n（No, it's about to begin...!）",
+      "status": "imported"
+    },
+    "stage0063_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ブロッケン$$\n「Don't underestimate me, $c!\n　I am an unbreakable man!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_0827963cfd706e8d": {
+      "text": "$$ブロッケン$$\n「Grrr!\n　As expected, from the ones who've made me\n　suffer before! You really deliver!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$あしゅら$$\n「Then, we'll use our trump card too」",
+      "status": "imported"
+    },
+    "stage0063_04:r_3f4035fd9db81258": {
+      "text": "$$ブロッケン$$\n「A trump card...\n　You have something like that?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_567b361a454c4b73": {
+      "text": "$$あしゅら$$\n「Yes!\n　That's part of Mycenae's legacy of terror!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_d22851aaafbbf8fc": {
+      "text": "$$さやか$$\n「Something else is coming from underground!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_352534f64413d954": {
+      "text": "$$ボス$$\n「Damn it!\n　They still had a $$タロス像$$ left!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_79f2664edb1af798": {
+      "text": "$$正太郎$$\n「A giant $$インベーダー#keyword$$!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$タケル$$\n「Why is something like that underground!?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_1c5aa0d15ae24846": {
+      "text": "Kedora\n「Destroy... destroy...」",
+      "status": "imported"
+    },
+    "stage0063_04:r_53bb64ee17750ee2": {
+      "text": "Kedora\n「All civilizations but Mycenae will be erased...」",
+      "status": "imported"
+    },
+    "stage0063_04:r_7a7add80fde475ba": {
+      "text": "$$甲児$$\n「So Kedora is controlling that $$タロス像$$!?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_b2befefdbed1393d": {
+      "text": "$$シモン$$\n「Watch out!\n　If that's riding it, this is no ordinary\n　$$タロス像$$, that's for sure!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_2103f6df2ea2e447": {
+      "text": "$$ブロッケン$$\n「Th- this is...」",
+      "status": "imported"
+    },
+    "stage0063_04:r_a12e3e130d896ff7": {
+      "text": "$$あしゅら$$\n「Fu fu fu...」",
+      "status": "imported"
+    },
+    "stage0063_04:r_b6f7b219eb4bd64b": {
+      "text": "$$あしゅら$$\n「Kukuku...」",
+      "status": "imported"
+    },
+    "stage0063_04:r_91bf33c27ad39f0a": {
+      "text": "$$あしゅら$$\n「This is the legacy of terror...!\n　A power of Mycenae humans can't imagine!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_ee220318b96ab538": {
+      "text": "$$隼人$$\n「Mycenae was using that $$インベーダー#keyword$$\n　as a fighting force of their own!?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_ce1b55e526b6277a": {
+      "text": "$$竜馬$$\n「Who cares about that!\n　Crushing these guys comes first!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_c304df6888eb78f7": {
+      "text": "$$あしゅら$$\n「Now, $$ブロッケン$$!\n　Use this power, and bury them!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_c26958634526e597": {
+      "text": "$$ブロッケン$$\n「R- right...」",
+      "status": "imported"
+    },
+    "stage0063_04:r_cdb750c9d380881a": {
+      "text": "$$ブロッケン$$\n「Hahahaha!\n　Tremble in fear, $c!\n　Now I shall deliver your punishment!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_95fda74613c97b39": {
+      "text": "$$甲児$$\n「Damn it...!\n　Curse you, $$あしゅら$$!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_1956994937f8171e": {
+      "text": "$$あしゅら$$\n「Fu fu fu...」",
+      "status": "imported"
+    },
+    "stage0063_04:r_48f49f6728c15612": {
+      "text": "$$ブロッケン$$\n「Nuooooh!\n　Th- this can't be!!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$正太郎$$\n「That $$タロス像$$ is!?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_f02c37d91387d0ad": {
+      "text": "$$ワッ太$$\n「Look at the palm!\n　$$ブロッケン$$'s riding it!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$ブロッケン$$\n「Wh- where are you, $$あしゅら$$!?\n　Did you leave me behind and flee!?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_9796b3efa401a303": {
+      "text": "$$ブロッケン$$\n「Argh! Fine, then!\n　I'll fight on, even alone!\n　To avenge Dr. Hell!!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_643b6eebfc0186b3": {
+      "text": "$$赤木$$\n「Is he... still planning to fight?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_291280e5f7eb9d70": {
+      "text": "$$葵$$\n「Pathetic, once he gets like that...」",
+      "status": "imported"
+    },
+    "stage0063_04:r_32eb462c1b4999cb": {
+      "text": "$$甲児$$\n「Stop it already, $$ブロッケン$$!\n　It's pointless to keep going!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_1f4337d6d393fc37": {
+      "text": "$$ブロッケン$$\n「Silence! Silence!!\n　At this point, I'll drag as many of you\n　to hell with me as I can!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_4740e748fae085ee": {
+      "text": "$$あしゅら$$\n「Well said, $$ブロッケン$$!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_b76524cd840e1d37": {
+      "text": "$$甲児$$\n「$$あしゅら$$!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_730ffe18400abfc2": {
+      "text": "$$あしゅら$$\n「In a moment, the self-destruct device set\n　beneath these ruins will go off」",
+      "status": "imported"
+    },
+    "stage0063_04:r_ffe0fca26da5cd38": {
+      "text": "$$ブロッケン$$\n「Wh- what!?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_bfb27f9eb2f7073e": {
+      "text": "$$あしゅら$$\n「Don't panic, $$ブロッケン$$!\n　You will hold them off here!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_859dfa27bcaafe30": {
+      "text": "$$ブロッケン$$\n「B- but...」",
+      "status": "imported"
+    },
+    "stage0063_04:r_71ebf05996a4b0fd": {
+      "text": "$$あしゅら$$\n「Have you forgotten your debt to Dr. Hell!?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_6214c11b1bca811e": {
+      "text": "$$ブロッケン$$\n「And you plan to run away, is that it!?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_8eaf6f3098ffed12": {
+      "text": "$$あしゅら$$\n「Of course.\n　The master I serve lies elsewhere」",
+      "status": "imported"
+    },
+    "stage0063_04:r_cf507214fe955d75": {
+      "text": "$$甲児$$\n「Wait, $$あしゅら$$!!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_2113dcbabdfc758a": {
+      "text": "$$あしゅら$$\n「Farewell, $$兜甲児$$!\n　$c!!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$あしゅら$$\n「Perish along with these crumbling ruins!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_6a74519e1fc29c4b": {
+      "text": "$$あしゅら$$\n「That is $$あしゅら$$'s final mercy!!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_5b992878fee054b5": {
+      "text": "$$甲児$$\n「$$あしゅら$$...」",
+      "status": "imported"
+    },
+    "stage0063_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$ミサト$$\n「All units, fall back!\n　Get as far away as you can!!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ブロッケン$$\n「W- wait, $c!\n　I...!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_20cf167c0ec0d4d5": {
+      "text": "$n\n「Sorry.\n　We can't stay and keep you company」",
+      "status": "imported"
+    },
+    "stage0063_04:r_b591d812c96c6c99": {
+      "text": "$$竜馬$$\n「If you don't want to die, you'd better run too!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_e350fa099c1ab072": {
+      "text": "$$ブロッケン$$\n「I- I won't run!\n　To repay my debt to Dr. Hell,\n　I'll finish you here...!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$甲児$$\n「Suit yourself!\n　We can't afford to die in a place like this!!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_c33bd700553abf91": {
+      "text": "$$ブロッケン$$\n「W- wait! Wait, please!\n　I... I am...!!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_feee5c91826230e1": {
+      "text": "$$ブロッケン$$\n「Uooooooooohh!!\n　Long live Dr. Hell!!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_bccc48e1964ad22d": {
+      "text": "$$甲児$$\n「What is this feeling...?\n　Long ago, in some distant past,\n　I feel like I fought like this before...」",
+      "status": "imported"
+    },
+    "stage0063_04:r_f8736aaaa216c766": {
+      "text": "$$甲児$$\n「Is $$マジンガーＺ$$ trying to tell me something...?\n　This feeling... connected to that golden god...?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_d1ec2522c87c361d": {
+      "text": "$$ブロッケン$$\n「$$兜甲児$$!\n　I have long awaited this day!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_3599f0a4343fd95c": {
+      "text": "$$甲児$$\n「$$ブロッケン$$!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_3bc7834a5bf3ee76": {
+      "text": "$$ブロッケン$$\n「Ever since I lost Dr. Hell, I have lived\n　only to take revenge on you all!\n　Now, I fulfill that purpose!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_366814efdc8b5800": {
+      "text": "$$甲児$$\n「Shut up, $$ブロッケン$$!\n　Do you know how many people have suffered\n　because of your selfish wish!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_9be1a4c10bb62515": {
+      "text": "$$甲児$$\n「$$あしゅら$$!\n　You listen too!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_94a88c90e557e16e": {
+      "text": "$$あしゅら$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0063_04:r_1c208ca0cbf26f28": {
+      "text": "$$甲児$$\n「I'll never forgive anyone who steals a person's peace!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_5b7ee307a700171a": {
+      "text": "$$甲児$$\n「No matter how many times you come back,\n　no matter how mighty a power you hold,\n　$$マジンガーＺ$$ and I will crush your ambition!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_8d8f065c932da30a": {
+      "text": "$$ブロッケン$$\n「Playtime's over, $$弓さやか$$!\n　Today, I'll fight you for real!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_f5432119677514f7": {
+      "text": "$$さやか$$\n「Just what I wanted, $$ブロッケン伯爵$$!\n　I won't forgive what you've done!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_4e5c8e989c4a7691": {
+      "text": "$$さやか$$\n「Watch closely!\n　I'll hit you with a woman's pride and fury!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_adec86483b13599a": {
+      "text": "$$ボス$$\n「I'll settle this, you worn-out $$ブロッケン伯爵$$!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_2cf701bbcde3ec13": {
+      "text": "$$ブロッケン$$\n「I won't be told that by a junk robot like you!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_c17c58fdba72005e": {
+      "text": "$$ボス$$\n「We've both played it for laughs so far,\n　but today, I'm going all out!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_1fe8564d2b959317": {
+      "text": "$$ブロッケン$$\n「Come, then!\n　I have no intention of playing around either!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_f527e012803f7f1c": {
+      "text": "$$ボス$$\n「Then I won't hold back!\n　I'm going all the way today!!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_4b1247bd3ca4905d": {
+      "text": "$$正太郎$$\n「We've cornered you, Mechanical Beast Army!\n　I won't let you get away today!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_00c55e25f87b71d0": {
+      "text": "$$ブロッケン$$\n「Naive, boy!\n　You've been lured here, all of you!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_338f3b27e51dcc41": {
+      "text": "$$正太郎$$\n「I won't lose to a threat like that!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_d91d4bc2d52b61c4": {
+      "text": "$$正太郎$$\n「Let's do this, $$鉄人$$!\n　We'll knock that flying fortress down!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_0c8ea89b07432421": {
+      "text": "$$ブロッケン$$\n「You cut-rate robot from a tiny outfit!\n　Your very existence is an eyesore!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_4dbfba00ba7744ee": {
+      "text": "$$ワッ太$$\n「We wear rags, but our hearts are gold!\n　I won't listen to a word from troublemakers\n　like you lot!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_be100a32b731708d": {
+      "text": "$$ワッ太$$\n「Here we go, $$ブロッケン伯爵$$!\n　You won't be running away today!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_702f82442fcec8a9": {
+      "text": "$$竜馬$$\n「Looks like you're resolved, $$ブロッケン$$!\n　I'll give you credit for that resolve!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_b1e38da4e8775ffe": {
+      "text": "$$ブロッケン$$\n「Hmph...!\n　I have no interest in an enemy's praise!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ブロッケン$$\n「All I want to hear is your cry for mercy\n　and your dying scream!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$竜馬$$\n「So it's for real today, huh!?\n　Bring it on!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_3dad695c99e9e052": {
+      "text": "$$竜馬$$\n「If that's the kind of guy I'm up against,\n　I'll go full throttle too!!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_66d4ae3a21caf881": {
+      "text": "$$葵$$\n「Come to think of it, we go way back, don't we」",
+      "status": "imported"
+    },
+    "stage0063_04:r_0c18da7b3a37825d": {
+      "text": "$$ブロッケン$$\n「Sad to part with me, are you?\n　You have a cute side after all」",
+      "status": "imported"
+    },
+    "stage0063_04:r_63249745ffae61b6": {
+      "text": "$$ブロッケン$$\n「But what you should really mourn\n　is your parting with this world!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_abdb034ae8509702": {
+      "text": "$$葵$$\n「You're good for a laugh to the end!\n　If you think that death-defying resolve of\n　yours can stop our wild side, think again!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_3ff2e21207d1d1d3": {
+      "text": "$$葵$$\n「Bye-bye, $$ブロッケン伯爵$$!\n　Take care of yourself in the next world!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_e51ecf6d6aa42e75": {
+      "text": "$$タケル$$\n「My psychic power is sensing it...!\n　A premonition, that something huge is coming!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_47ddabb7b60131c2": {
+      "text": "$$ブロッケン$$\n「Getting cold feet, $$明神タケル$$!?\n　Well, it's no wonder!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_b025267f22788233": {
+      "text": "$$タケル$$\n「No...!\n　This bad feeling isn't coming from you!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_ec1a06a7023bf72c": {
+      "text": "$$あしゅら$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0063_04:r_8805f96e52aaa462": {
+      "text": "$$タケル$$\n「$$あしゅら男爵$$!\n　I'll stop you right here!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_124591cb154fae64": {
+      "text": "$$タケル$$\n「If I let you get away, I feel like something\n　irreversible is going to happen!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$赤木$$\n「Out here, we don't have to worry about\n　damage to the city, so we can go all out!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_4bf9b05b5f948170": {
+      "text": "$$ブロッケン$$\n「Don't make me laugh, salaryman!\n　Your best effort can't amount to much!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_eaa52d152f444bfd": {
+      "text": "$$赤木$$\n「That's rich, coming from someone we've beaten before!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_b4bc9e9435b58e6f": {
+      "text": "$$赤木$$\n「Here we go, $$ブロッケン伯爵$$!\n　What salaryman spirit and guts can do,\n　I'll show you plenty today!!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_a9227573166977a9": {
+      "text": "$$ブロッケン$$\n「Hahaha, a spineless brat!\n　I'll make you a moth flying into the flame!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_b0600ab9a9e8559d": {
+      "text": "$$シンジ$$\n「I won't lose to words like that!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_7cbc63dad295f862": {
+      "text": "$$ブロッケン$$\n「Wh- what!?\n　This feels different from before!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_07f53c816e0a51f5": {
+      "text": "$$シンジ$$\n「If you're going to settle this,\n　I won't run away either!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_2d09c6f6a2d990ea": {
+      "text": "$$シンジ$$\n「I'll do this too!\n　To protect this world... everyone in it!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_3c5fcfc484a51913": {
+      "text": "$$シモン$$\n「Got some nerve, $$ブロッケン伯爵$$!\n　Fine, I'll face you head-on like you want!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_0476ffd10c764b0e": {
+      "text": "$$ブロッケン$$\n「Then that prized drill of yours,\n　I shall smash to bits!!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$シモン$$\n「If you think you can, then try it!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_2b3479c4cf0680f4": {
+      "text": "$$ブロッケン$$\n「Wh- what is this guy!?\n　He's more fired up than ever before!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_e370696b8936b08c": {
+      "text": "$$シモン$$\n「I have someone waiting for me!\n　Don't think you can break my bond with $$ニア$$!!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_9d7b02c5e728b7aa": {
+      "text": "$$ブロッケン$$\n「Argh!\n　No matter how huge an opponent is, there's\n　always an opening! If I aim for it...!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_9af213fc64e0afec": {
+      "text": "$$ノリコ$$\n「If you think this $$ガンバスター$$ has\n　something like that, you're dead wrong, girl!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_d7f1c506e78e55ff": {
+      "text": "$$ブロッケン$$\n「What did you say!?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_0c705091f748360e": {
+      "text": "$$ノリコ$$\n「Here I come, evil Count!\n　I'll crush your ambitions head-on!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_9eb8599304125b2f": {
+      "text": "$n\n「$$ブロッケン伯爵$$!\n　Our feud has gone on for quite a while!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_a072aa25e5f521e0": {
+      "text": "$$ブロッケン$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_24e1a808a1609a1a": {
+      "text": "$$スズネ$$\n「I won't let you say you've forgotten!\n　Attacking Jindai High and taking us hostage!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_53128ce8f154fd06": {
+      "text": "$$ブロッケン$$\n「You're still holding a grudge over that!?」",
+      "status": "imported"
+    },
+    "stage0063_04:r_03b5db9ce98fb8d6": {
+      "text": "$n\n「That's rich, from you, out for revenge...!\n　And while we're at it, let me say this:\n　you're just holding a grudge for nothing!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_3915fb4102f1c1dd": {
+      "text": "$$ブロッケン$$\n「You...! Such a smart mouth!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_817b2773b4ed563e": {
+      "text": "$n\n「The anger of everyone whose peace you stole,\n　I'll deliver it on their behalf!」",
+      "status": "imported"
+    },
+    "stage0063_04:r_1cc233cbc8c80af7": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

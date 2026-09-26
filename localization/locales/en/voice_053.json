@@ -1,0 +1,818 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_053:r_479b340ccc6c572b": {
+      "text": "Don't mess with me... Don't mess!",
+      "status": "imported"
+    },
+    "voice_053:r_ca4acbac57a2a35e": {
+      "text": "You'll taste it too...!\\nHell itself!",
+      "status": "imported"
+    },
+    "voice_053:r_77949221bf58f862": {
+      "text": "Behold...! My power... My rage!",
+      "status": "imported"
+    },
+    "voice_053:r_70b9c4b9f1f37eff": {
+      "text": "I'll avenge the Geminids' rage!",
+      "status": "imported"
+    },
+    "voice_053:r_9fcb3754cb1773c7": {
+      "text": "My rage is making my blood boil!",
+      "status": "imported"
+    },
+    "voice_053:r_3559d2fad32c2435": {
+      "text": "Geminia, crush them!\\nUtterly!",
+      "status": "imported"
+    },
+    "voice_053:r_f7570547e9f80a64": {
+      "text": "But...\\nI can't help it either...!",
+      "status": "imported"
+    },
+    "voice_053:r_cbab0f4720e1fcf1": {
+      "text": "This is the only thing I can do!",
+      "status": "imported"
+    },
+    "voice_053:r_0bbe0b4f5364e732": {
+      "text": "Too late for regret!\\nYou overdid it!",
+      "status": "imported"
+    },
+    "voice_053:r_5dda5198137cb02a": {
+      "text": "How's it feel?\\nYou opened despair!",
+      "status": "imported"
+    },
+    "voice_053:r_83ec59afbecdec14": {
+      "text": "I even paved\\nthis road to your ruin!",
+      "status": "imported"
+    },
+    "voice_053:r_e20bfd42ad95a3c9": {
+      "text": "Walk the Geminids'\\nroad to despair!",
+      "status": "imported"
+    },
+    "voice_053:r_0f58a8822381e57f": {
+      "text": "Playtime's over! I'll crush you all!",
+      "status": "imported"
+    },
+    "voice_053:r_6dbcc507fb61b51d": {
+      "text": "Why...?\\nWhy did it come to this...!?",
+      "status": "imported"
+    },
+    "voice_053:r_b42ab697149a7c8a": {
+      "text": "Only you get saved?\\nUnforgivable!",
+      "status": "imported"
+    },
+    "voice_053:r_4de4fcf3b440baf4": {
+      "text": "Earthlings should've\\nstayed doomed!",
+      "status": "imported"
+    },
+    "voice_053:r_0121a166c715cdff": {
+      "text": "Call it misdirected rage!\\nBut...!",
+      "status": "imported"
+    },
+    "voice_053:r_30fad37a42bd3ad3": {
+      "text": "They'll see me fight too!",
+      "status": "imported"
+    },
+    "voice_053:r_80a0b2a84e05d81a": {
+      "text": "Crush you,\\nthen go as far as I can!",
+      "status": "imported"
+    },
+    "voice_053:r_4a9ac1dff86506d9": {
+      "text": "Dimension cage falls.\\nThen I fight!",
+      "status": "imported"
+    },
+    "voice_053:r_bc8538e6af3d2577": {
+      "text": "Not yet! Don't think that was all!",
+      "status": "imported"
+    },
+    "voice_053:r_924516c8de2b5342": {
+      "text": "Either my rage subsides,\\nor you die!",
+      "status": "imported"
+    },
+    "voice_053:r_da1174533722333f": {
+      "text": "Walking corpse!\\nThis time you die!",
+      "status": "imported"
+    },
+    "voice_053:r_fdeb8162976e72c1": {
+      "text": "Brat! Stay out\\nof places like this!",
+      "status": "imported"
+    },
+    "voice_053:r_6b15af9a0057cdc8": {
+      "text": "Love, my ass!\\nIt protects nothing!",
+      "status": "imported"
+    },
+    "voice_053:r_15b4a90140e8a33a": {
+      "text": "Abnormal Survivor!\\nDie beyond fate!",
+      "status": "imported"
+    },
+    "voice_053:r_af884a6b11dff121": {
+      "text": "Singularity!\\nIt was all your fault!",
+      "status": "imported"
+    },
+    "voice_053:r_ac6fe7838e95647b": {
+      "text": "Fine!\\nI'll kill one of the three!",
+      "status": "imported"
+    },
+    "voice_053:r_77ca87eacd17ad52": {
+      "text": "Gundam!\\nYou go no farther!",
+      "status": "imported"
+    },
+    "voice_053:r_bf3244994760e535": {
+      "text": "I'll crush every proof of Fire!",
+      "status": "imported"
+    },
+    "voice_053:r_aabfb21c9d069ce7": {
+      "text": "Char Aznable!\\nHad you stayed out...!",
+      "status": "imported"
+    },
+    "voice_053:r_02479dc8fe989560": {
+      "text": "New era, my ass! Newtypes, my ass!",
+      "status": "imported"
+    },
+    "voice_053:r_a2df00f91a9b0a9e": {
+      "text": "Innovator!\\nYour story ends here!",
+      "status": "imported"
+    },
+    "voice_053:r_48b60d6c48b9b142": {
+      "text": "Your inner seed\\nwill never sprout!",
+      "status": "imported"
+    },
+    "voice_053:r_8927e6fb681aa809": {
+      "text": "I deny\\nthis 'heart of space'!",
+      "status": "imported"
+    },
+    "voice_053:r_665f01666859013b": {
+      "text": "Earthling potential...?\\nAs if!",
+      "status": "imported"
+    },
+    "voice_053:r_ddbe581c5ea9183d": {
+      "text": "The Beast's blood ends here!\\nBy me!",
+      "status": "imported"
+    },
+    "voice_053:r_faae935cca0edc72": {
+      "text": "Instinct... Wildness...!\\nEnds here!",
+      "status": "imported"
+    },
+    "voice_053:r_d4430bf362340b32": {
+      "text": "I'll stop\\nthat grating song forever!",
+      "status": "imported"
+    },
+    "voice_053:r_6ff1323b355593e0": {
+      "text": "Love and romance\\nend here!",
+      "status": "imported"
+    },
+    "voice_053:r_b7b5625d7cd4282f": {
+      "text": "I'll tear off those eyesore wings!",
+      "status": "imported"
+    },
+    "voice_053:r_36133ad73a73ef98": {
+      "text": "There is no light in this universe!",
+      "status": "imported"
+    },
+    "voice_053:r_920740a0219c5085": {
+      "text": "Inheriting God's light won't help!",
+      "status": "imported"
+    },
+    "voice_053:r_a8451712c57c1a72": {
+      "text": "Getter! What lies\\npast evolution!?",
+      "status": "imported"
+    },
+    "voice_053:r_3633df5b7b8f47fa": {
+      "text": "Getter Rays can fail\\nin this cosmos!",
+      "status": "imported"
+    },
+    "voice_053:r_52dfc56b14b93551": {
+      "text": "Just keep\\nscraping up money!",
+      "status": "imported"
+    },
+    "voice_053:r_1b9b2aab5cb104da": {
+      "text": "Fool!\\nYou should've stayed decadent!",
+      "status": "imported"
+    },
+    "voice_053:r_342044c706a2340f": {
+      "text": "For the drinks I bought you!\\nDie!",
+      "status": "imported"
+    },
+    "voice_053:r_cf41e8828a90cbdb": {
+      "text": "Successor!\\nYour future won't come!",
+      "status": "imported"
+    },
+    "voice_053:r_719e897304ec42d4": {
+      "text": "You're a grunt! You can't beat me!",
+      "status": "imported"
+    },
+    "voice_053:r_d5e0a2317c40d322": {
+      "text": "That power's not\\nfor Earthlings!",
+      "status": "imported"
+    },
+    "voice_053:r_ec2ea17765052401": {
+      "text": "Tch!\\nA foe awkward in every way!",
+      "status": "imported"
+    },
+    "voice_053:r_f2d4255f1c2f7542": {
+      "text": "Spill all the water, clear or murky!",
+      "status": "imported"
+    },
+    "voice_053:r_5d08ad19e2da125b": {
+      "text": "Mecha Angel!\\nRecall your rage!",
+      "status": "imported"
+    },
+    "voice_053:r_a7246b52782a877e": {
+      "text": "Your fire or my rage?\\nWhich wins!?",
+      "status": "imported"
+    },
+    "voice_053:r_dc8701f6bcb9904f": {
+      "text": "You too will see Fire's end!",
+      "status": "imported"
+    },
+    "voice_053:r_d6bdd730f24f66eb": {
+      "text": "Spiral man!\\nOnly despair awaits!",
+      "status": "imported"
+    },
+    "voice_053:r_41997412868c48c4": {
+      "text": "Spirals make wind!\\nIt ends here!",
+      "status": "imported"
+    },
+    "voice_053:r_9e6cf4f389dae55c": {
+      "text": "No door opens!\\nSo I'll crush you!",
+      "status": "imported"
+    },
+    "voice_053:r_9e0c80ac7e33b459": {
+      "text": "Crush the key,\\nand its users panic!",
+      "status": "imported"
+    },
+    "voice_053:r_7432ef43ed3471dc": {
+      "text": "Let's settle this, Hibiki!",
+      "status": "imported"
+    },
+    "voice_053:r_065443f6ddfcf0d7": {
+      "text": "Fakes never beat real!\\nNever!",
+      "status": "imported"
+    },
+    "voice_053:r_47d52a2839c71715": {
+      "text": "My Sphere's mine!\\nNot you or them!",
+      "status": "imported"
+    },
+    "voice_053:r_847f82e7f3eef651": {
+      "text": "Machine? Who cares!\\nI'll crush you!",
+      "status": "imported"
+    },
+    "voice_053:r_eb7ae28b53dc033c": {
+      "text": "Just what the hell are you!?",
+      "status": "imported"
+    },
+    "voice_053:r_857c4a52ce8df0fd": {
+      "text": "Earth's past ends!\\nNo interference!",
+      "status": "imported"
+    },
+    "voice_053:r_55417493fce1d347": {
+      "text": "Damn brat!\\nCan you grasp my rage!?",
+      "status": "imported"
+    },
+    "voice_053:r_7d724dbcc4451e10": {
+      "text": "Answer me, Sphere!",
+      "status": "imported"
+    },
+    "voice_053:r_93e25418a203cb8f": {
+      "text": "Vanish like the trash you are!",
+      "status": "imported"
+    },
+    "voice_053:r_adeb0a29274d3d9b": {
+      "text": "Energy for destruction fills me!",
+      "status": "imported"
+    },
+    "voice_053:r_24cf161287ef9d5c": {
+      "text": "I'll erase your very soul!",
+      "status": "imported"
+    },
+    "voice_053:r_8f60f6fc86db3107": {
+      "text": "Light Particle Blast - Full Power!",
+      "status": "imported"
+    },
+    "voice_053:r_b1de76a75a253c13": {
+      "text": "Take this!!",
+      "status": "imported"
+    },
+    "voice_053:r_128c35bf3e0e394c": {
+      "text": "I'll hit you with all of my rage!",
+      "status": "imported"
+    },
+    "voice_053:r_5213c17e13b23de0": {
+      "text": "Devour them whole, Geminia!",
+      "status": "imported"
+    },
+    "voice_053:r_38fdff9483e9245c": {
+      "text": "Formenia! Cut down my enemy!",
+      "status": "imported"
+    },
+    "voice_053:r_620fedec67706d7d": {
+      "text": "Hyaaaaaah!",
+      "status": "imported"
+    },
+    "voice_053:r_9680dcd0fddcfcc7": {
+      "text": "Pour the Sphere's power into this!",
+      "status": "imported"
+    },
+    "voice_053:r_2a00f1044ad5cbaa": {
+      "text": "Slice them apart, Formenia!",
+      "status": "imported"
+    },
+    "voice_053:r_3dbeead1bd3164ef": {
+      "text": "Geminids' regrets become my blade!",
+      "status": "imported"
+    },
+    "voice_053:r_98d15b8cc09bc915": {
+      "text": "This is our rage!",
+      "status": "imported"
+    },
+    "voice_053:r_46e86d000250e137": {
+      "text": "Geminia! Turn my rage into power!",
+      "status": "imported"
+    },
+    "voice_053:r_ac341e7976e88f0b": {
+      "text": "Sever cause and effect! Begone!",
+      "status": "imported"
+    },
+    "voice_053:r_cdbd128a5b4127cc": {
+      "text": "Quarreling Twins' Sphere...!\\nPower!",
+      "status": "imported"
+    },
+    "voice_053:r_cfccaa1fbeda124c": {
+      "text": "Let's do this, Geminia!",
+      "status": "imported"
+    },
+    "voice_053:r_b1f8ec192b9c083a": {
+      "text": "Raaaaaagh!",
+      "status": "imported"
+    },
+    "voice_053:r_a007f9ab9cf048b3": {
+      "text": "Vanish beyond the causal horizon!!",
+      "status": "imported"
+    },
+    "voice_053:r_ddafde4b065ced49": {
+      "text": "My feelings become Geminia's power!",
+      "status": "imported"
+    },
+    "voice_053:r_de1213040856c089": {
+      "text": "I'll unleash pure rage itself!",
+      "status": "imported"
+    },
+    "voice_053:r_3304412ac41f47a6": {
+      "text": "I'll destroy everything!",
+      "status": "imported"
+    },
+    "voice_053:r_0c0775e051211840": {
+      "text": "Until our regrets are laid to rest!",
+      "status": "imported"
+    },
+    "voice_053:r_a2afffe1c396f0b3": {
+      "text": "Light Particle Full Burst!",
+      "status": "imported"
+    },
+    "voice_053:r_13c25fbdfddc8a24": {
+      "text": "Let's end this, Geminia!",
+      "status": "imported"
+    },
+    "voice_053:r_42ba1ecb310b4bd7": {
+      "text": "Sphere, answer me!",
+      "status": "imported"
+    },
+    "voice_053:r_d692f1d420460a47": {
+      "text": "Turn my rage into power!",
+      "status": "imported"
+    },
+    "voice_053:r_a03fabecba1508ca": {
+      "text": "Die, Hibiki!",
+      "status": "imported"
+    },
+    "voice_053:r_1568ff6298b12b96": {
+      "text": "You fake! Vanish!",
+      "status": "imported"
+    },
+    "voice_053:r_06f88dcbd3c9e738": {
+      "text": "You're not getting away!",
+      "status": "imported"
+    },
+    "voice_053:r_b28faf9f71bc3598": {
+      "text": "I never forget a grudge!",
+      "status": "imported"
+    },
+    "voice_053:r_8a29278549f8e07a": {
+      "text": "Think you can escape? Dead wrong!",
+      "status": "imported"
+    },
+    "voice_053:r_7e6c573c26177f98": {
+      "text": "You think I'll let you run!?",
+      "status": "imported"
+    },
+    "voice_053:r_45abf84f7757d6eb": {
+      "text": "You think only you'll survive!?",
+      "status": "imported"
+    },
+    "voice_053:r_edd7a13ab8f06a14": {
+      "text": "I'll crush you wherever you run!",
+      "status": "imported"
+    },
+    "voice_053:r_8165e5b41f0124c4": {
+      "text": "Don't think double payback will do!",
+      "status": "imported"
+    },
+    "voice_053:r_4e05581b7432cce8": {
+      "text": "I'll teach you your place!",
+      "status": "imported"
+    },
+    "voice_053:r_a60b107ea3c36a86": {
+      "text": "Not running? Then you want to die!",
+      "status": "imported"
+    },
+    "voice_053:r_e33693e5ba4665b0": {
+      "text": "Pay for enraging me\\nwith your life!",
+      "status": "imported"
+    },
+    "voice_053:r_72a21a1a489af001": {
+      "text": "Move! I'm delivering the final blow!",
+      "status": "imported"
+    },
+    "voice_053:r_eb643f8bf737a0ca": {
+      "text": "I'm going in! Fall back!",
+      "status": "imported"
+    },
+    "voice_053:r_0a3fccb71ec6cf2a": {
+      "text": "Move, Annalotta! I'll handle this!",
+      "status": "imported"
+    },
+    "voice_053:r_9b63cf1f3e0207ef": {
+      "text": "Damn you! I won't let you!",
+      "status": "imported"
+    },
+    "voice_053:r_8356f4e3dcdff938": {
+      "text": "Annalotta! Not you...!",
+      "status": "imported"
+    },
+    "voice_053:r_1d6d784036ae0bd7": {
+      "text": "Damn it! What a cheap trick!",
+      "status": "imported"
+    },
+    "voice_053:r_625664af02183c17": {
+      "text": "Quit sneaking!\\nIs that your limit!?",
+      "status": "imported"
+    },
+    "voice_053:r_3701cba361f80ea5": {
+      "text": "Don't mock me!\\nThink you survived!?",
+      "status": "imported"
+    },
+    "voice_053:r_63f429c5c68c0863": {
+      "text": "Geminia! What gives?\\nCan't counter!?",
+      "status": "imported"
+    },
+    "voice_053:r_38e4a434c91d8ef0": {
+      "text": "Too slow, you lumbering idiot!",
+      "status": "imported"
+    },
+    "voice_053:r_98ed411352a3a6ac": {
+      "text": "Where are you aiming, you amateur!?",
+      "status": "imported"
+    },
+    "voice_053:r_4824bea6bab3af67": {
+      "text": "That stupid attack won't hit me!",
+      "status": "imported"
+    },
+    "voice_053:r_862b92e63adb9734": {
+      "text": "You don't have the skill for this!",
+      "status": "imported"
+    },
+    "voice_053:r_cb306ef55e49d107": {
+      "text": "Slow-witted fool! Know your place!",
+      "status": "imported"
+    },
+    "voice_053:r_57b2bd2de8a1408d": {
+      "text": "Scared now, aren't you!? You hack!",
+      "status": "imported"
+    },
+    "voice_053:r_76f080a4881e8ab5": {
+      "text": "Geminis' captain\\nfor good reason!",
+      "status": "imported"
+    },
+    "voice_053:r_288133bc5b573dae": {
+      "text": "Match my telekinetic piloting!",
+      "status": "imported"
+    },
+    "voice_053:r_6f95653e548f8fcf": {
+      "text": "Like that would hurt me!",
+      "status": "imported"
+    },
+    "voice_053:r_d249d68bada91ab9": {
+      "text": "Understand this: It's futile!",
+      "status": "imported"
+    },
+    "voice_053:r_6026da5acbda7c69": {
+      "text": "Burst forth, Geminia!",
+      "status": "imported"
+    },
+    "voice_053:r_981f8fedd5414fe5": {
+      "text": "Tch! A lucky hit!?",
+      "status": "imported"
+    },
+    "voice_053:r_96bb0dcde0c8c44a": {
+      "text": "Don't celebrate a lucky hit!",
+      "status": "imported"
+    },
+    "voice_053:r_641550a2f54cb456": {
+      "text": "Stay out of this, small fry!",
+      "status": "imported"
+    },
+    "voice_053:r_a0f2074af8debbfa": {
+      "text": "If you're coming, give it your all!",
+      "status": "imported"
+    },
+    "voice_053:r_b5f5a97ed82acb0b": {
+      "text": "This damage\\nis nothing to Geminia!",
+      "status": "imported"
+    },
+    "voice_053:r_d9cd2e4ded064396": {
+      "text": "One hit doesn't mean you've won!",
+      "status": "imported"
+    },
+    "voice_053:r_99e6349431aaf23b": {
+      "text": "You think some lackey can scare me!?",
+      "status": "imported"
+    },
+    "voice_053:r_ec1081caf845f56a": {
+      "text": "Fight me? Then stake your life!",
+      "status": "imported"
+    },
+    "voice_053:r_2c5b7ee872c1ed7f": {
+      "text": "That won't pierce\\nGeminia's armor!",
+      "status": "imported"
+    },
+    "voice_053:r_76d1e51c8b494a60": {
+      "text": "Weakling!\\nYou can't save your world!",
+      "status": "imported"
+    },
+    "voice_053:r_eb5f687fcd372ae7": {
+      "text": "Damn you! Don't get carried away!",
+      "status": "imported"
+    },
+    "voice_053:r_2329428a6871d9fa": {
+      "text": "Tch! You really aren't ordinary!",
+      "status": "imported"
+    },
+    "voice_053:r_0e7466971bec4cc4": {
+      "text": "You think that can hurt me now!?",
+      "status": "imported"
+    },
+    "voice_053:r_efa71f7a4cc33ff3": {
+      "text": "Geminia now\\nwon't stop at this!",
+      "status": "imported"
+    },
+    "voice_053:r_3fc2e1186557e7a0": {
+      "text": "You dare pull that crap on me!?",
+      "status": "imported"
+    },
+    "voice_053:r_fa6930340a545054": {
+      "text": "Bastard...!\\nYou want to enrage me!?",
+      "status": "imported"
+    },
+    "voice_053:r_2332b9d56461d7ab": {
+      "text": "Wounds can wait!\\nTill I crush them!",
+      "status": "imported"
+    },
+    "voice_053:r_854aa0a91a3c80d1": {
+      "text": "Ha! Now I can finally get serious!",
+      "status": "imported"
+    },
+    "voice_053:r_0bc8ae32a406ceab": {
+      "text": "It's only one or two armor plates!",
+      "status": "imported"
+    },
+    "voice_053:r_82c09f011d703b2c": {
+      "text": "With my Sphere,\\nwounds are nothing!",
+      "status": "imported"
+    },
+    "voice_053:r_2b4d8818c77b6dca": {
+      "text": "Been ages since I got this fired up!",
+      "status": "imported"
+    },
+    "voice_053:r_087354f2db0a31e6": {
+      "text": "This just feeds\\nmy Sphere's power!",
+      "status": "imported"
+    },
+    "voice_053:r_db02a2dec93dd263": {
+      "text": "Damn... Damn it! Is this some joke!?",
+      "status": "imported"
+    },
+    "voice_053:r_d520c6d5298a848d": {
+      "text": "Think you won?\\nBackwater fool!",
+      "status": "imported"
+    },
+    "voice_053:r_099e2458cabf796f": {
+      "text": "No wonder they\\nhad their eye on you!",
+      "status": "imported"
+    },
+    "voice_053:r_fd910d714be70870": {
+      "text": "Geminia fights\\ntill my last breath!",
+      "status": "imported"
+    },
+    "voice_053:r_9736f29b11344ec3": {
+      "text": "Hahahahaha!\\nI can't stop laughing!",
+      "status": "imported"
+    },
+    "voice_053:r_fcd05582aa5c6068": {
+      "text": "You think I can feel pain now!?",
+      "status": "imported"
+    },
+    "voice_053:r_bece29562818acba": {
+      "text": "Hold, Geminia!\\nTill that world dies!",
+      "status": "imported"
+    },
+    "voice_053:r_494b5da92ed24ecb": {
+      "text": "Even this still isn't enough!",
+      "status": "imported"
+    },
+    "voice_053:r_a4a5a96f4bd58920": {
+      "text": "Fools!\\nStraight toward despair!",
+      "status": "imported"
+    },
+    "voice_053:r_b57d2d74233f889a": {
+      "text": "I die or you all do!\\nOne of the two!",
+      "status": "imported"
+    },
+    "voice_053:r_cd06d0820d82524b": {
+      "text": "I won't die! A woman waits for me!",
+      "status": "imported"
+    },
+    "voice_053:r_c94c6d04be583774": {
+      "text": "Even if I lose,\\nyou're doomed!",
+      "status": "imported"
+    },
+    "voice_053:r_e54e2c99ef8297af": {
+      "text": "Brat! Don't look down on adults!",
+      "status": "imported"
+    },
+    "voice_053:r_10a408809e512df1": {
+      "text": "Brat or not, I won't show mercy now!",
+      "status": "imported"
+    },
+    "voice_053:r_98902fd3143c393e": {
+      "text": "Their ESP\\nbeats my telekinesis!?",
+      "status": "imported"
+    },
+    "voice_053:r_d907fbd7bc1c4298": {
+      "text": "Abnormal Survivor!\\nSole fate defier!",
+      "status": "imported"
+    },
+    "voice_053:r_96b21e3a028dd074": {
+      "text": "Why!?\\nWhy are you so damn free!?",
+      "status": "imported"
+    },
+    "voice_053:r_ce140b5d8e6b7310": {
+      "text": "Gundam!\\nYou won't go on without us!",
+      "status": "imported"
+    },
+    "voice_053:r_0e0335789c5396d7": {
+      "text": "Even Fire's age is ending!?",
+      "status": "imported"
+    },
+    "voice_053:r_a8e85bd950696403": {
+      "text": "I refuse!\\nEarth's potential dies!",
+      "status": "imported"
+    },
+    "voice_053:r_58dd2826a199ef51": {
+      "text": "This is Beast blood... Wild power!?",
+      "status": "imported"
+    },
+    "voice_053:r_aadc0b2442adb93b": {
+      "text": "Stop that song!\\nI said stop it!",
+      "status": "imported"
+    },
+    "voice_053:r_e7a8cd8ed5bc2d1b": {
+      "text": "What they guard\\ngives them power!?",
+      "status": "imported"
+    },
+    "voice_053:r_041dd920da4a7c17": {
+      "text": "Impossible...!\\nGod and man are one!?",
+      "status": "imported"
+    },
+    "voice_053:r_c7f4280cde4605b3": {
+      "text": "No!\\nGetter Rays chose Earthlings!",
+      "status": "imported"
+    },
+    "voice_053:r_ec349c8ea9511a18": {
+      "text": "Why!?\\nHow can a civilian do this!?",
+      "status": "imported"
+    },
+    "voice_053:r_33236ffa3ea95b68": {
+      "text": "The Big's and Dominus' power...!",
+      "status": "imported"
+    },
+    "voice_053:r_689d0b123de71ae0": {
+      "text": "Zero! Still\\ntrusting the future!?",
+      "status": "imported"
+    },
+    "voice_053:r_84883aa95f63ce32": {
+      "text": "A mere grunt, but a superb soldier!",
+      "status": "imported"
+    },
+    "voice_053:r_25493e978ce8ff16": {
+      "text": "This one...!\\nTurns resolve to power!",
+      "status": "imported"
+    },
+    "voice_053:r_7316666150e42960": {
+      "text": "W-What the hell are you!?",
+      "status": "imported"
+    },
+    "voice_053:r_c4f11aa93dc5b668": {
+      "text": "Waters mix!\\nLove/hate fuse to power!",
+      "status": "imported"
+    },
+    "voice_053:r_ce1a22dfe3a4d339": {
+      "text": "Mechanical Angel! Why reject us!?",
+      "status": "imported"
+    },
+    "voice_053:r_240651adab81e145": {
+      "text": "Damn!\\nTheir flames surpass my rage!?",
+      "status": "imported"
+    },
+    "voice_053:r_cff0deaae73c2858": {
+      "text": "You defended Fire's age\\nwell indeed!",
+      "status": "imported"
+    },
+    "voice_053:r_dca67f68a573fab7": {
+      "text": "Enough, Spiral Man!\\nStop that drill!",
+      "status": "imported"
+    },
+    "voice_053:r_a6630215fefaf294": {
+      "text": "Wind leads to despair!\\nGet it!",
+      "status": "imported"
+    },
+    "voice_053:r_6f94566ad37f8ff8": {
+      "text": "Tch!\\nThat strong even now!?",
+      "status": "imported"
+    },
+    "voice_053:r_942ca03c9de80143": {
+      "text": "No way...!\\nIs it opening the door!?",
+      "status": "imported"
+    },
+    "voice_053:r_d8c669c70659e18a": {
+      "text": "This machine... It can't be!?",
+      "status": "imported"
+    },
+    "voice_053:r_8f5bade7ac2db78e": {
+      "text": "Not bad, Hibiki!\\nBut I won't lose!",
+      "status": "imported"
+    },
+    "voice_053:r_05ea490d2f522520": {
+      "text": "That system...!\\nMy Sphere...!?",
+      "status": "imported"
+    },
+    "voice_053:r_f5658c702d91db7a": {
+      "text": "This power...! What the hell is it!?",
+      "status": "imported"
+    },
+    "voice_053:r_686df329b50f195b": {
+      "text": "No way...!\\nA Sphere Reactor!?",
+      "status": "imported"
+    },
+    "voice_053:r_3e87f6fc3ea65aef": {
+      "text": "Not yet...! I can't die yet!",
+      "status": "imported"
+    },
+    "voice_053:r_5508a7bfa9074eb9": {
+      "text": "I won't die!\\nMy Sphere remains!!",
+      "status": "imported"
+    },
+    "voice_053:r_09a003e91f0d5dc7": {
+      "text": "Quarrel!",
+      "status": "imported"
+    },
+    "voice_053:r_192447448ebd7bb5": {
+      "text": "My Sphere!!",
+      "status": "imported"
+    },
+    "voice_053:r_e92920ba4b301b9f": {
+      "text": "Bye, curse heir! Ma waits in hell!",
+      "status": "imported"
+    },
+    "voice_053:r_307477bedd148060": {
+      "text": "N-Noooooooo!!",
+      "status": "imported"
+    },
+    "voice_053:r_09a780acca0eb4b0": {
+      "text": "Concentrate your attacks!",
+      "status": "imported"
+    },
+    "voice_053:r_af62f2ee466b5c8c": {
+      "text": "I'll hold them here!",
+      "status": "imported"
+    },
+    "voice_053:r_20cfb719db02fafd": {
+      "text": "So you're my opponent!",
+      "status": "imported"
+    },
+    "voice_053:r_570c1fdf72edb283": {
+      "text": "Don't think you'll win one-on-one!",
+      "status": "imported"
+    }
+  }
+}

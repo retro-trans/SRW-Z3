@@ -1,0 +1,722 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0035_04:r_caaab7bad760e16d": {
+      "text": "$$レイアム$$\n「Confirmed: a unit resembling Neo Zeon is approaching」",
+      "status": "imported"
+    },
+    "stage0035_04:r_99b162aa6aa286a2": {
+      "text": "$$オットー$$\n「Commander $$ブライト$$ called it, huh...!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_58fb02434a1c40b2": {
+      "text": "$$ブライト$$\n「All right...!\n　Get our units launched too!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_1c0f94acd5a8a143": {
+      "text": "$$アンジェロ$$\n「There you are, split-horn」",
+      "status": "imported"
+    },
+    "stage0035_04:r_1263541f4071624e": {
+      "text": "$$ギュネイ$$\n「You know the terms, $$アンジェロ・ザウパー$$.\n　Whoever nabs the white one wins」",
+      "status": "imported"
+    },
+    "stage0035_04:r_3bc300bbdc277d82": {
+      "text": "$$アンジェロ$$\n「Don't rush for glory and disgrace yourself,\n　$$ギュネイ・ガス$$, or waste the Institute's money」",
+      "status": "imported"
+    },
+    "stage0035_04:r_38762a09460d8b6b": {
+      "text": "$$マリーダ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0035_04:r_7ab28e70b4d4f641": {
+      "text": "$$クェス$$\n「Hey... aren't you joining the game?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$マリーダ$$\n「Not interested.\n　I'm only carrying out my mission\n　of striking down $c」",
+      "status": "imported"
+    },
+    "stage0035_04:r_ec335e69f984b8b3": {
+      "text": "$$クェス$$\n「I knew it, you're... someone who gets it」",
+      "status": "imported"
+    },
+    "stage0035_04:r_0abcaf0c31978670": {
+      "text": "$$マリーダ$$\n「Someone who gets it?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_1d6bc48b7f246730": {
+      "text": "$$クェス$$\n「Guess you could call it a Newtype thing?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_1af20fccc3c53cfc": {
+      "text": "$$マリーダ$$\n「I'm an Enhanced Human, same as $$ギュネイ$$」",
+      "status": "imported"
+    },
+    "stage0035_04:r_f951916061232dcd": {
+      "text": "$$クェス$$\n「That doesn't matter.\n　What matters is whether you get it or not,\n　and I think you're someone who gets it」",
+      "status": "imported"
+    },
+    "stage0035_04:r_4d863c3fb88a4c39": {
+      "text": "$$クェス$$\n「I'm... $$クェス$$ Air.\n　Nice to meet you, Lieutenant $$マリーダ$$」",
+      "status": "imported"
+    },
+    "stage0035_04:r_44f4742c3dcce39a": {
+      "text": "$$マリーダ$$\n「$$クェス$$...\n　Aren't you scared, out on the battlefield?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_9e701cdeb3842c21": {
+      "text": "$$クェス$$\n「...Dunno.\n　But the colonel went to the trouble\n　of getting me a mobile suit」",
+      "status": "imported"
+    },
+    "stage0035_04:r_6fd81f4abebe60c5": {
+      "text": "$$クェス$$\n「I have to live up to his expectations」",
+      "status": "imported"
+    },
+    "stage0035_04:r_da2132b5038ec737": {
+      "text": "$$マリーダ$$\n「So the Supreme Commander is your master...」",
+      "status": "imported"
+    },
+    "stage0035_04:r_495d61d3ec7e16f2": {
+      "text": "$$クェス$$\n「Did you say something?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_5cd353758cfe474d": {
+      "text": "$$マリーダ$$\n「No... don't worry about it」",
+      "status": "imported"
+    },
+    "stage0035_04:r_a653c8dec4c0f06f": {
+      "text": "$$マリーダ$$\n「$$ギュネイ$$, I'll keep an eye on $$クェス$$.\n　Do as you like」",
+      "status": "imported"
+    },
+    "stage0035_04:r_86d493e37a9799a7": {
+      "text": "$$ギュネイ$$\n「Appreciate it, $$マリーダ$$.\n　I owe you one」",
+      "status": "imported"
+    },
+    "stage0035_04:r_09d0fcc600cdd3df": {
+      "text": "$$アンジェロ$$\n「Enhanced Humans getting chummy...\n　How distasteful」",
+      "status": "imported"
+    },
+    "stage0035_04:r_182faded068c15ed": {
+      "text": "$$オズマ$$\n「Figures, the enemy came after the Unicorn」",
+      "status": "imported"
+    },
+    "stage0035_04:r_9c206d19bfda4bd5": {
+      "text": "$$ゼクス$$\n「Hopefully this gives us at least some idea\n　of Neo Zeon's strategy...」",
+      "status": "imported"
+    },
+    "stage0035_04:r_6e558bc69acf5bf3": {
+      "text": "$$アムロ$$\n「$$カミーユ$$,\n　I'm counting on you to cover $$バナージ$$」",
+      "status": "imported"
+    },
+    "stage0035_04:r_d60d0818e965232f": {
+      "text": "$$カミーユ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0035_04:r_5b23687574286204": {
+      "text": "$$アムロ$$\n「Are you listening, $$カミーユ$$?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_6fd86c96891ea942": {
+      "text": "$$カミーユ$$\n「I hear you」",
+      "status": "imported"
+    },
+    "stage0035_04:r_43e4e548c0b28376": {
+      "text": "$$シン$$\n「$$カミーユ$$...」",
+      "status": "imported"
+    },
+    "stage0035_04:r_d80a9688790ed583": {
+      "text": "$$ブライト$$\n「All units, protect the Unicorn\n　while intercepting the enemy force!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_708bea61e3c43ada": {
+      "text": "$$ブライト$$\n「Also, capture the enemy leader's unit if you can.\n　I want whatever intel on Neo Zeon we can get」",
+      "status": "imported"
+    },
+    "stage0035_04:r_7b6f159eeaf4de0f": {
+      "text": "$n\n「Understood...!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_0827963cfd706e8d": {
+      "text": "$$バナージ$$\n「The four-wing that hit Industrial 7 is here too...」",
+      "status": "imported"
+    },
+    "stage0035_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$ハサウェイ$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_3f4035fd9db81258": {
+      "text": "$$チェーン$$\n「What's wrong, $$ハサウェイ$$?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_567b361a454c4b73": {
+      "text": "$$ハサウェイ$$\n（Somehow, I just know...\n　$$クェス$$ is in there...）",
+      "status": "imported"
+    },
+    "stage0035_04:r_d22851aaafbbf8fc": {
+      "text": "$$レイアム$$\n「Confirmed: the enemy force has been wiped out」",
+      "status": "imported"
+    },
+    "stage0035_04:r_352534f64413d954": {
+      "text": "$$アルベルト$$\n「Captain!\n　How do you intend to take responsibility!?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_79f2664edb1af798": {
+      "text": "$$オットー$$\n「I'm already thinking about it!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$カミーユ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0035_04:r_1c5aa0d15ae24846": {
+      "text": "$$シン$$\n「$$カミーユ$$...」",
+      "status": "imported"
+    },
+    "stage0035_04:r_53bb64ee17750ee2": {
+      "text": "$$ギュネイ$$\n「Tch!\n　$$アンジェロ$$'ll be lording it over me again!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_7a7add80fde475ba": {
+      "text": "$$ギュネイ$$\n「Watch me, $c...!\n　I'm not a man who ends like this!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_b2befefdbed1393d": {
+      "text": "$$アンジェロ$$\n「All talk, no bite, $$ギュネイ$$.\n　Just Director $$ナナイ$$'s pricey toy, after all」",
+      "status": "imported"
+    },
+    "stage0035_04:r_2103f6df2ea2e447": {
+      "text": "$$アンジェロ$$\n「Here I come, split-horn...!\n　I'll capture you and declare my victory to him!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_a12e3e130d896ff7": {
+      "text": "$$ギュネイ$$\n「Damn it!\n　I can't laugh at $$アンジェロ$$ after this!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ギュネイ$$\n「Watch me, $c...!\n　I'm not a man who ends like this!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_91bf33c27ad39f0a": {
+      "text": "$$カミーユ$$\n「After them, $$バナージ$$!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_ee220318b96ab538": {
+      "text": "$$バナージ$$\n「Right!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_ce1b55e526b6277a": {
+      "text": "$$ブライト$$\n「Don't push too far, $$カミーユ$$!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_c304df6888eb78f7": {
+      "text": "$$カミーユ$$\n「If I catch him,\n　I might learn Captain $$クワトロ$$'s true intent...」",
+      "status": "imported"
+    },
+    "stage0035_04:r_c26958634526e597": {
+      "text": "$$シン$$\n「$$カミーユ$$...!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_cdb750c9d380881a": {
+      "text": "$$アムロ$$\n「No good!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_95fda74613c97b39": {
+      "text": "$$ギュネイ$$\n「$$カミーユ・ビダン$$!\n　Come here just to be knocked down!?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_1956994937f8171e": {
+      "text": "$$カミーユ$$\n「Uoooooh!!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_48f49f6728c15612": {
+      "text": "$$バナージ$$\n「$$カミーユ$$...」",
+      "status": "imported"
+    },
+    "stage0035_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$バナージ$$\n「That's...!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_f02c37d91387d0ad": {
+      "text": "$$フロンタル$$\n「You're slow」",
+      "status": "imported"
+    },
+    "stage0035_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$アルト$$\n「$$バナージ$$!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_9796b3efa401a303": {
+      "text": "$$バナージ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0035_04:r_643b6eebfc0186b3": {
+      "text": "$$宗介$$\n「This is bad...!\n　He has lost consciousness!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_291280e5f7eb9d70": {
+      "text": "$$カミーユ$$\n「Damn it!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_32eb462c1b4999cb": {
+      "text": "$$フロンタル$$\n「Careless, $$カミーユ$$.\n　As you are now, you're no match for me」",
+      "status": "imported"
+    },
+    "stage0035_04:r_1f4337d6d393fc37": {
+      "text": "$$カミーユ$$\n「Ngh...!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_4740e748fae085ee": {
+      "text": "$$フロンタル$$\n「I'll be taking this mobile suit and its pilot.\n　...Fall back, $$ギュネイ・ガス$$」",
+      "status": "imported"
+    },
+    "stage0035_04:r_b76524cd840e1d37": {
+      "text": "$$ギュネイ$$\n（Damn it...!\n　Show up late and take all the credit!）",
+      "status": "imported"
+    },
+    "stage0035_04:r_730ffe18400abfc2": {
+      "text": "$$カミーユ$$\n「$$バナージ$$!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_ffe0fca26da5cd38": {
+      "text": "$n\n「Watch out, $$カミーユ$$!\n　Something's coming!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_bfb27f9eb2f7073e": {
+      "text": "$$スズネ$$\n「UG...!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_859dfa27bcaafe30": {
+      "text": "$$赤木$$\n「Showing up at a time like this!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_71ebf05996a4b0fd": {
+      "text": "$$デュオ$$\n「It's an unmanned unit!\n　No use complaining about it!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_6214c11b1bca811e": {
+      "text": "$$ブライト$$\n「All units, intercept the UG!\n　Just focus on getting through this for now!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_8eaf6f3098ffed12": {
+      "text": "$$カミーユ$$\n「$$バナージ$$...」",
+      "status": "imported"
+    },
+    "stage0035_04:r_cf507214fe955d75": {
+      "text": "$$アムロ$$\n「$$カミーユ$$, you cover $$ハサウェイ$$」",
+      "status": "imported"
+    },
+    "stage0035_04:r_2113dcbabdfc758a": {
+      "text": "$$カミーユ$$\n「Understood」",
+      "status": "imported"
+    },
+    "stage0035_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$アンジェロ$$\n「Impossible...!\n　That I'd fall behind an Enhanced Human!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_6a74519e1fc29c4b": {
+      "text": "$$アンジェロ$$\n「Unforgivable, $c...!\n　I'll wipe out this disgrace, mark my words!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_5b992878fee054b5": {
+      "text": "$$ギュネイ$$\n「Pathetic, $$アンジェロ$$.\n　You're a disgrace to the Guard's name」",
+      "status": "imported"
+    },
+    "stage0035_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$ギュネイ$$\n「Now if I capture the split-horn, it's perfect!\n　Here I go!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_4a14ec0c511c7f0d": {
+      "text": "$$アンジェロ$$\n「Unbelievable...!\n　That I'd make the same mistake as $$ギュネイ$$!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_20cf167c0ec0d4d5": {
+      "text": "$$アンジェロ$$\n「Unforgivable, $c...!\n　I'll wipe out this disgrace, mark my words!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_b591d812c96c6c99": {
+      "text": "$$カミーユ$$\n「After them, $$バナージ$$!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_e350fa099c1ab072": {
+      "text": "$$バナージ$$\n「Right!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ブライト$$\n「Don't push too far, $$カミーユ$$!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_c33bd700553abf91": {
+      "text": "$$カミーユ$$\n「If I catch him,\n　I might learn Captain $$クワトロ$$'s true intent...」",
+      "status": "imported"
+    },
+    "stage0035_04:r_feee5c91826230e1": {
+      "text": "$$シン$$\n「$$カミーユ$$...!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_bccc48e1964ad22d": {
+      "text": "$$アムロ$$\n「No good!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_f8736aaaa216c766": {
+      "text": "$$アンジェロ$$\n「What a fool!\n　Come here just to be knocked down!?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_d1ec2522c87c361d": {
+      "text": "$$カミーユ$$\n「Uoooooh!!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_3599f0a4343fd95c": {
+      "text": "$$バナージ$$\n「$$カミーユ$$...」",
+      "status": "imported"
+    },
+    "stage0035_04:r_3bc7834a5bf3ee76": {
+      "text": "$$バナージ$$\n「That's...!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_366814efdc8b5800": {
+      "text": "$$フロンタル$$\n「You're slow」",
+      "status": "imported"
+    },
+    "stage0035_04:r_9be1a4c10bb62515": {
+      "text": "$$アルト$$\n「$$バナージ$$!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_94a88c90e557e16e": {
+      "text": "$$バナージ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0035_04:r_1c208ca0cbf26f28": {
+      "text": "$$宗介$$\n「This is bad...!\n　He has lost consciousness!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_5b7ee307a700171a": {
+      "text": "$$カミーユ$$\n「Damn it!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_8d8f065c932da30a": {
+      "text": "$$フロンタル$$\n「Careless, $$カミーユ$$.\n　As you are now, you're no match for me」",
+      "status": "imported"
+    },
+    "stage0035_04:r_f5432119677514f7": {
+      "text": "$$カミーユ$$\n「Ngh...!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_4e5c8e989c4a7691": {
+      "text": "$$フロンタル$$\n「I'll be taking this mobile suit and its pilot.\n　...Fall back, $$アンジェロ$$」",
+      "status": "imported"
+    },
+    "stage0035_04:r_adec86483b13599a": {
+      "text": "$$アンジェロ$$\n「Well done, Colonel」",
+      "status": "imported"
+    },
+    "stage0035_04:r_2cf701bbcde3ec13": {
+      "text": "$$カミーユ$$\n「$$バナージ$$!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_c17c58fdba72005e": {
+      "text": "$n\n「Watch out, $$カミーユ$$!\n　Something's coming!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_1fe8564d2b959317": {
+      "text": "$$スズネ$$\n「UG...!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_f527e012803f7f1c": {
+      "text": "$$赤木$$\n「Showing up at a time like this!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_4b1247bd3ca4905d": {
+      "text": "$$デュオ$$\n「It's an unmanned unit!\n　No use complaining about it!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_00c55e25f87b71d0": {
+      "text": "$$ブライト$$\n「All units, intercept the UG!\n　Just focus on getting through this for now!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_338f3b27e51dcc41": {
+      "text": "$$カミーユ$$\n「$$バナージ$$...」",
+      "status": "imported"
+    },
+    "stage0035_04:r_d91d4bc2d52b61c4": {
+      "text": "$$アムロ$$\n「$$カミーユ$$, you cover $$ハサウェイ$$」",
+      "status": "imported"
+    },
+    "stage0035_04:r_0c8ea89b07432421": {
+      "text": "$$カミーユ$$\n「Understood」",
+      "status": "imported"
+    },
+    "stage0035_04:r_4dbfba00ba7744ee": {
+      "text": "$$ギュネイ$$\n「$$クェス$$!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_be100a32b731708d": {
+      "text": "$$クェス$$\n「I'm fine, $$ギュネイ$$!\n　I can fall back on my own!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_702f82442fcec8a9": {
+      "text": "$$マリーダ$$\n「Are you all right, $$クェス$$!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_b1e38da4e8775ffe": {
+      "text": "$$クェス$$\n「I'm okay, $$マリーダ$$!\n　This much, I can fall back on my own!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$クェス$$\n「I've been hit...!?\n　But this much, I can fall back on my own!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$ブライト$$\n「What is that $$ジェガン$$!\n　Who's piloting it!?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_3dad695c99e9e052": {
+      "text": "$$カツ$$\n「No way!?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_66d4ae3a21caf881": {
+      "text": "$$チェーン$$\n「Come back, $$ハサウェイ$$!!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_0c18da7b3a37825d": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$!!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_63249745ffae61b6": {
+      "text": "$$クェス$$\n「That mobile suit!\n　It's after me!?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_abdb034ae8509702": {
+      "text": "$$ハサウェイ$$\n「Stop it, $$クェス$$!\n　You can't stay with Neo Zeon!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_3ff2e21207d1d1d3": {
+      "text": "$$クェス$$\n「$$ハサウェイ$$!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_e51ecf6d6aa42e75": {
+      "text": "$$ハサウェイ$$\n「$$シャア$$ is trying to start a war!\n　You mustn't help him do that!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_47ddabb7b60131c2": {
+      "text": "$$クェス$$\n「Don't act like you understand!\n　$$ハサウェイ$$, so you're like that too!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_b025267f22788233": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_ec1a06a7023bf72c": {
+      "text": "$$ブライト$$\n「Acting on your own like that!!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_8805f96e52aaa462": {
+      "text": "$$アムロ$$\n「$$カミーユ$$!\n　Cover $$ハサウェイ$$!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_124591cb154fae64": {
+      "text": "$$カミーユ$$\n「R-Roger that!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$...! $$クェス$$!!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_4bf9b05b5f948170": {
+      "text": "$$カミーユ$$\n（Captain $$クワトロ$$...\n　Did you become $$シャア$$ again\n　just to do this...!）",
+      "status": "imported"
+    },
+    "stage0035_04:r_eaa52d152f444bfd": {
+      "text": "$$アムロ$$\n「$$ハサウェイ$$!\n　Think about surviving, right now!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_b4bc9e9435b58e6f": {
+      "text": "$$ハサウェイ$$\n「But...!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_a9227573166977a9": {
+      "text": "$$カツ$$\n「You want to save $$クェス$$, right!?\n　Then you can't die!!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_b0600ab9a9e8559d": {
+      "text": "$$ハサウェイ$$\n「$$カツ$$...」",
+      "status": "imported"
+    },
+    "stage0035_04:r_7cbc63dad295f862": {
+      "text": "$$ハサウェイ$$\n「...Understood!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_07f53c816e0a51f5": {
+      "text": "$$アムロ$$\n（Do you understand, $$シャア$$...!\n　If you keep doing this,\n　the tragedy will repeat itself!）",
+      "status": "imported"
+    },
+    "stage0035_04:r_2d09c6f6a2d990ea": {
+      "text": "$$マリーダ$$\n（To go this far, right in front of Lady $$ミネバ$$...!）",
+      "status": "imported"
+    },
+    "stage0035_04:r_3c5fcfc484a51913": {
+      "text": "$$マリーダ$$\n「$$マリーダ・クルス$$, falling back!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_0476ffd10c764b0e": {
+      "text": "$$オードリー$$\n（I'm sorry, $$マリーダ$$...\n　You must be pushing yourself\n　to save me...）",
+      "status": "imported"
+    },
+    "stage0035_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$オードリー$$\n（But now that $$シャア$$ has risen,\n　I want to find what I can do...\n　to bring this war to an end...）",
+      "status": "imported"
+    },
+    "stage0035_04:r_2b3479c4cf0680f4": {
+      "text": "$$ギュネイ$$\n「Out of my way, $$カミーユ・ビダン$$!\n　I've no business with you today!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_e370696b8936b08c": {
+      "text": "$$ギュネイ$$\n「Though you, shaken by\n　$$シャア・アズナブル$$'s return, are no match for me!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_9d7b02c5e728b7aa": {
+      "text": "$$カミーユ$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_9af213fc64e0afec": {
+      "text": "$$バナージ$$\n「That man... why is he so\n　fixated on $$カミーユ$$!?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_d7f1c506e78e55ff": {
+      "text": "$$ギュネイ$$\n「The man $$シャア・アズナブル$$ has hopes for!\n　Beating him would prove my strength!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_0c705091f748360e": {
+      "text": "$$ギュネイ$$\n「But today my target is... Split-Horn!\n　You!!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_9eb8599304125b2f": {
+      "text": "$$アンジェロ$$\n「Pilot of the Split-Horn!\n　Surrender quietly!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_a072aa25e5f521e0": {
+      "text": "$$バナージ$$\n「That guy... what's he talking about!?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_24e1a808a1609a1a": {
+      "text": "$$カミーユ$$\n「Don't listen to the enemy, $$バナージ$$!\n　He's coming after you!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_53128ce8f154fd06": {
+      "text": "$$アンジェロ$$\n「You ignored my warning, so you'll pay!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_03b5db9ce98fb8d6": {
+      "text": "$$アンジェロ$$\n「I owed you all from\n　our earlier battles too!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_3915fb4102f1c1dd": {
+      "text": "$$カミーユ$$\n「That mobile suit...!\n　Is that $$クェス$$ piloting it!?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_817b2773b4ed563e": {
+      "text": "$$クェス$$\n「As expected, $$カミーユ$$!\n　You can tell it's me!?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_1cc233cbc8c80af7": {
+      "text": "$$カミーユ$$\n「What are you doing!\n　Do you even understand what you're doing!?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$クェス$$\n「You don't have to say it like that!\n　The Colonel understands me just fine!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_e180b22d18f48d38": {
+      "text": "$$カミーユ$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_e598c2a0b27e7f50": {
+      "text": "$$クェス$$\n「I hate you when you're like that!\n　I'm telling the Colonel on you!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_4d2a9066c4e7b27f": {
+      "text": "$$バナージ$$\n（That four-winged one again...!）",
+      "status": "imported"
+    },
+    "stage0035_04:r_10340119af3ed6db": {
+      "text": "$$マリーダ$$\n（Now that I think about it, it all started\n　with that fight against the white mobile suit...）",
+      "status": "imported"
+    },
+    "stage0035_04:r_23a9c7ab620ab112": {
+      "text": "$$マリーダ$$\n（Then I'll settle this with my own hands...!\n　And for Master's sake as well, I'll\n　save Lady $$ミネバ$$!）",
+      "status": "imported"
+    },
+    "stage0035_04:r_4f0aca6deda07883": {
+      "text": "$$クェス$$\n「We meet again, $$アムロ$$!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_8fe40600ce62dfbc": {
+      "text": "$$アムロ$$\n「Is that $$クェス$$...!?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_ff4ce5f3cf96b617": {
+      "text": "$$クェス$$\n「That's right!\n　The Colonel gave me this mobile suit!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_d73c21f119847e35": {
+      "text": "$$アムロ$$\n「Get out of that unit right now, $$クェス$$!\n　Before things go too far to fix!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_89766f5ffaa912d4": {
+      "text": "$$クェス$$\n「What are you talking about, $$アムロ$$!?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$アムロ$$\n「Why can't you see the danger of arming\n　a child who doesn't even understand, $$シャア$$!?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_451f726d4299ea35": {
+      "text": "$$クェス$$\n「You're the one who doesn't get it, $$アムロ$$!\n　The Colonel already treats me as capable!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_e3d111e8bb190cb1": {
+      "text": "$$クェス$$\n「I knew it, $$アムロ$$ won't do!\n　Only the Colonel understands me!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$オットー$$\n「The four-winged one is coming!\n　Hurry and intercept!!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_ab97c2b2418ea732": {
+      "text": "$$マリーダ$$\n（I can feel it...!\n　Lady $$ミネバ$$ really is on that ship...!）",
+      "status": "imported"
+    },
+    "stage0035_04:r_2ddff5064af78db4": {
+      "text": "$$マリーダ$$\n（But what is this feeling...?\n　I sense a strange calm from Lady $$ミネバ$$'s heart...）",
+      "status": "imported"
+    },
+    "stage0035_04:r_050d0532c4b24bfe": {
+      "text": "$$シン$$\n「This guy...!\n　The one who's been stalking $$カミーユ$$!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_d583fcea31bdad2e": {
+      "text": "$$ギュネイ$$\n「And you think you're some knight guarding $$カミーユ$$!?」",
+      "status": "imported"
+    },
+    "stage0035_04:r_475f7653621a91b5": {
+      "text": "$$シン$$\n「He's my precious friend!\n　And right now, he needs help!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_f228ae702350849b": {
+      "text": "$$シン$$\n「If you're after $$カミーユ$$, I'll be your foe!\n　I will protect him, no matter what!!」",
+      "status": "imported"
+    },
+    "stage0035_04:r_d69dc027cba3003f": {
+      "text": "$$ハサウェイ$$\n（$$クェス$$... I swear I'll bring you back...!）",
+      "status": "imported"
+    },
+    "stage0035_04:r_3c3735172a480b72": {
+      "text": "$$ハサウェイ$$\n（I won't let myself die before then!\n　Even if my opponent is $$シャア$$!）",
+      "status": "imported"
+    },
+    "stage0035_04:r_1f418b5594cea300": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

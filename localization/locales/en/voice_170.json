@@ -1,0 +1,650 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_170:r_479b340ccc6c572b": {
+      "text": "Got you!",
+      "status": "imported"
+    },
+    "voice_170:r_ca4acbac57a2a35e": {
+      "text": "All right, let's go!",
+      "status": "imported"
+    },
+    "voice_170:r_77949221bf58f862": {
+      "text": "I'll take that!",
+      "status": "imported"
+    },
+    "voice_170:r_70b9c4b9f1f37eff": {
+      "text": "Here's a little hello!",
+      "status": "imported"
+    },
+    "voice_170:r_9fcb3754cb1773c7": {
+      "text": "Perfect timing!",
+      "status": "imported"
+    },
+    "voice_170:r_3559d2fad32c2435": {
+      "text": "I'll think about it later!",
+      "status": "imported"
+    },
+    "voice_170:r_f7570547e9f80a64": {
+      "text": "Time to get serious!",
+      "status": "imported"
+    },
+    "voice_170:r_cbab0f4720e1fcf1": {
+      "text": "First strike! Thin out their ranks!",
+      "status": "imported"
+    },
+    "voice_170:r_0bbe0b4f5364e732": {
+      "text": "Zanbanya, clear the way forward!",
+      "status": "imported"
+    },
+    "voice_170:r_5dda5198137cb02a": {
+      "text": "Enemy sighted! Enemy sighted!",
+      "status": "imported"
+    },
+    "voice_170:r_83ec59afbecdec14": {
+      "text": "Way to go, Haro!",
+      "status": "imported"
+    },
+    "voice_170:r_e20bfd42ad95a3c9": {
+      "text": "Enemy closing! Enemy closing!",
+      "status": "imported"
+    },
+    "voice_170:r_0f58a8822381e57f": {
+      "text": "Roger!",
+      "status": "imported"
+    },
+    "voice_170:r_6dbcc507fb61b51d": {
+      "text": "Strike first! Strike first!",
+      "status": "imported"
+    },
+    "voice_170:r_b42ab697149a7c8a": {
+      "text": "Roger, roger!",
+      "status": "imported"
+    },
+    "voice_170:r_4de4fcf3b440baf4": {
+      "text": "I won't let you catch your breath!",
+      "status": "imported"
+    },
+    "voice_170:r_0121a166c715cdff": {
+      "text": "Whoa, you're still in my range!",
+      "status": "imported"
+    },
+    "voice_170:r_30fad37a42bd3ad3": {
+      "text": "How about one more shot!",
+      "status": "imported"
+    },
+    "voice_170:r_80a0b2a84e05d81a": {
+      "text": "A Gundam too, huh? Then let's go!",
+      "status": "imported"
+    },
+    "voice_170:r_4a9ac1dff86506d9": {
+      "text": "I can't forgive scum like you!",
+      "status": "imported"
+    },
+    "voice_170:r_bc8538e6af3d2577": {
+      "text": "No more tragedy!\\nNot while I live!",
+      "status": "imported"
+    },
+    "voice_170:r_924516c8de2b5342": {
+      "text": "Your kind is why\\nMeisters exist...!",
+      "status": "imported"
+    },
+    "voice_170:r_da1174533722333f": {
+      "text": "You toyed with this world too long!",
+      "status": "imported"
+    },
+    "voice_170:r_fdeb8162976e72c1": {
+      "text": "Damn...\\nThey keep swarming out!",
+      "status": "imported"
+    },
+    "voice_170:r_0fadb5c26df92b42": {
+      "text": "Monster...!\\nIf words won't work!",
+      "status": "imported"
+    },
+    "voice_170:r_6b15af9a0057cdc8": {
+      "text": "Lockon Stratos!\\nI'll hit the core!",
+      "status": "imported"
+    },
+    "voice_170:r_15b4a90140e8a33a": {
+      "text": "Final op!\\nLockon Stratos, max fire!",
+      "status": "imported"
+    },
+    "voice_170:r_8f60f6fc86db3107": {
+      "text": "Rifle Bits out!\\nRifle Bits out!",
+      "status": "imported"
+    },
+    "voice_170:r_b1de76a75a253c13": {
+      "text": "There! There!",
+      "status": "imported"
+    },
+    "voice_170:r_128c35bf3e0e394c": {
+      "text": "Here I goooo!",
+      "status": "imported"
+    },
+    "voice_170:r_38fdff9483e9245c": {
+      "text": "Take this! Take this!",
+      "status": "imported"
+    },
+    "voice_170:r_620fedec67706d7d": {
+      "text": "Hiiiiiit!",
+      "status": "imported"
+    },
+    "voice_170:r_2a00f1044ad5cbaa": {
+      "text": "That's my quota met!",
+      "status": "imported"
+    },
+    "voice_170:r_3dbeead1bd3164ef": {
+      "text": "Gooooo!",
+      "status": "imported"
+    },
+    "voice_170:r_98d15b8cc09bc915": {
+      "text": "Haro!",
+      "status": "imported"
+    },
+    "voice_170:r_46e86d000250e137": {
+      "text": "Roger! Roger!",
+      "status": "imported"
+    },
+    "voice_170:r_ac341e7976e88f0b": {
+      "text": "I'm firing every which way!",
+      "status": "imported"
+    },
+    "voice_170:r_cdbd128a5b4127cc": {
+      "text": "Deeeeyah!",
+      "status": "imported"
+    },
+    "voice_170:r_cfccaa1fbeda124c": {
+      "text": "Let's go, Haro!",
+      "status": "imported"
+    },
+    "voice_170:r_b1f8ec192b9c083a": {
+      "text": "Let's go! Let's go!",
+      "status": "imported"
+    },
+    "voice_170:r_a007f9ab9cf048b3": {
+      "text": "I'm firing every which waaaay!!",
+      "status": "imported"
+    },
+    "voice_170:r_ddafde4b065ced49": {
+      "text": "Time to finish this!",
+      "status": "imported"
+    },
+    "voice_170:r_de1213040856c089": {
+      "text": "You ready, Haro!",
+      "status": "imported"
+    },
+    "voice_170:r_3304412ac41f47a6": {
+      "text": "Fire away! Fire away!",
+      "status": "imported"
+    },
+    "voice_170:r_0c0775e051211840": {
+      "text": "Drop deaaad!",
+      "status": "imported"
+    },
+    "voice_170:r_a2afffe1c396f0b3": {
+      "text": "How's thaaat!!",
+      "status": "imported"
+    },
+    "voice_170:r_13c25fbdfddc8a24": {
+      "text": "Bro's the better\\nlong-range shot...",
+      "status": "imported"
+    },
+    "voice_170:r_42ba1ecb310b4bd7": {
+      "text": "That's why...!",
+      "status": "imported"
+    },
+    "voice_170:r_68f2dfab20a4a30e": {
+      "text": "TRANS-AM!",
+      "status": "imported"
+    },
+    "voice_170:r_9cedad8237480563": {
+      "text": "This is the eeeend!!",
+      "status": "imported"
+    },
+    "voice_170:r_a03fabecba1508ca": {
+      "text": "See that?\\nThat's Celestial Being!",
+      "status": "imported"
+    },
+    "voice_170:r_5391b24a71eb10ae": {
+      "text": "This is TRANS-AM!",
+      "status": "imported"
+    },
+    "voice_170:r_a554ceef5c87b972": {
+      "text": "I'll smash you to pieces!!",
+      "status": "imported"
+    },
+    "voice_170:r_546c3d5937fbb7ee": {
+      "text": "I'll keep struggling... I will...",
+      "status": "imported"
+    },
+    "voice_170:r_1568ff6298b12b96": {
+      "text": "Going TRANS-AM!",
+      "status": "imported"
+    },
+    "voice_170:r_2c9d94ba13c5fc50": {
+      "text": "This'll put you to sleep!!",
+      "status": "imported"
+    },
+    "voice_170:r_a77f4913375098d2": {
+      "text": "Damn, you made me work for it...!",
+      "status": "imported"
+    },
+    "voice_170:r_428c2116ac3071b1": {
+      "text": "You're not getting away!",
+      "status": "imported"
+    },
+    "voice_170:r_84c116267b79f540": {
+      "text": "You picked this fight, remember!",
+      "status": "imported"
+    },
+    "voice_170:r_dad38ee29af2df3a": {
+      "text": "I can't just back down in silence!",
+      "status": "imported"
+    },
+    "voice_170:r_3d32e86f8dc80909": {
+      "text": "Here, you forgot this!",
+      "status": "imported"
+    },
+    "voice_170:r_70451ffbabe2f876": {
+      "text": "Sure, I'll play along!",
+      "status": "imported"
+    },
+    "voice_170:r_69dfa1659715e2fa": {
+      "text": "Counterattack! Counterattack!",
+      "status": "imported"
+    },
+    "voice_170:r_d996fd6d4ef5b329": {
+      "text": "All right!",
+      "status": "imported"
+    },
+    "voice_170:r_8ab47a28f99ef565": {
+      "text": "Enemy retreating! Enemy retreating!",
+      "status": "imported"
+    },
+    "voice_170:r_546de3fb6db156ea": {
+      "text": "I won't let you!",
+      "status": "imported"
+    },
+    "voice_170:r_ca85f87cee5e31f7": {
+      "text": "Leave it to me!",
+      "status": "imported"
+    },
+    "voice_170:r_9072ea7bc71df136": {
+      "text": "It's way too soon to call it over!",
+      "status": "imported"
+    },
+    "voice_170:r_04e815a8d425827d": {
+      "text": "Here's a little something extra!",
+      "status": "imported"
+    },
+    "voice_170:r_d89011fe3e5d082a": {
+      "text": "Setsuna, let's hit 'em together!",
+      "status": "imported"
+    },
+    "voice_170:r_3c5b0c2ac812d5de": {
+      "text": "Allelujah, I'll take this one!",
+      "status": "imported"
+    },
+    "voice_170:r_5b9e8897190892eb": {
+      "text": "Tieria, leave this area to me!",
+      "status": "imported"
+    },
+    "voice_170:r_7bea3023abbf8a94": {
+      "text": "I'm moving to support Ptolemy!",
+      "status": "imported"
+    },
+    "voice_170:r_dd01a4c0d1b36a8d": {
+      "text": "Top snipers pick\\nnearby positions!",
+      "status": "imported"
+    },
+    "voice_170:r_cb846feec748c2e3": {
+      "text": "Damn it, what are you doing?!",
+      "status": "imported"
+    },
+    "voice_170:r_c958860b0676b1f5": {
+      "text": "Whoa, you're dealing with me now!",
+      "status": "imported"
+    },
+    "voice_170:r_5e2669b82ef75ce3": {
+      "text": "Enough! You just fall back!",
+      "status": "imported"
+    },
+    "voice_170:r_7847e0ed7dc9282d": {
+      "text": "Setsuna! Charging off alone...!",
+      "status": "imported"
+    },
+    "voice_170:r_e42b52c7a987b906": {
+      "text": "You've got guts, hurting my crew!",
+      "status": "imported"
+    },
+    "voice_170:r_6825fd1ff907bd22": {
+      "text": "Fall back, Tieria!",
+      "status": "imported"
+    },
+    "voice_170:r_607f666f1563bc0d": {
+      "text": "Can't let you sink our mothership!",
+      "status": "imported"
+    },
+    "voice_170:r_97b7431eeb81e6b6": {
+      "text": "My spot's blown!\\nMove it, now!",
+      "status": "imported"
+    },
+    "voice_170:r_1252db29683fefe0": {
+      "text": "Damn it, I can't rest now...!",
+      "status": "imported"
+    },
+    "voice_170:r_ad3d538f1e909184": {
+      "text": "Ammo depleted! Ammo depleted!",
+      "status": "imported"
+    },
+    "voice_170:r_8c61c59a1c0aebbf": {
+      "text": "Tch, just my luck...!",
+      "status": "imported"
+    },
+    "voice_170:r_b84afafb8a33ec60": {
+      "text": "Oh, come on...!",
+      "status": "imported"
+    },
+    "voice_170:r_c8c59db85bf875e6": {
+      "text": "My current weapons can't handle it!",
+      "status": "imported"
+    },
+    "voice_170:r_391aa56435d9dd6e": {
+      "text": "Damn! Where's the enemy...!?",
+      "status": "imported"
+    },
+    "voice_170:r_7c796ba53bd7ea03": {
+      "text": "I lost the target? Some sniper...!",
+      "status": "imported"
+    },
+    "voice_170:r_fa944da4b6519006": {
+      "text": "Better to dodge than take a hit!",
+      "status": "imported"
+    },
+    "voice_170:r_95d047bcc17fccc6": {
+      "text": "I didn't become a Meister for show!",
+      "status": "imported"
+    },
+    "voice_170:r_640327a12a559b31": {
+      "text": "That's the gap in skill.",
+      "status": "imported"
+    },
+    "voice_170:r_bdd38c584fa313d0": {
+      "text": "Hah, you're not much of an enemy!",
+      "status": "imported"
+    },
+    "voice_170:r_3fd86c1027f317c8": {
+      "text": "Come back when you're ready!",
+      "status": "imported"
+    },
+    "voice_170:r_d0372a183d2007ad": {
+      "text": "Easy victory! Easy victory!",
+      "status": "imported"
+    },
+    "voice_170:r_217aa5e1d545b44d": {
+      "text": "Nice one, Haro!",
+      "status": "imported"
+    },
+    "voice_170:r_f1e7ed9e5874aba5": {
+      "text": "Thanks, Haro! You saved me!",
+      "status": "imported"
+    },
+    "voice_170:r_fc25e66a86fc2c85": {
+      "text": "You stoke wars,\\nbut can't fight.",
+      "status": "imported"
+    },
+    "voice_170:r_5aeeb4917340c42d": {
+      "text": "Trying to fool me?\\nI won't bite!",
+      "status": "imported"
+    },
+    "voice_170:r_b765659981b6516d": {
+      "text": "Heh... Sorry about that.",
+      "status": "imported"
+    },
+    "voice_170:r_0c427458bc00eb95": {
+      "text": "Thanks for all the effort!",
+      "status": "imported"
+    },
+    "voice_170:r_774a9ab4d8fd5351": {
+      "text": "Yeah, this one's got a chance!",
+      "status": "imported"
+    },
+    "voice_170:r_ceb935ccbf830724": {
+      "text": "GN Field!",
+      "status": "imported"
+    },
+    "voice_170:r_862ef7385bf2abd4": {
+      "text": "You bastard!",
+      "status": "imported"
+    },
+    "voice_170:r_001cbec4d9a4283f": {
+      "text": "And what of it!",
+      "status": "imported"
+    },
+    "voice_170:r_8ad40afecd02b41e": {
+      "text": "Persistent bastard...!",
+      "status": "imported"
+    },
+    "voice_170:r_26e5efec03c03d78": {
+      "text": "I can't dawdle around here!",
+      "status": "imported"
+    },
+    "voice_170:r_4ad81e88c7557a8b": {
+      "text": "One lucky punch won't save you!",
+      "status": "imported"
+    },
+    "voice_170:r_1f65a7af190e4674": {
+      "text": "I can take a hit!\\nMission goes on!",
+      "status": "imported"
+    },
+    "voice_170:r_40c5a9358ed5bf29": {
+      "text": "It hit! It hit!",
+      "status": "imported"
+    },
+    "voice_170:r_f2e18dfdfe0c89ea": {
+      "text": "Don't fuss over one hit, Haro.",
+      "status": "imported"
+    },
+    "voice_170:r_cf7dbf49e96a5755": {
+      "text": "You stink! You stink!",
+      "status": "imported"
+    },
+    "voice_170:r_fa96676cc65bb509": {
+      "text": "Sheesh, you're so noisy...!",
+      "status": "imported"
+    },
+    "voice_170:r_4e37f92e7d2fc62e": {
+      "text": "Gah! You've gotta be kidding...!",
+      "status": "imported"
+    },
+    "voice_170:r_66ab4cfe1557909d": {
+      "text": "I don't like where this is going!",
+      "status": "imported"
+    },
+    "voice_170:r_0bad405ee6ca63ba": {
+      "text": "Come on...! How is that even fair!?",
+      "status": "imported"
+    },
+    "voice_170:r_2072eaf71a260ae7": {
+      "text": "Guess it hit a bad spot...!",
+      "status": "imported"
+    },
+    "voice_170:r_6c13bbfd27a7799e": {
+      "text": "This really isn't funny anymore!",
+      "status": "imported"
+    },
+    "voice_170:r_06f88dcbd3c9e738": {
+      "text": "Tch! Did my hand slip...!",
+      "status": "imported"
+    },
+    "voice_170:r_b28faf9f71bc3598": {
+      "text": "Caution! Caution!",
+      "status": "imported"
+    },
+    "voice_170:r_8a29278549f8e07a": {
+      "text": "I took a little too much there...!",
+      "status": "imported"
+    },
+    "voice_170:r_7e6c573c26177f98": {
+      "text": "Guh! Haro, what's the damage?!",
+      "status": "imported"
+    },
+    "voice_170:r_45abf84f7757d6eb": {
+      "text": "Problem! Problem!",
+      "status": "imported"
+    },
+    "voice_170:r_4e05581b7432cce8": {
+      "text": "Having fun, I see...!\\nNot anymore!",
+      "status": "imported"
+    },
+    "voice_170:r_a60b107ea3c36a86": {
+      "text": "Battle veteran...\\nA real warmonger!",
+      "status": "imported"
+    },
+    "voice_170:r_e33693e5ba4665b0": {
+      "text": "Like hell I'll give up!",
+      "status": "imported"
+    },
+    "voice_170:r_72a21a1a489af001": {
+      "text": "Guh...! Damn youuuu!",
+      "status": "imported"
+    },
+    "voice_170:r_eb643f8bf737a0ca": {
+      "text": "Damn it! At this rate...!",
+      "status": "imported"
+    },
+    "voice_170:r_0a3fccb71ec6cf2a": {
+      "text": "Can't die\\njust yet!",
+      "status": "imported"
+    },
+    "voice_170:r_9b63cf1f3e0207ef": {
+      "text": "Even my Gundam...\\ncan't win...!?",
+      "status": "imported"
+    },
+    "voice_170:r_8356f4e3dcdff938": {
+      "text": "Lose here,\\ncan't face Anew!",
+      "status": "imported"
+    },
+    "voice_170:r_1d6d784036ae0bd7": {
+      "text": "At the limit! At the limit!",
+      "status": "imported"
+    },
+    "voice_170:r_625664af02183c17": {
+      "text": "Not yet! Just hold together!",
+      "status": "imported"
+    },
+    "voice_170:r_3701cba361f80ea5": {
+      "text": "Danger! Danger!",
+      "status": "imported"
+    },
+    "voice_170:r_63f429c5c68c0863": {
+      "text": "Yeah, I know!\\nBut I've gotta act!",
+      "status": "imported"
+    },
+    "voice_170:r_38e4a434c91d8ef0": {
+      "text": "Not yet!\\nI won't let you live!",
+      "status": "imported"
+    },
+    "voice_170:r_98ed411352a3a6ac": {
+      "text": "...I'll take my lumps.\\nNot from you!",
+      "status": "imported"
+    },
+    "voice_170:r_4824bea6bab3af67": {
+      "text": "Sheesh, this is pathetic...!",
+      "status": "imported"
+    },
+    "voice_170:r_862b92e63adb9734": {
+      "text": "Sorry, I messed up! Take over!",
+      "status": "imported"
+    },
+    "voice_170:r_cb306ef55e49d107": {
+      "text": "Eject! Eject!",
+      "status": "imported"
+    },
+    "voice_170:r_57b2bd2de8a1408d": {
+      "text": "...All right!",
+      "status": "imported"
+    },
+    "voice_170:r_76f080a4881e8ab5": {
+      "text": "Lockon lost! Lockon lost!",
+      "status": "imported"
+    },
+    "voice_170:r_288133bc5b573dae": {
+      "text": "Damn it all...!",
+      "status": "imported"
+    },
+    "voice_170:r_e9b3307e9eb69f11": {
+      "text": "Leave it to me! Leave it to me!",
+      "status": "imported"
+    },
+    "voice_170:r_6026da5acbda7c69": {
+      "text": "Shield Bits out!\\nShield Bits out!",
+      "status": "imported"
+    },
+    "voice_170:r_981f8fedd5414fe5": {
+      "text": "Knew you'd be hiding right there!",
+      "status": "imported"
+    },
+    "voice_170:r_96bb0dcde0c8c44a": {
+      "text": "You're not the only\\nsniper here!",
+      "status": "imported"
+    },
+    "voice_170:r_b5f5a97ed82acb0b": {
+      "text": "I may lose to my brother, not you.",
+      "status": "imported"
+    },
+    "voice_170:r_d9cd2e4ded064396": {
+      "text": "...Well then, shall we go sniping?",
+      "status": "imported"
+    },
+    "voice_170:r_99e6349431aaf23b": {
+      "text": "Bring it on.",
+      "status": "imported"
+    },
+    "voice_170:r_ec1081caf845f56a": {
+      "text": "Enemy sighted! Enemy sighted!",
+      "status": "imported"
+    },
+    "voice_170:r_2c5b7ee872c1ed7f": {
+      "text": "Snipe 'em! Snipe 'em!",
+      "status": "imported"
+    },
+    "voice_170:r_76d1e51c8b494a60": {
+      "text": "Enemy closing! Enemy closing!",
+      "status": "imported"
+    },
+    "voice_170:r_eb5f687fcd372ae7": {
+      "text": "It hit! It hit!",
+      "status": "imported"
+    },
+    "voice_170:r_2329428a6871d9fa": {
+      "text": "Lockon Stratos, taking the shot!",
+      "status": "imported"
+    },
+    "voice_170:r_0e7466971bec4cc4": {
+      "text": "I'll handle the covering fire!",
+      "status": "imported"
+    },
+    "voice_170:r_efa71f7a4cc33ff3": {
+      "text": "The rest is up to you!",
+      "status": "imported"
+    },
+    "voice_170:r_3fc2e1186557e7a0": {
+      "text": "Sure, leave it to me!",
+      "status": "imported"
+    },
+    "voice_170:r_fa6930340a545054": {
+      "text": "One-on-one? Bring it on!",
+      "status": "imported"
+    },
+    "voice_170:r_2332b9d56461d7ab": {
+      "text": "Gotta follow the leader's orders!",
+      "status": "imported"
+    },
+    "voice_170:r_854aa0a91a3c80d1": {
+      "text": "Piece of cake!",
+      "status": "imported"
+    }
+  }
+}

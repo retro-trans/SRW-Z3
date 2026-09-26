@@ -1,0 +1,2722 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0083_03:r_caaab7bad760e16d": {
+      "text": "Quarter Briefing Room",
+      "status": "translated"
+    },
+    "stage0083_03:r_99b162aa6aa286a2": {
+      "text": "Quarter Briefing Room",
+      "status": "translated"
+    },
+    "stage0083_03:r_58fb02434a1c40b2": {
+      "text": "Quarter Briefing Room",
+      "status": "translated"
+    },
+    "stage0083_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　\n　　～ Macross Quarter Briefing Room ～",
+      "status": "translated"
+    },
+    "stage0083_03:r_1263541f4071624e": {
+      "text": "$n\n「...What is it, Miss $$スズネ$$?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3bc300bbdc277d82": {
+      "text": "$$スズネ$$\n「Our squads have joined up, and I hear\n　they're swapping info in the Quarter's hangar.\n　Want to stop by?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_38762a09460d8b6b": {
+      "text": "$n\n「Go to the hangar, hear the other units out」\n「Don't go to the hangar」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7ab28e70b4d4f641": {
+      "text": "$n\n「About a month left until $$エタニティ・フラット$$...\n　I'm sure every enemy out there will be\n　making their final move by then.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$スズネ$$\n「Neo Zeon, Mycenae, the $$宇宙魔王#pilot$$, Altair,\n　$$アンチスパイラル#keyword$$, Geminis...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ec335e69f984b8b3": {
+      "text": "$n\n「To steel myself for what's coming,\n　I should know how things stand\n　on every front.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0abcaf0c31978670": {
+      "text": "$$スズネ$$\n「Don't push yourself too hard, $n.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1d6bc48b7f246730": {
+      "text": "$n\n「I'll be fine, Miss $$スズネ$$.\n　I intend to keep fighting until I defeat\n　him... $$ガドライト・メオンサム$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1af20fccc3c53cfc": {
+      "text": "$n\n「But that's not just to avenge\n　my father and sister...\n　it's for the lives lost to the war he started...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f951916061232dcd": {
+      "text": "$n\n「More than anything, I have to defeat\n　Geminis to break through\n　the Prison of Time.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4d863c3fb88a4c39": {
+      "text": "$$スズネ$$\n「If you understand that much,\n　there's nothing more your teacher\n　needs to say. ...Now, let's go to the hangar.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_44f4742c3dcce39a": {
+      "text": "$n\n「...Why are you crossing your arms right there?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9e701cdeb3842c21": {
+      "text": "$$スズネ$$\n「You've gotten quite reliable, $n.\n　I thought I'd let you escort me for once.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6fd81f4abebe60c5": {
+      "text": "$$スズネ$$\n「Ah... I feel bad for the nurse...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_da2132b5038ec737": {
+      "text": "$n\n「It's fine. Miss $$スズネ$$ is our important\n　teacher, and she's my partner.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_495d61d3ec7e16f2": {
+      "text": "$$スズネ$$\n「Well then... take me to the hangar, $n.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_5cd353758cfe474d": {
+      "text": "$n\n「Then allow me to escort you.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a653c8dec4c0f06f": {
+      "text": "Quarter Hangar",
+      "status": "translated"
+    },
+    "stage0083_03:r_86d493e37a9799a7": {
+      "text": "Quarter Hangar",
+      "status": "translated"
+    },
+    "stage0083_03:r_09d0fcc600cdd3df": {
+      "text": "Quarter Hangar",
+      "status": "translated"
+    },
+    "stage0083_03:r_182faded068c15ed": {
+      "text": "　\n　　\n　　　　　　～ Macross Quarter Hangar ～",
+      "status": "translated"
+    },
+    "stage0083_03:r_9c206d19bfda4bd5": {
+      "text": "$$シン$$\n「$$アスカ$$'s out of commission!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6e558bc69acf5bf3": {
+      "text": "$$カミーユ$$\n「What happened, $$甲児$$?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d60d0818e965232f": {
+      "text": "$$甲児$$\n「We beat the Eighth Angel, but after that,\n　$$第９の使徒$$ showed up...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_5b23687574286204": {
+      "text": "$$甲児$$\n「It attached itself to the newly built\n　EVA Unit-03 and eroded $$アスカ$$,\n　who was the test pilot...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6fd86c96891ea942": {
+      "text": "$$バナージ$$\n「Was $$アスカ$$ done in by that Angel?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_43e4e548c0b28376": {
+      "text": "$$アルト$$\n「...It had completely fused with Unit-03's\n　Entry Plug. The only way to beat it\n　was to destroy the plug.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d80a9688790ed583": {
+      "text": "$$シン$$\n「Then, $$アスカ$$ is...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_708bea61e3c43ada": {
+      "text": "$$アルト$$\n「What did it was the Dummy System\n　installed in Unit-01... but $$シンジ$$\n　was riding in it too.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7b6f159eeaf4de0f": {
+      "text": "$$キラ$$\n「What is this Dummy System?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0827963cfd706e8d": {
+      "text": "$$アルト$$\n「It's supposedly an autonomous system\n　that controls an EVA, but we don't know\n　any of the details.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$アルト$$\n「NERV's Commander Ikari forcibly activated\n　the Dummy System because $$シンジ$$ refused\n　to fight $$アスカ$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3f4035fd9db81258": {
+      "text": "$$シン$$\n「That's what got $$アスカ$$...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_567b361a454c4b73": {
+      "text": "$$甲児$$\n「...There was no other choice...\n　If things had gone on like that,\n　$$シンジ$$ would've been killed by the Angel too...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d22851aaafbbf8fc": {
+      "text": "$$カミーユ$$\n「Even if that was the only way...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_352534f64413d954": {
+      "text": "$$アムロ$$\n「How's $$シンジ$$ doing?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_79f2664edb1af798": {
+      "text": "$$甲児$$\n「A decisive rift has formed between him\n　and Commander Ikari.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$アルト$$\n「And he was almost reconciled\n　with his old man for a while, too...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1c5aa0d15ae24846": {
+      "text": "$$キラ$$\n「I see...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_53bb64ee17750ee2": {
+      "text": "$$甲児$$\n「Unit-02 is going to be operated by\n　a new pilot now, a girl named\n　$$真希波・マリ・イラストリアス$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7a7add80fde475ba": {
+      "text": "$$カミーユ$$\n「Where is she now?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b2befefdbed1393d": {
+      "text": "$$アルト$$\n「She's a bit odd. Outside of operations,\n　she won't try to talk to anyone.\n　She told us to just think of her as not there...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_2103f6df2ea2e447": {
+      "text": "$$アムロ$$\n「I know it's harsh, but we have to move on.\n　$$アンチスパイラル#keyword$$ has declared\n　annihilation upon humanity once more.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a12e3e130d896ff7": {
+      "text": "$$甲児$$\n「For now, it seems its targets\n　are $$シモン$$ and the rest of us.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b6f7b219eb4bd64b": {
+      "text": "$$アムロ$$\n「We have no choice but to fight...\n　We won't accept a slow death in the\n　Prison of Time, or being wiped out by anyone.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_91bf33c27ad39f0a": {
+      "text": "$$カミーユ$$\n「Yes...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ee220318b96ab538": {
+      "text": "$$タケル$$\n「So, $$オードリー$$ is staying at\n　Ensign $$リディ$$'s house right now?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ce1b55e526b6277a": {
+      "text": "$$リディ$$\n「I've left the rest to my father.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c304df6888eb78f7": {
+      "text": "$$リディ$$\n（My family has been part of Chrono\n　for generations... Bringing her to\n　that house might only cause her pain...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_c26958634526e597": {
+      "text": "$$リディ$$\n（The only way to save her from that\n　is to welcome her into the Marcenas\n　family as one of our own...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_cdb750c9d380881a": {
+      "text": "$$タケル$$\n「Ensign $$リディ$$?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_95fda74613c97b39": {
+      "text": "$$リディ$$\n（$$バナージ$$ and Unicorn... and Laplace's\n　Box... If that thing didn't exist,\n　could $$オードリー$$ and I both be free...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_1956994937f8171e": {
+      "text": "$$正太郎$$\n「What's wrong, $$リディ$$...?\n　You suddenly look so scary...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_48f49f6728c15612": {
+      "text": "$$リディ$$\n「Sorry. ...Let me rest in my room\n　for a bit.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$タケル$$\n「Ensign $$リディ$$... he's really changed...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f02c37d91387d0ad": {
+      "text": "$$ワッ太$$\n「Speaking of changed, $$バナージ$$ has too.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$バナージ$$\n（$$ジンネマン$$, $$ロニ$$...\n　and $$オードリー$$...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_9796b3efa401a303": {
+      "text": "$$バナージ$$\n（What I can do for this world in\n　Unicorn... I'll search for\n　my own potential...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_643b6eebfc0186b3": {
+      "text": "$$グラハム$$\n「He walked the line between life and\n　death in the battle over Dakar.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_291280e5f7eb9d70": {
+      "text": "$$フォウ$$\n「And he's known a sad parting, too...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_32eb462c1b4999cb": {
+      "text": "$$タケル$$\n「Who are you two...?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1f4337d6d393fc37": {
+      "text": "$$グラハム$$\n「Major $$グラハム・エーカー$$.\n　I go by the codename $$プリベンター$$\n　Lightning.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4740e748fae085ee": {
+      "text": "$$フォウ$$\n「Ensign $$フォウ・ムラサメ$$.\n　Like Major $$グラハム$$, I've joined $c\n　on Commander $$レディ・アン$$'s orders.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b76524cd840e1d37": {
+      "text": "$$タケル$$\n「Could it be... you're the one\n　$$カミーユ$$ mentioned...?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_730ffe18400abfc2": {
+      "text": "$$フォウ$$\n「Fufu... I don't know how he described me,\n　but we've known each other since\n　our days in $$ＵＣＷ$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ffe0fca26da5cd38": {
+      "text": "$$ワッ太$$\n「So, this $$グラハム$$ guy, didn't he wear\n　some weird mask during the\n　$$再世戦争$$?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_bfb27f9eb2f7073e": {
+      "text": "$$グラハム$$\n「It's embarrassing to say in front of you,\n　but that was just youthful folly.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_859dfa27bcaafe30": {
+      "text": "$$コーラサワー$$\n「Well, don't be too hard on him.\n　The past is the past, and now is now.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_71ebf05996a4b0fd": {
+      "text": "$$コーラサワー$$\n「My name's Lieutenant $$パトリック・マネキン$$.\n　They call me the 'Happy $$コーラサワー$$'.\n　Nice to meet you.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6214c11b1bca811e": {
+      "text": "$$正太郎$$\n「Um... didn't you used to go\n　by 'the Undying $$コーラサワー$$'\n　before?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_8eaf6f3098ffed12": {
+      "text": "$$コーラサワー$$\n「Of course, I'm still Undying.\n　But these days, 'Happy' carries\n　more weight.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_cf507214fe955d75": {
+      "text": "$$タケル$$\n「Uh...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_2113dcbabdfc758a": {
+      "text": "$$グラハム$$\n「We too have become members of $c.\n　We intend to do everything we can\n　for this world.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$フォウ$$\n「Nice to meet you all.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6a74519e1fc29c4b": {
+      "text": "$$ワッ太$$\n「Nice to meet me too!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_5b992878fee054b5": {
+      "text": "$$グラハム$$\n（So this is the squad with that boy...\n　$$刹那・Ｆ・セイエイ$$...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$グラハム$$\n（Boy... The life you saved that day...\n　someday, I will surely repay it.）",
+      "status": "translated"
+    },
+    "stage0083_03:r_4a14ec0c511c7f0d": {
+      "text": "$$タケル$$\n「So, $$オードリー$$ is staying at\n　Ensign $$リディ$$'s house right now?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_20cf167c0ec0d4d5": {
+      "text": "$$リディ$$\n「I've left the rest to my father.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b591d812c96c6c99": {
+      "text": "$$リディ$$\n（My family has been part of Chrono\n　for generations... Bringing her to\n　that house might only cause her pain...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_e350fa099c1ab072": {
+      "text": "$$リディ$$\n（The only way to save her from that\n　is to welcome her into the Marcenas\n　family as one of our own...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$タケル$$\n「Ensign $$リディ$$?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c33bd700553abf91": {
+      "text": "$$リディ$$\n（$$バナージ$$ and Unicorn... and Laplace's\n　Box... If that thing didn't exist,\n　could $$オードリー$$ and I both be free...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_feee5c91826230e1": {
+      "text": "$$正太郎$$\n「What's wrong, $$リディ$$...?\n　You suddenly look so scary...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_bccc48e1964ad22d": {
+      "text": "$$リディ$$\n「Sorry. ...Let me rest in my room\n　for a bit.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f8736aaaa216c766": {
+      "text": "$$タケル$$\n「Ensign $$リディ$$... he's really changed...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d1ec2522c87c361d": {
+      "text": "$$ワッ太$$\n「Speaking of changed, $$バナージ$$ has too.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3599f0a4343fd95c": {
+      "text": "$$バナージ$$\n（$$ジンネマン$$, $$ロニ$$...\n　and $$オードリー$$...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_3bc7834a5bf3ee76": {
+      "text": "$$バナージ$$\n（What I can do for this world in\n　Unicorn... I'll search for\n　my own potential...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_366814efdc8b5800": {
+      "text": "$$グラハム$$\n「He walked the line between life and\n　death in the battle over Dakar.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9be1a4c10bb62515": {
+      "text": "$$フォウ$$\n「And he's known a sad parting, too...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_94a88c90e557e16e": {
+      "text": "$$タケル$$\n「Who are you two...?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1c208ca0cbf26f28": {
+      "text": "$$グラハム$$\n「Major $$グラハム・エーカー$$.\n　I go by the codename $$プリベンター$$\n　Lightning.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_5b7ee307a700171a": {
+      "text": "$$フォウ$$\n「Ensign $$フォウ・ムラサメ$$.\n　Like Major $$グラハム$$, I've joined $c\n　on Commander $$レディ・アン$$'s orders.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_8d8f065c932da30a": {
+      "text": "$$タケル$$\n「Could it be... you're the one\n　$$カミーユ$$ mentioned...?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f5432119677514f7": {
+      "text": "$$フォウ$$\n「Fufu... I don't know just how he described me,\n　but we've known each other since\n　our days in $$ＵＣＷ$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4e5c8e989c4a7691": {
+      "text": "$$ワッ太$$\n「So, this $$グラハム$$ guy, didn't he wear\n　some weird mask during the\n　$$再世戦争$$?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_adec86483b13599a": {
+      "text": "$$グラハム$$\n「It's embarrassing to say in front of you,\n　but that was just youthful folly.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_2cf701bbcde3ec13": {
+      "text": "$$ワッ太$$\n「Don't worry about it, don't worry!\n　You're one of us now, after all.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c17c58fdba72005e": {
+      "text": "$$グラハム$$\n「We too have become members of $c.\n　We intend to do everything we can\n　for this world.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1fe8564d2b959317": {
+      "text": "$$フォウ$$\n「Nice to meet you all.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f527e012803f7f1c": {
+      "text": "$$ワッ太$$\n「Nice to meet me too!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4b1247bd3ca4905d": {
+      "text": "$$グラハム$$\n（So this is the squad with that boy...\n　$$刹那・Ｆ・セイエイ$$...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_00c55e25f87b71d0": {
+      "text": "$$グラハム$$\n（Boy... The life you saved that day...\n　someday, I will surely repay it.）",
+      "status": "translated"
+    },
+    "stage0083_03:r_338f3b27e51dcc41": {
+      "text": "$n\n「...Sorry. Knowing the final battle\n　with Geminis is close, I just\n　can't sit still.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d91d4bc2d52b61c4": {
+      "text": "$$スズネ$$\n「$n...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0c8ea89b07432421": {
+      "text": "$n\n「Defeating $$ガドライト・メオンサム$$...\n　That's both where my fight began\n　and where it will end.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4dbfba00ba7744ee": {
+      "text": "$n\n「But that's not just to avenge\n　my father and sister...\n　it's for the lives lost to the war he started...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_be100a32b731708d": {
+      "text": "$n\n「More than anything, I have to defeat\n　Geminis to break through\n　the Prison of Time.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_702f82442fcec8a9": {
+      "text": "$$スズネ$$\n「If you understand that much,\n　there's nothing more your teacher\n　needs to say. ...But don't push yourself too hard.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b1e38da4e8775ffe": {
+      "text": "$n\n「Thank you」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$スズネ$$\n「You're training in the Quarter's\n　simulator, right? Then I'll bring you\n　a sandwich later.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_2acc8ade0cc6dfa2": {
+      "text": "$n\n「Miss $$スズネ$$... can you even do that?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3dad695c99e9e052": {
+      "text": "$$スズネ$$\n「How rude...! Sure, seeing $$アルト$$,\n　$$甲児$$, and Ikue makes me lose\n　my confidence, but...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_66d4ae3a21caf881": {
+      "text": "$$スズネ$$\n「Ah... could it be I'm being unfair\n　to the nurse...?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0c18da7b3a37825d": {
+      "text": "$n\n「It's fine. Miss $$スズネ$$ is our important\n　teacher, and she's my partner.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_63249745ffae61b6": {
+      "text": "$$スズネ$$\n「Though I'm not much help in actual combat.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_abdb034ae8509702": {
+      "text": "$n\n「But I am looking forward to the sandwiches.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3ff2e21207d1d1d3": {
+      "text": "$$スズネ$$\n「Oh, come on!\n　That's where you say 'That's not true at all'!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_e51ecf6d6aa42e75": {
+      "text": "$$ラー・カイラム$$ Briefing Room",
+      "status": "translated"
+    },
+    "stage0083_03:r_47ddabb7b60131c2": {
+      "text": "$$ラー・カイラム$$ Briefing Room",
+      "status": "translated"
+    },
+    "stage0083_03:r_b025267f22788233": {
+      "text": "$$ラー・カイラム$$ Briefing Room",
+      "status": "translated"
+    },
+    "stage0083_03:r_ec1a06a7023bf72c": {
+      "text": "　\n　　\n　　　　　　～ $$ラー・カイラム$$ Briefing Room ～",
+      "status": "translated"
+    },
+    "stage0083_03:r_8805f96e52aaa462": {
+      "text": "$$ブライト$$\n「...According to Dr. $$トライア$$'s report,\n　the completion of $$エタニティ・フラット$$ is now\n　all but confirmed for November 11th.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_124591cb154fae64": {
+      "text": "$$ジェフリー$$\n「One month left, huh...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$スメラギ$$\n「Even deciding to announce it on November 1st\n　was a razor-thin call for the $$大統領$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4bf9b05b5f948170": {
+      "text": "$$ゼロ$$\n「As long as we beat Geminis and smash the\n　Prison of Time before then, or find the\n　singularity and turn things around ourselves, that'll do.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_eaa52d152f444bfd": {
+      "text": "$$オットー$$\n「But if it comes to that, we'll end up fighting\n　$$バアル$$ like space monsters and $$インベーダー#keyword$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b4bc9e9435b58e6f": {
+      "text": "$$Ｆ．Ｓ．$$\n「And whether or not the Prison of Time is completed,\n　the $$アンチスパイラル#keyword$$ have declared they will\n　annihilate humanity on Earth.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a9227573166977a9": {
+      "text": "$$ブライト$$\n「What's more, within this next month,\n　the likes of Mycenae and $$宇宙魔王#pilot$$ will probably\n　launch large-scale operations of their own.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b0600ab9a9e8559d": {
+      "text": "$$ゼロ$$\n「What about Neo Zeon's movements?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7cbc63dad295f862": {
+      "text": "$$ブライト$$\n「Forces from every region are beginning to\n　gather at $$アクシズ$$. $$シャア$$ probably intends\n　to force a decisive battle.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_07f53c816e0a51f5": {
+      "text": "$$オットー$$\n「So the truce with us was just to buy time?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_2d09c6f6a2d990ea": {
+      "text": "$$ゼロ$$\n「It didn't look that way to me...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3c5fcfc484a51913": {
+      "text": "$$オットー$$\n「Then how do you explain the situation now?\n　Or has he given up on the singularity search,\n　planning to end the Federation once $$エタニティ・フラット$$'s done?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0476ffd10c764b0e": {
+      "text": "$$スメラギ$$\n「I suppose there's nothing for it but to ask\n　$$シャア・アズナブル$$ himself about that.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$ジェフリー$$\n「Either way, there's no avoiding a fight, is there...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_2b3479c4cf0680f4": {
+      "text": "$$ブライト$$\n「Apparently $$レディ・アン$$'s command has been\n　getting daily requests from Brigadier General\n　$$サイガス$$ for $c to join the operation.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_e370696b8936b08c": {
+      "text": "$$ゼロ$$\n「A request, huh...\n　If he had his way, he'd rather just\n　seize our forces outright.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9d7b02c5e728b7aa": {
+      "text": "$$ブライト$$\n「But there's no longer any doubt that\n　high command intends to attack the colony.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9af213fc64e0afec": {
+      "text": "$$Ｆ．Ｓ．$$\n「It's only a matter of time now, is it...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d7f1c506e78e55ff": {
+      "text": "$$ジェフリー$$\n「If only we could end this fight ourselves\n　before then...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0c705091f748360e": {
+      "text": "$$ブライト$$\n「The time for a decisive battle, is it...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9eb8599304125b2f": {
+      "text": "$$スメラギ$$\n「To prepare for that,\n　I've sent $$イアン$$ up into space.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a072aa25e5f521e0": {
+      "text": "$$ブライト$$\n「Into space...\n　Whatever for?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_24e1a808a1609a1a": {
+      "text": "$$スメラギ$$\n「You'll find out, in time.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_53128ce8f154fd06": {
+      "text": "$$オットー$$\n「But why did you choose\n　$$第３新東京市$$ as our rendezvous point?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_03b5db9ce98fb8d6": {
+      "text": "$$ブライト$$\n「It's a request from Neo-DEAVA. Apparently they\n　need our cooperation to carry out an experiment\n　in Super-Dimensional physics.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3915fb4102f1c1dd": {
+      "text": "$$Ｆ．Ｓ．$$\n「Now that you mention it, Supreme Commander\n　$$不動$$ was here in $$第３新東京市$$ too...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_817b2773b4ed563e": {
+      "text": "$$ジェフリー$$\n「Though I can't read his intentions at all.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1cc233cbc8c80af7": {
+      "text": "$$ゼロ$$\n「An experiment in Super-Dimensional physics...\n　Does that mean they've found a way to break\n　the Prison of Time...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$$クレア$$\n「Excuse me.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_e180b22d18f48d38": {
+      "text": "$$ジェフリー$$\n「Are you alone, Chairwoman $$クレア$$?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_e598c2a0b27e7f50": {
+      "text": "$$クレア$$\n「No... $$不動$$ is making himself at home in the\n　hangar, along with the power to break the Prison of Time.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4d2a9066c4e7b27f": {
+      "text": "Quarter Hangar",
+      "status": "translated"
+    },
+    "stage0083_03:r_10340119af3ed6db": {
+      "text": "Quarter Hangar",
+      "status": "translated"
+    },
+    "stage0083_03:r_23a9c7ab620ab112": {
+      "text": "Quarter Hangar",
+      "status": "translated"
+    },
+    "stage0083_03:r_4f0aca6deda07883": {
+      "text": "　\n　　\n　　　　　　～ Macross Quarter Hangar ～",
+      "status": "translated"
+    },
+    "stage0083_03:r_8fe40600ce62dfbc": {
+      "text": "$$不動$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ff4ce5f3cf96b617": {
+      "text": "$$木下$$\n「Welcome, Supreme Commander $$不動$$, Your Excellency!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d73c21f119847e35": {
+      "text": "$$クルツ$$\n「Thank you so much for taking the time to come\n　despite your busy schedule!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_89766f5ffaa912d4": {
+      "text": "$$宗介$$\n「Quite the welcoming mood.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$マオ$$\n「The ones welcoming us aren't that old guy.\n　It's those kids who came with him.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_451f726d4299ea35": {
+      "text": "$$ランカ$$\n「Sounds like you've been through a lot, $$シモン$$...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_e3d111e8bb190cb1": {
+      "text": "$$シモン$$\n「Thanks, Ms. $$ランカ$$.\n　But I'm fine.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7c0d3c51f9a11ca0": {
+      "text": "$$シモン$$\n「What I need to do is already decided.\n　All that's left is to give it everything I've got.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ab97c2b2418ea732": {
+      "text": "$$ランカ$$\n「You've gotten stronger...\n　Maybe I should call you Mr. $$シモン$$ after all?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_2ddff5064af78db4": {
+      "text": "$$シモン$$\n「Don't worry about that.\n　To me, Ms. $$ランカ$$ will always be my idol.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_050d0532c4b24bfe": {
+      "text": "$$シェリル$$\n「You'd better do your best too, $$アンディ$$.\n　We're fellow hole-diggers, after all.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d583fcea31bdad2e": {
+      "text": "$$アンディ$$\n「You don't need to tell me twice, $$シェリル$$.\n　I'll definitely save $$ＭＩＸ$$ myself.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_475f7653621a91b5": {
+      "text": "$$シェリル$$\n「I'm counting on you, digging duo.\n　Go ahead and punch a hole through the dimensional wall too.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f228ae702350849b": {
+      "text": "$$シモン$$\n「I'll give it a shot.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d69dc027cba3003f": {
+      "text": "$$アルト$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3c3735172a480b72": {
+      "text": "$$ランカ$$\n「Sorry, $$アルト$$.\n　We always show up so suddenly.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1f418b5594cea300": {
+      "text": "$$アルト$$\n「That's fine, but you're saying that you and\n　$$シェリル$$ are the power to break the Prison of Time...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f87fb889124bfaef": {
+      "text": "$$不動$$\n「You don't understand, $$早乙女アルト$$?\n　Then listen well.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_79c90de32a79212d": {
+      "text": "$$バサラ$$\n「Listen to my soooong!!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_33f7fd55913419e8": {
+      "text": "$$アルト$$\n「$$バサラ$$...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_473d9a88b4ca96e7": {
+      "text": "$$不動$$\n「A song is not merely a vibration of air.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4de6ac85c63bac12": {
+      "text": "$$アルト$$\n「!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4c92652c9b1adf6f": {
+      "text": "$$不動$$\n「Transcending time, transcending place,\n　that which moves every soul is what's called a true song...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ce90563a934d49fb": {
+      "text": "$$アルト$$\n「You're going to use the dimension-crossing songs of\n　$$シェリル$$, $$ランカ$$, and $$バサラ$$ to break the Prison of Time?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4fb296e63cb1fb46": {
+      "text": "$$不動$$\n「If it works out, so much the better.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6d77e72dbbcd7dfe": {
+      "text": "$$ミシェル$$\n「I see.\n　So you brought $$シェリル$$ and $$ランカ$$-chan to\n　$c to combine the three of their voices.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9dc59affd40f32fc": {
+      "text": "$$クラン$$\n「That answer's only worth 50 points.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0cea115be526a319": {
+      "text": "$$ミシェル$$\n「What's that supposed to mean?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d36072babd12aeb4": {
+      "text": "$$ガムリン$$\n「A song is feeling...\n　So to maximize those two's feelings,\n　you need $$アルト$$, is that it?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_09ee921a85025fd3": {
+      "text": "$$不動$$\n「As expected of you, $$ガムリン・木崎$$.\n　You understand song and feeling well.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_fae689f2a1057b61": {
+      "text": "$$ガムリン$$\n「Supreme Commander $$不動$$...\n　That line, 'A song is not merely a vibration of air'...\n　that's a saying passed down since long ago in our world.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_91c6d0bb53854ecc": {
+      "text": "$$ガムリン$$\n「Where did you hear that?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_42a3149105314ab8": {
+      "text": "$$不動$$\n「Who knows...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_62ecd978c667bd29": {
+      "text": "$$アルト$$\n（$$シェリル$$, $$ランカ$$...\n　Looks like the world might be saved by you two again.）",
+      "status": "translated"
+    },
+    "stage0083_03:r_d441e6cc908ac01b": {
+      "text": "$$オズマ$$\n「$$アルト$$...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b2aab8873350ea1f": {
+      "text": "$$アルト$$\n「Yes.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_2c7af4c55d8ac938": {
+      "text": "$$オズマ$$\n「I'm counting on you to protect $$ランカ$$ and $$シェリル$$.\n　That's why I've prepared the YF-29 for you.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_653b741d07545dff": {
+      "text": "$$オズマ$$\n「It's also equipped with a Super Pack to boost\n　its mobility. Show me you can handle it.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d584d4b5af55b1cf": {
+      "text": "$$アルト$$\n「Understood.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_db0ee69ece206fcd": {
+      "text": "$$刹那$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f97e6925c9e37332": {
+      "text": "$$ヒイロ$$\n「Are you thinking back to your fight with Ribbons Almark?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_422861e0b8d77d0c": {
+      "text": "$$刹那$$\n「And what happened with $$グレイス$$ O'Connor, too.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ef16bcaa2b0e0c45": {
+      "text": "$$ヒイロ$$\n「Feelings become strength...\n　You must have felt that in that battle too.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_2b93cca10f1c36a8": {
+      "text": "$$刹那$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7980fd37141d88d0": {
+      "text": "$$ヒイロ$$\n「Have you stopped being able to believe that?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ac21212c36d2b9ad": {
+      "text": "$$刹那$$\n「I... can't understand $$シャア・アズナブル$$...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a26e2108358af7a4": {
+      "text": "$$ヒイロ$$\n「If you don't try to understand him, of course you can't.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a8118b2e37aa1382": {
+      "text": "$$刹那$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_017a56991b7b8ca4": {
+      "text": "$$カイエン$$\n「...But, Supreme Commander $$不動$$...\n　when did you manage to make contact with\n　$$ランカ・リー$$ and $$シェリル・ノーム$$?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ad3e1db3419665fb": {
+      "text": "$$不動$$\n「I don't wander around aimlessly for nothing.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0149e3a5f2e5ef78": {
+      "text": "$$不動$$\n「...But that's over now, too.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3ad10e705167a3fa": {
+      "text": "$$シュレード$$\n「What do you mean by that?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_bdc546b199c80996": {
+      "text": "$$不動$$\n「The Mythical Aquarion...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_22c8caf8c08c5119": {
+      "text": "$$モロイ$$\n「Wha...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9c13714b3efbc7a8": {
+      "text": "$$サザンカ$$\n「T-that's the legendary being,\n　the one with power enough to create a world, right!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_96f156e19b53fc09": {
+      "text": "$$カイエン$$\n「And that's supposedly here, in this world...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_feb0390bba7fe1fb": {
+      "text": "$$不動$$\n「Where are $$アマタ・ソラ$$ and $$ミコノ・スズシロ$$?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_8a78bcec22029401": {
+      "text": "$$ユノハ$$\n「It's free time right now, so I think they're outside.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f42017dfce31dea9": {
+      "text": "$$不動$$\n「Those who are drawn to each other...\n　Something's going to happen today, after all...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ef7426919f628d8a": {
+      "text": "$$不動$$\n「And drawn along with them, a pitiful avenger comes too.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9e994a4b926d9906": {
+      "text": "$n\n「!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ffae76d2a77abf5a": {
+      "text": "$$スズネ$$\n「$n...!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3ac462d37e5893ff": {
+      "text": "$n\n「He's... is $$ガドライト$$ nearby...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_fd6bdf7910d7d925": {
+      "text": "$$第３新東京市$$, Dusk",
+      "status": "translated"
+    },
+    "stage0083_03:r_d38be46e6cd7a5e5": {
+      "text": "$$第３新東京市$$, Dusk",
+      "status": "translated"
+    },
+    "stage0083_03:r_3fe2078328753c16": {
+      "text": "$$第３新東京市$$, Dusk",
+      "status": "translated"
+    },
+    "stage0083_03:r_c66844158d1ce600": {
+      "text": "　\n　　\n　　　　　　　　　　　～ $$第３新東京市$$ ～",
+      "status": "translated"
+    },
+    "stage0083_03:r_d037ecbc1e348dc9": {
+      "text": "$$ミコノ$$\n「What a beautiful sunset...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_bcd53d14c4785426": {
+      "text": "$$アマタ$$\n「Yeah...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9ca55ea7feca954a": {
+      "text": "$$ミコノ$$\n「It's hard to believe this planet's\n　time is about to stop.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_554ae12c4c170253": {
+      "text": "$$アマタ$$\n「Yeah...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_fa59c6df081e6ae4": {
+      "text": "$$ミコノ$$\n「You've just been saying 'yeah' this whole time, $$アマタ$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ca3edf3b8b52aedf": {
+      "text": "$$アマタ$$\n「Yeah...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_aa5d235c78ebe19f": {
+      "text": "$$ミコノ$$\n「$$アマタ$$...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0b3b19cddb871f90": {
+      "text": "$$アマタ$$\n「...Like Ms. $$ミコノ$$ says,\n　sometimes I can't believe the world's in danger either...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_304e98dac43c9333": {
+      "text": "$$アマタ$$\n「But in reality, a war is happening,\n　the Prison of Time is being completed bit by bit,\n　and $$バアル$$ and the $$アンチスパイラル#keyword$$ keep attacking us.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b740d817a14afd3a": {
+      "text": "$$ミコノ$$\n「...We can't look away from that, can we...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_40e4c010d1b35b4c": {
+      "text": "$$アマタ$$\n「So, Ms. $$ミコノ$$...\n　I think I need to face the truth head-on too.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c33abf00683a32bc": {
+      "text": "$$ミコノ$$\n「$$アマタ$$...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3036adce91d1f4a8": {
+      "text": "$$アマタ$$\n「$$ミコノ$$, tell me.\n　What's your relationship with that beast of a\n　guy from Altair?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_019293cb83599509": {
+      "text": "$$ミコノ$$\n「...I don't know...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9b949b9281aaeef1": {
+      "text": "$$アマタ$$\n「It's fine if you don't know.\n　But tell me everything you feel about him.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b39a1dd705fe6cbf": {
+      "text": "$$アマタ$$\n「I want to know...!\n　Why that guy calls you $$シルフィ$$!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c9016e3ab05470b0": {
+      "text": "$$ミコノ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a684e6cea428e518": {
+      "text": "$$ゼシカ$$\n「Let me hear it too.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_cf907a4d5de8b5c9": {
+      "text": "$$ミコノ$$\n「$$ゼシカ$$...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a5774604a0f00702": {
+      "text": "$$ゼシカ$$\n「I should have the right to hear it too.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b4fa30f33e84207f": {
+      "text": "$$ゼシカ$$\n「Because, I...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9133b7e0b34de48f": {
+      "text": "$$アマタ$$\n「$$ゼシカ$$...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4ae9c4bd77494c4a": {
+      "text": "$$ミカゲ$$\n「Poor, pale green-haired girl...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7313331f4077d255": {
+      "text": "$$ゼシカ$$\n「Ah...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a84ab0c3c1ba44d4": {
+      "text": "$$ミコノ$$\n「You're...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_414e6e90094d1413": {
+      "text": "$$アマタ$$\n「$$ミカゲ$$ of Altair!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_83a9e41e15444c69": {
+      "text": "$$ミカゲ$$\n「You there, the other half.\n　Isn't it about time you woke up?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_09227dec2bd6f4d8": {
+      "text": "$$アマタ$$\n「What!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7b3a37f5039eb1f6": {
+      "text": "$$ミカゲ$$\n「Fufu... then let me wake you up.\n　...Now, $$カグラ$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_cb6d9ee71c24b042": {
+      "text": "$$カグラ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ddd97a6ef823929a": {
+      "text": "$$アマタ$$\n「You're...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_df349052cd9cdd0c": {
+      "text": "$$カグラ$$\n「Time we settled this, coward $$アマタ$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a7ce9f908380694c": {
+      "text": "$$アマタ$$\n「You... how do you know my name...!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_de3cc1f733dcb073": {
+      "text": "$$カグラ$$\n「I remembered.\n　About you... and about me!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0835ec3fff318aff": {
+      "text": "$$アマタ$$\n「You and... me...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c32efc7394910997": {
+      "text": "$$ミカゲ$$\n「Still can't remember?\n　That day in your childhood...\n　the day you lost your mother, $$アリシア$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b01db8213417811e": {
+      "text": "$$アマタ$$\n「!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_bc0273c6ae91c929": {
+      "text": "$$カグラ$$\n「You couldn't do a damn thing, coward $$アマタ$$...!\n　That's why I split from you!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_8deea7c70d7a76e7": {
+      "text": "$$ゼシカ$$\n「W-what are you saying...!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_660c72e627d873c7": {
+      "text": "$$ミコノ$$\n「I... I have to apologize...\n　I... I did something horrible... to him...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_5d8b67b5bd8ce190": {
+      "text": "$$ゼシカ$$\n「$$ミコノ$$!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7cf3c91395139f5c": {
+      "text": "$$カグラ$$\n「Wait for me, $$シルフィ$$!\n　I'll kill coward $$アマタ$$ right now and come get you!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6ccd85652ef4ccf1": {
+      "text": "$$カグラ$$\n「I don't give up on what matters to me!\n　I'll chase it to the ends of the earth!!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_fbe7bf7d854012a7": {
+      "text": "$$アマタ$$\n「Stop it!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1f438885dbc1359e": {
+      "text": "$$アマタ$$\n「Gah... something in my head...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_2e59226caa35f6e5": {
+      "text": "$$カグラ$$\n「Remember, coward $$アマタ$$!\n　You are me!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_5d7a3adb077ad934": {
+      "text": "$$アマタ$$\n「I-I knew it, you're...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_78d3b2a75e38d6f7": {
+      "text": "$$カグラ$$\n「That's right...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_8d461de418389bf8": {
+      "text": "$$アマタ$$\n「You're... another me!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_5cb2acefa1e7c7fb": {
+      "text": "$$ミコノ$$\n「That person and... $$アマタ$$...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_59ce7fd9524ec8be": {
+      "text": "$$ゼシカ$$\n「You mean the same person from parallel worlds!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_33f67c683bda9203": {
+      "text": "$$ミカゲ$$\n「That's not it.\n　That day... the boy who lost his mother\n　split himself in two.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_476fb20ab9d18957": {
+      "text": "$$ミカゲ$$\n「And that other half of the boy\n　crossed over to Altair.\n　That's him... $$カグラ$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6be0d6139fac197c": {
+      "text": "$$カグラ$$\n「That's the deal.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_df899b8031b4ca06": {
+      "text": "$$ミカゲ$$\n「Well then, $$カグラ$$... I'll leave the rest to you.\n　In answer to your souls, it will soon revive.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c5d048c7db7cac75": {
+      "text": "$$アマタ$$\n「Wait!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_308e8ac66b1141ef": {
+      "text": "$$カグラ$$\n「Don't look away!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_64f25294d71a5d55": {
+      "text": "$$アマタ$$\n「This guy...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b6ca80db4741a62c": {
+      "text": "$$カグラ$$\n「You're me...\n　No wonder you had no scent from when we first met.\n　It's the same scent as mine...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_432a29155221625f": {
+      "text": "$$アマタ$$\n「Guh...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9f7c18d1ea1b55c9": {
+      "text": "$$カグラ$$\n「You and I were originally one person.\n　That is... until that day.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_56688ad8e41b7b42": {
+      "text": "$$カグラ$$\n「That day, all $$アマタ$$ could do was watch fate go by...\n　That's you.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_34a510533cb8a9f5": {
+      "text": "$$アマタ$$\n「Shut up!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1afedc9fa466f321": {
+      "text": "$$カグラ$$\n「Guess nothing's changed.\n　Can't do a thing when it counts, coward $$アマタ$$!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9547b3241808695f": {
+      "text": "$$アマタ$$\n「Then what about you!?\n　You went all the way to Altair chasing Mom,\n　so what were you doing there!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_32b2a8ce24deeb9f": {
+      "text": "$$カグラ$$\n「Crossing dimensions was fine,\n　but I got separated from Mom...\n　That's where I met $$ミカゲ$$, and got the name $$カグラ$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c7ef92060bb8199d": {
+      "text": "$$カグラ$$\n「I lost my memory, and $$ミカゲ$$ raised me.\n　I don't care about my mother anymore.\n　Same as some father I don't even know!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1be6d12f616f04e4": {
+      "text": "$$カグラ$$\n「There's only one scent that matters to me...!\n　The scent of my darling damn woman...!\n　The real $$シルフィ$$, and no one else!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_80f948aeaed93de8": {
+      "text": "$$ミコノ$$\n「...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0d24e9726dcc79f9": {
+      "text": "$$アマタ$$\n「I'm not a coward!\n　I won't hand $$ミコノ$$ over to you!!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_da648116badd491a": {
+      "text": "$$カグラ$$\n「Shut the hell up!!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4e91ccecf1dd0f66": {
+      "text": "$$アマタ$$\n「Whoa!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_668b7114a3ac1d77": {
+      "text": "$$カグラ$$\n「Weak, weak...!\n　Way too weak!!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ef339c6f71e7560f": {
+      "text": "$$ゼシカ$$\n「You...!\n　Get away from $$アマタ$$!!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ce68dd10a19e01ea": {
+      "text": "$$カグラ$$\n「Pathetic, coward $$アマタ$$!\n　Needing a woman to save you!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_13ce8d4e4858b193": {
+      "text": "$$アマタ$$\n「D-damn it...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_075101b23517fbaa": {
+      "text": "$$カグラ$$\n「What's wrong, $$アマタ$$!?\n　Show me you're not a coward!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_13c2ae299018c9ee": {
+      "text": "$$ミコノ$$\n「Stop it!\n　Why are you two fighting!?\n　Please, just stoooop it already!!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6f4f8dd80820f5e7": {
+      "text": "$$カグラ$$\n「What is this explosion!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_afa513b4815df4c9": {
+      "text": "$$アマタ$$\n「$$ミコノ$$, $$ゼシカ$$!\n　Run, now, while you can!!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6cf1e5ed68d98bd4": {
+      "text": "$$ゼシカ$$\n「Y-yeah!!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_e62eb587b8d34cb9": {
+      "text": "Central Dogma",
+      "status": "translated"
+    },
+    "stage0083_03:r_d72cc2c0739c9088": {
+      "text": "Central Dogma",
+      "status": "translated"
+    },
+    "stage0083_03:r_ecf4e1c8c0f8d2d7": {
+      "text": "Central Dogma",
+      "status": "translated"
+    },
+    "stage0083_03:r_e5a692ea5ce09cac": {
+      "text": "　\n　\n　　　　　～NERV Headquarters Basement, Central Dogma～",
+      "status": "translated"
+    },
+    "stage0083_03:r_e793fc3ce3a0c28d": {
+      "text": "$$ミカゲ$$\n「This is...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_2be6c657d0e12c4b": {
+      "text": "$$カヲル$$\n「Hey.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f89f6c6c4b076e16": {
+      "text": "$$ミカゲ$$\n「Did you come to get in my way?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7569f965fff4d791": {
+      "text": "$$カヲル$$\n「That's not my intention.\n　But I won't let you touch this.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b43bdba9393d4d68": {
+      "text": "$$ミカゲ$$\n「Fufu... something that creates a world...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3ec159d1a3492877": {
+      "text": "$$ミカゲ$$\n「No wonder I could never find it,\n　no matter how I searched.\n　Drawn here by something of the same nature...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4e2fbafa9ebef558": {
+      "text": "$$カヲル$$\n「I suppose so, probably.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_bde2e27bac7e3317": {
+      "text": "$$ミカゲ$$\n「I can really feel that this is the edge of myth.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_631834aa1545ba7b": {
+      "text": "$$カヲル$$\n「I've confirmed your intent, so I'll be going.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0cd6aab432ee5af7": {
+      "text": "$$カヲル$$\n「But I... don't think I could ever like you.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c8b75f3bca245a85": {
+      "text": "$$ミカゲ$$\n「How irritating...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b26be73e3c0c8bed": {
+      "text": "$$ゲンドウ$$\n「If you have no business here, you may leave.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1a4dc288e81719ee": {
+      "text": "$$ミカゲ$$\n「Heh... one who seeks to open the door.\n　I offer you my respect.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b8902c992035da79": {
+      "text": "$$ゲンドウ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_df10ad0a71c307da": {
+      "text": "$$ミカゲ$$\n「It seems I'm disliked...\n　I'll be on my way, then.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9293c52555ba1457": {
+      "text": "$$ミカゲ$$\n「If you're going to open the door, hurry.\n　This world will end soon.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6c41647935e2574a": {
+      "text": "$$ゲンドウ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ca702b5726ebd4da": {
+      "text": "Space",
+      "status": "translated"
+    },
+    "stage0083_03:r_51ce1d8caa34c103": {
+      "text": "Space",
+      "status": "translated"
+    },
+    "stage0083_03:r_d00313056b19262c": {
+      "text": "Space",
+      "status": "translated"
+    },
+    "stage0083_03:r_d41f1e36365baa6f": {
+      "text": "$$アマタ$$\n「Where is this...!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_2c37dd5b8f919a88": {
+      "text": "$$ミコノ$$\n「$$アマタ$$...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_53f5199f05a9aad8": {
+      "text": "$$アマタ$$\n「$$ミコノ$$...!\n　And everyone else, too...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c6937f14a8985c35": {
+      "text": "$$カイエン$$\n「Is this an illusion...?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_07513334490fbdf9": {
+      "text": "$$不動$$\n「Truth isn't only what the eye can see.\n　This is a universe beyond time and space...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d90c4affdd742a0e": {
+      "text": "$$不動$$\n「That's right... this is inside the 'Book of Genesis'...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_082a55c75a163780": {
+      "text": "$$アンディ$$\n「The 'Book of Genesis'...!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_fa09fad95980b867": {
+      "text": "$$モロイ$$\n「The past and future... a book said to record\n　every truth of the world...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f5507082e5c31362": {
+      "text": "$$ゼシカ$$\n「And that's this universe...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3c9956c9d519d2a2": {
+      "text": "$$クレア$$\n「You're all here, Elements...\n　I have something important to tell you all now.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d150caab246bbd7a": {
+      "text": "$$不動$$\n「What I'm about to tell spans 12,000 years...\n　and an ancient myth handed down from\n　the 12,000 years before even that...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d23d30b65284f69d": {
+      "text": "$$不動$$\n「And it goes further back than that...\n　all the way to 120,000,000 years ago.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b2f67d46499f2bbd": {
+      "text": "$$サザンカ$$\n「12,000 years before\n　another 12,000 years ago...?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_fc1b13eaa4071b9a": {
+      "text": "$$ユノハ$$\n「120,000,000 years ago...\n　I can't even imagine it...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c4cdd41ba9207e9c": {
+      "text": "$$不動$$\n「This book has always been with you.\n　A steadfast book, unmoved even by the vast flow of time...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c33c28fb471faf59": {
+      "text": "$$ミコノ$$\n（$$不動$$...\n　The same as our Supreme Commander...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_d0fc4899507f74b2": {
+      "text": "$$不動$$\n「Its name is the 'Book of Twin Stars'...!\n　And now... unsealed!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_11f13ec5326eaa51": {
+      "text": "$$シュレード$$\n「The light is spreading...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b69df689192adfc2": {
+      "text": "$$不動$$\n「$c must be seeing this vision too.\n　And their final seal will be undone as well.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_8a9ac301023aa8d3": {
+      "text": "$$クレア$$\n「Time goes back to as far as 24,000 years ago.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_e4ae97a37c9b0cce": {
+      "text": "$$アマタ$$\n「...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4cab8ba7b88b6c2a": {
+      "text": "$$クレア$$\n「The 《$$堕天翅$$》 race, one might call\n　humanity's natural enemy. Countless defeats,\n　countless deaths... The creeping footsteps of ruin...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_38f89a2d27debb9e": {
+      "text": "$$クレア$$\n「That's right... Apollonius, the Wing of Slaughter...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_20aab898d4d14e51": {
+      "text": "$$アマタ$$\n「Apollonius...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_e418ba9e04898c28": {
+      "text": "$$クレア$$\n「The war between humans and the $$堕天翅$$ race...\n　By some trick of fate, one love gave birth\n　to a miracle there.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_88461d9fd17c56e7": {
+      "text": "$$クレア$$\n「Of all things, Apollonius fell in love\n　with a human woman, his supposed enemy,\n　Celiane.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f79b2ac118e41c1a": {
+      "text": "$$クレア$$\n「And so, the Mechanical Angel that Apollonius wielded\n　drove back the $$堕天翅$$ and protected\n　his beloved Celiane and humankind to the end」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d7bf635b7e5f811c": {
+      "text": "$$カイエン$$\n「That 'Mechanical Angel'...?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_24cb831c779807fd": {
+      "text": "$$クレア$$\n「It is what we call the Mythical Aquarion」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3f9082480d045564": {
+      "text": "$$サザンカ$$\n「Aquarion was piloted by both a human\n　and a $$堕天翅$$...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_312a78dfbb065f65": {
+      "text": "$$クレア$$\n「But where there is light, there is also darkness.\n　$$頭翅$$, the $$堕天翅$$ who was Apollonius's\n　betrothed, came to hate him for his betrayal」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9f17991d2b19374c": {
+      "text": "$$クレア$$\n「And there was one more, a small thing\n　seeking light in the darkness...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9bf1948e282e5587": {
+      "text": "$$アンディ$$\n「What's with that dog...!?\n　Is that a $$堕天翅$$'s pet!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_67c9e002d64d9781": {
+      "text": "$$ユノハ$$\n「So cute...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_cb5e5d90104f7a88": {
+      "text": "$$クレア$$\n「That was Polon, the wing dog who served\n　Apollonius. Of all things, he fell into\n　unrequited love with Celiane, his master's beloved」",
+      "status": "translated"
+    },
+    "stage0083_03:r_34f8d5cbd504c416": {
+      "text": "$$クレア$$\n「Poor Polon prayed to the darkness of night,\n　wishing that if he were ever reborn,\n　he might be united with Celiane」",
+      "status": "translated"
+    },
+    "stage0083_03:r_8246cdac0973a25f": {
+      "text": "$$クレア$$\n「$$頭翅$$'s hatred, Polon's wish...\n　time flows on heartlessly, leaving\n　all these feelings behind」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0a597f4cd9c8309b": {
+      "text": "$$クレア$$\n「The shadow of the dead, the pain of the living,\n　the joy of darkness, the delight of light...\n　let's wrap them all as one in pretty lace...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_fc7afc4ebf9fd013": {
+      "text": "$$クレア$$\n「The light of day is life, the dark of night is death...\n　they melt together into chaos, and then...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_833975ddd032dd18": {
+      "text": "$$不動$$\n「Open your eyes!\n　From here begins the second chapter of the myth!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1608d4c4d3f78b24": {
+      "text": "$$クレア$$\n「Across a long span of time, the $$堕天翅$$ race\n　is revived and falls upon humanity as a great darkness」",
+      "status": "translated"
+    },
+    "stage0083_03:r_149109e3b1cf253b": {
+      "text": "$$アマタ$$\n「That's the war from 12,000 years ago...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1de04d77f1060720": {
+      "text": "$$クレア$$\n「But the people had not forgotten\n　the legend that had saved them」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ffee8be5e866ae97": {
+      "text": "$$クレア$$\n「Guided by legend, the people unearthed\n　an ancient Mechanical Angel and rose up」",
+      "status": "translated"
+    },
+    "stage0083_03:r_bc2050dd9e12f5a4": {
+      "text": "$$クレア$$\n「In this age, in place of Apollonius,\n　the one piloting Aquarion was a boy named Apollo...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_e5de816af15aeaec": {
+      "text": "$$クレア$$\n「That's $$アポロン$$'s real name,\n　from '《$$アクエリアの舞う空$$》'」",
+      "status": "translated"
+    },
+    "stage0083_03:r_5149abbbcbee6ee4": {
+      "text": "$$モロイ$$\n「I see, Apollonius and Apollo...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_bedf0f18c13c0a97": {
+      "text": "$$カイエン$$\n「A reincarnation, huh...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_56d65b2dba1b5061": {
+      "text": "$$ミコノ$$\n「A reincarnation...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_31865d3496c34d8b": {
+      "text": "$$アマタ$$\n（Then, $$ミコノ$$, who $$カグラ$$ calls $$シルフィ$$...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_7d1683c9b3b3094a": {
+      "text": "$$ゼシカ$$\n（And that guy $$カグラ$$, who calls\n　$$ミコノ$$ '$$シルフィ$$'... he must be $$アポロン$$'s...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_2249da179abb6501": {
+      "text": "$$クレア$$\n「No, that is not so」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3f3b91470236b2a8": {
+      "text": "$$カイエン$$\n「What!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_490618028b4c53d6": {
+      "text": "$$クレア$$\n「$$アポロン$$ was the reincarnated form of\n　Polon, the wing dog」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1a6f62daa82363ae": {
+      "text": "$$アンディ$$\n「The legendary $$アポロン$$'s past life was...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6b6dd25816c18fc5": {
+      "text": "$$サザンカ$$\n「A wing dog, of all things...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9d80dc88f241858b": {
+      "text": "$$クレア$$\n「And Celiane, the one he loved, had also\n　been reborn, as Silvia」",
+      "status": "translated"
+    },
+    "stage0083_03:r_23cb7be357e8a4e0": {
+      "text": "$$ミコノ$$\n「That's $$シルフィ$$'s real name...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_60cd511150394b50": {
+      "text": "$$クレア$$\n「Apollo and Silvia met again by a\n　strange twist of fate, and grew closer\n　to each other through the fighting」",
+      "status": "translated"
+    },
+    "stage0083_03:r_33e42009af9a0b54": {
+      "text": "$$クレア$$\n「But fate can be cruel...\n　$$頭翅$$ of the $$堕天翅$$ race had also\n　achieved reincarnation into this age」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7fc1d3642481712b": {
+      "text": "$$クレア$$\n「$$頭翅$$, carrying over that same love and hatred,\n　plotted to destroy the humanity that\n　Apollonius had fought to protect」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f72b6d47f9645d8c": {
+      "text": "$$クレア$$\n「But his twisted love ended up\n　destroying the $$堕天翅$$ race instead」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0153901fe839b497": {
+      "text": "$$クレア$$\n「The Tree of Life, planted for the $$堕天翅$$\n　race's full revival, bore no fruit, and\n　withered, dragging this world's land down with it」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d60b2e6806c37bbe": {
+      "text": "$$クレア$$\n「Once, answering the people's prayers, the land\n　regained its power. But a cruel\n　messenger of god put it at risk again」",
+      "status": "translated"
+    },
+    "stage0083_03:r_336f0b1ef99d93b3": {
+      "text": "$$クレア$$\n「That is what is called the $$新世時空震動$$」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7d0527803c131a6e": {
+      "text": "$$ゼシカ$$\n「That's...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9d4ee24cdaa2851d": {
+      "text": "$$カイエン$$\n「The $$時空震動$$ that birthed this world...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_003ee7d177c348cf": {
+      "text": "$$クレア$$\n「Instead of sealing this world inside\n　the Prison of Time, it tried to drain\n　the life of Earth across many worlds」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f4f785c3e285cb39": {
+      "text": "$$クレア$$\n「To save our world from that crisis,\n　Aquarion united the power of humans\n　and the Wings, and sacrificed itself」",
+      "status": "translated"
+    },
+    "stage0083_03:r_eb4bb0599c61e2b2": {
+      "text": "$$アマタ$$\n「No way...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1a9f38456bfe7b4a": {
+      "text": "$$クレア$$\n「Ah, poor Polon, the wing dog...\n　unable to fulfill the wish he made\n　12,000 years ago, he faced parting once again」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6f761a8fd9d1f7b4": {
+      "text": "$$クレア$$\n「That was the day the world began...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_98c6e74747c3936c": {
+      "text": "$$不動$$\n「The myth crosses another 12,000 years,\n　into its third chapter...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7d9f085a5d9c51fd": {
+      "text": "$$アンディ$$\n「Third chapter...!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_60e4d2ebcfd943ea": {
+      "text": "$$不動$$\n「But first, you all need to know what effect\n　the $$新世時空震動$$ had on\n　the world we came from」",
+      "status": "translated"
+    },
+    "stage0083_03:r_42d73bcdaedb1371": {
+      "text": "$$不動$$\n「The $$新世時空震動$$ affected that world\n　12,000 years ago, by our history's reckoning」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c0837a2b98000559": {
+      "text": "$$アマタ$$\n「Eh!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0866340ed1139b99": {
+      "text": "$$クレア$$\n「Our world was saved by Aquarion's power,\n　but the effect was not a small one」",
+      "status": "translated"
+    },
+    "stage0083_03:r_290faeefba2fe68d": {
+      "text": "$$クレア$$\n「The world's balance collapsed, and Earth split in two」",
+      "status": "translated"
+    },
+    "stage0083_03:r_65ef57e28bd90298": {
+      "text": "$$カイエン$$\n「What did you say!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_bbc100b0424fdcd0": {
+      "text": "$$モロイ$$\n「Earth became two, you're saying...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_03d92655c99f7c70": {
+      "text": "$$不動$$\n「Light and dark, yin and yang, man and woman...\n　Two opposing stars, kept apart by\n　the Milky Way: the Weaver and the Herdsman」",
+      "status": "translated"
+    },
+    "stage0083_03:r_8ca795c4c35fc911": {
+      "text": "$$不動$$\n「Vega and Altair...\n　in other words, our Earth, and the Earth\n　beyond the dimensional gate...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_69bf15620a355d50": {
+      "text": "$$モロイ$$\n「No way...!\n　Our Earth, and...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ae4d9169d6ff43a4": {
+      "text": "$$サザンカ$$\n「That world...!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d9ad0726bf16dd92": {
+      "text": "$$アマタ$$\n「To think they were originally one...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_821a93f3f890d905": {
+      "text": "$$不動$$\n「A gift of God's dice game, or perhaps\n　quantum entanglement... Though torn apart,\n　the two worlds are still drawn to each other」",
+      "status": "translated"
+    },
+    "stage0083_03:r_8cb00be7cca91c45": {
+      "text": "$$不動$$\n「A star split in half, a soul torn apart...\n　This is the 'Book of Twin Stars'!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ce4ee5d4d2a4dc1d": {
+      "text": "$$ゼシカ$$\n（Just like how I long for $$アマタ$$,\n　that world must have longed for ours too...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_5557ccda2f7c3f23": {
+      "text": "$$シュレード$$\n「Stars drawn to each other, huh...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_01fea60fea66c996": {
+      "text": "$$不動$$\n「Time flowed on. Polon, passing through Apollo,\n　achieved reincarnation once more,\n　as the child of $$アリシア$$, Vega's songstress」",
+      "status": "translated"
+    },
+    "stage0083_03:r_48a3f23147fd6b6d": {
+      "text": "$$アマタ$$\n「!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ae273a5479d64978": {
+      "text": "$$不動$$\n「But before that, someone had already\n　been reborn into this present world,\n　still carrying all their past memories...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_28066ae0934e6411": {
+      "text": "$$不動$$\n「That person learned, in the end, that Apollo\n　was not Apollonius, and believing himself\n　deceived, came to hate and curse everything...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a38016b9c3d59e6e": {
+      "text": "$$不動$$\n「And so, to use as a tool for his own revenge,\n　he tore in two the soul of the infant\n　$$アリシア$$ had borne」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9d00ee0ac3902eac": {
+      "text": "$$ミコノ$$\n「So that's $$アマタ$$ and that person...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_258a09e5e9761e3d": {
+      "text": "$$不動$$\n「And so, even as Apollo was torn in two,\n　Celiane, through Silvia who carried on\n　her beloved soul, was reborn whole into this world」",
+      "status": "translated"
+    },
+    "stage0083_03:r_263097ee015a04ab": {
+      "text": "$$ユノハ$$\n「That means...?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4a301748a7930689": {
+      "text": "$$不動$$\n「The one who carries on Silvia's soul, that is...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c38e739de7ee864a": {
+      "text": "$$カイエン$$\n「$$ミコノ$$...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_5135fdea02c6bd7b": {
+      "text": "$$アマタ$$\n「$$ミコノ$$...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c545a5a303470d2c": {
+      "text": "$$ミコノ$$\n「I'm...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_fb06b0a658b1ef40": {
+      "text": "$$ゼシカ$$\n（No way...\n　$$アマタ$$ is half of Apollo's soul,\n　and $$ミコノ$$ is Silvia reincarnated...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_e5630cc47dc440b7": {
+      "text": "$$ゼシカ$$\n（In the end, there was never any room\n　for me... I really was never the one\n　chosen, not from the very start...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_8f39e18936c36a15": {
+      "text": "$$不動$$\n「A war between two split stars,\n　a life of Apollo split in two...\n　That is a tragic myth」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f2655371e3ef7b59": {
+      "text": "$$クレア$$\n「A being of darkness staging this tragedy...\n　A soul trapped by a love too deep,\n　since 24,000 years ago... no, since far before that...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ee7f46e6a631fd5c": {
+      "text": "$$不動$$\n「That is the darkness that once dwelled within $$頭翅$$...\n　In this age, his name is $$ミカゲ$$...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_959b2fde0469959d": {
+      "text": "$$アマタ$$\n「He's the one...?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_54d7a668750123ea": {
+      "text": "$$不動$$\n「And there is no one but you\n　to put an end to this tragic myth!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_586ac0e9503b5765": {
+      "text": "$$アマタ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1d13d9bb6a6d7818": {
+      "text": "$$ミコノ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_dc37213133cd8177": {
+      "text": "$$不動$$\n「That is the whole of the story I have to tell」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9b8d839e83da7879": {
+      "text": "$$カイエン$$\n「Wait, please!\n　Doesn't the 'Book of Twin Stars' say what\n　comes next? The outcome even my foresight can't see!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_95a0cdf4151c12f7": {
+      "text": "$$不動$$\n「The future is made...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c2a5e2a9019026a4": {
+      "text": "$$アマタ$$\n「Huh...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_855e82ce06693ee8": {
+      "text": "$$不動$$\n「To know the future, to control it,\n　that is meaningless. Cling to it, and\n　a species loses its future, and walks toward ruin」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3c1c81e93f697fb9": {
+      "text": "$$アマタ$$\n「The road to ruin...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_10cbf30c54cfe4fc": {
+      "text": "$$不動$$\n「The former $$ＺＥＵＴＨ$$ and former $$ＺＥＸＩＳ$$ members\n　must have regained their final memories as well」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d84831042f10325c": {
+      "text": "$$不動$$\n「For they were allies of Apollo and Silvia」",
+      "status": "translated"
+    },
+    "stage0083_03:r_cc01b694a39de719": {
+      "text": "Space",
+      "status": "translated"
+    },
+    "stage0083_03:r_6a5a0a8d6d6a68fd": {
+      "text": "Space",
+      "status": "translated"
+    },
+    "stage0083_03:r_fa54b106906131ec": {
+      "text": "Space",
+      "status": "translated"
+    },
+    "stage0083_03:r_64f86b30363f1f4c": {
+      "text": "$$アンディ$$\n「You're...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c98d1f9a0e601947": {
+      "text": "$$ＭＩＸＹ$$\n「Ah...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_afa4e4bac1376010": {
+      "text": "$$アンディ$$\n「$$ＭＩＸ$$...!?\n　Is that you, $$ＭＩＸ$$!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c5f074a439f6c890": {
+      "text": "$$ＭＩＸＹ$$\n「You're wrong!\n　I'm $$ＭＩＸＹ$$... a soldier of Altair!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_8b22d4b99ca35b84": {
+      "text": "$$アンディ$$\n「T-true, that flat chest...!\n　Nothing's left of that Big Bang!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b0aaf075b2a97a36": {
+      "text": "$$アンディ$$\n「But I know it! I can feel\n　a faint trace of $$ＭＩＸ$$ inside you!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_53add6e443d8a65a": {
+      "text": "$$ＭＩＸＹ$$\n「Shut up!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_447e23c61fa29c56": {
+      "text": "$$アンディ$$\n「I know it, I tell you!\n　You're $$ＭＩＸ$$!!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d95bdcd1bd8b6579": {
+      "text": "Quarter Hangar",
+      "status": "translated"
+    },
+    "stage0083_03:r_2b4d4dced3ef5a03": {
+      "text": "Quarter Hangar",
+      "status": "translated"
+    },
+    "stage0083_03:r_d3ea963a3518a978": {
+      "text": "Quarter Hangar",
+      "status": "translated"
+    },
+    "stage0083_03:r_0c888ad00ef30dc4": {
+      "text": "　\n　　\n　　　　　　～ Macross Quarter Hangar ～",
+      "status": "translated"
+    },
+    "stage0083_03:r_941d9e3a330b1087": {
+      "text": "$$アルト$$\n「Damn it...!\n　His target wasn't just the Mythical\n　Aquarion after all...!?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_bee2bfb994ca7365": {
+      "text": "$n\n「We've lost the power to break\n　the Prison of Time...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6d287e4652a3781f": {
+      "text": "$$アンディ$$\n「That's not the only problem.\n　If we don't get $$シェリル$$ and $$ランカ$$ back soon,\n　they'll turn into men too」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4d54e46ed7fd462d": {
+      "text": "$$カミーユ$$\n「If that happens, their singing will...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1c42d2bca3a5e3a3": {
+      "text": "$$ガムリン$$\n「It'll surely lose the power of that feeling」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b23f4e273f76c5a8": {
+      "text": "$$アルト$$\n「Like hell I'll let that happen...!\n　We'll save $$シェリル$$ and the others first,\n　no matter what!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_2488b984097a7bdf": {
+      "text": "$$宗介$$\n「But what do we do? Now that they've\n　achieved their goal, if we're not careful,\n　they may never appear in this world again」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6acc4cacd2cf56b6": {
+      "text": "$n\n「I don't think we're out of options.\n　There must still be some way」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0491c741ae20f5e6": {
+      "text": "$$アドヴェント$$\n「That refusal to give up is your strength.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_131bea3d5d957e98": {
+      "text": "$n\n「$$アドヴェント$$...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_fc994d6aae0712cc": {
+      "text": "$$アドヴェント$$\n「But the path you and this world\n　are trying to walk is far too difficult.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_18ef8ab6be368d72": {
+      "text": "$$アドヴェント$$\n「Perhaps that was something\n　already decided... perhaps it's fate.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_176fd2544c64e83e": {
+      "text": "$n\n「Fate...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ae2ea53f43e74074": {
+      "text": "$$アドヴェント$$\n「That's right.\n　No matter how hard people try, it can't be changed.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_60e8a3284b8a113b": {
+      "text": "$$ユノハ$$\n（Does that mean $$ジン$$'s death was fate, too...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_d4164c459c1c1165": {
+      "text": "$$シュレード$$\n（Is it fate that my life is running out too...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_e745974656b70e6a": {
+      "text": "$$アドヴェント$$\n「Life brings countless choices.\n　They lead to many changes,\n　but seen from afar, fate itself remains unchanged.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f794dabe545dc6ac": {
+      "text": "$$アドヴェント$$\n「Those who must die will die,\n　and those who must lose will lose...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d4f3fe1e9bcf2590": {
+      "text": "$n\n「What are you getting at?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_59cb6a337266e5c9": {
+      "text": "$$アドヴェント$$\n「Tell me, $n.\n　Will you accept fate, or defy it?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3888ccd5f98dd99d": {
+      "text": "$n\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_521653467873650f": {
+      "text": "$n\n「Accept fate」\n「Defy fate」",
+      "status": "translated"
+    },
+    "stage0083_03:r_aab85855cbaf5596": {
+      "text": "$n\n「...You may be right about that.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_e5f4d0fca11502fa": {
+      "text": "$$アドヴェント$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f3ed55718d2364ba": {
+      "text": "$n\n「I'll accept fate.\n　But I'll still give it everything I've got.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_47fd2ac2e2a8e945": {
+      "text": "$n\n「That's the most I, a mere mortal, can do.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_95ef381ed0b96982": {
+      "text": "$$アドヴェント$$\n「I see, $n.\n　You truly are the person I took you for.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_82218191e135e576": {
+      "text": "$$アドヴェント$$\n「I believe you'll find a way through this.\n　I'm certain of it.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c4e4b578079583c5": {
+      "text": "$n\n「But $$シェリル$$ and $$ランカ$$ were taken from us,\n　and we're no closer to finding the singularity...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_46c21ad643c64977": {
+      "text": "$$アドヴェント$$\n「No... the singularity is drawing closer to you.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6a27ef5c3933ffa2": {
+      "text": "$n\n「What...?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_04169fb070591784": {
+      "text": "$$アドヴェント$$\n「A singularity, a branch point of fate,\n　is drawn toward the great tides of fate...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1be6bea3e5d25074": {
+      "text": "$$アドヴェント$$\n「And now, those who preside over that fate\n　are beginning to move.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_2471e14c1ef0ecac": {
+      "text": "$n\n「Those who preside over fate...?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6c3c0ada303bce08": {
+      "text": "$$アドヴェント$$\n「Those who call themselves gods.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9f5a27f5febf371b": {
+      "text": "$n\n「Mycenae...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c5d536c5ba8c0902": {
+      "text": "$$アドヴェント$$\n「That's not all.\n　The avatar of the universe's darkness, and\n　$$堕天翅$$, who burns with hatred, as well.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_243595675818fcae": {
+      "text": "$n\n「$$宇宙魔王#pilot$$... and Altair's $$ミカゲ$$?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_61c5480dbf2e58e0": {
+      "text": "$$アドヴェント$$\n「If they begin acting on their desires,\n　humanity may perish before it ever reaches\n　$$エタニティ・フラット$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_2e966de2770bb703": {
+      "text": "$n\n「!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ddda297a7997c73b": {
+      "text": "$$アドヴェント$$\n「Amid the battle against the false gods,\n　the world's fate keeps turning...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_02c89111c680d125": {
+      "text": "$$アドヴェント$$\n「And beyond that battle, a singularity\n　will surely appear... That is what I believe.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_fda7edf39e317875": {
+      "text": "$n\n「...Are you going?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b267a0ec877acc0e": {
+      "text": "$$アドヴェント$$\n「My squadron will pursue Geminis.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c627120a60cde94d": {
+      "text": "$$アドヴェント$$\n「$$ガドライト$$ will go into hiding, but the only\n　way to destroy the Prison of Time is to use their power.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_22a2d3667e5a9fc8": {
+      "text": "$n\n「Got it.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_62e68b17a29fb53b": {
+      "text": "$$アドヴェント$$\n「Until we meet again, $n... and $c.\n　Next time, I'll reveal the whole truth,\n　and we'll fight together for this world's fate.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3f09ae47d355cbc5": {
+      "text": "$n\n「Yeah...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_629b0e87b7bc7b76": {
+      "text": "$$不動$$\n「So that was the last one...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_5777cb06f7e0103f": {
+      "text": "$$ミコノ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ede6dd5bb2efe029": {
+      "text": "$$不動$$\n「$$ミコノ・スズシロ$$, is it...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_98e716ed18b1b3a2": {
+      "text": "$$ミコノ$$\n「Just who are you?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_91a4ece3cc02badd": {
+      "text": "$$不動$$\n「My name is $$不動ＺＥＮ$$...\n　I serve as Neo-DEAVA's Supreme Commander.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_e81e034b71411af7": {
+      "text": "$$ミコノ$$\n「That's not what I'm asking!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_e83ac0db54ff2b02": {
+      "text": "$$不動$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_bc5b33fbc100b97b": {
+      "text": "$$ミコノ$$\n「So you don't intend to tell us anything?\n　Even if we... if the world is in peril?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f2d72b948cc38cfe": {
+      "text": "$$不動$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3b207a6e3b8e5700": {
+      "text": "$$ミコノ$$\n「I... won't rely on you anymore.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_718d4f86b37b2915": {
+      "text": "$$不動$$\n「...That's fine.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_2cd57aac659672dc": {
+      "text": "$$不動$$\n「Walk your own path in life.\n　Bound by nothing, relying on nothing.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_017c609cb5528ca1": {
+      "text": "$$不動$$\n「That is humanity's duty.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_984737d2920b03f7": {
+      "text": "$n\n「...You may be right about that.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_5ce10ef5943775df": {
+      "text": "$$アドヴェント$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_444bfe868b096710": {
+      "text": "$n\n「But I'll defy fate.\n　I won't accept some future\n　that's already been decided for me.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_864ee68806b41af1": {
+      "text": "$n\n「Dad and Sis died because of an angel's...\n　$$ガドライト$$'s doing. That's different from\n　dying of age or sickness... I won't accept it...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_5c69712b1b3fb77b": {
+      "text": "$$アドヴェント$$\n「I see, $n.\n　You truly are the person I took you for.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f8c886fa821c5334": {
+      "text": "$n\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a4366814d6972533": {
+      "text": "$$アドヴェント$$\n「There are two things that decide fate.\n　One of them is human will.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_2e5685a3629d0a5e": {
+      "text": "$$アドヴェント$$\n「I believe you'll find a way through this.\n　I'm certain of it.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ce4b924038c181a0": {
+      "text": "$n\n「But $$シェリル$$ and $$ランカ$$ were taken from us,\n　and we're no closer to finding the singularity...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1054a335fa977a7a": {
+      "text": "$$アドヴェント$$\n「No... the singularity is drawing closer to you.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1795607640d74fdb": {
+      "text": "$n\n「What...?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1ce9868e47e05f97": {
+      "text": "$$アドヴェント$$\n「A singularity, a branch point of fate,\n　is drawn toward the great tides of fate...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b302a6e2e0ca76ec": {
+      "text": "$$アドヴェント$$\n「And now, those who preside over that fate\n　are beginning to move.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_e4166e8a5b45cb96": {
+      "text": "$n\n「Those who preside over fate...?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_bdfc9cb5d9aaf4ce": {
+      "text": "$$アドヴェント$$\n「Those who call themselves gods.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_cb789b091a7a05ca": {
+      "text": "$n\n「Mycenae...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_5430d9d76e38cf47": {
+      "text": "$$アドヴェント$$\n「That's not all.\n　The avatar of the universe's darkness, and\n　$$堕天翅$$, who burns with hatred, as well.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1711e6c6939aa411": {
+      "text": "$n\n「$$宇宙魔王#pilot$$... and Altair's $$ミカゲ$$?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1efac5b6d8fb1238": {
+      "text": "$$アドヴェント$$\n「If they begin acting on their desires,\n　humanity may perish before it ever reaches\n　$$エタニティ・フラット$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_63bcb74b5bb605c9": {
+      "text": "$n\n「!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b661c876eb7a4d72": {
+      "text": "$$アドヴェント$$\n「Amid the battle against the false gods,\n　the world's fate keeps turning...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_99128140e453d460": {
+      "text": "$$アドヴェント$$\n「And beyond that battle, a singularity\n　will surely appear... That is what I believe.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_bdf41f6a0fb7b286": {
+      "text": "$n\n「...Are you going?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3e40a7aae6a7ebad": {
+      "text": "$$アドヴェント$$\n「My squadron will pursue Geminis.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d4488f1ef5175d87": {
+      "text": "$$アドヴェント$$\n「$$ガドライト$$ will go into hiding, but the only\n　way to destroy the Prison of Time is to use their power.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4f98756e8506f766": {
+      "text": "$n\n「Got it.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_722be3d36da4979c": {
+      "text": "$$アドヴェント$$\n「Until we meet again, $n... and $c.\n　Next time, I'll reveal the whole truth,\n　and we'll fight together for this world's fate.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4f838d45a89974f0": {
+      "text": "$n\n「Yeah...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_99e939138611b349": {
+      "text": "$$不動$$\n「So that was the last one...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b8aead2ff492ad33": {
+      "text": "$$ミコノ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_e18660f45e2bdaae": {
+      "text": "$$不動$$\n「$$ミコノ・スズシロ$$, is it...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c01f3d97d765f442": {
+      "text": "$$ミコノ$$\n「Just who are you?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f2a506c32c68b595": {
+      "text": "$$不動$$\n「My name is $$不動ＺＥＮ$$...\n　I serve as Neo-DEAVA's Supreme Commander.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_366eed12d0fa7297": {
+      "text": "$$ミコノ$$\n「That's not what I'm asking!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_db902169b0ec12e0": {
+      "text": "$$不動$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_53dd6bae12e095c3": {
+      "text": "$$ミコノ$$\n「So you don't intend to tell us anything?\n　Even if we... if the world is in peril?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_bccb0c4cb58aa146": {
+      "text": "$$不動$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_888c0b4c627ecec4": {
+      "text": "$$ミコノ$$\n「I... won't rely on you anymore.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0ee1b4c987332e23": {
+      "text": "$$不動$$\n「...That's fine.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_96d6ee6ffbd6d1e6": {
+      "text": "$$不動$$\n「Walk your own path in life.\n　Bound by nothing, relying on nothing.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_86a99be7bc977b4a": {
+      "text": "$$不動$$\n「That is humanity's duty.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_83e0e74db0ae4d4f": {
+      "text": "$$アドヴェント$$\n「That refusal to give up is your strength.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d85829b2f9bff450": {
+      "text": "$n\n「$$アドヴェント$$...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d45ebbbfa8153f69": {
+      "text": "$$アドヴェント$$\n「But the path you and this world\n　are trying to walk is far too difficult.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_518305c95e4d1da4": {
+      "text": "$$アドヴェント$$\n「Perhaps that was something\n　already decided... perhaps it's fate.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_78ebe98c49194738": {
+      "text": "$n\n「Fate...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_85121e18387bbee9": {
+      "text": "$$アドヴェント$$\n「That's right.\n　No matter how hard people try, it can't be changed.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_58b16d8cc9b8a2a5": {
+      "text": "$$ユノハ$$\n（Does that mean $$ジン$$'s death was fate, too...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_5cf3d385c6d4b8d0": {
+      "text": "$$シュレード$$\n（Is it fate that my life is running out too...）",
+      "status": "translated"
+    },
+    "stage0083_03:r_7c9a719cd8f27d1d": {
+      "text": "$$アドヴェント$$\n「Life brings countless choices.\n　They lead to many changes,\n　but seen from afar, fate itself remains unchanged.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_808269c7e458f2a5": {
+      "text": "$$アドヴェント$$\n「Those who must die will die,\n　and those who must lose will lose...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f6f98a8ef73d1d43": {
+      "text": "$n\n「...You may be right about that.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3d395121b4205722": {
+      "text": "$$アドヴェント$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9496bdb991cf236a": {
+      "text": "$n\n「I'll accept fate.\n　But I'll still give it everything I've got.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_980e935235423ee4": {
+      "text": "$n\n「That's the most I, a mere mortal, can do.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_dc9b1e7f62a8afc8": {
+      "text": "$$アドヴェント$$\n「I see, $n.\n　You truly are the person I took you for.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a93aa11c23414e87": {
+      "text": "$$アドヴェント$$\n「I believe you'll find a way through this.\n　I'm certain of it.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_d243a6836b127987": {
+      "text": "$n\n「But $$シェリル$$ and $$ランカ$$ were taken from us,\n　and we're no closer to finding the singularity...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_cbab585f941e5667": {
+      "text": "$$アドヴェント$$\n「No... the singularity is drawing closer to you.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0e1caed2ba333f4e": {
+      "text": "$n\n「What...?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_06e36bd71f54f272": {
+      "text": "$$アドヴェント$$\n「A singularity, a branch point of fate,\n　is drawn toward the great tides of fate...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a9e024bdcd6975b2": {
+      "text": "$$アドヴェント$$\n「And now, those who preside over that fate\n　are beginning to move.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_978bd43401f7be8a": {
+      "text": "$n\n「Those who preside over fate...?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_e9bd6b1804d36e0a": {
+      "text": "$$アドヴェント$$\n「Those who call themselves gods.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1f65c397b9d1833d": {
+      "text": "$n\n「Mycenae...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7aac40a4f34dcec3": {
+      "text": "$$アドヴェント$$\n「That's not all.\n　The avatar of the universe's darkness, and\n　$$堕天翅$$, who burns with hatred, as well.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_371b88cba6c82378": {
+      "text": "$n\n「$$宇宙魔王#pilot$$... and Altair's $$ミカゲ$$?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4cb558f092561fde": {
+      "text": "$$アドヴェント$$\n「If they begin acting on their desires,\n　humanity may perish before it ever reaches\n　$$エタニティ・フラット$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_119dbefe27cdac46": {
+      "text": "$n\n「!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_e174d36b825c4290": {
+      "text": "$$アドヴェント$$\n「Amid the battle against the false gods,\n　the world's fate keeps turning...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_56176fc60ad96ecd": {
+      "text": "$$アドヴェント$$\n「And beyond that battle, a singularity\n　will surely appear... That is what I believe.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_160384a0c68215c6": {
+      "text": "$n\n「...Are you going?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_577385dbd6d74922": {
+      "text": "$$アドヴェント$$\n「My squadron will pursue Geminis.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ee134f0fa96047a6": {
+      "text": "$$アドヴェント$$\n「$$ガドライト$$ will go into hiding, but the only\n　way to destroy the Prison of Time is to use their power.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_204e41a08c5ec720": {
+      "text": "$n\n「Got it.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c1cddb7853813703": {
+      "text": "$$アドヴェント$$\n「Until we meet again, $n... and $c.\n　Next time, I'll reveal the whole truth,\n　and we'll fight together for this world's fate.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3569c3ca91ae0f9d": {
+      "text": "$n\n「Yeah...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_497aca854c5f874d": {
+      "text": "$$不動$$\n「So that was the last one...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1797d61f82be363c": {
+      "text": "$$ミコノ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f2e19618032127d3": {
+      "text": "$$不動$$\n「$$ミコノ・スズシロ$$, is it...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_9d5428667d48c806": {
+      "text": "$$ミコノ$$\n「Just who are you?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_21454fd877c0ae7b": {
+      "text": "$$不動$$\n「My name is $$不動ＺＥＮ$$...\n　I serve as Neo-DEAVA's Supreme Commander.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c8c3a682c9917367": {
+      "text": "$$ミコノ$$\n「That's not what I'm asking!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f612b6b60810e300": {
+      "text": "$$不動$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_09068a6fd74f79b7": {
+      "text": "$$ミコノ$$\n「So you don't intend to tell us anything?\n　Even if we... if the world is in peril?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4ff0d278b79d1168": {
+      "text": "$$不動$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b101d62bbac1b33b": {
+      "text": "$$ミコノ$$\n「I... won't rely on you anymore.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_05b808b1583f5be2": {
+      "text": "$$不動$$\n「...That's fine.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_6bdc8a8243c655ed": {
+      "text": "$$不動$$\n「Walk your own path in life.\n　Bound by nothing, relying on nothing.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_72be9250b889c959": {
+      "text": "$$不動$$\n「That is humanity's duty.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_402b4aaf0ee30986": {
+      "text": "Paradigm City",
+      "status": "translated"
+    },
+    "stage0083_03:r_2cfc9851abe4070e": {
+      "text": "Paradigm City",
+      "status": "translated"
+    },
+    "stage0083_03:r_0831afdf480052ed": {
+      "text": "Paradigm City",
+      "status": "translated"
+    },
+    "stage0083_03:r_1c9bf7ffbf9314a5": {
+      "text": "　\n　\n　　　　　　～ Paradigm City Bar 'SPEAK EASY' ～",
+      "status": "translated"
+    },
+    "stage0083_03:r_b402ecf2db57f319": {
+      "text": "$$ガドライト$$\n「Damn it...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_adc5793509f8d46c": {
+      "text": "$$ガドライト$$\n「What is with those guys...!\n　We beat 'em down that hard,\n　and they still won't give up?!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f581e32ff0b84e01": {
+      "text": "$$ガドライト$$\n「Ha... but this is as far as I can push it...!\n　What can I even do in one more month?!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c5ffa17ba0fae8d3": {
+      "text": "$$ガドライト$$\n「Well, once the Prison of Time is finished,\n　I'll just go light fires all over again!\n　And then...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b251d2d3a7cdba85": {
+      "text": "???\n「This is some bad liquor.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_abc1d4645695a0e0": {
+      "text": "$$ガドライト$$\n「!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ae527ac0a641a269": {
+      "text": "???\n「I'll have a drink too.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b76534e2de5b6334": {
+      "text": "$$ガドライト$$\n「Why... are you... here...?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ee41ea400d1ee0bf": {
+      "text": "???\n「There's only one reason I came.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_eb56670c83981cc6": {
+      "text": "???\n「To execute the last Geminaid woman,\n　$$アンナロッタ・ストールス$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_90b6cb0493a2982b": {
+      "text": "$$ガドライト$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a5181af1cc2bdd02": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0083_03:r_357749a704e3cf55": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0083_03:r_9da55d8320b82bc6": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0083_03:r_8d5dbaa0f1e069de": {
+      "text": "$$ＡＧ$$\n「Master $$アンディ$$ instinctively sensed\n　that boy was Master $$ＭＩＸ$$, didn't he.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7accc1b1cfd86010": {
+      "text": "$$アンディ$$\n「Yeah.\n　Guess that's why I kept picking fights with him.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_301d85713d2cddd7": {
+      "text": "$$ＡＧ$$\n「Z-Chips are honest.\n　Downing Master $$ＭＩＸ$$ produced\n　100Z worth of Z-Chips.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_59a1074cc884fdbd": {
+      "text": "$$ＡＧ$$\n「I'll add this to the squad's stock.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b66bbe1f07a7674e": {
+      "text": "$$アンディ$$\n「If just that got us 100Z,\n　grabbing that whole big bang with both hands,\n　how many Z-Chips would that have made...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b77f3e5c390fe067": {
+      "text": "$$ＡＧ$$\n「But that is a dream that can no longer come true...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_fa7a261c85f92c5a": {
+      "text": "$$アンディ$$\n「I know.\n　...But I've made up my mind.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_16141de28d738543": {
+      "text": "$$ＡＧ$$\n「Are you going to become a fan of small chests?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_39d8b5a2657c65a4": {
+      "text": "$$ＡＧ$$\n「Or perhaps into Master $$サザンカ$$'s world of tastes...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_1a123affe838b8b1": {
+      "text": "$$アンディ$$\n「I'm not gonna think about that!\n　First I'll focus on rescuing $$ＭＩＸ$$!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_fb72b64c842ba487": {
+      "text": "$$アンディ$$\n「What comes after, comes after!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f9ff2a77c392a048": {
+      "text": "$$ＡＧ$$\n「Master $$アンディ$$'s resolve... I have received it, indeed.\n　I'm sorry for making light of it.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_3167d694c10c96fb": {
+      "text": "$$アンディ$$\n「As long as you get it, that's fine.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_54e755252ec3acc4": {
+      "text": "$$ＡＧ$$\n「Once Master $$ＭＩＸ$$ is safely back,\n　I'll arrange for you to discuss what comes next\n　with Master $$ボビー$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_5dcadcd6c77bc7dc": {
+      "text": "$$アンディ$$\n「W-wait a minute!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_f22e056851da9461": {
+      "text": "$$ＡＧ$$\n「No, no... this is my apology for earlier.\n　Please don't hold back.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_84e951432a30244f": {
+      "text": "$$アンディ$$\n「W-wait up!\n　I'm not mentally readyyyyy!!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_97923e3dd5dae64b": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0083_03:r_c8b34405ed7bfde7": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0083_03:r_286cd6be5271ecd2": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0083_03:r_93b46e3c24ed4825": {
+      "text": "　\n　　\n　　　　　　　　　　　～ D-Trader ～",
+      "status": "translated"
+    },
+    "stage0083_03:r_d7cd6f0e351ca403": {
+      "text": "$$ＡＧ$$\n「You're fired up, Master $$アルト$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_4b3e91da51d87c72": {
+      "text": "$$アルト$$\n「Rescue $$シェリル$$ and $$ランカ$$...\n　That's all I'm thinking about right now.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_912c58272c320559": {
+      "text": "$$ＡＧ$$\n「Your resolve is admirable, but reality is harsh.\n　Depending on the situation, you might only\n　be able to save one of the two.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_5f455447e0703bcf": {
+      "text": "$$ＡＧ$$\n「What will you do then, Master $$アルト$$?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_378632856490e9d0": {
+      "text": "$$アルト$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0a93eeae43e226f4": {
+      "text": "$$ＡＧ$$\n「A good opportunity.\n　Please make your decision, Master $$アルト$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_49dde825db6b02a0": {
+      "text": "$$アルト$$\n「I...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_5d3ee1804aedfa48": {
+      "text": "$$アルト$$\n「I'll save them both.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7fd3cd80460fefb1": {
+      "text": "$$ＡＧ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_03:r_b99c671eb373edd1": {
+      "text": "$$アルト$$\n「If it comes to that, I'm not going to decide\n　which one of them to choose.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0f9b6f684aa8f438": {
+      "text": "$$アルト$$\n「I've decided to save them both.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_23d7f155539c7c51": {
+      "text": "$$ＡＧ$$\n「...A single wing means nothing on its own...\n　Only with both wings together can one fly, is that it?」",
+      "status": "translated"
+    },
+    "stage0083_03:r_c8e48adccc9bbba8": {
+      "text": "$$アルト$$\n「I...」",
+      "status": "translated"
+    },
+    "stage0083_03:r_cd3b88564d0672c9": {
+      "text": "$$ＡＧ$$\n「I understand, Master $$アルト$$.\n　I'm not going to call it indecision,\n　two-timing, or playing both sides.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ed6e99341ad5bf40": {
+      "text": "$$ＡＧ$$\n「It's a different matter from choosing a romantic partner.\n　I trust in Master $$アルト$$, who has resolved\n　to save both of you.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a671f14759794503": {
+      "text": "$$アルト$$\n「Thanks, $$ＡＧ$$.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_7ff5aecfd0f37b20": {
+      "text": "$$ＡＧ$$\n「So, which one you choose is a matter\n　for after you've safely rescued them both.\n　Everyone's patience is about at its limit, you know.」",
+      "status": "translated"
+    },
+    "stage0083_03:r_ed9690679f1aa20f": {
+      "text": "$$アルト$$\n「I know that without being told...!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_121b55dcb47984aa": {
+      "text": "$$ＡＧ$$\n「Well then, now that you're fired up,\n　let's do the usual!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_0c472072ac8bda60": {
+      "text": "$$ＡＧ$$\n「Today too, full steam ahead... business, business!」",
+      "status": "translated"
+    },
+    "stage0083_03:r_a378a46f62b5980d": {
+      "text": "$$アルト$$\n（Wait for me, $$シェリル$$, $$ランカ$$...\n　I will come save you, I promise.）",
+      "status": "translated"
+    }
+  }
+}

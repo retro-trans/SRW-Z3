@@ -1,0 +1,1250 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0031b_03:r_caaab7bad760e16d": {
+      "text": "NERV Command Center",
+      "status": "imported"
+    },
+    "stage0031b_03:r_99b162aa6aa286a2": {
+      "text": "NERV Command Center",
+      "status": "imported"
+    },
+    "stage0031b_03:r_58fb02434a1c40b2": {
+      "text": "NERV Command Center",
+      "status": "imported"
+    },
+    "stage0031b_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　　\n　　　　　　　　　　～NERV Command Center～",
+      "status": "imported"
+    },
+    "stage0031b_03:r_1263541f4071624e": {
+      "text": "$$マコト$$\n「The target's closing in directly overhead...\n　It's drilling down toward the Geofront」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_3bc300bbdc277d82": {
+      "text": "$$シゲル$$\n「$c has forces deployed nearby, but\n　wary of its long-range fire, they can't act」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_38762a09460d8b6b": {
+      "text": "$$リツコ$$\n「Can't be helped.\n　Just keeping it in check to limit the Angel's\n　movement, even a little, is enough for now」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_7ab28e70b4d4f641": {
+      "text": "$$ミサト$$\n「So its target is here... a direct strike\n　on NERV HQ. Report each department's findings」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$リツコ$$\n「From the last battle's data, we infer the target\n　auto-eliminates any hostile within a set range」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_ec335e69f984b8b3": {
+      "text": "$$ミサト$$\n「So closing to melee range\n　would take serious resolve.\n　What about its A.T. Field?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_0abcaf0c31978670": {
+      "text": "$$マヤ$$\n「Still intact.\n　Its phase pattern keeps shifting too, so\n　its shape won't stabilize, so neutralizing it is hard」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_1d6bc48b7f246730": {
+      "text": "$$ミサト$$\n「Guess brute force is the only way through, huh...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_1af20fccc3c53cfc": {
+      "text": "$$マコト$$\n「MAGI's calculations say that piercing the target's\n　A.T. Field with an N2 depth charge strike\n　would need enough force to destroy NERV HQ itself」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_f951916061232dcd": {
+      "text": "$$リツコ$$\n「Matsushiro's MAGI-02 reached the same conclusion.\n　The Federal Government's apparently pushing for\n　a self-destruct strike on NERV HQ itself」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_4d863c3fb88a4c39": {
+      "text": "$$ミサト$$\n「They don't seem to get the situation.\n　If we lose this place, it's all over...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_44f4742c3dcce39a": {
+      "text": "$$ミサト$$\n「What's the Angel's ETA to NERV HQ?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_9e701cdeb3842c21": {
+      "text": "$$シゲル$$\n「Estimated at 12:06:54 AM tomorrow...\n　That's 10 hours, 14 minutes from now」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_6fd81f4abebe60c5": {
+      "text": "$$ミサト$$\n「$$シンジ$$ survived, but Unit-01's wrecked...\n　and $c can't even get close...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_da2132b5038ec737": {
+      "text": "$$マヤ$$\n「We're boxed in on all sides, huh」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_495d61d3ec7e16f2": {
+      "text": "$$マコト$$\n「Should we just raise the white flag?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_5cd353758cfe474d": {
+      "text": "$$ミサト$$\n「Wait a second...\n　There's $$メール$$ addressed to me」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_a653c8dec4c0f06f": {
+      "text": "$$リツコ$$\n「At a time like this...?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_86d493e37a9799a7": {
+      "text": "$$ミサト$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_09d0fcc600cdd3df": {
+      "text": "$$ミサト$$\n「...There might still be something we can do」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_182faded068c15ed": {
+      "text": "$$マコト$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_9c206d19bfda4bd5": {
+      "text": "$$ミサト$$\n「With this plan and that equipment, maybe...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_6e558bc69acf5bf3": {
+      "text": "$$ゲンドウ$$'s Room",
+      "status": "imported"
+    },
+    "stage0031b_03:r_d60d0818e965232f": {
+      "text": "$$ゲンドウ$$'s Room",
+      "status": "imported"
+    },
+    "stage0031b_03:r_5b23687574286204": {
+      "text": "$$ゲンドウ$$'s Room",
+      "status": "imported"
+    },
+    "stage0031b_03:r_6fd86c96891ea942": {
+      "text": "　\n　　\n　　　　　　　　～NERV Headquarters, Commander's Office～",
+      "status": "imported"
+    },
+    "stage0031b_03:r_43e4e548c0b28376": {
+      "text": "$$冬月$$\n「...You approved Lt. Col. Katsuragi's operation plan?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_d80a9688790ed583": {
+      "text": "$$ゲンドウ$$\n「There's no other way but that」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_708bea61e3c43ada": {
+      "text": "$$冬月$$\n「It's based on that man's plan...\n　Can he be trusted?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_7b6f159eeaf4de0f": {
+      "text": "$$ゲンドウ$$\n「No issue.\n　He himself is already part of the plan」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_0827963cfd706e8d": {
+      "text": "$$冬月$$\n「What do you intend to do about Unit-01's pilot?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$ゲンドウ$$\n「The Dummy Plug is still pre-trial.\n　Until it's ready for use, the current pilot\n　will have to keep serving his purpose」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_3f4035fd9db81258": {
+      "text": "$$冬月$$\n「Worst case, mind control, then...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_567b361a454c4b73": {
+      "text": "$$ゲンドウ$$\n「If he fails, we simply use $$レイ#333$$」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_d22851aaafbbf8fc": {
+      "text": "$$冬月$$\n「Put $$レイ#333$$ in Unit-01...?\n　Isn't that far too dangerous?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_352534f64413d954": {
+      "text": "$$ゲンドウ$$\n「Whatever means it takes, we must\n　defeat the 8 remaining Angels」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_79f2664edb1af798": {
+      "text": "$$冬月$$\n「Everything else comes after, then...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_a62c4e7f3c09f7ed": {
+      "text": "Infirmary",
+      "status": "imported"
+    },
+    "stage0031b_03:r_1c5aa0d15ae24846": {
+      "text": "Infirmary",
+      "status": "imported"
+    },
+    "stage0031b_03:r_53bb64ee17750ee2": {
+      "text": "Infirmary",
+      "status": "imported"
+    },
+    "stage0031b_03:r_7a7add80fde475ba": {
+      "text": "　\n　　\n　　　　　　　　　～NERV Headquarters, Infirmary～",
+      "status": "imported"
+    },
+    "stage0031b_03:r_b2befefdbed1393d": {
+      "text": "$$シンジ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_2103f6df2ea2e447": {
+      "text": "$$レイ#333$$\n「You're awake...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_a12e3e130d896ff7": {
+      "text": "$$シンジ$$\n「Where... am I?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_b6f7b219eb4bd64b": {
+      "text": "$$レイ#333$$\n「A NERV hospital room」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_91bf33c27ad39f0a": {
+      "text": "$$シンジ$$\n「Ayanami... you've been here the whole time...?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_ee220318b96ab538": {
+      "text": "$$レイ#333$$\n「I'll relay the schedule for Operation Yashima,\n　set to launch tomorrow at midnight」",
+      "status": "translated"
+    },
+    "stage0031b_03:r_ce1b55e526b6277a": {
+      "text": "$$レイ#333$$\n「Pilots Ikari and Ayanami are to assemble\n　at Terminal 2 today at 1930.\n　After that, follow Lt. Col. Katsuragi's orders」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_c304df6888eb78f7": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_c26958634526e597": {
+      "text": "$$レイ#333$$\n「We depart in 90 minutes」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_cdb750c9d380881a": {
+      "text": "$$シンジ$$\n「You're telling me to get in the EVA again...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_95fda74613c97b39": {
+      "text": "$$レイ#333$$\n「That's right」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_1956994937f8171e": {
+      "text": "$$シンジ$$\n「I don't want to do this anymore...\n　I don't want to feel that scared again...\n　So scared, so scared... but I can't run away either...!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_48f49f6728c15612": {
+      "text": "$$レイ#333$$\n「You're scared of the EVA?\n　Then just go to sleep」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$シンジ$$\n「'Just go to sleep'...?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_f02c37d91387d0ad": {
+      "text": "$$レイ#333$$\n「I'll pilot Unit-01」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$シンジ$$\n「Ayanami!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_9796b3efa401a303": {
+      "text": "$$レイ#333$$\n「Goodbye」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_643b6eebfc0186b3": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_291280e5f7eb9d70": {
+      "text": "$$シンジ$$\n（I hate it, getting in the EVA...\n　When it goes well, it's just expected,\n　so nobody ever praises me...）",
+      "status": "imported"
+    },
+    "stage0031b_03:r_32eb462c1b4999cb": {
+      "text": "$$シンジ$$\n（If I fail, they'll hate me.\n　If it's bad enough, I just die...\n　Why am I even here...?）",
+      "status": "imported"
+    },
+    "stage0031b_03:r_1f4337d6d393fc37": {
+      "text": "$$シンジ$$\n（Meeting $$赤木$$ and everyone in the Volunteer Club,\n　I thought something might change... that something\n　good might happen, so I came here, but...）",
+      "status": "imported"
+    },
+    "stage0031b_03:r_4740e748fae085ee": {
+      "text": "$$シンジ$$\n（But I don't want this anymore...\n　I'm not here to suffer like this...）",
+      "status": "imported"
+    },
+    "stage0031b_03:r_b76524cd840e1d37": {
+      "text": "Corridor",
+      "status": "imported"
+    },
+    "stage0031b_03:r_730ffe18400abfc2": {
+      "text": "Corridor",
+      "status": "imported"
+    },
+    "stage0031b_03:r_ffe0fca26da5cd38": {
+      "text": "Corridor",
+      "status": "imported"
+    },
+    "stage0031b_03:r_bfb27f9eb2f7073e": {
+      "text": "　\n　\n　　　　　　　　　　～Inside NERV HQ～",
+      "status": "imported"
+    },
+    "stage0031b_03:r_859dfa27bcaafe30": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_71ebf05996a4b0fd": {
+      "text": "$$ミサト$$\n「...$$シンジ$$, the assembly time's long past, you know?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_6214c11b1bca811e": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_8eaf6f3098ffed12": {
+      "text": "$$ミサト$$\n「Everyone in $c\n　is in position with the resolve to die if needed.\n　You do your job properly too」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_cf507214fe955d75": {
+      "text": "$$シンジ$$\n「Then why not just have everyone\n　handle the attack on the Angel...?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_2113dcbabdfc758a": {
+      "text": "$$ミサト$$\n「$$シンジ$$...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$シンジ$$\n「...I'm scared, of getting in the EVA」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_6a74519e1fc29c4b": {
+      "text": "$$ミサト$$\n「What are you saying, now of all times?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_5b992878fee054b5": {
+      "text": "$$シンジ$$\n「It's easy for you, $$ミサト$$...\n　You just sit safe underground, giving orders,\n　that's all...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$シンジ$$\n「I'm the only one who has to be scared...\n　It's not fair, $$ミサト$$!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_4a14ec0c511c7f0d": {
+      "text": "$$ミサト$$\n「...Come with me for a sec」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_20cf167c0ec0d4d5": {
+      "text": "$$シンジ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_b591d812c96c6c99": {
+      "text": "$$ミサト$$\n「15 years ago, the world we came from\n　lost half of humanity to $$セカンドインパクト$$」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_e350fa099c1ab072": {
+      "text": "$$ミサト$$\n「If the Angels trigger a Third Impact now,\n　humanity will truly go extinct this time...\n　every single one of us」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$シンジ$$\n「I've heard that story, over and over」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_c33bd700553abf91": {
+      "text": "$$ミサト$$\n「If we let an Angel breach NERV HQ's\n　Level Triple-E, headquarters is set to\n　automatically self-destruct」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_feee5c91826230e1": {
+      "text": "$$ミサト$$\n「We'd trade blows with the Angel to stop\n　a Third Impact... everyone here works with that resolve」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_bccc48e1964ad22d": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_f8736aaaa216c766": {
+      "text": "$$ミサト$$\n「I'll show you the proof of that too」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_d1ec2522c87c361d": {
+      "text": "Central Dogma",
+      "status": "imported"
+    },
+    "stage0031b_03:r_3599f0a4343fd95c": {
+      "text": "Central Dogma",
+      "status": "imported"
+    },
+    "stage0031b_03:r_3bc7834a5bf3ee76": {
+      "text": "Central Dogma",
+      "status": "imported"
+    },
+    "stage0031b_03:r_366814efdc8b5800": {
+      "text": "　\n　\n　　　　　　　　～NERV Headquarters, Central Dogma～",
+      "status": "imported"
+    },
+    "stage0031b_03:r_9be1a4c10bb62515": {
+      "text": "$$ミサト$$\n「...Go ahead, $$シンジ$$」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_94a88c90e557e16e": {
+      "text": "$$シンジ$$\n「This is...! Don't tell me, an EVA!?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_1c208ca0cbf26f28": {
+      "text": "$$ミサト$$\n「No.\n　This is the Second Angel, $$リリス$$, both the origin\n　of life on this planet and the key to its end」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_5b7ee307a700171a": {
+      "text": "$$シンジ$$\n「$$リリス$$...?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_8d8f065c932da30a": {
+      "text": "$$ミサト$$\n「That's right...\n　It's said to be the trigger for a Third Impact too」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_f5432119677514f7": {
+      "text": "$$ミサト$$\n「Protecting this $$リリス$$, fighting with an EVA...\n　that's something only you can do」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_4e5c8e989c4a7691": {
+      "text": "$$シンジ$$\n「Only me...?\n　But everyone in $c is here too...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_adec86483b13599a": {
+      "text": "$$ミサト$$\n「The EVA was built to defeat the Angels...\n　We're entrusting humanity's future to you\n　and the EVA you pilot」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_2cf701bbcde3ec13": {
+      "text": "$$シンジ$$\n「Something that hard... why does it have to be me...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_c17c58fdba72005e": {
+      "text": "$$ミサト$$\n「There's no reason.\n　That fate just happened to be yours」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_1fe8564d2b959317": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_f527e012803f7f1c": {
+      "text": "$$ミサト$$\n「But it's not just you, $$シンジ$$, risking\n　your life to fight alone.\n　We're all in this together」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_4b1247bd3ca4905d": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_00c55e25f87b71d0": {
+      "text": "$$ミサト$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_338f3b27e51dcc41": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_d91d4bc2d52b61c4": {
+      "text": "$$シンジ$$\n「I'll... try getting in again」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_0c8ea89b07432421": {
+      "text": "Operation Yashima Preparations",
+      "status": "imported"
+    },
+    "stage0031b_03:r_4dbfba00ba7744ee": {
+      "text": "Operation Yashima Preparations",
+      "status": "imported"
+    },
+    "stage0031b_03:r_be100a32b731708d": {
+      "text": "Operation Yashima Preparations",
+      "status": "imported"
+    },
+    "stage0031b_03:r_702f82442fcec8a9": {
+      "text": "　\n　　\n　　　　　　　　～$$第３新東京市$$, Futagoyama Firing Range～",
+      "status": "imported"
+    },
+    "stage0031b_03:r_b1e38da4e8775ffe": {
+      "text": "$$ミサト$$\n「...Now, I'll relay each role for this operation.\n　$$シンジ$$, you're on Unit-01 as gunner」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$シンジ$$\n「Yes」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$ミサト$$\n「$$レイ#333$$, you're on Unit-00, handling defense」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_3dad695c99e9e052": {
+      "text": "$$レイ#333$$\n「Yes」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_66d4ae3a21caf881": {
+      "text": "$$ミサト$$\n「This operation calls for tighter precision.\n　That's why Unit-01, with the most combat data,\n　will serve as attacker」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_0c18da7b3a37825d": {
+      "text": "$$ミサト$$\n「The positron cannon to snipe the Angel is still\n　a prototype, but it's already tuned for Unit-01」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_63249745ffae61b6": {
+      "text": "$$シンジ$$\n「From here, I snipe the Angel...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_abdb034ae8509702": {
+      "text": "$$ミサト$$\n「Listen, $$シンジ$$.\n　Positrons curve under Earth's spin,\n　magnetism, and gravity. Not straight」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_3ff2e21207d1d1d3": {
+      "text": "$$ミサト$$\n「Don't forget to correct for that.\n　Pierce straight through the core, and only the core」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_e51ecf6d6aa42e75": {
+      "text": "$$シンジ$$\n「I don't even know where its core is!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_47ddabb7b60131c2": {
+      "text": "$$ミサト$$\n「It's alright.\n　Part of it only turns solid while it's\n　attacking. That's presumed to be the core」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_b025267f22788233": {
+      "text": "$$ミサト$$\n「We'll handle all the targeting data\n　and firing guidance from here.\n　Just follow the script」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_ec1a06a7023bf72c": {
+      "text": "$$ミサト$$\n「Power's being drawn from all over Japan\n　for the positron cannon, fed in by cable.\n　So Unit-01 can't leave the firing position」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_8805f96e52aaa462": {
+      "text": "$$シンジ$$\n「But then, if the Angel attacks us...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_124591cb154fae64": {
+      "text": "$$ミサト$$\n「That's what $$レイ#333$$ is for.\n　And Aquarion and $$ジェニオン$$\n　will be your escort too」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$ミサト$$\n「And on the front line, everyone from $c\n　will keep them pinned down」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_4bf9b05b5f948170": {
+      "text": "$$シンジ$$\n「No way...!\n　That puts everyone in danger!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_eaa52d152f444bfd": {
+      "text": "$$ミサト$$\n「Danger's the same for everyone.\n　Us, $c, and everyone in the world...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_b4bc9e9435b58e6f": {
+      "text": "$$シンジ$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_a9227573166977a9": {
+      "text": "$$ミサト$$\n「It's alright, $$シンジ$$.\n　Operation Yashima came to us from someone\n　who knows $c well」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_b0600ab9a9e8559d": {
+      "text": "$$ミサト$$\n「And combined with the positron cannon\n　sniping I proposed, it's practically perfect」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_7cbc63dad295f862": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_07f53c816e0a51f5": {
+      "text": "$$ミサト$$\n「Alright, $$レイ#333$$... come here,\n　I'll walk you through using the shield」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_2d09c6f6a2d990ea": {
+      "text": "$$レイ#333$$\n「Yes」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_3c5fcfc484a51913": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_0476ffd10c764b0e": {
+      "text": "???\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$シンジ$$\n「A stuffed toy...\n　Why is something like this here...?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_2b3479c4cf0680f4": {
+      "text": "???\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_e370696b8936b08c": {
+      "text": "$$シンジ$$\n「This isn't... Ayanami's, is it...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_9d7b02c5e728b7aa": {
+      "text": "$$ミコノ$$\n「Um...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_9af213fc64e0afec": {
+      "text": "$$シンジ$$\n「$$ミコノ$$...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_d7f1c506e78e55ff": {
+      "text": "$$ミコノ$$\n「Sorry, right before the operation.\n　Everyone asked me to give you a message」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_0c705091f748360e": {
+      "text": "$$シンジ$$\n「A message...?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_9eb8599304125b2f": {
+      "text": "$$ミコノ$$\n「Yeah... Everyone's busy, so I was about\n　the only one who could make it, but...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_a072aa25e5f521e0": {
+      "text": "$$ミコノ$$\n「Good luck, $$シンジ$$」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_24e1a808a1609a1a": {
+      "text": "$$シンジ$$\n「$$ミコノ$$...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_53128ce8f154fd06": {
+      "text": "$$ミコノ$$\n「$$アマタ$$, $$赤木$$, $$カレン$$, $$甲児$$, $$ワッ太$$,\n　$$正太郎$$, $$アムロ$$, $$カミーユ$$, $$バナージ$$,\n　$$シン$$, $$アルト$$, $$宗介$$, and $$シモン$$...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_03b5db9ce98fb8d6": {
+      "text": "$$ミコノ$$\n「$$タケル$$, $$竜馬$$, $$葵$$, $$桂$$,\n　$n, and Miss $$スズネ$$ too...\n　Everyone believes in you, $$シンジ$$」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_3915fb4102f1c1dd": {
+      "text": "$$シンジ$$\n「Everyone... believes in me...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_817b2773b4ed563e": {
+      "text": "$$ミコノ$$\n「This is a sniping cheat sheet from\n　$$クルツ$$ and $$ミシェル$$, a charm from Ensign\n　$$リディ$$, and lunch from $$甲児$$ and $$アルト$$...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_1cc233cbc8c80af7": {
+      "text": "$$ミコノ$$\n「Also... I've got letters from $$トウジ$$\n　and $$ケンスケ$$, so read them later, okay?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$$シンジ$$\n「...Thank you... so much...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_e180b22d18f48d38": {
+      "text": "$$ミコノ$$\n「You're really amazing, $$シンジ$$...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_e598c2a0b27e7f50": {
+      "text": "$$シンジ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_4d2a9066c4e7b27f": {
+      "text": "$$ミコノ$$\n「I mean, so many people cheering you on,\n　expecting things, believing in you...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_10340119af3ed6db": {
+      "text": "$$シンジ$$\n「That's not... true...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_23a9c7ab620ab112": {
+      "text": "$$ミコノ$$\n「$$シンジ$$, you're... not like me...\n　You always try so hard... even today...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_4f0aca6deda07883": {
+      "text": "$$シンジ$$\n「That's not true.\n　But... I can fight because\n　everyone at $c is with me」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_8fe40600ce62dfbc": {
+      "text": "$$シンジ$$\n「It must be the same for you, $$ミコノ$$」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_ff4ce5f3cf96b617": {
+      "text": "$$ミコノ$$\n「Eh...?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_d73c21f119847e35": {
+      "text": "$$シンジ$$\n「$$アマタ$$, $$カイエン$$, and everyone at Element,\n　and everyone from $c too,\n　will surely help you, $$ミコノ$$」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_89766f5ffaa912d4": {
+      "text": "$$シンジ$$\n「So... let's fight together, $$ミコノ$$」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$ミコノ$$\n「...Thanks, $$シンジ$$.\n　I came here to cheer you up, but\n　I'm the one who got cheered up...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_451f726d4299ea35": {
+      "text": "$$シンジ$$\n「Sorry for acting so full of myself...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_e3d111e8bb190cb1": {
+      "text": "$$ミコノ$$\n「No, it's fine...\n　You gave me courage, $$シンジ$$...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_7c0d3c51f9a11ca0": {
+      "text": "$$ミコノ$$\n「Thank you, $$シンジ$$.\n　I believe in you too, you know」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_ab97c2b2418ea732": {
+      "text": "$$シンジ$$\n「Believe in me, huh...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_2ddff5064af78db4": {
+      "text": "???\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_050d0532c4b24bfe": {
+      "text": "$$シンジ$$\n「That might've been a first...\n　encouraging someone else...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_d583fcea31bdad2e": {
+      "text": "$$シンジ$$\n「Maybe I've changed a little...\n　riding the EVA, meeting so many people...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_475f7653621a91b5": {
+      "text": "???\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_f228ae702350849b": {
+      "text": "$$シンジ$$\n「But... honestly, I'm still scared...\n　When everyone says they believe in me,\n　I feel happy and afraid, both at once...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_d69dc027cba3003f": {
+      "text": "$$シンジ$$\n「When I think it might not go well...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_3c3735172a480b72": {
+      "text": "???\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_1f418b5594cea300": {
+      "text": "$$ルルーシュ$$\n「...But still, they'd say they believe in you」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_f87fb889124bfaef": {
+      "text": "$$シンジ$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_79c90de32a79212d": {
+      "text": "$$ルルーシュ$$\n「It's been a while, $$碇シンジ$$.\n　Not since I asked you for directions」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_33f7fd55913419e8": {
+      "text": "$$シンジ$$\n「...《$$皇帝ルルーシュ$$》...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_473d9a88b4ca96e7": {
+      "text": "$$ルルーシュ$$\n「So you know who I am now」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_4de6ac85c63bac12": {
+      "text": "$$シンジ$$\n「I didn't notice it when we first met,\n　but afterward I read an article\n　about you on a news site」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_4c92652c9b1adf6f": {
+      "text": "$$シンジ$$\n「I heard the Black Knights' $$ゼロ$$ killed you,\n　but you were alive after all」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_ce90563a934d49fb": {
+      "text": "$$ルルーシュ$$\n「I wasn't even permitted to die」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_4fb296e63cb1fb46": {
+      "text": "$$シンジ$$\n「Why are you... here?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_6d77e72dbbcd7dfe": {
+      "text": "$$ルルーシュ$$\n「Before an important operation,\n　I'll tell you just one thing」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_9dc59affd40f32fc": {
+      "text": "$$ルルーシュ$$\n「$$碇シンジ$$... live for yourself.\n　Not for your father, not for anyone」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_0cea115be526a319": {
+      "text": "$$シンジ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_d36072babd12aeb4": {
+      "text": "$$ルルーシュ$$\n「That's all I wanted to say」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_09ee921a85025fd3": {
+      "text": "$$シンジ$$\n「Please, wait...!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_fae689f2a1057b61": {
+      "text": "$$ルルーシュ$$\n「I have my own preparations to make」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_91c6d0bb53854ecc": {
+      "text": "$$ゼロ$$\n「$$ルルーシュ$$ vi Britannia is gone.\n　What remains is the man who makes\n　miracles happen... I am $$ゼロ$$」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_42a3149105314ab8": {
+      "text": "$$シンジ$$\n「$$ゼロ$$...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_62ecd978c667bd29": {
+      "text": "$$ゼロ$$\n「Don't worry.\n　$c will hold the front line.\n　You just focus on the shot」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_d441e6cc908ac01b": {
+      "text": "$$シンジ$$\n「The masked man, $$ゼロ$$...\n　Just who is he, really...?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_b2aab8873350ea1f": {
+      "text": "$$レイ#333$$\n「...Was someone here?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_2c7af4c55d8ac938": {
+      "text": "$$シンジ$$\n「N-No...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_653b741d07545dff": {
+      "text": "$$レイ#333$$\n「I see...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_d584d4b5af55b1cf": {
+      "text": "$$シンジ$$\n「Unit-00's ready to go too, huh...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_db0ee69ece206fcd": {
+      "text": "$$レイ#333$$\n「Yeah」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_f97e6925c9e37332": {
+      "text": "$$シンジ$$\n「...Ayanami... why do you pilot the EVA?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_422861e0b8d77d0c": {
+      "text": "$$レイ#333$$\n「Because of the bond」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_ef16bcaa2b0e0c45": {
+      "text": "$$シンジ$$\n「A bond?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_2b93cca10f1c36a8": {
+      "text": "$$レイ#333$$\n「Yes... a bond」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_7980fd37141d88d0": {
+      "text": "$$シンジ$$\n「With my father...?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_ac21212c36d2b9ad": {
+      "text": "$$レイ#333$$\n「With everyone」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_a26e2108358af7a4": {
+      "text": "$$シンジ$$\n「You're strong, Ayanami」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_a8118b2e37aa1382": {
+      "text": "$$レイ#333$$\n「I don't have anything else, after all」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_017a56991b7b8ca4": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_ad3e1db3419665fb": {
+      "text": "$$レイ#333$$\n「It's time...\n　Let's go」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_0149e3a5f2e5ef78": {
+      "text": "$$シンジ$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_3ad10e705167a3fa": {
+      "text": "$$レイ#333$$\n「Goodbye」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_bdc546b199c80996": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_22c8caf8c08c5119": {
+      "text": "$$ゲンドウ$$'s Room",
+      "status": "imported"
+    },
+    "stage0031b_03:r_9c13714b3efbc7a8": {
+      "text": "$$ゲンドウ$$'s Room",
+      "status": "imported"
+    },
+    "stage0031b_03:r_96f156e19b53fc09": {
+      "text": "$$ゲンドウ$$'s Room",
+      "status": "imported"
+    },
+    "stage0031b_03:r_feb0390bba7fe1fb": {
+      "text": "　\n　　\n　　　　　　　　～NERV Headquarters, Commander's Office～",
+      "status": "imported"
+    },
+    "stage0031b_03:r_8a78bcec22029401": {
+      "text": "$$ゲンドウ$$\n「...Guess it's about time」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_f42017dfce31dea9": {
+      "text": "$$ゼロ$$\n「Is it wise, the commander\n　absent from the command center?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_ef7426919f628d8a": {
+      "text": "$$ゲンドウ$$\n「The operation is already underway.\n　My judgment isn't needed there」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_9e994a4b926d9906": {
+      "text": "$$ゲンドウ$$\n「Or are you anxious about the very\n　operation you proposed yourself?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_ffae76d2a77abf5a": {
+      "text": "$$ゼロ$$\n「Not a manner of speaking I care for」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_3ac462d37e5893ff": {
+      "text": "$$ゲンドウ$$\n「Even so, I am grateful for your help」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_fd6bdf7910d7d925": {
+      "text": "$$ゼロ$$\n「Ready to talk about your plan now?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_d38be46e6cd7a5e5": {
+      "text": "$$ゲンドウ$$\n「How much do you already know?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_3fe2078328753c16": {
+      "text": "$$ゼロ$$\n「Nor do I care for answering a question\n　with a question」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_c66844158d1ce600": {
+      "text": "$$ゲンドウ$$\n「I never expected you to like me」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_d037ecbc1e348dc9": {
+      "text": "$$ゼロ$$\n「Then hear this.\n　I reject what you're trying to do」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_bcd53d14c4785426": {
+      "text": "$$ゼロ$$\n「And your way of being a father, too」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_9ca55ea7feca954a": {
+      "text": "$$冬月$$\n「You're quite disliked, it seems」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_554ae12c4c170253": {
+      "text": "$$ゲンドウ$$\n「It doesn't concern me」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_fa59c6df081e6ae4": {
+      "text": "$$冬月$$\n「It seems he doesn't grasp the whole\n　of the Human Instrumentality Project」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_ca3edf3b8b52aedf": {
+      "text": "$$ゲンドウ$$\n「Even so, he grasps its outline\n　because he inherits the plan of this world」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_aa5d235c78ebe19f": {
+      "text": "$$冬月$$\n「In every world, mankind must have\n　acted before the sun could set...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_0b3b19cddb871f90": {
+      "text": "$$ゲンドウ$$\n「The same is true for us」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_304e98dac43c9333": {
+      "text": "$$冬月$$\n「But nothing can be done for that\n　without defeating $$第６の使徒$$」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_b740d817a14afd3a": {
+      "text": "$$ゲンドウ$$\n「$c...\n　They will fill what the plan lacks」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_40e4c010d1b35b4c": {
+      "text": "Moonlit Night",
+      "status": "imported"
+    },
+    "stage0031b_03:r_c33abf00683a32bc": {
+      "text": "Moonlit Night",
+      "status": "imported"
+    },
+    "stage0031b_03:r_3036adce91d1f4a8": {
+      "text": "Moonlit Night",
+      "status": "imported"
+    },
+    "stage0031b_03:r_019293cb83599509": {
+      "text": "$$シンジ$$\n「Ayanami!\n　Are you all right, Ayanami?!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_9b949b9281aaeef1": {
+      "text": "$$レイ#333$$\n「Ugh...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_b39a1dd705fe6cbf": {
+      "text": "$$シンジ$$\n「Don't say you've got nothing else...\n　don't say things like that...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_c9016e3ab05470b0": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_a684e6cea428e518": {
+      "text": "$$シンジ$$\n「Don't say something as sad as goodbye\n　when we're about to part...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_cf907a4d5de8b5c9": {
+      "text": "$$レイ#333$$\n「What... are you crying...?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_a5774604a0f00702": {
+      "text": "$$シンジ$$\n「Ngh...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_b4fa30f33e84207f": {
+      "text": "$$レイ#333$$\n「...I'm sorry.\n　I don't know what kind of face\n　to make at a time like this...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_9133b7e0b34de48f": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_4ae9c4bd77494c4a": {
+      "text": "$$シンジ$$\n「...I think you should smile...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_7313331f4077d255": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_a84ab0c3c1ba44d4": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_414e6e90094d1413": {
+      "text": "$$赤木$$\n「Hey!!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_83a9e41e15444c69": {
+      "text": "$$カレン$$\n「$$シンジ$$! $$レイ#333$$!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_09227dec2bd6f4d8": {
+      "text": "$$甲児$$\n「Way to go, you two!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_7b3a37f5039eb1f6": {
+      "text": "$n\n「I believed in you, $$シンジ$$...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_cb6d9ee71c24b042": {
+      "text": "$$アルト$$\n「You're gasping for air and still\n　cracking puns?!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_ddd97a6ef823929a": {
+      "text": "$$シンジ$$\n「Ayanami...\n　It's everyone from $c.」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_df349052cd9cdd0c": {
+      "text": "$$レイ#333$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_a7ce9f908380694c": {
+      "text": "$$シンジ$$\n（Maybe, even if I keep riding the EVA,\n　I might never find anything good...）",
+      "status": "imported"
+    },
+    "stage0031b_03:r_de3cc1f733dcb073": {
+      "text": "$$シンジ$$\n（But this is the world I'm going to live in...）",
+      "status": "imported"
+    },
+    "stage0031b_03:r_0835ec3fff318aff": {
+      "text": "Gradient",
+      "status": "imported"
+    },
+    "stage0031b_03:r_c32efc7394910997": {
+      "text": "Gradient",
+      "status": "imported"
+    },
+    "stage0031b_03:r_b01db8213417811e": {
+      "text": "Gradient",
+      "status": "imported"
+    },
+    "stage0031b_03:r_bc0273c6ae91c929": {
+      "text": "$$カヲル$$\n「...I know.\n　That boy has awakened,\n　entered the convergence stage, hasn't he?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_8deea7c70d7a76e7": {
+      "text": "$$ＳＥＥＬＥ$$\n「Indeed.\n　The Dead Sea Scrolls Apocrypha has moved\n　to the Book of Law. The covenant nears...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_660c72e627d873c7": {
+      "text": "???\n「Allow me to lend a hand with that as well.」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_5d8b67b5bd8ce190": {
+      "text": "$$ＳＥＥＬＥ$$\n「Who are you?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_7cf3c91395139f5c": {
+      "text": "$$カヲル$$\n「There's no need to be wary.\n　He's the same as us.」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_6ccd85652ef4ccf1": {
+      "text": "$$ミカゲ$$\n「Heh heh...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_fbe7bf7d854012a7": {
+      "text": "$$カヲル$$\n「I understand how you feel.\n　That feeling of 'this time for sure'...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_1f438885dbc1359e": {
+      "text": "$$カヲル$$\n（...but the Third Child again, huh.\n　He never changes...）",
+      "status": "imported"
+    },
+    "stage0031b_03:r_2e59226caa35f6e5": {
+      "text": "$$カヲル$$\n（I'm looking forward to meeting you,\n　$$碇シンジ$$...）",
+      "status": "imported"
+    },
+    "stage0031b_03:r_5d7a3adb077ad934": {
+      "text": "Favorite Backdrop",
+      "status": "imported"
+    },
+    "stage0031b_03:r_78d3b2a75e38d6f7": {
+      "text": "Favorite Backdrop",
+      "status": "imported"
+    },
+    "stage0031b_03:r_8d461de418389bf8": {
+      "text": "Favorite Backdrop",
+      "status": "imported"
+    },
+    "stage0031b_03:r_5cb2acefa1e7c7fb": {
+      "text": "$$ＡＧ$$\n「Well done, $$アマタ$$!\n　Wiping out the Abductors and the\n　Mechanical Beasts in that close a call!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_59ce7fd9524ec8be": {
+      "text": "$$アマタ$$\n「$$シンジ$$ was working hard too.\n　That's what pushed me on.」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_33f67c683bda9203": {
+      "text": "$$ＡＧ$$\n「My my, they say chasing two rabbits\n　catches you neither, but I could learn\n　from that kind of greed.」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_476fb20ab9d18957": {
+      "text": "$$ＡＧ$$\n「With that attitude, $$アルト$$ could\n　probably manage things better too...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_6be0d6139fac197c": {
+      "text": "$$アマタ$$\n「You mean $$アルト$$'s two-timing someone?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_df899b8031b4ca06": {
+      "text": "$$ＡＧ$$\n「Since two charming women fancy him,\n　a real man ought to just accept it\n　wholeheartedly, wouldn't you say?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_c5d048c7db7cac75": {
+      "text": "$$ＡＧ$$\n「In fact, not making his stance clear\n　means he's out to sink his fangs\n　into both of them...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_308e8ac66b1141ef": {
+      "text": "$$アマタ$$\n「I don't think that's true, but...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_64f25294d71a5d55": {
+      "text": "$$ＡＧ$$\n「Oh, defending $$アルト$$ now?\n　Then perhaps you're the same sort,\n　$$アマタ$$?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_b6ca80db4741a62c": {
+      "text": "$$アマタ$$\n「T-that's not true!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_432a29155221625f": {
+      "text": "$$ＡＧ$$\n「Well then, make your choice firmly\n　when the time comes. Women want\n　a man who's decisive.」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_9f7c18d1ea1b55c9": {
+      "text": "$$アマタ$$\n「I'll remember those words.」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_56688ad8e41b7b42": {
+      "text": "$$ＡＧ$$\n「Thanks to your great efforts this time,\n　we earned about 150 Z-Chips. I'll add\n　them to the squad's stock.」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_34a510533cb8a9f5": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0031b_03:r_1afedc9fa466f321": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0031b_03:r_9547b3241808695f": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0031b_03:r_32b2a8ce24deeb9f": {
+      "text": "　\n　\n　　　　　　～ D-Trader ～",
+      "status": "imported"
+    },
+    "stage0031b_03:r_c7ef92060bb8199d": {
+      "text": "$$ＡＧ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_1be6d12f616f04e4": {
+      "text": "$$ユノハ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_80f948aeaed93de8": {
+      "text": "$$ＡＧ$$\n「Hello? Hello?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_0d24e9726dcc79f9": {
+      "text": "$$ユノハ$$\n「Y-yes...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_da648116badd491a": {
+      "text": "$$ＡＧ$$\n「Good, so you're human after all.\n　Even I can't speak Frog, so I\n　wondered what I'd do.」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_4e91ccecf1dd0f66": {
+      "text": "$$ユノハ$$\n「Tama is a cat...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_668b7114a3ac1d77": {
+      "text": "$$ＡＧ$$\n「My apologies again.\n　Cats in your world are defined\n　differently than in others, aren't they.」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_ef339c6f71e7560f": {
+      "text": "$$ＡＧ$$\n「Let me properly introduce myself,\n　$$ユノハ・スルール$$. I welcome you.」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_ce68dd10a19e01ea": {
+      "text": "$$ユノハ$$\n「Thank you.」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_13ce8d4e4858b193": {
+      "text": "$$ＡＧ$$\n「Ah, yes, a smiling face suits\n　you better after all. You're cute,\n　$$ユノハ$$.」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_075101b23517fbaa": {
+      "text": "$$ユノハ$$\n「T-that's embarrassing...」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_13c2ae299018c9ee": {
+      "text": "$$ＡＧ$$\n「That won't do.\n　At this rate, dating is a dream\n　within a dream.」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_6f4f8dd80820f5e7": {
+      "text": "$$ユノハ$$\n「D-dating...!」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_afa513b4815df4c9": {
+      "text": "$$ＡＧ$$\n「Oh dear, if mere words from someone\n　like me do this, what would happen\n　with a real, flesh and blood man...?」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_6cf1e5ed68d98bd4": {
+      "text": "$$ＡＧ$$\n「That said, since you're here,\n　let's have you help mind the shop.\n　Go on, then.」",
+      "status": "imported"
+    },
+    "stage0031b_03:r_e62eb587b8d34cb9": {
+      "text": "$$ユノハ$$\n「T-today too, I'll give it my all...\n　business, business!」",
+      "status": "imported"
+    }
+  }
+}

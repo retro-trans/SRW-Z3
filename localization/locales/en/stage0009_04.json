@@ -1,0 +1,370 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0009_04:r_caaab7bad760e16d": {
+      "text": "$$レイアム$$\n「All units report ready for launch.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_99b162aa6aa286a2": {
+      "text": "$$オットー$$\n「Mm, well done.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_58fb02434a1c40b2": {
+      "text": "$$キャシー$$\n「It seems $$ウルズ$$ 7 hasn't rejoined yet...」",
+      "status": "imported"
+    },
+    "stage0009_04:r_1c0f94acd5a8a143": {
+      "text": "$$オズマ$$\n「Master Sergeant $$マオ$$ asked, and I approved her leave.\n　For her, this trip might be\n　her last memory of school life.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_1263541f4071624e": {
+      "text": "$$クルツ$$\n「Smooth, boss and the major both.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_3bc300bbdc277d82": {
+      "text": "$$マオ$$\n「Thinking this month in $$第２新東京市$$\n　is ending does make me a bit sad.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_38762a09460d8b6b": {
+      "text": "$$マオ$$\n「Beer under the cherry blossoms was something else.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_7ab28e70b4d4f641": {
+      "text": "$$クルツ$$\n「Japanese girls are cute, too.\n　Guess it's goodbye to them as well...」",
+      "status": "imported"
+    },
+    "stage0009_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$オズマ$$\n「That's a story for after we\n　beat down the guys headed our way.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_ec335e69f984b8b3": {
+      "text": "$$ボス$$\n「We wanted to get leave too,\n　and keep on with our school trip...」",
+      "status": "imported"
+    },
+    "stage0009_04:r_0abcaf0c31978670": {
+      "text": "$$ワッ太$$\n「Don't complain, $$ボス$$.\n　Me and $$正太郎$$ got dragged out\n　here to do this too, you know.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_1d6bc48b7f246730": {
+      "text": "$$正太郎$$\n「But is this okay?\n　If $$甲児$$ and the others slip away\n　mid-trip, won't it look suspicious?」",
+      "status": "imported"
+    },
+    "stage0009_04:r_1af20fccc3c53cfc": {
+      "text": "$$甲児$$\n「It's set that they all missed the bus together,\n　and Miss $$スズネ$$ stays as their chaperone.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_f951916061232dcd": {
+      "text": "$$アルト$$\n「After that, we clean up the terrorists\n　and rejoin the class, no problem.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_4d863c3fb88a4c39": {
+      "text": "$$カミーユ$$\n「So having Miss $$スズネ$$ step in\n　is how we cover it up.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_44f4742c3dcce39a": {
+      "text": "$$スズネ$$\n「That's right.\n　That's my most important job here.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_9e701cdeb3842c21": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0009_04:r_6fd81f4abebe60c5": {
+      "text": "$$スズネ$$\n「And there's one more top priority...\n　$n... I'm asking as your partner.\n　Won't you tell me why you sortied alone?」",
+      "status": "imported"
+    },
+    "stage0009_04:r_da2132b5038ec737": {
+      "text": "$n\n「...Because if I keep relying on someone,\n　I'll never become capable on my own.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_495d61d3ec7e16f2": {
+      "text": "$$スズネ$$\n「That's a rather sudden decision.\n　Does that tie to what you told $$宗介$$ on the beach?」",
+      "status": "imported"
+    },
+    "stage0009_04:r_5cd353758cfe474d": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0009_04:r_a653c8dec4c0f06f": {
+      "text": "$$スズネ$$\n「Not even to a partner in life and death?」",
+      "status": "imported"
+    },
+    "stage0009_04:r_86d493e37a9799a7": {
+      "text": "$n\n「...Sorry.\n　But someday... I'll have you step down\n　from the $$ジェニオン$$, Miss $$スズネ$$.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_09d0fcc600cdd3df": {
+      "text": "$$スズネ$$\n「Eh...」",
+      "status": "imported"
+    },
+    "stage0009_04:r_182faded068c15ed": {
+      "text": "$$ルカ$$\n「Radar contact...!\n　Enemy forces incoming!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_9c206d19bfda4bd5": {
+      "text": "$$レイアム$$\n「The enemy has split into three main groups...!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_6e558bc69acf5bf3": {
+      "text": "$$オットー$$\n「Launch all our units as well!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_d60d0818e965232f": {
+      "text": "$$リディ$$\n「Mostly mercenaries from the\n　《$$アストラギウス$$》 galaxy, huh...!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_5b23687574286204": {
+      "text": "$$カツ$$\n「Some people from that world apparently refused\n　to be absorbed into the Earth Federation,\n　and built their own society instead.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_6fd86c96891ea942": {
+      "text": "$$リディ$$\n「Londo Bell can't afford to lose\n　to a bunch of outlaw wannabes like that.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_43e4e548c0b28376": {
+      "text": "$$エマ$$\n「But we can't let our guard down.\n　With leadership crushed, they'll fight desperately.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_d80a9688790ed583": {
+      "text": "$$オットー$$\n「All units, intercept the terrorists!\n　Let's bring this operation to a close!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_708bea61e3c43ada": {
+      "text": "$$甲児$$\n「Wait for us, $$宗介$$.\n　We'll wrap this up fast and catch up.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_7b6f159eeaf4de0f": {
+      "text": "$$リディ$$\n「Pretty passive of you.\n　Did our strength spook you?」",
+      "status": "imported"
+    },
+    "stage0009_04:r_0827963cfd706e8d": {
+      "text": "$$カミーユ$$\n「Looks like the enemy means to lure us in and strike.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$クラン$$\n「Then we'll simply have to show them\n　that tactic is useless...!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_3f4035fd9db81258": {
+      "text": "$$カナリア$$\n「Wait...!\n　Don't move carelessly!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_567b361a454c4b73": {
+      "text": "$$オズマ$$\n「An ambush!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_d22851aaafbbf8fc": {
+      "text": "$$オットー$$\n「To come at our rear like this...!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_352534f64413d954": {
+      "text": "$$レイアム$$\n「Captain!\n　Something else is coming!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_79f2664edb1af798": {
+      "text": "$$甲児$$\n「That's...!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$葵$$\n「All right, let's get to work!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_1c5aa0d15ae24846": {
+      "text": "$n\n「One hit?!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_53bb64ee17750ee2": {
+      "text": "$$アルト$$\n「Dancouga Nova!\n　So it's $$葵$$ and the others!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_7a7add80fde475ba": {
+      "text": "$$葵$$\n「Long time no see, everyone.\n　...Though this isn't the time for that.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_b2befefdbed1393d": {
+      "text": "$$くらら$$\n「This is callsign Danger 1.\n　Delivering a message from Captain Testarossa\n　of $$ミスリル$$.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_2103f6df2ea2e447": {
+      "text": "$$甲児$$\n「$$ミスリル$$...!?\n　So Dancouga Nova's working with $$ミスリル$$ too...!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_a12e3e130d896ff7": {
+      "text": "$$葵$$\n「That's right.\n　We've been acting on orders\n　from the $$トゥアハー・デ・ダナン$$.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_b6f7b219eb4bd64b": {
+      "text": "$$スズネ$$\n「So that's Dancouga Nova...」",
+      "status": "imported"
+    },
+    "stage0009_04:r_91bf33c27ad39f0a": {
+      "text": "$n\n「The mystery robot that stepped into conflicts\n　worldwide, always fighting for the losing side...」",
+      "status": "imported"
+    },
+    "stage0009_04:r_ee220318b96ab538": {
+      "text": "$$スズネ$$\n「So they were fighting in $$ＺＥＸＩＳ$$ too.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_ce1b55e526b6277a": {
+      "text": "$$くらら$$\n「The forces deployed in this area right now\n　are a decoy by the enemy...」",
+      "status": "imported"
+    },
+    "stage0009_04:r_c304df6888eb78f7": {
+      "text": "$$くらら$$\n「While our surveillance was locked onto this area,\n　the jet carrying Jindai High students...\n　$$千鳥かなめ$$ included, was hijacked.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_c26958634526e597": {
+      "text": "$$スズネ$$\n「What did you say!?」",
+      "status": "imported"
+    },
+    "stage0009_04:r_cdb750c9d380881a": {
+      "text": "$$キャシー$$\n「Captain...!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_95fda74613c97b39": {
+      "text": "$$ジェフリー$$\n「So we were set up, is that it.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_1956994937f8171e": {
+      "text": "$$オズマ$$\n「Skull Leader to all units!\n　Let's wrap this up here as fast as we can!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_48f49f6728c15612": {
+      "text": "$$アルト$$\n「$$葵$$!\n　We're getting Team D to help too!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$葵$$\n「Of course...!\n　That's exactly why we're here.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_f02c37d91387d0ad": {
+      "text": "$$ジョニー$$\n「Then let's team up with them\n　and take down the terrorists.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$朔哉$$\n「Handy, there's one moving alone, just right for us.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_9796b3efa401a303": {
+      "text": "$n\n「...!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_643b6eebfc0186b3": {
+      "text": "$$エイーダ$$\n「Pardon the intrusion, blue robot.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_291280e5f7eb9d70": {
+      "text": "$$葵$$\n「We're Team D,\n　and this robot is $$ダンクーガノヴァマックスゴッド$$.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_32eb462c1b4999cb": {
+      "text": "$$朔哉$$\n「We were part of $$ＺＥＸＩＳ$$ too, with $$甲児$$ and the others.\n　So, good to work with you.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_1f4337d6d393fc37": {
+      "text": "$n\n「But...」",
+      "status": "imported"
+    },
+    "stage0009_04:r_4740e748fae085ee": {
+      "text": "$$スズネ$$\n「$n...!\n　I won't allow personal matters right now!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_b76524cd840e1d37": {
+      "text": "$$スズネ$$\n「Right now, make it your priority\n　to go save everyone as fast as you can!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_730ffe18400abfc2": {
+      "text": "$n\n「...Yes!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_ffe0fca26da5cd38": {
+      "text": "$$葵$$\n「Hmm... you keep such a cool face,\n　but you've got quite a hot side, don't you.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_bfb27f9eb2f7073e": {
+      "text": "$$ジョニー$$\n「Fitting, for our tag partner.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_859dfa27bcaafe30": {
+      "text": "$$葵$$\n「All right, let's show $$アルト$$ and the others\n　how hot we can get, for old times' sake.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_71ebf05996a4b0fd": {
+      "text": "$$朔哉$$\n「I'll leave it to you today, $$葵$$!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_6214c11b1bca811e": {
+      "text": "$$葵$$\n「OK!\n　Let's do this!!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_8eaf6f3098ffed12": {
+      "text": "$$モニカ$$\n「Confirmed: the enemy force is wiped out.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_cf507214fe955d75": {
+      "text": "$$ジェフリー$$\n「Hurry up and recover all units.\n　We're chasing the hijacked plane right away.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_2113dcbabdfc758a": {
+      "text": "$$甲児$$\n「Wait for us, $$宗介$$, everyone...!\n　We're coming right away!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0009_04:r_6a74519e1fc29c4b": {
+      "text": "$$スズネ$$\n「$n...?」",
+      "status": "imported"
+    },
+    "stage0009_04:r_5b992878fee054b5": {
+      "text": "$n\n「Let's go, Miss $$スズネ$$.\n　To save everyone.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_95a3dd16c2c4cc3e": {
+      "text": "$n\n（I... I have to grow stronger...\n　And when that day comes, I...）",
+      "status": "imported"
+    },
+    "stage0009_04:r_4a14ec0c511c7f0d": {
+      "text": "$n\n（I'll give up everything...!）",
+      "status": "imported"
+    },
+    "stage0009_04:r_20cf167c0ec0d4d5": {
+      "text": "$$葵$$\n「Now then... the message is delivered,\n　but I don't plan on stopping at messenger.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_b591d812c96c6c99": {
+      "text": "$$くらら$$\n「This time, I agree with $$葵$$.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_e350fa099c1ab072": {
+      "text": "$$朔哉$$\n「Guess in the end, this life over here\n　just suits us better.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ジョニー$$\n「Once you've tasted that kind of thrill,\n　you just can't forget it.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_c33bd700553abf91": {
+      "text": "$$エイーダ$$\n「And if $$ジョニー$$'s going to be there too,\n　then a hiatus from idol work is unavoidable!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_feee5c91826230e1": {
+      "text": "$$葵$$\n「In short, we're all birds of a feather...\n　so we don't need any extra words.」",
+      "status": "imported"
+    },
+    "stage0009_04:r_bccc48e1964ad22d": {
+      "text": "$$くらら$$\n「Let's go, $$葵$$!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_f8736aaaa216c766": {
+      "text": "$$葵$$\n「Get ready, terrorists!\n　We're taking you down quick!」",
+      "status": "imported"
+    },
+    "stage0009_04:r_d1ec2522c87c361d": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

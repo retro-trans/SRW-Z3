@@ -1,0 +1,886 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_006:r_479b340ccc6c572b": {
+      "text": "Too slow!",
+      "status": "imported"
+    },
+    "voice_006:r_ca4acbac57a2a35e": {
+      "text": "You amateur!",
+      "status": "imported"
+    },
+    "voice_006:r_77949221bf58f862": {
+      "text": "A direct hit! You got me!",
+      "status": "imported"
+    },
+    "voice_006:r_70b9c4b9f1f37eff": {
+      "text": "You're an eyesore!",
+      "status": "imported"
+    },
+    "voice_006:r_9fcb3754cb1773c7": {
+      "text": "We'll do this the Firebug way!",
+      "status": "imported"
+    },
+    "voice_006:r_3559d2fad32c2435": {
+      "text": "Remember Firebug's name in terror!",
+      "status": "imported"
+    },
+    "voice_006:r_f7570547e9f80a64": {
+      "text": "Sorry, but it's just a job!",
+      "status": "imported"
+    },
+    "voice_006:r_cbab0f4720e1fcf1": {
+      "text": "You're like ants fleeing in panic!",
+      "status": "imported"
+    },
+    "voice_006:r_0bbe0b4f5364e732": {
+      "text": "You fell right into our strategy!",
+      "status": "imported"
+    },
+    "voice_006:r_5dda5198137cb02a": {
+      "text": "Let's finish this quickly!",
+      "status": "imported"
+    },
+    "voice_006:r_83ec59afbecdec14": {
+      "text": "Sorry, but you're already beaten!",
+      "status": "imported"
+    },
+    "voice_006:r_e20bfd42ad95a3c9": {
+      "text": "This is the end for you!",
+      "status": "imported"
+    },
+    "voice_006:r_0f58a8822381e57f": {
+      "text": "We're professionals too!",
+      "status": "imported"
+    },
+    "voice_006:r_6dbcc507fb61b51d": {
+      "text": "I'll show you why mercs are feared!",
+      "status": "imported"
+    },
+    "voice_006:r_b42ab697149a7c8a": {
+      "text": "The Burglar's\\nno mere Axio!",
+      "status": "imported"
+    },
+    "voice_006:r_4de4fcf3b440baf4": {
+      "text": "This Burglar is an extension of us!",
+      "status": "imported"
+    },
+    "voice_006:r_0121a166c715cdff": {
+      "text": "Target locked! Shoot!",
+      "status": "imported"
+    },
+    "voice_006:r_30fad37a42bd3ad3": {
+      "text": "Fool! You're in my firing range!",
+      "status": "imported"
+    },
+    "voice_006:r_80a0b2a84e05d81a": {
+      "text": "Your life's in my crosshairs!",
+      "status": "imported"
+    },
+    "voice_006:r_4a9ac1dff86506d9": {
+      "text": "I'll hit you in the power core!",
+      "status": "imported"
+    },
+    "voice_006:r_bc8538e6af3d2577": {
+      "text": "I'll finish you up close!",
+      "status": "imported"
+    },
+    "voice_006:r_924516c8de2b5342": {
+      "text": "I'll punch through your cockpit!",
+      "status": "imported"
+    },
+    "voice_006:r_da1174533722333f": {
+      "text": "Close combat's my specialty!",
+      "status": "imported"
+    },
+    "voice_006:r_fdeb8162976e72c1": {
+      "text": "Skill differences show up close!",
+      "status": "imported"
+    },
+    "voice_006:r_0fadb5c26df92b42": {
+      "text": "I'm not finished attacking yet!",
+      "status": "imported"
+    },
+    "voice_006:r_6b15af9a0057cdc8": {
+      "text": "Let's see what you've got, Gundam!",
+      "status": "imported"
+    },
+    "voice_006:r_15b4a90140e8a33a": {
+      "text": "I'll end the legend of the Gundam!",
+      "status": "imported"
+    },
+    "voice_006:r_af884a6b11dff121": {
+      "text": "Is every last one of you a Gundam?!",
+      "status": "imported"
+    },
+    "voice_006:r_ac6fe7838e95647b": {
+      "text": "Let's see if you deserve 'Super'!",
+      "status": "imported"
+    },
+    "voice_006:r_77ca87eacd17ad52": {
+      "text": "Raw power alone won't win this!",
+      "status": "imported"
+    },
+    "voice_006:r_bf3244994760e535": {
+      "text": "Flashy one-offs make great targets!",
+      "status": "imported"
+    },
+    "voice_006:r_aabfb21c9d069ce7": {
+      "text": "We're both mercs. No hard feelings!",
+      "status": "imported"
+    },
+    "voice_006:r_a2df00f91a9b0a9e": {
+      "text": "We fight for pay,\\njust like you!",
+      "status": "imported"
+    },
+    "voice_006:r_8927e6fb681aa809": {
+      "text": "I'll crush your prized armor!",
+      "status": "imported"
+    },
+    "voice_006:r_a571eec59b258d11": {
+      "text": "Rely on that armor and you'll pay!",
+      "status": "imported"
+    },
+    "voice_006:r_faae935cca0edc72": {
+      "text": "If it transforms, we're in trouble!",
+      "status": "imported"
+    },
+    "voice_006:r_6ff1323b355593e0": {
+      "text": "I'll snap that prized drill!",
+      "status": "imported"
+    },
+    "voice_006:r_b7b5625d7cd4282f": {
+      "text": "This isn't a tunnel worksite!",
+      "status": "imported"
+    },
+    "voice_006:r_36133ad73a73ef98": {
+      "text": "You subdue beasts with brute force!",
+      "status": "imported"
+    },
+    "voice_006:r_920740a0219c5085": {
+      "text": "Weaklings always travel in packs!",
+      "status": "imported"
+    },
+    "voice_006:r_a8451712c57c1a72": {
+      "text": "You oversized eyesore!",
+      "status": "imported"
+    },
+    "voice_006:r_3633df5b7b8f47fa": {
+      "text": "Quit darting around like that!",
+      "status": "imported"
+    },
+    "voice_006:r_52dfc56b14b93551": {
+      "text": "You're coming at me at that size?!",
+      "status": "imported"
+    },
+    "voice_006:r_1b9b2aab5cb104da": {
+      "text": "You can sing in the afterlife!",
+      "status": "imported"
+    },
+    "voice_006:r_342044c706a2340f": {
+      "text": "Before they force a speed fight...!",
+      "status": "imported"
+    },
+    "voice_006:r_cf41e8828a90cbdb": {
+      "text": "Vaunted speed won't work on me!",
+      "status": "imported"
+    },
+    "voice_006:r_719e897304ec42d4": {
+      "text": "Even the fastest have openings...!",
+      "status": "imported"
+    },
+    "voice_006:r_d5e0a2317c40d322": {
+      "text": "Take down the leader, and it's over!",
+      "status": "imported"
+    },
+    "voice_006:r_ec2ea17765052401": {
+      "text": "Looks like we're facing an ace!",
+      "status": "imported"
+    },
+    "voice_006:r_f2d4255f1c2f7542": {
+      "text": "Anti-ship combat's my specialty!",
+      "status": "imported"
+    },
+    "voice_006:r_5d08ad19e2da125b": {
+      "text": "Time to bag some big game!",
+      "status": "imported"
+    },
+    "voice_006:r_a7246b52782a877e": {
+      "text": "I'm used to fighting Mobile Suits!",
+      "status": "imported"
+    },
+    "voice_006:r_3c5b0c2ac812d5de": {
+      "text": "I'll give you a hand!",
+      "status": "imported"
+    },
+    "voice_006:r_5b9e8897190892eb": {
+      "text": "What's wrong?! Sloppy finish!",
+      "status": "imported"
+    },
+    "voice_006:r_7bea3023abbf8a94": {
+      "text": "Sorry, but that kill mark is mine!",
+      "status": "imported"
+    },
+    "voice_006:r_dd01a4c0d1b36a8d": {
+      "text": "I'll handle the rest!",
+      "status": "imported"
+    },
+    "voice_006:r_20920ad2eb3542db": {
+      "text": "Stay back! You're in the way!",
+      "status": "imported"
+    },
+    "voice_006:r_0ab7914877fd48ed": {
+      "text": "You'll owe me big for this!",
+      "status": "imported"
+    },
+    "voice_006:r_cb846feec748c2e3": {
+      "text": "Damn it! You used me as a shield!",
+      "status": "imported"
+    },
+    "voice_006:r_c958860b0676b1f5": {
+      "text": "You used me as a shield...?!",
+      "status": "imported"
+    },
+    "voice_006:r_5e2669b82ef75ce3": {
+      "text": "Damn! I can't counterattack?!",
+      "status": "imported"
+    },
+    "voice_006:r_7847e0ed7dc9282d": {
+      "text": "Not bad! You've pinned me down!",
+      "status": "imported"
+    },
+    "voice_006:r_e42b52c7a987b906": {
+      "text": "Tch! I won't be your target!",
+      "status": "imported"
+    },
+    "voice_006:r_6825fd1ff907bd22": {
+      "text": "What?! I can only watch them go?!",
+      "status": "imported"
+    },
+    "voice_006:r_607f666f1563bc0d": {
+      "text": "Piece of junk! No decent weapons!",
+      "status": "imported"
+    },
+    "voice_006:r_97b7431eeb81e6b6": {
+      "text": "Damn it! Are you toying with me?!",
+      "status": "imported"
+    },
+    "voice_006:r_132f605d02975e71": {
+      "text": "From there...?!\\nDidn't expect that!",
+      "status": "imported"
+    },
+    "voice_006:r_9b9726b1872759d6": {
+      "text": "They know the basics!\\nPros too?!",
+      "status": "imported"
+    },
+    "voice_006:r_1252db29683fefe0": {
+      "text": "Pathetic...! Aim, moves, resolve!",
+      "status": "imported"
+    },
+    "voice_006:r_ad3d538f1e909184": {
+      "text": "You're not enough to face me!",
+      "status": "imported"
+    },
+    "voice_006:r_8c61c59a1c0aebbf": {
+      "text": "Are you... really serious?",
+      "status": "imported"
+    },
+    "voice_006:r_aba6a7662129d8ce": {
+      "text": "You can't see a thing!",
+      "status": "imported"
+    },
+    "voice_006:r_b84afafb8a33ec60": {
+      "text": "I didn't survive hell for nothing!",
+      "status": "imported"
+    },
+    "voice_006:r_c8c59db85bf875e6": {
+      "text": "I'm prepared for anything!",
+      "status": "imported"
+    },
+    "voice_006:r_7c796ba53bd7ea03": {
+      "text": "Don't tell me that's your best!",
+      "status": "imported"
+    },
+    "voice_006:r_fa944da4b6519006": {
+      "text": "A chance encounter, huh...!",
+      "status": "imported"
+    },
+    "voice_006:r_95d047bcc17fccc6": {
+      "text": "I don't even need to dodge that!",
+      "status": "imported"
+    },
+    "voice_006:r_640327a12a559b31": {
+      "text": "Fight back harder! Entertain me!",
+      "status": "imported"
+    },
+    "voice_006:r_bdd38c584fa313d0": {
+      "text": "At least try to slow me down!",
+      "status": "imported"
+    },
+    "voice_006:r_3fd86c1027f317c8": {
+      "text": "Not bad! Are they pros too?!",
+      "status": "imported"
+    },
+    "voice_006:r_d0372a183d2007ad": {
+      "text": "My intel's completely useless...!",
+      "status": "imported"
+    },
+    "voice_006:r_217aa5e1d545b44d": {
+      "text": "Bad!\\nThe joints are overloaded!",
+      "status": "imported"
+    },
+    "voice_006:r_381992c5d8224937": {
+      "text": "Finally, an opponent with some grit!",
+      "status": "imported"
+    },
+    "voice_006:r_f1e7ed9e5874aba5": {
+      "text": "Heh... The adrenaline's kicking in!",
+      "status": "imported"
+    },
+    "voice_006:r_fc25e66a86fc2c85": {
+      "text": "Change combat pattern from G5 to 7!",
+      "status": "imported"
+    },
+    "voice_006:r_5aeeb4917340c42d": {
+      "text": "So the Gundam isn't just for show!",
+      "status": "imported"
+    },
+    "voice_006:r_b765659981b6516d": {
+      "text": "Damn! Gundam exceeds the rumors!",
+      "status": "imported"
+    },
+    "voice_006:r_0c427458bc00eb95": {
+      "text": "Damn! You really are Super!",
+      "status": "imported"
+    },
+    "voice_006:r_774a9ab4d8fd5351": {
+      "text": "So you aren't just raw power!",
+      "status": "imported"
+    },
+    "voice_006:r_d3f01de714c015bd": {
+      "text": "I-it's in another league from ours!",
+      "status": "imported"
+    },
+    "voice_006:r_7d2617c809fead70": {
+      "text": "What the hell is that speed?!",
+      "status": "imported"
+    },
+    "voice_006:r_ceb935ccbf830724": {
+      "text": "No readout! What is that power?!",
+      "status": "imported"
+    },
+    "voice_006:r_001cbec4d9a4283f": {
+      "text": "Damn! Its size completely fooled me!",
+      "status": "imported"
+    },
+    "voice_006:r_8ad40afecd02b41e": {
+      "text": "Knew it.\\nNo ordinary Mobile Suit!",
+      "status": "imported"
+    },
+    "voice_006:r_2072eaf71a260ae7": {
+      "text": "This is bad... Death is calling me.",
+      "status": "imported"
+    },
+    "voice_006:r_6c13bbfd27a7799e": {
+      "text": "Damn! I'm losing consciousness!",
+      "status": "imported"
+    },
+    "voice_006:r_06f88dcbd3c9e738": {
+      "text": "Hell yeah!\\nAdrenaline's racing!",
+      "status": "imported"
+    },
+    "voice_006:r_b28faf9f71bc3598": {
+      "text": "I gave this life to the Princess!",
+      "status": "imported"
+    },
+    "voice_006:r_8a29278549f8e07a": {
+      "text": "Tch!\\nIs my time finally up?!",
+      "status": "imported"
+    },
+    "voice_006:r_7e6c573c26177f98": {
+      "text": "I survived every fight,\\nand now...!",
+      "status": "imported"
+    },
+    "voice_006:r_45abf84f7757d6eb": {
+      "text": "Guh!\\nBroke two or three ribs?!",
+      "status": "imported"
+    },
+    "voice_006:r_edd7a13ab8f06a14": {
+      "text": "Damn it!\\nWhat the hell did they do?!",
+      "status": "imported"
+    },
+    "voice_006:r_8165e5b41f0124c4": {
+      "text": "Damn it! Damn iiiit!",
+      "status": "imported"
+    },
+    "voice_006:r_4e05581b7432cce8": {
+      "text": "A Firebug like me...!",
+      "status": "imported"
+    },
+    "voice_006:r_a60b107ea3c36a86": {
+      "text": "E-eject! I refuse to die here!",
+      "status": "imported"
+    },
+    "voice_006:r_e33693e5ba4665b0": {
+      "text": "Damage past critical! Is this it?!",
+      "status": "imported"
+    },
+    "voice_006:r_eb5f687fcd372ae7": {
+      "text": "I'll knock you out of the sky!",
+      "status": "imported"
+    },
+    "voice_006:r_2329428a6871d9fa": {
+      "text": "The hunt begins now!",
+      "status": "imported"
+    },
+    "voice_006:r_0e7466971bec4cc4": {
+      "text": "Quit scurrying, insolent pest!",
+      "status": "imported"
+    },
+    "voice_006:r_efa71f7a4cc33ff3": {
+      "text": "This is how Firebug does things!",
+      "status": "imported"
+    },
+    "voice_006:r_3fc2e1186557e7a0": {
+      "text": "You'll learn the power of Firebug!",
+      "status": "imported"
+    },
+    "voice_006:r_fa6930340a545054": {
+      "text": "I'll hunt you down without mercy!",
+      "status": "imported"
+    },
+    "voice_006:r_2332b9d56461d7ab": {
+      "text": "I decide whether you live or die!",
+      "status": "imported"
+    },
+    "voice_006:r_854aa0a91a3c80d1": {
+      "text": "Run and I'll shoot you in the back!",
+      "status": "imported"
+    },
+    "voice_006:r_fcd05582aa5c6068": {
+      "text": "I won't let up until you go down!",
+      "status": "imported"
+    },
+    "voice_006:r_bece29562818acba": {
+      "text": "That's the difference in our skill!",
+      "status": "imported"
+    },
+    "voice_006:r_494b5da92ed24ecb": {
+      "text": "Heh... My vision's going blurry...",
+      "status": "imported"
+    },
+    "voice_006:r_a4a5a96f4bd58920": {
+      "text": "One foot in the River Sanzu...!",
+      "status": "imported"
+    },
+    "voice_006:r_b57d2d74233f889a": {
+      "text": "You really did it, you bastard!",
+      "status": "imported"
+    },
+    "voice_006:r_cd06d0820d82524b": {
+      "text": "I recall\\nTaribia's hellish front...!",
+      "status": "imported"
+    },
+    "voice_006:r_c94c6d04be583774": {
+      "text": "Tch! So that's your move!",
+      "status": "imported"
+    },
+    "voice_006:r_e54e2c99ef8297af": {
+      "text": "Piece of junk! Move faster!",
+      "status": "imported"
+    },
+    "voice_006:r_f16a3eb0bcaac082": {
+      "text": "You've got some nerve to mock me!",
+      "status": "imported"
+    },
+    "voice_006:r_10a408809e512df1": {
+      "text": "The electrics just shorted out...!",
+      "status": "imported"
+    },
+    "voice_006:r_bc7b9e308b879dd4": {
+      "text": "Firebug never retreats!",
+      "status": "imported"
+    },
+    "voice_006:r_98902fd3143c393e": {
+      "text": "What a pathetic attack!",
+      "status": "imported"
+    },
+    "voice_006:r_d907fbd7bc1c4298": {
+      "text": "Not enough to bring me down!",
+      "status": "imported"
+    },
+    "voice_006:r_96b21e3a028dd074": {
+      "text": "You underestimated Firebug!",
+      "status": "imported"
+    },
+    "voice_006:r_ce140b5d8e6b7310": {
+      "text": "You're not even worth my time...!",
+      "status": "imported"
+    },
+    "voice_006:r_0e0335789c5396d7": {
+      "text": "Come back later, amateur!",
+      "status": "imported"
+    },
+    "voice_006:r_a8e85bd950696403": {
+      "text": "This is Firebug!",
+      "status": "imported"
+    },
+    "voice_006:r_772c8bc40ab6cb61": {
+      "text": "I've got a barrier!",
+      "status": "imported"
+    },
+    "voice_006:r_58dd2826a199ef51": {
+      "text": "Tch...! You made me use my barrier!",
+      "status": "imported"
+    },
+    "voice_006:r_aadc0b2442adb93b": {
+      "text": "Bad! The machine is badly worn!",
+      "status": "imported"
+    },
+    "voice_006:r_e7a8cd8ed5bc2d1b": {
+      "text": "Running is useless!",
+      "status": "imported"
+    },
+    "voice_006:r_041dd920da4a7c17": {
+      "text": "I don't care if you even exist!",
+      "status": "imported"
+    },
+    "voice_006:r_c7f4280cde4605b3": {
+      "text": "Gundam! You're a worthy opponent!",
+      "status": "imported"
+    },
+    "voice_006:r_ec349c8ea9511a18": {
+      "text": "You overgrown powerhouse!",
+      "status": "imported"
+    },
+    "voice_006:r_7316666150e42960": {
+      "text": "Damn it! I can't shake them!",
+      "status": "imported"
+    },
+    "voice_006:r_c4f11aa93dc5b668": {
+      "text": "What...?! They read my moves?!",
+      "status": "imported"
+    },
+    "voice_006:r_b708a1d959013dbf": {
+      "text": "The job never changes!",
+      "status": "imported"
+    },
+    "voice_006:r_59fca03e929366c1": {
+      "text": "This is for the reward too!",
+      "status": "imported"
+    },
+    "voice_006:r_0d65eb631dcb7514": {
+      "text": "I've sunk as low as I can go...!",
+      "status": "imported"
+    },
+    "voice_006:r_d03018a31e23f1e9": {
+      "text": "We can't pick our battlefield!",
+      "status": "imported"
+    },
+    "voice_006:r_279da5f732aa8847": {
+      "text": "Now I'll just go as far as I can!",
+      "status": "imported"
+    },
+    "voice_006:r_97f82e3cb6f70110": {
+      "text": "I'll choose where I die!",
+      "status": "imported"
+    },
+    "voice_006:r_c5611d8dd6def96b": {
+      "text": "We'll fight on without the Princess!",
+      "status": "imported"
+    },
+    "voice_006:r_6f12cc8ed2732eb5": {
+      "text": "Our hearts stay with the Princess!",
+      "status": "imported"
+    },
+    "voice_006:r_7abfc55f8fb62ba7": {
+      "text": "Even fallen, we're still Firebug!",
+      "status": "imported"
+    },
+    "voice_006:r_99e7a66c650b5892": {
+      "text": "Make Firebug's power known again!",
+      "status": "imported"
+    },
+    "voice_006:r_5b2247b5cfbcd7b2": {
+      "text": "Firebug isn't dead yet!",
+      "status": "imported"
+    },
+    "voice_006:r_2d7a9c06347582d9": {
+      "text": "Firebug's name\\nmust never fade!",
+      "status": "imported"
+    },
+    "voice_006:r_bf953d64c3c7d9b7": {
+      "text": "Another Gundam to fight!",
+      "status": "imported"
+    },
+    "voice_006:r_e09b933e3e706779": {
+      "text": "Gundams are everywhere I go!",
+      "status": "imported"
+    },
+    "voice_006:r_66236eb99b676e5b": {
+      "text": "Another new Gundam?!",
+      "status": "imported"
+    },
+    "voice_006:r_aeea0893acb93d35": {
+      "text": "You've gotten pretty flashy!",
+      "status": "imported"
+    },
+    "voice_006:r_b31568654e53487b": {
+      "text": "Celestial Being!\\nBack again?!",
+      "status": "imported"
+    },
+    "voice_006:r_2502132569141ea3": {
+      "text": "So you're the rumored Mithril!",
+      "status": "imported"
+    },
+    "voice_006:r_1ff312798a52c8eb": {
+      "text": "We're both mercs! No grudges!",
+      "status": "imported"
+    },
+    "voice_006:r_fa07d90fca62f593": {
+      "text": "What's the difference between us?!",
+      "status": "imported"
+    },
+    "voice_006:r_a25bf2676ecf9d83": {
+      "text": "We're up against the latest AS!",
+      "status": "imported"
+    },
+    "voice_006:r_237a0288b42dce20": {
+      "text": "A pure white AS worth crushing!",
+      "status": "imported"
+    },
+    "voice_006:r_0556e8a22779ea8e": {
+      "text": "Wh-what...?! What the hell are you?!",
+      "status": "imported"
+    },
+    "voice_006:r_09d377101a48d92a": {
+      "text": "Ngh...!\\nLooking at you saps my will!",
+      "status": "imported"
+    },
+    "voice_006:r_11517cc7b0494dbf": {
+      "text": "No time to play with animals!",
+      "status": "imported"
+    },
+    "voice_006:r_b5864501463db244": {
+      "text": "Playing at romance in battle?!",
+      "status": "imported"
+    },
+    "voice_006:r_a88939ea84b4474d": {
+      "text": "What the hell is this giant?!",
+      "status": "imported"
+    },
+    "voice_006:r_a870d0cf7cc11ec6": {
+      "text": "More human than robot, aren't you?",
+      "status": "imported"
+    },
+    "voice_006:r_03f6158ef83964f3": {
+      "text": "I'll tear that cable apart!",
+      "status": "imported"
+    },
+    "voice_006:r_2970a83693cdcc25": {
+      "text": "You fraud! I won't buy your spiel!",
+      "status": "imported"
+    },
+    "voice_006:r_958a56c1151cab9e": {
+      "text": "Salaryman!\\nShowing up doomed you!",
+      "status": "imported"
+    },
+    "voice_006:r_5508a7bfa9074eb9": {
+      "text": "An amateur came to the battlefield?!",
+      "status": "imported"
+    },
+    "voice_006:r_09a003e91f0d5dc7": {
+      "text": "You've got spirit, but that's all!",
+      "status": "imported"
+    },
+    "voice_006:r_b02fca1590ac1210": {
+      "text": "We never forget a grudge!",
+      "status": "imported"
+    },
+    "voice_006:r_f0344d2fbaa9db77": {
+      "text": "I'll teach you how to fight!",
+      "status": "imported"
+    },
+    "voice_006:r_3328eef766ff2c2c": {
+      "text": "The Princess taught us eye for eye!",
+      "status": "imported"
+    },
+    "voice_006:r_23b037cf6ccc695c": {
+      "text": "Letting you go\\nwould shame Firebug!",
+      "status": "imported"
+    },
+    "voice_006:r_883ad1128d340c5e": {
+      "text": "Sloppy finish, Beck!",
+      "status": "imported"
+    },
+    "voice_006:r_a9e6ed99025a703b": {
+      "text": "You're all talk, Gates!",
+      "status": "imported"
+    },
+    "voice_006:r_b0d1459d6daeebbe": {
+      "text": "I'll clean up your mess, Kan Yu!",
+      "status": "imported"
+    },
+    "voice_006:r_cd4893b409472e97": {
+      "text": "You owe me for this, Beck!",
+      "status": "imported"
+    },
+    "voice_006:r_5691cc71770ffdde": {
+      "text": "Gates! Don't shoot me in the back!",
+      "status": "imported"
+    },
+    "voice_006:r_964e07c5563a5508": {
+      "text": "Move aside, Kan Yu!",
+      "status": "imported"
+    },
+    "voice_006:r_db54e717bff3e3b2": {
+      "text": "Ha! What a joke!",
+      "status": "imported"
+    },
+    "voice_006:r_fcab8d80aef7e9d8": {
+      "text": "Looks like you've lost your nerve.",
+      "status": "imported"
+    },
+    "voice_006:r_2174bd0edc164171": {
+      "text": "Looks like I'm facing an amateur.",
+      "status": "imported"
+    },
+    "voice_006:r_ad54419336b49578": {
+      "text": "Try it a hundred times, same result.",
+      "status": "imported"
+    },
+    "voice_006:r_63c353e1e05e8e39": {
+      "text": "Don't think you'll get lucky twice!",
+      "status": "imported"
+    },
+    "voice_006:r_87646dd472438e88": {
+      "text": "That's not much damage.",
+      "status": "imported"
+    },
+    "voice_006:r_4e32ac89cba02001": {
+      "text": "The Burglar has decent armor!",
+      "status": "imported"
+    },
+    "voice_006:r_02d24e5915bfa5b7": {
+      "text": "Tch...! I got hit by that...!",
+      "status": "imported"
+    },
+    "voice_006:r_9331c2c2ef55c78f": {
+      "text": "Damn! I'm having rotten luck!",
+      "status": "imported"
+    },
+    "voice_006:r_49734bdb3507acf7": {
+      "text": "Trouble ever since she died...!",
+      "status": "imported"
+    },
+    "voice_006:r_2a730c9b4df0dca3": {
+      "text": "Her command would crush this rabble!",
+      "status": "imported"
+    },
+    "voice_006:r_1e5842ba5dc3f705": {
+      "text": "Damn! I can't get our morale up!",
+      "status": "imported"
+    },
+    "voice_006:r_9747bd61ad23ecd3": {
+      "text": "Credit where it's due, Mithril!",
+      "status": "imported"
+    },
+    "voice_006:r_6823f8abe05c4727": {
+      "text": "Mithril...! Better than the rumors!",
+      "status": "imported"
+    },
+    "voice_006:r_b8ccfd8b8ac323ac": {
+      "text": "Is that AS a monster?!",
+      "status": "imported"
+    },
+    "voice_006:r_c885ff2097749991": {
+      "text": "Those looks aren't just for show!",
+      "status": "imported"
+    },
+    "voice_006:r_a8da7f8d8b705db0": {
+      "text": "A-am I trapped in a nightmare...?!",
+      "status": "imported"
+    },
+    "voice_006:r_02e1c5e19de5bd22": {
+      "text": "Damn!\\nIs that bear a real monster?!",
+      "status": "imported"
+    },
+    "voice_006:r_6fb823898811e210": {
+      "text": "It'll eat me! That beast'll eat me!",
+      "status": "imported"
+    },
+    "voice_006:r_3d4fa015b8b31648": {
+      "text": "Damn! Nothing's gone right lately!",
+      "status": "imported"
+    },
+    "voice_006:r_c1f3167d7dd97543": {
+      "text": "Tch!\\nIs Firebug really finished?!",
+      "status": "imported"
+    },
+    "voice_006:r_1ac46173650ffe13": {
+      "text": "Her lead...\\nNo, just having her...!",
+      "status": "imported"
+    },
+    "voice_006:r_53660d6bc7fe8513": {
+      "text": "Princess...! I may soon\\njoin you!",
+      "status": "imported"
+    },
+    "voice_006:r_2e756557a1d92e8b": {
+      "text": "Daaaaamn! Princessssss!!",
+      "status": "imported"
+    },
+    "voice_006:r_45d847e7b8d840e3": {
+      "text": "This'd never happen with her here!!",
+      "status": "imported"
+    },
+    "voice_006:r_d2ebe8f28f2420cc": {
+      "text": "F-Firebug... isn't finished yet!",
+      "status": "imported"
+    },
+    "voice_006:r_3baa2292b050034a": {
+      "text": "Raaagh! Firebug is immortal!!",
+      "status": "imported"
+    },
+    "voice_006:r_6d8a80e2956870ed": {
+      "text": "Hit them with concentrated fire!",
+      "status": "imported"
+    },
+    "voice_006:r_426b68d671486c8e": {
+      "text": "I'll open a path through!",
+      "status": "imported"
+    },
+    "voice_006:r_ae913eb08e0ff29b": {
+      "text": "I'm going in! Follow me!",
+      "status": "imported"
+    },
+    "voice_006:r_6fbc129ae3a24bb0": {
+      "text": "Leave holding them off to me!",
+      "status": "imported"
+    },
+    "voice_006:r_0e58a97c7f8c9ecf": {
+      "text": "Formation: Center!",
+      "status": "imported"
+    },
+    "voice_006:r_46e80691278d2e90": {
+      "text": "I'll take care of this side!",
+      "status": "imported"
+    },
+    "voice_006:r_c4c8af04ee11993c": {
+      "text": "We'll split them up!",
+      "status": "imported"
+    },
+    "voice_006:r_ef1ca3b6b4a983b9": {
+      "text": "Too bad! Now it's one on one!",
+      "status": "imported"
+    },
+    "voice_006:r_cdfaf9cd1fd55c77": {
+      "text": "I'll be your opponent!",
+      "status": "imported"
+    },
+    "voice_006:r_3d2454ac7a0fed22": {
+      "text": "Formation: Wide!",
+      "status": "imported"
+    }
+  }
+}

@@ -1,0 +1,1206 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "parts_descriptions.unshipped:r_cf1a3a6ceb9bbc78": {
+      "text": "Applies Love, Bravery, Soul, Fury,\nZeal, Snipe, Assail, Guard and Focus.\nOnce per stage.",
+      "status": "translated"
+    },
+    "parts_descriptions.unshipped:r_9f3df3717b475207": {
+      "text": "Applies Love, Bravery, Soul, Fury,\nZeal, Snipe, Assail, Guard and Focus.\nOnce per stage. DLC only.",
+      "status": "translated"
+    },
+    "parts_descriptions.unshipped:r_05611da3e7bd4d24": {
+      "text": "Chance-based effects are 10\npercentage points more likely to work\nin your favor.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_5ed5e82938829eb5": {
+      "text": "Chance-based effects are 10\npercentage points more likely to work\nin your favor. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_8cfadecdec425ad7": {
+      "text": "Chance-based effects are 10\npercentage points more likely to work\nin your favor.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_7877bdb8d87846cb": {
+      "text": "Critical hit chance +20%.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_eb3bfb5f81ee1dd6": {
+      "text": "Critical hit chance +20%. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_d2df56632234feb2": {
+      "text": "Critical hit chance +20%.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_4705b09d0b46f360": {
+      "text": "Critical hit chance +20%. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_a636931f7afce27b": {
+      "text": "Critical hit chance +20%. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_c09b176704baf057": {
+      "text": "Each player turn: restores 10% of max\nHP/EN and 10 SP to the main pilot.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_16f4d761b288ea48": {
+      "text": "Each player turn: restores 10% of max\nHP/EN and 10 SP to the main pilot.\nDLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_a4146f9be535249e": {
+      "text": "50% evade at Focus 130+. Blocks\ndamage under 1200 (10 EN). Team\nHit/Evade +10%.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_1f027abc9d891224": {
+      "text": "50% evade at Focus 130+. Blocks\ndamage under 1200 (10 EN). Team\nHit/Evade +10%. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_b7e42d62c8eef931": {
+      "text": "50% evade at Focus 130+. Blocks\ndamage under 1200 (10 EN). Team\nHit/Evade +10%. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_f6a692fd920fd79b": {
+      "text": "Earn 500 funds for each map square\nyour team moves.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_834a2674c0dbd808": {
+      "text": "Earn 500 funds for each map square\nyour team moves. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_2934048585d96a37": {
+      "text": "Weapon/song range +1, excluding\nMAP weapons and weapons with a\nrange of 1.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_1730e9d54520af7e": {
+      "text": "Weapon/song range +1, excluding\nMAP weapons and weapons with a\nrange of 1. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_af7ea1f7a977439f": {
+      "text": "Weapon/song range +1, excluding\nMAP weapons and weapons with a\nrange of 1.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_a1eaffe2667018a5": {
+      "text": "Weapon/song range +1, excluding\nMAP weapons and weapons with a\nrange of 1. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_5938ec11cfdd9667": {
+      "text": "Restores 10 SP to the main pilot each\nturn.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_b10101cb32bc0fb9": {
+      "text": "Restores 10 SP to the main pilot each\nturn. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_3c6e5cf42fa433d9": {
+      "text": "Restores 10 SP to the main pilot each\nturn.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_0c4ab3a2f287914a": {
+      "text": "Restores 10 SP to the main pilot each\nturn. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_537bdd7e22ad9818": {
+      "text": "Restores 15 SP to the main pilot each\nturn.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_4e3fb182b2b95088": {
+      "text": "Restores 15 SP to the main pilot each\nturn.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_d6741f39ce78767e": {
+      "text": "Restores 15 SP to the main pilot each\nturn. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_02859bd20dc16d17": {
+      "text": "Restores 100 SP to the main pilot.\nUsable once per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_2492ef0563ef6caf": {
+      "text": "Restores 100 SP to the main pilot.\nUsable once per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_4c3c83a227ed94db": {
+      "text": "Restores 100 SP to the main pilot.\nUsable once per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_08f30627ea4fcd65": {
+      "text": "Restores 100 SP to the main pilot.\nUsable once per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_d95a7e784043047c": {
+      "text": "Restores 100 SP to the main pilot.\nUsable once per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_6d93b4c0d84bd7d6": {
+      "text": "Restores 100 SP to the main pilot.\nUsable once per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_7f0d5908f65c35f8": {
+      "text": "Restores 20 SP to the main pilot.\nUsable once per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_25acda115ba92631": {
+      "text": "Restores 20 SP to the main pilot.\nUsable once per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_70d6ae86e788fc74": {
+      "text": "Restores 20 SP to the main pilot.\nUsable once per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_a94f2d58b1dcde1d": {
+      "text": "Restores 20 SP to the main pilot.\nUsable once per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_eb90ee01c69ffa48": {
+      "text": "Restores 20 SP to the main pilot.\nUsable once per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_405c0e1f5064673b": {
+      "text": "Restores 20 SP to the main pilot.\nUsable once per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_7c44b845b16f9799": {
+      "text": "Restores 40 SP to the main pilot.\nUsable once per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_b351313e993f05d5": {
+      "text": "Restores 40 SP to the main pilot.\nUsable once per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_73156406d8e38bcc": {
+      "text": "Restores 40 SP to the main pilot.\nUsable once per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_f550c9b81e7a5086": {
+      "text": "Restores 40 SP to the main pilot.\nUsable once per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_b6905831eea1936e": {
+      "text": "Restores 40 SP to the main pilot.\nUsable once per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_6f8ec465a343add3": {
+      "text": "Restores 40 SP to the main pilot.\nUsable once per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_acdb27a7debd0346": {
+      "text": "Restores 60 SP to the main pilot.\nUsable once per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_119ef6640c58bb0f": {
+      "text": "Restores 60 SP to the main pilot.\nUsable once per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_f2a805bd7cca98bf": {
+      "text": "Restores 60 SP to the main pilot.\nUsable once per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_f43195dbb213a9ef": {
+      "text": "Restores 60 SP to the main pilot.\nUsable once per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_72d8e47c388571aa": {
+      "text": "Restores 60 SP to the main pilot.\nUsable once per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_a97397adaee0bbdc": {
+      "text": "Restores 60 SP to the main pilot.\nUsable once per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_a9f33d43028c657e": {
+      "text": "Grants the effect of Commander Lv4.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_2b24d9c4ac950067": {
+      "text": "Grants the effect of Commander Lv4.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_99384cd19c905988": {
+      "text": "Grants the effect of Commander Lv4.\nDLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_76af8574c23fc985": {
+      "text": "Adds the Repair and Resupply\nabilities.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_59cc48bd070f933f": {
+      "text": "Adds the Repair and Resupply\nabilities. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_6d501d1d16a3fdce": {
+      "text": "Adds the Repair and Resupply\nabilities.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_3e7cae3ac0999685": {
+      "text": "Adds the Repair and Resupply\nabilities. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_2d2ce19bb1a53889": {
+      "text": "Barrier reduces damage from all\nattacks by 1000. Costs 5 EN per\nactivation.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_160721aec0378a1f": {
+      "text": "Barrier reduces damage from all\nattacks by 1000. Costs 5 EN per\nactivation. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_29f66d2858a83e2b": {
+      "text": "Barrier reduces damage from all\nattacks by 1000. Costs 5 EN per\nactivation.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_59c3877da522d29d": {
+      "text": "Barrier reduces damage from all\nattacks by 1000. Costs 5 EN per\nactivation. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_4dd53809b4358878": {
+      "text": "Starting Focus +10 when deployed.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_3cbf7e730da7f07e": {
+      "text": "Starting Focus +10 when deployed.\nDLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_18f629df4e81d104": {
+      "text": "Starting Focus +20 when deployed.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_ea4c08b7960930a9": {
+      "text": "Starting Focus +5 when deployed.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_9895968946690568": {
+      "text": "Starting Focus +10 when deployed.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_cb8ef5eeb814f246": {
+      "text": "Starting Focus +10 when deployed.\nDLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_0fd2c75bf77f46d9": {
+      "text": "Starting Focus +10 when deployed.\nDLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_88c8bf2a2487ad6f": {
+      "text": "Starting Focus +20 when deployed.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_0b208b845b594e2e": {
+      "text": "Starting Focus +20 when deployed.\nDLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_d2843ff073fb2d0b": {
+      "text": "Starting Focus +5 when deployed.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_7ce4134db3ad312a": {
+      "text": "Starting Focus +5 when deployed. DLC\nonly.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_0778368fa6185c3d": {
+      "text": "Main pilot gains 3 Focus each player\nturn, from the unit's second deployed\nturn.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_b4e7aeace5a1b78e": {
+      "text": "Main pilot gains 3 Focus each player\nturn, from the unit's second deployed\nturn. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_a705894c65094ab9": {
+      "text": "Main pilot gains 3 Focus each player\nturn, from the unit's second deployed\nturn. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_e06affa50e128725": {
+      "text": "Main pilot gains 3 Focus each player\nturn, from the unit's second deployed\nturn.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_27caee8d47a6dd17": {
+      "text": "Main pilot gains 3 Focus each player\nturn, from the unit's second deployed\nturn. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_e270504ff5132108": {
+      "text": "Mobility +20; 50% evade at Focus\n130+. Barrier cuts all damage by 1000\n(5 EN/use).",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_a8978425966541b9": {
+      "text": "Mobility +20; 50% evade at Focus\n130+. Barrier cuts all damage by 1000\n(5 EN/use). DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_16e222f081848bcd": {
+      "text": "100% Parry; blocks pilot status\neffects. Negates consecutive-targeting\nand placement penalties.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_6a1da253c976b095": {
+      "text": "100% Parry; blocks pilot status\neffects. Negates consecutive-targeting\nand placement penalties. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_972d9ce23907971c": {
+      "text": "100% Parry; blocks pilot status\neffects. Negates consecutive-targeting\nand placement penalties. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_b5c54e693e852cef": {
+      "text": "100% Parry; blocks pilot status\neffects. Negates consecutive-targeting\nand placement penalties.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_b62d9547d3731b80": {
+      "text": "100% Parry; blocks pilot status\neffects. Negates consecutive-targeting\nand placement penalties. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_19e7130e4bf136a1": {
+      "text": "Battle EXP x2. Stacks with the Gain\nSpirit effect.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_0a1ac223afba38de": {
+      "text": "Battle EXP x2. Stacks with the Gain\nSpirit effect.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_1c2eb9ea480c6eb2": {
+      "text": "Battle EXP x2. Stacks with the Gain\nSpirit effect. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_e0ae8c675a150af0": {
+      "text": "Battle EXP x2. Stacks with the Gain\nSpirit effect.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_a78d9193efe000ee": {
+      "text": "Whenever your team gains Tag\nTension, it gains 1 extra point. DLC\nonly.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_efd16104f3030211": {
+      "text": "Grants the effect of Commander Lv4.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_17a9c02f2ca76f30": {
+      "text": "Whenever your team gains Tag\nTension, it gains 1 extra point.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_e777fee732e8bc8b": {
+      "text": "Whenever your team gains Tag\nTension, it gains 1 extra point. DLC\nonly.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_22c66ab1c5c7c39f": {
+      "text": "Earn 500 funds for each map square\nyour team moves. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_1fc4fa244d5dfb8c": {
+      "text": "Earn 500 funds for each map square\nyour team moves.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_fb65118a4f32effd": {
+      "text": "Earn 500 funds for each map square\nyour team moves. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_db2a30daa0468fb0": {
+      "text": "Whenever your team gains Tag\nTension, it gains 1 extra point.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_2a9d9746be138393": {
+      "text": "Whenever your team gains Tag\nTension, it gains 1 extra point. DLC\nonly.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_43762e2ae82e85d0": {
+      "text": "All pilots aboard: maximum Focus +30.\nEquipping multiple copies does not\nstack.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_69cfda23a7c1ed4e": {
+      "text": "All pilots aboard: maximum Focus +30.\nEquipping multiple copies does not\nstack. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_50983edffe83a7c0": {
+      "text": "All pilots aboard: maximum Focus +30.\nEquipping multiple copies does not\nstack. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_30cf94133223ae5a": {
+      "text": "All pilots aboard: maximum Focus +30.\nEquipping multiple copies does not\nstack.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_5714487de8639123": {
+      "text": "All pilots aboard: maximum Focus +30.\nEquipping multiple copies does not\nstack. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_4f64bf713a1ab71d": {
+      "text": "Team funds from defeated enemies x2.\nStacks with Luck, but not other parts.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_1b3f8ecc43ef4bfa": {
+      "text": "Team funds from defeated enemies x2.\nStacks with Luck, but not other parts.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_2825bd5cefb58c2e": {
+      "text": "Team funds from defeated enemies x2.\nStacks with Luck, but not other parts.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_53d2ac0dfe30296b": {
+      "text": "Team funds from defeated enemies x2.\nStacks with Luck, but not other parts.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_25547b668683806f": {
+      "text": "Team funds from defeated enemies x2.\nStacks with Luck, but not other parts.\nDLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_a8ed322c907732b8": {
+      "text": "PP from defeated enemies x2. Stacks\nwith Bonus PP Tag Command, but not\nother parts.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_2ada841fe582eacc": {
+      "text": "PP from defeated enemies x2. Stacks\nwith Bonus PP Tag Command, but not\nother parts.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_73e380aba007516c": {
+      "text": "PP from defeated enemies x2. Stacks\nwith Bonus PP Tag Command, but not\nother parts.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_8cbe10ebc36b35c5": {
+      "text": "PP from defeated enemies x2. Stacks\nwith Bonus PP Tag Command, but not\nother parts. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_852f7071fe493f3d": {
+      "text": "Z Chips from defeated enemies x1.5.\nDoes not stack with other parts.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_5d8c516d97f602dc": {
+      "text": "Z Chips from defeated enemies x1.5.\nDoes not stack with other parts. DLC\nonly.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_45a7ac3a99a613c3": {
+      "text": "Z Chips from defeated enemies x1.5.\nDoes not stack with other parts.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_ade3249965e49dff": {
+      "text": "Z Chips from defeated enemies x1.5.\nDoes not stack with other parts. DLC\nonly.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_58165dfc26a357a2": {
+      "text": "Z Chips from defeated enemies x1.5.\nDoes not stack with other parts.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_c155665046d0a40d": {
+      "text": "Z Chips from defeated enemies x1.5.\nDoes not stack with other parts. DLC\nonly.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_74da595f10528ead": {
+      "text": "Max EN +100. Restores 10% of max EN\nat the start of each player turn.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_ca031303f0aa823b": {
+      "text": "Max EN +100. Restores 10% of max EN\nat the start of each player turn. DLC\nonly.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_5ca5af60bbeb59f4": {
+      "text": "Max EN +150.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_a4bb127bfa91c04e": {
+      "text": "Max EN +150. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_ed0f0451f1da8669": {
+      "text": "Max EN +100. Restores 10% of max EN\nat the start of each player turn.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_15c6ac66c6ac4138": {
+      "text": "Max EN +100. Restores 10% of max EN\nat the start of each player turn. DLC\nonly.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_7c3d7432bef2aa8c": {
+      "text": "Max EN +150.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_19b5c0deac0bfa64": {
+      "text": "Max EN +150. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_52cee2caf4c5e987": {
+      "text": "Max EN +150. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_cd6753318be98e3b": {
+      "text": "Max HP +1000; Armor +150.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_37ba8b5673a7901d": {
+      "text": "Max HP +1000; Armor +150. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_b3dc82365d457c77": {
+      "text": "Max HP +1000; Armor +200. Blocks\nstatus effects inflicted by enemy\nweapons.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_efeeff4b1612ae80": {
+      "text": "Max HP +1000; Armor +200. Blocks\nstatus effects inflicted by enemy\nweapons. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_f6ffb92a3665316d": {
+      "text": "Max HP +1200; Armor +250. Restores\n10% of max EN at the start of each\nplayer turn.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_92e4ec35f0bf44e5": {
+      "text": "Max HP +1200; Armor +250. Restores\n10% of max EN at the start of each\nplayer turn. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_6fbcdada46adf98f": {
+      "text": "Max HP +1500; Armor +250. Restores\n10% of max HP/EN at each player\nturn's start.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_839a9319b1c39574": {
+      "text": "Max HP +1500; Armor +250. Restores\n10% of max HP/EN at each player\nturn's start. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_7ab841a4960c4344": {
+      "text": "Max HP +500; Armor +100.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_ccb862653db91967": {
+      "text": "Max HP +500; Armor +100. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_374a4fff68888d77": {
+      "text": "Max HP +1000; Armor +150.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_112a3edddc027653": {
+      "text": "Max HP +1000; Armor +150. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_f45c0a01f080a1b0": {
+      "text": "Max HP +1000; Armor +200. Blocks\nstatus effects inflicted by enemy\nweapons.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_f531828f914d5c09": {
+      "text": "Max HP +1000; Armor +200. Blocks\nstatus effects inflicted by enemy\nweapons. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_89319aad75d092ea": {
+      "text": "Max HP +1200; Armor +250. Restores\n10% of max EN at the start of each\nplayer turn.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_5634aefd157944d8": {
+      "text": "Max HP +1200; Armor +250. Restores\n10% of max EN at the start of each\nplayer turn. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_7420511d5e78d007": {
+      "text": "Max HP +1500; Armor +250. Restores\n10% of max HP/EN at each player\nturn's start.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_3ff3e8d1b2c98796": {
+      "text": "Max HP +1500; Armor +250. Restores\n10% of max HP/EN at each player\nturn's start. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_eaa0f9aeda4b9aad": {
+      "text": "Max HP +500; Armor +100.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_59826984a8b3a478": {
+      "text": "Max HP +500; Armor +100. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_a3c75edfd4410718": {
+      "text": "All unit and weapon terrain ranks\nbecome A.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_f651c6337119349f": {
+      "text": "All unit and weapon terrain ranks\nbecome A. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_4bc30a2f97dec197": {
+      "text": "All unit and weapon terrain ranks\nbecome S.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_fe0601c9529912a5": {
+      "text": "All unit and weapon terrain ranks\nbecome S. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_ea141204954d492b": {
+      "text": "All unit and weapon terrain ranks\nbecome A.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_7740b4776c8ad07d": {
+      "text": "All unit and weapon terrain ranks\nbecome A. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_6fb92e83c4b6dd2f": {
+      "text": "All unit and weapon terrain ranks\nbecome S.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_5a63c8ce1349332d": {
+      "text": "All unit and weapon terrain ranks\nbecome S. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_3f2a762bd5400b18": {
+      "text": "Unit and weapon Space terrain ranks\nbecome S.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_943c12a44094c7f9": {
+      "text": "Unit and weapon Space terrain ranks\nbecome S. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_6221789f9d885fb0": {
+      "text": "Unit and weapon Space terrain ranks\nbecome S.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_f0755943d8e5a0b6": {
+      "text": "Unit and weapon Space terrain ranks\nbecome S. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_85cb26e98adc1af7": {
+      "text": "Unit/weapon Water terrain rank S.\nGrants water movement except to\nfixed-movement units.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_39de9cfa12f0e5b0": {
+      "text": "Unit/weapon Water terrain rank S.\nGrants water movement except to\nfixed-movement units.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_8a471e3215222b64": {
+      "text": "Unit/weapon Water terrain rank S.\nGrants water movement except to\nfixed-movement units. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_e5e05d14abdfa91a": {
+      "text": "Unit/weapon Air terrain rank S. Grants\nflight except to fixed-movement units.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_5237bc02b9d9af0d": {
+      "text": "Unit/weapon Air terrain rank S. Grants\nflight except to fixed-movement units.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_20bcfc12f7db8162": {
+      "text": "Unit/weapon Air terrain rank S. Grants\nflight except to fixed-movement units.\nDLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_e72e9f99f428effe": {
+      "text": "Unit/weapon Ground terrain rank S.\nGrants ground movement except to\nfixed-movement units.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_ef3dff2aebddecb8": {
+      "text": "Unit/weapon Ground terrain rank S.\nGrants ground movement except to\nfixed-movement units. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_de3f4cd1e05c4358": {
+      "text": "Unit/weapon Ground terrain rank S.\nGrants ground movement except to\nfixed-movement units.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_4f73ae01152486e5": {
+      "text": "Unit/weapon Ground terrain rank S.\nGrants ground movement except to\nfixed-movement units. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_b02b3c54c6c97ee9": {
+      "text": "All weapons/songs: power +300,\nignore size penalties and pierce\nbarriers.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_0fe0ff472fd5a18b": {
+      "text": "All weapons/songs: power +300,\nignore size penalties and pierce\nbarriers. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_57a185bd5fdc72d7": {
+      "text": "Weapon/song power +300, range +2.\nRange excludes MAP and range-1\nweapons.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_23ba4f89575c57e4": {
+      "text": "Weapon/song power +300, range +2.\nRange excludes MAP and range-1\nweapons. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_4db37448bc9b8bce": {
+      "text": "Weapon/song power +300, range +2.\nRange excludes MAP and range-1\nweapons.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_26ef1a2efa517e88": {
+      "text": "Weapon/song power +300, range +2.\nRange excludes MAP and range-1\nweapons. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_34db5fea803ab038": {
+      "text": "Weapon/song power +300, range +2.\nRange excludes MAP and range-1\nweapons. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_466434089bab6742": {
+      "text": "All weapons/songs: power +300,\nignore size penalties and pierce\nbarriers.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_8bdac2d675d5e64f": {
+      "text": "All weapons/songs: power +300,\nignore size penalties and pierce\nbarriers. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_3f29129c31142ad7": {
+      "text": "All weapons/songs: power +300,\nignore size penalties and pierce\nbarriers. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_666772ea51bf51c0": {
+      "text": "50% evade at Focus 130+. Blocks\ndamage under 1200 (10 EN). Team\nHit/Evade +10%.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_b8d1d3853d59ff41": {
+      "text": "50% evade at Focus 130+. Blocks\ndamage under 1200 (10 EN). Team\nHit/Evade +10%. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_9e682a756316a8bb": {
+      "text": "At Focus 130 or higher, final damage\ndealt increases by 20%.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_e65e6bf6b4543698": {
+      "text": "At Focus 130 or higher, final damage\ndealt increases by 20%. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_816f864682af2ca2": {
+      "text": "At Focus 130 or higher, final damage\ndealt increases by 20%.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_b05555799fe67eb2": {
+      "text": "Focus 150+: kill PP and team funds/Z\nChips x2. No stacking with other parts.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_9c8513778110d9a1": {
+      "text": "Focus 150+: kill PP and team funds/Z\nChips x2. No stacking with other parts.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_ae315f66cb86aeb2": {
+      "text": "Focus 150+: kill PP and team funds/Z\nChips x2. No stacking with other parts.\nDLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_dd58f963c5f9fd80": {
+      "text": "Focus 150+: kill PP and team funds/Z\nChips x2. No stacking with other parts.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_896416aca6d1ef20": {
+      "text": "Accuracy +10.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_bfcac7a87f3f7283": {
+      "text": "Accuracy +10. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_96e44deebcfd9254": {
+      "text": "Accuracy +20. Weapon/song range +1,\nexcluding MAP weapons and range-1\nweapons.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_f30dd6c0bb205742": {
+      "text": "Accuracy +20. Weapon/song range +1,\nexcluding MAP weapons and range-1\nweapons. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_6af6e55c18ffb569": {
+      "text": "Accuracy +20.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_8208a0d4b14fb624": {
+      "text": "Accuracy +20. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_6914aa94994c94e5": {
+      "text": "Accuracy +20; all unit/weapon terrain\nA. Weapon/song range +1, excluding\nMAP and range-1 weapons.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_84055ec4a9e47372": {
+      "text": "Accuracy +20; all unit/weapon terrain\nA. Weapon/song range +1, excluding\nMAP and range-1 weapons. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_5c54a065a4ad91e8": {
+      "text": "Accuracy +10.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_8a99cab243973574": {
+      "text": "Accuracy +10. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_907b97435a753168": {
+      "text": "Accuracy +20.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_d4321132acc82089": {
+      "text": "Accuracy +20. Weapon/song range +1,\nexcluding MAP weapons and range-1\nweapons.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_61d11ccdfa863d42": {
+      "text": "Accuracy +20. Weapon/song range +1,\nexcluding MAP weapons and range-1\nweapons. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_c8e714e93995b3b8": {
+      "text": "Accuracy +20. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_6a499e17e0048411": {
+      "text": "Accuracy +20; all unit/weapon terrain\nA. Weapon/song range +1, excluding\nMAP and range-1 weapons.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_7b4144015bd4cf32": {
+      "text": "Accuracy +20; all unit/weapon terrain\nA. Weapon/song range +1, excluding\nMAP and range-1 weapons. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_2962c7ceac2336ff": {
+      "text": "Movement +1; weapon/song power\n+200, range +1. Range excludes MAP\nand range-1 weapons.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_cbaee88b71b894be": {
+      "text": "Movement +1; weapon/song power\n+200, range +1. Range excludes MAP\nand range-1 weapons. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_ed8619c3d64ceebe": {
+      "text": "Movement +1; Mobility +10.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_b2f40b891f9104d8": {
+      "text": "Movement +1; Mobility +10. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_7d0e0d871e7aa63b": {
+      "text": "Movement +1.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_114580eeb8d3ace4": {
+      "text": "Movement +1. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_3004aecbfcba1ada": {
+      "text": "Move +2; crit +20%; unit/weapon Air\nS. Grants flight except to\nfixed-movement units.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_ee70f68d710f0062": {
+      "text": "Move +2; crit +20%; unit/weapon Air\nS. Grants flight except to\nfixed-movement units. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_fe3fa726fb29c28c": {
+      "text": "Move +2; crit +20%; unit/weapon Air\nS. Grants flight except to\nfixed-movement units.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_e77c8f8b4b50873c": {
+      "text": "Move +2; crit +20%; unit/weapon Air\nS. Grants flight except to\nfixed-movement units. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_3a0b751ee8b723b2": {
+      "text": "Movement +2; Mobility/Accuracy +25.\nWeapon/song range +1, excluding\nMAP and range-1 weapons.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_889966676a58a541": {
+      "text": "Movement +2; Mobility/Accuracy +25.\nWeapon/song range +1, excluding\nMAP and range-1 weapons. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_257a6a25d5f91d7a": {
+      "text": "Movement +2.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_0184bfdddbd991f1": {
+      "text": "Movement +2. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_855b081faa171e01": {
+      "text": "Movement +4. When leading the team,\nignores terrain and enemy units while\nmoving.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_52a3b420c290c838": {
+      "text": "Movement +4. When leading the team,\nignores terrain and enemy units while\nmoving. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_8c347e1996d99fe8": {
+      "text": "Movement +4. When leading the team,\nignores terrain and enemy units while\nmoving.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_70d2fe9f0d54aaff": {
+      "text": "Movement +1.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_43c2469b40f7c079": {
+      "text": "Movement +1; Mobility +10.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_63feb51bccdde0df": {
+      "text": "Movement +1; Mobility +10. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_5041ae99a26d2dad": {
+      "text": "Movement +1. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_58ef6e6d16753984": {
+      "text": "Movement +1; weapon/song power\n+200, range +1. Range excludes MAP\nand range-1 weapons.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_d038c17063e95381": {
+      "text": "Movement +1; weapon/song power\n+200, range +1. Range excludes MAP\nand range-1 weapons. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_83f2f5ac87621763": {
+      "text": "Movement +1; weapon/song power\n+200, range +1. Range excludes MAP\nand range-1 weapons. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_7f58f189208e8ef0": {
+      "text": "Movement +2.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_d8eb0b88f02ed1c9": {
+      "text": "Movement +2. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_f87e62ed25cbe1f0": {
+      "text": "Movement +2; Mobility/Accuracy +25.\nWeapon/song range +1, excluding\nMAP and range-1 weapons.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_2e4af0a7ebc22a78": {
+      "text": "Movement +2; Mobility/Accuracy +25.\nWeapon/song range +1, excluding\nMAP and range-1 weapons. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_77e7bdb96bc216cc": {
+      "text": "Movement +2; Mobility/Accuracy +25.\nWeapon/song range +1, excluding\nMAP and range-1 weapons. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_adedcbae459dae58": {
+      "text": "Applies Love, Bravery, Soul, Fury,\nZeal, Snipe, Assail, Guard and Focus.\nOnce per stage.",
+      "status": "translated"
+    },
+    "parts_descriptions.unshipped:r_6f76775f0c56981e": {
+      "text": "Applies Love, Bravery, Soul, Fury,\nZeal, Snipe, Assail, Guard and Focus.\nOnce per stage. DLC only.",
+      "status": "translated"
+    },
+    "parts_descriptions.unshipped:r_1500a38009740ee1": {
+      "text": "Applies the Love Spirit effect. Usable\nonce per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_10702fa836104cdf": {
+      "text": "Applies the Love Spirit effect. Usable\nonce per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_b20a70496faf8ebb": {
+      "text": "Applies the Love Spirit effect. Usable\nonce per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_ba0044715dabc4c7": {
+      "text": "Destroy an enemy team: main pilot\ngains 10 SP. No extra SP for\nmulti-team kills.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_197559535808747b": {
+      "text": "Destroy an enemy team: main pilot\ngains 10 SP. No extra SP for\nmulti-team kills. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_7c3ffc0c2dc17f1f": {
+      "text": "Destroy an enemy team: main pilot\ngains 10 SP. No extra SP for\nmulti-team kills.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_c8d8f5bda1185784": {
+      "text": "Destroy an enemy team: main pilot\ngains 10 SP. No extra SP for\nmulti-team kills. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_dd648c5c64b433f9": {
+      "text": "Fully restores this unit's ammo. Usable\nonce per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_bb68487846be0419": {
+      "text": "Fully restores this unit's ammo. Usable\nonce per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_c74bc6359baf72e0": {
+      "text": "Fully restores this unit's ammo. Usable\nonce per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_fa2c18d9b7692cfa": {
+      "text": "Fully restores this unit's ammo. Usable\nonce per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_ee83d643897a231f": {
+      "text": "Fully restores this unit's ammo. Usable\nonce per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_7be017e4dc410db8": {
+      "text": "Fully restores this unit's ammo. Usable\nonce per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_64551eeffd736075": {
+      "text": "Restores 250 EN to this unit. Usable\nonce per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_5554c0c4c37b17c1": {
+      "text": "Restores 250 EN to this unit. Usable\nonce per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_ccf6a534d1dc29e4": {
+      "text": "Restores 250 EN to this unit. Usable\nonce per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_a294d5269988f25f": {
+      "text": "Restores 250 EN to this unit. Usable\nonce per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_7a23b6b1a07b5797": {
+      "text": "Restores 250 EN to this unit. Usable\nonce per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_b4324b3add26665b": {
+      "text": "Restores 250 EN to this unit. Usable\nonce per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_75af5c568203e28b": {
+      "text": "Fully restores this unit's HP, EN and\nammo. Usable once per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_95fcea4d73adfac0": {
+      "text": "Fully restores this unit's HP, EN and\nammo. Usable once per stage. DLC\nonly.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_89972673803eda19": {
+      "text": "Fully restores this unit's HP, EN and\nammo. Usable once per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_98796d050c9cf38b": {
+      "text": "Fully restores this unit's HP, EN and\nammo. Usable once per stage. DLC\nonly.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_048590ccf4f0a1d0": {
+      "text": "Fully restores this unit's HP, EN and\nammo. Usable once per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_e38c5d13bfdf0738": {
+      "text": "Fully restores this unit's HP, EN and\nammo. Usable once per stage. DLC\nonly.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_0d74da7810dda901": {
+      "text": "Restores 6000 HP to this unit. Usable\nonce per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_42cb195c7d10b826": {
+      "text": "Restores 6000 HP to this unit. Usable\nonce per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_b303c2484c1e5bd0": {
+      "text": "Restores 6000 HP to this unit. Usable\nonce per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_ba136035d418484e": {
+      "text": "Restores 6000 HP to this unit. Usable\nonce per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_547945b3b9e29647": {
+      "text": "Restores 6000 HP to this unit. Usable\nonce per stage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_fcfb655839750e4c": {
+      "text": "Restores 6000 HP to this unit. Usable\nonce per stage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_2b8a653b6dcdf92e": {
+      "text": "Team gains 1 extra action each player\nturn if this part is equipped by the\nmain unit at turn start.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_bbc379d0d3a342ec": {
+      "text": "Team gains 1 extra action each player\nturn if this part is equipped by the\nmain unit at turn start. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_345853e80121e2ca": {
+      "text": "Team gains 1 extra action each player\nturn if this part is equipped by the\nmain unit at turn start.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_2e300816acf3248d": {
+      "text": "Fully restores EN at the start of each\nplayer turn.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_e605854b7e0e6864": {
+      "text": "Fully restores EN at the start of each\nplayer turn. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_1897f7e7c85449a8": {
+      "text": "Fully restores EN at the start of each\nplayer turn.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_952b56fec0664727": {
+      "text": "Fully restores EN at the start of each\nplayer turn. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_36bfa4f7e59d6a6a": {
+      "text": "Each player turn: restores 10% of max\nHP/EN and 10 SP to the main pilot.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_18ef7f6049449dd5": {
+      "text": "Each player turn: restores 10% of max\nHP/EN and 10 SP to the main pilot.\nDLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_baf68e95d41144eb": {
+      "text": "Applies Love, Bravery, Soul, Fury,\nZeal, Snipe, Assail, Guard and Focus.\nOnce per stage. DLC only.",
+      "status": "translated"
+    },
+    "parts_descriptions.unshipped:r_156c6a4a5796a43c": {
+      "text": "Applies Love, Bravery, Soul, Fury,\nZeal, Snipe, Assail, Guard and Focus.\nOnce per stage.",
+      "status": "translated"
+    },
+    "parts_descriptions.unshipped:r_f7eda088d73a30d0": {
+      "text": "Mobility +10.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_056e53d2d1977cb5": {
+      "text": "Mobility +10. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_de64d2f5d353d2c0": {
+      "text": "Mobility +20.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_3b3a9eecdbbc0e0a": {
+      "text": "Mobility +20. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_54e399c76035df99": {
+      "text": "Mobility/Accuracy +25; Armor +200;\ncritical hit chance +25%.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_898be959a6ccfc56": {
+      "text": "Mobility/Accuracy +30; Armor +250;\ncritical hit chance +30%.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_66c7433acc7abbde": {
+      "text": "Mobility +20; 50% evade at Focus\n130+. Barrier cuts all damage by 1000\n(5 EN/use).",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_a7003981df06308e": {
+      "text": "Mobility +20; 50% evade at Focus\n130+. Barrier cuts all damage by 1000\n(5 EN/use). DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_86ff36e59061ab01": {
+      "text": "Mobility +10.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_1bf2c86df1165edc": {
+      "text": "Mobility +10. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_ee51493ad41ac96b": {
+      "text": "Mobility +20.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_6ce8ead23c5bb82a": {
+      "text": "Mobility +20. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_29a16a032431ec8e": {
+      "text": "Mobility/Accuracy +25; Armor +200;\ncritical hit chance +25%.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_1fbfad23894269a9": {
+      "text": "Mobility/Accuracy +25; Armor +200;\ncritical hit chance +25%. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_14dbfbf7269d442e": {
+      "text": "Mobility/Accuracy +30; Armor +250;\ncritical hit chance +30%.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_3ccd45791a965c2d": {
+      "text": "Mobility/Accuracy +30; Armor +250;\ncritical hit chance +30%. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_e3cf2a2516981f47": {
+      "text": "Final damage bonus = missing HP% /\n3. Example: 60% HP lost gives +20%\ndamage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_b775485e8db4e32f": {
+      "text": "Final damage bonus = missing HP% /\n3. Example: 60% HP lost gives +20%\ndamage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_01e2487a2f3fb695": {
+      "text": "Final damage bonus = missing HP% /\n3. Example: 60% HP lost gives +20%\ndamage. DLC only.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_e672a8dd94bff3bc": {
+      "text": "Final damage bonus = missing HP% /\n3. Example: 60% HP lost gives +20%\ndamage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_73ea4bab2fa3d3ce": {
+      "text": "Final damage bonus = missing HP% /\n3. Example: 60% HP lost gives +20%\ndamage.",
+      "status": "imported"
+    },
+    "parts_descriptions.unshipped:r_4f83d06a8f2cf66d": {
+      "text": "Final damage bonus = missing HP% /\n3. Example: 60% HP lost gives +20%\ndamage.",
+      "status": "imported"
+    }
+  }
+}

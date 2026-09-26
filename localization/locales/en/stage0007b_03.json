@@ -1,0 +1,778 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0007b_03:r_caaab7bad760e16d": {
+      "text": "In Town",
+      "status": "imported"
+    },
+    "stage0007b_03:r_99b162aa6aa286a2": {
+      "text": "In Town",
+      "status": "imported"
+    },
+    "stage0007b_03:r_58fb02434a1c40b2": {
+      "text": "In Town",
+      "status": "imported"
+    },
+    "stage0007b_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　　\n　　　　　　　　　～ $$第２新東京市$$, Downtown ～",
+      "status": "imported"
+    },
+    "stage0007b_03:r_1263541f4071624e": {
+      "text": "$$甲児$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_3bc300bbdc277d82": {
+      "text": "$$アルト$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_38762a09460d8b6b": {
+      "text": "$$さやか$$\n「《$$映画『ソレスタルビーイング』$$》...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_7ab28e70b4d4f641": {
+      "text": "$$ミシェル$$\n「More destructive power than I expected...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$スズネ$$\n「What's wrong, everyone?\n　Didn't you enjoy the movie based on you?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_ec335e69f984b8b3": {
+      "text": "$$スズネ$$\n「Celestial Being and $$ＺＥＸＩＳ$$, fighting the\n　$$アロウズ$$ who became evil's pawns...\n　What a thrilling action blockbuster.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_0abcaf0c31978670": {
+      "text": "$$ミシェル$$\n「Well, it's not a documentary,\n　so of course the actors exaggerate some, but...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_1d6bc48b7f246730": {
+      "text": "$$甲児$$\n「Amazing...\n　The Gundam Meisters turned into a hero,\n　a nerd, a cutie, and a power fighter...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_1af20fccc3c53cfc": {
+      "text": "$$ボス$$\n「And on top of it, the $$ダブルオーライザー$$\n　was a full-on Super Robot.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_f951916061232dcd": {
+      "text": "$$甲児$$\n「Mazinger being a 200-meter-tall\n　giant of light did move me a little.\n　Even if it was treated as a mob, though...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_4d863c3fb88a4c39": {
+      "text": "$$アルト$$\n「That's still better off.\n　Since all the robots were guys in suits,\n　the VF-25 only had its Battroid mode...!」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_44f4742c3dcce39a": {
+      "text": "$$ミシェル$$\n「Who'd have thought the fight with\n　the $$アロウズ$$ would become a good-vs-evil hero flick.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_9e701cdeb3842c21": {
+      "text": "$$スズネ$$\n「Heh... Guess those involved aren't satisfied.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_6fd81f4abebe60c5": {
+      "text": "$$スズネ$$\n「But to fully erase the old Earth Federation's\n　bad image from being controlled by the $$アロウズ$$,\n　maybe a simple story like this is needed too.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_da2132b5038ec737": {
+      "text": "$$アルト$$\n「I understand that much myself.\n　But the fighting 《$$ＺＥＸＩＳ$$》 did\n　wasn't anything like that.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_495d61d3ec7e16f2": {
+      "text": "$$甲児$$\n「That's right.\n　Besides, there were way more members than that...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_5cd353758cfe474d": {
+      "text": "$$甲児$$\n「Ngh...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_a653c8dec4c0f06f": {
+      "text": "$$アルト$$\n「Ugh...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_86d493e37a9799a7": {
+      "text": "$$スズネ$$\n「What's wrong, you two!?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_09d0fcc600cdd3df": {
+      "text": "$$甲児$$\n「I'm fine...\n　Just had a bit of a headache...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_182faded068c15ed": {
+      "text": "$$アルト$$\n「Me too...\n　Maybe it's the theater air getting to me.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_9c206d19bfda4bd5": {
+      "text": "$$さやか$$\n「Everyone but us was so excited.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_6e558bc69acf5bf3": {
+      "text": "$$スズネ$$\n「True...\n　I wonder if that group over there saw the movie too.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_d60d0818e965232f": {
+      "text": "$$甲児$$\n「Is that...!?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_5b23687574286204": {
+      "text": "$$タクヤ$$\n「The 《$$ＡＤＷ$$》 Gundam's amazing too!\n　The Gundam myth crosses parallel worlds!」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_6fd86c96891ea942": {
+      "text": "$$ミコット$$\n「You're way too excited, $$タクヤ$$.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_43e4e548c0b28376": {
+      "text": "$$タクヤ$$\n「How could anyone not get excited!\n　I'm gonna become an Anaheim test pilot for sure\n　and ride a new-model Gundam!」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_d80a9688790ed583": {
+      "text": "$$タクヤ$$\n「No real man could watch that and not get fired up!\n　Right, $$沙慈$$?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_708bea61e3c43ada": {
+      "text": "$$沙慈$$\n「Ah... yeah...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_7b6f159eeaf4de0f": {
+      "text": "$$ミコット$$\n「What's wrong, $$沙慈$$?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_0827963cfd706e8d": {
+      "text": "$$沙慈$$\n「No... it's nothing...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$沙慈$$\n（I can't tell them...\n　that I was a $$ＺＥＸＩＳ$$ member too...）",
+      "status": "imported"
+    },
+    "stage0007b_03:r_3f4035fd9db81258": {
+      "text": "$$沙慈$$\n（Though I didn't appear in that movie...）",
+      "status": "imported"
+    },
+    "stage0007b_03:r_567b361a454c4b73": {
+      "text": "$$バナージ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_d22851aaafbbf8fc": {
+      "text": "$$ミコット$$\n「You're gloomy too, $$バナージ$$.\n　It's our day off, so let's enjoy it more.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_352534f64413d954": {
+      "text": "$$バナージ$$\n「I am enjoying it.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_79f2664edb1af798": {
+      "text": "$$タクヤ$$\n「Then smile.\n　It's a fun, thrilling entertainment movie.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$バナージ$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_1c5aa0d15ae24846": {
+      "text": "$$沙慈$$\n「Maybe you're just not used to gravity yet?\n　It's only been about a month since you got to Earth.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_53bb64ee17750ee2": {
+      "text": "$$甲児$$\n「$$沙慈$$!\n　It is you, $$沙慈$$!」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_7a7add80fde475ba": {
+      "text": "$$沙慈$$\n「Hey, $$甲児$$.\n　I saw Mazinger the other day,\n　so I figured we'd meet again someday.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_b2befefdbed1393d": {
+      "text": "$n\n「You know that guy?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_2103f6df2ea2e447": {
+      "text": "$$ミシェル$$\n「That's $$沙慈・クロスロード$$.\n　We fought together in 《$$ＺＥＸＩＳ$$》.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_a12e3e130d896ff7": {
+      "text": "$n\n「Will you invite him to the Academy Defense Force too?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_b6f7b219eb4bd64b": {
+      "text": "$$ミシェル$$\n「No, not likely.\n　$$沙慈$$ just got swept up in things\n　and ended up fighting almost by accident.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_91bf33c27ad39f0a": {
+      "text": "$$ミシェル$$\n「Besides, more than anything,\n　he's chasing his own dream now.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_ee220318b96ab538": {
+      "text": "$n\n「A dream...?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_ce1b55e526b6277a": {
+      "text": "$$甲児$$\n「So why are you here, anyway?\n　How's $$ルイス$$ doing?\n　Still studying aerospace engineering?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_c304df6888eb78f7": {
+      "text": "$$沙慈$$\n「I'll answer in order.\n　After the $$再世戦争$$, I went back\n　to 《$$アッシュフォード学園$$》...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_c26958634526e597": {
+      "text": "$$沙慈$$\n「After that, I transferred to Anaheim's\n　technical college for hands-on training.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_cdb750c9d380881a": {
+      "text": "$$さやか$$\n「Anaheim... you mean\n　the one tied to Anaheim Electronics?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_95fda74613c97b39": {
+      "text": "$$沙慈$$\n「That's right.\n　The main campus is in space, but I'm at\n　the branch here in $$第２新東京市$$.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_1956994937f8171e": {
+      "text": "$$アルト$$\n「So you're studying in the same city as us.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_48f49f6728c15612": {
+      "text": "$$沙慈$$\n「I came out here today\n　to visit $$ルイス$$ in the hospital.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$沙慈$$\n「$$ルイス$$ is in a hospital downtown.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_f02c37d91387d0ad": {
+      "text": "$$さやか$$\n「Is she still... not doing well?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$沙慈$$\n「She's gotten a lot better.\n　But she still gets headaches sometimes.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_9796b3efa401a303": {
+      "text": "$$タクヤ$$\n「...These folks friends of yours, $$沙慈$$?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_643b6eebfc0186b3": {
+      "text": "$$沙慈$$\n「Friends from before I came to Anaheim.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_291280e5f7eb9d70": {
+      "text": "$$沙慈$$\n「Let me introduce you to $$甲児$$ and the others.\n　They're my classmates at Anaheim...\n　Though I'm older than the rest of them.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_32eb462c1b4999cb": {
+      "text": "$$タクヤ$$\n「I'm $$タクヤ・イレイ$$.\n　Nice to meet you.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_1f4337d6d393fc37": {
+      "text": "$$ミコット$$\n「I'm $$ミコット・バーチ$$.\n　I'm at Anaheim Tech too, with $$沙慈$$.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_4740e748fae085ee": {
+      "text": "$$バナージ$$\n「I'm $$バナージ・リンクス$$.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_b76524cd840e1d37": {
+      "text": "$$タクヤ$$\n「You're so stiff, $$バナージ$$.\n　You nervous or something?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_730ffe18400abfc2": {
+      "text": "$$バナージ$$\n「That's not it, but...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_ffe0fca26da5cd38": {
+      "text": "$$甲児$$\n「You feeling sick?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_bfb27f9eb2f7073e": {
+      "text": "$$沙慈$$\n「$$バナージ$$ and the others came from the\n　colony Industrial 7 to $$第２新東京市$$ on a\n　short exchange. Natural gravity's new to them.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_859dfa27bcaafe30": {
+      "text": "$$ミコット$$\n「But I like $$第２新東京市$$.\n　It's pretty, and there are lots of people our age.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_71ebf05996a4b0fd": {
+      "text": "$$スズネ$$\n「You're students at Anaheim Tech, right?\n　You could've just joined today's\n　hiking trip, you know.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_6214c11b1bca811e": {
+      "text": "$$タクヤ$$\n「At our age, hiking's kind of a hard sell...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_8eaf6f3098ffed12": {
+      "text": "$$ミコット$$\n「So after coming along to visit $$沙慈$$,\n　we decided to go see a movie, just us.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_cf507214fe955d75": {
+      "text": "$$タクヤ$$\n「We're... heading to 《$$ふもふもランド$$》 after this.\n　Want to come along, if you're free?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_2113dcbabdfc758a": {
+      "text": "$$甲児$$\n「$$ふもふもランド$$?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$スズネ$$\n「It's an amusement park at the edge of\n　$$第２新東京市$$. Its mascot $$ボン太くん#robot$$'s\n　apparently having a quiet boom right now.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_6a74519e1fc29c4b": {
+      "text": "$$アルト$$\n「Isn't that even more childish than hiking?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_5b992878fee054b5": {
+      "text": "$$タクヤ$$\n「But I hear it's a popular date spot too.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$アルト$$\n「What was that sound just now!?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_4a14ec0c511c7f0d": {
+      "text": "$$甲児$$\n「Sounded like an explosion...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_20cf167c0ec0d4d5": {
+      "text": "$$さやか$$\n「A news bulletin just came in!\n　Looks like terrorists have shown up again!」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_b591d812c96c6c99": {
+      "text": "$$ミシェル$$\n「Tch... Seems our excuse to skip hiking\n　turned into a real incident.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_e350fa099c1ab072": {
+      "text": "$$ミコット$$\n「W-what do we do...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$タクヤ$$\n「What do we do, she says...!\n　We just gotta run, obviously!」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_c33bd700553abf91": {
+      "text": "$$スズネ$$\n「$n...!」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_feee5c91826230e1": {
+      "text": "$n\n「I know.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_bccc48e1964ad22d": {
+      "text": "$$甲児$$\n「$$沙慈$$!\n　We'll go check the situation!\n　You get your friends and run!」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_f8736aaaa216c766": {
+      "text": "$$沙慈$$\n「Got it!\n　You guys be careful too!」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_d1ec2522c87c361d": {
+      "text": "$$甲児$$\n「Yeah, leave this to us!」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_3599f0a4343fd95c": {
+      "text": "$$ネェル・アーガマ$$ Briefing Room",
+      "status": "imported"
+    },
+    "stage0007b_03:r_3bc7834a5bf3ee76": {
+      "text": "$$ネェル・アーガマ$$ Briefing Room",
+      "status": "imported"
+    },
+    "stage0007b_03:r_366814efdc8b5800": {
+      "text": "$$ネェル・アーガマ$$ Briefing Room",
+      "status": "imported"
+    },
+    "stage0007b_03:r_9be1a4c10bb62515": {
+      "text": "　\n　\n　　　　～ $$ネェル・アーガマ$$ Briefing Room ～",
+      "status": "imported"
+    },
+    "stage0007b_03:r_94a88c90e557e16e": {
+      "text": "$$オットー$$\n「Welcome to the $$ネェル・アーガマ$$.\n　I'm her captain, Colonel $$オットー・ミタス$$.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_1c208ca0cbf26f28": {
+      "text": "$$ジェフリー$$\n「I'm Colonel $$ジェフリー・ワイルダー$$, captain of\n　the Macross Quarter. This is Major\n　$$オズマ・リー$$, the strike force leader.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_5b7ee307a700171a": {
+      "text": "$$オットー$$\n「Now, let me introduce another staff member.\n　This is our XO, Lt. Colonel $$レイアム・ボーリンネア$$.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_8d8f065c932da30a": {
+      "text": "$$レイアム$$\n「Pleased to meet you.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_f5432119677514f7": {
+      "text": "$$オットー$$\n「And this is Echoes' $$ダグザ・マックール$$, Lt. Colonel,\n　and his adjutant, Major $$コンロイ・ハーゲンセン$$.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_4e5c8e989c4a7691": {
+      "text": "$$ジェフリー$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_adec86483b13599a": {
+      "text": "$$オズマ$$\n（So this is the Echoes, the so-called\n　Man $$ハンター$$...）",
+      "status": "imported"
+    },
+    "stage0007b_03:r_2cf701bbcde3ec13": {
+      "text": "$$ダグザ$$\n「Pleased to meet you, Colonel $$ジェフリー$$.\n　I've heard the rumors about the Frontier\n　fleet's $$Ｓ．Ｍ．Ｓ$$ myself.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_c17c58fdba72005e": {
+      "text": "$$ジェフリー$$\n「I've heard of Echoes' exploits as well.\n　And with you both aboard, I think I understand\n　this ship's mission well enough now.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_1fe8564d2b959317": {
+      "text": "$$コンロイ$$\n「Man $$ハンター$$...\n　So you already knew of our primary mission...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_f527e012803f7f1c": {
+      "text": "$$オットー$$\n「Then this will go quickly.\n　As you guessed, Colonel, Londo Bell's main duty\n　lately is investigating Neo Zeon's suspicious moves.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_4b1247bd3ca4905d": {
+      "text": "$$オットー$$\n「Under the command of Colonel $$ブライト・ノア$$,\n　our ships operate both on Earth and in space.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_00c55e25f87b71d0": {
+      "text": "$$ジェフリー$$\n「And you're here to investigate\n　operations within the atmosphere?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_338f3b27e51dcc41": {
+      "text": "$$ダグザ$$\n「That's correct.\n　We were recently tracking a mobile suit unit\n　that appeared to be Neo Zeon, descending to Earth.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_d91d4bc2d52b61c4": {
+      "text": "Station",
+      "status": "imported"
+    },
+    "stage0007b_03:r_0c8ea89b07432421": {
+      "text": "Station",
+      "status": "imported"
+    },
+    "stage0007b_03:r_4dbfba00ba7744ee": {
+      "text": "Station",
+      "status": "imported"
+    },
+    "stage0007b_03:r_be100a32b731708d": {
+      "text": "　\n　　\n　　　　　～ $$第２新東京市$$, Shopping District ～",
+      "status": "imported"
+    },
+    "stage0007b_03:r_702f82442fcec8a9": {
+      "text": "$$かなめ$$\n「...Sagara, you snuck off from the hike...\n　where on earth did you go?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_b1e38da4e8775ffe": {
+      "text": "$$宗介$$\n「Chidori...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$かなめ$$\n「And Kabuto, Saotome, $$ミシェル$$,\n　$$ボス$$, $$ヌケ$$, $$ムチャ$$, $$さやか$$!\n　And you, $l...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$かなめ$$\n「Skipping out on a hike everyone\n　was supposed to join, what's the deal?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_3dad695c99e9e052": {
+      "text": "$$甲児$$\n「T-there's a good reason for this...\n　Right, $$アルト$$?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_66d4ae3a21caf881": {
+      "text": "$$アルト$$\n「Y-yeah, that's right.\n　Isn't it, $n?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_0c18da7b3a37825d": {
+      "text": "$n\n「Huh... me...?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_63249745ffae61b6": {
+      "text": "$$かなめ$$\n「And another thing, $l!\n　Since you weren't there, Sagara went\n　completely out of control!」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_abdb034ae8509702": {
+      "text": "$$かなめ$$\n「He put on some weird camo outfit\n　and went sprinting all over the place,\n　then started setting traps everywhere...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_3ff2e21207d1d1d3": {
+      "text": "$$かなめ$$\n「What should've been a fun outing\n　turned into an obstacle course in no time!」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_e51ecf6d6aa42e75": {
+      "text": "$n\n「That's... rough, huh...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_47ddabb7b60131c2": {
+      "text": "$$宗介$$\n「No problem.\n　I was only trying to secure everyone's safety.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_b025267f22788233": {
+      "text": "$$かなめ$$\n「That's why you're the biggest danger here!」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_ec1a06a7023bf72c": {
+      "text": "$$スズネ$$\n「That's enough, Chidori.\n　Everyone just transferred in, so they were\n　exploring $$第２新東京市$$ to get used to the city.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_8805f96e52aaa462": {
+      "text": "$$かなめ$$\n「If that's what it was, you should've said so.\n　I could've shown them around.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_124591cb154fae64": {
+      "text": "$$スズネ$$\n「Well, that's, um...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$スズネ$$\n「Right!\n　They didn't want to trouble you, since you\n　were so fired up about the hike...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_4bf9b05b5f948170": {
+      "text": "$$かなめ$$\n「Really?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_eaa52d152f444bfd": {
+      "text": "$$甲児$$\n「Ah, yeah...\n　Right, $$アルト$$?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_b4bc9e9435b58e6f": {
+      "text": "$$アルト$$\n「O-of course that's it.\n　Right, $n?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_a9227573166977a9": {
+      "text": "$n\n「Me again...!?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_b0600ab9a9e8559d": {
+      "text": "$$かなめ$$\n「...Well, fine.\n　Miss $$スズネ$$ was with you this time,\n　so it's not really my place to say anything.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_7cbc63dad295f862": {
+      "text": "$$かなめ$$\n「But if you pull something like this again,\n　I've got some ideas of my own about it!\n　Got it, Sagara!?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_07f53c816e0a51f5": {
+      "text": "$$宗介$$\n「...Understood.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_2d09c6f6a2d990ea": {
+      "text": "$$スズネ$$\n（Heh... Sagara's surprisingly good at\n　balancing school life with his $$ミスリル$$ work.）",
+      "status": "imported"
+    },
+    "stage0007b_03:r_3c5fcfc484a51913": {
+      "text": "Station",
+      "status": "imported"
+    },
+    "stage0007b_03:r_0476ffd10c764b0e": {
+      "text": "Station",
+      "status": "imported"
+    },
+    "stage0007b_03:r_48c6c1ecfea6fe4a": {
+      "text": "Station",
+      "status": "imported"
+    },
+    "stage0007b_03:r_2b3479c4cf0680f4": {
+      "text": "　\n　\n　　　　　　～ $$第２新東京市$$, Academy Block Station ～",
+      "status": "imported"
+    },
+    "stage0007b_03:r_e370696b8936b08c": {
+      "text": "$$タクヤ$$\n「...Today was rough, wasn't it, $$沙慈$$?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_9d7b02c5e728b7aa": {
+      "text": "$$沙慈$$\n「Yeah.\n　But I'm glad everyone's safe.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_9af213fc64e0afec": {
+      "text": "$$ミコット$$\n「I... kind of see $$沙慈$$ in a new light now.\n　Staying calm and level-headed even at\n　a time like that, that's impressive.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_d7f1c506e78e55ff": {
+      "text": "$$沙慈$$\n「I'm just a little older than everyone else.\n　That much was nothing...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_0c705091f748360e": {
+      "text": "$$沙慈$$\n（$$甲児$$ and $$アルト$$ are fighting for peace...\n　I have to work hard too, so I don't lose to them...）",
+      "status": "imported"
+    },
+    "stage0007b_03:r_9eb8599304125b2f": {
+      "text": "$$タクヤ$$\n「But I never thought I'd see the newest\n　TMS, the $$リゼル$$, in actual combat.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_a072aa25e5f521e0": {
+      "text": "$$タクヤ$$\n「Word is it's still in field trials.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_24e1a808a1609a1a": {
+      "text": "$$沙慈$$\n「You really know your stuff, $$タクヤ$$.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_53128ce8f154fd06": {
+      "text": "$$タクヤ$$\n「Of course I do.\n　My dream's to become a test pilot or\n　mechanic at Anaheim someday.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_03b5db9ce98fb8d6": {
+      "text": "$$バナージ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_3915fb4102f1c1dd": {
+      "text": "$$ミコット$$\n「$$バナージ$$, are you tired?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_817b2773b4ed563e": {
+      "text": "$$バナージ$$\n「It's not that, but...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_1cc233cbc8c80af7": {
+      "text": "$$バナージ$$\n（That strange feeling I had while evacuating...\n　What in the world was that...）",
+      "status": "imported"
+    },
+    "stage0007b_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$$バナージ$$\n（It was like someone was calling out to me...）",
+      "status": "imported"
+    },
+    "stage0007b_03:r_e180b22d18f48d38": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0007b_03:r_e598c2a0b27e7f50": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0007b_03:r_4d2a9066c4e7b27f": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0007b_03:r_10340119af3ed6db": {
+      "text": "$$ＡＧ$$\n「...My, my, Master $$カミーユ$$...\n　that sortie was quite the ordeal, wasn't it?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_23a9c7ab620ab112": {
+      "text": "$$カミーユ$$\n「So you're $$ＡＧ$$...\n　$$ルカ$$ told me about you, but you're quite the robot.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_4f0aca6deda07883": {
+      "text": "$$ＡＧ$$\n「Oh, no, no... I'm nothing special,\n　just a Z-chip miser with profit on the brain.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_8fe40600ce62dfbc": {
+      "text": "$$ＡＧ$$\n「Still, that pilot $$ギュネイ$$'s rivalry with\n　you, Master $$カミーユ$$, it made for fine Z-chips.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_ff4ce5f3cf96b617": {
+      "text": "$$ＡＧ$$\n「Worth a whopping 100 Z!\n　I'll just add that to the stock.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_d73c21f119847e35": {
+      "text": "$$カミーユ$$\n「So that's how Z-chips are generated...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_89766f5ffaa912d4": {
+      "text": "$$ＡＧ$$\n「But please be careful.\n　That man is sure to come after you again,\n　Master $$カミーユ$$, given the chance.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$カミーユ$$\n「Thanks.\n　But I don't plan on going down easily either.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_451f726d4299ea35": {
+      "text": "$$ＡＧ$$\n「That's the spirit.\n　I'll be looking forward to more\n　wonderful Z-chips from you.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_e3d111e8bb190cb1": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0007b_03:r_7c0d3c51f9a11ca0": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0007b_03:r_ab97c2b2418ea732": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0007b_03:r_2ddff5064af78db4": {
+      "text": "　\n　　\n　　　　　　　　　　　～ D-Trader ～",
+      "status": "imported"
+    },
+    "stage0007b_03:r_050d0532c4b24bfe": {
+      "text": "$$ＡＧ$$\n「Oh my, Miss $$スズネ$$... nice work\n　on your first sortie.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_d583fcea31bdad2e": {
+      "text": "$$スズネ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_475f7653621a91b5": {
+      "text": "$$ＡＧ$$\n「What seems to be the matter?\n　You look awfully upset, was $n's\n　attitude bad again, perhaps?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_f228ae702350849b": {
+      "text": "$$スズネ$$\n「Mr. $$ＡＧ$$!\n　What is with that outfit!?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_d69dc027cba3003f": {
+      "text": "$$ＡＧ$$\n「Which outfit would that be...?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_3c3735172a480b72": {
+      "text": "$$スズネ$$\n「The battle suit from when I boarded the $$ジェニオン$$!」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_1f418b5594cea300": {
+      "text": "$$ＡＧ$$\n「Ah, that one.\n　That outfit is a manifestation of the\n　pilot's own inner heart.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_f87fb889124bfaef": {
+      "text": "$$スズネ$$\n「My inner heart...?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_79c90de32a79212d": {
+      "text": "$$ＡＧ$$\n「Yes.\n　So because $n wished to grow stronger,\n　the style turned out combat-oriented.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_33f7fd55913419e8": {
+      "text": "$$ＡＧ$$\n「Of course, whatever the style,\n　a protective skin and exoskeleton\n　keep the pilot perfectly safe.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_473d9a88b4ca96e7": {
+      "text": "$$スズネ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_4de6ac85c63bac12": {
+      "text": "$$ＡＧ$$\n「By the way, we're also holding onto\n　your glasses temporarily.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_4c92652c9b1adf6f": {
+      "text": "$$ＡＧ$$\n「We warp the space in front of your eyes\n　to serve as a lens, so it shouldn't\n　cause any trouble.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_ce90563a934d49fb": {
+      "text": "$$スズネ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_4fb296e63cb1fb46": {
+      "text": "$$ＡＧ$$\n「...The human heart, well,\n　it's a bit odd for me to say so myself,\n　but it truly is a complicated thing...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_6d77e72dbbcd7dfe": {
+      "text": "$$ＡＧ$$\n「Even a lady who seems pure on the surface\n　might, underneath, be a bundle of desire...\n　a blood-hungry beast, in some cases.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_9dc59affd40f32fc": {
+      "text": "$$スズネ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_0cea115be526a319": {
+      "text": "$$ＡＧ$$\n「So then, Miss $$スズネ$$,\n　just what kind of suit did you end up with?」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_d36072babd12aeb4": {
+      "text": "$$スズネ$$\n「N-no... it's nothing.\n　I-I was just... a little startled, that's all...」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_09ee921a85025fd3": {
+      "text": "$$ＡＧ$$\n「Is that so.\n　Well then, please continue to favor\n　$$ＤＥＭ$$ Corporation going forward.」",
+      "status": "imported"
+    },
+    "stage0007b_03:r_fae689f2a1057b61": {
+      "text": "$$ＡＧ$$\n「Now then, let's get to it, business, business!」",
+      "status": "imported"
+    }
+  }
+}

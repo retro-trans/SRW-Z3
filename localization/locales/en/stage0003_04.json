@@ -1,0 +1,470 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0003_04:r_caaab7bad760e16d": {
+      "text": "$$マオ$$\n「All teams, in position.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_99b162aa6aa286a2": {
+      "text": "$$オズマ$$\n「Let's confirm the teams again.\n　Team 1 is me and $$カナリア$$...」",
+      "status": "imported"
+    },
+    "stage0003_04:r_58fb02434a1c40b2": {
+      "text": "$$オズマ$$\n「Team 2 is Master Sergeant $$マオ$$ and $$ルカ$$.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_1c0f94acd5a8a143": {
+      "text": "$$マオ$$\n「So we're the EW combo, huh.\n　I'm counting on you, $$ルカ$$.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_1263541f4071624e": {
+      "text": "$$ルカ$$\n「I'll do my best, Vice Captain.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_3bc300bbdc277d82": {
+      "text": "$$オズマ$$\n「Team 3 is $$ミシェル$$ and $$クラン$$.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_38762a09460d8b6b": {
+      "text": "$$ミシェル$$\n「Same old combo as always, but\n　let's do this, $$クラン$$.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_7ab28e70b4d4f641": {
+      "text": "$$クラン$$\n「Oh, uh... likewise!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$カナリア$$\n（Heh... quite the thoughtful call, for $$オズマ$$.）",
+      "status": "imported"
+    },
+    "stage0003_04:r_ec335e69f984b8b3": {
+      "text": "$$オズマ$$\n「Team 4 is $n and $$クルツ$$.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_0abcaf0c31978670": {
+      "text": "$$クルツ$$\n「Just when I'd shaken off one silent type,\n　here comes another...」",
+      "status": "imported"
+    },
+    "stage0003_04:r_1d6bc48b7f246730": {
+      "text": "$n\n「...sorry, Sergeant $$クルツ$$.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_1af20fccc3c53cfc": {
+      "text": "$$クルツ$$\n「Nothing to apologize for.\n　Well... I'm a sniper, so I'll take assist.\n　You handle forward.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_f951916061232dcd": {
+      "text": "$n\n「Yes.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_4d863c3fb88a4c39": {
+      "text": "$$クルツ$$\n（Quiet's quiet, but\n　this one's just too tense in the shoulders...）",
+      "status": "imported"
+    },
+    "stage0003_04:r_44f4742c3dcce39a": {
+      "text": "$$オズマ$$\n「Last, team 5.\n　$$アルト$$ and $$宗介$$.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_9e701cdeb3842c21": {
+      "text": "$$アルト$$\n「Captain, a ground-type AS and a VF-25 fight differently.\n　This pairing isn't efficient.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_6fd81f4abebe60c5": {
+      "text": "$$マオ$$\n「Quit your bellyaching.\n　By that logic, me and $$ルカ$$ are the same.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_da2132b5038ec737": {
+      "text": "$$ルカ$$\n「True, if you pair an air-type with a ground-type,\n　the air-type ends up fighting near the surface,\n　so it can't perform at its best.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_495d61d3ec7e16f2": {
+      "text": "$n\n（I see...\n　so fighting without adapting to the terrain\n　is dangerous, is that it...）",
+      "status": "imported"
+    },
+    "stage0003_04:r_5cd353758cfe474d": {
+      "text": "$$ルカ$$\n「But, $$アルト$$...\n　transforming to Battroid improves ground adaptation,\n　so that solves the problem.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_a653c8dec4c0f06f": {
+      "text": "$$アルト$$\n「That's not the point.\n　I'm saying we should seek more efficient tactics...」",
+      "status": "imported"
+    },
+    "stage0003_04:r_86d493e37a9799a7": {
+      "text": "$$オズマ$$\n「I'm not taking questions.\n　Show me the best result you can in this situation.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_09d0fcc600cdd3df": {
+      "text": "$$アルト$$\n「Ngh...!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_182faded068c15ed": {
+      "text": "$$宗介$$\n「$$ウルズ$$ 7, understood.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_9c206d19bfda4bd5": {
+      "text": "$$クラン$$\n「That $$アルト$$ guy...\n　really seems to dislike $$ＳＲＴ$$... especially\n　that $$ウルズ$$ 7, of all people.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_6e558bc69acf5bf3": {
+      "text": "$$ミシェル$$\n「Knowing him,\n　he probably can't figure out what that $$宗介$$\n　guy's thinking, and it's driving him crazy.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_d60d0818e965232f": {
+      "text": "$$ミシェル$$\n「As always, once he's set his mind on something,\n　the guy just won't bend.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_5b23687574286204": {
+      "text": "$$オズマ$$\n「$$キャシー$$, bring up the targets.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_6fd86c96891ea942": {
+      "text": "$$クルツ$$\n「Targets are the M6 drones, huh.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_43e4e548c0b28376": {
+      "text": "$$ミシェル$$\n「An opponent this weak, I could solo it.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_d80a9688790ed583": {
+      "text": "$$マオ$$\n「Don't get the wrong idea.\n　This drill's about preparing for what's ahead.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_708bea61e3c43ada": {
+      "text": "$$オズマ$$\n「That's right.\n　Each team, know your roles, forward and assist...\n　and choose what's best for the team.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_7b6f159eeaf4de0f": {
+      "text": "$$オズマ$$\n「Teaming up on the battlefield\n　means trusting someone to watch your back.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_0827963cfd706e8d": {
+      "text": "$$アルト$$\n「As a team...」",
+      "status": "imported"
+    },
+    "stage0003_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$n\n「Trusting someone with your back...」",
+      "status": "imported"
+    },
+    "stage0003_04:r_3f4035fd9db81258": {
+      "text": "$$オズマ$$\n「Right, let's begin the drill.\n　Each team, attack the target drones.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_567b361a454c4b73": {
+      "text": "$$オズマ$$\n「How was it, $$アルト$$?\n　Did you get anything out of it?」",
+      "status": "imported"
+    },
+    "stage0003_04:r_d22851aaafbbf8fc": {
+      "text": "$$アルト$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0003_04:r_352534f64413d954": {
+      "text": "$$オズマ$$\n「We're soldiers.\n　Fight together, and you learn to understand each other.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_79f2664edb1af798": {
+      "text": "$$オズマ$$\n「More so once you're trusting each other's backs.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0003_04:r_1c5aa0d15ae24846": {
+      "text": "$$アルト$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0003_04:r_53bb64ee17750ee2": {
+      "text": "$$正太郎$$\n「Can you hear me, Captain $$オズマ$$!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_7a7add80fde475ba": {
+      "text": "$$オズマ$$\n「$$正太郎$$!\n　What happened!?」",
+      "status": "imported"
+    },
+    "stage0003_04:r_b2befefdbed1393d": {
+      "text": "$$正太郎$$\n「An unidentified unit is headed your way right now!\n　I think they're probably allies of the ones\n　who attacked $$第２新東京市$$ before!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_2103f6df2ea2e447": {
+      "text": "$$オズマ$$\n「They went out of their way to hit us here...!?」",
+      "status": "imported"
+    },
+    "stage0003_04:r_a12e3e130d896ff7": {
+      "text": "$$ルカ$$\n「Captain! They're coming!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_b6f7b219eb4bd64b": {
+      "text": "$$マオ$$\n「Tch...!\n　Looks like we're taking a surprise attack!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_91bf33c27ad39f0a": {
+      "text": "$$宗介$$\n「We strike before they're ready...!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_ee220318b96ab538": {
+      "text": "$$アルト$$\n「Leave the assist to me!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_ce1b55e526b6277a": {
+      "text": "$$ミシェル$$\n「Nice work, you two!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_c304df6888eb78f7": {
+      "text": "$$マオ$$\n「$$ＳＲＴ$$ and $$Ｓ．Ｍ．Ｓ$$'s proudest top duo.\n　Of course that's how it turns out.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_c26958634526e597": {
+      "text": "$$オズマ$$\n「$$アルト$$ and $$宗介$$ are both trained soldiers.\n　When it counts, petty feelings get pushed aside\n　and the body just moves on its own.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_cdb750c9d380881a": {
+      "text": "$$オズマ$$\n「They probably realized they're two of a kind now.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_95fda74613c97b39": {
+      "text": "$n\n「...amazing...」",
+      "status": "imported"
+    },
+    "stage0003_04:r_1956994937f8171e": {
+      "text": "$$クルツ$$\n「What're you so surprised for, $n?\n　You want to be like that too, don't you?」",
+      "status": "imported"
+    },
+    "stage0003_04:r_48f49f6728c15612": {
+      "text": "$$クルツ$$\n「Not that the silent type needs to learn from $$宗介$$.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$n\n「Yes...!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_f02c37d91387d0ad": {
+      "text": "$$クルツ$$\n「All right, good answer.\n　Then I'm counting on you for forward.\n　Can't let those two show us up!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$アルト$$\n「Heh... my body moved on its own.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_9796b3efa401a303": {
+      "text": "$$宗介$$\n「Same here.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_643b6eebfc0186b3": {
+      "text": "$$アルト$$\n「From here on, it's the real fight.\n　I'm counting on you, $$宗介$$.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_291280e5f7eb9d70": {
+      "text": "$$宗介$$\n「$$ウルズ$$ 7, understood.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_32eb462c1b4999cb": {
+      "text": "$$ルカ$$\n「$$正太郎$$'s here too!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_1f4337d6d393fc37": {
+      "text": "$$正太郎$$\n「We'll cover you from here too, Captain $$オズマ$$!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_4740e748fae085ee": {
+      "text": "$$オズマ$$\n「All right...!\n　Skull Leader to all units!\n　Let's make those fools pay for starting this!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_b76524cd840e1d37": {
+      "text": "$$アルト$$\n「Roger!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_730ffe18400abfc2": {
+      "text": "$$モニカ$$\n「Confirmed, the enemy force is wiped out.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_ffe0fca26da5cd38": {
+      "text": "$$ラム$$\n「Still, these are strange enemies.\n　Attacking a city last time, now hitting us instead.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_bfb27f9eb2f7073e": {
+      "text": "$$ミーナ#120$$\n「So they've decided we're an obstacle to them?」",
+      "status": "imported"
+    },
+    "stage0003_04:r_859dfa27bcaafe30": {
+      "text": "$$ジェフリー$$\n「But even so,\n　the force they sent is awfully small.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_71ebf05996a4b0fd": {
+      "text": "$$キャシー$$\n「Could it have been reconnaissance?」",
+      "status": "imported"
+    },
+    "stage0003_04:r_6214c11b1bca811e": {
+      "text": "$$ジェフリー$$\n「If so, the question's when they'll hit for real...」",
+      "status": "imported"
+    },
+    "stage0003_04:r_8eaf6f3098ffed12": {
+      "text": "???\n「That wraps up the combat analysis...\n　Troublesome bunch, though.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_cf507214fe955d75": {
+      "text": "???\n「Better to time our strike right\n　than mass a force to fight them head-on...」",
+      "status": "imported"
+    },
+    "stage0003_04:r_2113dcbabdfc758a": {
+      "text": "$$オズマ$$\n「When a team's two units work together,\n　attacks like this become possible.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$オズマ$$\n「Each team, cover one another\n　and do what's best for the team.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_6a74519e1fc29c4b": {
+      "text": "$$オズマ$$\n「When a team's two units work together,\n　attacks like that become possible.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_5b992878fee054b5": {
+      "text": "$$オズマ$$\n「Each team, cover one another\n　and do what's best for the team.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$カナリア$$\n「Do you think $$アルト$$ will realize it from this drill?」",
+      "status": "imported"
+    },
+    "stage0003_04:r_4a14ec0c511c7f0d": {
+      "text": "$$オズマ$$\n「If he can't manage that, he's still got a ways to go.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_20cf167c0ec0d4d5": {
+      "text": "$$カナリア$$\n「Heh... whatever you say,\n　you do think highly of $$アルト$$.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_b591d812c96c6c99": {
+      "text": "$$オズマ$$\n「Who knows...!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_e350fa099c1ab072": {
+      "text": "$$マオ$$\n「Really, pairing up two EW specialists\n　is kind of a waste, honestly.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ルカ$$\n「Since this is a drill though,\n　I'll get to learn $$ミスリル$$'s ways up close.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_c33bd700553abf91": {
+      "text": "$$マオ$$\n「Heh... $$ルカ$$'s such a good kid.\n　A certain perv and a certain stone-face\n　could learn a thing or two from him.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_feee5c91826230e1": {
+      "text": "$$ルカ$$\n「Uh... well...」",
+      "status": "imported"
+    },
+    "stage0003_04:r_bccc48e1964ad22d": {
+      "text": "$$マオ$$\n「Then big sis $$マオ$$ and the young master\n　are going in with a combo attack!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_f8736aaaa216c766": {
+      "text": "$$ミシェル$$\n「Me and $$クラン$$ don't even need to drill...\n　we're already perfectly in sync.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_d1ec2522c87c361d": {
+      "text": "$$クラン$$\n「Yeah! Yeah!!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_3599f0a4343fd95c": {
+      "text": "$$ミシェル$$\n「If I had my way, I'd have paired with Boss $$マオ$$...」",
+      "status": "imported"
+    },
+    "stage0003_04:r_3bc7834a5bf3ee76": {
+      "text": "$$クラン$$\n「You never learn, do you...!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_366814efdc8b5800": {
+      "text": "$$ミシェル$$\n「Oops, drill or not, if I don't take this seriously\n　the Captain's gonna blow his top...!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_9be1a4c10bb62515": {
+      "text": "$$ミシェル$$\n「All right, let's go, $$クラン$$!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_94a88c90e557e16e": {
+      "text": "$$クラン$$\n「Right! Let's show everyone\n　me and $$ミシェル$$'s combination attack!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_1c208ca0cbf26f28": {
+      "text": "$$クルツ$$\n「You're getting jerked around by the $$ジェニオン$$, $n!\n　Skittering around like that's just in the way!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_5b7ee307a700171a": {
+      "text": "$n\n「But...!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_8d8f065c932da30a": {
+      "text": "$$クルツ$$\n（All fired up with nowhere to put it.\n　This one might need someone to hold the reins...）",
+      "status": "imported"
+    },
+    "stage0003_04:r_f5432119677514f7": {
+      "text": "$$アルト$$\n「...why, of all things, am I paired with this guy...」",
+      "status": "imported"
+    },
+    "stage0003_04:r_4e5c8e989c4a7691": {
+      "text": "$$宗介$$\n「Don't waste breath talking in combat.\n　You'll die.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_adec86483b13599a": {
+      "text": "$$アルト$$\n「Like I'd die over a drill!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_2cf701bbcde3ec13": {
+      "text": "$$宗介$$\n「A man who can't go full effort in a drill\n　cannot go full effort on the battlefield.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_c17c58fdba72005e": {
+      "text": "$$アルト$$\n「Fine, exactly as you say!\n　Then I'll show you my full effort!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_1fe8564d2b959317": {
+      "text": "$n\n「$$クルツ$$, I need you to cover me!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_f527e012803f7f1c": {
+      "text": "$$クルツ$$\n「Got it!\n　That's a sniper's specialty!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_4b1247bd3ca4905d": {
+      "text": "$$クルツ$$\n（Thanks to $$宗介$$ and $$アルト$$,\n　looks like this one's learning to lean on someone.）",
+      "status": "imported"
+    },
+    "stage0003_04:r_00c55e25f87b71d0": {
+      "text": "$$クルツ$$\n（Some plan, from the demon $$オズマ・リー$$.\n　Maybe I should hold off on hitting on\n　Lieutenant $$キャシー$$ for a while...）",
+      "status": "imported"
+    },
+    "stage0003_04:r_338f3b27e51dcc41": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0003_04:r_d91d4bc2d52b61c4": {
+      "text": "$$アルト$$\n「I don't need you to say it to know what you're thinking.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_0c8ea89b07432421": {
+      "text": "$$宗介$$\n「I see...」",
+      "status": "imported"
+    },
+    "stage0003_04:r_4dbfba00ba7744ee": {
+      "text": "$$アルト$$\n「Let's go, $$宗介$$...!\n　We're finishing them off!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_be100a32b731708d": {
+      "text": "$$正太郎$$\n「Looks like everyone's mastered fighting in pairs.」",
+      "status": "imported"
+    },
+    "stage0003_04:r_702f82442fcec8a9": {
+      "text": "$$正太郎$$\n「All right, $$オックス$$!\n　Let's take them down with $$鉄人$$'s combo!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_b1e38da4e8775ffe": {
+      "text": "$$ブラックオックス#pilot$$\n「!!」",
+      "status": "imported"
+    },
+    "stage0003_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

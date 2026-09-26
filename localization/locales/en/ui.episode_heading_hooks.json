@@ -1,0 +1,123 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ui.episode_heading_hooks:episode_label": {"text": "Episode", "status": "translated"},
+    "ui.episode_heading_hooks:numbered_heading": {"text": "Episode {number} 『{title}』", "status": "translated"},
+    "ui.episode_heading_hooks:final_label": {"text": "Final Episode", "status": "translated"},
+    "ui.episode_heading_hooks:epilogue_label": {"text": "Epilogue", "status": "translated"},
+    "ui.episode_heading_hooks:route_label": {"text": "Route Split", "status": "translated"},
+    "ui.episode_heading_hooks:r_64af625e5dca3806": {
+      "text": "Go Hiking / Stay Behind",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_c0482517ce06150c": {
+      "text": "Go Hiking",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_c588e26b29f5915f": {
+      "text": "Stay Behind",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_18db8d5bd4decaaf": {
+      "text": "Chase the Creep / Lend a Hand",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_860b101db5b65df2": {
+      "text": "Chase the Creep",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_25fae811b0259f90": {
+      "text": "Lend a Hand",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_541d17c62f7c8c54": {
+      "text": "Space / Earth / Mithril Routes",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_1903b324de612ee1": {
+      "text": "Space Route",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_13c8a98b7f8816a2": {
+      "text": "Earth Route",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_ab05e0a42ec92b43": {
+      "text": "Mithril Route",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_828123fe445f85c3": {
+      "text": "Accept / Decline the Request",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_22296d1b6d1c9d30": {
+      "text": "Accept the Request",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_5ba0f2d5111ab1dc": {
+      "text": "Decline the Request",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_fb2362523e6e62f0": {
+      "text": "Investigate Neo Zeon / Wait and See",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_cc97554544cef3c6": {
+      "text": "Investigate Neo Zeon",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_7e8835176098d124": {
+      "text": "Observe Neo Zeon",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_c51130b50e2e2537": {
+      "text": "Take Leave / Stay on Duty",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_af45bc571e6327de": {
+      "text": "Take Leave",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_047f35e5c13f431c": {
+      "text": "Stay on Duty",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_5d30ae51d1feb6af": {
+      "text": "Merida Island / Japan",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_0e4a2d2f28678468": {
+      "text": "Merida Island Route",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_b6fa8fe48139dc96": {
+      "text": "Japan Route",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_8facfd4ffe3044bf": {
+      "text": "Clear Data",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_932bbb7f94828b26": {
+      "text": "Ace Talk Data",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_422f90f85d39e7b8": {
+      "text": "Guidance Scenario",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_96b5280942b4668c": {
+      "text": "End-Session Message Data",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_2528fc5ef8adbb67": {
+      "text": "Debug Stage",
+      "status": "imported"
+    },
+    "ui.episode_heading_hooks:r_c0469da0536eac10": {
+      "text": "Map Debug Stage",
+      "status": "imported"
+    }
+  }
+}

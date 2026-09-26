@@ -1,0 +1,338 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0047_04:r_caaab7bad760e16d": {
+      "text": "$$ガウルン$$\n「Well, the opening move failed...\n　guess I'll try an AS next」",
+      "status": "imported"
+    },
+    "stage0047_04:r_99b162aa6aa286a2": {
+      "text": "$$ガウルン$$\n「Come on out, Kashim...」",
+      "status": "imported"
+    },
+    "stage0047_04:r_58fb02434a1c40b2": {
+      "text": "$$マオ$$\n「A $$マーティアル$$ unit, huh...!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_1c0f94acd5a8a143": {
+      "text": "$$クルツ$$\n「But they don't have their ATs.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_1263541f4071624e": {
+      "text": "$$マオ$$\n「...So that old acquaintance of Sousuke's...\n　might be from a group other than $$マーティアル$$.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_3bc300bbdc277d82": {
+      "text": "$$クルツ$$\n「So palling around with $$マーティアル$$\n　was just for convenience, huh...」",
+      "status": "imported"
+    },
+    "stage0047_04:r_38762a09460d8b6b": {
+      "text": "$$オズマ$$\n「Their target is $$ランカ$$ and $$シェリル$$ at Jindai High.\n　Don't let them break through, no matter what!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_7ab28e70b4d4f641": {
+      "text": "$n\n「Don't think you can barge into our school...!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$アルト$$\n「Wait for me, $$シェリル$$, $$ランカ$$...\n　I'll definitely protect you both.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_ec335e69f984b8b3": {
+      "text": "$$かなめ$$\n（Sousuke...）",
+      "status": "imported"
+    },
+    "stage0047_04:r_0abcaf0c31978670": {
+      "text": "$$かなめ$$\n「Huh... Sousuke...!?」",
+      "status": "imported"
+    },
+    "stage0047_04:r_1d6bc48b7f246730": {
+      "text": "$$宗介$$\n「Chidori, glad you're safe」",
+      "status": "imported"
+    },
+    "stage0047_04:r_1af20fccc3c53cfc": {
+      "text": "$$かなめ$$\n「Hey, you!\n　A battle's about to start, is this the time!?」",
+      "status": "imported"
+    },
+    "stage0047_04:r_f951916061232dcd": {
+      "text": "$$宗介$$\n「What I started to say earlier in the club room...」",
+      "status": "imported"
+    },
+    "stage0047_04:r_4d863c3fb88a4c39": {
+      "text": "$$かなめ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0047_04:r_44f4742c3dcce39a": {
+      "text": "$$宗介$$\n「Summer break starts tomorrow...\n　Will you come to the beach with me?」",
+      "status": "imported"
+    },
+    "stage0047_04:r_9e701cdeb3842c21": {
+      "text": "$$かなめ$$\n「A-are you serious?」",
+      "status": "imported"
+    },
+    "stage0047_04:r_6fd81f4abebe60c5": {
+      "text": "$$宗介$$\n「I'm serious.\n　I've been meaning to ask you for a while.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_da2132b5038ec737": {
+      "text": "$$かなめ$$\n「...You won't do anything weird?」",
+      "status": "imported"
+    },
+    "stage0047_04:r_495d61d3ec7e16f2": {
+      "text": "$$宗介$$\n「I won't do anything weird.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_5cd353758cfe474d": {
+      "text": "$$かなめ$$\n「And nothing dangerous?」",
+      "status": "imported"
+    },
+    "stage0047_04:r_a653c8dec4c0f06f": {
+      "text": "$$宗介$$\n「Nothing dangerous either.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_86d493e37a9799a7": {
+      "text": "$$かなめ$$\n「Um... well...」",
+      "status": "imported"
+    },
+    "stage0047_04:r_09d0fcc600cdd3df": {
+      "text": "$$宗介$$\n「There's no time.\n　Give me your answer.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_182faded068c15ed": {
+      "text": "$$かなめ$$\n「F-fine!\n　If you insist, I guess I could go with you...」",
+      "status": "imported"
+    },
+    "stage0047_04:r_9c206d19bfda4bd5": {
+      "text": "$$宗介$$\n「My thanks.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_6e558bc69acf5bf3": {
+      "text": "$$かなめ$$\n「Since we made a promise, come back safe.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_d60d0818e965232f": {
+      "text": "$$宗介$$\n「Understood.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_5b23687574286204": {
+      "text": "$$かなめ$$\n「Make sure you protect Jindai High.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_6fd86c96891ea942": {
+      "text": "$$宗介$$\n「Understood.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_43e4e548c0b28376": {
+      "text": "$$かなめ$$\n「Good!\n　...Do your best, Sousuke.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_d80a9688790ed583": {
+      "text": "$$かなめ$$\n（Sousuke...）",
+      "status": "imported"
+    },
+    "stage0047_04:r_708bea61e3c43ada": {
+      "text": "$$恭子$$\n「Talking with Sagara, huh? Something good happen?」",
+      "status": "imported"
+    },
+    "stage0047_04:r_7b6f159eeaf4de0f": {
+      "text": "$$かなめ$$\n「N-nothing...!\n　Uwah... uwahahaha!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_0827963cfd706e8d": {
+      "text": "$$恭子$$\n「Kana's on a roll these days.\n　Aced STEM out of nowhere, top of the grade.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$かなめ$$\n「Haha... guess life's giving me a good wave...」",
+      "status": "imported"
+    },
+    "stage0047_04:r_3f4035fd9db81258": {
+      "text": "$$ランカ$$\n「That person... what a nice smile.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_567b361a454c4b73": {
+      "text": "$$シェリル$$\n「Heh heh... summer's already here.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_d22851aaafbbf8fc": {
+      "text": "$$クルツ$$\n「Did we get him!?」",
+      "status": "imported"
+    },
+    "stage0047_04:r_352534f64413d954": {
+      "text": "$$マオ$$\n「Not yet!\n　The unit hasn't exploded!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_79f2664edb1af798": {
+      "text": "$$宗介$$\n「Then I'll finish it off!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$スズネ$$\n「Wait, $$宗介$$!\n　That red unit is signaling surrender!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_1c5aa0d15ae24846": {
+      "text": "$$宗介$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0047_04:r_53bb64ee17750ee2": {
+      "text": "$$ガウルン$$\n「Heh, you got me.\n　Bring out a new model and it overheats.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_7a7add80fde475ba": {
+      "text": "$$ガウルン$$\n「I surrender...\n　Do what you want.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_b2befefdbed1393d": {
+      "text": "$$田中司令$$\n「For now, all enemies have withdrawn.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_2103f6df2ea2e447": {
+      "text": "$$ミサト$$\n「What will you do, Mr. $$Ｆ．Ｓ．$$?」",
+      "status": "imported"
+    },
+    "stage0047_04:r_a12e3e130d896ff7": {
+      "text": "$$Ｆ．Ｓ．$$\n「I can't shoot someone who's surrendered.\n　Let's leave the rest to $$ミスリル$$,\n　who's investigating their group.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_b6f7b219eb4bd64b": {
+      "text": "$$宗介$$\n「$$ガウルン$$... you...」",
+      "status": "imported"
+    },
+    "stage0047_04:r_91bf33c27ad39f0a": {
+      "text": "$$ガウルン$$\n「You can shoot me, Kashim.\n　Dying by your hand would be an honor.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_ee220318b96ab538": {
+      "text": "$$宗介$$\n「...I'm taking you into custody.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_ce1b55e526b6277a": {
+      "text": "$$ガウルン$$\n「Hahahaha!\n　You've really changed, Kashim!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_c304df6888eb78f7": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0047_04:r_c26958634526e597": {
+      "text": "$$シェリル$$\n「Ugh!!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_cdb750c9d380881a": {
+      "text": "$$ランカ$$\n「$$アルト$$! Big brother!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_95fda74613c97b39": {
+      "text": "$$アルト$$\n「Damn iiiiit!!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_1956994937f8171e": {
+      "text": "$$宗介$$\n「I made a promise to Chidori...!\n　Let's finish this quickly!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_48f49f6728c15612": {
+      "text": "$$宗介$$\n「$$ガウルン$$!\n　It's about time we settled this!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ガウルン$$\n「Bring it on, Kashim.\n　Though fighting you now\n　isn't much fun anymore.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_f02c37d91387d0ad": {
+      "text": "$$宗介$$\n「I don't have time for your games!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$ガウルン$$\n「Busy with a date with that girl, huh?\n　You really have changed, Kashim.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_9796b3efa401a303": {
+      "text": "$$宗介$$\n「Shut up!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_643b6eebfc0186b3": {
+      "text": "$$ガウルン$$\n「No, I won't shut up.\n　I liked the old you better, Kashim.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_291280e5f7eb9d70": {
+      "text": "$$ガウルン$$\n「Please, go back to how you were!\n　My beloved Kashim...!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_32eb462c1b4999cb": {
+      "text": "$$宗介$$\n「I said shut up, $$ガウルン$$!!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_1f4337d6d393fc37": {
+      "text": "$$甲児$$\n「Messing with our school...\n　you've got some nerve!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_4740e748fae085ee": {
+      "text": "$$甲児$$\n「Come and get me, if you dare!\n　$$兜甲児$$, Jindai High's top tough guy, awaits!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_b76524cd840e1d37": {
+      "text": "$$竜馬$$\n「Hey, you punks...!\n　Cleaning up the school's junk\n　is the janitor's job!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_730ffe18400abfc2": {
+      "text": "$$竜馬$$\n「That's how it is!\n　The fools who messed with Jindai High,\n　I'll clean up myself!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_ffe0fca26da5cd38": {
+      "text": "$$アマタ$$\n「Jindai High is our other school too!\n　I'll definitely protect it!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_bfb27f9eb2f7073e": {
+      "text": "$$アルト$$\n「Now that I think about it, most of\n　the volunteer club's work was trash cleanup...」",
+      "status": "imported"
+    },
+    "stage0047_04:r_859dfa27bcaafe30": {
+      "text": "$$アルト$$\n「And now it's terrorist extermination...!\n　More trash cleanup, huh!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_71ebf05996a4b0fd": {
+      "text": "$$カレン$$\n「Japan's finally at peace...\n　and you attack this city full of schools...!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_6214c11b1bca811e": {
+      "text": "$$カレン$$\n「I'll never forgive your dirty tactics!\n　I'll crush you completely myself!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_8eaf6f3098ffed12": {
+      "text": "$n\n「Coming right as summer break starts...\n　these guys can't read the room at all...!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_cf507214fe955d75": {
+      "text": "$$スズネ$$\n「About the final exam before that,\n　I need to talk to $n later.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_2113dcbabdfc758a": {
+      "text": "$n\n「Miss $$スズネ$$...!\n　Now's not the time for that...!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$スズネ$$\n「I told you from the start, $n.\n　I want everyone to balance\n　school life and battle.」",
+      "status": "imported"
+    },
+    "stage0047_04:r_6a74519e1fc29c4b": {
+      "text": "$$スズネ$$\n「If you can't manage that,\n　I've got my own plans, you know!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_5b992878fee054b5": {
+      "text": "$n\n「A-alright...!\n　Once this battle's over, I'll hear you out!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$スズネ$$\n「Good...!\n　Now, hurry up and clean up the enemy!」",
+      "status": "imported"
+    },
+    "stage0047_04:r_4a14ec0c511c7f0d": {
+      "text": "$n\n（This unusual intensity...\n　what is this...）",
+      "status": "imported"
+    },
+    "stage0047_04:r_20cf167c0ec0d4d5": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

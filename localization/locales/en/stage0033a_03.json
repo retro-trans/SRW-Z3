@@ -1,0 +1,562 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0033a_03:r_caaab7bad760e16d": {
+      "text": "$$ネェル・アーガマ$$ Briefing Room",
+      "status": "imported"
+    },
+    "stage0033a_03:r_99b162aa6aa286a2": {
+      "text": "$$ネェル・アーガマ$$ Briefing Room",
+      "status": "imported"
+    },
+    "stage0033a_03:r_58fb02434a1c40b2": {
+      "text": "$$ネェル・アーガマ$$ Briefing Room",
+      "status": "imported"
+    },
+    "stage0033a_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　\n　　　　～ $$ネェル・アーガマ$$ Briefing Room ～",
+      "status": "imported"
+    },
+    "stage0033a_03:r_1263541f4071624e": {
+      "text": "$$カレン$$\n「What were you doing, $$ジノ$$!?\n　You're $$ナナリー$$'s SP captain, aren't you!」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_3bc300bbdc277d82": {
+      "text": "$$ジノ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_38762a09460d8b6b": {
+      "text": "$$カレン$$\n「$$ジノ$$...?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_7ab28e70b4d4f641": {
+      "text": "$$ジノ$$\n「...As a knight, I don't want to make excuses...\n　But what happened then... I can't quite recall it」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$ジノ$$\n「I was certain I'd been protecting Lady $$ナナリー$$...\n　But somehow, I had to hand Lady $$ナナリー$$\n　over to the bandits...」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_ec335e69f984b8b3": {
+      "text": "$$デュオ$$\n「What are you talking about?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_0abcaf0c31978670": {
+      "text": "$$シン$$\n「You saying you were hypnotized or something?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_1d6bc48b7f246730": {
+      "text": "$$ジノ$$\n「...I don't know...\n　And what confuses me more is that some part\n　of me still believes it was the right thing to do」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_1af20fccc3c53cfc": {
+      "text": "$$ノイン$$\n「It seems that Lady $$リリーナ$$ was abducted\n　the same way」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_f951916061232dcd": {
+      "text": "$$カミーユ$$\n「Is his mind being controlled...?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_4d863c3fb88a4c39": {
+      "text": "$$ゼクス$$\n「It could be something like 《$$ギアス$$》」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_44f4742c3dcce39a": {
+      "text": "$$アマタ$$\n「$$ギアス$$...?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_9e701cdeb3842c21": {
+      "text": "$$アムロ$$\n「First time hearing this, Element and $$シンジ$$'s group?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_6fd81f4abebe60c5": {
+      "text": "$$カミーユ$$\n「$$ギアス$$ refers to various supernatural powers\n　some people hold. The most feared among them\n　is the $$ギアス$$ that fully controls others」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_da2132b5038ec737": {
+      "text": "$$カイエン$$\n「To think such a thing exists...」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_495d61d3ec7e16f2": {
+      "text": "$$アンディ$$\n「So the incident where the captain handed over\n　the Vice Minister... someone with that $$ギアス$$ did it?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_5cd353758cfe474d": {
+      "text": "$$カレン$$\n「That's absolutely impossible...!」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_a653c8dec4c0f06f": {
+      "text": "$$ゼシカ$$\n「What's wrong, $$カレン$$?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_86d493e37a9799a7": {
+      "text": "$$カレン$$\n「$$ゼロ$$... $$ルルーシュ$$ would never do\n　anything to put $$ナナリー$$ in danger...!」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_09d0fcc600cdd3df": {
+      "text": "$$シンジ$$\n「$$ルルーシュ$$...?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_182faded068c15ed": {
+      "text": "$$ミサト$$\n「《$$皇帝ルルーシュ$$》... $$ゼロ$$, the Black Knights' leader...\n　The masked man who saved us in Operation Yashima...」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_9c206d19bfda4bd5": {
+      "text": "$$ミサト$$\n「It seems $$ゼロ$$ had that $$ギアス$$ which\n　controls others」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_6e558bc69acf5bf3": {
+      "text": "$$デュオ$$\n「He was a member of $$ＺＥＸＩＳ$$ too.\n　And like $$カレン$$ said, I really don't think\n　he'd be behind this」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_d60d0818e965232f": {
+      "text": "$$ゼクス$$\n「I agree.\n　There's no way he'd endorse the\n　$$マリーメイア$$ army's methods now」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_5b23687574286204": {
+      "text": "$$ゼクス$$\n「Above all, he'd never do anything to put his\n　beloved sister $$ナナリー$$ in danger」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_6fd86c96891ea942": {
+      "text": "$$ノイン$$\n「Then...」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_43e4e548c0b28376": {
+      "text": "$$アムロ$$\n「We can assume it's the same as that series of\n　incidents that accelerated Earth-Colony discord」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_d80a9688790ed583": {
+      "text": "$$バナージ$$\n「No way...!\n　So someone's manipulating people's hearts\n　to start a war!?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_708bea61e3c43ada": {
+      "text": "$$アムロ$$\n「Stoking conflict between Earth and the colonies,\n　and now handing the two Vice Ministers, key\n　to peace, over to the $$マリーメイア$$ army...」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_7b6f159eeaf4de0f": {
+      "text": "$$アムロ$$\n「Whoever's behind this clearly aims\n　to start a war between Earth and the colonies」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_0827963cfd706e8d": {
+      "text": "$$ミサト$$\n「The spark they lit dragged everyone else in,\n　and grew into Neo Zeon's declaration of war...」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$アムロ$$\n（$$シャア$$... haven't you noticed this situation?\n　We might be getting played by someone...）",
+      "status": "imported"
+    },
+    "stage0033a_03:r_3f4035fd9db81258": {
+      "text": "$$ノイン$$\n「The captains will be here soon too」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_567b361a454c4b73": {
+      "text": "$$ゼクス$$\n「That's when our next move gets decided」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_d22851aaafbbf8fc": {
+      "text": "$$ミサト$$\n「First, we need to deal with $$マリーメイア・クシュリナーダ$$\n　and her group, holed up in the Peace\n　Memorial Hall in Brussels...」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_352534f64413d954": {
+      "text": "$$ミヒロ$$\n「Colonel $$葛城ミサト$$, a transmission is coming\n　in from EFF Supreme Command」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_79f2664edb1af798": {
+      "text": "$$ミサト$$\n「Where are the captains?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$ミヒロ$$\n「Still in a meeting with Commander\n　$$レディ・アン$$」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_1c5aa0d15ae24846": {
+      "text": "$$ミサト$$\n「Understood.\n　Please patch the transmission through to me」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_53bb64ee17750ee2": {
+      "text": "$$ミヒロ$$\n「Understood」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_7a7add80fde475ba": {
+      "text": "$$サイガス$$\n「You kept me waiting a while, $c.\n　This is Brigadier General $$サイガス・エイロニー$$\n　of EFF Supreme Command」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_b2befefdbed1393d": {
+      "text": "$$ゼクス$$\n（So this is the top Earth supremacist in the military）",
+      "status": "imported"
+    },
+    "stage0033a_03:r_2103f6df2ea2e447": {
+      "text": "$$ノイン$$\n（I hear he's been pressuring the $$プリベンター$$s,\n　who answer directly to the $$大統領$$,\n　but what could he want with us...）",
+      "status": "imported"
+    },
+    "stage0033a_03:r_a12e3e130d896ff7": {
+      "text": "$$ミサト$$\n「I'm Colonel $$葛城ミサト$$...\n　I serve as this unit's tactical commander」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_b6f7b219eb4bd64b": {
+      "text": "$$ミサト$$\n「The captains have stepped out, so\n　I'll hear your business in their place」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_91bf33c27ad39f0a": {
+      "text": "$$サイガス$$\n「On loan from NERV, are you.\n　I've heard about you」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_ee220318b96ab538": {
+      "text": "$$ミサト$$\n「Brigadier General $$サイガス$$,\n　we, $c, are a unit with independent authority」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_ce1b55e526b6277a": {
+      "text": "$$ミサト$$\n「I can't guess your business, but let me\n　make clear up front that even Supreme Command\n　has no authority to give us orders」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_c304df6888eb78f7": {
+      "text": "$$サイガス$$\n「I'm kind enough to notify you out of courtesy,\n　and this is the rudeness I get?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_c26958634526e597": {
+      "text": "$$ミサト$$\n「Courtesy?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_cdb750c9d380881a": {
+      "text": "$$サイガス$$\n「EFF Supreme Command has decided to strike\n　the terrorists in Brussels with an N2 depth\n　charge today at 2200 hours」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_95fda74613c97b39": {
+      "text": "$$ミサト$$\n「What did you say!?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_1956994937f8171e": {
+      "text": "$$アムロ$$\n「Using a tactical weapon...!」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_48f49f6728c15612": {
+      "text": "$$ゼクス$$\n「Insane!\n　You'd let the hostages die!?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$サイガス$$\n「Not yielding to terror is Federation policy.\n　It's truly regrettable, but Vice Minister\n　Darlian and the others must be sacrificed for peace」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_f02c37d91387d0ad": {
+      "text": "$$サイガス$$\n「I'd hate to catch you, valuable assets of\n　the Earth Federation, in the attack.\n　If you don't want to die, stay away from Brussels」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$ミサト$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_9796b3efa401a303": {
+      "text": "$$サイガス$$\n「That's all I have to say.\n　...Good timing, this.\n　Learn your place」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_643b6eebfc0186b3": {
+      "text": "$$デュオ$$\n「Don't give me that crap!」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_291280e5f7eb9d70": {
+      "text": "$$カミーユ$$\n「Using anti-terror as an excuse, Supreme\n　Command would let Vice Minister Darlian's group,\n　who push for Earth-colony reconciliation, die...!」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_32eb462c1b4999cb": {
+      "text": "$$ゼクス$$\n「So the $$マリーメイア$$ army's uprising was\n　convenient for them, then...」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_1f4337d6d393fc37": {
+      "text": "$$ゼクス$$\n「Depending on the situation, they may use this\n　as a pretext to attack the colonies」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_4740e748fae085ee": {
+      "text": "$$バナージ$$\n「Then that's exactly what those trying to\n　start a war want!」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_b76524cd840e1d37": {
+      "text": "$$ヒイロ$$\n「I won't allow that」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_730ffe18400abfc2": {
+      "text": "$$デュオ$$\n「Exactly.\n　If the Federation won't move, we will」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_ffe0fca26da5cd38": {
+      "text": "$$ノイン$$\n「I don't know what they intend to do\n　after taking Lady $$リリーナ$$ and the others,\n　but we can't afford to give them time」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_bfb27f9eb2f7073e": {
+      "text": "$$アムロ$$\n「Commander $$レディ・アン$$ has probably sent\n　the same request too」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_859dfa27bcaafe30": {
+      "text": "$$リディ$$\n「But it's said a considerable number of Mobile\n　Suit units are deployed around the Peace Memorial Hall」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_71ebf05996a4b0fd": {
+      "text": "$$マオ$$\n「So we send the mobile unit as a diversion,\n　then push ground forces in to retake the hostages?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_6214c11b1bca811e": {
+      "text": "$$リディ$$\n「Lt. Colonel $$ダグザ$$ of Echoes\n　seems to favor that plan」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_8eaf6f3098ffed12": {
+      "text": "$$ヒイロ$$\n「That won't work」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_cf507214fe955d75": {
+      "text": "$$リディ$$\n「Why not?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_2113dcbabdfc758a": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$リディ$$\n「Where are you going, $$ヒイロ$$!?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_6a74519e1fc29c4b": {
+      "text": "$$デュオ$$\n「Just let him be, Ensign.\n　He's going to settle things his own way」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_5b992878fee054b5": {
+      "text": "$$リディ$$\n「$$デュオ$$... do you understand what $$ヒイロ$$ meant?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$デュオ$$\n「More or less.\n　Basically, unless we cut off this fight's\n　root cause, a second or third $$マリーメイア$$ will appear」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_4a14ec0c511c7f0d": {
+      "text": "$$リディ$$\n「Cut off the fight's root...?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_20cf167c0ec0d4d5": {
+      "text": "$$アムロ$$\n「You're saying we have to take down\n　$$トレーズ$$ Khushrenada...」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_b591d812c96c6c99": {
+      "text": "$$バナージ$$\n「$$トレーズ$$ Khushrenada, the central figure\n　of the $$再世戦争$$...」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_e350fa099c1ab072": {
+      "text": "$$ゼクス$$\n「Heh... $$トレーズ$$...\n　Even in death, you'd have us become losers...」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$デュオ$$\n「Two more guys who suit that role\n　are waiting for us over there」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_c33bd700553abf91": {
+      "text": "General Hangar",
+      "status": "imported"
+    },
+    "stage0033a_03:r_feee5c91826230e1": {
+      "text": "General Hangar",
+      "status": "imported"
+    },
+    "stage0033a_03:r_bccc48e1964ad22d": {
+      "text": "General Hangar",
+      "status": "imported"
+    },
+    "stage0033a_03:r_f8736aaaa216c766": {
+      "text": "　\n　\n　　　　　　　　～ $$マリーメイア$$ Army Encampment ～",
+      "status": "imported"
+    },
+    "stage0033a_03:r_d1ec2522c87c361d": {
+      "text": "$$マリーメイア$$ Soldier\n「.........」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_3599f0a4343fd95c": {
+      "text": "$$マリーメイア$$ Soldier\n「.........」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_3bc7834a5bf3ee76": {
+      "text": "$$デキム$$\n「Men... first, let me commend you for\n　the success of the Brussels operation.\n　But our true battle starts here」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_366814efdc8b5800": {
+      "text": "$$デキム$$\n「At last, the time has come to rise\n　for Lady $$マリーメイア$$!」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_9be1a4c10bb62515": {
+      "text": "$$デキム$$\n「To all of you, who through this long time\n　lying low endured the unendurable and bore\n　the unbearable, I offer my deepest thanks once more」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_94a88c90e557e16e": {
+      "text": "$$デキム$$\n「From today, you walk the path of glory.\n　We, soldiers of $$マリーメイア$$, shall carry out\n　mankind's awakening and become a symbol of hope」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_1c208ca0cbf26f28": {
+      "text": "$$マリーメイア$$\n「How about it, $$クィーン$$ $$リリーナ$$ and Princess\n　$$ナナリー$$. These are my loyal soldiers」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_5b7ee307a700171a": {
+      "text": "$$ナナリー$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_8d8f065c932da30a": {
+      "text": "$$マリーメイア$$\n「Don't be so frightened.\n　I have no intention of harming either of you」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_f5432119677514f7": {
+      "text": "$$ナナリー$$\n「It isn't your power that I fear」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_4e5c8e989c4a7691": {
+      "text": "$$ナナリー$$\n「It's the intoxicated look in that\n　$$デキム$$ man's eyes, and his soldiers', that scares me」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_adec86483b13599a": {
+      "text": "$$マリーメイア$$\n「I'd prefer you call them eyes burning with ideals」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_2cf701bbcde3ec13": {
+      "text": "$$リリーナ$$\n「...You can't tell ideals from ambition...」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_c17c58fdba72005e": {
+      "text": "$$リリーナ$$\n「$$マリーメイア$$...\n　are you truly the daughter of that\n　$$トレーズ$$ Khushrenada?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_1fe8564d2b959317": {
+      "text": "$$マリーメイア$$\n「It's no lie.\n　A DNA test proved it」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_f527e012803f7f1c": {
+      "text": "$$リリーナ$$\n「But...」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_4b1247bd3ca4905d": {
+      "text": "$$マリーメイア$$\n「They say adults have a world children\n　can't understand, so I don't know why\n　I was born into this world」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_00c55e25f87b71d0": {
+      "text": "$$マリーメイア$$\n「But fact's fact, I intend to carry on father's will」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_338f3b27e51dcc41": {
+      "text": "$$ナナリー$$\n「Are you saying this war was his will...?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_d91d4bc2d52b61c4": {
+      "text": "$$リリーナ$$\n「I don't know who raised you to think this way,\n　but you are wrong」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_0c8ea89b07432421": {
+      "text": "$$マリーメイア$$\n「Silence...!」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_4dbfba00ba7744ee": {
+      "text": "$$リリーナ$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_be100a32b731708d": {
+      "text": "$$マリーメイア$$\n「I am the rightful heir to $$ＡＤＷ$$'s ruler.\n　And now, I intend to rise as the true\n　ruler of Earth and the colonies」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_702f82442fcec8a9": {
+      "text": "$$ナナリー$$\n「Do you intend to rule the world by force?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_b1e38da4e8775ffe": {
+      "text": "$$マリーメイア$$\n「Past history tells us just how\n　inefficient that is」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$マリーメイア$$\n「$$クィーン$$ $$リリーナ$$, Princess $$ナナリー$$...\n　I need you both to issue a statement\n　of support for me, to the whole world」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$マリーメイア$$\n「Your words, backed by many supporters on\n　both Earth and the colonies, will sway the masses」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_3dad695c99e9e052": {
+      "text": "$$マリーメイア$$\n「And then they will recognize, not the\n　Earth Federation nor $$シャア・アズナブル$$,\n　but this $$マリーメイア$$ as the world's leader」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_66d4ae3a21caf881": {
+      "text": "$$マリーメイア$$\n「Though I hear the ignorant, foolish, and\n　powerless have already begun to accept us,\n　who showed our strength, as their new rulers」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_0c18da7b3a37825d": {
+      "text": "$$ナナリー$$\n「That can't be...!」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_63249745ffae61b6": {
+      "text": "$$マリーメイア$$\n「Oh, it can, Princess.\n　Distrust of the Earth Federation and fear of\n　Neo Zeon are calling for a new era's leader」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_abdb034ae8509702": {
+      "text": "$$リリーナ$$\n「Those who resort to such underhanded means\n　may seize power for a time, but will lose it all」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_3ff2e21207d1d1d3": {
+      "text": "$$マリーメイア$$\n「But this is the least bloody, most peaceful\n　revolution. Isn't that what you both want too?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_e51ecf6d6aa42e75": {
+      "text": "$$ナナリー$$\n「You are wrong, Miss $$マリーメイア$$」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_47ddabb7b60131c2": {
+      "text": "$$リリーナ$$\n「At the very least,\n　your father, $$トレーズ$$ Khushrenada,\n　never wished for a world like this」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_b025267f22788233": {
+      "text": "$$マリーメイア$$\n「I don't expect your immediate agreement.\n　But once you know reality, your minds will change」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_ec1a06a7023bf72c": {
+      "text": "$$マリーメイア$$\n「Eventually, those who would come to\n　Brussels to take you both back will arrive」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_8805f96e52aaa462": {
+      "text": "$$リリーナ$$\n「Things won't go as you think.\n　The Earth Federation Forces would abandon us\n　just to wipe your side out entirely」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_124591cb154fae64": {
+      "text": "$$マリーメイア$$\n「It's not the Federation forces I'm inviting.\n　It's the independent outside unit, $c」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$リリーナ$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_4bf9b05b5f948170": {
+      "text": "$$マリーメイア$$\n「$$ＵＣＷ$$'s $$ＺＥＵＴＨ$$, $$ＡＤＷ$$'s $$ＺＥＸＩＳ$$...\n　And once we crush them, the ones the colonies'\n　Gundams belong to, all will know who holds power」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_eaa52d152f444bfd": {
+      "text": "$$マリーメイア$$\n「No matter how much strength they have,\n　against my army's formation, built purely\n　for defense, their defeat is certain」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_b4bc9e9435b58e6f": {
+      "text": "$$リリーナ$$\n「$$マリーメイア$$... you are...」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_a9227573166977a9": {
+      "text": "$$マリーメイア$$\n「$$クィーン$$ $$リリーナ$$...\n　You spoke of the world my father wanted,\n　but I differ from him a little」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_b0600ab9a9e8559d": {
+      "text": "$$マリーメイア$$\n「I want to become the victor」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_7cbc63dad295f862": {
+      "text": "$$リリーナ$$\n「Then shouldn't you think for yourself\n　about what it means to fight?」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_07f53c816e0a51f5": {
+      "text": "$$マリーメイア$$\n「Don't make me say it again.\n　I won't tolerate disrespect toward me」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_2d09c6f6a2d990ea": {
+      "text": "$$ナナリー$$\n「The nerve of you...!」",
+      "status": "imported"
+    },
+    "stage0033a_03:r_3c5fcfc484a51913": {
+      "text": "$$リリーナ$$\n（$$ヒイロ$$...）",
+      "status": "imported"
+    }
+  }
+}

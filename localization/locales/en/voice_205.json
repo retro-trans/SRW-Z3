@@ -1,0 +1,678 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_205:r_479b340ccc6c572b": {
+      "text": "Let's go!",
+      "status": "imported"
+    },
+    "voice_205:r_ca4acbac57a2a35e": {
+      "text": "Let's say hello!",
+      "status": "imported"
+    },
+    "voice_205:r_77949221bf58f862": {
+      "text": "Time to get to work!",
+      "status": "imported"
+    },
+    "voice_205:r_70b9c4b9f1f37eff": {
+      "text": "Let's get this over with!",
+      "status": "imported"
+    },
+    "voice_205:r_9fcb3754cb1773c7": {
+      "text": "This mission's a cakewalk!",
+      "status": "imported"
+    },
+    "voice_205:r_3559d2fad32c2435": {
+      "text": "Gotta earn my pay!",
+      "status": "imported"
+    },
+    "voice_205:r_f7570547e9f80a64": {
+      "text": "I'm just carrying out the mission!",
+      "status": "imported"
+    },
+    "voice_205:r_cbab0f4720e1fcf1": {
+      "text": "A little risk makes it more fun!",
+      "status": "imported"
+    },
+    "voice_205:r_0bbe0b4f5364e732": {
+      "text": "You're out of luck!",
+      "status": "imported"
+    },
+    "voice_205:r_5dda5198137cb02a": {
+      "text": "Move wrong, and it'll hurt more!",
+      "status": "imported"
+    },
+    "voice_205:r_83ec59afbecdec14": {
+      "text": "That's some nice gear you've got!",
+      "status": "imported"
+    },
+    "voice_205:r_e20bfd42ad95a3c9": {
+      "text": "Here come those elusive mercenaries!",
+      "status": "imported"
+    },
+    "voice_205:r_0f58a8822381e57f": {
+      "text": "Playing the hero, are you?",
+      "status": "imported"
+    },
+    "voice_205:r_6dbcc507fb61b51d": {
+      "text": "I've got a score to settle with you!",
+      "status": "imported"
+    },
+    "voice_205:r_b42ab697149a7c8a": {
+      "text": "Riding a flashy machine, huh...!",
+      "status": "imported"
+    },
+    "voice_205:r_4de4fcf3b440baf4": {
+      "text": "A one-off AS? Worth crushing!",
+      "status": "imported"
+    },
+    "voice_205:r_0121a166c715cdff": {
+      "text": "This isn't a zoo or a dreamland!",
+      "status": "imported"
+    },
+    "voice_205:r_30fad37a42bd3ad3": {
+      "text": "You've gotta be kidding meee!!",
+      "status": "imported"
+    },
+    "voice_205:r_80a0b2a84e05d81a": {
+      "text": "I'll crush their commander!",
+      "status": "imported"
+    },
+    "voice_205:r_4a9ac1dff86506d9": {
+      "text": "I'll take out the boss and end this!",
+      "status": "imported"
+    },
+    "voice_205:r_bc8538e6af3d2577": {
+      "text": "That rat won't stop scurrying...!",
+      "status": "imported"
+    },
+    "voice_205:r_924516c8de2b5342": {
+      "text": "You're a towering pile of crap!",
+      "status": "imported"
+    },
+    "voice_205:r_da1174533722333f": {
+      "text": "Kill a Gundam, and I'll make a name!",
+      "status": "imported"
+    },
+    "voice_205:r_fdeb8162976e72c1": {
+      "text": "Who knew I'd\\nfight a Gundam...!",
+      "status": "imported"
+    },
+    "voice_205:r_0fadb5c26df92b42": {
+      "text": "The latest mobile suit, huh!",
+      "status": "imported"
+    },
+    "voice_205:r_6b15af9a0057cdc8": {
+      "text": "The infamous colony Gundam, huh!",
+      "status": "imported"
+    },
+    "voice_205:r_15b4a90140e8a33a": {
+      "text": "Celestial Being,\\nI've got a grudge!",
+      "status": "imported"
+    },
+    "voice_205:r_af884a6b11dff121": {
+      "text": "A survivor of the Black Knights!",
+      "status": "imported"
+    },
+    "voice_205:r_ac6fe7838e95647b": {
+      "text": "I'll smash that mask off your face!",
+      "status": "imported"
+    },
+    "voice_205:r_77ca87eacd17ad52": {
+      "text": "We're both just dogs of war!",
+      "status": "imported"
+    },
+    "voice_205:r_bf3244994760e535": {
+      "text": "That guy...! A Red Shoulder?!",
+      "status": "imported"
+    },
+    "voice_205:r_aabfb21c9d069ce7": {
+      "text": "A Quentian bought off with money!",
+      "status": "imported"
+    },
+    "voice_205:r_02479dc8fe989560": {
+      "text": "Fellow hired gun! Let's get along!",
+      "status": "imported"
+    },
+    "voice_205:r_48b60d6c48b9b142": {
+      "text": "I won't go easy on civilians!",
+      "status": "imported"
+    },
+    "voice_205:r_a571eec59b258d11": {
+      "text": "Damn big brute! Don't get cocky!",
+      "status": "imported"
+    },
+    "voice_205:r_ddbe581c5ea9183d": {
+      "text": "If power fails,\\nI'll use speed!",
+      "status": "imported"
+    },
+    "voice_205:r_faae935cca0edc72": {
+      "text": "I'll bag that rare loot for a bonus!",
+      "status": "imported"
+    },
+    "voice_205:r_d4430bf362340b32": {
+      "text": "Damn! I can't match that speed!",
+      "status": "imported"
+    },
+    "voice_205:r_6ff1323b355593e0": {
+      "text": "Darting around right in my face...!",
+      "status": "imported"
+    },
+    "voice_205:r_b7b5625d7cd4282f": {
+      "text": "This guy's got a screw loose...!",
+      "status": "imported"
+    },
+    "voice_205:r_36133ad73a73ef98": {
+      "text": "Sink that ship, get a special bonus!",
+      "status": "imported"
+    },
+    "voice_205:r_920740a0219c5085": {
+      "text": "One shot to the bridge will do it!",
+      "status": "imported"
+    },
+    "voice_205:r_3633df5b7b8f47fa": {
+      "text": "Eat this!",
+      "status": "imported"
+    },
+    "voice_205:r_52dfc56b14b93551": {
+      "text": "Here you go!",
+      "status": "imported"
+    },
+    "voice_205:r_1b9b2aab5cb104da": {
+      "text": "Got you!",
+      "status": "imported"
+    },
+    "voice_205:r_342044c706a2340f": {
+      "text": "See you!",
+      "status": "imported"
+    },
+    "voice_205:r_cf41e8828a90cbdb": {
+      "text": "Die!",
+      "status": "imported"
+    },
+    "voice_205:r_719e897304ec42d4": {
+      "text": "This one's gonna hurt!",
+      "status": "imported"
+    },
+    "voice_205:r_d5e0a2317c40d322": {
+      "text": "Take this if you can!",
+      "status": "imported"
+    },
+    "voice_205:r_ec2ea17765052401": {
+      "text": "You're finished!",
+      "status": "imported"
+    },
+    "voice_205:r_7d2617c809fead70": {
+      "text": "You'll pay for that!",
+      "status": "imported"
+    },
+    "voice_205:r_ceb935ccbf830724": {
+      "text": "Now it's my turn to hit back!",
+      "status": "imported"
+    },
+    "voice_205:r_862ef7385bf2abd4": {
+      "text": "I'm a man who repays his debts!",
+      "status": "imported"
+    },
+    "voice_205:r_001cbec4d9a4283f": {
+      "text": "The going rate is double or more!",
+      "status": "imported"
+    },
+    "voice_205:r_8ad40afecd02b41e": {
+      "text": "Don't think you're making it home!",
+      "status": "imported"
+    },
+    "voice_205:r_26e5efec03c03d78": {
+      "text": "You're not getting away!",
+      "status": "imported"
+    },
+    "voice_205:r_4ad81e88c7557a8b": {
+      "text": "Now you'll take my attack too!",
+      "status": "imported"
+    },
+    "voice_205:r_1f65a7af190e4674": {
+      "text": "Here's your payback! Take it!",
+      "status": "imported"
+    },
+    "voice_205:r_40c5a9358ed5bf29": {
+      "text": "I'm a man who holds a mean grudge!",
+      "status": "imported"
+    },
+    "voice_205:r_f2e18dfdfe0c89ea": {
+      "text": "That's what you get for trying me!",
+      "status": "imported"
+    },
+    "voice_205:r_cf7dbf49e96a5755": {
+      "text": "We'll work together on this one!",
+      "status": "imported"
+    },
+    "voice_205:r_fa96676cc65bb509": {
+      "text": "Let me in on this too!",
+      "status": "imported"
+    },
+    "voice_205:r_4e37f92e7d2fc62e": {
+      "text": "Let me have the finishing blow!",
+      "status": "imported"
+    },
+    "voice_205:r_66ab4cfe1557909d": {
+      "text": "No time to waste! All at once!",
+      "status": "imported"
+    },
+    "voice_205:r_0bad405ee6ca63ba": {
+      "text": "It's about time you went down!",
+      "status": "imported"
+    },
+    "voice_205:r_2072eaf71a260ae7": {
+      "text": "Damn! Is this as far as I go?!",
+      "status": "imported"
+    },
+    "voice_205:r_6c13bbfd27a7799e": {
+      "text": "Am I having a bad dream...!?",
+      "status": "imported"
+    },
+    "voice_205:r_06f88dcbd3c9e738": {
+      "text": "See you! I'll wait for you in hell!",
+      "status": "imported"
+    },
+    "voice_205:r_b28faf9f71bc3598": {
+      "text": "You bastaaard...!",
+      "status": "imported"
+    },
+    "voice_205:r_8a29278549f8e07a": {
+      "text": "Aaaaaaargh!",
+      "status": "imported"
+    },
+    "voice_205:r_7e6c573c26177f98": {
+      "text": "No good! I'm ditching the machine!",
+      "status": "imported"
+    },
+    "voice_205:r_45abf84f7757d6eb": {
+      "text": "So much for my pay!",
+      "status": "imported"
+    },
+    "voice_205:r_edd7a13ab8f06a14": {
+      "text": "Remember this! I hold a grudge!",
+      "status": "imported"
+    },
+    "voice_205:r_8165e5b41f0124c4": {
+      "text": "Mascot beat me...!\\nDone as a merc!",
+      "status": "imported"
+    },
+    "voice_205:r_4e05581b7432cce8": {
+      "text": "Bonta-kun beat me...\\nNo regrets...!",
+      "status": "imported"
+    },
+    "voice_205:r_a60b107ea3c36a86": {
+      "text": "So that new gear's the real deal!",
+      "status": "imported"
+    },
+    "voice_205:r_e33693e5ba4665b0": {
+      "text": "They're stronger than a normal army!",
+      "status": "imported"
+    },
+    "voice_205:r_72a21a1a489af001": {
+      "text": "Tch! Always sticking their noses in!",
+      "status": "imported"
+    },
+    "voice_205:r_eb643f8bf737a0ca": {
+      "text": "Those moves...! No ordinary AS!",
+      "status": "imported"
+    },
+    "voice_205:r_0a3fccb71ec6cf2a": {
+      "text": "What the hell is that white AS?!",
+      "status": "imported"
+    },
+    "voice_205:r_9b63cf1f3e0207ef": {
+      "text": "This is a dream...! A nightmare!",
+      "status": "imported"
+    },
+    "voice_205:r_8356f4e3dcdff938": {
+      "text": "Cute! And strong!",
+      "status": "imported"
+    },
+    "voice_205:r_1d6d784036ae0bd7": {
+      "text": "What's with that crushing power?!",
+      "status": "imported"
+    },
+    "voice_205:r_625664af02183c17": {
+      "text": "Damn!\\nSo that's Super Robot power!",
+      "status": "imported"
+    },
+    "voice_205:r_3701cba361f80ea5": {
+      "text": "You've got some moves, Gundam!",
+      "status": "imported"
+    },
+    "voice_205:r_63f429c5c68c0863": {
+      "text": "Gundam,\\nand its pilot are monsters!",
+      "status": "imported"
+    },
+    "voice_205:r_38e4a434c91d8ef0": {
+      "text": "That guy...! No ordinary AT pilot!",
+      "status": "imported"
+    },
+    "voice_205:r_98ed411352a3a6ac": {
+      "text": "Not the mech...!\\nThe pilot's skill?!",
+      "status": "imported"
+    },
+    "voice_205:r_4824bea6bab3af67": {
+      "text": "Celestial Being!\\nIn my way again?!",
+      "status": "imported"
+    },
+    "voice_205:r_862b92e63adb9734": {
+      "text": "Damn tenacious, Black Knights!",
+      "status": "imported"
+    },
+    "voice_205:r_cb306ef55e49d107": {
+      "text": "Lose to a salaryman, and I retire!",
+      "status": "imported"
+    },
+    "voice_205:r_288133bc5b573dae": {
+      "text": "Graaah! What incredible power!",
+      "status": "imported"
+    },
+    "voice_205:r_6f95653e548f8fcf": {
+      "text": "Damn you! You're way too strong!",
+      "status": "imported"
+    },
+    "voice_205:r_d249d68bada91ab9": {
+      "text": "This is bad! A direct hit?!",
+      "status": "imported"
+    },
+    "voice_205:r_e9b3307e9eb69f11": {
+      "text": "Everything I try keeps backfiring!",
+      "status": "imported"
+    },
+    "voice_205:r_03cdac73042343ee": {
+      "text": "Is this when I pay the piper?!",
+      "status": "imported"
+    },
+    "voice_205:r_6026da5acbda7c69": {
+      "text": "I'm not going down without a fight!",
+      "status": "imported"
+    },
+    "voice_205:r_981f8fedd5414fe5": {
+      "text": "A system error?! You cheap junk!",
+      "status": "imported"
+    },
+    "voice_205:r_96bb0dcde0c8c44a": {
+      "text": "It's shorting out all over!",
+      "status": "imported"
+    },
+    "voice_205:r_641550a2f54cb456": {
+      "text": "Lured by cash,\\nI walked into hell!",
+      "status": "imported"
+    },
+    "voice_205:r_a0f2074af8debbfa": {
+      "text": "Damn! This job wasn't worth it!",
+      "status": "imported"
+    },
+    "voice_205:r_b5f5a97ed82acb0b": {
+      "text": "My gut says this is really bad...!",
+      "status": "imported"
+    },
+    "voice_205:r_d9cd2e4ded064396": {
+      "text": "Move, you heap!\\nThis isn't over yet!",
+      "status": "imported"
+    },
+    "voice_205:r_099e2458cabf796f": {
+      "text": "Looks like you've got some skill...!",
+      "status": "imported"
+    },
+    "voice_205:r_fd910d714be70870": {
+      "text": "What a persistent bastard!",
+      "status": "imported"
+    },
+    "voice_205:r_9736f29b11344ec3": {
+      "text": "You hung on longer than I thought!",
+      "status": "imported"
+    },
+    "voice_205:r_fcd05582aa5c6068": {
+      "text": "This job isn't as easy as it looked!",
+      "status": "imported"
+    },
+    "voice_205:r_bece29562818acba": {
+      "text": "Class B damage to the legs...?!",
+      "status": "imported"
+    },
+    "voice_205:r_494b5da92ed24ecb": {
+      "text": "Bastard...! Not bad after all!",
+      "status": "imported"
+    },
+    "voice_205:r_a4a5a96f4bd58920": {
+      "text": "I've got a bad feeling here...!",
+      "status": "imported"
+    },
+    "voice_205:r_b57d2d74233f889a": {
+      "text": "Tch...! More pay,\\nor I'm done!",
+      "status": "imported"
+    },
+    "voice_205:r_cd06d0820d82524b": {
+      "text": "This is bad...! The tide's turning!",
+      "status": "imported"
+    },
+    "voice_205:r_c94c6d04be583774": {
+      "text": "When was my last fight this brutal?!",
+      "status": "imported"
+    },
+    "voice_205:r_e54e2c99ef8297af": {
+      "text": "They've got complete control now...!",
+      "status": "imported"
+    },
+    "voice_205:r_f16a3eb0bcaac082": {
+      "text": "Damn! You're done getting cocky!",
+      "status": "imported"
+    },
+    "voice_205:r_10a408809e512df1": {
+      "text": "Your attack's too light...!",
+      "status": "imported"
+    },
+    "voice_205:r_bc7b9e308b879dd4": {
+      "text": "Whoa! Too much momentum!",
+      "status": "imported"
+    },
+    "voice_205:r_98902fd3143c393e": {
+      "text": "Know just how outclassed you are...!",
+      "status": "imported"
+    },
+    "voice_205:r_d907fbd7bc1c4298": {
+      "text": "I've got no time for small fry!",
+      "status": "imported"
+    },
+    "voice_205:r_96b21e3a028dd074": {
+      "text": "Try putting some thought into it!",
+      "status": "imported"
+    },
+    "voice_205:r_ce140b5d8e6b7310": {
+      "text": "Damn! You're really hanging on!",
+      "status": "imported"
+    },
+    "voice_205:r_0e0335789c5396d7": {
+      "text": "So the armor deflected it...!",
+      "status": "imported"
+    },
+    "voice_205:r_a8e85bd950696403": {
+      "text": "This is nothing to worry about...!",
+      "status": "imported"
+    },
+    "voice_205:r_772c8bc40ab6cb61": {
+      "text": "Not a chance!",
+      "status": "imported"
+    },
+    "voice_205:r_58dd2826a199ef51": {
+      "text": "All right! Just as I planned!",
+      "status": "imported"
+    },
+    "voice_205:r_aadc0b2442adb93b": {
+      "text": "You've seriously underestimated me!",
+      "status": "imported"
+    },
+    "voice_205:r_e7a8cd8ed5bc2d1b": {
+      "text": "Are there total amateurs in there?",
+      "status": "imported"
+    },
+    "voice_205:r_041dd920da4a7c17": {
+      "text": "Straight out of the textbook...!",
+      "status": "imported"
+    },
+    "voice_205:r_c7f4280cde4605b3": {
+      "text": "What a sloppy attack...!",
+      "status": "imported"
+    },
+    "voice_205:r_ec349c8ea9511a18": {
+      "text": "Go ahead and stew over it!",
+      "status": "imported"
+    },
+    "voice_205:r_33236ffa3ea95b68": {
+      "text": "Things don't come that easy in life!",
+      "status": "imported"
+    },
+    "voice_205:r_689d0b123de71ae0": {
+      "text": "Understand that it's useless!",
+      "status": "imported"
+    },
+    "voice_205:r_25493e978ce8ff16": {
+      "text": "Sorry...! I've got gear for this!",
+      "status": "imported"
+    },
+    "voice_205:r_7316666150e42960": {
+      "text": "No counter?! What are you doing?!",
+      "status": "imported"
+    },
+    "voice_205:r_c4f11aa93dc5b668": {
+      "text": "Damn! I can only sit and watch?!",
+      "status": "imported"
+    },
+    "voice_205:r_ce1a22dfe3a4d339": {
+      "text": "Tch! They're one step ahead...!",
+      "status": "imported"
+    },
+    "voice_205:r_240651adab81e145": {
+      "text": "They completely outmaneuvered me...!",
+      "status": "imported"
+    },
+    "voice_205:r_cff0deaae73c2858": {
+      "text": "Remember! I'll pay you back double!",
+      "status": "imported"
+    },
+    "voice_205:r_dca67f68a573fab7": {
+      "text": "Damn! They've sealed my counter!",
+      "status": "imported"
+    },
+    "voice_205:r_a6630215fefaf294": {
+      "text": "I'll land a direct hit!",
+      "status": "imported"
+    },
+    "voice_205:r_6f94566ad37f8ff8": {
+      "text": "Running won't save you!",
+      "status": "imported"
+    },
+    "voice_205:r_942ca03c9de80143": {
+      "text": "The sights are lined up!",
+      "status": "imported"
+    },
+    "voice_205:r_d8c669c70659e18a": {
+      "text": "Target locked!",
+      "status": "imported"
+    },
+    "voice_205:r_8f5bade7ac2db78e": {
+      "text": "At this range, this'll do...!",
+      "status": "imported"
+    },
+    "voice_205:r_05ea490d2f522520": {
+      "text": "I'll take you in a grapple!",
+      "status": "imported"
+    },
+    "voice_205:r_f5658c702d91db7a": {
+      "text": "I'll crush the cockpit!",
+      "status": "imported"
+    },
+    "voice_205:r_686df329b50f195b": {
+      "text": "I'll finish you in close combat!",
+      "status": "imported"
+    },
+    "voice_205:r_25f0ab0fa3cf690c": {
+      "text": "Hah!",
+      "status": "imported"
+    },
+    "voice_205:r_b708a1d959013dbf": {
+      "text": "Here you go!",
+      "status": "imported"
+    },
+    "voice_205:r_59fca03e929366c1": {
+      "text": "There!",
+      "status": "imported"
+    },
+    "voice_205:r_0d65eb631dcb7514": {
+      "text": "Raaaah!",
+      "status": "imported"
+    },
+    "voice_205:r_d03018a31e23f1e9": {
+      "text": "Haaaaah!",
+      "status": "imported"
+    },
+    "voice_205:r_279da5f732aa8847": {
+      "text": "Hyaaaah!",
+      "status": "imported"
+    },
+    "voice_205:r_97f82e3cb6f70110": {
+      "text": "Finishing blow!",
+      "status": "imported"
+    },
+    "voice_205:r_c5611d8dd6def96b": {
+      "text": "It's over!",
+      "status": "imported"
+    },
+    "voice_205:r_6f12cc8ed2732eb5": {
+      "text": "I'll handle this!",
+      "status": "imported"
+    },
+    "voice_205:r_7abfc55f8fb62ba7": {
+      "text": "You owe me for this one!",
+      "status": "imported"
+    },
+    "voice_205:r_99e7a66c650b5892": {
+      "text": "You stay back!",
+      "status": "imported"
+    },
+    "voice_205:r_5b2247b5cfbcd7b2": {
+      "text": "I'll lead the way!",
+      "status": "imported"
+    },
+    "voice_205:r_2d7a9c06347582d9": {
+      "text": "Leave the cover fire to me!",
+      "status": "imported"
+    },
+    "voice_205:r_bf953d64c3c7d9b7": {
+      "text": "First, I'll stop them cold!",
+      "status": "imported"
+    },
+    "voice_205:r_e09b933e3e706779": {
+      "text": "Concentrate your fire!",
+      "status": "imported"
+    },
+    "voice_205:r_66236eb99b676e5b": {
+      "text": "I'll let you finish them off!",
+      "status": "imported"
+    },
+    "voice_205:r_9639a2dbcd2f58ed": {
+      "text": "You're the perfect opponent for me!",
+      "status": "imported"
+    },
+    "voice_205:r_aeea0893acb93d35": {
+      "text": "You're my target!",
+      "status": "imported"
+    },
+    "voice_205:r_b31568654e53487b": {
+      "text": "Leave this to me!",
+      "status": "imported"
+    },
+    "voice_205:r_2502132569141ea3": {
+      "text": "I'll tear their forces to shreds!",
+      "status": "imported"
+    },
+    "voice_205:r_1ff312798a52c8eb": {
+      "text": "Mission confirmed! I'm engaging!",
+      "status": "imported"
+    }
+  }
+}

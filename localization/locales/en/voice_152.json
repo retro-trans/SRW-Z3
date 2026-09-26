@@ -1,0 +1,622 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_152:r_479b340ccc6c572b": {
+      "text": "Mari, stick to the plan, okay?",
+      "status": "imported"
+    },
+    "voice_152:r_ca4acbac57a2a35e": {
+      "text": "Man, this is so exciting!",
+      "status": "imported"
+    },
+    "voice_152:r_77949221bf58f862": {
+      "text": "Adults in my plans...\\nI hesitate...",
+      "status": "imported"
+    },
+    "voice_152:r_70b9c4b9f1f37eff": {
+      "text": "Someone else's EVA isn't so bad...",
+      "status": "imported"
+    },
+    "voice_152:r_9fcb3754cb1773c7": {
+      "text": "Feeling great! One big push!",
+      "status": "imported"
+    },
+    "voice_152:r_3559d2fad32c2435": {
+      "text": "I'm raring to go! Let's gut it out!",
+      "status": "imported"
+    },
+    "voice_152:r_f7570547e9f80a64": {
+      "text": "Aha! Yeah, I like this feeling!",
+      "status": "imported"
+    },
+    "voice_152:r_cbab0f4720e1fcf1": {
+      "text": "Let's finish this in a flash!",
+      "status": "imported"
+    },
+    "voice_152:r_0bbe0b4f5364e732": {
+      "text": "It's sure different from a rush job!",
+      "status": "imported"
+    },
+    "voice_152:r_5dda5198137cb02a": {
+      "text": "All right, let's fire ourselves up!",
+      "status": "imported"
+    },
+    "voice_152:r_83ec59afbecdec14": {
+      "text": "Bad to push borrowed gear, but...!",
+      "status": "imported"
+    },
+    "voice_152:r_e20bfd42ad95a3c9": {
+      "text": "Mmm, this really does feel good!",
+      "status": "imported"
+    },
+    "voice_152:r_0f58a8822381e57f": {
+      "text": "How about I go all out, then?!",
+      "status": "imported"
+    },
+    "voice_152:r_b42ab697149a7c8a": {
+      "text": "Got it, Director Katsuragi!",
+      "status": "imported"
+    },
+    "voice_152:r_4de4fcf3b440baf4": {
+      "text": "Oh, here it comes!",
+      "status": "imported"
+    },
+    "voice_152:r_0121a166c715cdff": {
+      "text": "Let's go, Unit-02!",
+      "status": "imported"
+    },
+    "voice_152:r_30fad37a42bd3ad3": {
+      "text": "Let's do this!",
+      "status": "imported"
+    },
+    "voice_152:r_80a0b2a84e05d81a": {
+      "text": "Oraaa!",
+      "status": "imported"
+    },
+    "voice_152:r_4a9ac1dff86506d9": {
+      "text": "Eyes on me!",
+      "status": "imported"
+    },
+    "voice_152:r_bc8538e6af3d2577": {
+      "text": "Hey, over here!",
+      "status": "imported"
+    },
+    "voice_152:r_924516c8de2b5342": {
+      "text": "Prepare yourself!",
+      "status": "imported"
+    },
+    "voice_152:r_da1174533722333f": {
+      "text": "Go, go!",
+      "status": "imported"
+    },
+    "voice_152:r_fdeb8162976e72c1": {
+      "text": "How's this?",
+      "status": "imported"
+    },
+    "voice_152:r_0fadb5c26df92b42": {
+      "text": "Then let's give this one a try!",
+      "status": "imported"
+    },
+    "voice_152:r_6b15af9a0057cdc8": {
+      "text": "Looking good!",
+      "status": "imported"
+    },
+    "voice_152:r_15b4a90140e8a33a": {
+      "text": "Target locked!",
+      "status": "imported"
+    },
+    "voice_152:r_af884a6b11dff121": {
+      "text": "Guess we'll have to muscle through!",
+      "status": "imported"
+    },
+    "voice_152:r_ac6fe7838e95647b": {
+      "text": "Then I'll charge straight in...!",
+      "status": "imported"
+    },
+    "voice_152:r_77ca87eacd17ad52": {
+      "text": "First, the old one-two punch!",
+      "status": "imported"
+    },
+    "voice_152:r_bf3244994760e535": {
+      "text": "There! Hold still!",
+      "status": "imported"
+    },
+    "voice_152:r_aabfb21c9d069ce7": {
+      "text": "And another!",
+      "status": "imported"
+    },
+    "voice_152:r_02479dc8fe989560": {
+      "text": "I'm nowhere near finished!",
+      "status": "imported"
+    },
+    "voice_152:r_a2df00f91a9b0a9e": {
+      "text": "I won't let you reach Lilith!",
+      "status": "imported"
+    },
+    "voice_152:r_48b60d6c48b9b142": {
+      "text": "Gotta breach the field first...!",
+      "status": "imported"
+    },
+    "voice_152:r_8927e6fb681aa809": {
+      "text": "Wonder if it can bend spoons too?",
+      "status": "imported"
+    },
+    "voice_152:r_665f01666859013b": {
+      "text": "Conquest or extinction...\\nBig talk!",
+      "status": "imported"
+    },
+    "voice_152:r_a571eec59b258d11": {
+      "text": "Every era has\\npeople who crave war!",
+      "status": "imported"
+    },
+    "voice_152:r_ddbe581c5ea9183d": {
+      "text": "People don't deserve to be purged.",
+      "status": "imported"
+    },
+    "voice_152:r_faae935cca0edc72": {
+      "text": "You're rushing!\\nTake time to think!",
+      "status": "imported"
+    },
+    "voice_152:r_6ff1323b355593e0": {
+      "text": "We're both fake reds! Let's be pals!",
+      "status": "imported"
+    },
+    "voice_152:r_b7b5625d7cd4282f": {
+      "text": "Are you a puppy type too, maybe?",
+      "status": "imported"
+    },
+    "voice_152:r_36133ad73a73ef98": {
+      "text": "A Gundam's no reason to act big!",
+      "status": "imported"
+    },
+    "voice_152:r_920740a0219c5085": {
+      "text": "Hey, bug!\\nSweet water's over here!",
+      "status": "imported"
+    },
+    "voice_152:r_3633df5b7b8f47fa": {
+      "text": "Space sure is vast, nya.",
+      "status": "imported"
+    },
+    "voice_152:r_1b9b2aab5cb104da": {
+      "text": "Angels and all...\\nIt's hard enough!",
+      "status": "imported"
+    },
+    "voice_152:r_cf41e8828a90cbdb": {
+      "text": "Yikes! It's those girl kidnappers!",
+      "status": "imported"
+    },
+    "voice_152:r_719e897304ec42d4": {
+      "text": "Jealousy isn't\\nsomething to flaunt!",
+      "status": "imported"
+    },
+    "voice_152:r_d5e0a2317c40d322": {
+      "text": "Aw, they're hard to get a bead on!",
+      "status": "imported"
+    },
+    "voice_152:r_ec2ea17765052401": {
+      "text": "Damn, that thing is huge...!",
+      "status": "imported"
+    },
+    "voice_152:r_f2d4255f1c2f7542": {
+      "text": "Flying's no reason to get cocky!",
+      "status": "imported"
+    },
+    "voice_152:r_5d08ad19e2da125b": {
+      "text": "No choice! Force will have to do!",
+      "status": "imported"
+    },
+    "voice_152:r_a7246b52782a877e": {
+      "text": "Ooh! Found me a tough one!",
+      "status": "imported"
+    },
+    "voice_152:r_d6bdd730f24f66eb": {
+      "text": "Even an ace won't scare me off!",
+      "status": "imported"
+    },
+    "voice_152:r_41997412868c48c4": {
+      "text": "Leaders oughta\\ngo down first!",
+      "status": "imported"
+    },
+    "voice_152:r_9e6cf4f389dae55c": {
+      "text": "Battleship scored!",
+      "status": "imported"
+    },
+    "voice_152:r_9e0c80ac7e33b459": {
+      "text": "Unit-02... One last job!",
+      "status": "imported"
+    },
+    "voice_152:r_7432ef43ed3471dc": {
+      "text": "Let's settle this here!",
+      "status": "imported"
+    },
+    "voice_152:r_065443f6ddfcf0d7": {
+      "text": "Stop this, or the world's toast!",
+      "status": "imported"
+    },
+    "voice_152:r_47d52a2839c71715": {
+      "text": "Our future's in your hands, Mari!",
+      "status": "imported"
+    },
+    "voice_152:r_847f82e7f3eef651": {
+      "text": "It's a heavy load, but let's do it!",
+      "status": "imported"
+    },
+    "voice_152:r_eb7ae28b53dc033c": {
+      "text": "Heaven's wrath on war's mastermind!",
+      "status": "imported"
+    },
+    "voice_152:r_857c4a52ce8df0fd": {
+      "text": "Fight dirty,\\nget punished!",
+      "status": "imported"
+    },
+    "voice_152:r_55417493fce1d347": {
+      "text": "Shall I go with this?",
+      "status": "imported"
+    },
+    "voice_152:r_8fdf5910927c9591": {
+      "text": "Nyaaa!",
+      "status": "imported"
+    },
+    "voice_152:r_7d724dbcc4451e10": {
+      "text": "Ooryaaaaah!",
+      "status": "imported"
+    },
+    "voice_152:r_93e25418a203cb8f": {
+      "text": "I won't hold back!",
+      "status": "imported"
+    },
+    "voice_152:r_adeb0a29274d3d9b": {
+      "text": "Heave-hooo!",
+      "status": "imported"
+    },
+    "voice_152:r_24cf161287ef9d5c": {
+      "text": "Doryaaaaah!",
+      "status": "imported"
+    },
+    "voice_152:r_b1de76a75a253c13": {
+      "text": "Uoryaaah!",
+      "status": "imported"
+    },
+    "voice_152:r_5213c17e13b23de0": {
+      "text": "Deyaaaaah!",
+      "status": "imported"
+    },
+    "voice_152:r_620fedec67706d7d": {
+      "text": "Uryaaah!",
+      "status": "imported"
+    },
+    "voice_152:r_98d15b8cc09bc915": {
+      "text": "Heave-ho!",
+      "status": "imported"
+    },
+    "voice_152:r_46e86d000250e137": {
+      "text": "Hup!",
+      "status": "imported"
+    },
+    "voice_152:r_cdbd128a5b4127cc": {
+      "text": "Daaaaaaaah!",
+      "status": "imported"
+    },
+    "voice_152:r_cfccaa1fbeda124c": {
+      "text": "Just hurry up... and drop dead!!",
+      "status": "imported"
+    },
+    "voice_152:r_b1f8ec192b9c083a": {
+      "text": "Then, this one!",
+      "status": "imported"
+    },
+    "voice_152:r_ddafde4b065ced49": {
+      "text": "Hah!",
+      "status": "imported"
+    },
+    "voice_152:r_3304412ac41f47a6": {
+      "text": "Soryaaaaah!",
+      "status": "imported"
+    },
+    "voice_152:r_0c0775e051211840": {
+      "text": "Punch right through!!",
+      "status": "imported"
+    },
+    "voice_152:r_391aa56435d9dd6e": {
+      "text": "Don't you run! Oraaaaa!",
+      "status": "imported"
+    },
+    "voice_152:r_7c796ba53bd7ea03": {
+      "text": "Time to counterattack!",
+      "status": "imported"
+    },
+    "voice_152:r_fa944da4b6519006": {
+      "text": "You won't get away!",
+      "status": "imported"
+    },
+    "voice_152:r_95d047bcc17fccc6": {
+      "text": "I'll pay you back double!",
+      "status": "imported"
+    },
+    "voice_152:r_640327a12a559b31": {
+      "text": "No hit-and-run, nya.",
+      "status": "imported"
+    },
+    "voice_152:r_bdd38c584fa313d0": {
+      "text": "You're still hanging around there!",
+      "status": "imported"
+    },
+    "voice_152:r_3fd86c1027f317c8": {
+      "text": "Outta the way, outta the way!",
+      "status": "imported"
+    },
+    "voice_152:r_d0372a183d2007ad": {
+      "text": "I'll steal the glory, nya!",
+      "status": "imported"
+    },
+    "voice_152:r_217aa5e1d545b44d": {
+      "text": "You called, and here I am! Sort of!",
+      "status": "imported"
+    },
+    "voice_152:r_381992c5d8224937": {
+      "text": "Rest's on me, NERV's little puppy!",
+      "status": "imported"
+    },
+    "voice_152:r_f1e7ed9e5874aba5": {
+      "text": "Now then, let's back up Unit-00!",
+      "status": "imported"
+    },
+    "voice_152:r_fc25e66a86fc2c85": {
+      "text": "You need to get out, now!",
+      "status": "imported"
+    },
+    "voice_152:r_5aeeb4917340c42d": {
+      "text": "It's dangerous to stay there!",
+      "status": "imported"
+    },
+    "voice_152:r_b765659981b6516d": {
+      "text": "I said watch out, puppy!",
+      "status": "imported"
+    },
+    "voice_152:r_0c427458bc00eb95": {
+      "text": "EVAs have to work together!",
+      "status": "imported"
+    },
+    "voice_152:r_774a9ab4d8fd5351": {
+      "text": "Huh?! What?! All weapons disabled?!",
+      "status": "imported"
+    },
+    "voice_152:r_d3f01de714c015bd": {
+      "text": "Well, these things happen.",
+      "status": "imported"
+    },
+    "voice_152:r_7d2617c809fead70": {
+      "text": "Can't play - sorry, sorry!",
+      "status": "imported"
+    },
+    "voice_152:r_ceb935ccbf830724": {
+      "text": "Nyaargh! What a sneaky creep!",
+      "status": "imported"
+    },
+    "voice_152:r_862ef7385bf2abd4": {
+      "text": "Aw, they left already...!",
+      "status": "imported"
+    },
+    "voice_152:r_001cbec4d9a4283f": {
+      "text": "Huh? I can't reach from here!",
+      "status": "imported"
+    },
+    "voice_152:r_8ad40afecd02b41e": {
+      "text": "Maybe that was a bit too direct.",
+      "status": "imported"
+    },
+    "voice_152:r_26e5efec03c03d78": {
+      "text": "What a letdown, nya.",
+      "status": "imported"
+    },
+    "voice_152:r_4ad81e88c7557a8b": {
+      "text": "Nice reaction! That feels so good!",
+      "status": "imported"
+    },
+    "voice_152:r_1f65a7af190e4674": {
+      "text": "Can't damage someone else's EVA.",
+      "status": "imported"
+    },
+    "voice_152:r_40c5a9358ed5bf29": {
+      "text": "Oh, sorry. I dodged it.",
+      "status": "imported"
+    },
+    "voice_152:r_f2e18dfdfe0c89ea": {
+      "text": "Wow! That's Unit-02 for you!",
+      "status": "imported"
+    },
+    "voice_152:r_cf7dbf49e96a5755": {
+      "text": "Mari, how are things over there?",
+      "status": "imported"
+    },
+    "voice_152:r_fa96676cc65bb509": {
+      "text": "Mmm, it's going too smoothly, nya.",
+      "status": "imported"
+    },
+    "voice_152:r_4e37f92e7d2fc62e": {
+      "text": "That stuff won't work on me!",
+      "status": "imported"
+    },
+    "voice_152:r_0bad405ee6ca63ba": {
+      "text": "Too bad! There was a field!",
+      "status": "imported"
+    },
+    "voice_152:r_2072eaf71a260ae7": {
+      "text": "Now this is what EVA is all about!",
+      "status": "imported"
+    },
+    "voice_152:r_6c13bbfd27a7799e": {
+      "text": "A.T. Field!",
+      "status": "imported"
+    },
+    "voice_152:r_06f88dcbd3c9e738": {
+      "text": "A.T. Field, full power!",
+      "status": "imported"
+    },
+    "voice_152:r_b28faf9f71bc3598": {
+      "text": "Field at full power!",
+      "status": "imported"
+    },
+    "voice_152:r_8a29278549f8e07a": {
+      "text": "Deploy the field!",
+      "status": "imported"
+    },
+    "voice_152:r_7e6c573c26177f98": {
+      "text": "Whoa! My glasses, my glasses...",
+      "status": "imported"
+    },
+    "voice_152:r_45abf84f7757d6eb": {
+      "text": "Aw, shoot! Movement's sluggish...!",
+      "status": "imported"
+    },
+    "voice_152:r_edd7a13ab8f06a14": {
+      "text": "I see. So that's all you've got.",
+      "status": "imported"
+    },
+    "voice_152:r_8165e5b41f0124c4": {
+      "text": "You're kind of interesting.",
+      "status": "imported"
+    },
+    "voice_152:r_4e05581b7432cce8": {
+      "text": "I thought I dodged it, nya.",
+      "status": "imported"
+    },
+    "voice_152:r_a60b107ea3c36a86": {
+      "text": "Oops, that hit me!",
+      "status": "imported"
+    },
+    "voice_152:r_e33693e5ba4665b0": {
+      "text": "Mari, report your status.",
+      "status": "imported"
+    },
+    "voice_152:r_72a21a1a489af001": {
+      "text": "Damage is minor. No problem!",
+      "status": "imported"
+    },
+    "voice_152:r_eb643f8bf737a0ca": {
+      "text": "Urgh! That hurts...!",
+      "status": "imported"
+    },
+    "voice_152:r_0a3fccb71ec6cf2a": {
+      "text": "Fine.\\nTake an armor plate or two!",
+      "status": "imported"
+    },
+    "voice_152:r_9b63cf1f3e0207ef": {
+      "text": "Hey, not bad! 80 points!",
+      "status": "imported"
+    },
+    "voice_152:r_8356f4e3dcdff938": {
+      "text": "Oww! That made me see stars!",
+      "status": "imported"
+    },
+    "voice_152:r_1d6d784036ae0bd7": {
+      "text": "What the heck? I'm in a real pinch!",
+      "status": "imported"
+    },
+    "voice_152:r_625664af02183c17": {
+      "text": "So you pierced the field!",
+      "status": "imported"
+    },
+    "voice_152:r_3701cba361f80ea5": {
+      "text": "A few scrapes? Fine! Push through!",
+      "status": "imported"
+    },
+    "voice_152:r_63f429c5c68c0863": {
+      "text": "Brute force?\\nClassic Katsuragi!",
+      "status": "imported"
+    },
+    "voice_152:r_38e4a434c91d8ef0": {
+      "text": "Ow-ow-ow-ow-ow...!",
+      "status": "imported"
+    },
+    "voice_152:r_98ed411352a3a6ac": {
+      "text": "Whoa! Right at the limit...!",
+      "status": "imported"
+    },
+    "voice_152:r_4824bea6bab3af67": {
+      "text": "It hurts like hell, but it's fun...!",
+      "status": "imported"
+    },
+    "voice_152:r_862b92e63adb9734": {
+      "text": "I only just got to pilot it!",
+      "status": "imported"
+    },
+    "voice_152:r_cb306ef55e49d107": {
+      "text": "Urrgh...! I nearly died, nya!",
+      "status": "imported"
+    },
+    "voice_152:r_57b2bd2de8a1408d": {
+      "text": "At this rate, Unit-02 is toast!",
+      "status": "imported"
+    },
+    "voice_152:r_76f080a4881e8ab5": {
+      "text": "I can't win like this...",
+      "status": "imported"
+    },
+    "voice_152:r_288133bc5b573dae": {
+      "text": "No! Stop it, Mari!",
+      "status": "imported"
+    },
+    "voice_152:r_6f95653e548f8fcf": {
+      "text": "Owww...\\nEVA syncing is brutal...",
+      "status": "imported"
+    },
+    "voice_152:r_d249d68bada91ab9": {
+      "text": "Ghh... Urrrrrgh...! I lost!!",
+      "status": "imported"
+    },
+    "voice_152:r_e9b3307e9eb69f11": {
+      "text": "Retreat, retreat! Buh-bye!",
+      "status": "imported"
+    },
+    "voice_152:r_03cdac73042343ee": {
+      "text": "Huh? So you're pausing the game.",
+      "status": "imported"
+    },
+    "voice_152:r_6026da5acbda7c69": {
+      "text": "No overdoing. Rest. Shoulder rub?",
+      "status": "imported"
+    },
+    "voice_152:r_981f8fedd5414fe5": {
+      "text": "Rest, come back. Promise? I'll wait.",
+      "status": "imported"
+    },
+    "voice_152:r_96bb0dcde0c8c44a": {
+      "text": "Well then! Bye-nyaaan!",
+      "status": "imported"
+    },
+    "voice_152:r_641550a2f54cb456": {
+      "text": "What?! I'm only clearing the way?!",
+      "status": "imported"
+    },
+    "voice_152:r_a0f2074af8debbfa": {
+      "text": "Aren't you working me too hard?",
+      "status": "imported"
+    },
+    "voice_152:r_b5f5a97ed82acb0b": {
+      "text": "Pardon me, I'm going on ahead!",
+      "status": "imported"
+    },
+    "voice_152:r_d9cd2e4ded064396": {
+      "text": "Yeah, yeah. Going on ahead!",
+      "status": "imported"
+    },
+    "voice_152:r_99e6349431aaf23b": {
+      "text": "Gotta make sure I get my share.",
+      "status": "imported"
+    },
+    "voice_152:r_ec1081caf845f56a": {
+      "text": "Ooh! That one looks tasty!",
+      "status": "imported"
+    },
+    "voice_152:r_2c5b7ee872c1ed7f": {
+      "text": "Give me a proper, solid fight!",
+      "status": "imported"
+    },
+    "voice_152:r_76d1e51c8b494a60": {
+      "text": "We have a match, nya.",
+      "status": "imported"
+    }
+  }
+}

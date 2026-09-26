@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "trader_spirit_prompts:buy_suffix": {"text": "」 to buy", "status": "translated"},
+    "trader_spirit_prompts:sell_name_suffix": {"text": "」:", "status": "translated"},
+    "trader_spirit_prompts:sell_count_suffix": {"text": "」 to sell", "status": "translated"},
+    "trader_spirit_prompts:sp_cost": {"text": "SP Cost\nSP", "status": "translated"},
+    "trader_spirit_prompts:spirit_frame": {"text": "", "status": "translated"},
+    "trader_spirit_prompts:attune_frame": {"text": "", "status": "translated"}
+  }
+}

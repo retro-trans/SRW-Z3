@@ -1,0 +1,726 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_189:r_479b340ccc6c572b": {
+      "text": "We have a mission!",
+      "status": "imported"
+    },
+    "voice_189:r_77949221bf58f862": {
+      "text": "The Captain and we clear his path!",
+      "status": "imported"
+    },
+    "voice_189:r_70b9c4b9f1f37eff": {
+      "text": "For the Personal Guard's honor!",
+      "status": "imported"
+    },
+    "voice_189:r_9fcb3754cb1773c7": {
+      "text": "Now behold the Guard's true power!",
+      "status": "imported"
+    },
+    "voice_189:r_3559d2fad32c2435": {
+      "text": "There!",
+      "status": "imported"
+    },
+    "voice_189:r_f7570547e9f80a64": {
+      "text": "You're in my way!",
+      "status": "imported"
+    },
+    "voice_189:r_cbab0f4720e1fcf1": {
+      "text": "Time for you to disappear!",
+      "status": "imported"
+    },
+    "voice_189:r_0bbe0b4f5364e732": {
+      "text": "I'll take you down right here!",
+      "status": "imported"
+    },
+    "voice_189:r_5dda5198137cb02a": {
+      "text": "Whoever stands in our way...!",
+      "status": "imported"
+    },
+    "voice_189:r_83ec59afbecdec14": {
+      "text": "I'll eliminate you at once!",
+      "status": "imported"
+    },
+    "voice_189:r_e20bfd42ad95a3c9": {
+      "text": "I'll bring you down no matter what!",
+      "status": "imported"
+    },
+    "voice_189:r_0f58a8822381e57f": {
+      "text": "You'll regret this!",
+      "status": "imported"
+    },
+    "voice_189:r_6dbcc507fb61b51d": {
+      "text": "Underestimate me and you'll pay!",
+      "status": "imported"
+    },
+    "voice_189:r_b42ab697149a7c8a": {
+      "text": "I've found an opening!",
+      "status": "imported"
+    },
+    "voice_189:r_4de4fcf3b440baf4": {
+      "text": "Get out of my way!",
+      "status": "imported"
+    },
+    "voice_189:r_0121a166c715cdff": {
+      "text": "Slowpokes, stay out of this!",
+      "status": "imported"
+    },
+    "voice_189:r_30fad37a42bd3ad3": {
+      "text": "Don't think our title is for show!",
+      "status": "imported"
+    },
+    "voice_189:r_80a0b2a84e05d81a": {
+      "text": "Can you read this attack?!",
+      "status": "imported"
+    },
+    "voice_189:r_4a9ac1dff86506d9": {
+      "text": "The Guard's name isn't for show!",
+      "status": "imported"
+    },
+    "voice_189:r_bc8538e6af3d2577": {
+      "text": "Firing!",
+      "status": "imported"
+    },
+    "voice_189:r_924516c8de2b5342": {
+      "text": "I've got you in my sights!",
+      "status": "imported"
+    },
+    "voice_189:r_da1174533722333f": {
+      "text": "Target locked!",
+      "status": "imported"
+    },
+    "voice_189:r_fdeb8162976e72c1": {
+      "text": "Strike a single point!",
+      "status": "imported"
+    },
+    "voice_189:r_0fadb5c26df92b42": {
+      "text": "Closing in!",
+      "status": "imported"
+    },
+    "voice_189:r_6b15af9a0057cdc8": {
+      "text": "I'll take you on up close!",
+      "status": "imported"
+    },
+    "voice_189:r_15b4a90140e8a33a": {
+      "text": "You carelessly came too close!",
+      "status": "imported"
+    },
+    "voice_189:r_af884a6b11dff121": {
+      "text": "All right! One more!",
+      "status": "imported"
+    },
+    "voice_189:r_ac6fe7838e95647b": {
+      "text": "It's too soon to take a breather!",
+      "status": "imported"
+    },
+    "voice_189:r_77ca87eacd17ad52": {
+      "text": "I'll bring down the Gundam!",
+      "status": "imported"
+    },
+    "voice_189:r_bf3244994760e535": {
+      "text": "Even a Gundam can't beat the Guard!",
+      "status": "imported"
+    },
+    "voice_189:r_aabfb21c9d069ce7": {
+      "text": "The Guard will take on the Gundam!",
+      "status": "imported"
+    },
+    "voice_189:r_02479dc8fe989560": {
+      "text": "Can a fake Gundam challenge me?!",
+      "status": "imported"
+    },
+    "voice_189:r_a2df00f91a9b0a9e": {
+      "text": "We'll seize the Box ourselves!",
+      "status": "imported"
+    },
+    "voice_189:r_48b60d6c48b9b142": {
+      "text": "If we can disable it...!",
+      "status": "imported"
+    },
+    "voice_189:r_8927e6fb681aa809": {
+      "text": "Pay for insulting the Colonel!",
+      "status": "imported"
+    },
+    "voice_189:r_665f01666859013b": {
+      "text": "We'll silence Londo Bell!",
+      "status": "imported"
+    },
+    "voice_189:r_a571eec59b258d11": {
+      "text": "Londo Bell!\\nCan you handle us?!",
+      "status": "imported"
+    },
+    "voice_189:r_ddbe581c5ea9183d": {
+      "text": "A Celestial Being Gundam!",
+      "status": "imported"
+    },
+    "voice_189:r_faae935cca0edc72": {
+      "text": "A colony Gundam?!",
+      "status": "imported"
+    },
+    "voice_189:r_6ff1323b355593e0": {
+      "text": "Regret becoming a Federation dog!",
+      "status": "imported"
+    },
+    "voice_189:r_920740a0219c5085": {
+      "text": "Traitors must be purged!",
+      "status": "imported"
+    },
+    "voice_189:r_3633df5b7b8f47fa": {
+      "text": "We'll crush you as an example!",
+      "status": "imported"
+    },
+    "voice_189:r_1b9b2aab5cb104da": {
+      "text": "A Red Comet with no conviction...!",
+      "status": "imported"
+    },
+    "voice_189:r_342044c706a2340f": {
+      "text": "I'll pierce that heavy armor!",
+      "status": "imported"
+    },
+    "voice_189:r_cf41e8828a90cbdb": {
+      "text": "That big body makes an easy target!",
+      "status": "imported"
+    },
+    "voice_189:r_719e897304ec42d4": {
+      "text": "Flee in terror, variable fighter!",
+      "status": "imported"
+    },
+    "voice_189:r_d5e0a2317c40d322": {
+      "text": "Immobilize it, and it's no threat!",
+      "status": "imported"
+    },
+    "voice_189:r_ec2ea17765052401": {
+      "text": "An AT dares to challenge us?!",
+      "status": "imported"
+    },
+    "voice_189:r_f2d4255f1c2f7542": {
+      "text": "Don't think a mere AS can win!",
+      "status": "imported"
+    },
+    "voice_189:r_5d08ad19e2da125b": {
+      "text": "Black Knights! Some still survive?!",
+      "status": "imported"
+    },
+    "voice_189:r_a7246b52782a877e": {
+      "text": "Just a nimble little machine...!",
+      "status": "imported"
+    },
+    "voice_189:r_dc8701f6bcb9904f": {
+      "text": "Civilians get no mercy from us!",
+      "status": "imported"
+    },
+    "voice_189:r_9e6cf4f389dae55c": {
+      "text": "An amateur can't fight us!",
+      "status": "imported"
+    },
+    "voice_189:r_065443f6ddfcf0d7": {
+      "text": "It seems you're quite a foe!",
+      "status": "imported"
+    },
+    "voice_189:r_47d52a2839c71715": {
+      "text": "A perfect foe to prove our power!",
+      "status": "imported"
+    },
+    "voice_189:r_847f82e7f3eef651": {
+      "text": "Command unit spotted! Engaging!",
+      "status": "imported"
+    },
+    "voice_189:r_eb7ae28b53dc033c": {
+      "text": "Focus fire on the mothership!",
+      "status": "imported"
+    },
+    "voice_189:r_857c4a52ce8df0fd": {
+      "text": "I'll crush the bridge!",
+      "status": "imported"
+    },
+    "voice_189:r_d0372a183d2007ad": {
+      "text": "You'll get what's coming to you!",
+      "status": "imported"
+    },
+    "voice_189:r_217aa5e1d545b44d": {
+      "text": "I'll seize this chance!",
+      "status": "imported"
+    },
+    "voice_189:r_381992c5d8224937": {
+      "text": "Don't think you can escape!",
+      "status": "imported"
+    },
+    "voice_189:r_f1e7ed9e5874aba5": {
+      "text": "I'll hit before I lose the target!",
+      "status": "imported"
+    },
+    "voice_189:r_fc25e66a86fc2c85": {
+      "text": "I'm in the perfect position!",
+      "status": "imported"
+    },
+    "voice_189:r_5aeeb4917340c42d": {
+      "text": "You underestimated the Guard!",
+      "status": "imported"
+    },
+    "voice_189:r_b765659981b6516d": {
+      "text": "Repent your foolishness!",
+      "status": "imported"
+    },
+    "voice_189:r_0c427458bc00eb95": {
+      "text": "This is your fate for attacking us!",
+      "status": "imported"
+    },
+    "voice_189:r_774a9ab4d8fd5351": {
+      "text": "Cover our ally!",
+      "status": "imported"
+    },
+    "voice_189:r_d3f01de714c015bd": {
+      "text": "Following up with an attack!",
+      "status": "imported"
+    },
+    "voice_189:r_7d2617c809fead70": {
+      "text": "Behold the Guard's teamwork!",
+      "status": "imported"
+    },
+    "voice_189:r_ceb935ccbf830724": {
+      "text": "Captain Angelo, I'll back you up!",
+      "status": "imported"
+    },
+    "voice_189:r_862ef7385bf2abd4": {
+      "text": "We can't trouble the Colonel...!",
+      "status": "imported"
+    },
+    "voice_189:r_001cbec4d9a4283f": {
+      "text": "Commander! I'll support you!",
+      "status": "imported"
+    },
+    "voice_189:r_8ad40afecd02b41e": {
+      "text": "Garencieres crew,\\nis that all?!",
+      "status": "imported"
+    },
+    "voice_189:r_26e5efec03c03d78": {
+      "text": "I won't let them hurt an ally!",
+      "status": "imported"
+    },
+    "voice_189:r_4ad81e88c7557a8b": {
+      "text": "Hurry! Cover them!",
+      "status": "imported"
+    },
+    "voice_189:r_1f65a7af190e4674": {
+      "text": "The Guard can't lose anyone!",
+      "status": "imported"
+    },
+    "voice_189:r_40c5a9358ed5bf29": {
+      "text": "You're in danger, Captain Angelo!",
+      "status": "imported"
+    },
+    "voice_189:r_f2e18dfdfe0c89ea": {
+      "text": "I'll guard the Colonel with my life!",
+      "status": "imported"
+    },
+    "voice_189:r_cf7dbf49e96a5755": {
+      "text": "I must cover the Commander...!",
+      "status": "imported"
+    },
+    "voice_189:r_fa96676cc65bb509": {
+      "text": "Cleaning up after Garencieres...!",
+      "status": "imported"
+    },
+    "voice_189:r_4e37f92e7d2fc62e": {
+      "text": "What?! I can't counterattack!",
+      "status": "imported"
+    },
+    "voice_189:r_66ab4cfe1557909d": {
+      "text": "They shut down my counterattack...!",
+      "status": "imported"
+    },
+    "voice_189:r_0bad405ee6ca63ba": {
+      "text": "Damn! A disgrace to the Guard!",
+      "status": "imported"
+    },
+    "voice_189:r_2072eaf71a260ae7": {
+      "text": "My output is below regulation...!",
+      "status": "imported"
+    },
+    "voice_189:r_6c13bbfd27a7799e": {
+      "text": "Their weapons outperform ours...!",
+      "status": "imported"
+    },
+    "voice_189:r_06f88dcbd3c9e738": {
+      "text": "They read\\nour firing range...?!",
+      "status": "imported"
+    },
+    "voice_189:r_b28faf9f71bc3598": {
+      "text": "Hmph... You look awfully rattled.",
+      "status": "imported"
+    },
+    "voice_189:r_8a29278549f8e07a": {
+      "text": "Your attack's plain to see.",
+      "status": "imported"
+    },
+    "voice_189:r_7e6c573c26177f98": {
+      "text": "I knew you'd come at me that way.",
+      "status": "imported"
+    },
+    "voice_189:r_45abf84f7757d6eb": {
+      "text": "I can manage at least this much!",
+      "status": "imported"
+    },
+    "voice_189:r_edd7a13ab8f06a14": {
+      "text": "Don't underestimate the Guard!",
+      "status": "imported"
+    },
+    "voice_189:r_8165e5b41f0124c4": {
+      "text": "This is the Guard's true strength!",
+      "status": "imported"
+    },
+    "voice_189:r_4e05581b7432cce8": {
+      "text": "I won't sully the Guard's name!",
+      "status": "imported"
+    },
+    "voice_189:r_a60b107ea3c36a86": {
+      "text": "I did it, Captain Angelo!",
+      "status": "imported"
+    },
+    "voice_189:r_e33693e5ba4665b0": {
+      "text": "Did you see that, Colonel Frontal!",
+      "status": "imported"
+    },
+    "voice_189:r_72a21a1a489af001": {
+      "text": "You don't live up to Gundam's name!",
+      "status": "imported"
+    },
+    "voice_189:r_eb643f8bf737a0ca": {
+      "text": "The Gundam name\\ncan't win anymore!",
+      "status": "imported"
+    },
+    "voice_189:r_0a3fccb71ec6cf2a": {
+      "text": "Even the latest model is pathetic!",
+      "status": "imported"
+    },
+    "voice_189:r_9b63cf1f3e0207ef": {
+      "text": "Is that all Londo Bell can do?!",
+      "status": "imported"
+    },
+    "voice_189:r_8356f4e3dcdff938": {
+      "text": "Just the Federation's watchdog!",
+      "status": "imported"
+    },
+    "voice_189:r_1d6d784036ae0bd7": {
+      "text": "You've sunk to being their lapdogs!",
+      "status": "imported"
+    },
+    "voice_189:r_63f429c5c68c0863": {
+      "text": "You've gone soft, traitor!",
+      "status": "imported"
+    },
+    "voice_189:r_98ed411352a3a6ac": {
+      "text": "Red Comet befits only the Colonel!",
+      "status": "imported"
+    },
+    "voice_189:r_4824bea6bab3af67": {
+      "text": "You're a hollow shell, all bluff!",
+      "status": "imported"
+    },
+    "voice_189:r_862b92e63adb9734": {
+      "text": "Everything about you is flimsy...!",
+      "status": "imported"
+    },
+    "voice_189:r_cb306ef55e49d107": {
+      "text": "Civilians\\ncan't face the Guard!",
+      "status": "imported"
+    },
+    "voice_189:r_eb5f687fcd372ae7": {
+      "text": "That won't work!",
+      "status": "imported"
+    },
+    "voice_189:r_2329428a6871d9fa": {
+      "text": "With this barrier, that's nothing!",
+      "status": "imported"
+    },
+    "voice_189:r_efa71f7a4cc33ff3": {
+      "text": "I'll deflect it with the I-Field!",
+      "status": "imported"
+    },
+    "voice_189:r_3fc2e1186557e7a0": {
+      "text": "It only hit my shield!",
+      "status": "imported"
+    },
+    "voice_189:r_fa6930340a545054": {
+      "text": "My shield saved my life...!",
+      "status": "imported"
+    },
+    "voice_189:r_2332b9d56461d7ab": {
+      "text": "Ngh, it grazed me...!",
+      "status": "imported"
+    },
+    "voice_189:r_854aa0a91a3c80d1": {
+      "text": "What a pathetic attack!",
+      "status": "imported"
+    },
+    "voice_189:r_0bc8ae32a406ceab": {
+      "text": "You're no threat at all!",
+      "status": "imported"
+    },
+    "voice_189:r_82c09f011d703b2c": {
+      "text": "Damn it! I couldn't dodge!",
+      "status": "imported"
+    },
+    "voice_189:r_2b4d8818c77b6dca": {
+      "text": "You dare toy with the Guard...!",
+      "status": "imported"
+    },
+    "voice_189:r_087354f2db0a31e6": {
+      "text": "You think that can beat the Guard?!",
+      "status": "imported"
+    },
+    "voice_189:r_db02a2dec93dd263": {
+      "text": "I damaged the machine I was granted!",
+      "status": "imported"
+    },
+    "voice_189:r_d520c6d5298a848d": {
+      "text": "I'll dodge next time, Capt. Angelo!",
+      "status": "imported"
+    },
+    "voice_189:r_099e2458cabf796f": {
+      "text": "I'm not on the Colonel's level...!",
+      "status": "imported"
+    },
+    "voice_189:r_fd910d714be70870": {
+      "text": "Damn! Next time won't go this way!",
+      "status": "imported"
+    },
+    "voice_189:r_9736f29b11344ec3": {
+      "text": "That read was just a fluke...!",
+      "status": "imported"
+    },
+    "voice_189:r_fcd05582aa5c6068": {
+      "text": "What a clever trick you pulled...!",
+      "status": "imported"
+    },
+    "voice_189:r_bece29562818acba": {
+      "text": "Only armor was hit!\\nDrive's intact!",
+      "status": "imported"
+    },
+    "voice_189:r_494b5da92ed24ecb": {
+      "text": "You're a match for me... Not bad!",
+      "status": "imported"
+    },
+    "voice_189:r_a4a5a96f4bd58920": {
+      "text": "The Guard's capable of far more...!",
+      "status": "imported"
+    },
+    "voice_189:r_b57d2d74233f889a": {
+      "text": "The Guard gets serious now!",
+      "status": "imported"
+    },
+    "voice_189:r_cd06d0820d82524b": {
+      "text": "Ngh!\\nI can't fail the Captain!",
+      "status": "imported"
+    },
+    "voice_189:r_c94c6d04be583774": {
+      "text": "Insult me, insult the Colonel!\\nNo!",
+      "status": "imported"
+    },
+    "voice_189:r_e54e2c99ef8297af": {
+      "text": "Gundam! You live up to the rumors!",
+      "status": "imported"
+    },
+    "voice_189:r_f16a3eb0bcaac082": {
+      "text": "Fearsome...\\nBoth Gundam and pilot!",
+      "status": "imported"
+    },
+    "voice_189:r_10a408809e512df1": {
+      "text": "Hold back and I'm finished...!",
+      "status": "imported"
+    },
+    "voice_189:r_bc7b9e308b879dd4": {
+      "text": "That cursed V-fin...!",
+      "status": "imported"
+    },
+    "voice_189:r_98902fd3143c393e": {
+      "text": "Th-this is Londo Bell...?!",
+      "status": "imported"
+    },
+    "voice_189:r_d907fbd7bc1c4298": {
+      "text": "The sound of bells closes in...!",
+      "status": "imported"
+    },
+    "voice_189:r_96b21e3a028dd074": {
+      "text": "Now you've done it, Celestial Being!",
+      "status": "imported"
+    },
+    "voice_189:r_ce140b5d8e6b7310": {
+      "text": "Colony Gundam! Getting cocky?!",
+      "status": "imported"
+    },
+    "voice_189:r_a8e85bd950696403": {
+      "text": "I-I won't fall to a traitor...!",
+      "status": "imported"
+    },
+    "voice_189:r_58dd2826a199ef51": {
+      "text": "So fast...! Is that the Red Comet?!",
+      "status": "imported"
+    },
+    "voice_189:r_aadc0b2442adb93b": {
+      "text": "I-I can't win...!\\nA Newtype?!",
+      "status": "imported"
+    },
+    "voice_189:r_e7a8cd8ed5bc2d1b": {
+      "text": "Damn, impossible!\\nA Newtype?!",
+      "status": "imported"
+    },
+    "voice_189:r_041dd920da4a7c17": {
+      "text": "Damn! That power's off the charts!",
+      "status": "imported"
+    },
+    "voice_189:r_c7f4280cde4605b3": {
+      "text": "Overwhelming power... Truly super!",
+      "status": "imported"
+    },
+    "voice_189:r_ec349c8ea9511a18": {
+      "text": "Far too fast! At this rate...!",
+      "status": "imported"
+    },
+    "voice_189:r_33236ffa3ea95b68": {
+      "text": "That AT pilot's no ordinary foe!",
+      "status": "imported"
+    },
+    "voice_189:r_689d0b123de71ae0": {
+      "text": "An AS did this much damage to me?!",
+      "status": "imported"
+    },
+    "voice_189:r_84883aa95f63ce32": {
+      "text": "To Black Knights without ideals...!",
+      "status": "imported"
+    },
+    "voice_189:r_25493e978ce8ff16": {
+      "text": "Civilians outplayed the Guard...?!",
+      "status": "imported"
+    },
+    "voice_189:r_ce1a22dfe3a4d339": {
+      "text": "M-me...\\nOverwhelmed by a pilot...?!",
+      "status": "imported"
+    },
+    "voice_189:r_bf953d64c3c7d9b7": {
+      "text": "Why?! Why?!",
+      "status": "imported"
+    },
+    "voice_189:r_e09b933e3e706779": {
+      "text": "Whoa! Th-this is bad, bad!",
+      "status": "imported"
+    },
+    "voice_189:r_66236eb99b676e5b": {
+      "text": "A foe this strong... I had no idea!",
+      "status": "imported"
+    },
+    "voice_189:r_9639a2dbcd2f58ed": {
+      "text": "Eject...!\\nNo, I can't do that...!",
+      "status": "imported"
+    },
+    "voice_189:r_aeea0893acb93d35": {
+      "text": "Almost all my monitors are dead...?!",
+      "status": "imported"
+    },
+    "voice_189:r_b31568654e53487b": {
+      "text": "No! My output keeps dropping!",
+      "status": "imported"
+    },
+    "voice_189:r_2502132569141ea3": {
+      "text": "No...! I'm one of the Guard...!",
+      "status": "imported"
+    },
+    "voice_189:r_1ff312798a52c8eb": {
+      "text": "The Guard,\\nbeaten so easily...!",
+      "status": "imported"
+    },
+    "voice_189:r_fa07d90fca62f593": {
+      "text": "At this rate, I'll shame the Guard!",
+      "status": "imported"
+    },
+    "voice_189:r_a25bf2676ecf9d83": {
+      "text": "My pride!\\nYou'll pay for this!",
+      "status": "imported"
+    },
+    "voice_189:r_237a0288b42dce20": {
+      "text": "Not with the Colonel watching...!",
+      "status": "imported"
+    },
+    "voice_189:r_0556e8a22779ea8e": {
+      "text": "Captain Angelo!\\nStill no retreat?!",
+      "status": "imported"
+    },
+    "voice_189:r_09d377101a48d92a": {
+      "text": "W-Waaaaaah!!",
+      "status": "imported"
+    },
+    "voice_189:r_11517cc7b0494dbf": {
+      "text": "M-my machine's going to explode!",
+      "status": "imported"
+    },
+    "voice_189:r_b5864501463db244": {
+      "text": "Eject! It won't hold much longer!",
+      "status": "imported"
+    },
+    "voice_189:r_a88939ea84b4474d": {
+      "text": "N-no...! How could I...?!",
+      "status": "imported"
+    },
+    "voice_189:r_a870d0cf7cc11ec6": {
+      "text": "The Guard can't end here...!",
+      "status": "imported"
+    },
+    "voice_189:r_03f6158ef83964f3": {
+      "text": "If I'm gone... the Guard will...!",
+      "status": "imported"
+    },
+    "voice_189:r_2970a83693cdcc25": {
+      "text": "M-my apologies, Captain Angelo!",
+      "status": "imported"
+    },
+    "voice_189:r_be661448b85d0009": {
+      "text": "C-Captain Angelo...! Aaaaargh!",
+      "status": "imported"
+    },
+    "voice_189:r_958a56c1151cab9e": {
+      "text": "Colonel Frontal!\\nNeo Zeon will win!",
+      "status": "imported"
+    },
+    "voice_189:r_8b18aa4cc69547df": {
+      "text": "Focus our attacks!",
+      "status": "imported"
+    },
+    "voice_189:r_3e87f6fc3ea65aef": {
+      "text": "Focus fire on one unit!",
+      "status": "imported"
+    },
+    "voice_189:r_5508a7bfa9074eb9": {
+      "text": "I'll assist you from here!",
+      "status": "imported"
+    },
+    "voice_189:r_09a003e91f0d5dc7": {
+      "text": "At least I'll stop them!",
+      "status": "imported"
+    },
+    "voice_189:r_192447448ebd7bb5": {
+      "text": "Follow my lead!",
+      "status": "imported"
+    },
+    "voice_189:r_e92920ba4b301b9f": {
+      "text": "I can't fail here!",
+      "status": "imported"
+    },
+    "voice_189:r_207b256d613bb896": {
+      "text": "I'll show you!",
+      "status": "imported"
+    },
+    "voice_189:r_a6fd676d8146501b": {
+      "text": "I must fulfill my duty!",
+      "status": "imported"
+    },
+    "voice_189:r_94d35e5fa8e3a198": {
+      "text": "I'll finish you off at once!",
+      "status": "imported"
+    },
+    "voice_189:r_b686510e636673f3": {
+      "text": "Take them out one at a time!",
+      "status": "imported"
+    }
+  }
+}

@@ -1,0 +1,990 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0022_03:r_caaab7bad760e16d": {
+      "text": "$$地上戦艦$$ Bridge",
+      "status": "imported"
+    },
+    "stage0022_03:r_99b162aa6aa286a2": {
+      "text": "$$地上戦艦$$ Bridge",
+      "status": "imported"
+    },
+    "stage0022_03:r_58fb02434a1c40b2": {
+      "text": "$$地上戦艦$$ Bridge",
+      "status": "imported"
+    },
+    "stage0022_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　\n　　　　　　～ $$地上戦艦$$, Bridge ～",
+      "status": "imported"
+    },
+    "stage0022_03:r_1263541f4071624e": {
+      "text": "$$ボーソン$$\n「...That's the situation in the city of $$ア・コバ$$.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_3bc300bbdc277d82": {
+      "text": "$$テイタニア$$\n「The $$ＰＳ$$ you've been adjusting...\n　how is $$ラダァ・ニーバ$$ progressing?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_38762a09460d8b6b": {
+      "text": "$$ボーソン$$\n「Yes... the tests proceed smoothly.\n　A few more real battles and it's combat ready.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_7ab28e70b4d4f641": {
+      "text": "$$テイタニア$$\n「Some of the 《$$ネクスタント$$》's technology went\n　into him. Failure will not be tolerated.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$ボーソン$$\n「Understood.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_ec335e69f984b8b3": {
+      "text": "$$テイタニア$$\n「Once testing ends and $$ＰＳ$$ mass production\n　succeeds, it will strengthen 《$$マーティアル$$》.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_0abcaf0c31978670": {
+      "text": "$$ボーソン$$\n「That would bring me great joy.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_1d6bc48b7f246730": {
+      "text": "$$テイタニア$$\n「I too am heading to $$ア・コバ$$.\n　I want to see the 'Untouchable' myself.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_1af20fccc3c53cfc": {
+      "text": "$$ボーソン$$\n「Lady $$テイタニア$$ is coming here herself!?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_f951916061232dcd": {
+      "text": "$$テイタニア$$\n「Do you object?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_4d863c3fb88a4c39": {
+      "text": "$$ボーソン$$\n「No, not at all!\n　I'm honored to meet Lady $$テイタニア$$,\n　holder of the title 'Shield of Order'!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_44f4742c3dcce39a": {
+      "text": "$$テイタニア$$\n「If you can defeat him yourselves, so be it.\n　I leave it to you until I arrive.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_9e701cdeb3842c21": {
+      "text": "$$ボーソン$$\n「Whew...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_6fd81f4abebe60c5": {
+      "text": "$$ニーバ$$\n「So that's 《$$マーティアル$$》's 《$$ネクスタント$$》...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_da2132b5038ec737": {
+      "text": "$$ボーソン$$\n「That's Lady $$テイタニア・ダ・モンテ＝ウェルズ$$.\n　She holds the 13th rank, 'Shield of Order'.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_495d61d3ec7e16f2": {
+      "text": "$$ニーバ$$\n「Tough break for you.\n　Just because your higher-ups were $$マーティアル$$\n　believers, you couldn't join the Federation.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_5cd353758cfe474d": {
+      "text": "$$ボーソン$$\n「...Don't remind me.\n　But once we complete you as a $$ＰＳ$$,\n　all our hardship will be repaid.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_a653c8dec4c0f06f": {
+      "text": "$$ニーバ$$\n「So basically, I just need to kill Chirico\n　Cuvie before that woman arrives, right?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_86d493e37a9799a7": {
+      "text": "$$ニーバ$$\n「Then don't you worry.\n　I'll send him to hell with my own hands.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_09d0fcc600cdd3df": {
+      "text": "$$ボーソン$$\n「D, do your best.\n　I'm going to get some rest.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_182faded068c15ed": {
+      "text": "$$ニーバ$$\n「Kukuku... he's my prey.\n　I won't hand him to $$マーティアル$$...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_9c206d19bfda4bd5": {
+      "text": "$$カン・ユー$$\n「About that $$キリコ$$,\n　he's been acting strange since yesterday.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_6e558bc69acf5bf3": {
+      "text": "$$カン・ユー$$\n「It seems he intends to contact the Gilgamesh\n　people who came to $$ア・コバ$$.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_d60d0818e965232f": {
+      "text": "$$ニーバ$$\n「What for?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_5b23687574286204": {
+      "text": "$$カン・ユー$$\n「$$キリコ$$'s woman is a 《$$ＰＳ$$》 Gilgamesh developed.\n　He likely needs to meet a Gilgamesh researcher\n　for her sake.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_6fd86c96891ea942": {
+      "text": "$$カン・ユー$$\n「Put another way, that $$ＰＳ$$ woman is\n　$$キリコ$$'s weakness.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_43e4e548c0b28376": {
+      "text": "$$ニーバ$$\n「Sounds like you have a plan?\n　Let's hear it.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_d80a9688790ed583": {
+      "text": "Quarter Hangar",
+      "status": "imported"
+    },
+    "stage0022_03:r_708bea61e3c43ada": {
+      "text": "Quarter Hangar",
+      "status": "imported"
+    },
+    "stage0022_03:r_7b6f159eeaf4de0f": {
+      "text": "Quarter Hangar",
+      "status": "imported"
+    },
+    "stage0022_03:r_0827963cfd706e8d": {
+      "text": "　\n　\n　　　　　　～ Macross Quarter Hangar ～",
+      "status": "imported"
+    },
+    "stage0022_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$アルト$$\n「...So $$キリコ$$ went with $$バニラ$$ and the others\n　to meet that Gilgamesh person?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_3f4035fd9db81258": {
+      "text": "$$マオ$$\n「More like he plans to kidnap\n　the person, not just meet them.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_567b361a454c4b73": {
+      "text": "$$スズネ$$\n「Why would he do something like that...!?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_d22851aaafbbf8fc": {
+      "text": "$$ルカ$$\n「$$フィアナ$$, being a 《$$ＰＳ$$》, is a valuable\n　asset to Gilgamesh, after all.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_352534f64413d954": {
+      "text": "$$ルカ$$\n「They're likely searching for $$フィアナ$$ in $$ア・コバ$$\n　to take her back.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_79f2664edb1af798": {
+      "text": "$$ミシェル$$\n「Can't take her to a place like that, so\n　he's making them come to him instead.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$スズネ$$\n「But to make an enemy of the Federation\n　just for that...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_1c5aa0d15ae24846": {
+      "text": "$$マオ$$\n「Precisely because he knows that,\n　$$キリコ$$ must have acted alone.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_53bb64ee17750ee2": {
+      "text": "$$クルツ$$\n「I want to root for $$キリコ$$, sure,\n　but the situation is what it is.\n　Guess we just watch him for now.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_7a7add80fde475ba": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0022_03:r_b2befefdbed1393d": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0022_03:r_2103f6df2ea2e447": {
+      "text": "$$アルト$$\n「You've got a face that says you're not convinced.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_a12e3e130d896ff7": {
+      "text": "$$宗介$$\n「...Seems I overestimated that man $$キリコ$$.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_b6f7b219eb4bd64b": {
+      "text": "$$宗介$$\n「I thought him a calm soldier, but to be\n　driven by emotion into a losing spot...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_91bf33c27ad39f0a": {
+      "text": "$n\n「This time I agree with $$宗介$$ too.\n　I get the reasons, but there's a smarter way.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_ee220318b96ab538": {
+      "text": "$$ジェフリー$$\n「Is that really so?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_ce1b55e526b6277a": {
+      "text": "$n\n「Captain $$ジェフリー$$...!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_c304df6888eb78f7": {
+      "text": "$$宗介$$\n「Colonel $$ジェフリー$$, sir, do you need something!?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_c26958634526e597": {
+      "text": "$$ジェフリー$$\n「No need to be so formal.\n　...I started out as a pilot myself.\n　Stopping by the hangar is a nice break for me.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_cdb750c9d380881a": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0022_03:r_95fda74613c97b39": {
+      "text": "$$ジェフリー$$\n「Are you thinking about what I said earlier...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_1956994937f8171e": {
+      "text": "$$ジェフリー$$\n「$$キリコ$$'s approach surely isn't clever.\n　But that doesn't make it wrong, either.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_48f49f6728c15612": {
+      "text": "$$ジェフリー$$\n「To protect Miss $$フィアナ$$...\n　to spare us any trouble...\n　because time is of the essence...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ジェフリー$$\n「Reckless as it looks from the outside,\n　it has its own logic to him.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_f02c37d91387d0ad": {
+      "text": "$n\n「But still...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$ジェフリー$$\n「Ensign $$アルト$$.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_9796b3efa401a303": {
+      "text": "$$アルト$$\n「Y, yes sir...!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_643b6eebfc0186b3": {
+      "text": "$$ジェフリー$$\n「Explain the rest to him yourself.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_291280e5f7eb9d70": {
+      "text": "$$アルト$$\n「Understood.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_32eb462c1b4999cb": {
+      "text": "$$宗介$$\n「You know the answer?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_1f4337d6d393fc37": {
+      "text": "$$アルト$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0022_03:r_4740e748fae085ee": {
+      "text": "$n\n「What is it?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_b76524cd840e1d37": {
+      "text": "$$アルト$$\n「It's that acting to protect someone\n　precious has no right or wrong.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_730ffe18400abfc2": {
+      "text": "$n\n「Protecting... someone precious...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_ffe0fca26da5cd38": {
+      "text": "$$宗介$$\n「A strategically important person?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_bfb27f9eb2f7073e": {
+      "text": "$$アルト$$\n「That's not what I mean.\n　Like, someone such as $$かなめ$$ is to you.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_859dfa27bcaafe30": {
+      "text": "$$宗介$$\n「Where does Chidori come into it?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_71ebf05996a4b0fd": {
+      "text": "$$アルト$$\n「Just a hunch on my part.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_6214c11b1bca811e": {
+      "text": "$n\n「...Got it.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_8eaf6f3098ffed12": {
+      "text": "$$宗介$$\n「$n...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_cf507214fe955d75": {
+      "text": "$n\n「I see...\n　So $$キリコ$$ and I are the same...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_2113dcbabdfc758a": {
+      "text": "$$宗介$$\n「That you got it from that explanation\n　baffles me more than Chirico does.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$アルト$$\n「Someday you'll understand $$キリコ$$ too.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_6a74519e1fc29c4b": {
+      "text": "$$アルト$$\n（No... maybe that time already came,\n　and he just hasn't noticed it himself...）",
+      "status": "imported"
+    },
+    "stage0022_03:r_5b992878fee054b5": {
+      "text": "$$ミシェル$$\n「Look who's talking, Volunteer Club president.\n　Love lessons for the broody duo?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$アルト$$\n「Compared to these two,\n　I'm still the better off one.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_4a14ec0c511c7f0d": {
+      "text": "$$クルツ$$\n「Oh... declaring yourself a love pro?\n　I'll take that as a challenge to me.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_20cf167c0ec0d4d5": {
+      "text": "$$ミシェル$$\n「No, no... that's a challenge to me.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_b591d812c96c6c99": {
+      "text": "$$マオ$$\n「Give it up, Snooper.\n　At least in looks, $$アルト$$'s got you beat.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_e350fa099c1ab072": {
+      "text": "$$クルツ$$\n「Tch... even I surrender on that one.\n　With that face, he's got plenty of practice.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$宗介$$\n「Practice?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_c33bd700553abf91": {
+      "text": "$$クルツ$$\n「Basically, $$アルト$$'s an ace.\n　A night time one.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_feee5c91826230e1": {
+      "text": "$$宗介$$\n「He's skilled at night combat?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_bccc48e1964ad22d": {
+      "text": "$$クルツ$$\n「That's not it!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_f8736aaaa216c766": {
+      "text": "$$ミシェル$$\n「Simply put, he racks up girls left and right.\n　His specialty move is the multi lock on.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_d1ec2522c87c361d": {
+      "text": "$$アルト$$\n「$$ミシェル$$!\n　Don't feed $$宗介$$ that nonsense!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_3599f0a4343fd95c": {
+      "text": "$n\n「I see...\n　So that's the kind of guy you really are.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_3bc7834a5bf3ee76": {
+      "text": "$$アルト$$\n「What do you mean by 'really are'!?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_366814efdc8b5800": {
+      "text": "$$マオ$$\n「Being good looking is a real sin.\n　That alone marks you as a foe to every guy around.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_9be1a4c10bb62515": {
+      "text": "$$ジェフリー$$\n（At times like this, he's just a normal young man...）",
+      "status": "imported"
+    },
+    "stage0022_03:r_94a88c90e557e16e": {
+      "text": "$$スズネ$$\n「Thank you, Captain $$ジェフリー$$.\n　Thanks to you, $n seems to have\n　come to understand $$キリコ$$ too.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_1c208ca0cbf26f28": {
+      "text": "$$ジェフリー$$\n「...Miss $$スズネ$$,\n　once this ends, might I have a moment of your time?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_5b7ee307a700171a": {
+      "text": "$$スズネ$$\n「Y, yes...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_8d8f065c932da30a": {
+      "text": "$$ジェフリー$$\n「There's something I'd like\n　to discuss about $F.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_f5432119677514f7": {
+      "text": "$$ゴウト$$'s Hideout",
+      "status": "imported"
+    },
+    "stage0022_03:r_4e5c8e989c4a7691": {
+      "text": "$$ゴウト$$'s Hideout",
+      "status": "imported"
+    },
+    "stage0022_03:r_adec86483b13599a": {
+      "text": "$$ゴウト$$'s Hideout",
+      "status": "imported"
+    },
+    "stage0022_03:r_2cf701bbcde3ec13": {
+      "text": "　\n　\n　　　　　　～ $$ゴウト$$'s Hideout ～",
+      "status": "imported"
+    },
+    "stage0022_03:r_c17c58fdba72005e": {
+      "text": "$$トムス$$\n「W, what in the world is this!?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_1fe8564d2b959317": {
+      "text": "$$バニラ$$\n「Sorry about this, old man.\n　Anyway, welcome to our hideout.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_f527e012803f7f1c": {
+      "text": "$$トムス$$\n「W, what do you plan to do, kidnapping me!?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_4b1247bd3ca4905d": {
+      "text": "$$ココナ$$\n「Calm down a bit.\n　We know you and the others\n　were looking for $$フィアナ$$.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_00c55e25f87b71d0": {
+      "text": "$$トムス$$\n「$$フィアナ$$...!?\n　The first 《$$ＰＳ$$》, taken by the $$秘密結社$$...!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_338f3b27e51dcc41": {
+      "text": "$$キリコ$$\n「$$カルマン・トムス$$...\n　One of the technical officers in the Gilgamesh\n　army who took part in the $$ＰＳ$$ project?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_d91d4bc2d52b61c4": {
+      "text": "$$トムス$$\n「T, that's right.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_0c8ea89b07432421": {
+      "text": "$$ココナ$$\n「Don't be so scared.\n　We're going to let you meet\n　the $$フィアナ$$ you were looking for.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_4dbfba00ba7744ee": {
+      "text": "$$キリコ$$\n「Examine her.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_be100a32b731708d": {
+      "text": "$$フィアナ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0022_03:r_702f82442fcec8a9": {
+      "text": "$$トムス$$\n「...This weakened state... just as I thought...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_b1e38da4e8775ffe": {
+      "text": "$$キリコ$$\n「What do you mean?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$トムス$$\n「Fearing this would happen,\n　we've been pursuing the $$ＰＳ$$.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$トムス$$\n「Listen.\n　A $$ＰＳ$$ is a human with enhanced biological functions.\n　It always needs fine adjustment and health care.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_3dad695c99e9e052": {
+      "text": "$$トムス$$\n「Even so, there are limits.\n　As the price of that enhancement, a $$ＰＳ$$...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_66d4ae3a21caf881": {
+      "text": "???\n「Mind if I cut in?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_0c18da7b3a37825d": {
+      "text": "$$バニラ$$\n「W, who are you!?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_63249745ffae61b6": {
+      "text": "Niva\n「Name's $$ラダァ・ニーバ$$.\n　A $$ＰＳ$$, same as that woman there.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_abdb034ae8509702": {
+      "text": "$$トムス$$\n「You... a Balarant $$ＰＳ$$!?\n　But that was supposed to remain just a plan!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_3ff2e21207d1d1d3": {
+      "text": "$$トムス$$\n「D, don't tell me...!\n　They incorporated $$マーティアル$$'s technology...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_e51ecf6d6aa42e75": {
+      "text": "$$ニーバ$$\n「Shut the hell up, you!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_47ddabb7b60131c2": {
+      "text": "$$トムス$$\n「!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_b025267f22788233": {
+      "text": "$$ニーバ$$\n「Oops... guess I put too much into it.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_ec1a06a7023bf72c": {
+      "text": "$$バニラ$$\n「T-t-this guy...!\n　Bare hands, on a person!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_8805f96e52aaa462": {
+      "text": "$$ニーバ$$\n「$$キリコ・キュービィー$$,\n　fight me in an AT.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_124591cb154fae64": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0022_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$ニーバ$$\n「Those eyes...\n　So it's true, you're $$レッドショルダー$$.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_4bf9b05b5f948170": {
+      "text": "$$ニーバ$$\n「If you refuse to fight, I have my own plan.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_eaa52d152f444bfd": {
+      "text": "$$シャッコ$$\n「Not good!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_b4bc9e9435b58e6f": {
+      "text": "$$ニーバ$$\n「Get out of the way, Quentian!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_a9227573166977a9": {
+      "text": "$$フィアナ$$\n「Ah!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_b0600ab9a9e8559d": {
+      "text": "$$ココナ$$\n「You monster!\n　Let go of $$フィアナ$$!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_7cbc63dad295f862": {
+      "text": "$$バニラ$$\n「Damn you!\n　$$フィアナ$$ was your target from the start!?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_07f53c816e0a51f5": {
+      "text": "$$フィアナ$$\n「$$キリコ$$!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_2d09c6f6a2d990ea": {
+      "text": "$$キリコ$$\n「$$フィアナ$$!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_3c5fcfc484a51913": {
+      "text": "$$ニーバ$$\n「$$キリコ・キュービィー$$!\n　If you want the woman back, be at\n　the edge of $$ア・コバ$$ at 8am tomorrow!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_0476ffd10c764b0e": {
+      "text": "$$ニーバ$$\n「We'll fight two on two!\n　Bring along someone you trust!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$フィアナ$$\n「Chiricooo!!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_2b3479c4cf0680f4": {
+      "text": "$$キリコ$$\n「$$フィアナ$$!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_e370696b8936b08c": {
+      "text": "$$バニラ$$\n「Stop it, $$キリコ$$!\n　If you shoot here, you'll hit $$フィアナ$$ too!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_9d7b02c5e728b7aa": {
+      "text": "$$ココナ$$\n「What is with that guy!?\n　Did he kidnap $$フィアナ$$ just to get\n　$$キリコ$$ riled up!?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_9af213fc64e0afec": {
+      "text": "$$シャッコ$$\n「$$キリコ$$...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_d7f1c506e78e55ff": {
+      "text": "$$キリコ$$\n「$$ラダァ・ニーバ$$...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_0c705091f748360e": {
+      "text": "Research Institute",
+      "status": "imported"
+    },
+    "stage0022_03:r_9eb8599304125b2f": {
+      "text": "Research Institute",
+      "status": "imported"
+    },
+    "stage0022_03:r_a072aa25e5f521e0": {
+      "text": "Research Institute",
+      "status": "imported"
+    },
+    "stage0022_03:r_24e1a808a1609a1a": {
+      "text": "　\n　\n　　　　　　　　～ $$地上戦艦$$, Research Facility ～",
+      "status": "imported"
+    },
+    "stage0022_03:r_53128ce8f154fd06": {
+      "text": "$$ニーバ$$\n「What's the meaning of this, $$ボーソン$$!?\n　When did I ask for reinforcements!?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_03b5db9ce98fb8d6": {
+      "text": "$$ボーソン$$\n「Calm down, $$ニーバ$$.\n　I merely acted to secure\n　a more certain victory.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_3915fb4102f1c1dd": {
+      "text": "$$ニーバ$$\n「You must really want credit before\n　that $$マーティアル$$ woman arrives.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_817b2773b4ed563e": {
+      "text": "$$ボーソン$$\n「Ngh...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_1cc233cbc8c80af7": {
+      "text": "$$ニーバ$$\n「But don't forget!\n　That $$レッドショルダー$$ is my prey!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$$ボーソン$$\n「Understood.\n　I'll permit a rematch with him.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_e180b22d18f48d38": {
+      "text": "$$ボーソン$$\n「First, I want today's battle data.\n　Lie down on the bed.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_e598c2a0b27e7f50": {
+      "text": "$$ニーバ$$\n「Tch...\n　Don't forget what you just said.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_4d2a9066c4e7b27f": {
+      "text": "$$ニーバ$$\n「Restraints!?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_10340119af3ed6db": {
+      "text": "$$ボーソン$$\n「Even you can't tear apart\n　steel restraints.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_23a9c7ab620ab112": {
+      "text": "$$ニーバ$$\n「$$ボーソン$$!\n　You bastaaaard!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_4f0aca6deda07883": {
+      "text": "$$ボーソン$$\n「Don't take it personally, $$ニーバ$$.\n　Your test is over.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_8fe40600ce62dfbc": {
+      "text": "$$ボーソン$$\n「If I fumble this, losing you\n　is the one thing I must avoid.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_ff4ce5f3cf96b617": {
+      "text": "$$ニーバ$$\n「Let go!\n　Let me fight him!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_d73c21f119847e35": {
+      "text": "$$ボーソン$$\n「Silence!\n　You'll be punished for this!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_89766f5ffaa912d4": {
+      "text": "$$ニーバ$$\n「Nnngaaaah!!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$ボーソン$$\n「You've done as you pleased\n　long enough! That hostage you brought\n　saddled us with needless trouble!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_451f726d4299ea35": {
+      "text": "$$ボーソン$$\n「Now we'll release the hostage\n　to distract them, and retreat!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_e3d111e8bb190cb1": {
+      "text": "$$ニーバ$$\n「I won't... let you do that!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_7c0d3c51f9a11ca0": {
+      "text": "$$ボーソン$$\n「Not enough current yet!?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_ab97c2b2418ea732": {
+      "text": "$$ニーバ$$\n「Ngaaaaaah!!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_2ddff5064af78db4": {
+      "text": "$$ボーソン$$\n「Give it up, $$ニーバ$$.\n　You're nothing but a pet dog.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_050d0532c4b24bfe": {
+      "text": "$$ニーバ$$\n「Like hell!\n　I'm fighting him!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_d583fcea31bdad2e": {
+      "text": "$$ボーソン$$\n「Don't forget!\n　Orders are absolute!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_475f7653621a91b5": {
+      "text": "$$ニーバ$$\n「I don't pilot an AT for the army\n　or for money. It's about killing...!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_f228ae702350849b": {
+      "text": "$$ボーソン$$\n「You...!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_d69dc027cba3003f": {
+      "text": "$$ニーバ$$\n「Sure, the army's fine.\n　They'll praise a plain murderer as\n　a fighting force. But that's all!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_3c3735172a480b72": {
+      "text": "$$ニーバ$$\n「It stops being enough fast...!\n　And I have to fight him!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_1f418b5594cea300": {
+      "text": "$$ボーソン$$\n「Then I'll simply control your mind!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_f87fb889124bfaef": {
+      "text": "$$ニーバ$$\n「Ngaaaah!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_79c90de32a79212d": {
+      "text": "$$ボーソン$$\n「Swear your obedience, $$ニーバ$$!\n　You're a soldier who obeys orders!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_33f7fd55913419e8": {
+      "text": "$$ニーバ$$\n「Ngh...! No!\n　He's $$レッドショルダー$$!\n　I can't let him live...!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_473d9a88b4ca96e7": {
+      "text": "$$ニーバ$$\n「Volunteering myself for $$ＰＳ$$ conversion,\n　living on with half my body turned to machine,\n　it's all just to kill him, $$レッドショルダー$$!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_4de6ac85c63bac12": {
+      "text": "$$ボーソン$$\n「Silence! Silence, $$ニーバ$$!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_4c92652c9b1adf6f": {
+      "text": "$$ニーバ$$\n「I'm going to kill him!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_ce90563a934d49fb": {
+      "text": "$$ボーソン$$\n「A soldier need only obey orders!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_4fb296e63cb1fb46": {
+      "text": "$$ニーバ$$\n「Not me!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_6d77e72dbbcd7dfe": {
+      "text": "$$ボーソン$$\n「The army's orders are absolute!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_9dc59affd40f32fc": {
+      "text": "$$ニーバ$$\n「NO! NO! NO! NOOOOO!!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_0cea115be526a319": {
+      "text": "$$ボーソン$$\n「Impossible!\n　He tore the restraints apart!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_d36072babd12aeb4": {
+      "text": "$$ニーバ$$\n「Uraaaaaaargh!!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_09ee921a85025fd3": {
+      "text": "$$ボーソン$$\n「Eeek!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_fae689f2a1057b61": {
+      "text": "$$ボーソン$$\n「!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_91c6d0bb53854ecc": {
+      "text": "$$ニーバ$$\n「Now no one's left to get in my way...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_42a3149105314ab8": {
+      "text": "$$ニーバ$$\n「Wait for me, $$レッドショルダー$$...!\n　I'll set the perfect stage\n　to settle things between us!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_62ecd978c667bd29": {
+      "text": "$$ゴウト$$'s Hideout",
+      "status": "imported"
+    },
+    "stage0022_03:r_d441e6cc908ac01b": {
+      "text": "$$ゴウト$$'s Hideout",
+      "status": "imported"
+    },
+    "stage0022_03:r_b2aab8873350ea1f": {
+      "text": "$$ゴウト$$'s Hideout",
+      "status": "imported"
+    },
+    "stage0022_03:r_2c7af4c55d8ac938": {
+      "text": "　\n　\n　　　　　　～ $$ゴウト$$'s Hideout ～",
+      "status": "imported"
+    },
+    "stage0022_03:r_653b741d07545dff": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0022_03:r_d584d4b5af55b1cf": {
+      "text": "$$アルト$$\n「$$キリコ$$...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_db0ee69ece206fcd": {
+      "text": "$$オズマ$$\n「Let him be alone for now.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_f97e6925c9e37332": {
+      "text": "$$クルツ$$\n「So, what's up with that organization?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_422861e0b8d77d0c": {
+      "text": "$$マオ$$\n「No report's come in from Major $$カリーニン$$.\n　Meaning they're still hiding somewhere.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_ef16bcaa2b0e0c45": {
+      "text": "$$バニラ$$\n「This is maddening!\n　Can't even the mighty $$ミスリル$$ and\n　$$Ｓ．Ｍ．Ｓ$$ do anything about it!?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_2b93cca10f1c36a8": {
+      "text": "$$ゴウト$$\n「Calm down, $$バニラ$$.\n　All that's left for them is\n　to fight us.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_7980fd37141d88d0": {
+      "text": "$$オズマ$$\n「Now it's about how we counter that,\n　while also rescuing $$フィアナ$$.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_ac21212c36d2b9ad": {
+      "text": "$$ゴウト$$\n「Still, they're cornered now...\n　wonder what move they'll make...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_a26e2108358af7a4": {
+      "text": "$$チェロキー$$\n「$$ゴウト$$! You there, $$ゴウト$$!?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_a8118b2e37aa1382": {
+      "text": "$$ゴウト$$\n「What is it, $$チェロキー$$?\n　I told you I'm done dealing with\n　a miser like you.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_017a56991b7b8ca4": {
+      "text": "$$チェロキー$$\n「This isn't the time for that!\n　I've been asked to arrange a wild\n　battle against your own crew!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_ad3e1db3419665fb": {
+      "text": "$$アルト$$\n「That's...!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_0149e3a5f2e5ef78": {
+      "text": "$$オズマ$$\n「Ah... looks like it's here.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_3ad10e705167a3fa": {
+      "text": "$$キリコ$$\n「Let's hear it.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_bdc546b199c80996": {
+      "text": "$$アルト$$\n「$$キリコ$$...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_22c8caf8c08c5119": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0022_03:r_9c13714b3efbc7a8": {
+      "text": "$$チェロキー$$\n「Brace yourselves, everyone!\n　They're bringing out a $$地上戦艦$$!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_96f156e19b53fc09": {
+      "text": "$$クルツ$$\n「A $$地上戦艦$$, you mean the\n　kind the $$アストラギウス$$ lot used!?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_feb0390bba7fe1fb": {
+      "text": "$$チェロキー$$\n「That's right!\n　The biggest Big Battle in history,\n　you against it!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_8a78bcec22029401": {
+      "text": "Favorite Backdrop",
+      "status": "imported"
+    },
+    "stage0022_03:r_f42017dfce31dea9": {
+      "text": "Favorite Backdrop",
+      "status": "imported"
+    },
+    "stage0022_03:r_ef7426919f628d8a": {
+      "text": "Favorite Backdrop",
+      "status": "imported"
+    },
+    "stage0022_03:r_9e994a4b926d9906": {
+      "text": "$$ＡＧ$$\n「Ah, well.\n　Today I really savored Master $$キリコ$$,\n　the 'Untouchable', the '$$異能生存体$$'.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_ffae76d2a77abf5a": {
+      "text": "$$ＡＧ$$\n「Taking down that latest AT, the\n　$$エクルビス$$, your skill exceeds the rumors.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_3ac462d37e5893ff": {
+      "text": "$$ＡＧ$$\n「And that man $$ニーバ$$'s cry of\n　resentment made for fine Z-Chips.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_fd6bdf7910d7d925": {
+      "text": "$$ＡＧ$$\n「The total, a whopping 200Z!\n　I'll add this to the squad's stock.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_d38be46e6cd7a5e5": {
+      "text": "$$ＡＧ$$\n「Now I'm even more excited for the next Big Battle!\n　I hope it makes for wonderful Z-Chips!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_3fe2078328753c16": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0022_03:r_c66844158d1ce600": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0022_03:r_d037ecbc1e348dc9": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0022_03:r_bcd53d14c4785426": {
+      "text": "　\n　\n　　　　　　～ D-Trader ～",
+      "status": "imported"
+    },
+    "stage0022_03:r_9ca55ea7feca954a": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0022_03:r_554ae12c4c170253": {
+      "text": "$$ＡＧ$$\n「Oh... Master $$キリコ$$.\n　Customizing your unit for the decisive battle?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_fa59c6df081e6ae4": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0022_03:r_ca3edf3b8b52aedf": {
+      "text": "$$ＡＧ$$\n「If you like, would you care to\n　purchase the $$ミッションディスク$$ I've prepared?」",
+      "status": "imported"
+    },
+    "stage0022_03:r_aa5d235c78ebe19f": {
+      "text": "$$ＡＧ$$\n「It's a special edition, analyzing\n　Master $$キリコ$$'s piloting traits so far\n　and today's $$ＰＳ$$ battle data.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_0b3b19cddb871f90": {
+      "text": "$$キリコ$$\n「Not needed.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_304e98dac43c9333": {
+      "text": "$$ＡＧ$$\n「Now hold on a moment!\n　Fighting that monster with a\n　normal $$ミッションディスク$$ is reckless!」",
+      "status": "imported"
+    },
+    "stage0022_03:r_b740d817a14afd3a": {
+      "text": "$$キリコ$$\n「Preparations are already made.\n　All that's left is modifying the AT.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_40e4c010d1b35b4c": {
+      "text": "$$ＡＧ$$\n「Ah... is that so?\n　Then let me help you with weapons.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_c33abf00683a32bc": {
+      "text": "$$ＡＧ$$\n「A Handy Solid Shooter, a mine-laying\n　backpack, a Log Gun...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_3036adce91d1f4a8": {
+      "text": "$$ＡＧ$$\n「If that's the case, I can also\n　prepare a Mega Bazooka Launcher, MDE\n　rounds, a Knot Punisher, and more.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_019293cb83599509": {
+      "text": "$$ＡＧ$$\n「If you wish, I could also arrange\n　a microwave-fed large beam cannon,\n　a nanomachine system, or an Old World ICBM...」",
+      "status": "imported"
+    },
+    "stage0022_03:r_9b949b9281aaeef1": {
+      "text": "$$キリコ$$\n「...An AT fight isn't decided by firepower.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_b39a1dd705fe6cbf": {
+      "text": "$$ＡＧ$$\n「Mmm... a professional's words carry weight.」",
+      "status": "imported"
+    },
+    "stage0022_03:r_c9016e3ab05470b0": {
+      "text": "$$ＡＧ$$\n「But I too have pride as a\n　dimensional trader! So, today too,\n　I'm fired up... Business, business!」",
+      "status": "imported"
+    }
+  }
+}

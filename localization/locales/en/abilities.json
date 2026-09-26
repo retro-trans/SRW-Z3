@@ -1,0 +1,238 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "abilities:r_479b340ccc6c572b": {
+      "text": "Psycho Field",
+      "status": "imported"
+    },
+    "abilities:r_ca4acbac57a2a35e": {
+      "text": "I-Field",
+      "status": "imported"
+    },
+    "abilities:r_77949221bf58f862": {
+      "text": "Reflector Bits",
+      "status": "imported"
+    },
+    "abilities:r_70b9c4b9f1f37eff": {
+      "text": "Active Cloak",
+      "status": "imported"
+    },
+    "abilities:r_9fcb3754cb1773c7": {
+      "text": "VPS Armor",
+      "status": "imported"
+    },
+    "abilities:r_3559d2fad32c2435": {
+      "text": "GN Sword Bits",
+      "status": "imported"
+    },
+    "abilities:r_f7570547e9f80a64": {
+      "text": "GN Holster Bits",
+      "status": "imported"
+    },
+    "abilities:r_cbab0f4720e1fcf1": {
+      "text": "GN Field",
+      "status": "imported"
+    },
+    "abilities:r_0bbe0b4f5364e732": {
+      "text": "Inertial Canceller",
+      "status": "imported"
+    },
+    "abilities:r_5dda5198137cb02a": {
+      "text": "Pinpoint Barrier",
+      "status": "imported"
+    },
+    "abilities:r_83ec59afbecdec14": {
+      "text": "Lambda Driver",
+      "status": "imported"
+    },
+    "abilities:r_e20bfd42ad95a3c9": {
+      "text": "Lambda Driver",
+      "status": "imported"
+    },
+    "abilities:r_0f58a8822381e57f": {
+      "text": "Absolute Guard Zone",
+      "status": "imported"
+    },
+    "abilities:r_6dbcc507fb61b51d": {
+      "text": "Radiation Barrier",
+      "status": "imported"
+    },
+    "abilities:r_b42ab697149a7c8a": {
+      "text": "Blaze Luminous",
+      "status": "imported"
+    },
+    "abilities:r_4de4fcf3b440baf4": {
+      "text": "Energy Field",
+      "status": "imported"
+    },
+    "abilities:r_0121a166c715cdff": {
+      "text": "A.T. Field",
+      "status": "imported"
+    },
+    "abilities:r_30fad37a42bd3ad3": {
+      "text": "D-Fault",
+      "status": "imported"
+    },
+    "abilities:r_80a0b2a84e05d81a": {
+      "text": "Sword Equipped",
+      "status": "imported"
+    },
+    "abilities:r_4a9ac1dff86506d9": {
+      "text": "Shield Equipped",
+      "status": "imported"
+    },
+    "abilities:r_bc8538e6af3d2577": {
+      "text": "Resupply Module",
+      "status": "imported"
+    },
+    "abilities:r_924516c8de2b5342": {
+      "text": "Repair Module",
+      "status": "imported"
+    },
+    "abilities:r_da1174533722333f": {
+      "text": "HP Regen (S)",
+      "status": "imported"
+    },
+    "abilities:r_fdeb8162976e72c1": {
+      "text": "HP Regen (M)",
+      "status": "imported"
+    },
+    "abilities:r_0fadb5c26df92b42": {
+      "text": "HP Regen (L)",
+      "status": "imported"
+    },
+    "abilities:r_6b15af9a0057cdc8": {
+      "text": "EN Regen (S)",
+      "status": "imported"
+    },
+    "abilities:r_15b4a90140e8a33a": {
+      "text": "EN Regen (M)",
+      "status": "imported"
+    },
+    "abilities:r_af884a6b11dff121": {
+      "text": "EN Regen (L)",
+      "status": "imported"
+    },
+    "abilities:r_ac6fe7838e95647b": {
+      "text": "HP Regen",
+      "status": "imported"
+    },
+    "abilities:r_77ca87eacd17ad52": {
+      "text": "EN Regen",
+      "status": "imported"
+    },
+    "abilities:r_bf3244994760e535": {
+      "text": "Transform",
+      "status": "imported"
+    },
+    "abilities:r_aabfb21c9d069ce7": {
+      "text": "Separate",
+      "status": "imported"
+    },
+    "abilities:r_02479dc8fe989560": {
+      "text": "Combine",
+      "status": "imported"
+    },
+    "abilities:r_a2df00f91a9b0a9e": {
+      "text": "Jamming",
+      "status": "imported"
+    },
+    "abilities:r_48b60d6c48b9b142": {
+      "text": "Jamming",
+      "status": "imported"
+    },
+    "abilities:r_8927e6fb681aa809": {
+      "text": "Anti-Spirit Attack",
+      "status": "imported"
+    },
+    "abilities:r_665f01666859013b": {
+      "text": "All Canceller",
+      "status": "imported"
+    },
+    "abilities:r_a571eec59b258d11": {
+      "text": "V-Con System",
+      "status": "imported"
+    },
+    "abilities:r_ddbe581c5ea9183d": {
+      "text": "Bio-Sensor",
+      "status": "imported"
+    },
+    "abilities:r_faae935cca0edc72": {
+      "text": "Psycho-Frame",
+      "status": "imported"
+    },
+    "abilities:r_d4430bf362340b32": {
+      "text": "NT-D System",
+      "status": "imported"
+    },
+    "abilities:r_6ff1323b355593e0": {
+      "text": "Zero System",
+      "status": "imported"
+    },
+    "abilities:r_b7b5625d7cd4282f": {
+      "text": "Trans-Am",
+      "status": "imported"
+    },
+    "abilities:r_36133ad73a73ef98": {
+      "text": "Spiral Power",
+      "status": "imported"
+    },
+    "abilities:r_920740a0219c5085": {
+      "text": "Tengen Toppa",
+      "status": "imported"
+    },
+    "abilities:r_a8451712c57c1a72": {
+      "text": "Umbilical Cable",
+      "status": "imported"
+    },
+    "abilities:r_3633df5b7b8f47fa": {
+      "text": "Berserk",
+      "status": "imported"
+    },
+    "abilities:r_52dfc56b14b93551": {
+      "text": "Element System",
+      "status": "imported"
+    },
+    "abilities:r_1b9b2aab5cb104da": {
+      "text": "ESP Amplifier",
+      "status": "imported"
+    },
+    "abilities:r_342044c706a2340f": {
+      "text": "ECS",
+      "status": "imported"
+    },
+    "abilities:r_cf41e8828a90cbdb": {
+      "text": "Command Center",
+      "status": "imported"
+    },
+    "abilities:r_719e897304ec42d4": {
+      "text": "GAI Mode",
+      "status": "imported"
+    },
+    "abilities:r_d5e0a2317c40d322": {
+      "text": "Sphere Act",
+      "status": "imported"
+    },
+    "abilities:r_ec2ea17765052401": {
+      "text": "Double Image",
+      "status": "imported"
+    },
+    "abilities:r_f2d4255f1c2f7542": {
+      "text": "Shin Getter Vision",
+      "status": "imported"
+    },
+    "abilities:r_5d08ad19e2da125b": {
+      "text": "Hyper Jammer",
+      "status": "imported"
+    },
+    "abilities:r_a7246b52782a877e": {
+      "text": "Barrier / Armor",
+      "status": "imported"
+    },
+    "abilities:r_dc8701f6bcb9904f": {
+      "text": "Double Image",
+      "status": "imported"
+    }
+  }
+}

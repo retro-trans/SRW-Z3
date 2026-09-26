@@ -1,0 +1,838 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_182:r_479b340ccc6c572b": {
+      "text": "I don't wanna go down either!",
+      "status": "imported"
+    },
+    "voice_182:r_ca4acbac57a2a35e": {
+      "text": "Take them out, Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_77949221bf58f862": {
+      "text": "Let's do this!\\n...Not in the mood!",
+      "status": "imported"
+    },
+    "voice_182:r_70b9c4b9f1f37eff": {
+      "text": "Kei, enemies incoming!",
+      "status": "imported"
+    },
+    "voice_182:r_9fcb3754cb1773c7": {
+      "text": "They came out.\\nGuess we gotta fight!",
+      "status": "imported"
+    },
+    "voice_182:r_3559d2fad32c2435": {
+      "text": "This is your turn, Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_f7570547e9f80a64": {
+      "text": "It's not like I enjoy this!",
+      "status": "imported"
+    },
+    "voice_182:r_cbab0f4720e1fcf1": {
+      "text": "Now then, time for payback!",
+      "status": "imported"
+    },
+    "voice_182:r_0bbe0b4f5364e732": {
+      "text": "You want me that badly?",
+      "status": "imported"
+    },
+    "voice_182:r_5dda5198137cb02a": {
+      "text": "You'll regret laying a hand on me!",
+      "status": "imported"
+    },
+    "voice_182:r_83ec59afbecdec14": {
+      "text": "I see how you operate!",
+      "status": "imported"
+    },
+    "voice_182:r_e20bfd42ad95a3c9": {
+      "text": "If that's how you wanna play!",
+      "status": "imported"
+    },
+    "voice_182:r_0f58a8822381e57f": {
+      "text": "No game of love?\\nThen count me out!",
+      "status": "imported"
+    },
+    "voice_182:r_6dbcc507fb61b51d": {
+      "text": "Got you!",
+      "status": "imported"
+    },
+    "voice_182:r_b42ab697149a7c8a": {
+      "text": "There!",
+      "status": "imported"
+    },
+    "voice_182:r_4de4fcf3b440baf4": {
+      "text": "See ya!",
+      "status": "imported"
+    },
+    "voice_182:r_0121a166c715cdff": {
+      "text": "Go!",
+      "status": "imported"
+    },
+    "voice_182:r_30fad37a42bd3ad3": {
+      "text": "Outta my way!",
+      "status": "imported"
+    },
+    "voice_182:r_80a0b2a84e05d81a": {
+      "text": "Take this!",
+      "status": "imported"
+    },
+    "voice_182:r_6b15af9a0057cdc8": {
+      "text": "This is how you shoot!",
+      "status": "imported"
+    },
+    "voice_182:r_15b4a90140e8a33a": {
+      "text": "Stop or I shoot!\\nI shoot either way!",
+      "status": "imported"
+    },
+    "voice_182:r_af884a6b11dff121": {
+      "text": "Aim carefully... How's that!",
+      "status": "imported"
+    },
+    "voice_182:r_ac6fe7838e95647b": {
+      "text": "Too slow! Here's another!",
+      "status": "imported"
+    },
+    "voice_182:r_77ca87eacd17ad52": {
+      "text": "The great Kei Katsuragi isn't done!",
+      "status": "imported"
+    },
+    "voice_182:r_bf3244994760e535": {
+      "text": "Wanna see what I can do...?",
+      "status": "imported"
+    },
+    "voice_182:r_aabfb21c9d069ce7": {
+      "text": "Come on, today's my treat!",
+      "status": "imported"
+    },
+    "voice_182:r_02479dc8fe989560": {
+      "text": "Woo! I'm on fire today!",
+      "status": "imported"
+    },
+    "voice_182:r_a2df00f91a9b0a9e": {
+      "text": "Heh, that's how it's done!",
+      "status": "imported"
+    },
+    "voice_182:r_48b60d6c48b9b142": {
+      "text": "First, take this!",
+      "status": "imported"
+    },
+    "voice_182:r_8927e6fb681aa809": {
+      "text": "Now, here's the next one!",
+      "status": "imported"
+    },
+    "voice_182:r_665f01666859013b": {
+      "text": "And this one finishes you off!",
+      "status": "imported"
+    },
+    "voice_182:r_a571eec59b258d11": {
+      "text": "Being a hero isn't easy.",
+      "status": "imported"
+    },
+    "voice_182:r_ddbe581c5ea9183d": {
+      "text": "What a pain! Let's end this now!",
+      "status": "imported"
+    },
+    "voice_182:r_faae935cca0edc72": {
+      "text": "I'm letting it all rip!",
+      "status": "imported"
+    },
+    "voice_182:r_d4430bf362340b32": {
+      "text": "This is the last one!",
+      "status": "imported"
+    },
+    "voice_182:r_6ff1323b355593e0": {
+      "text": "Whew, I got carried away.",
+      "status": "imported"
+    },
+    "voice_182:r_b7b5625d7cd4282f": {
+      "text": "Looks like I gotta get serious...!",
+      "status": "imported"
+    },
+    "voice_182:r_36133ad73a73ef98": {
+      "text": "Sorry, but no holding back!",
+      "status": "imported"
+    },
+    "voice_182:r_920740a0219c5085": {
+      "text": "How's this!",
+      "status": "imported"
+    },
+    "voice_182:r_a8451712c57c1a72": {
+      "text": "...Whew... I somehow won...!",
+      "status": "imported"
+    },
+    "voice_182:r_3633df5b7b8f47fa": {
+      "text": "If you still won't disarm...",
+      "status": "imported"
+    },
+    "voice_182:r_52dfc56b14b93551": {
+      "text": "I'll strip you bare!",
+      "status": "imported"
+    },
+    "voice_182:r_1b9b2aab5cb104da": {
+      "text": "Then you and I can... have some fun!",
+      "status": "imported"
+    },
+    "voice_182:r_342044c706a2340f": {
+      "text": "Good meal. You ejected, right?",
+      "status": "imported"
+    },
+    "voice_182:r_f2d4255f1c2f7542": {
+      "text": "Pinch hitter, Kei Katsuragi!",
+      "status": "imported"
+    },
+    "voice_182:r_5d08ad19e2da125b": {
+      "text": "Good work! Now, let's go!",
+      "status": "imported"
+    },
+    "voice_182:r_a7246b52782a877e": {
+      "text": "Flee in night fog...\\nSound good?",
+      "status": "imported"
+    },
+    "voice_182:r_dc8701f6bcb9904f": {
+      "text": "Leave the rest to your knight.",
+      "status": "imported"
+    },
+    "voice_182:r_9e6cf4f389dae55c": {
+      "text": "Tch, I warned you!",
+      "status": "imported"
+    },
+    "voice_182:r_9e0c80ac7e33b459": {
+      "text": "I can't just stand by and watch!",
+      "status": "imported"
+    },
+    "voice_182:r_7432ef43ed3471dc": {
+      "text": "A man's duty is to protect girls!",
+      "status": "imported"
+    },
+    "voice_182:r_47d52a2839c71715": {
+      "text": "I won't let you hurt my honey!",
+      "status": "imported"
+    },
+    "voice_182:r_eb7ae28b53dc033c": {
+      "text": "Spread out and attack. Got it!",
+      "status": "imported"
+    },
+    "voice_182:r_857c4a52ce8df0fd": {
+      "text": "So that one's my opponent...!",
+      "status": "imported"
+    },
+    "voice_182:r_55417493fce1d347": {
+      "text": "Pardon me, coming through!",
+      "status": "imported"
+    },
+    "voice_182:r_8fdf5910927c9591": {
+      "text": "Tch, stuck with the dull job...",
+      "status": "imported"
+    },
+    "voice_182:r_7d724dbcc4451e10": {
+      "text": "Huh?! I'm out of ammo!",
+      "status": "imported"
+    },
+    "voice_182:r_93e25418a203cb8f": {
+      "text": "Damn!\\nToo generous at the start!",
+      "status": "imported"
+    },
+    "voice_182:r_adeb0a29274d3d9b": {
+      "text": "I can't do it with this weapon...!",
+      "status": "imported"
+    },
+    "voice_182:r_24cf161287ef9d5c": {
+      "text": "You really are quick to run away.",
+      "status": "imported"
+    },
+    "voice_182:r_8f60f6fc86db3107": {
+      "text": "Sorry, no luck!",
+      "status": "imported"
+    },
+    "voice_182:r_b1de76a75a253c13": {
+      "text": "Kei, you're so cool!",
+      "status": "imported"
+    },
+    "voice_182:r_128c35bf3e0e394c": {
+      "text": "That's quite the effort.",
+      "status": "imported"
+    },
+    "voice_182:r_5213c17e13b23de0": {
+      "text": "Running away is winning!",
+      "status": "imported"
+    },
+    "voice_182:r_38fdff9483e9245c": {
+      "text": "You can't just keep running!",
+      "status": "imported"
+    },
+    "voice_182:r_620fedec67706d7d": {
+      "text": "Now, what'll you do next?",
+      "status": "imported"
+    },
+    "voice_182:r_9680dcd0fddcfcc7": {
+      "text": "Come on, let's hear some applause!",
+      "status": "imported"
+    },
+    "voice_182:r_2a00f1044ad5cbaa": {
+      "text": "I am a pro, after all.",
+      "status": "imported"
+    },
+    "voice_182:r_3dbeead1bd3164ef": {
+      "text": "Ha! Serves you right!",
+      "status": "imported"
+    },
+    "voice_182:r_98d15b8cc09bc915": {
+      "text": "Not gonna happen!",
+      "status": "imported"
+    },
+    "voice_182:r_46e86d000250e137": {
+      "text": "What a persistent enemy!",
+      "status": "imported"
+    },
+    "voice_182:r_ac341e7976e88f0b": {
+      "text": "Come on, isn't it time you gave up?",
+      "status": "imported"
+    },
+    "voice_182:r_cdbd128a5b4127cc": {
+      "text": "How was that?\\nImpressed now?",
+      "status": "imported"
+    },
+    "voice_182:r_cfccaa1fbeda124c": {
+      "text": "My technique.\\nDon't get spellbound!",
+      "status": "imported"
+    },
+    "voice_182:r_b1f8ec192b9c083a": {
+      "text": "Keep this up and girls'll hate you.",
+      "status": "imported"
+    },
+    "voice_182:r_a007f9ab9cf048b3": {
+      "text": "Only girls get to fight over me!",
+      "status": "imported"
+    },
+    "voice_182:r_ddafde4b065ced49": {
+      "text": "I'd rather get a kiss\\nthan a slap.",
+      "status": "imported"
+    },
+    "voice_182:r_3304412ac41f47a6": {
+      "text": "Attack me away from the battlefield.",
+      "status": "imported"
+    },
+    "voice_182:r_a2afffe1c396f0b3": {
+      "text": "Whew, that thing\\nwould hurt head-on.",
+      "status": "imported"
+    },
+    "voice_182:r_13c25fbdfddc8a24": {
+      "text": "Brute force won't get you anywhere.",
+      "status": "imported"
+    },
+    "voice_182:r_42ba1ecb310b4bd7": {
+      "text": "Sloppy moves...\\nYou a rookie?",
+      "status": "imported"
+    },
+    "voice_182:r_d692f1d420460a47": {
+      "text": "I can't afford to lose in the air!",
+      "status": "imported"
+    },
+    "voice_182:r_a5643cec86b18bd2": {
+      "text": "That anti-air fire\\nwon't hit me!",
+      "status": "imported"
+    },
+    "voice_182:r_68f2dfab20a4a30e": {
+      "text": "Whoa!\\n...Looks like I made it.",
+      "status": "imported"
+    },
+    "voice_182:r_9cedad8237480563": {
+      "text": "Ow!\\nIs today my unlucky day...?!",
+      "status": "imported"
+    },
+    "voice_182:r_a03fabecba1508ca": {
+      "text": "Don't worry!\\nMome is with you, Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_5391b24a71eb10ae": {
+      "text": "Ow...! They caught me off guard!",
+      "status": "imported"
+    },
+    "voice_182:r_a554ceef5c87b972": {
+      "text": "Kei, tell me if you're hurt!",
+      "status": "imported"
+    },
+    "voice_182:r_546c3d5937fbb7ee": {
+      "text": "Couldn't dodge it all!\\nHow uncool.",
+      "status": "imported"
+    },
+    "voice_182:r_1568ff6298b12b96": {
+      "text": "Your aim's fairly accurate.",
+      "status": "imported"
+    },
+    "voice_182:r_2c9d94ba13c5fc50": {
+      "text": "This is no time to be impressed!",
+      "status": "imported"
+    },
+    "voice_182:r_a77f4913375098d2": {
+      "text": "You sure are persistent.",
+      "status": "imported"
+    },
+    "voice_182:r_428c2116ac3071b1": {
+      "text": "Well...\\nYou kept pace with Orguss!",
+      "status": "imported"
+    },
+    "voice_182:r_84c116267b79f540": {
+      "text": "Ow! Nice shot from the ground!",
+      "status": "imported"
+    },
+    "voice_182:r_dad38ee29af2df3a": {
+      "text": "I hate being chased by a man.",
+      "status": "imported"
+    },
+    "voice_182:r_3d32e86f8dc80909": {
+      "text": "Pretty refined attack for a man.",
+      "status": "imported"
+    },
+    "voice_182:r_70451ffbabe2f876": {
+      "text": "From you,\\na kiss beats a hit.",
+      "status": "imported"
+    },
+    "voice_182:r_d996fd6d4ef5b329": {
+      "text": "Could it be...\\nYou hate fighting me?",
+      "status": "imported"
+    },
+    "voice_182:r_546de3fb6db156ea": {
+      "text": "Big body, little brain...\\nNot bad.",
+      "status": "imported"
+    },
+    "voice_182:r_ca85f87cee5e31f7": {
+      "text": "Thought you a big oaf.\\nI misjudged.",
+      "status": "imported"
+    },
+    "voice_182:r_9072ea7bc71df136": {
+      "text": "Ngh!\\nGotta do something fast...",
+      "status": "imported"
+    },
+    "voice_182:r_04e815a8d425827d": {
+      "text": "Ugh! You really got me there!",
+      "status": "imported"
+    },
+    "voice_182:r_d89011fe3e5d082a": {
+      "text": "All right, time to get serious!",
+      "status": "imported"
+    },
+    "voice_182:r_3c5b0c2ac812d5de": {
+      "text": "Get us out of here, quickly! Now!",
+      "status": "imported"
+    },
+    "voice_182:r_5b9e8897190892eb": {
+      "text": "This isn't funny!\\nThey'll get me!",
+      "status": "imported"
+    },
+    "voice_182:r_7bea3023abbf8a94": {
+      "text": "You're pretty good, aren't you!",
+      "status": "imported"
+    },
+    "voice_182:r_dd01a4c0d1b36a8d": {
+      "text": "S-Such an aggressive approach!",
+      "status": "imported"
+    },
+    "voice_182:r_20920ad2eb3542db": {
+      "text": "Ugh, I hate this. Men, I swear...",
+      "status": "imported"
+    },
+    "voice_182:r_0ab7914877fd48ed": {
+      "text": "A fair rose has thorns...\\nI forgot.",
+      "status": "imported"
+    },
+    "voice_182:r_c958860b0676b1f5": {
+      "text": "Hit by a woman...\\nNo, still bad!",
+      "status": "imported"
+    },
+    "voice_182:r_7847e0ed7dc9282d": {
+      "text": "Y-You really went all out on me...!",
+      "status": "imported"
+    },
+    "voice_182:r_e42b52c7a987b906": {
+      "text": "Hey! I'm delicate, you know!",
+      "status": "imported"
+    },
+    "voice_182:r_6825fd1ff907bd22": {
+      "text": "Tch!\\nOutdone in a dogfight!",
+      "status": "imported"
+    },
+    "voice_182:r_607f666f1563bc0d": {
+      "text": "No way! How, from the ground?!",
+      "status": "imported"
+    },
+    "voice_182:r_97b7431eeb81e6b6": {
+      "text": "Kyaaaaaah!",
+      "status": "imported"
+    },
+    "voice_182:r_132f605d02975e71": {
+      "text": "This is absurd! Please be a dream!",
+      "status": "imported"
+    },
+    "voice_182:r_9b9726b1872759d6": {
+      "text": "Kei, I can't keep up with repairs!",
+      "status": "imported"
+    },
+    "voice_182:r_1252db29683fefe0": {
+      "text": "W-Wait...\\nIsn't this looking bad?!",
+      "status": "imported"
+    },
+    "voice_182:r_ad3d538f1e909184": {
+      "text": "Guh! One more hit\\nand we fall apart!",
+      "status": "imported"
+    },
+    "voice_182:r_8c61c59a1c0aebbf": {
+      "text": "Like hell I'm bowing out here!",
+      "status": "imported"
+    },
+    "voice_182:r_aba6a7662129d8ce": {
+      "text": "Go for broke!\\nI thrive in a pinch!",
+      "status": "imported"
+    },
+    "voice_182:r_b84afafb8a33ec60": {
+      "text": "Hang in there, Kei! I'll try too!",
+      "status": "imported"
+    },
+    "voice_182:r_c8c59db85bf875e6": {
+      "text": "Guh! But\\nI always shine in a crisis!",
+      "status": "imported"
+    },
+    "voice_182:r_391aa56435d9dd6e": {
+      "text": "Now I'm furious!\\nNo mercy for men!",
+      "status": "imported"
+    },
+    "voice_182:r_7c796ba53bd7ea03": {
+      "text": "Whoa!\\nAvoid hysterical women!",
+      "status": "imported"
+    },
+    "voice_182:r_95d047bcc17fccc6": {
+      "text": "C-Could it be... You hate men?",
+      "status": "imported"
+    },
+    "voice_182:r_bdd38c584fa313d0": {
+      "text": "Damn it! After coming this far?!",
+      "status": "imported"
+    },
+    "voice_182:r_3fd86c1027f317c8": {
+      "text": "R-Re-treaaaat!",
+      "status": "imported"
+    },
+    "voice_182:r_d0372a183d2007ad": {
+      "text": "Earth is Earth, changed or not!\\nOut!",
+      "status": "imported"
+    },
+    "voice_182:r_217aa5e1d545b44d": {
+      "text": "Here,\\neven aliens don't surprise me!",
+      "status": "imported"
+    },
+    "voice_182:r_381992c5d8224937": {
+      "text": "Even monsters like that show up?!",
+      "status": "imported"
+    },
+    "voice_182:r_f1e7ed9e5874aba5": {
+      "text": "Forget fighting. Wanna play with me?",
+      "status": "imported"
+    },
+    "voice_182:r_fc25e66a86fc2c85": {
+      "text": "I'll shoot you down, mech and all!",
+      "status": "imported"
+    },
+    "voice_182:r_b765659981b6516d": {
+      "text": "A lady opponent changes things.",
+      "status": "imported"
+    },
+    "voice_182:r_1f65a7af190e4674": {
+      "text": "If fate allows, let's meet again.",
+      "status": "imported"
+    },
+    "voice_182:r_fa96676cc65bb509": {
+      "text": "Habit. Any woman...\\nI make her fall.",
+      "status": "imported"
+    },
+    "voice_182:r_06f88dcbd3c9e738": {
+      "text": "Good thing I took out insurance...!",
+      "status": "imported"
+    },
+    "voice_182:r_b28faf9f71bc3598": {
+      "text": "Behold the skill of Kei Katsuragi!",
+      "status": "imported"
+    },
+    "voice_182:r_8a29278549f8e07a": {
+      "text": "You're wonderful, Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_7e6c573c26177f98": {
+      "text": "Grounded?\\nYou can't touch Orguss!",
+      "status": "imported"
+    },
+    "voice_182:r_e33693e5ba4665b0": {
+      "text": "Olson!\\nEven you won't get any mercy!",
+      "status": "imported"
+    },
+    "voice_182:r_72a21a1a489af001": {
+      "text": "Damn! Mimsy...!\\nMy child's waiting!!",
+      "status": "imported"
+    },
+    "voice_182:r_eb643f8bf737a0ca": {
+      "text": "Olson, Earth's lovely, rift or not.",
+      "status": "imported"
+    },
+    "voice_182:r_0a3fccb71ec6cf2a": {
+      "text": "Any world,\\nour task is the same!",
+      "status": "imported"
+    },
+    "voice_182:r_9b63cf1f3e0207ef": {
+      "text": "Sorry,\\nsomeone waits for me too!",
+      "status": "imported"
+    },
+    "voice_182:r_8356f4e3dcdff938": {
+      "text": "I'll come back!\\nWait for me, Mimsy!",
+      "status": "imported"
+    },
+    "voice_182:r_38e4a434c91d8ef0": {
+      "text": "I won't keep letting you beat me!",
+      "status": "imported"
+    },
+    "voice_182:r_98ed411352a3a6ac": {
+      "text": "Even a nice guy like me gets mad!",
+      "status": "imported"
+    },
+    "voice_182:r_4824bea6bab3af67": {
+      "text": "You're not getting away!",
+      "status": "imported"
+    },
+    "voice_182:r_862b92e63adb9734": {
+      "text": "Guess I've really lost my touch...!",
+      "status": "imported"
+    },
+    "voice_182:r_cb306ef55e49d107": {
+      "text": "Ugh! Can't fully\\ncontrol inertia?!",
+      "status": "imported"
+    },
+    "voice_182:r_57b2bd2de8a1408d": {
+      "text": "Gah! Damn it, now you've done it!",
+      "status": "imported"
+    },
+    "voice_182:r_76f080a4881e8ab5": {
+      "text": "I'll handle the repairs!",
+      "status": "imported"
+    },
+    "voice_182:r_288133bc5b573dae": {
+      "text": "Damn, I let my mind wander!",
+      "status": "imported"
+    },
+    "voice_182:r_6f95653e548f8fcf": {
+      "text": "Come on! Get it together, Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_d249d68bada91ab9": {
+      "text": "Ugh, damn it!",
+      "status": "imported"
+    },
+    "voice_182:r_e9b3307e9eb69f11": {
+      "text": "You can barely keep up with me.",
+      "status": "imported"
+    },
+    "voice_182:r_03cdac73042343ee": {
+      "text": "That's roughly how it's done.",
+      "status": "imported"
+    },
+    "voice_182:r_6026da5acbda7c69": {
+      "text": "Amazing, Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_981f8fedd5414fe5": {
+      "text": "This thing's incredible...!",
+      "status": "imported"
+    },
+    "voice_182:r_96bb0dcde0c8c44a": {
+      "text": "You won't get away!",
+      "status": "imported"
+    },
+    "voice_182:r_641550a2f54cb456": {
+      "text": "Now, Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_a0f2074af8debbfa": {
+      "text": "I know you'll win, Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_b5f5a97ed82acb0b": {
+      "text": "Go get 'em, Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_d9cd2e4ded064396": {
+      "text": "This is your chance, Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_99e6349431aaf23b": {
+      "text": "Sorry, but... I'll take this!",
+      "status": "imported"
+    },
+    "voice_182:r_db02a2dec93dd263": {
+      "text": "I'll adjust the targeting!",
+      "status": "imported"
+    },
+    "voice_182:r_d520c6d5298a848d": {
+      "text": "Fire, Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_099e2458cabf796f": {
+      "text": "This is Orguss's Ram Attack!",
+      "status": "imported"
+    },
+    "voice_182:r_fd910d714be70870": {
+      "text": "Charge, Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_494b5da92ed24ecb": {
+      "text": "That's our Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_c94c6d04be583774": {
+      "text": "Kei is invincible!",
+      "status": "imported"
+    },
+    "voice_182:r_bc7b9e308b879dd4": {
+      "text": "Enemy unit destroyed!",
+      "status": "imported"
+    },
+    "voice_182:r_98902fd3143c393e": {
+      "text": "Kei, you can strike again!",
+      "status": "imported"
+    },
+    "voice_182:r_d907fbd7bc1c4298": {
+      "text": "Our chance! Their guard is down!",
+      "status": "imported"
+    },
+    "voice_182:r_96b21e3a028dd074": {
+      "text": "Even a monster like that is here...!",
+      "status": "imported"
+    },
+    "voice_182:r_ce140b5d8e6b7310": {
+      "text": "Kei, a monster's coming!",
+      "status": "imported"
+    },
+    "voice_182:r_0e0335789c5396d7": {
+      "text": "I won't let you have your way!",
+      "status": "imported"
+    },
+    "voice_182:r_772c8bc40ab6cb61": {
+      "text": "Big or not,\\nKei won't lose!",
+      "status": "imported"
+    },
+    "voice_182:r_58dd2826a199ef51": {
+      "text": "Why do humans wage war...?!",
+      "status": "imported"
+    },
+    "voice_182:r_aadc0b2442adb93b": {
+      "text": "You've made Kei angry too!",
+      "status": "imported"
+    },
+    "voice_182:r_e7a8cd8ed5bc2d1b": {
+      "text": "Even if she's a woman,\\ndon't flirt!",
+      "status": "imported"
+    },
+    "voice_182:r_c7f4280cde4605b3": {
+      "text": "Kei! I won't tolerate cheating!",
+      "status": "imported"
+    },
+    "voice_182:r_33236ffa3ea95b68": {
+      "text": "Kei, it's Geminis!",
+      "status": "imported"
+    },
+    "voice_182:r_689d0b123de71ae0": {
+      "text": "I hate...\\nshadow-skulking cowards!",
+      "status": "imported"
+    },
+    "voice_182:r_84883aa95f63ce32": {
+      "text": "I won't forgive cowards!",
+      "status": "imported"
+    },
+    "voice_182:r_25493e978ce8ff16": {
+      "text": "Looks like you caused all this!",
+      "status": "imported"
+    },
+    "voice_182:r_7316666150e42960": {
+      "text": "Not my style...\\nWe guard the world!",
+      "status": "imported"
+    },
+    "voice_182:r_0d65eb631dcb7514": {
+      "text": "Now it's our turn!",
+      "status": "imported"
+    },
+    "voice_182:r_d03018a31e23f1e9": {
+      "text": "Let's counterattack, Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_279da5f732aa8847": {
+      "text": "Don't let them escape, Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_97f82e3cb6f70110": {
+      "text": "You can't escape from Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_c5611d8dd6def96b": {
+      "text": "Kei, the enemy's getting away!",
+      "status": "imported"
+    },
+    "voice_182:r_6f12cc8ed2732eb5": {
+      "text": "Aww! What are you doing, Kei?!",
+      "status": "imported"
+    },
+    "voice_182:r_99e7a66c650b5892": {
+      "text": "Like that's gonna hit me!",
+      "status": "imported"
+    },
+    "voice_182:r_5b2247b5cfbcd7b2": {
+      "text": "Nyeh!\\nYou'll never catch up to Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_2d7a9c06347582d9": {
+      "text": "Kei and Orguss are invincible!",
+      "status": "imported"
+    },
+    "voice_182:r_bf953d64c3c7d9b7": {
+      "text": "You hit them, Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_e09b933e3e706779": {
+      "text": "I can't believe they hit Kei...!",
+      "status": "imported"
+    },
+    "voice_182:r_66236eb99b676e5b": {
+      "text": "Eek! You startled me!",
+      "status": "imported"
+    },
+    "voice_182:r_9639a2dbcd2f58ed": {
+      "text": "K-Kei! We're almost at our limit!",
+      "status": "imported"
+    },
+    "voice_182:r_aeea0893acb93d35": {
+      "text": "Aaaaaah! I can't take any more!",
+      "status": "imported"
+    },
+    "voice_182:r_b31568654e53487b": {
+      "text": "N-No! I have to protect Kei...!",
+      "status": "imported"
+    },
+    "voice_182:r_2502132569141ea3": {
+      "text": "Kyaaaaaah! Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_1ff312798a52c8eb": {
+      "text": "No more! Eject, Kei!",
+      "status": "imported"
+    },
+    "voice_182:r_fa07d90fca62f593": {
+      "text": "You're so selfish!",
+      "status": "imported"
+    },
+    "voice_182:r_a25bf2676ecf9d83": {
+      "text": "You can't change the world alone!",
+      "status": "imported"
+    },
+    "voice_182:r_237a0288b42dce20": {
+      "text": "I'll save the world!\\nNot your way!",
+      "status": "imported"
+    }
+  }
+}

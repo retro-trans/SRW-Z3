@@ -1,0 +1,570 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_071:r_479b340ccc6c572b": {
+      "text": "You're in range...!",
+      "status": "imported"
+    },
+    "voice_071:r_77949221bf58f862": {
+      "text": "Attack target confirmed...!",
+      "status": "imported"
+    },
+    "voice_071:r_70b9c4b9f1f37eff": {
+      "text": "Setting power level to maximum...!",
+      "status": "imported"
+    },
+    "voice_071:r_9fcb3754cb1773c7": {
+      "text": "This'll work!",
+      "status": "imported"
+    },
+    "voice_071:r_3559d2fad32c2435": {
+      "text": "Got you!",
+      "status": "imported"
+    },
+    "voice_071:r_f7570547e9f80a64": {
+      "text": "Too easy!",
+      "status": "imported"
+    },
+    "voice_071:r_cbab0f4720e1fcf1": {
+      "text": "If that's how you want it...!",
+      "status": "imported"
+    },
+    "voice_071:r_0bbe0b4f5364e732": {
+      "text": "An opening!",
+      "status": "imported"
+    },
+    "voice_071:r_5dda5198137cb02a": {
+      "text": "I'm going all out!",
+      "status": "imported"
+    },
+    "voice_071:r_83ec59afbecdec14": {
+      "text": "Looks like I can't hold back...!",
+      "status": "imported"
+    },
+    "voice_071:r_e20bfd42ad95a3c9": {
+      "text": "First, I'll see how they react!",
+      "status": "imported"
+    },
+    "voice_071:r_0f58a8822381e57f": {
+      "text": "I've already read your moves!",
+      "status": "imported"
+    },
+    "voice_071:r_6dbcc507fb61b51d": {
+      "text": "Urzu 1. Commencing operations!",
+      "status": "imported"
+    },
+    "voice_071:r_b42ab697149a7c8a": {
+      "text": "Urzu 1. Commencing combat!",
+      "status": "imported"
+    },
+    "voice_071:r_4de4fcf3b440baf4": {
+      "text": "Urzu 1, engaging!",
+      "status": "imported"
+    },
+    "voice_071:r_0121a166c715cdff": {
+      "text": "Judging by appearances is risky...!",
+      "status": "imported"
+    },
+    "voice_071:r_30fad37a42bd3ad3": {
+      "text": "I'll have to get a little rough!",
+      "status": "imported"
+    },
+    "voice_071:r_80a0b2a84e05d81a": {
+      "text": "I have my own methods...!",
+      "status": "imported"
+    },
+    "voice_071:r_4a9ac1dff86506d9": {
+      "text": "I've already got you cornered!",
+      "status": "imported"
+    },
+    "voice_071:r_bc8538e6af3d2577": {
+      "text": "I don't intend to miss...!",
+      "status": "imported"
+    },
+    "voice_071:r_924516c8de2b5342": {
+      "text": "I've read your moves!",
+      "status": "imported"
+    },
+    "voice_071:r_da1174533722333f": {
+      "text": "Target acquired...!",
+      "status": "imported"
+    },
+    "voice_071:r_fdeb8162976e72c1": {
+      "text": "I'll bring you into my range!",
+      "status": "imported"
+    },
+    "voice_071:r_0fadb5c26df92b42": {
+      "text": "Haaah!",
+      "status": "imported"
+    },
+    "voice_071:r_6b15af9a0057cdc8": {
+      "text": "Close in and break through!",
+      "status": "imported"
+    },
+    "voice_071:r_15b4a90140e8a33a": {
+      "text": "Taaah!",
+      "status": "imported"
+    },
+    "voice_071:r_af884a6b11dff121": {
+      "text": "Just the range I prefer...!",
+      "status": "imported"
+    },
+    "voice_071:r_ac6fe7838e95647b": {
+      "text": "Hyaah!",
+      "status": "imported"
+    },
+    "voice_071:r_77ca87eacd17ad52": {
+      "text": "Perfect timing!",
+      "status": "imported"
+    },
+    "voice_071:r_bf3244994760e535": {
+      "text": "There!",
+      "status": "imported"
+    },
+    "voice_071:r_aabfb21c9d069ce7": {
+      "text": "No time to look away!",
+      "status": "imported"
+    },
+    "voice_071:r_02479dc8fe989560": {
+      "text": "The attack isn't over yet!",
+      "status": "imported"
+    },
+    "voice_071:r_a2df00f91a9b0a9e": {
+      "text": "A Lambda Driver-equipped unit...!",
+      "status": "imported"
+    },
+    "voice_071:r_48b60d6c48b9b142": {
+      "text": "That bulk can't\\nkeep up with me!",
+      "status": "imported"
+    },
+    "voice_071:r_8927e6fb681aa809": {
+      "text": "A true deadly poison...!",
+      "status": "imported"
+    },
+    "voice_071:r_665f01666859013b": {
+      "text": "Unlike the rest...!\\nAnd worse!",
+      "status": "imported"
+    },
+    "voice_071:r_a571eec59b258d11": {
+      "text": "I won't humor a serial killer!",
+      "status": "imported"
+    },
+    "voice_071:r_ddbe581c5ea9183d": {
+      "text": "Persistence can beat any foe!",
+      "status": "imported"
+    },
+    "voice_071:r_faae935cca0edc72": {
+      "text": "I feel like a world-saving hero...!",
+      "status": "imported"
+    },
+    "voice_071:r_d4430bf362340b32": {
+      "text": "Psychic power\\nis much like ki!",
+      "status": "imported"
+    },
+    "voice_071:r_6ff1323b355593e0": {
+      "text": "I don't believe in gods of war...!",
+      "status": "imported"
+    },
+    "voice_071:r_b7b5625d7cd4282f": {
+      "text": "A surgically enhanced soldier...!",
+      "status": "imported"
+    },
+    "voice_071:r_920740a0219c5085": {
+      "text": "That style goes beyond mere skill.",
+      "status": "imported"
+    },
+    "voice_071:r_a8451712c57c1a72": {
+      "text": "You're clearly an expert!",
+      "status": "imported"
+    },
+    "voice_071:r_3633df5b7b8f47fa": {
+      "text": "So you'd resort to such tactics...!",
+      "status": "imported"
+    },
+    "voice_071:r_52dfc56b14b93551": {
+      "text": "I've heard of the Red Comet!",
+      "status": "imported"
+    },
+    "voice_071:r_1b9b2aab5cb104da": {
+      "text": "I sense an evil aura from you...!",
+      "status": "imported"
+    },
+    "voice_071:r_342044c706a2340f": {
+      "text": "I'm reminded how vast space is!",
+      "status": "imported"
+    },
+    "voice_071:r_719e897304ec42d4": {
+      "text": "You're trouble in numbers...!",
+      "status": "imported"
+    },
+    "voice_071:r_ec2ea17765052401": {
+      "text": "I feel like a tokusatsu hero!",
+      "status": "imported"
+    },
+    "voice_071:r_f2d4255f1c2f7542": {
+      "text": "Monster!\\nDon't mock trained humans!",
+      "status": "imported"
+    },
+    "voice_071:r_5d08ad19e2da125b": {
+      "text": "You evil gods are mankind's foes!",
+      "status": "imported"
+    },
+    "voice_071:r_a7246b52782a877e": {
+      "text": "Why do you target only women...?",
+      "status": "imported"
+    },
+    "voice_071:r_dc8701f6bcb9904f": {
+      "text": "Rejected, so you lash out? Pitiful!",
+      "status": "imported"
+    },
+    "voice_071:r_d6bdd730f24f66eb": {
+      "text": "Spare me your pessimistic logic!",
+      "status": "imported"
+    },
+    "voice_071:r_41997412868c48c4": {
+      "text": "I won't let a Third Impact\\nhappen!",
+      "status": "imported"
+    },
+    "voice_071:r_9e6cf4f389dae55c": {
+      "text": "Time to show all I've mastered!",
+      "status": "imported"
+    },
+    "voice_071:r_9e0c80ac7e33b459": {
+      "text": "Once it's over\\nI'll do as I please!",
+      "status": "imported"
+    },
+    "voice_071:r_7432ef43ed3471dc": {
+      "text": "I'll make this my final battle!",
+      "status": "imported"
+    },
+    "voice_071:r_065443f6ddfcf0d7": {
+      "text": "You'll pay\\nfor fighting dirty!",
+      "status": "imported"
+    },
+    "voice_071:r_13c25fbdfddc8a24": {
+      "text": "Piercing and Inch Force!\\nTake it!",
+      "status": "imported"
+    },
+    "voice_071:r_42ba1ecb310b4bd7": {
+      "text": "Here I come!",
+      "status": "imported"
+    },
+    "voice_071:r_d692f1d420460a47": {
+      "text": "I'll show you combat beyond skill!",
+      "status": "imported"
+    },
+    "voice_071:r_a5643cec86b18bd2": {
+      "text": "Take this!",
+      "status": "imported"
+    },
+    "voice_071:r_68f2dfab20a4a30e": {
+      "text": "I'll show you my own art!",
+      "status": "imported"
+    },
+    "voice_071:r_9cedad8237480563": {
+      "text": "You can't dodge this!",
+      "status": "imported"
+    },
+    "voice_071:r_132f605d02975e71": {
+      "text": "Urzu 1, counterattacking!",
+      "status": "imported"
+    },
+    "voice_071:r_9b9726b1872759d6": {
+      "text": "Now I'll show you what I can do!",
+      "status": "imported"
+    },
+    "voice_071:r_1252db29683fefe0": {
+      "text": "You've entered the tiger's den!",
+      "status": "imported"
+    },
+    "voice_071:r_ad3d538f1e909184": {
+      "text": "You won't escape!",
+      "status": "imported"
+    },
+    "voice_071:r_8c61c59a1c0aebbf": {
+      "text": "You should've stayed put!",
+      "status": "imported"
+    },
+    "voice_071:r_aba6a7662129d8ce": {
+      "text": "You made the wrong choice!",
+      "status": "imported"
+    },
+    "voice_071:r_b84afafb8a33ec60": {
+      "text": "You won't evade this teamwork!",
+      "status": "imported"
+    },
+    "voice_071:r_c8c59db85bf875e6": {
+      "text": "The enemy's guard is down now...!",
+      "status": "imported"
+    },
+    "voice_071:r_391aa56435d9dd6e": {
+      "text": "I'll strike right after TDD1!",
+      "status": "imported"
+    },
+    "voice_071:r_7c796ba53bd7ea03": {
+      "text": "A leader must set an example!",
+      "status": "imported"
+    },
+    "voice_071:r_fa944da4b6519006": {
+      "text": "Same as ever, Melissa.",
+      "status": "imported"
+    },
+    "voice_071:r_95d047bcc17fccc6": {
+      "text": "Support's your specialty, Urzu 6.",
+      "status": "imported"
+    },
+    "voice_071:r_640327a12a559b31": {
+      "text": "Trust your own strength, Sarge!",
+      "status": "imported"
+    },
+    "voice_071:r_bdd38c584fa313d0": {
+      "text": "That's it! Keep that rhythm, Sarge!",
+      "status": "imported"
+    },
+    "voice_071:r_3fd86c1027f317c8": {
+      "text": "I'll handle this!",
+      "status": "imported"
+    },
+    "voice_071:r_d0372a183d2007ad": {
+      "text": "Use this chance to regroup!",
+      "status": "imported"
+    },
+    "voice_071:r_217aa5e1d545b44d": {
+      "text": "Can't lose the Colonel or the ship!",
+      "status": "imported"
+    },
+    "voice_071:r_381992c5d8224937": {
+      "text": "It's also a commander's duty...!",
+      "status": "imported"
+    },
+    "voice_071:r_f1e7ed9e5874aba5": {
+      "text": "You let your guard down, Melissa.",
+      "status": "imported"
+    },
+    "voice_071:r_fc25e66a86fc2c85": {
+      "text": "Urzu 6, watch your surroundings!",
+      "status": "imported"
+    },
+    "voice_071:r_5aeeb4917340c42d": {
+      "text": "Watch the whole battlefield, Sarge!",
+      "status": "imported"
+    },
+    "voice_071:r_b765659981b6516d": {
+      "text": "No options left...!",
+      "status": "imported"
+    },
+    "voice_071:r_0c427458bc00eb95": {
+      "text": "There are times you must endure...!",
+      "status": "imported"
+    },
+    "voice_071:r_774a9ab4d8fd5351": {
+      "text": "I won't be a sitting target...!",
+      "status": "imported"
+    },
+    "voice_071:r_d3f01de714c015bd": {
+      "text": "I see...\\nThey're cautious too.",
+      "status": "imported"
+    },
+    "voice_071:r_7d2617c809fead70": {
+      "text": "A coward who can't even face me...!",
+      "status": "imported"
+    },
+    "voice_071:r_ceb935ccbf830724": {
+      "text": "Clumsy, forceful, and inflexible.",
+      "status": "imported"
+    },
+    "voice_071:r_862ef7385bf2abd4": {
+      "text": "Seems they're nothing but fools.",
+      "status": "imported"
+    },
+    "voice_071:r_001cbec4d9a4283f": {
+      "text": "A desperate attack will never hit.",
+      "status": "imported"
+    },
+    "voice_071:r_8ad40afecd02b41e": {
+      "text": "I can sense your doubt and panic.",
+      "status": "imported"
+    },
+    "voice_071:r_26e5efec03c03d78": {
+      "text": "You cowered, so this happened...!",
+      "status": "imported"
+    },
+    "voice_071:r_4ad81e88c7557a8b": {
+      "text": "Showing off your incompetence...!",
+      "status": "imported"
+    },
+    "voice_071:r_1f65a7af190e4674": {
+      "text": "Ugly...! Utterly ugly!",
+      "status": "imported"
+    },
+    "voice_071:r_40c5a9358ed5bf29": {
+      "text": "Just a lapdog after all...!",
+      "status": "imported"
+    },
+    "voice_071:r_cf7dbf49e96a5755": {
+      "text": "Order-bound soldier\\ncan't beat me!",
+      "status": "imported"
+    },
+    "voice_071:r_4e37f92e7d2fc62e": {
+      "text": "Hmph. You're just like my old self.",
+      "status": "imported"
+    },
+    "voice_071:r_66ab4cfe1557909d": {
+      "text": "Lambda Drivers\\ncan still be fought!",
+      "status": "imported"
+    },
+    "voice_071:r_0bad405ee6ca63ba": {
+      "text": "Second-rate... No, not even third!",
+      "status": "imported"
+    },
+    "voice_071:r_8165e5b41f0124c4": {
+      "text": "I'll block it...!",
+      "status": "imported"
+    },
+    "voice_071:r_4e05581b7432cce8": {
+      "text": "That attack can't break through!",
+      "status": "imported"
+    },
+    "voice_071:r_a60b107ea3c36a86": {
+      "text": "Your equipment saved you.",
+      "status": "imported"
+    },
+    "voice_071:r_e33693e5ba4665b0": {
+      "text": "Why did you come at me?",
+      "status": "imported"
+    },
+    "voice_071:r_72a21a1a489af001": {
+      "text": "As expected, that's your limit.",
+      "status": "imported"
+    },
+    "voice_071:r_eb643f8bf737a0ca": {
+      "text": "What's wrong? Don't hold back.",
+      "status": "imported"
+    },
+    "voice_071:r_0a3fccb71ec6cf2a": {
+      "text": "That's all the power you have...!?",
+      "status": "imported"
+    },
+    "voice_071:r_9b63cf1f3e0207ef": {
+      "text": "You can't call that first-rate!",
+      "status": "imported"
+    },
+    "voice_071:r_8356f4e3dcdff938": {
+      "text": "Shift the impact\\nto reduce damage!",
+      "status": "imported"
+    },
+    "voice_071:r_1d6d784036ae0bd7": {
+      "text": "Our power is equal! But...!",
+      "status": "imported"
+    },
+    "voice_071:r_625664af02183c17": {
+      "text": "Hmm. Your technique isn't bad...!",
+      "status": "imported"
+    },
+    "voice_071:r_3701cba361f80ea5": {
+      "text": "Skill, perhaps,\\nbut not art...!",
+      "status": "imported"
+    },
+    "voice_071:r_63f429c5c68c0863": {
+      "text": "The tide is turning their way...!",
+      "status": "imported"
+    },
+    "voice_071:r_38e4a434c91d8ef0": {
+      "text": "I won't let them push me back!",
+      "status": "imported"
+    },
+    "voice_071:r_98ed411352a3a6ac": {
+      "text": "I'm losing...!\\nBut I can turn it!",
+      "status": "imported"
+    },
+    "voice_071:r_4824bea6bab3af67": {
+      "text": "Not bad for a lapdog...!",
+      "status": "imported"
+    },
+    "voice_071:r_cb306ef55e49d107": {
+      "text": "You're no ordinary soldier...!",
+      "status": "imported"
+    },
+    "voice_071:r_76f080a4881e8ab5": {
+      "text": "That's it...! Your true power!",
+      "status": "imported"
+    },
+    "voice_071:r_288133bc5b573dae": {
+      "text": "Such power from a Lambda Driver...!",
+      "status": "imported"
+    },
+    "voice_071:r_96bb0dcde0c8c44a": {
+      "text": "Superb technique...! I'm impressed!",
+      "status": "imported"
+    },
+    "voice_071:r_641550a2f54cb456": {
+      "text": "Panic can kill you...! Stay calm!",
+      "status": "imported"
+    },
+    "voice_071:r_a0f2074af8debbfa": {
+      "text": "You can have a rib or two...! But!",
+      "status": "imported"
+    },
+    "voice_071:r_b5f5a97ed82acb0b": {
+      "text": "To draw out\\nthat much potential...!",
+      "status": "imported"
+    },
+    "voice_071:r_d9cd2e4ded064396": {
+      "text": "I can't go down on one knee yet!",
+      "status": "imported"
+    },
+    "voice_071:r_99e6349431aaf23b": {
+      "text": "Now, resolve\\ndecides the fight...!",
+      "status": "imported"
+    },
+    "voice_071:r_ec1081caf845f56a": {
+      "text": "I'll admit defeat this time...!",
+      "status": "imported"
+    },
+    "voice_071:r_2c5b7ee872c1ed7f": {
+      "text": "Damn...! How pathetic of me...!",
+      "status": "imported"
+    },
+    "voice_071:r_76d1e51c8b494a60": {
+      "text": "Is this the end, Sarge?",
+      "status": "imported"
+    },
+    "voice_071:r_eb5f687fcd372ae7": {
+      "text": "Weberrrrr!!",
+      "status": "imported"
+    },
+    "voice_071:r_2329428a6871d9fa": {
+      "text": "Urzu 1, moving ahead!",
+      "status": "imported"
+    },
+    "voice_071:r_0e7466971bec4cc4": {
+      "text": "Don't think this is just a feint!",
+      "status": "imported"
+    },
+    "voice_071:r_efa71f7a4cc33ff3": {
+      "text": "I'll pin the enemy down!",
+      "status": "imported"
+    },
+    "voice_071:r_3fc2e1186557e7a0": {
+      "text": "I'll throw the enemy into disarray!",
+      "status": "imported"
+    },
+    "voice_071:r_fa6930340a545054": {
+      "text": "So they plan to pick us off...!",
+      "status": "imported"
+    },
+    "voice_071:r_2332b9d56461d7ab": {
+      "text": "If it's one-on-one...!",
+      "status": "imported"
+    },
+    "voice_071:r_854aa0a91a3c80d1": {
+      "text": "I can't afford to fall behind!",
+      "status": "imported"
+    },
+    "voice_071:r_0bc8ae32a406ceab": {
+      "text": "I'll isolate the enemy unit!",
+      "status": "imported"
+    }
+  }
+}

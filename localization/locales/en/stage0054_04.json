@@ -1,0 +1,702 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0054_04:r_caaab7bad760e16d": {
+      "text": "$$モニカ$$\n「Enemy contact aft of the Quarter!\n　They're engaging us!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_99b162aa6aa286a2": {
+      "text": "$$ジェフリー$$\n「So they've come to greet the intruders!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_58fb02434a1c40b2": {
+      "text": "$$レイアム$$\n「Confirmed, the Altair army!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_1c0f94acd5a8a143": {
+      "text": "$$オットー$$\n「Those guys...!\n　They don't even know this world's situation!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_1263541f4071624e": {
+      "text": "$$ブライト$$\n「Launch all units, now!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_3bc300bbdc277d82": {
+      "text": "$$カイエン$$\n「What are you thinking, forming up\n　with us, $$熱気バサラ$$!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_38762a09460d8b6b": {
+      "text": "$$バサラ$$\n「$$アマタ$$!\n　You're taking on that red one, right!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_7ab28e70b4d4f641": {
+      "text": "$$アマタ$$\n「That's the plan, but...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$バサラ$$\n「Then I'll pump up the mood for you!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_ec335e69f984b8b3": {
+      "text": "$$オズマ$$\n「Guh...!\n　'PLANET DANCE', huh!!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_0abcaf0c31978670": {
+      "text": "$$リディ$$\n「What in the world is going on?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_1d6bc48b7f246730": {
+      "text": "$$カツ$$\n「Is $$熱気バサラ$$ encouraging a war?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_1af20fccc3c53cfc": {
+      "text": "$$バサラ$$\n「This ain't no war!\n　It's a battle of love!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_f951916061232dcd": {
+      "text": "$n\n「Huh!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_4d863c3fb88a4c39": {
+      "text": "$$アルト$$\n「What are you even talking about!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_44f4742c3dcce39a": {
+      "text": "$$桂$$\n「Now this is good!\n　Suddenly everything's heartwarming!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_9e701cdeb3842c21": {
+      "text": "$$モーム$$\n「Oh come on! Even Master $$桂$$!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_6fd81f4abebe60c5": {
+      "text": "$$ガムリン$$\n「$$アマタ$$!\n　Leave the surrounding enemies to us,\n　you go for that commander unit!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_da2132b5038ec737": {
+      "text": "$$アマタ$$\n「Are you sure?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_495d61d3ec7e16f2": {
+      "text": "$$ガムリン$$\n「He's not here for Altair's sake,\n　he's coming purely to claim $$ミコノ$$.\n　This really isn't a war anymore.」",
+      "status": "imported"
+    },
+    "stage0054_04:r_5cd353758cfe474d": {
+      "text": "$$ガムリン$$\n「If you don't want to hand her to him,\n　then you fight!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_a653c8dec4c0f06f": {
+      "text": "$$ミレーヌ$$\n「If that's how it is, I'm cheering too!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_86d493e37a9799a7": {
+      "text": "$$アマタ$$\n「Understood!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_09d0fcc600cdd3df": {
+      "text": "$$カイエン$$\n「Anyway!\n　I can't forgive that guy!\n　Let's do this!!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_182faded068c15ed": {
+      "text": "$$ゼシカ$$\n（A rival in love... a battle of love...）",
+      "status": "imported"
+    },
+    "stage0054_04:r_9c206d19bfda4bd5": {
+      "text": "$$カグラ$$\n「This is great!\n　My body just keeps getting hotter!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_6e558bc69acf5bf3": {
+      "text": "$$カグラ$$\n「Wait for me, $$シルフィ$$!\n　I'll beat him and come for you right away!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_d60d0818e965232f": {
+      "text": "$$アマタ$$\n「I won't let that happen!\n　I'll protect $$ミコノ$$, no matter what!!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_5b23687574286204": {
+      "text": "$$レイアム$$\n「Dimensional boundary distortion confirmed!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_6fd86c96891ea942": {
+      "text": "$$オットー$$\n「Is another $$時空震動$$ happening!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_43e4e548c0b28376": {
+      "text": "$$レイアム$$\n「No... it seems smaller in scale!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_d80a9688790ed583": {
+      "text": "$$ミカゲ$$\n「You seem to be struggling, $$カグラ$$」",
+      "status": "imported"
+    },
+    "stage0054_04:r_708bea61e3c43ada": {
+      "text": "$$カグラ$$\n「$$ミカゲ$$!\n　I don't need your help!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ミカゲ$$\n「Don't say that.\n　I have my own reasons for being here」",
+      "status": "imported"
+    },
+    "stage0054_04:r_0827963cfd706e8d": {
+      "text": "$$ユノハ$$\n「What's that...!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$アマタ$$\n「Because of that guy, $$ジン$$...!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_3f4035fd9db81258": {
+      "text": "$$ミカゲ$$\n「Fufu... to that poor wingless one,\n　let me send fear and longing from ancient memory」",
+      "status": "imported"
+    },
+    "stage0054_04:r_567b361a454c4b73": {
+      "text": "$$クラン$$\n「Did that guy summon Vajra!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_d22851aaafbbf8fc": {
+      "text": "$$カナリア$$\n「The boundary he warped must be\n　what let Vajra fold their way in」",
+      "status": "imported"
+    },
+    "stage0054_04:r_352534f64413d954": {
+      "text": "$$ランカ$$\n「That person... using Vajra to fight...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_79f2664edb1af798": {
+      "text": "$$シェリル$$\n「Using Vajra for his own ends,\n　that's just like 《$$グレイス$$》...!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$ミカゲ$$\n「And then...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_1c5aa0d15ae24846": {
+      "text": "$$ゼシカ$$\n（That guy... is looking... at me...?）",
+      "status": "imported"
+    },
+    "stage0054_04:r_53bb64ee17750ee2": {
+      "text": "$$ゼシカ$$\n（No good... my mind's fading...）",
+      "status": "imported"
+    },
+    "stage0054_04:r_7a7add80fde475ba": {
+      "text": "$$ゼシカ$$\n「No way... that can't be...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_b2befefdbed1393d": {
+      "text": "$$ユノハ$$\n「$$ゼシカ$$!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_2103f6df2ea2e447": {
+      "text": "$$ＭＩＸ$$\n「What's wrong, $$ゼシカ$$!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_a12e3e130d896ff7": {
+      "text": "$$ゼシカ$$\n「What was that vision just now...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ミカゲ$$\n「Fufu...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_91bf33c27ad39f0a": {
+      "text": "$$カグラ$$\n「That $$ミカゲ$$!\n　Doing whatever he wants again!!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_ee220318b96ab538": {
+      "text": "$$オズマ$$\n「Everyone, watch out!\n　Vajra's targeting both us and\n　the Altair army!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_ce1b55e526b6277a": {
+      "text": "$$アンディ$$\n「That bastard!\n　Did he come just to stir up chaos!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_c304df6888eb78f7": {
+      "text": "$$桂$$\n「Save the questions for later!\n　This time Vajra's brought out a mothership!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_c26958634526e597": {
+      "text": "$$アルト$$\n「Guess we have no choice but to fight...!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_cdb750c9d380881a": {
+      "text": "$$カグラ$$\n「Damn it all!!\n　I'll crush anyone who gets in my way!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_95fda74613c97b39": {
+      "text": "$$カイエン$$\n「Here it comes, $$アマタ$$!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_1956994937f8171e": {
+      "text": "$$アマタ$$\n「I know!\n　Aquarion will be the one to stop him!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_48f49f6728c15612": {
+      "text": "$$ゼシカ$$\n（That guy is... $$ミコノ$$'s fate's partner...）",
+      "status": "imported"
+    },
+    "stage0054_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$カナリア$$\n「Doesn't look like there's more reinforcements」",
+      "status": "imported"
+    },
+    "stage0054_04:r_f02c37d91387d0ad": {
+      "text": "$$ルカ$$\n「About this Vajra,\n　its attack power and everything else are\n　stronger than any that's appeared before」",
+      "status": "imported"
+    },
+    "stage0054_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$ミシェル$$\n「So they're learning from experience...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_9796b3efa401a303": {
+      "text": "$$アンディ$$\n「$$インベーダー#keyword$$s, space monsters, Vajra...\n　Enemies just keep coming from space」",
+      "status": "imported"
+    },
+    "stage0054_04:r_643b6eebfc0186b3": {
+      "text": "$$カイエン$$\n「Mankind's natural enemy, $$バアル$$...\n　Is Vajra one of them too?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_291280e5f7eb9d70": {
+      "text": "$$アルト$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0054_04:r_32eb462c1b4999cb": {
+      "text": "$$カグラ$$\n「Not yet!\n　I won't be stopped by something like this today!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_1f4337d6d393fc37": {
+      "text": "$$サザンカ$$\n「Tougher than usual!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_4740e748fae085ee": {
+      "text": "$$バナージ$$\n「But what is this...?\n　The feel is different from usual...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_b76524cd840e1d37": {
+      "text": "$$カミーユ$$\n「This isn't killing intent...?\n　It's a more positive emotion...!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_730ffe18400abfc2": {
+      "text": "$$カグラ$$\n「I can't stand it!\n　Wait for me, $$シルフィ$$!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_ffe0fca26da5cd38": {
+      "text": "$$ミレーヌ$$\n「Could it be, he's getting hyped\n　by $$バサラ$$'s singing?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_bfb27f9eb2f7073e": {
+      "text": "$$バサラ$$\n「Alright, you!\n　Burn your soul even hotter!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_859dfa27bcaafe30": {
+      "text": "$$シン$$\n「There's no end to this!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_71ebf05996a4b0fd": {
+      "text": "$$シュレード$$\n「Such a straightforward feeling...\n　Fufu, honest, like the beast he is」",
+      "status": "imported"
+    },
+    "stage0054_04:r_6214c11b1bca811e": {
+      "text": "$$カグラ$$\n「Here I go!!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_8eaf6f3098ffed12": {
+      "text": "$$アマタ$$\n「Whoa!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_cf507214fe955d75": {
+      "text": "$$カグラ$$\n「$$シルフィ$$'s mine!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_2113dcbabdfc758a": {
+      "text": "$$ゼシカ$$\n「I can't win...\n　I can't beat him...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ミコノ$$\n「$$ゼシカ$$...!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_6a74519e1fc29c4b": {
+      "text": "$$アマタ$$\n「What's wrong, $$ゼシカ$$!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_5b992878fee054b5": {
+      "text": "$$ゼシカ$$\n「Because he's $$ミコノ$$'s fate's partner!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$アマタ$$\n「Huh!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ゼシカ$$\n「$$アポロン$$ and $$シルフィ$$...\n　They must have been each other's fate's\n　partner since 12,000 years ago!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_20cf167c0ec0d4d5": {
+      "text": "$$アマタ$$\n「No way...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_b591d812c96c6c99": {
+      "text": "???\n「Fate...\n　Must people always bow to it?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_e350fa099c1ab072": {
+      "text": "$$ミコノ$$\n「This voice...!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$不動$$\n「Water doesn't flow from low to high...\n　But once it merges into a great pond,\n　high and low no longer matter」",
+      "status": "imported"
+    },
+    "stage0054_04:r_c33bd700553abf91": {
+      "text": "$$アマタ$$\n「Supreme Commander $$不動$$!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_feee5c91826230e1": {
+      "text": "$$ＭＩＸ$$\n「Why is he here!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_bccc48e1964ad22d": {
+      "text": "$$不動$$\n「I stowed away」",
+      "status": "imported"
+    },
+    "stage0054_04:r_f8736aaaa216c766": {
+      "text": "$$アンディ$$\n「You too!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_d1ec2522c87c361d": {
+      "text": "$$不動$$\n「So, what will you do, $$アマタ・ソラ$$?\n　If $$ミコノ・スズシロ$$'s fate's partner\n　is him, will you bow to it?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_3599f0a4343fd95c": {
+      "text": "$$アマタ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_3bc7834a5bf3ee76": {
+      "text": "$$不動$$\n「Don't be afraid, $$アマタ・ソラ$$.\n　You should have overcome the darkness」",
+      "status": "imported"
+    },
+    "stage0054_04:r_366814efdc8b5800": {
+      "text": "$$アマタ$$\n「That's right...\n　In darkness and solitude I shed the\n　attachments that bound me...!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_9be1a4c10bb62515": {
+      "text": "$$不動$$\n「Yes...!\n　You should have regained your wings!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_94a88c90e557e16e": {
+      "text": "$$バサラ$$\n「Uoooooooh!!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_1c208ca0cbf26f28": {
+      "text": "$$ガムリン$$\n「$$バサラ$$...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_5b7ee307a700171a": {
+      "text": "$$バサラ$$\n「$$アマタ$$...\n　Is your passion something that'll\n　lose to his?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_8d8f065c932da30a": {
+      "text": "$$アマタ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0054_04:r_f5432119677514f7": {
+      "text": "$$バサラ$$\n「Isn't your heart burning!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_4e5c8e989c4a7691": {
+      "text": "$$アマタ$$\n「Uoooooooh!!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_adec86483b13599a": {
+      "text": "$$アマタ$$\n「No, I won't lose to fate!\n　I'll never accept that!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_2cf701bbcde3ec13": {
+      "text": "$$ミコノ$$\n「$$アマタ$$...!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_c17c58fdba72005e": {
+      "text": "$$アマタ$$\n「Even if everything's been decided\n　since 12,000 years ago, I still... I still...!\n　I want to defy that fate!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_1fe8564d2b959317": {
+      "text": "$$ゼシカ$$\n「...$$アマタ$$'s right」",
+      "status": "imported"
+    },
+    "stage0054_04:r_f527e012803f7f1c": {
+      "text": "$$アマタ$$\n「$$ゼシカ$$...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_4b1247bd3ca4905d": {
+      "text": "$$ゼシカ$$\n「What really matters isn't fate,\n　it's the truth between us now!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_00c55e25f87b71d0": {
+      "text": "$$ゼシカ$$\n「It's this feeling alive in our hearts right now!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_338f3b27e51dcc41": {
+      "text": "$$不動$$\n「Element Change!\n　$$ゲパルト$$, $$ミコノ・スズシロ$$!\n　$$スパーダ$$, $$ゼシカ・ウォン$$!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_d91d4bc2d52b61c4": {
+      "text": "$$ゼシカ$$\n「I was scared... scared the whole time...\n　Thinking maybe the world was\n　going to end...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_0c8ea89b07432421": {
+      "text": "$$ゼシカ$$\n「But what scares me more is\n　everything ending before I can say how I feel」",
+      "status": "imported"
+    },
+    "stage0054_04:r_4dbfba00ba7744ee": {
+      "text": "$$アルト$$\n「$$ゼシカ$$... you...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_be100a32b731708d": {
+      "text": "$$ゼシカ$$\n「I feel like I can say it now...!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_702f82442fcec8a9": {
+      "text": "$$ミコノ$$\n「Say what...?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_b1e38da4e8775ffe": {
+      "text": "$$ゼシカ$$\n「Um... $$アマタ$$...!\n　The way I feel about you...!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$アマタ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$ゼシカ$$\n「I... I like $$アマタ$$...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_3dad695c99e9e052": {
+      "text": "$$アマタ$$\n「Whaaat!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_66d4ae3a21caf881": {
+      "text": "$$ゼシカ$$\n「I liiiike $$アマタ$$!!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_0c18da7b3a37825d": {
+      "text": "$$ＭＩＸ$$\n「You like him!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_63249745ffae61b6": {
+      "text": "$$ユノハ$$\n「You like him?!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_abdb034ae8509702": {
+      "text": "$$サザンカ$$\n「You like him?!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_3ff2e21207d1d1d3": {
+      "text": "$$モーム$$\n「You like him?!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_e51ecf6d6aa42e75": {
+      "text": "$$スズネ$$\n「You like him?!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_47ddabb7b60131c2": {
+      "text": "$$モニカ$$\n「You like him?!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_b025267f22788233": {
+      "text": "$$ビヒーダ$$\n「You like him?!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_ec1a06a7023bf72c": {
+      "text": "$$アマタ$$\n「Uh... um...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_8805f96e52aaa462": {
+      "text": "$$ゼシカ$$\n「Oh... I actually said it!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_124591cb154fae64": {
+      "text": "$$ミコノ$$\n「Z-$$ゼシカ$$...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$アマタ$$\n「Well... how do I put this...\n　I'm glad you feel that way, but...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_4bf9b05b5f948170": {
+      "text": "$$カグラ$$\n「How much longer are you gonna make me wait?!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_eaa52d152f444bfd": {
+      "text": "$n\n「$$アマタ$$! It's coming!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_b4bc9e9435b58e6f": {
+      "text": "$$アマタ$$\n「Waaaaaaah!!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_a9227573166977a9": {
+      "text": "$$カイエン$$\n「Aquarion is on fire!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_b0600ab9a9e8559d": {
+      "text": "$$シュレード$$\n「Flames of excitement... flames of passion...\n　Heh... is this Aquarion's true power.」",
+      "status": "imported"
+    },
+    "stage0054_04:r_7cbc63dad295f862": {
+      "text": "$$アマタ$$\n「Uoooooh!!\n　Aquariooooon!!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_07f53c816e0a51f5": {
+      "text": "$$カグラ$$\n「What the hell is this!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_2d09c6f6a2d990ea": {
+      "text": "$$アンディ$$\n「What was that Infinite Fist just now!?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_3c5fcfc484a51913": {
+      "text": "$$不動$$\n「A forbidden love...\n　When that final line is crossed,\n　the wave Aquarion emits transcends time and space...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_0476ffd10c764b0e": {
+      "text": "$$不動$$\n「This, is love run amok!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$アマタ$$\n「Images are flowing in through the punch!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_2b3479c4cf0680f4": {
+      "text": "$$カグラ$$\n「Damn it!\n　$$シルフィ$$yyyy!!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_e370696b8936b08c": {
+      "text": "$$アマタ$$\n「What was that image just now...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_9d7b02c5e728b7aa": {
+      "text": "$$不動$$\n「A heart wishing to know the truth,\n　and a heart seeking true love...\n　Their union woke another forbidden power...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_9af213fc64e0afec": {
+      "text": "$$ゼシカ$$\n「$$アマタ$$, $$ミコノ$$!\n　Looks like $$ゲパルト$$ got a new weapon too!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_d7f1c506e78e55ff": {
+      "text": "$$アマタ$$\n「$$ゼシカ$$...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_0c705091f748360e": {
+      "text": "$$ゼシカ$$\n「Well... let's focus on what's in front of us...\n　Romance is... forbidden, anyway.」",
+      "status": "imported"
+    },
+    "stage0054_04:r_9eb8599304125b2f": {
+      "text": "$$ミコノ$$\n「Y-yeah... you're right...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_a072aa25e5f521e0": {
+      "text": "$$バサラ$$\n「Alright, here we go!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_24e1a808a1609a1a": {
+      "text": "$$オズマ$$\n「Yeeeah!\n　'Assault Love Heart' next, huh!!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_53128ce8f154fd06": {
+      "text": "$$不動$$\n「Heh heh... hundreds of millions of light-years away, huh...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_03b5db9ce98fb8d6": {
+      "text": "$$ミレーヌ$$\n「Are we... not reading the room right now?」",
+      "status": "imported"
+    },
+    "stage0054_04:r_3915fb4102f1c1dd": {
+      "text": "$$レイ#168$$\n「Well... same as always.」",
+      "status": "imported"
+    },
+    "stage0054_04:r_817b2773b4ed563e": {
+      "text": "$$バサラ$$\n「Here we go, Aquarion!\n　Fire it up wild!!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_1cc233cbc8c80af7": {
+      "text": "$$カグラ$$\n「Don't butt into me and $$シルフィ$$'s death match!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$アマタ$$\n「What are you even saying!\n　$$ミコノ$$ is her own person, not $$シルフィ$$!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_e180b22d18f48d38": {
+      "text": "$$カグラ$$\n「You don't get it, do you!\n　She's my $$シルフィ$$!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_e598c2a0b27e7f50": {
+      "text": "$$アマタ$$\n「Don't screw with me!\n　I won't let a guy like you defile\n　'$$アクエリアの舞う空$$', precious to me and $$ミコノ$$!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_4d2a9066c4e7b27f": {
+      "text": "$$カグラ$$\n「Alright, you! Keep on singing!\n　More than $$アリシア$$'s singing,\n　yours suits my taste better!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_10340119af3ed6db": {
+      "text": "$$バサラ$$\n「You asked for it, so here we go hard!\n　Keep up!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_23a9c7ab620ab112": {
+      "text": "$$ミレーヌ$$\n「I wonder if this is okay...\n　keeping this pace...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_4f0aca6deda07883": {
+      "text": "$$レイ#168$$\n「Well... same as always.」",
+      "status": "imported"
+    },
+    "stage0054_04:r_8fe40600ce62dfbc": {
+      "text": "$$バサラ$$\n「Here we go!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_ff4ce5f3cf96b617": {
+      "text": "$$カグラ$$\n「Fire it up wild!!\n　Turararara!!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_d73c21f119847e35": {
+      "text": "$$バサラ$$\n「I'll sing again and again till it reaches you!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_89766f5ffaa912d4": {
+      "text": "$$バサラ$$\n「Here we go, Vajra!\n　Hear my song!!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$アルト$$\n「Someday, $$シェリル$$ and $$ランカ$$'s songs will reach you,\n　and I believe you'll understand us...!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_451f726d4299ea35": {
+      "text": "$$アルト$$\n「But for now, we fight!\n　That's what we have to do!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_e3d111e8bb190cb1": {
+      "text": "$$スズネ$$\n「Let's go, $n!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_7c0d3c51f9a11ca0": {
+      "text": "$n\n「Yeah, this is better after all...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_ab97c2b2418ea732": {
+      "text": "$$スズネ$$\n「What's wrong!?\n　Making a face like that mid-battle...!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_2ddff5064af78db4": {
+      "text": "$n\n「I-it's nothing!\n　I'm going!」",
+      "status": "imported"
+    },
+    "stage0054_04:r_050d0532c4b24bfe": {
+      "text": "$$スズネ$$\n「You're acting strange, $n...」",
+      "status": "imported"
+    },
+    "stage0054_04:r_d583fcea31bdad2e": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

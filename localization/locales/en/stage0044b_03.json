@@ -1,0 +1,622 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0044b_03:r_caaab7bad760e16d": {
+      "text": "$$ドラゴンズハイヴ$$",
+      "status": "imported"
+    },
+    "stage0044b_03:r_99b162aa6aa286a2": {
+      "text": "$$ドラゴンズハイヴ$$",
+      "status": "imported"
+    },
+    "stage0044b_03:r_58fb02434a1c40b2": {
+      "text": "$$ドラゴンズハイヴ$$",
+      "status": "imported"
+    },
+    "stage0044b_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　　\n　　　　　　　　～ $$ドラゴンズハイヴ$$ Hangar ～",
+      "status": "imported"
+    },
+    "stage0044b_03:r_1263541f4071624e": {
+      "text": "$$敷島$$\n「...It seems this capsule is\n　some kind of cryo-sleep device」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_3bc300bbdc277d82": {
+      "text": "$$ワッ太$$\n「A cryo-sleep device...? What's that?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_38762a09460d8b6b": {
+      "text": "$$タケル$$\n「It's a device that sleeps you without aging.\n　In short, sleep in it and you won't age」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_7ab28e70b4d4f641": {
+      "text": "$$マッキー$$\n「Then that kid inside the capsule...\n　has been asleep since ages ago?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$敷島$$\n「That's right.\n　Rock analysis nearby shows the capsule\n　was buried 12,000 years ago」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_ec335e69f984b8b3": {
+      "text": "$$甲児$$\n「In human history terms, about when was that?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_0abcaf0c31978670": {
+      "text": "$n\n「The Stone Age.\n　Naturally, Earth back then shouldn't have\n　had the tech to build a capsule like that」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_1d6bc48b7f246730": {
+      "text": "$$ワッ太$$\n「So that capsule really was made by aliens!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_1af20fccc3c53cfc": {
+      "text": "$n\n「That's the conclusion, it seems」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_f951916061232dcd": {
+      "text": "$$ＷＩＬＬ$$\n「Dr. $$敷島$$...\n　The capsule's lock will release shortly」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_4d863c3fb88a4c39": {
+      "text": "$$敷島$$\n「As expected of you, $$ＷＩＬＬ$$.\n　Leaving the analysis to you paid off」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_44f4742c3dcce39a": {
+      "text": "$$ＷＩＬＬ$$\n「No...\n　I wasn't the one who released the lock」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_9e701cdeb3842c21": {
+      "text": "$$ＷＩＬＬ$$\n「The cryo-sleep device had already begun\n　thawing. Once that finished and the air was\n　confirmed safe, the lock released itself」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_6fd81f4abebe60c5": {
+      "text": "$$敷島$$\n「Then...!?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_da2132b5038ec737": {
+      "text": "$$ＷＩＬＬ$$\n「Allow me to offer my view.\n　That boy was likely put to sleep 12,000\n　years ago, anticipating this very day」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_495d61d3ec7e16f2": {
+      "text": "$$正太郎$$\n「Doctor! The capsule is opening!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_5cd353758cfe474d": {
+      "text": "???\n「.........」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_a653c8dec4c0f06f": {
+      "text": "$$ワッ太$$\n「He's coming out...!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_86d493e37a9799a7": {
+      "text": "???\n「...Where is this?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_09d0fcc600cdd3df": {
+      "text": "$$正太郎$$\n「He spoke our language...!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_182faded068c15ed": {
+      "text": "???\n「I already learned that much through sleep-learning」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_9c206d19bfda4bd5": {
+      "text": "$$敷島$$\n「Then you understand my words too?\n　First, would you tell me your name?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_6e558bc69acf5bf3": {
+      "text": "???\n「My name is... $$グーラ$$.\n　That's all I remember」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_d60d0818e965232f": {
+      "text": "$$ワッ太$$\n「If that's all he remembers...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_5b23687574286204": {
+      "text": "$$正太郎$$\n「Is it amnesia...?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_6fd86c96891ea942": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_43e4e548c0b28376": {
+      "text": "$$宇宙魔王#pilot$$",
+      "status": "imported"
+    },
+    "stage0044b_03:r_d80a9688790ed583": {
+      "text": "$$宇宙魔王#pilot$$",
+      "status": "imported"
+    },
+    "stage0044b_03:r_708bea61e3c43ada": {
+      "text": "$$宇宙魔王#pilot$$",
+      "status": "imported"
+    },
+    "stage0044b_03:r_7b6f159eeaf4de0f": {
+      "text": "$$宇宙魔王#pilot$$\n「$$グーラ$$...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_0827963cfd706e8d": {
+      "text": "$$グーラ$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$宇宙魔王#pilot$$\n「Remember, $$グーラ$$.\n　You were sent to this planet to live on,\n　beyond the cycle of reincarnation」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_3f4035fd9db81258": {
+      "text": "$$宇宙魔王#pilot$$\n「You are the one who shall rule that\n　Earth... $$グーラ・キング・Ｊｒ．$$」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_567b361a454c4b73": {
+      "text": "$$グーラ$$\n「$$グーラ・キング・Ｊｒ．$$...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_d22851aaafbbf8fc": {
+      "text": "$$宇宙魔王#pilot$$\n「My son, $$グーラ$$.\n　Remember」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_352534f64413d954": {
+      "text": "$$グーラ$$\n「I am... $$グーラ・キング・Ｊｒ．$$...!\n　The prince who shall rule Earth!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_79f2664edb1af798": {
+      "text": "$$タケル$$\n「Is this... an illusion cast by the $$宇宙魔王#pilot$$!?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$グーラ$$\n「It seems you've learned my father's power,\n　Earthling」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_1c5aa0d15ae24846": {
+      "text": "$$正太郎$$\n「$$グーラ$$!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_53bb64ee17750ee2": {
+      "text": "$$ワッ太$$\n「Him...!\n　He was the $$宇宙魔王#pilot$$'s son!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_7a7add80fde475ba": {
+      "text": "$$グーラ$$\n「$$ダンカン$$...\n　Prepare a $$スペースロボ$$ for me」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_b2befefdbed1393d": {
+      "text": "$$ダンカン$$\n「Yes...! At once!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_2103f6df2ea2e447": {
+      "text": "$$正太郎$$\n「Stop it, $$グーラ$$!\n　You mustn't fight!!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_a12e3e130d896ff7": {
+      "text": "$$グーラ$$\n「I won't take orders from you...!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_b6f7b219eb4bd64b": {
+      "text": "$$正太郎$$\n「$$グーラ$$!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_91bf33c27ad39f0a": {
+      "text": "$$宇宙魔王#pilot$$\n「Futile, Earthlings.\n　You've entered the Age of the Sun, and already\n　walk the road to ruin」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_ee220318b96ab538": {
+      "text": "$n\n「That line again...!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_ce1b55e526b6277a": {
+      "text": "$$宇宙魔王#pilot$$\n「Beyond the cycle of reincarnation, $$グーラ$$ shall\n　rule this planet. Death awaits any who interfere」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_c304df6888eb78f7": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0044b_03:r_c26958634526e597": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0044b_03:r_cdb750c9d380881a": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0044b_03:r_95fda74613c97b39": {
+      "text": "　\n　　\n　　　　　　　　～ $$ドラゴンズハイヴ$$ Hangar ～",
+      "status": "imported"
+    },
+    "stage0044b_03:r_1956994937f8171e": {
+      "text": "$$正太郎$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_48f49f6728c15612": {
+      "text": "$$セイミー$$\n「Sorry, $$正太郎$$...\n　If I'd stopped $$グーラ$$, none of that\n　would have happened...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$正太郎$$\n「It's all right, $$セイミー$$.\n　If $$グーラ$$ is our... Earth's enemy,\n　I won't hesitate to fight」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_f02c37d91387d0ad": {
+      "text": "$$マッキー$$\n「$$正太郎$$...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$正太郎$$\n「That's my mission, since Father gave me $$鉄人$$...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_9796b3efa401a303": {
+      "text": "$$タケル$$\n「Are you sure that's fine, $$正太郎$$?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_643b6eebfc0186b3": {
+      "text": "$$正太郎$$\n「$$タケル$$...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_291280e5f7eb9d70": {
+      "text": "$$タケル$$\n「I don't want to see that sad face\n　of yours... Tell me how you really feel」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_32eb462c1b4999cb": {
+      "text": "$$正太郎$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_1f4337d6d393fc37": {
+      "text": "$$ワッ太$$\n「Be honest, $$正太郎$$!\n　You're too serious!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_4740e748fae085ee": {
+      "text": "$$ワッ太$$\n「You don't really want to fight $$グーラ$$ either, right?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_b76524cd840e1d37": {
+      "text": "$$正太郎$$\n「But...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_730ffe18400abfc2": {
+      "text": "$$ワッ太$$\n「He's your friend, isn't he?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_ffe0fca26da5cd38": {
+      "text": "$$正太郎$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_bfb27f9eb2f7073e": {
+      "text": "$$ワッ太$$\n「Then it's settled!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_859dfa27bcaafe30": {
+      "text": "$$正太郎$$\n「Right!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_71ebf05996a4b0fd": {
+      "text": "$$タケル$$\n「$$正太郎$$...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_6214c11b1bca811e": {
+      "text": "$$ジン$$\n（Friends... huh...）",
+      "status": "imported"
+    },
+    "stage0044b_03:r_8eaf6f3098ffed12": {
+      "text": "$$ユノハ$$\n「Even if we're born on different planets,\n　our hearts can still connect, right...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_cf507214fe955d75": {
+      "text": "$$ジン$$\n「Eh...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_2113dcbabdfc758a": {
+      "text": "$$ユノハ$$\n「Watching $$正太郎$$ and the others,\n　and $$タケル$$, don't you think so?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ジン$$\n「...Maybe you're right...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_6a74519e1fc29c4b": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_5b992878fee054b5": {
+      "text": "$$ロゼ$$\n「What's wrong, $$ヒビキ$$?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_95a3dd16c2c4cc3e": {
+      "text": "$n\n「The $$宇宙魔王#pilot$$ knew Mayan words...\n　But I hear $$グーラ$$'s capsule was around\n　12,000 years old...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_4a14ec0c511c7f0d": {
+      "text": "$n\n「Just knowing of Mayan civilization was\n　surprising, but $$グーラ$$'s father, the\n　$$宇宙魔王#pilot$$, has lived 12,000 years.」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_20cf167c0ec0d4d5": {
+      "text": "$$タケル$$\n「Beyond imagining...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_b591d812c96c6c99": {
+      "text": "$n\n「The power of a black hole, and the\n　fact he's lived through eons of time...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_e350fa099c1ab072": {
+      "text": "$$ロゼ$$\n「The scale is fundamentally different\n　from any enemy we've fought before.」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_fb05d8e5f1ee93e5": {
+      "text": "$n\n（And that phrase from the Mayan\n　civilization... Why does he keep\n　repeating that old doomsday prophecy...）",
+      "status": "imported"
+    },
+    "stage0044b_03:r_c33bd700553abf91": {
+      "text": "Saucer Bridge",
+      "status": "imported"
+    },
+    "stage0044b_03:r_feee5c91826230e1": {
+      "text": "Saucer Bridge",
+      "status": "imported"
+    },
+    "stage0044b_03:r_bccc48e1964ad22d": {
+      "text": "Saucer Bridge",
+      "status": "imported"
+    },
+    "stage0044b_03:r_f8736aaaa216c766": {
+      "text": "　\n　　\n　　　　　　～ $$宇宙魔王#pilot$$ Army $$巨大円盤$$ Bridge ～",
+      "status": "imported"
+    },
+    "stage0044b_03:r_d1ec2522c87c361d": {
+      "text": "$$ロビー$$\n「Welcome back, Your Highness $$グーラ$$.\n　I offer my heartfelt congratulations\n　on your awakening.」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_3599f0a4343fd95c": {
+      "text": "$$グーラ$$\n「Who are you?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_3bc7834a5bf3ee76": {
+      "text": "$$ロビー$$\n「I am $$ロビー$$, an intelligence robot.\n　Your father, the $$宇宙魔王#pilot$$,\n　charged me to serve as your advisor.」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_366814efdc8b5800": {
+      "text": "$$ダンカン$$\n「I have heard of this, Your Highness.\n　That Lord $$宇宙魔王#pilot$$ possesses a\n　robot packed with all universal knowledge.」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_9be1a4c10bb62515": {
+      "text": "$$グーラ$$\n「So this is that $$ロビー$$.」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_94a88c90e557e16e": {
+      "text": "$$ロビー$$\n「It's a pleasure, Master\n　$$グーラ・キング・Ｊｒ．$$.」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_1c208ca0cbf26f28": {
+      "text": "$$グーラ$$\n「Then answer my question, $$ロビー$$.\n　Where is Father?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_5b7ee307a700171a": {
+      "text": "$$グーラ$$\n「The Father I knew wasn't that\n　huge a form.」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_8d8f065c932da30a": {
+      "text": "$$ロビー$$\n「After putting Your Highness to sleep,\n　your father became the incarnation\n　of a black hole himself.」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_f5432119677514f7": {
+      "text": "$$グーラ$$\n「By what means?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_4e5c8e989c4a7691": {
+      "text": "$$ロビー$$\n「That is a mystery of the universe,\n　one even I, $$ロビー$$, cannot fathom.」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_adec86483b13599a": {
+      "text": "$$ロビー$$\n「Your father can freely soar among\n　the galaxy's stars, and send his\n　shadow anywhere, as he did today.」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_2cf701bbcde3ec13": {
+      "text": "$$ロビー$$\n「And within that body,\n　all the universe's truths have been drawn in」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_c17c58fdba72005e": {
+      "text": "$$グーラ$$\n「The truth of the universe...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_1fe8564d2b959317": {
+      "text": "$$ロビー$$\n「Indeed. Your father is the very\n　demon king who reigns over the\n　universe.」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_f527e012803f7f1c": {
+      "text": "$$グーラ$$\n「And that father entrusted me with\n　conquering Earth...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_4b1247bd3ca4905d": {
+      "text": "$$ダンカン$$\n「What are your orders, Your Highness?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_00c55e25f87b71d0": {
+      "text": "$$グーラ$$\n「Today's battle convinced me.\n　That $c is the greatest obstacle\n　between my father and me.」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_338f3b27e51dcc41": {
+      "text": "$$ダンカン$$\n「I agree with you as well.」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_d91d4bc2d52b61c4": {
+      "text": "$$グーラ$$\n「First, I'll prepare. Then I'll challenge\n　them to a decisive battle, and sweep away\n　every obstacle to conquering Earth at once!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_0c8ea89b07432421": {
+      "text": "$$グーラ$$\n（Prepare yourself, $c.\n　And you too, $$金田正太郎$$.）",
+      "status": "imported"
+    },
+    "stage0044b_03:r_4dbfba00ba7744ee": {
+      "text": "$$グーラ$$\n（I am $$グーラ・キング・Ｊｒ．$$...\n　I swear on this name that I\n　will defeat you.）",
+      "status": "imported"
+    },
+    "stage0044b_03:r_be100a32b731708d": {
+      "text": "Favorite Backdrop",
+      "status": "imported"
+    },
+    "stage0044b_03:r_702f82442fcec8a9": {
+      "text": "Favorite Backdrop",
+      "status": "imported"
+    },
+    "stage0044b_03:r_b1e38da4e8775ffe": {
+      "text": "Favorite Backdrop",
+      "status": "imported"
+    },
+    "stage0044b_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ＡＧ$$\n「Master $$タケル$$...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$タケル$$\n「What is it, $$ＡＧ$$?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_3dad695c99e9e052": {
+      "text": "$$ＡＧ$$\n「You've remembered... about your brother」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_66d4ae3a21caf881": {
+      "text": "$$タケル$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_0c18da7b3a37825d": {
+      "text": "$$タケル$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_63249745ffae61b6": {
+      "text": "$$ＡＧ$$\n「Overcoming your own sorrow to give\n　the boys courage, Master $$タケル$$...\n　I've witnessed your galaxy-level love」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_abdb034ae8509702": {
+      "text": "$$ＡＧ$$\n「The words that swayed Prince $$グーラ$$...\n　If this $$ＡＧ$$ had a heart, I'd have wept」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_3ff2e21207d1d1d3": {
+      "text": "$$タケル$$\n「...Because I might have ended up\n　just like $$グーラ$$ myself」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_e51ecf6d6aa42e75": {
+      "text": "$$ＡＧ$$\n「Eh...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_47ddabb7b60131c2": {
+      "text": "$$タケル$$\n「Didn't I tell you...?\n　That I was really sent from planet\n　Gishin to become Earth's enemy...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_b025267f22788233": {
+      "text": "$$タケル$$\n「But thanks to the parents and friends\n　who raised me on Earth, I learned\n　what it means to love」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_ec1a06a7023bf72c": {
+      "text": "$$タケル$$\n「So I want to tell $$グーラ$$ what I've\n　learned. If he still fights after that...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_8805f96e52aaa462": {
+      "text": "$$ＡＧ$$\n「And then...?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_124591cb154fae64": {
+      "text": "$$タケル$$\n「I'll be the one to face him」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$ＡＧ$$\n「Understood.\n　So that resolve of yours birthed the Z-Chip」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_4bf9b05b5f948170": {
+      "text": "$$ＡＧ$$\n「That amount... 150Z.\n　I'll add it to the squad's stock」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_eaa52d152f444bfd": {
+      "text": "$$タケル$$\n「Keep this from $$正太郎$$ and $$ワッ太$$.\n　I'd rather leave $$グーラ$$ to those two」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_b4bc9e9435b58e6f": {
+      "text": "$$ＡＧ$$\n「Understood.\n　I too wish to watch over the two boys'\n　battle, alongside Master $$タケル$$」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_a9227573166977a9": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0044b_03:r_b0600ab9a9e8559d": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0044b_03:r_7cbc63dad295f862": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0044b_03:r_07f53c816e0a51f5": {
+      "text": "　\n　\n　　　　　　～ D-Trader ～",
+      "status": "imported"
+    },
+    "stage0044b_03:r_2d09c6f6a2d990ea": {
+      "text": "$$ＡＧ$$\n「Might I have a moment, miss?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_3c5fcfc484a51913": {
+      "text": "$$マッキー$$\n「W-what...?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_0476ffd10c764b0e": {
+      "text": "$$ＡＧ$$\n「About Prince $$グーラ$$...\n　what do you think, Master $$マッキー$$?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$マッキー$$\n「...I believe $$正太郎$$ will surely\n　open $$グーラ$$'s heart」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_2b3479c4cf0680f4": {
+      "text": "$$ＡＧ$$\n「That's not what I mean!\n　Ugh, how frustrating!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_e370696b8936b08c": {
+      "text": "$$ＡＧ$$\n「Frankly, I'm asking which you like more,\n　Master $$正太郎$$ or Prince $$グーラ$$!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_9d7b02c5e728b7aa": {
+      "text": "$$マッキー$$\n「Eh...?\n　Asking me that so suddenly...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_9af213fc64e0afec": {
+      "text": "$$ＡＧ$$\n「Which is it!? Come on, which is it!?\n　A wavering heart is common enough,\n　right? But two-timing is not allowed!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_d7f1c506e78e55ff": {
+      "text": "$$ＡＧ$$\n「Now, answer me!\n　Quick! Within two seconds!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_0c705091f748360e": {
+      "text": "$$マッキー$$\n「D-Daddy!\n　Help meee!!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_9eb8599304125b2f": {
+      "text": "$$敷島$$\n「Go, $$０８$$!!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_a072aa25e5f521e0": {
+      "text": "$$０８$$\n「!!!」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_24e1a808a1609a1a": {
+      "text": "$$ＡＧ$$\n「Ah, you!\n　A mere servant robot, defying\n　an agent robot!?」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_53128ce8f154fd06": {
+      "text": "$$マッキー$$\n「Phew... that helped.\n　Thanks, Dad」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_03b5db9ce98fb8d6": {
+      "text": "$$敷島$$\n「But with $$ＡＧ$$ like that,\n　guess D-Trader's closing up shop...」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_3915fb4102f1c1dd": {
+      "text": "$$マッキー$$\n「Then today, I'll mind the shop, just this once」",
+      "status": "imported"
+    },
+    "stage0044b_03:r_817b2773b4ed563e": {
+      "text": "$$マッキー$$\n「Then let's get fired up today too... business, business!」",
+      "status": "imported"
+    }
+  }
+}

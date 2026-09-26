@@ -1,0 +1,462 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_002:r_479b340ccc6c572b": {
+      "text": "Got you!",
+      "status": "imported"
+    },
+    "voice_002:r_ca4acbac57a2a35e": {
+      "text": "Now that's prime prey!",
+      "status": "imported"
+    },
+    "voice_002:r_77949221bf58f862": {
+      "text": "Attack Pattern B! Let's move!",
+      "status": "imported"
+    },
+    "voice_002:r_70b9c4b9f1f37eff": {
+      "text": "Your cockpit will be your coffin!",
+      "status": "imported"
+    },
+    "voice_002:r_9fcb3754cb1773c7": {
+      "text": "Go to hell!",
+      "status": "imported"
+    },
+    "voice_002:r_3559d2fad32c2435": {
+      "text": "We're nothing but dogs of war...!",
+      "status": "imported"
+    },
+    "voice_002:r_f7570547e9f80a64": {
+      "text": "This battlefield suits me!",
+      "status": "imported"
+    },
+    "voice_002:r_cbab0f4720e1fcf1": {
+      "text": "Drop dead!",
+      "status": "imported"
+    },
+    "voice_002:r_0bbe0b4f5364e732": {
+      "text": "Let's light up some fireworks!",
+      "status": "imported"
+    },
+    "voice_002:r_5dda5198137cb02a": {
+      "text": "One direct hit will finish this!",
+      "status": "imported"
+    },
+    "voice_002:r_83ec59afbecdec14": {
+      "text": "I'll crush you and your cockpit!",
+      "status": "imported"
+    },
+    "voice_002:r_e20bfd42ad95a3c9": {
+      "text": "Taking this to close quarters!",
+      "status": "imported"
+    },
+    "voice_002:r_0f58a8822381e57f": {
+      "text": "I won't let this chance slip by!",
+      "status": "imported"
+    },
+    "voice_002:r_6dbcc507fb61b51d": {
+      "text": "They're no ordinary AT pilot...!",
+      "status": "imported"
+    },
+    "voice_002:r_b42ab697149a7c8a": {
+      "text": "Perfect prey for an AT!",
+      "status": "imported"
+    },
+    "voice_002:r_4de4fcf3b440baf4": {
+      "text": "I'll punch through that thick armor!",
+      "status": "imported"
+    },
+    "voice_002:r_0121a166c715cdff": {
+      "text": "Hit a vital spot,\\neven giants fall!",
+      "status": "imported"
+    },
+    "voice_002:r_30fad37a42bd3ad3": {
+      "text": "Heh, what an easy target!",
+      "status": "imported"
+    },
+    "voice_002:r_80a0b2a84e05d81a": {
+      "text": "So I'm up against the Gundam!",
+      "status": "imported"
+    },
+    "voice_002:r_4a9ac1dff86506d9": {
+      "text": "Bagging them will make me famous!",
+      "status": "imported"
+    },
+    "voice_002:r_bc8538e6af3d2577": {
+      "text": "Mine can turn on a dime too!",
+      "status": "imported"
+    },
+    "voice_002:r_924516c8de2b5342": {
+      "text": "That's one awfully flimsy machine!",
+      "status": "imported"
+    },
+    "voice_002:r_fdeb8162976e72c1": {
+      "text": "Quit flitting around up there!",
+      "status": "imported"
+    },
+    "voice_002:r_0fadb5c26df92b42": {
+      "text": "Just hit it where it's fragile!",
+      "status": "imported"
+    },
+    "voice_002:r_6b15af9a0057cdc8": {
+      "text": "I won't let you transform!",
+      "status": "imported"
+    },
+    "voice_002:r_15b4a90140e8a33a": {
+      "text": "Take this!",
+      "status": "imported"
+    },
+    "voice_002:r_857c4a52ce8df0fd": {
+      "text": "You're not getting away!",
+      "status": "imported"
+    },
+    "voice_002:r_55417493fce1d347": {
+      "text": "Don't think you'll get home alive!",
+      "status": "imported"
+    },
+    "voice_002:r_8fdf5910927c9591": {
+      "text": "This time, I'm coming for you!",
+      "status": "imported"
+    },
+    "voice_002:r_7d724dbcc4451e10": {
+      "text": "Now it's my turn!",
+      "status": "imported"
+    },
+    "voice_002:r_93e25418a203cb8f": {
+      "text": "Time for a fresh start!",
+      "status": "imported"
+    },
+    "voice_002:r_adeb0a29274d3d9b": {
+      "text": "Couldn't get away, huh!",
+      "status": "imported"
+    },
+    "voice_002:r_24cf161287ef9d5c": {
+      "text": "This fight's not over yet!",
+      "status": "imported"
+    },
+    "voice_002:r_8f60f6fc86db3107": {
+      "text": "Heh, left yourself open!",
+      "status": "imported"
+    },
+    "voice_002:r_b1de76a75a253c13": {
+      "text": "Take this one with you too!",
+      "status": "imported"
+    },
+    "voice_002:r_128c35bf3e0e394c": {
+      "text": "Still hanging around back there!",
+      "status": "imported"
+    },
+    "voice_002:r_5213c17e13b23de0": {
+      "text": "That one's mine!",
+      "status": "imported"
+    },
+    "voice_002:r_38fdff9483e9245c": {
+      "text": "You're fighting me!",
+      "status": "imported"
+    },
+    "voice_002:r_620fedec67706d7d": {
+      "text": "I can't attack...!? Damn it!",
+      "status": "imported"
+    },
+    "voice_002:r_9680dcd0fddcfcc7": {
+      "text": "Damn! I can't counterattack!",
+      "status": "imported"
+    },
+    "voice_002:r_2a00f1044ad5cbaa": {
+      "text": "Tch! I can't do a damn thing!",
+      "status": "imported"
+    },
+    "voice_002:r_3dbeead1bd3164ef": {
+      "text": "Damn! They're out of my reach!",
+      "status": "imported"
+    },
+    "voice_002:r_98d15b8cc09bc915": {
+      "text": "Damn, that's an awkward position!",
+      "status": "imported"
+    },
+    "voice_002:r_46e86d000250e137": {
+      "text": "You amateur!",
+      "status": "imported"
+    },
+    "voice_002:r_ac341e7976e88f0b": {
+      "text": "Where the hell are you aiming!",
+      "status": "imported"
+    },
+    "voice_002:r_cdbd128a5b4127cc": {
+      "text": "Ha! What was that!?",
+      "status": "imported"
+    },
+    "voice_002:r_cfccaa1fbeda124c": {
+      "text": "You idiot!",
+      "status": "imported"
+    },
+    "voice_002:r_b1f8ec192b9c083a": {
+      "text": "Whoa, that was close!",
+      "status": "imported"
+    },
+    "voice_002:r_a007f9ab9cf048b3": {
+      "text": "You're dealing with a pro!",
+      "status": "imported"
+    },
+    "voice_002:r_ddafde4b065ced49": {
+      "text": "Too bad for you!",
+      "status": "imported"
+    },
+    "voice_002:r_3304412ac41f47a6": {
+      "text": "Not worth making a fuss over!",
+      "status": "imported"
+    },
+    "voice_002:r_0c0775e051211840": {
+      "text": "Hm? Did something hit me?",
+      "status": "imported"
+    },
+    "voice_002:r_a2afffe1c396f0b3": {
+      "text": "Cheap bluffs won't work on me!",
+      "status": "imported"
+    },
+    "voice_002:r_13c25fbdfddc8a24": {
+      "text": "What a boring opponent!",
+      "status": "imported"
+    },
+    "voice_002:r_42ba1ecb310b4bd7": {
+      "text": "Come at me for real!",
+      "status": "imported"
+    },
+    "voice_002:r_d692f1d420460a47": {
+      "text": "This much won't kill me!",
+      "status": "imported"
+    },
+    "voice_002:r_a5643cec86b18bd2": {
+      "text": "Hah! So what if it's a Gundam!",
+      "status": "imported"
+    },
+    "voice_002:r_68f2dfab20a4a30e": {
+      "text": "You're not worth the hype, Gundam!",
+      "status": "imported"
+    },
+    "voice_002:r_9cedad8237480563": {
+      "text": "Tch! Quit darting around up there!",
+      "status": "imported"
+    },
+    "voice_002:r_a03fabecba1508ca": {
+      "text": "I can't let them keep me pinned!",
+      "status": "imported"
+    },
+    "voice_002:r_5391b24a71eb10ae": {
+      "text": "Weak attack for something so big!",
+      "status": "imported"
+    },
+    "voice_002:r_a554ceef5c87b972": {
+      "text": "You're all size and no substance!",
+      "status": "imported"
+    },
+    "voice_002:r_546c3d5937fbb7ee": {
+      "text": "Damn, a direct hit!",
+      "status": "imported"
+    },
+    "voice_002:r_1568ff6298b12b96": {
+      "text": "Damn you! You'll pay for that!",
+      "status": "imported"
+    },
+    "voice_002:r_2c9d94ba13c5fc50": {
+      "text": "Tch! They're no amateur either!",
+      "status": "imported"
+    },
+    "voice_002:r_a77f4913375098d2": {
+      "text": "Too slow, you piece of junk!",
+      "status": "imported"
+    },
+    "voice_002:r_428c2116ac3071b1": {
+      "text": "I won't go down that easily!",
+      "status": "imported"
+    },
+    "voice_002:r_84c116267b79f540": {
+      "text": "Damn! They took out the camera!",
+      "status": "imported"
+    },
+    "voice_002:r_dad38ee29af2df3a": {
+      "text": "Damn! They've got some skills!",
+      "status": "imported"
+    },
+    "voice_002:r_3d32e86f8dc80909": {
+      "text": "Like hell I'll die here!",
+      "status": "imported"
+    },
+    "voice_002:r_70451ffbabe2f876": {
+      "text": "I won't die in this rotten place!",
+      "status": "imported"
+    },
+    "voice_002:r_69dfa1659715e2fa": {
+      "text": "Damn it!\\nThe Mission Disc is fried!",
+      "status": "imported"
+    },
+    "voice_002:r_d996fd6d4ef5b329": {
+      "text": "Damn! No hydraulic pressure!",
+      "status": "imported"
+    },
+    "voice_002:r_8ab47a28f99ef565": {
+      "text": "I-I see the Grim Reaper's face...!",
+      "status": "imported"
+    },
+    "voice_002:r_546de3fb6db156ea": {
+      "text": "Hydraulics are down...! This is bad!",
+      "status": "imported"
+    },
+    "voice_002:r_ca85f87cee5e31f7": {
+      "text": "No good!\\nThe Mission Disc is fried!",
+      "status": "imported"
+    },
+    "voice_002:r_9072ea7bc71df136": {
+      "text": "B-Barely hanging on by a thread!",
+      "status": "imported"
+    },
+    "voice_002:r_04e815a8d425827d": {
+      "text": "G-Gundam!",
+      "status": "imported"
+    },
+    "voice_002:r_d89011fe3e5d082a": {
+      "text": "You'll pay for that, Gundam!",
+      "status": "imported"
+    },
+    "voice_002:r_3c5b0c2ac812d5de": {
+      "text": "T-Too fast! I can't see it move!",
+      "status": "imported"
+    },
+    "voice_002:r_7bea3023abbf8a94": {
+      "text": "How can they move like that!?",
+      "status": "imported"
+    },
+    "voice_002:r_20920ad2eb3542db": {
+      "text": "A-At this rate, they'll crush me!",
+      "status": "imported"
+    },
+    "voice_002:r_0ab7914877fd48ed": {
+      "text": "Damn, it's so much bigger...!",
+      "status": "imported"
+    },
+    "voice_002:r_cb846feec748c2e3": {
+      "text": "I blew it!!",
+      "status": "imported"
+    },
+    "voice_002:r_c958860b0676b1f5": {
+      "text": "So this is it!",
+      "status": "imported"
+    },
+    "voice_002:r_5e2669b82ef75ce3": {
+      "text": "I-Impossible!!",
+      "status": "imported"
+    },
+    "voice_002:r_7847e0ed7dc9282d": {
+      "text": "Guaaagh!!",
+      "status": "imported"
+    },
+    "voice_002:r_e42b52c7a987b906": {
+      "text": "D-Damn it all!!",
+      "status": "imported"
+    },
+    "voice_002:r_b84afafb8a33ec60": {
+      "text": "Heh, you've taken the bait!",
+      "status": "imported"
+    },
+    "voice_002:r_c8c59db85bf875e6": {
+      "text": "You're an eyesore!",
+      "status": "imported"
+    },
+    "voice_002:r_3fd86c1027f317c8": {
+      "text": "Uwoaaaagh!!",
+      "status": "imported"
+    },
+    "voice_002:r_d0372a183d2007ad": {
+      "text": "I-It's no use anymore!!",
+      "status": "imported"
+    },
+    "voice_002:r_217aa5e1d545b44d": {
+      "text": "Damn, I can't take much more!",
+      "status": "imported"
+    },
+    "voice_002:r_381992c5d8224937": {
+      "text": "Tch! My instruments are dying!",
+      "status": "imported"
+    },
+    "voice_002:r_f1e7ed9e5874aba5": {
+      "text": "I took that one head-on!",
+      "status": "imported"
+    },
+    "voice_002:r_fc25e66a86fc2c85": {
+      "text": "Now this is getting interesting!",
+      "status": "imported"
+    },
+    "voice_002:r_5aeeb4917340c42d": {
+      "text": "Heh, how very kind of you!",
+      "status": "imported"
+    },
+    "voice_002:r_b765659981b6516d": {
+      "text": "What the hell was that?",
+      "status": "imported"
+    },
+    "voice_002:r_0c427458bc00eb95": {
+      "text": "Hmph, just a scratch!",
+      "status": "imported"
+    },
+    "voice_002:r_774a9ab4d8fd5351": {
+      "text": "You'll have to try a little harder!",
+      "status": "imported"
+    },
+    "voice_002:r_d3f01de714c015bd": {
+      "text": "Too soft!",
+      "status": "imported"
+    },
+    "voice_002:r_7d2617c809fead70": {
+      "text": "Don't underestimate me!",
+      "status": "imported"
+    },
+    "voice_002:r_ceb935ccbf830724": {
+      "text": "Come back when you're ready!",
+      "status": "imported"
+    },
+    "voice_002:r_862ef7385bf2abd4": {
+      "text": "That won't work!",
+      "status": "imported"
+    },
+    "voice_002:r_26e5efec03c03d78": {
+      "text": "Hmph, now that's one big target!",
+      "status": "imported"
+    },
+    "voice_002:r_40c5a9358ed5bf29": {
+      "text": "What did you say!?",
+      "status": "imported"
+    },
+    "voice_002:r_cf7dbf49e96a5755": {
+      "text": "I'm right here!",
+      "status": "imported"
+    },
+    "voice_002:r_fa96676cc65bb509": {
+      "text": "I'll run interference!",
+      "status": "imported"
+    },
+    "voice_002:r_4e37f92e7d2fc62e": {
+      "text": "I'll stop them in their tracks!",
+      "status": "imported"
+    },
+    "voice_002:r_66ab4cfe1557909d": {
+      "text": "Time to show what I can do!",
+      "status": "imported"
+    },
+    "voice_002:r_0bad405ee6ca63ba": {
+      "text": "I'll provide support!",
+      "status": "imported"
+    },
+    "voice_002:r_2072eaf71a260ae7": {
+      "text": "I'll finish that one off!",
+      "status": "imported"
+    },
+    "voice_002:r_6c13bbfd27a7799e": {
+      "text": "Leave that one to me!",
+      "status": "imported"
+    },
+    "voice_002:r_06f88dcbd3c9e738": {
+      "text": "Not a single unit gets away!",
+      "status": "imported"
+    }
+  }
+}

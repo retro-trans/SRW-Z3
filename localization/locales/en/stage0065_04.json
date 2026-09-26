@@ -1,0 +1,858 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0065_04:r_caaab7bad760e16d": {
+      "text": "$$宗介$$\n「A game? This mock battle...?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_99b162aa6aa286a2": {
+      "text": "$$クルーゾー$$\n「That's right.\n　I'll show you how powerless you are.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_58fb02434a1c40b2": {
+      "text": "$$クルツ$$\n「Tch...!\n　Real confident, taking us on 2-on-1!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_1c0f94acd5a8a143": {
+      "text": "$$宗介$$\n「$$アル$$... pull up data on his unit.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_1263541f4071624e": {
+      "text": "$$アル$$\n「A Series-D prototype unit, same as the Type-M.\n　Specs show little change from the current Series-E.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_3bc300bbdc277d82": {
+      "text": "$$クルーゾー$$\n「Come to think of it, I never introduced myself.\n　Transferred in from the Mediterranean Fleet,\n　Lieutenant $$ベルファンガン・クルーゾー$$.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_38762a09460d8b6b": {
+      "text": "$$クルーゾー$$\n「As of today, I've been assigned to the\n　West Pacific Fleet's $$ＳＲＴ$$, and to $c.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_7ab28e70b4d4f641": {
+      "text": "$$クルーゾー$$\n「Callsign's $$ウルズ$$ 1.\n　Which makes me your team leader.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$宗介$$\n「So you're Captain $$マッカラン$$'s successor...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_ec335e69f984b8b3": {
+      "text": "$n\n「Is it okay not to stop this, $$マオ$$?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_0abcaf0c31978670": {
+      "text": "$$マオ$$\n「Just leave him be.\n　It's basically his way of saying hello.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_1d6bc48b7f246730": {
+      "text": "$n\n「But he insulted Captain $$マッカラン$$...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_1af20fccc3c53cfc": {
+      "text": "$$スズネ$$\n「I don't think it was, really.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_f951916061232dcd": {
+      "text": "$n\n「Huh...?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_4d863c3fb88a4c39": {
+      "text": "$$ゼクス$$\n「At the very least, his skill is real.\n　After all, he made it here alone,\n　through Amalgam's encirclement.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_44f4742c3dcce39a": {
+      "text": "$$刹那$$\n「It's two on one, but this match...\n　there's no telling how it'll go.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_9e701cdeb3842c21": {
+      "text": "$$ヒイロ$$\n「Especially not with $$宗介$$ as he is now.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_6fd81f4abebe60c5": {
+      "text": "$$スザク$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0065_04:r_da2132b5038ec737": {
+      "text": "$n\n「$$スザク$$...\n　How do you see this match?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_495d61d3ec7e16f2": {
+      "text": "$$スザク$$\n「The outcome's already clear...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_5cd353758cfe474d": {
+      "text": "$$スザク$$\n「And if this keeps up, $$宗介$$...\n　will die, eventually...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_a653c8dec4c0f06f": {
+      "text": "$n\n「Wha...!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_86d493e37a9799a7": {
+      "text": "$$クルーゾー$$\n「The gallery's growing impatient.\n　Let's get this started.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_09d0fcc600cdd3df": {
+      "text": "$$クルーゾー$$\n「Three minutes...!\n　One round!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_182faded068c15ed": {
+      "text": "$$クルツ$$\n「Bring it!\n　Once the bell rings, rank doesn't matter!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_9c206d19bfda4bd5": {
+      "text": "$$クルツ$$\n「Let's do this, $$宗介$$!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_6e558bc69acf5bf3": {
+      "text": "$$宗介$$\n「Understood...!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_d60d0818e965232f": {
+      "text": "$$クルツ$$\n「Yeah!\n　We won!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_5b23687574286204": {
+      "text": "$$クルーゾー$$\n「Your read on the situation is naive.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_6fd86c96891ea942": {
+      "text": "$$宗介$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_43e4e548c0b28376": {
+      "text": "$$クルーゾー$$\n「I've gauged your strength.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_d80a9688790ed583": {
+      "text": "$$クルツ$$\n「Don't go deciding that on your own!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_708bea61e3c43ada": {
+      "text": "$$クルーゾー$$\n「Still don't get it, huh...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_7b6f159eeaf4de0f": {
+      "text": "$$クルーゾー$$\n「Time's up.\n　I've gauged your strength.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_0827963cfd706e8d": {
+      "text": "$$クルツ$$\n「Don't go deciding that on your own!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$クルーゾー$$\n「Still don't get it, huh...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_3f4035fd9db81258": {
+      "text": "$$クルーゾー$$\n「Here I come, Sergeant Sagara!\n　Try and dodge this!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_567b361a454c4b73": {
+      "text": "$$宗介$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_d22851aaafbbf8fc": {
+      "text": "$$クルーゾー$$\n「Too slow!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_352534f64413d954": {
+      "text": "$$宗介$$\n「Guh...!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_79f2664edb1af798": {
+      "text": "$$クルツ$$\n「$$宗介$$!!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$スメラギ$$\n「Seems the match's decided.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_1c5aa0d15ae24846": {
+      "text": "$$テッサ$$\n「Yes...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_53bb64ee17750ee2": {
+      "text": "$$スメラギ$$\n「As expected, the Lambda Driver didn't activate.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_7a7add80fde475ba": {
+      "text": "$$テッサ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0065_04:r_b2befefdbed1393d": {
+      "text": "$$イアン$$\n「Speaking as an engineer,\n　I'd say reliability, working without fail\n　when it counts, is a weapon's lifeblood.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_2103f6df2ea2e447": {
+      "text": "$$イアン$$\n「Well, mind you, I'm the one who\n　foisted that Twin Drive thing on $$刹那$$\n　once, myself...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_a12e3e130d896ff7": {
+      "text": "$$テッサ$$\n「Are you saying the Arbalest is defective?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_b6f7b219eb4bd64b": {
+      "text": "$$イアン$$\n「That's not what I'm saying.\n　If anything, I feel the romance in it.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_91bf33c27ad39f0a": {
+      "text": "$$テッサ$$\n「Romance... you say?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_ee220318b96ab538": {
+      "text": "$$イアン$$\n「I feel it holds potential beyond just being a weapon.\n　In that sense, it's close in image to\n　the GN Drive or the $$ユニコーンガンダム$$.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_ce1b55e526b6277a": {
+      "text": "$$スメラギ$$\n「The problem is, $$宗介$$ himself, the one\n　piloting it, despises the Lambda Driver.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_c304df6888eb78f7": {
+      "text": "$$イアン$$\n「He's a soldier through and through.\n　He probably sees the Arbalest with a harsher\n　eye than I do, and I'm the engineer.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_c26958634526e597": {
+      "text": "$$テッサ$$\n（Sagara...）",
+      "status": "imported"
+    },
+    "stage0065_04:r_cdb750c9d380881a": {
+      "text": "$$宗介$$\n「Damn it...!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_95fda74613c97b39": {
+      "text": "$$クルーゾー$$\n「Ugly... truly ugly.\n　Clumsy, forceful, without a shred of give.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_1956994937f8171e": {
+      "text": "$$クルーゾー$$\n「Get up, Sergeant!\n　Draw out everything that machine has!\n　Do you understand? Everything!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_48f49f6728c15612": {
+      "text": "$$宗介$$\n「Everything...\n　The Lambda Driver, is it...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$宗介$$\n（But, I...）",
+      "status": "imported"
+    },
+    "stage0065_04:r_f02c37d91387d0ad": {
+      "text": "$$クルツ$$\n「$$宗介$$...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$クルーゾー$$\n「So, in the end, he's just a lapdog...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_9796b3efa401a303": {
+      "text": "$$マオ$$\n「Lieutenant $$クルーゾー$$, heads up.\n　A unit believed to be Amalgam is inbound.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_643b6eebfc0186b3": {
+      "text": "$$ゲイツ$$\n「What, what is this!?\n　I'm heartbroken!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_291280e5f7eb9d70": {
+      "text": "$$ゲイツ$$\n「I heard you were having a falling-out,\n　and I wanted a front-row seat...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_32eb462c1b4999cb": {
+      "text": "$$ゲイツ$$\n「I even brought popcorn and cola,\n　what am I supposed to do with it now!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_1f4337d6d393fc37": {
+      "text": "$$ゲイツ$$\n「Well, guess I'll just chug the cola!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_4740e748fae085ee": {
+      "text": "$$スメラギ$$\n「All units, launch!\n　Lieutenant $$クルーゾー$$, $$クルツ$$, $$宗介$$,\n　regroup and reset!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_b76524cd840e1d37": {
+      "text": "$$カレン$$\n「Looks like $$五飛$$ and A21 aren't here.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_730ffe18400abfc2": {
+      "text": "$$デュオ$$\n「That's a bit of a relief, then.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_ffe0fca26da5cd38": {
+      "text": "$$トロワ$$\n「But careful.\n　That AS out front... it's not normal.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_bfb27f9eb2f7073e": {
+      "text": "$n\n「You mean it's strong?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_859dfa27bcaafe30": {
+      "text": "$$トロワ$$\n「That too.\n　But also exactly what I said.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_71ebf05996a4b0fd": {
+      "text": "$$トロワ$$\n「That type gives off a distinct feeling.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_6214c11b1bca811e": {
+      "text": "$$ロジャー$$\n「I agree with $$トロワ$$.\n　Put simply, that guy is abnormal.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_8eaf6f3098ffed12": {
+      "text": "$$スズネ$$\n「I'm... not quite sure, but...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_cf507214fe955d75": {
+      "text": "$$ロジャー$$\n「In short, it means someone like $$ＡＧ$$ is piloting it.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_2113dcbabdfc758a": {
+      "text": "$$スズネ$$\n「...I wish I still didn't understand...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$クルーゾー$$\n「Weber, fall back and support me.\n　Sagara, disrupt the enemy solo.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_6a74519e1fc29c4b": {
+      "text": "$$クルツ$$\n「Hold on!\n　You just beat him half to death, and now\n　you want Sousuke to keep fighting!?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_5b992878fee054b5": {
+      "text": "$$クルーゾー$$\n「I held back.\n　He should still be able to fight.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$宗介$$\n「...Understood.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_4a14ec0c511c7f0d": {
+      "text": "$$クルツ$$\n「Don't push yourself, $$宗介$$.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_20cf167c0ec0d4d5": {
+      "text": "$$ゲイツ$$\n「Buuurp!\n　You kept me waiting so long, I burped!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_b591d812c96c6c99": {
+      "text": "$$ゲイツ$$\n「Sorry, kittens.\n　This old man just can't help himself.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_e350fa099c1ab072": {
+      "text": "$$玉芳$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0065_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$玉蘭$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0065_04:r_c33bd700553abf91": {
+      "text": "$$ゲイツ$$\n「Tch! No sense of fun!\n　Here it's 'Oh, Master $$ゲイツ$$, how dreamy～!'\n　Or 'Master $$ゲイツ$$, hold me～!' isn't it...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_feee5c91826230e1": {
+      "text": "$$玉蘭$$\n（Sis...\n　　I hate that guy...）",
+      "status": "imported"
+    },
+    "stage0065_04:r_bccc48e1964ad22d": {
+      "text": "$$玉芳$$\n（Same here...）",
+      "status": "imported"
+    },
+    "stage0065_04:r_f8736aaaa216c766": {
+      "text": "$$ゲイツ$$\n「Ahh, this is boring, so I'll\n　just wipe them all out real quick!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_d1ec2522c87c361d": {
+      "text": "$$ゲイツ$$\n「Especially that white one, it looks worth crushing.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_3599f0a4343fd95c": {
+      "text": "$$宗介$$\n「It's coming...!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_3bc7834a5bf3ee76": {
+      "text": "$$ゲイツ$$\n「Well then, here we go, $c!\n　The fun, fun party's starting!!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_366814efdc8b5800": {
+      "text": "$$ゲイツ$$\n「Not bad...\n　Seems like I've got an opponent\n　I can enjoy for a while.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_9be1a4c10bb62515": {
+      "text": "$$ゲイツ$$\n「Mom and the church priest were right!\n　The world's not so bad after all!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_94a88c90e557e16e": {
+      "text": "$$宗介$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_1c208ca0cbf26f28": {
+      "text": "$n\n「That's the Lambda Driver's power too!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_5b7ee307a700171a": {
+      "text": "$$ゲイツ$$\n「Now then...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_8d8f065c932da30a": {
+      "text": "$$宗介$$\n「!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_f5432119677514f7": {
+      "text": "$$ゲイツ$$\n「Ngh...!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_4e5c8e989c4a7691": {
+      "text": "$$ゲイツ$$\n「This is bad!\n　Chugging that cola sent my gut into a nosedive!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_adec86483b13599a": {
+      "text": "$$ゲイツ$$\n「Even if I win, soiling my pants ruins it all!\n　I'm out!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_2cf701bbcde3ec13": {
+      "text": "$$宗介$$\n「Not letting you escape!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_c17c58fdba72005e": {
+      "text": "$$ゲイツ$$\n「Then, I'll stop.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_1fe8564d2b959317": {
+      "text": "$$宗介$$\n「!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_f527e012803f7f1c": {
+      "text": "$$宗介$$\n「Guh!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_4b1247bd3ca4905d": {
+      "text": "$n\n「$$宗介$$!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_00c55e25f87b71d0": {
+      "text": "$$ゲイツ$$\n「Buhahaha!\n　$$ミスリル$$'s little treasure isn't so tough, huh!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_338f3b27e51dcc41": {
+      "text": "$$ゲイツ$$\n「Well then, finishing blow!!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_d91d4bc2d52b61c4": {
+      "text": "$$スザク$$\n「$$宗介$$!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_0c8ea89b07432421": {
+      "text": "$$スザク$$\n「Ugh!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_4dbfba00ba7744ee": {
+      "text": "$$ゼロ$$\n「$$スザク$$!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_be100a32b731708d": {
+      "text": "$$宗介$$\n「You... shielded me...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_702f82442fcec8a9": {
+      "text": "$$ゲイツ$$\n「Ah! I know you!\n　You're the Knight of Zero, aren't you!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_b1e38da4e8775ffe": {
+      "text": "$$スザク$$\n「I won't let you... touch $$宗介$$!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ゲイツ$$\n「Buhahaha, this is priceless!\n　The mighty Knight of Zero, protecting some\n　grubby mercenary, kneeling before me!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$ゲイツ$$\n「Ahh!\n　I laughed so hard my jaw and abs hurt!\n　I'm heading home today!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_3dad695c99e9e052": {
+      "text": "$$スザク$$\n「He retreated...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_66d4ae3a21caf881": {
+      "text": "$$宗介$$\n「$$スザク$$...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_0c18da7b3a37825d": {
+      "text": "$$スザク$$\n「$$宗介$$... you live.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_63249745ffae61b6": {
+      "text": "$$宗介$$\n「What...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_abdb034ae8509702": {
+      "text": "$$デュオ$$\n「That's as far as you go!\n　Something else is coming!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_3ff2e21207d1d1d3": {
+      "text": "$$宗介$$\n「Guh!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_e51ecf6d6aa42e75": {
+      "text": "$n\n「$$宗介$$!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_47ddabb7b60131c2": {
+      "text": "$$ゲイツ$$\n「Buhahaha!\n　$$ミスリル$$'s little treasure isn't so tough, huh!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_b025267f22788233": {
+      "text": "$$ゲイツ$$\n「Ahh!\n　I laughed so hard my jaw and abs hurt!\n　I'm heading home today!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_ec1a06a7023bf72c": {
+      "text": "$$ゼロ$$\n「So he's withdrawn...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_8805f96e52aaa462": {
+      "text": "$$宗介$$\n「Damn it...!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_124591cb154fae64": {
+      "text": "$$スザク$$\n「$$宗介$$...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$宗介$$\n「What is it, $$スザク$$?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_4bf9b05b5f948170": {
+      "text": "$$スザク$$\n「Live on.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_eaa52d152f444bfd": {
+      "text": "$$宗介$$\n「What...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_b4bc9e9435b58e6f": {
+      "text": "$$デュオ$$\n「That's as far as you go!\n　Something else is coming!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_a9227573166977a9": {
+      "text": "$$Ｃ．Ｃ．$$\n「So it's $$マーティアル$$...!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_b0600ab9a9e8559d": {
+      "text": "$$シャッコ$$\n「$$キリコ$$, look at the lead AT!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_7cbc63dad295f862": {
+      "text": "$$キリコ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_07f53c816e0a51f5": {
+      "text": "$$テイタニア$$\n「Untouchable one, $$キリコ・キュービィー$$...\n　The day I settle things with you will come.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_2d09c6f6a2d990ea": {
+      "text": "$$カトル$$\n「The captain's unit is falling back.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_3c5fcfc484a51913": {
+      "text": "$$ゼロ$$\n「So today was just reconnaissance, was it?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_0476ffd10c764b0e": {
+      "text": "$$Ｃ．Ｃ．$$\n（So she just came to see $$キリコ$$'s face...）",
+      "status": "imported"
+    },
+    "stage0065_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0065_04:r_2b3479c4cf0680f4": {
+      "text": "$$クルツ$$\n「That woman... the one who took $$キリコ$$'s girl?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_e370696b8936b08c": {
+      "text": "$$マオ$$\n「Looks like $$マーティアル$$'s finally starting\n　to move for real, teamed up with Amalgam.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_9d7b02c5e728b7aa": {
+      "text": "$$スメラギ$$\n「All units, intercept $$マーティアル$$'s AT squad!\n　Take them down fast and pull out of here!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_9af213fc64e0afec": {
+      "text": "$$キリコ$$\n（$$マーティアル$$... god of war...\n　Why come after me...）",
+      "status": "imported"
+    },
+    "stage0065_04:r_d7f1c506e78e55ff": {
+      "text": "$$フェルト$$\n「Confirmed: Amalgam and $$マーティアル$$ wiped out.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_0c705091f748360e": {
+      "text": "$$ラッセ$$\n「So even $$マーティアル$$'s finally moving for real.\n　This is gonna get troublesome.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_9eb8599304125b2f": {
+      "text": "$$スメラギ$$\n「But there were also people who wanted this.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_a072aa25e5f521e0": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0065_04:r_24e1a808a1609a1a": {
+      "text": "$$カレン$$\n「$$キリコ$$...」",
+      "status": "imported"
+    },
+    "stage0065_04:r_53128ce8f154fd06": {
+      "text": "$$キリコ$$\n（Wait for me, $$フィアナ$$...）",
+      "status": "imported"
+    },
+    "stage0065_04:r_03b5db9ce98fb8d6": {
+      "text": "$$スメラギ$$\n「All units, fall back.\n　We're leaving this area before pursuers arrive.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_3915fb4102f1c1dd": {
+      "text": "$$玉芳$$\n「Unable to continue combat.\n　$$夏玉芳$$, falling back.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_817b2773b4ed563e": {
+      "text": "$$玉蘭$$\n（Sis...）",
+      "status": "imported"
+    },
+    "stage0065_04:r_1cc233cbc8c80af7": {
+      "text": "$$玉芳$$\n（Let's get moving, $$玉蘭$$.）",
+      "status": "imported"
+    },
+    "stage0065_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$玉芳$$\n「Unable to continue combat.\n　$$夏玉芳$$, falling back.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_e180b22d18f48d38": {
+      "text": "$$玉芳$$\n（$$玉蘭$$... the rest, as planned...）",
+      "status": "imported"
+    },
+    "stage0065_04:r_e598c2a0b27e7f50": {
+      "text": "$$玉蘭$$\n「Can't go on any further.\n　I'm heading back.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_4d2a9066c4e7b27f": {
+      "text": "$$玉芳$$\n（$$玉蘭$$... leave the rest to me.）",
+      "status": "imported"
+    },
+    "stage0065_04:r_10340119af3ed6db": {
+      "text": "$$玉蘭$$\n（Okay...\n　I'm off, Sis.）",
+      "status": "imported"
+    },
+    "stage0065_04:r_23a9c7ab620ab112": {
+      "text": "$$玉蘭$$\n「Can't go on any further.\n　I'm heading back.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_4f0aca6deda07883": {
+      "text": "$$玉蘭$$\n（I'm off, Sis.）",
+      "status": "imported"
+    },
+    "stage0065_04:r_8fe40600ce62dfbc": {
+      "text": "$$クルーゾー$$\n「Our power's even... and your skill's not bad, either.\n　But...!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_ff4ce5f3cf96b617": {
+      "text": "$$宗介$$\n「Strong...!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_d73c21f119847e35": {
+      "text": "$$クルーゾー$$\n「Just as I thought, a second-rate pilot.\n　Your fighting has skill, but no art to it.\n　...Do you understand the difference?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_89766f5ffaa912d4": {
+      "text": "$$宗介$$\n「Not the time for that...!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$クルーゾー$$\n「Words won't get through to you after all.\n　Then you'll simply have to feel it in your body...!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_451f726d4299ea35": {
+      "text": "$$クルツ$$\n「Relax, Lieutenant!\n　I'll leave your cockpit intact, out of mercy!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_e3d111e8bb190cb1": {
+      "text": "$$クルーゾー$$\n「Do you have room to worry about others?\n　Not when you miss a punch at point-blank range.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$クルツ$$\n「Don't mess with me!\n　Through my scope, I never miss!\n　I'll teach you that in your bones!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_ab97c2b2418ea732": {
+      "text": "$$クルーゾー$$\n（Captain $$マッカラン$$... forgive my rudeness.）",
+      "status": "imported"
+    },
+    "stage0065_04:r_2ddff5064af78db4": {
+      "text": "$$クルーゾー$$\n（Having taken over the $$ウルズ$$ 1 code from you,\n　I will raise them to greater heights, without fail.）",
+      "status": "imported"
+    },
+    "stage0065_04:r_050d0532c4b24bfe": {
+      "text": "$$ゲイツ$$\n「Found you, white one!\n　Quite the beauty, just like the rumors said!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_d583fcea31bdad2e": {
+      "text": "$$宗介$$\n「Is this guy just toying around!?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_475f7653621a91b5": {
+      "text": "$$アル$$\n「Warning.\n　Enemy AS is running the Lambda Driver.\n　Recommend activating our own system.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_f228ae702350849b": {
+      "text": "$$宗介$$\n「You handle it!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_d69dc027cba3003f": {
+      "text": "$$アル$$\n「Operation requires the operator's will.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_3c3735172a480b72": {
+      "text": "$$ゲイツ$$\n「What's wrong, what's wrong, gorgeous!\n　Let's you and I get real close, huh!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_1f418b5594cea300": {
+      "text": "$$玉芳$$\n（$$相良宗介$$...\n　I'll be his opponent.）",
+      "status": "imported"
+    },
+    "stage0065_04:r_f87fb889124bfaef": {
+      "text": "$$玉芳$$\n（All of this, for sensei's sake.）",
+      "status": "imported"
+    },
+    "stage0065_04:r_79c90de32a79212d": {
+      "text": "$$玉蘭$$\n（$$相良宗介$$...\n　I'll be the one to kill him.）",
+      "status": "imported"
+    },
+    "stage0065_04:r_33f7fd55913419e8": {
+      "text": "$$玉蘭$$\n（All of this, for sensei's sake.）",
+      "status": "imported"
+    },
+    "stage0065_04:r_473d9a88b4ca96e7": {
+      "text": "$$ゲイツ$$\n「No touching allowed!?\n　So uptight, Miss $$キリコ・キュービィー$$!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_4de6ac85c63bac12": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0065_04:r_4c92652c9b1adf6f": {
+      "text": "$$ゲイツ$$\n「Play along, come on!\n　Otherwise $$ゲイツ$$ just looks like a clown here!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_ce90563a934d49fb": {
+      "text": "$$ゲイツ$$\n「So you're $$ヒイロ・ユイ$$!\n　Glad to meet a celebrity!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_4fb296e63cb1fb46": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0065_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$ゲイツ$$\n「Oh, the silent treatment! Ignoring me, huh!\n　Didn't your mom teach you bullying's wrong!?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_9dc59affd40f32fc": {
+      "text": "$$ゲイツ$$\n「Fine, I get it!\n　For guys like you, it's payback times 100!\n　$$ゲイツ$$ transforms from bullied to bully in style!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_0cea115be526a319": {
+      "text": "$$ゲイツ$$\n「Found a rare one!\n　Gotcha, Innovator!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_d36072babd12aeb4": {
+      "text": "$$刹那$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0065_04:r_09ee921a85025fd3": {
+      "text": "$$ゲイツ$$\n「Whoa! What's with you!\n　All fired up in battle but can't hold a talk!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_fae689f2a1057b61": {
+      "text": "$$刹那$$\n（Can I ever understand a man like this...）",
+      "status": "imported"
+    },
+    "stage0065_04:r_91c6d0bb53854ecc": {
+      "text": "$$ゲイツ$$\n「Argh! Evil spirits, begone!\n　Back to hell with you, wretched soul!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_42a3149105314ab8": {
+      "text": "$$ゼロ$$\n「Unfortunate, indeed.\n　As long as some wish for miracles, $$ゼロ$$ is immortal.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_62ecd978c667bd29": {
+      "text": "$$ゲイツ$$\n「What!?\n　You think something that unreasonable is allowed!?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_d441e6cc908ac01b": {
+      "text": "$$ゲイツ$$\n「Then allow me to teach you.\n　The word 'immortal' suits nothing more\n　than these sideburns of $$ゲイツ$$'s!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_b2aab8873350ea1f": {
+      "text": "$$ゼロ$$\n「What is that...!?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_2c7af4c55d8ac938": {
+      "text": "$$ゲイツ$$\n「Now that's cool!\n　Black's a man's dandyism, ain't it!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_653b741d07545dff": {
+      "text": "$$ロジャー$$\n「Oh... you understand my taste, do you.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_d584d4b5af55b1cf": {
+      "text": "$$ゲイツ$$\n「But a true man cares about sideburns!\n　Anyone who doesn't get that is third-rate, at best!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_db0ee69ece206fcd": {
+      "text": "$$ロジャー$$\n「...Let me retract what I just said.\n　It seems we're simply incompatible after all.」",
+      "status": "imported"
+    },
+    "stage0065_04:r_f97e6925c9e37332": {
+      "text": "$$ロジャー$$\n「A gravelly-voiced man obsessed with vulgar\n　sideburns and stubble offends my aesthetics!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_422861e0b8d77d0c": {
+      "text": "$$ゲイツ$$\n「Whoa! You're outta your mind!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_ef16bcaa2b0e0c45": {
+      "text": "$$ゲイツ$$\n「Hm! Hmm!\n　I sense a cutie nearby!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_2b93cca10f1c36a8": {
+      "text": "$n\n「This guy...!\n　A Newtype!?」",
+      "status": "imported"
+    },
+    "stage0065_04:r_7980fd37141d88d0": {
+      "text": "$$ゲイツ$$\n「This is $$ゲイツ$$'s own sideburn sensor!\n　I sense a sly, sexy vixen in that cockpit!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_ac21212c36d2b9ad": {
+      "text": "$$スズネ$$\n「You're way off!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_a26e2108358af7a4": {
+      "text": "$n\n「This man... he's dangerous, no doubt about it!\n　I'll take care of guys like him, quick!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_a8118b2e37aa1382": {
+      "text": "$$ゲイツ$$\n「Hey, hey!\n　Don't treat $$ゲイツ$$ like some random mook!」",
+      "status": "imported"
+    },
+    "stage0065_04:r_017a56991b7b8ca4": {
+      "text": "$$キリコ$$\n（$$マーティアル$$...\n　$$フィアナ$$'s there too...）",
+      "status": "imported"
+    },
+    "stage0065_04:r_ad3e1db3419665fb": {
+      "text": "$$キリコ$$\n（If I take these guys down, can I get $$フィアナ$$ back...）",
+      "status": "imported"
+    },
+    "stage0065_04:r_0149e3a5f2e5ef78": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

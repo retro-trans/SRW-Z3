@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "policy": "Text sprites are catalog messages; raster logos require separately approved localized art. Audio is not converted into a dub by translating subtitles.",
+  "assets": [
+    {
+      "id": "ability.berserk_banner",
+      "kind": "text_rasterization",
+      "message_id": "abilities:r_3633df5b7b8f47fa",
+      "ps3_adapter": "tools/berserk_banner.py; EFFPS3 member 307, texture 0 solid/outline word sprites",
+      "vita_adapter": "Not yet source-mapped; do not reuse PS3 offsets",
+      "other_languages": "Use canonical ability text and validate font coverage and sprite width."
+    },
+    {
+      "id": "title.wordmark",
+      "kind": "raster_lettering",
+      "locales": {"en": {"status": "existing_approved_art", "asset": "work/title_logo_final/wordmark.png"}},
+      "ps3_adapter": "tools/title_logo.py",
+      "vita_adapter": "platforms/vita/title_art.py (source-verified; next build, runtime unverified)",
+      "other_languages": "Create and approve localized artwork; preserve the native Z, UVs and animation."
+    },
+    {
+      "id": "title.subtitle",
+      "kind": "raster_lettering",
+      "locales": {"en": {"status": "existing_approved_art", "asset": "work/title_logo_final/subtitle-v2.png"}},
+      "ps3_adapter": "tools/title_logo.py",
+      "vita_adapter": "platforms/vita/title_art.py (source-verified; next build, runtime unverified)",
+      "other_languages": "Create a language-specific approved subtitle image."
+    },
+    {
+      "id": "battle.voices",
+      "kind": "recorded_audio",
+      "subtitle_groups": "voice_*",
+      "recording_language": "ja",
+      "localized_audio": false,
+      "other_languages": "Translate subtitle messages; dubbing and audio replacement are separate work."
+    },
+    {
+      "id": "ui.rendered_word_sprites",
+      "kind": "text_rasterization",
+      "message_groups": ["map_locations", "scenario_titles", "ui.trader_art", "ui.maximum_break_art", "ui.title_library_buttons", "ui_aiddata"],
+      "ps3_adapter": "Existing guarded font/sprite rasterizers",
+      "vita_adapter": "platforms/vita/title_art.py covers ui.title_library_buttons; platforms/vita/startup_art.py covers the two ui_aiddata startup heading messages; other sprite families still need native mappings"
+    }
+  ]
+}

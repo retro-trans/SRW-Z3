@@ -1,0 +1,578 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0019_04:r_caaab7bad760e16d": {
+      "text": "$$赤木$$\n「Alright... all set!\n　Both $$ダイ・ガード$$ and I are in top shape!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_99b162aa6aa286a2": {
+      "text": "$$タケル$$\n「So that's the new $$ダイ・ガード$$?」",
+      "status": "imported"
+    },
+    "stage0019_04:r_58fb02434a1c40b2": {
+      "text": "$$赤木$$\n「Pretty impressive, huh?」",
+      "status": "imported"
+    },
+    "stage0019_04:r_1c0f94acd5a8a143": {
+      "text": "$$青山$$\n「The base frame's the same, but\n　we reworked every part's design\n　for a big output boost.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_1263541f4071624e": {
+      "text": "$$いぶき$$\n「Plus we made the Great Knot Punisher\n　standard, so no more swap delay.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_3bc300bbdc277d82": {
+      "text": "$$大杉$$\n「Mind you, the refit costs strained the budget,\n　and PR Section 2 and related units went into the red.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_38762a09460d8b6b": {
+      "text": "$$赤木$$\n「Don't worry, Chief!\n　This $$ダイ・ガード$$ will earn it right back!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_7ab28e70b4d4f641": {
+      "text": "$$ミサト$$\n「Now that's reassuring, Chief $$大杉$$.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$大杉$$\n「Oh, no, it's embarrassing...\n　He's just got spirit to spare...」",
+      "status": "imported"
+    },
+    "stage0019_04:r_ec335e69f984b8b3": {
+      "text": "$$ミサト$$\n「Heh... I'd love to learn that gutsiness.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_0abcaf0c31978670": {
+      "text": "$$シンジ$$\n（$$赤木$$...）",
+      "status": "imported"
+    },
+    "stage0019_04:r_1d6bc48b7f246730": {
+      "text": "$$佐伯$$\n「I'll go over the plan once more.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_1af20fccc3c53cfc": {
+      "text": "$$佐伯$$\n「Judging by the dimensional boundary's warp,\n　a $$界震$$ will hit this area soon.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_f951916061232dcd": {
+      "text": "$$佐伯$$\n「Against the $$ヘテロダイン$$ expected there,\n　Crusher Team will handle it, led by $$ダイ・ガード$$.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_4d863c3fb88a4c39": {
+      "text": "$$竜馬$$\n「The problem's that village...」",
+      "status": "imported"
+    },
+    "stage0019_04:r_44f4742c3dcce39a": {
+      "text": "$$スズネ$$\n「With so many elderly, and the road\n　to the village blocked by a landslide,\n　evacuation just wasn't possible...」",
+      "status": "imported"
+    },
+    "stage0019_04:r_9e701cdeb3842c21": {
+      "text": "$$ワッ太$$\n「It's fine, Miss $$スズネ$$.\n　We just need to beat the $$ヘテロダイン$$\n　before it reaches the village.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_6fd81f4abebe60c5": {
+      "text": "$$柿小路$$\n「Just in case, everyone from PR\n　Section 2 has gone to the village too,\n　but let's settle this ourselves first.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_da2132b5038ec737": {
+      "text": "$$谷川$$\n「Counting on you, everyone!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_495d61d3ec7e16f2": {
+      "text": "$$横沢$$\n「We'll prepare things here too, just in case.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_5cd353758cfe474d": {
+      "text": "$$伊集院$$\n「$$赤木$$!\n　Screw this up and you'll regret it!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_a653c8dec4c0f06f": {
+      "text": "$$田口$$\n「Take good care of $$ダイ・ガード$$!\n　If it's clearly your fault, the repair bill\n　lands right back on PR Section 2!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_86d493e37a9799a7": {
+      "text": "$$赤木$$\n「I know, I know!\n　Just relax and trust me on this!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_09d0fcc600cdd3df": {
+      "text": "$$石塚$$\n「Whenever someone says stuff like that,\n　nothing good ever happens...」",
+      "status": "imported"
+    },
+    "stage0019_04:r_182faded068c15ed": {
+      "text": "$$入江$$\n「So, in other words, always... right?」",
+      "status": "imported"
+    },
+    "stage0019_04:r_9c206d19bfda4bd5": {
+      "text": "$$ミサト$$\n「So they're fighting too, aren't they.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_6e558bc69acf5bf3": {
+      "text": "$$大杉$$\n「$$ダイ・ガード$$'s the one who beats the $$ヘテロダイン$$,\n　but all of PR Section 2 is fighting too.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_d60d0818e965232f": {
+      "text": "$$シンジ$$\n（There are people fighting\n　even without piloting robots...）",
+      "status": "imported"
+    },
+    "stage0019_04:r_5b23687574286204": {
+      "text": "$$田中司令$$\n「Judging by the observation data,\n　a $$界震$$ will occur soon.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_6fd86c96891ea942": {
+      "text": "$$Ｆ．Ｓ．$$\n「$$佐伯$$... this operation is your plan.\n　I'm counting on you to command it.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_43e4e548c0b28376": {
+      "text": "$$佐伯$$\n「Leave it to me.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_d80a9688790ed583": {
+      "text": "$$田中司令$$\n「The $$界震$$... it's starting.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_708bea61e3c43ada": {
+      "text": "$$正太郎$$\n「So many $$ヘテロダイン$$s, over there!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ワッ太$$\n「Wait a second!\n　Nobody told me about this!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_0827963cfd706e8d": {
+      "text": "$$赤木$$\n「What's going on, $$佐伯$$!?」",
+      "status": "imported"
+    },
+    "stage0019_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$佐伯$$\n「This is unexpected, but it's likely\n　caused by multiple overlapping Quakes!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_3f4035fd9db81258": {
+      "text": "$$Ｆ．Ｓ．$$\n「So several $$界震$$s hit\n　at once, and the overlap in conditions\n　brought out multiple $$ヘテロダイン$$s too.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_567b361a454c4b73": {
+      "text": "$$いぶき$$\n「Isn't this because $$赤木$$ was\n　whining about having nothing to do?」",
+      "status": "imported"
+    },
+    "stage0019_04:r_d22851aaafbbf8fc": {
+      "text": "$$赤木$$\n「T-that can't be it! Probably...」",
+      "status": "imported"
+    },
+    "stage0019_04:r_352534f64413d954": {
+      "text": "$n\n「No matter how many show up,\n　we've got no choice but to do this...!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_79f2664edb1af798": {
+      "text": "$$葵$$\n「That's right.\n　We were called in exactly\n　for times like this.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$赤木$$\n「Right!\n　We have to protect the village!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_1c5aa0d15ae24846": {
+      "text": "$$佐伯$$\n「All units, spread out and intercept!\n　Not one $$ヘテロダイン$$ enters the village!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_53bb64ee17750ee2": {
+      "text": "$$いぶき$$\n「Roger!\n　...Our first real fight in a while.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_7a7add80fde475ba": {
+      "text": "$$青山$$\n「You ready, $$赤木$$!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_b2befefdbed1393d": {
+      "text": "$$赤木$$\n「Of course!\n　Let's do this, $$いぶき$$, $$青山$$!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_2103f6df2ea2e447": {
+      "text": "$$赤木$$\n「Let's go!\n　Even a salaryman can defend the peace!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_a12e3e130d896ff7": {
+      "text": "$$田中司令$$\n「This is bad...!\n　Another $$界震$$ is coming!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_b6f7b219eb4bd64b": {
+      "text": "$$佐伯$$\n「What did you say!?」",
+      "status": "imported"
+    },
+    "stage0019_04:r_91bf33c27ad39f0a": {
+      "text": "$$ケンジ$$\n「Another $$ヘテロダイン$$'s shown up!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_ee220318b96ab538": {
+      "text": "$$竜馬$$\n「This is bad!\n　It's close to the village!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_ce1b55e526b6277a": {
+      "text": "$$いぶき$$\n「$$赤木$$!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_c304df6888eb78f7": {
+      "text": "$$赤木$$\n「I know!\n　$$青山$$, max output!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_c26958634526e597": {
+      "text": "$$青山$$\n「Right!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_cdb750c9d380881a": {
+      "text": "$$大山$$\n「$$赤木$$!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_95fda74613c97b39": {
+      "text": "$$ワッ太$$\n「$$赤木$$!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_1956994937f8171e": {
+      "text": "$$佐伯$$\n「$$赤木$$, this is reckless!\n　Pull back from the $$ヘテロダイン$$ for now!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_48f49f6728c15612": {
+      "text": "$$赤木$$\n「No way!\n　If I pull back, the $$ヘテロダイン$$ will\n　rush straight into the village!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$佐伯$$\n「$$横沢$$'s team evacuated the village's\n　north side! A little intrusion should be...」",
+      "status": "imported"
+    },
+    "stage0019_04:r_f02c37d91387d0ad": {
+      "text": "$$赤木$$\n「No!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$佐伯$$\n「$$赤木$$...!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_9796b3efa401a303": {
+      "text": "$$赤木$$\n「You say 'a little', $$佐伯$$, but what\n　about the people who'll lose their homes\n　because of that little bit!?」",
+      "status": "imported"
+    },
+    "stage0019_04:r_643b6eebfc0186b3": {
+      "text": "$$赤木$$\n「It's not about just rebuilding!\n　If the memories of the people who lived\n　there are lost, there's no getting them back!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_291280e5f7eb9d70": {
+      "text": "$$佐伯$$\n「I understand what you're saying, but\n　the other members can't go help either!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_32eb462c1b4999cb": {
+      "text": "$$赤木$$\n「Making that work somehow\n　is $$ダイ・ガード$$'s and our job!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_1f4337d6d393fc37": {
+      "text": "$$佐伯$$\n「But...」",
+      "status": "imported"
+    },
+    "stage0019_04:r_4740e748fae085ee": {
+      "text": "$$いぶき$$\n「It's fine, $$佐伯$$!\n　$$ダイ・ガード$$ can still hold out!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_b76524cd840e1d37": {
+      "text": "$$青山$$\n「Just beat the other $$ヘテロダイン$$s\n　and come lend us a hand meanwhile!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_730ffe18400abfc2": {
+      "text": "$$赤木$$\n「$$いぶき$$, $$青山$$!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_ffe0fca26da5cd38": {
+      "text": "$$いぶき$$\n「Don't let your guard down!\n　The $$ヘテロダイン$$ will push us over!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_bfb27f9eb2f7073e": {
+      "text": "$$青山$$\n「I'll stabilize the output somehow!\n　You focus on holding it back!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_859dfa27bcaafe30": {
+      "text": "$$赤木$$\n「Roger that!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_71ebf05996a4b0fd": {
+      "text": "$$Ｆ．Ｓ．$$\n「What do you intend to do, $$佐伯$$?」",
+      "status": "imported"
+    },
+    "stage0019_04:r_6214c11b1bca811e": {
+      "text": "$$佐伯$$\n「...I'm betting on $$赤木$$ holding out to the very end.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_8eaf6f3098ffed12": {
+      "text": "$$大杉$$\n「$$佐伯$$...」",
+      "status": "imported"
+    },
+    "stage0019_04:r_cf507214fe955d75": {
+      "text": "$$佐伯$$\n「I know it's inefficient!\n　But still...!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_2113dcbabdfc758a": {
+      "text": "$$大杉$$\n「I know.\n　You feel the same way he does, huh.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ミサト$$\n「One more person's been inspired by $$赤木$$, you know.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_6a74519e1fc29c4b": {
+      "text": "$$佐伯$$\n「Lt. Col. Katsuragi!\n　Are you in the hangar!?」",
+      "status": "imported"
+    },
+    "stage0019_04:r_5b992878fee054b5": {
+      "text": "$$ミサト$$\n「I'm launching Unit-01.\n　Please open the hatch.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$Ｆ．Ｓ．$$\n「Can you pull it off?」",
+      "status": "imported"
+    },
+    "stage0019_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ミサト$$\n「I don't know.\n　But this is Unit-01's pilot's own will.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_20cf167c0ec0d4d5": {
+      "text": "$$Ｆ．Ｓ．$$\n「Understood.\n　Opening the hatch.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_b591d812c96c6c99": {
+      "text": "$$ミサト$$\n「Go, $$シンジ$$!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_e350fa099c1ab072": {
+      "text": "$$赤木$$\n「$$シンジ$$!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$シンジ$$\n「$$赤木$$!\n　Please get out of the way!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_c33bd700553abf91": {
+      "text": "$$シンジ$$\n「A.T. Field, full power!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_feee5c91826230e1": {
+      "text": "$$タケル$$\n「What incredible power!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_bccc48e1964ad22d": {
+      "text": "$n\n「The EVA's A.T. Field\n　blew the $$ヘテロダイン$$ away!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_f8736aaaa216c766": {
+      "text": "$$シンジ$$\n「Haah... haah... haah...」",
+      "status": "imported"
+    },
+    "stage0019_04:r_d1ec2522c87c361d": {
+      "text": "$$赤木$$\n「You saved us, $$シンジ$$.\n　Did $$佐伯$$ tell you to sortie?」",
+      "status": "imported"
+    },
+    "stage0019_04:r_3599f0a4343fd95c": {
+      "text": "$$シンジ$$\n「No.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_3bc7834a5bf3ee76": {
+      "text": "$$シンジ$$\n「I thought... maybe there's something even I can do...」",
+      "status": "imported"
+    },
+    "stage0019_04:r_366814efdc8b5800": {
+      "text": "$$赤木$$\n「$$シンジ$$...!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_9be1a4c10bb62515": {
+      "text": "$$青山$$\n「No time to get emotional.\n　The $$ヘテロダイン$$'s coming.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_94a88c90e557e16e": {
+      "text": "$$赤木$$\n「$$シンジ$$, we're fighting as a duo!\n　Back me up!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_1c208ca0cbf26f28": {
+      "text": "$$シンジ$$\n「Yes!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_5b7ee307a700171a": {
+      "text": "$$甲児$$\n「A new duo is born!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_8d8f065c932da30a": {
+      "text": "$$葵$$\n「Feels like a hot-blooded coach and a shy student.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_f5432119677514f7": {
+      "text": "$$竜馬$$\n「He's a kid who cares what others think.\n　There's plenty I can learn from him.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_4e5c8e989c4a7691": {
+      "text": "$$赤木$$\n「Let's go, $$シンジ$$!\n　We'll protect the village with our strength!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_adec86483b13599a": {
+      "text": "$$シンジ$$\n「Yes, $$赤木$$!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_2cf701bbcde3ec13": {
+      "text": "$$赤木$$\n「Yes! A total victory!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_c17c58fdba72005e": {
+      "text": "$$いぶき$$\n「Look who's talking.\n　We'd have been in trouble if $$シンジ$$ hadn't come.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_1fe8564d2b959317": {
+      "text": "$$青山$$\n「Yeah.\n　Today's MVP has to be $$シンジ$$.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_f527e012803f7f1c": {
+      "text": "$$シンジ$$\n「Eh... um...」",
+      "status": "imported"
+    },
+    "stage0019_04:r_4b1247bd3ca4905d": {
+      "text": "$$赤木$$\n「Yeah, yeah.\n　After all, our greatest weapon\n　really is everyone's teamwork.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_00c55e25f87b71d0": {
+      "text": "$$赤木$$\n「Of course, $$シンジ$$'s part of our team too.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_338f3b27e51dcc41": {
+      "text": "$$シンジ$$\n（A team... huh...）",
+      "status": "imported"
+    },
+    "stage0019_04:r_d91d4bc2d52b61c4": {
+      "text": "$$いぶき$$\n「A $$ヘテロダイン$$'s in the village!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_0c8ea89b07432421": {
+      "text": "$$赤木$$\n「Damn it!\n　This makes $$ダイ・ガード$$ pointless!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_4dbfba00ba7744ee": {
+      "text": "$$甲児$$\n「No matter how many come, I won't lose!\n　Bring it on!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_be100a32b731708d": {
+      "text": "$$甲児$$\n「I'll do my part too, $$赤木$$!\n　Even a high schooler can protect peace!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_702f82442fcec8a9": {
+      "text": "$$正太郎$$\n「Don't lose, $$鉄人$$!\n　We're protecting this village, no matter what!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_b1e38da4e8775ffe": {
+      "text": "$$正太郎$$\n「Here we come, $$ヘテロダイン$$!\n　Even an elementary schooler can protect peace!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ワッ太$$\n「Everyone at $$２１世紀警備保障$$ is trying hard too!\n　Takeo General Company won't be outdone!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$ワッ太$$\n「Let's do this!\n　Even a company president can protect peace!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_3dad695c99e9e052": {
+      "text": "$$竜馬$$\n「If it's a monster with no pilot, no will,\n　then I'll crush it without hesitation!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_66d4ae3a21caf881": {
+      "text": "$$竜馬$$\n「Here I come, $$ヘテロダイン$$!\n　Even a guy like me can protect peace!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_0c18da7b3a37825d": {
+      "text": "$$葵$$\n「Same as always, but $$２１世紀警備保障$$\n　always gets us fired up.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_63249745ffae61b6": {
+      "text": "$$くらら$$\n「We can't be outdone either, $$葵$$!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_abdb034ae8509702": {
+      "text": "$$葵$$\n「OK!\n　Team D can protect peace too, you know!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_3ff2e21207d1d1d3": {
+      "text": "$$スズネ$$\n「$n...\n　You seem more focused than usual...」",
+      "status": "imported"
+    },
+    "stage0019_04:r_e51ecf6d6aa42e75": {
+      "text": "$n\n「...It might be thanks to $$赤木$$.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_47ddabb7b60131c2": {
+      "text": "$$スズネ$$\n（$$赤木$$'s words changed $n...\n　Could it be, the person $$竜馬$$ was talking about...）",
+      "status": "imported"
+    },
+    "stage0019_04:r_b025267f22788233": {
+      "text": "$n\n「Here I go, Miss $$スズネ$$!\n　A student and teacher can protect peace too!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_ec1a06a7023bf72c": {
+      "text": "$$シンジ$$\n（It's not because Father told me to...\n　If there's something even I can do...）",
+      "status": "imported"
+    },
+    "stage0019_04:r_8805f96e52aaa462": {
+      "text": "$$シンジ$$\n（I'll do it too...!\n　I can protect something too!）",
+      "status": "imported"
+    },
+    "stage0019_04:r_124591cb154fae64": {
+      "text": "$$赤木$$\n「I'll show the $$ヘテロダイン$$\n　the power of the reborn $$ダイ・ガード$$!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$いぶき$$\n「Don't get so fired up that you take\n　unnecessary damage, okay?」",
+      "status": "imported"
+    },
+    "stage0019_04:r_4bf9b05b5f948170": {
+      "text": "$$青山$$\n「$$いぶき$$'s right.\n　If you wreck the new one, $$墨田$$, Rika,\n　and all of PR Section 2 will be in tears.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_eaa52d152f444bfd": {
+      "text": "$$赤木$$\n「Still better than making the citizens cry!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_b4bc9e9435b58e6f": {
+      "text": "$$いぶき$$\n「Ah, geez... same old $$赤木$$, as always.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_a9227573166977a9": {
+      "text": "$$青山$$\n「Can't help it.\n　Since it's come to this, let's try our best\n　to rein in $$赤木$$'s recklessness, even a little.」",
+      "status": "imported"
+    },
+    "stage0019_04:r_b0600ab9a9e8559d": {
+      "text": "$$赤木$$\n「In short, that's what we call teamwork!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_7cbc63dad295f862": {
+      "text": "$$いぶき$$\n「That's completely wrong!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_07f53c816e0a51f5": {
+      "text": "$$赤木$$\n「Th, that's... denying $$ダイ・ガード$$'s\n　greatest weapon, of all things...!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_2d09c6f6a2d990ea": {
+      "text": "$$青山$$\n「That's enough chatting!\n　The $$ヘテロダイン$$'s here, $$赤木$$!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_3c5fcfc484a51913": {
+      "text": "$$赤木$$\n「Right!\n　Let's go, $$いぶき$$, $$青山$$!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_0476ffd10c764b0e": {
+      "text": "$$赤木$$\n「This is it, $$ヘテロダイン$$!\n　Even a salaryman can protect peace!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$タケル$$\n「The village people are behind us!\n　We can't let the $$ヘテロダイン$$ through, no matter what!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_2b3479c4cf0680f4": {
+      "text": "$$タケル$$\n「Let's do this, $$ゴッドマーズ$$!\n　The Crusher Team protects peace!」",
+      "status": "imported"
+    },
+    "stage0019_04:r_e370696b8936b08c": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

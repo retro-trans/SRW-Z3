@@ -1,0 +1,114 @@
+{
+ "version": "0.6.0",
+ "note": "",
+ "files": {
+  "AIDDATAPACK.CPK": {
+   "bytes": 14234532,
+   "sha1": "90d565b647c6e442256a66dcd1cd0311e2c13473"
+  },
+  "EBOOT.BIN": {
+   "bytes": 9306112,
+   "sha1": "849a591c70c6b17f0031a8d9c1e0955212020433"
+  },
+  "EFFPS3.CPK": {
+   "bytes": 247919480,
+   "sha1": "13b5096a69cfaba237b20d56994f2600a9132132"
+  },
+  "MTV_ALL_KEYWORD_DEF.CPK": {
+   "bytes": 180995,
+   "sha1": "16b2c1e311bc91cb483f3cdfbb712786f5ca1bad"
+  },
+  "MTZKN_KW.CPK": {
+   "bytes": 317225,
+   "sha1": "75190bb33cff64b0d4b80c93f0022b1ff7a43863"
+  },
+  "MTZKN_PT.CPK": {
+   "bytes": 1277958,
+   "sha1": "1a28c13320d6dc06b79540a5950e18273efe0ab0"
+  },
+  "MTZKN_RT.CPK": {
+   "bytes": 728702,
+   "sha1": "bd941e9013573a824efbcf41cd0fab498ba58745"
+  },
+  "RPW_DATA.CPK": {
+   "bytes": 550092,
+   "sha1": "d915c0e3525cd06e0a48d00eae93b79b00972146"
+  },
+  "SRVC.BIN": {
+   "bytes": 2144880,
+   "sha1": "e5add404e0a55f276b22ca37b390907d76a5ce0e"
+  },
+  "STG0001A.SDAT": {
+   "bytes": 34128,
+   "sha1": "3ed8d9c94ac4ed778de2f2e2cd5571f77e4a22e3"
+  },
+  "STG0001B.SDAT": {
+   "bytes": 96608,
+   "sha1": "55345d3d6939a99a830849b5819649b9ded3fb20"
+  },
+  "STG0002.SDAT": {
+   "bytes": 173136,
+   "sha1": "4f71c890732ea351394544dbb91065bc9e886cfc"
+  },
+  "STG0003.SDAT": {
+   "bytes": 129328,
+   "sha1": "6ea3784ace3045149568aab9e99cc712925fd338"
+  },
+  "STG0004.SDAT": {
+   "bytes": 191344,
+   "sha1": "c4c30400f35f014f09f3b0ab6fe3fd067b4c70c3"
+  },
+  "STG0005.SDAT": {
+   "bytes": 134576,
+   "sha1": "48ebc896d90253c17b1b719bf9ad980d83fa5ec5"
+  },
+  "STG0006.SDAT": {
+   "bytes": 126720,
+   "sha1": "deabf729a47442135569a162355f5d1c1bc9b011"
+  },
+  "STG0007A.SDAT": {
+   "bytes": 39120,
+   "sha1": "f562c465653d6d0d40cb9a58e84ebf528d34111f"
+  },
+  "STG0007B.SDAT": {
+   "bytes": 133328,
+   "sha1": "d31903200953324481be94f3ed7e6183598125c8"
+  },
+  "STG0008.SDAT": {
+   "bytes": 148256,
+   "sha1": "42ebee8d32e012aea25242b47dcd5ac6b5ba9638"
+  },
+  "STG0009.SDAT": {
+   "bytes": 122704,
+   "sha1": "624cdf3eee37b5b9dacec6df18f6ea64cee9e00c"
+  },
+  "STG0010.SDAT": {
+   "bytes": 268880,
+   "sha1": "593ca7b85862aeb4e6dd940a941f188e77c20fcf"
+  },
+  "STG0011.SDAT": {
+   "bytes": 149264,
+   "sha1": "d4bbe44d3070f00acde3af771303658d35018343"
+  },
+  "STG0012.SDAT": {
+   "bytes": 160704,
+   "sha1": "b28e2aa1622dc125c6bcdb86665798ad67e7f232"
+  },
+  "STG0013.SDAT": {
+   "bytes": 119136,
+   "sha1": "a32987824a71a17b2e1c83c1fc29855c1a6af7fb"
+  },
+  "STG0014.SDAT": {
+   "bytes": 233088,
+   "sha1": "95b752e1fe8593ef5f958d79440042982558a9f5"
+  },
+  "STG0015.SDAT": {
+   "bytes": 149808,
+   "sha1": "45e9735cac05788a44ba6bc04b15af32154e9818"
+  },
+  "TPACKPS3.CPK": {
+   "bytes": 215416752,
+   "sha1": "23f52671c27edd98c224a642432f15f8b8abde87"
+  }
+ }
+}

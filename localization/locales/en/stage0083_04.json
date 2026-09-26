@@ -1,0 +1,1550 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0083_04:r_caaab7bad760e16d": {
+      "text": "$$マコト$$\n「Unidentified units have infiltrated the Geofront!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_99b162aa6aa286a2": {
+      "text": "$$冬月$$\n「To think something other than an Angel\n　would target NERV Headquarters...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_58fb02434a1c40b2": {
+      "text": "$$ゲンドウ$$\n「I wonder if they've noticed...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_1c0f94acd5a8a143": {
+      "text": "$$イズモ$$\n「What meaning does this underground city\n　hold, $$ミカゲ$$?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_1263541f4071624e": {
+      "text": "$$ミカゲ$$\n「Who knows...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_3bc300bbdc277d82": {
+      "text": "$$イズモ$$\n「Enough with the joking around.\n　With the dimensional boundary stabilizing,\n　do you know how much energy a gate costs!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_38762a09460d8b6b": {
+      "text": "$$ミカゲ$$\n「Don't be so angry, $$イズモ$$.\n　The strongest $$レア・イグラー$$'s coming soon」",
+      "status": "translated"
+    },
+    "stage0083_04:r_7ab28e70b4d4f641": {
+      "text": "$$シゲル$$\n「$c, incoming!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$アルト$$\n「Are you going to be all right, $$アマタ$$!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ec335e69f984b8b3": {
+      "text": "$$アマタ$$\n「Yeah...!\n　If Altair's here, I have to fight!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_0abcaf0c31978670": {
+      "text": "$$カイエン$$\n「Careful, everyone!\n　The enemy's supreme commander is here!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_1d6bc48b7f246730": {
+      "text": "$$ミシェル$$\n「That white one, huh...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_1af20fccc3c53cfc": {
+      "text": "$$イズモ$$\n（So he's come, the winged boy）",
+      "status": "translated"
+    },
+    "stage0083_04:r_f951916061232dcd": {
+      "text": "$$ゼシカ$$\n「That beast's here too!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_4d863c3fb88a4c39": {
+      "text": "$$イズモ$$\n「Where have you been, $$カグラ$$!?\n　I won't allow you to act on your own!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_44f4742c3dcce39a": {
+      "text": "$$カグラ$$\n「Shut up, old man $$イズモ$$!\n　That Mechanical Angel's my prey!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_9e701cdeb3842c21": {
+      "text": "$$イズモ$$\n「You...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_6fd81f4abebe60c5": {
+      "text": "$$ミカゲ$$\n「It's all right, $$イズモ$$.\n　$$カグラ$$ will surely prove useful」",
+      "status": "translated"
+    },
+    "stage0083_04:r_da2132b5038ec737": {
+      "text": "$$ミカゲ$$\n「Well then, I'll leave the rest to you」",
+      "status": "translated"
+    },
+    "stage0083_04:r_495d61d3ec7e16f2": {
+      "text": "$$イズモ$$\n（$$ミカゲ$$, damn him...\n　how far will he go with his whims...!）",
+      "status": "translated"
+    },
+    "stage0083_04:r_5cd353758cfe474d": {
+      "text": "$$スメラギ$$\n「All units, prepare to attack!\n　We don't know their aim, so stay alert!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_a653c8dec4c0f06f": {
+      "text": "$$刹那$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_04:r_86d493e37a9799a7": {
+      "text": "$$ヒイロ$$\n「$$刹那$$...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_09d0fcc600cdd3df": {
+      "text": "$$刹那$$\n「I'll... try to find a way\n　we can understand each other」",
+      "status": "translated"
+    },
+    "stage0083_04:r_182faded068c15ed": {
+      "text": "$$ヒイロ$$\n「Very well.\n　Show me how you fight」",
+      "status": "translated"
+    },
+    "stage0083_04:r_9c206d19bfda4bd5": {
+      "text": "$$宗介$$\n「Can you do this alone, $n?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_6e558bc69acf5bf3": {
+      "text": "$n\n「If $$ガドライト$$'s coming,\n　I'll draw him in」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d60d0818e965232f": {
+      "text": "$n\n「And then, I'll settle this...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_5b23687574286204": {
+      "text": "$$甲児$$\n「But don't forget.\n　He's an enemy to all of us」",
+      "status": "translated"
+    },
+    "stage0083_04:r_6fd86c96891ea942": {
+      "text": "$$カミーユ$$\n「I understand how you feel,\n　but we'll all back you up」",
+      "status": "translated"
+    },
+    "stage0083_04:r_43e4e548c0b28376": {
+      "text": "$n\n「Much obliged」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d80a9688790ed583": {
+      "text": "$$ジェフリー$$\n「All units, commence attack!\n　Concentrate fire on the enemy commander!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_708bea61e3c43ada": {
+      "text": "$$カグラ$$\n「Here I come, Coward $$アマタ$$!\n　I'll kill you and take $$シルフィ$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_7b6f159eeaf4de0f": {
+      "text": "$$アマタ$$\n「$$カグラ$$!\n　I won't let you do as you please!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_0827963cfd706e8d": {
+      "text": "$$ミコノ$$\n（Why...\n　why do the two of them have to fight...）",
+      "status": "translated"
+    },
+    "stage0083_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$イズモ$$\n「Unbelievable...!\n　To think I would be defeated!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_3f4035fd9db81258": {
+      "text": "$$ジェフリー$$\n「All units, restrain the enemy commander...!\n　We'll end the war with Altair, here!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_567b361a454c4b73": {
+      "text": "$$モニカ$$\n「Wait, please!\n　A group of units is approaching this area!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d22851aaafbbf8fc": {
+      "text": "$n\n「That's...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_352534f64413d954": {
+      "text": "$$イズモ$$\n「As expected of the force with a\n　Mechanical Angel! Strong...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_79f2664edb1af798": {
+      "text": "$$ジェフリー$$\n「All units, keep targeting the commander...!\n　We'll end the war with Altair, here!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$モニカ$$\n「Wait, please!\n　A group of units is approaching this area!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_1c5aa0d15ae24846": {
+      "text": "$n\n「That's...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_53bb64ee17750ee2": {
+      "text": "$n\n「$$ガドライト$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_7a7add80fde475ba": {
+      "text": "$$ガドライト$$\n「Came back again, Imitation Boy.\n　Figured this'd be the spot, after all」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b2befefdbed1393d": {
+      "text": "$n\n「$$ガドライト$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_2103f6df2ea2e447": {
+      "text": "$$ガドライト$$\n「Been a while, Imitation Boy.\n　Though it's not you I have business with」",
+      "status": "translated"
+    },
+    "stage0083_04:r_a12e3e130d896ff7": {
+      "text": "$$アドヴェント$$\n「I won't let you have your way...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b6f7b219eb4bd64b": {
+      "text": "$$スズネ$$\n「Mr. $$アドヴェント$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_91bf33c27ad39f0a": {
+      "text": "$$ガドライト$$\n「So you showed up, pest!\n　Here to watch too?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ee220318b96ab538": {
+      "text": "$$アムロ$$\n「Geminis and $$アドヴェント$$...\n　Just what's happening here...!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ce1b55e526b6277a": {
+      "text": "$$シンジ$$\n「Don't tell me, underground...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_c304df6888eb78f7": {
+      "text": "$$マコト$$\n「Intruder confirmed in Central Dogma!!\n　Level after level is being breached!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_c26958634526e597": {
+      "text": "$$冬月$$\n「Why weren't we able to detect\n　it until now!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_cdb750c9d380881a": {
+      "text": "$$ゲンドウ$$\n「Hurry and deal with it」",
+      "status": "translated"
+    },
+    "stage0083_04:r_95fda74613c97b39": {
+      "text": "$$マヤ$$\n「No good!\n　Every countermeasure's being nullified!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_1956994937f8171e": {
+      "text": "$$シゲル$$\n「Two intruders!\n　Human-sized!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_48f49f6728c15612": {
+      "text": "$$リツコ$$\n「Are they Angels!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$マコト$$\n「Every sensor's being nullified!\n　We can't even confirm that much!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_f02c37d91387d0ad": {
+      "text": "$$ゲンドウ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_04:r_6bbd5a3c5afb87e0": {
+      "text": "???\n「Lord $$イズモ$$!\n　Leave this to us!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_9796b3efa401a303": {
+      "text": "$$アンディ$$\n「That guy!\n　He's come back!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_643b6eebfc0186b3": {
+      "text": "$$アマタ$$\n「$$カグラ$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_291280e5f7eb9d70": {
+      "text": "$$カグラ$$\n「Too bad, Coward $$アマタ$$!\n　If you thought that'd finish me,\n　you're dead wrong!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_32eb462c1b4999cb": {
+      "text": "$$アマタ$$\n「Damn it!\n　$$カグラ$$aaaa!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_1f4337d6d393fc37": {
+      "text": "$$カグラ$$\n「Coward $$アマタ$$!\n　This is where it ends for you!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_4740e748fae085ee": {
+      "text": "$$不動$$\n「It begins...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b76524cd840e1d37": {
+      "text": "$$甲児$$\n「What is that light!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_730ffe18400abfc2": {
+      "text": "$$赤木$$\n「From beneath NERV Headquarters!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ffe0fca26da5cd38": {
+      "text": "$$ミサト$$\n「Don't tell me, Central Dogma's...!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_bfb27f9eb2f7073e": {
+      "text": "$$アマタ$$\n「What the hell is this\n　high-dimensional quantum reaction!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_859dfa27bcaafe30": {
+      "text": "$$カイエン$$\n「Aquarion's resonating!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_71ebf05996a4b0fd": {
+      "text": "$$シュレード$$\n「This is from ancient times...!\n　A melody resounding down 12,000 years!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_6214c11b1bca811e": {
+      "text": "$$ミコノ$$\n「!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_8eaf6f3098ffed12": {
+      "text": "$$アマタ$$\n「Waaaaaaah!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_cf507214fe955d75": {
+      "text": "$$シン$$\n「That's...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_2113dcbabdfc758a": {
+      "text": "$$ロジャー$$\n「We know that...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$桂$$\n「That's not EVOL...!\n　But that's Aquarion!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_6a74519e1fc29c4b": {
+      "text": "$$クレア$$\n「There's no mistake!\n　That's the legendary Mythical Aquarion!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_5b992878fee054b5": {
+      "text": "$$ユノハ$$\n「The Mythical Aquarion...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$モロイ$$\n「The legend's finally\n　become reality...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_4a14ec0c511c7f0d": {
+      "text": "$$アンディ$$\n「Us... are we really witnessing\n　such an amazing moment in history...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_20cf167c0ec0d4d5": {
+      "text": "$$不動$$\n「And now...\n　all the truth will be revealed」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b591d812c96c6c99": {
+      "text": "$$カミーユ$$\n「Apollo, in a past life,\n　was the winged dog Polon...」",
+      "status": "reviewed"
+    },
+    "stage0083_04:r_e350fa099c1ab072": {
+      "text": "$$桂$$\n「The way he sniffs things...!\n　He really was just like a dog!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$モーム$$\n「Ahaha! Indeed!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_c33bd700553abf91": {
+      "text": "$$アムロ$$\n「The way he was always bounding\n　around cheerfully was like a puppy too」",
+      "status": "translated"
+    },
+    "stage0083_04:r_feee5c91826230e1": {
+      "text": "$$キラ$$\n「Now that you mention it,\n　that's true」",
+      "status": "translated"
+    },
+    "stage0083_04:r_bccc48e1964ad22d": {
+      "text": "$$シン$$\n「I... always figured he was\n　the reincarnation of Apollonius, but...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_f8736aaaa216c766": {
+      "text": "$$桂$$\n「It's common for a pet\n　to end up resembling its owner」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d1ec2522c87c361d": {
+      "text": "$$ロジャー$$\n（Also, it's possible someone made\n　Apollo carry part of Apollonius's will,\n　by design...）",
+      "status": "translated"
+    },
+    "stage0083_04:r_3599f0a4343fd95c": {
+      "text": "$$エマ$$\n「That reincarnation of Apollo is...\n　$$アマタ$$ and... that Altair warrior...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_3bc7834a5bf3ee76": {
+      "text": "$$アムロ$$\n「That man named $$カグラ$$ certainly\n　resembles the Apollo we knew」",
+      "status": "translated"
+    },
+    "stage0083_04:r_366814efdc8b5800": {
+      "text": "$$ロジャー$$\n「So he's the one with Apollo's\n　wildness and aggression extracted?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_9be1a4c10bb62515": {
+      "text": "$$カグラ$$\n「That's kind of interesting, isn't it!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_94a88c90e557e16e": {
+      "text": "$$アマタ$$\n「Ngh!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_1c208ca0cbf26f28": {
+      "text": "$$カグラ$$\n「Good chance, Coward $$アマタ$$!\n　Let's settle here which of us is\n　$$アポロン$$'s reincarnation, bound to $$シルフィ$$!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_5b7ee307a700171a": {
+      "text": "$$アマタ$$\n「If that's how you want it!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_8d8f065c932da30a": {
+      "text": "$$ミコノ$$\n「Please, just stop already!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_f5432119677514f7": {
+      "text": "$$ゼシカ$$\n「!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_4e5c8e989c4a7691": {
+      "text": "$$ミコノ$$\n「I don't want to watch the two of\n　you hurt each other anymore!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_adec86483b13599a": {
+      "text": "$$アマタ$$\n「No, $$ミコノ$$! Today, we're\n　settling this for good!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_2cf701bbcde3ec13": {
+      "text": "$$カグラ$$\n「Pretty good resolve,\n　for Coward $$アマタ$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_c17c58fdba72005e": {
+      "text": "$$アマタ$$\n「Is it just fate that makes you\n　want $$ミコノ$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_1fe8564d2b959317": {
+      "text": "$$カグラ$$\n「That's right,\n　don't make me say it again!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_f527e012803f7f1c": {
+      "text": "$$アマタ$$\n「I'm not like that!\n　Whether $$ミコノ$$'s $$シルフィ$$'s reincarnation,\n　or fate from 12,000 years back, means nothing!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_4b1247bd3ca4905d": {
+      "text": "$$アマタ$$\n「I'm... the here and now...\n　the $$ミコノ$$ here and now that I...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_00c55e25f87b71d0": {
+      "text": "$$ミコノ$$\n「$$アマタ$$...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_338f3b27e51dcc41": {
+      "text": "$$ゼシカ$$\n「$$アマタ$$...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d91d4bc2d52b61c4": {
+      "text": "$$アマタ$$\n「It's this $$ミコノ$$, right now,\n　right this instant, that I...aaah!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_0c8ea89b07432421": {
+      "text": "$$カグラ$$\n「What is this power!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_4dbfba00ba7744ee": {
+      "text": "$$ロジャー$$\n「You said your name was $$カグラ$$.\n　Let me tell you one thing」",
+      "status": "translated"
+    },
+    "stage0083_04:r_be100a32b731708d": {
+      "text": "$$ロジャー$$\n「You certainly resemble\n　the Apollo we knew. But that's\n　only one side of him」",
+      "status": "translated"
+    },
+    "stage0083_04:r_702f82442fcec8a9": {
+      "text": "$$桂$$\n「At a glance he seemed rough\n　and savage, but he was truly kind,\n　and never cared whose reincarnation he was」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b1e38da4e8775ffe": {
+      "text": "$$アムロ$$\n「That's probably why a man like that\n　overcame his past life, his fate,\n　and won Sylvia's heart」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$カグラ$$\n「Me...!\n　You're saying I'm losing\n　to Coward $$アマタ$$!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$ロジャー$$\n「Aren't you, who feared Aquarion's\n　power, the one who understands\n　that best?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_3dad695c99e9e052": {
+      "text": "$$カグラ$$\n「That's the Mechanical Angel's power!\n　Not Coward $$アマタ$$'s power!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_66d4ae3a21caf881": {
+      "text": "$$アマタ$$\n「What are you planning, $$カグラ$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_0c18da7b3a37825d": {
+      "text": "$$カグラ$$\n「The fight's on hold, Coward $$アマタ$$!\n　Next time we meet, this Mechanical\n　Angel takes you down!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_63249745ffae61b6": {
+      "text": "$$イズモ$$\n「$$カグラ$$, curse you!\n　I won't let you have the true Mechanical Angel!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_abdb034ae8509702": {
+      "text": "???\n「Lord $$イズモ$$, leave the rest to me」",
+      "status": "translated"
+    },
+    "stage0083_04:r_3ff2e21207d1d1d3": {
+      "text": "$$ガドライト$$\n「Bravo, bravo!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_e51ecf6d6aa42e75": {
+      "text": "$n\n「$$ガドライト$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_47ddabb7b60131c2": {
+      "text": "$$ガドライト$$\n「12,000 years... 24,000 years...\n　no, a toast to 120,000,000 years of this farce!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b025267f22788233": {
+      "text": "$$ガドライト$$\n「But now, the wedge driven into the earth is out!\n　The balance between the two worlds crumbles!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ec1a06a7023bf72c": {
+      "text": "$n\n「What do you mean!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_8805f96e52aaa462": {
+      "text": "$$ガドライト$$\n「If you think someone's just gonna explain\n　everything to you, you're dead wrong, kid」",
+      "status": "translated"
+    },
+    "stage0083_04:r_124591cb154fae64": {
+      "text": "$$ガドライト$$\n「Like that beast of a boy earlier,\n　you take what you want by force, huh!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$アドヴェント$$\n「Then that's exactly what I'll do!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_4bf9b05b5f948170": {
+      "text": "$$アドヴェント$$\n「Let's do this, $n...!\n　We'll seize the future with our own hands!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_eaa52d152f444bfd": {
+      "text": "$n\n「Yeah...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b4bc9e9435b58e6f": {
+      "text": "$$アドヴェント$$\n「All units, stay alert!\n　The Geminis are ignoring the Altair forces\n　and coming straight for us!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_a9227573166977a9": {
+      "text": "$$ガドライト$$\n「How plucky, pest.\n　Coming at me again, undaunted?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b0600ab9a9e8559d": {
+      "text": "$$アドヴェント$$\n「I told you already, $$ガドライト$$.\n　$n is my hope...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_7cbc63dad295f862": {
+      "text": "$$アドヴェント$$\n「It's about time you realized:\n　you're not the only one who can wield Taiji's power!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_07f53c816e0a51f5": {
+      "text": "$$ガドライト$$\n「What...?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_2d09c6f6a2d990ea": {
+      "text": "$n\n「Here I come, $$ガドライト$$!\n　I'll beat you and shatter the Prison of Time!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_3c5fcfc484a51913": {
+      "text": "$n\n「Don't think you can keep that smug grin\n　on your face forever!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_0476ffd10c764b0e": {
+      "text": "$$アドヴェント$$\n「All units, stay alert!\n　The Geminis are ignoring the Altair forces\n　and coming straight for us!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$ガドライト$$\n「How plucky, pest.\n　Why go so far to help these guys?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_2b3479c4cf0680f4": {
+      "text": "$$アドヴェント$$\n「I'll say it once, $$ガドライト$$.\n　$n is my hope」",
+      "status": "translated"
+    },
+    "stage0083_04:r_e370696b8936b08c": {
+      "text": "$$アドヴェント$$\n「It's about time you realized:\n　you're not the only one who can wield Taiji's power!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_9d7b02c5e728b7aa": {
+      "text": "$$ガドライト$$\n「What...?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_9af213fc64e0afec": {
+      "text": "$n\n「Here I come, $$ガドライト$$!\n　I'll beat you and shatter the Prison of Time!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d7f1c506e78e55ff": {
+      "text": "$n\n「Don't think you can keep that smug grin\n　on your face forever!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_0c705091f748360e": {
+      "text": "???\n「Tch!\n　You've got some nerve, warrior from Vega!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_9eb8599304125b2f": {
+      "text": "$$アンディ$$\n「Same as ever, all mouth and no substance!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_a072aa25e5f521e0": {
+      "text": "$$ガドライト$$\n「Not bad at all...\n　Guess I'll have to get a little serious myself」",
+      "status": "translated"
+    },
+    "stage0083_04:r_24e1a808a1609a1a": {
+      "text": "$$ガドライト$$\n「What an annoying bunch...\n　Guess I'll have to get a little serious myself」",
+      "status": "translated"
+    },
+    "stage0083_04:r_53128ce8f154fd06": {
+      "text": "$$アンナロッタ$$\n「Not here, of all places...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_03b5db9ce98fb8d6": {
+      "text": "$$ガドライト$$\n「Don't push yourself, $$アンナロッタ$$.\n　Fall back」",
+      "status": "translated"
+    },
+    "stage0083_04:r_3915fb4102f1c1dd": {
+      "text": "$$アンナロッタ$$\n「No...!\n　I can still fight!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_817b2773b4ed563e": {
+      "text": "$$ガドライト$$\n「I'll be fine.\n　I'm getting a little serious from here」",
+      "status": "translated"
+    },
+    "stage0083_04:r_1cc233cbc8c80af7": {
+      "text": "$$竜馬$$\n「Quit your sore-loser talk!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$シモン$$\n「Sure, he's strong...!\n　But we've gotten stronger too!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_e180b22d18f48d38": {
+      "text": "$$葵$$\n「If we just keep pushing...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_e598c2a0b27e7f50": {
+      "text": "$$ガドライト$$\n「Sorry to get your hopes up,\n　but I haven't shown my hand yet」",
+      "status": "translated"
+    },
+    "stage0083_04:r_4d2a9066c4e7b27f": {
+      "text": "$$アドヴェント$$\n「!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_10340119af3ed6db": {
+      "text": "$$ガドライト$$\n「Forgotten already?\n　How I sowed the spark of war」",
+      "status": "translated"
+    },
+    "stage0083_04:r_23a9c7ab620ab112": {
+      "text": "$$甲児$$\n「You're trying to amplify our hidden feelings!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_4f0aca6deda07883": {
+      "text": "$$赤木$$\n「Too bad for you!\n　It's already proven that doesn't work\n　in Paradigm City!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_8fe40600ce62dfbc": {
+      "text": "$$ガドライト$$\n「Aaaaaaaaah!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ff4ce5f3cf96b617": {
+      "text": "$$スズネ$$\n「W-what!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d73c21f119847e35": {
+      "text": "$$ガドライト$$\n「Why is it you all go around thinking\n　you're something special!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_89766f5ffaa912d4": {
+      "text": "$$ガドライト$$\n「Only you never yield to despair,\n　only you grow strong, only you pull off\n　the comeback win... You think it works that way?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$アドヴェント$$\n「Everyone, keep your hearts strong!\n　He's growing the power of his $$スフィア$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_451f726d4299ea35": {
+      "text": "$n\n「The power of the $$スフィア$$...!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_e3d111e8bb190cb1": {
+      "text": "$$ガドライト$$\n「Too slow!\n　This is the power of a $$スフィア・リアクター$$\n　that's reached the Third Stage!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$バナージ$$\n「What... is this...!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ab97c2b2418ea732": {
+      "text": "$$キラ$$\n「My will to fight... it's fading away...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_2ddff5064af78db4": {
+      "text": "$$ノリコ$$\n「This weak heart I thought I'd long since\n　thrown away... it's spreading through me...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_050d0532c4b24bfe": {
+      "text": "$$シンジ$$\n「I-I'm scared...\n　Help me... help me...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d583fcea31bdad2e": {
+      "text": "$n\n「Aah... aaaaahh!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_475f7653621a91b5": {
+      "text": "$$アドヴェント$$\n「At this rate...!\n　We'll be crushed by the weakness in each of our hearts!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_f228ae702350849b": {
+      "text": "$$ヒイロ$$\n「$$刹那$$! It's Trans-Am Burst!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d69dc027cba3003f": {
+      "text": "$$刹那$$\n「!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_3c3735172a480b72": {
+      "text": "$$ゼロ$$\n「If everyone unites their hearts as one,\n　we may be able to break through this weakness!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_1f418b5594cea300": {
+      "text": "$$ティエリア$$\n「Wait, $$刹那$$!\n　The $$ダブルオーライザー$$ as it is now...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_f87fb889124bfaef": {
+      "text": "$$刹那$$\n「But I have no choice!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_79c90de32a79212d": {
+      "text": "$$ガドライト$$\n「You think that little bit is enough\n　to break my squabbling twins!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_33f7fd55913419e8": {
+      "text": "$$刹那$$\n「Uraaaaaaaaagh!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_473d9a88b4ca96e7": {
+      "text": "$$アムロ$$\n「$$刹那$$!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_4de6ac85c63bac12": {
+      "text": "$$スメラギ$$\n「No good!\n　The unit can't take any more!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_4c92652c9b1adf6f": {
+      "text": "$$ティエリア$$\n「The $$ダブルオーライザー$$ right now is running\n　on stored GN particles!\n　This is the limit!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ce90563a934d49fb": {
+      "text": "$$ロックオン$$\n「Damn it...! Damn it all!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_4fb296e63cb1fb46": {
+      "text": "$$アレルヤ$$\n「This is it, huh...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$ハレルヤ$$\n「The hell is this...\n　My will to fight just keeps draining away...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_9dc59affd40f32fc": {
+      "text": "$$ガドライト$$\n「That's right, just like that.\n　Quit resisting, and sleep in the stillness of time」",
+      "status": "translated"
+    },
+    "stage0083_04:r_0cea115be526a319": {
+      "text": "$$グラハム$$\n（Why... was I trying to fight...）",
+      "status": "translated"
+    },
+    "stage0083_04:r_d36072babd12aeb4": {
+      "text": "$$宗介$$\n（Chidori... In a world without war,\n　with you...）",
+      "status": "translated"
+    },
+    "stage0083_04:r_09ee921a85025fd3": {
+      "text": "$$キリコ$$\n（$$フィアナ$$... I'll go into eternity too...）",
+      "status": "translated"
+    },
+    "stage0083_04:r_fae689f2a1057b61": {
+      "text": "$$Ｃ．Ｃ．$$\n（So this is... the paradise God ordained...）",
+      "status": "translated"
+    },
+    "stage0083_04:r_91c6d0bb53854ecc": {
+      "text": "$$ゼクス$$\n「Decaying within frozen time...\n　Perhaps that's fine too...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_42a3149105314ab8": {
+      "text": "$$ヒイロ$$\n「I... won't accept something like that!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_62ecd978c667bd29": {
+      "text": "$$カトル$$\n「$$ヒイロ$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d441e6cc908ac01b": {
+      "text": "$$デュオ$$\n「That guy...!\n　What nerve, activating the Zero System\n　in a situation like this!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b2aab8873350ea1f": {
+      "text": "$$五飛$$\n「But that...!\n　That'll be the power to break his $$スフィア$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_2c7af4c55d8ac938": {
+      "text": "$$ガドライト$$\n「What are you thinking, kid?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_653b741d07545dff": {
+      "text": "$$ヒイロ$$\n「I... deny the world you're trying to create...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d584d4b5af55b1cf": {
+      "text": "$$ヒイロ$$\n「A world where time has stopped...\n　a world with no future...\n　$$リリーナ$$ doesn't wish for that!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_db0ee69ece206fcd": {
+      "text": "$$ガドライト$$\n「I see.\n　So you deny frozen time by picturing the future」",
+      "status": "translated"
+    },
+    "stage0083_04:r_f97e6925c9e37332": {
+      "text": "$$ガドライト$$\n「Admirable, kid...!\n　But there's a limit to what one person can do!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_422861e0b8d77d0c": {
+      "text": "$$ヒイロ$$\n「I'm... not alone!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ef16bcaa2b0e0c45": {
+      "text": "$$フェルト$$\n「A unit resembling a transport plane\n　is closing in from above!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_2b93cca10f1c36a8": {
+      "text": "$$ミレイナ$$\n「This is...!\n　It's Dad's $$シャトル$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_7980fd37141d88d0": {
+      "text": "$$イアン$$\n「This is $$イアン・ヴァスティ$$ of Celestial Being!\n　Launching the Qan[T] now!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ac21212c36d2b9ad": {
+      "text": "$$スメラギ$$\n「You made it in time!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_a26e2108358af7a4": {
+      "text": "$$フェルト$$\n「The Qan[T], incoming!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_a8118b2e37aa1382": {
+      "text": "$$ロックオン$$\n「That's $$刹那$$'s new Gundam...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_017a56991b7b8ca4": {
+      "text": "$$ティエリア$$\n「Its name is the $$ダブルオークアンタ$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ad3e1db3419665fb": {
+      "text": "$$スメラギ$$\n「$$刹那$$! Switch to the Qan[T]!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_0149e3a5f2e5ef78": {
+      "text": "$$ヒイロ$$\n「I'll cover you! Go!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_3ad10e705167a3fa": {
+      "text": "$$刹那$$\n「Understood!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_bdc546b199c80996": {
+      "text": "$$刹那$$\n「So this is... the Qan[T]...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_22c8caf8c08c5119": {
+      "text": "$$ヒイロ$$\n「Do it, $$刹那$$!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_9c13714b3efbc7a8": {
+      "text": "$$刹那$$\n「Uraaaaaaaaagh!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_96f156e19b53fc09": {
+      "text": "$$バナージ$$\n「This is...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_feb0390bba7fe1fb": {
+      "text": "$$ティエリア$$\n「Quantum Burst...\n　The Qan[T]'s ultimate power」",
+      "status": "translated"
+    },
+    "stage0083_04:r_8a78bcec22029401": {
+      "text": "$$ティエリア$$\n「Even though it's not fully complete yet,\n　to think it could do this much...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_f42017dfce31dea9": {
+      "text": "$$宗介$$\n「$$ヒイロ$$ and $$刹那$$'s strong resolve...\n　It's flowing into my heart...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ef7426919f628d8a": {
+      "text": "$n\n「It's not just the two of them...!\n　I can feel everyone in $c!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_9e994a4b926d9906": {
+      "text": "$$スズネ$$\n「$n's eyes are back to normal!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ffae76d2a77abf5a": {
+      "text": "$$イアン$$\n「The Qan[T] is a machine built exclusively\n　for $$刹那$$, awakened as an Innovator.\n　Unfinished, but it outclasses the $$ダブルオーライザー$$ entirely!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_3ac462d37e5893ff": {
+      "text": "$$スメラギ$$\n「Everyone's hearts are becoming one...\n　Just like back then... no, even stronger...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_fd6bdf7910d7d925": {
+      "text": "$$フェルト$$\n「$$刹那$$...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d38be46e6cd7a5e5": {
+      "text": "$$ガドライト$$\n「Tch!\n　You're saying it's a match for my $$スフィア$$!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_3fe2078328753c16": {
+      "text": "$$アドヴェント$$\n「But if this standoff keeps up,\n　he'll eventually be overtaken by $$ガドライト$$...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_c66844158d1ce600": {
+      "text": "$$アルト$$\n「If we stop him before that...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d037ecbc1e348dc9": {
+      "text": "$$バサラ$$\n「Basically, I just gotta burn my soul hotter, right!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_bcd53d14c4785426": {
+      "text": "$$ガムリン$$\n「$$バサラ$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_9ca55ea7feca954a": {
+      "text": "$$バサラ$$\n「Let's do this, $$シェリル$$, $$ランカ$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_554ae12c4c170253": {
+      "text": "$$ランカ$$\n「Yes!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_fa59c6df081e6ae4": {
+      "text": "$$シェリル$$\n「Our song!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ca3edf3b8b52aedf": {
+      "text": "$$バサラ$$\n「Listeeeeeen!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_aa5d235c78ebe19f": {
+      "text": "$$シモン$$\n「This song...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_0b3b19cddb871f90": {
+      "text": "$$カレン$$\n「It's $$シェリル$$ and $$ランカ$$'s 'Lion'!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_304e98dac43c9333": {
+      "text": "$$アルト$$\n「Riding the GN particles, $$シェリル$$ and $$ランカ$$'s\n　feelings... $$バサラ$$'s soul is spreading out!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b740d817a14afd3a": {
+      "text": "$$オズマ$$\n「$$アルト$$! Activate the Fold Wave System!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_40e4c010d1b35b4c": {
+      "text": "$$ルカ$$\n「The YF-29 is equipped with\n　ultra-high-purity Fold Quartz!\n　It's sure to amplify everyone's feelings!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_c33abf00683a32bc": {
+      "text": "$$アルト$$\n「$$シェリル$$, $$ランカ$$!\n　I'll fly with everything I've got too!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_3036adce91d1f4a8": {
+      "text": "$$バナージ$$\n「Ugh!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_019293cb83599509": {
+      "text": "$$スザク$$\n「My body... it's burning!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_9b949b9281aaeef1": {
+      "text": "$$アマタ$$\n「Uwoooo!\n　My soul... it's burning!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b39a1dd705fe6cbf": {
+      "text": "$$ガドライト$$\n「No way!\n　You pushed back the power of my $$スフィア$$!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_c9016e3ab05470b0": {
+      "text": "$$アンナロッタ$$\n「No way...!\n　The $$ジェミニア$$ being broken through...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_a684e6cea428e518": {
+      "text": "$$ガドライト$$\n「Don't screw with me!\n　I'm a Third-Stage $$スフィア・リアクター$$!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_cf907a4d5de8b5c9": {
+      "text": "$$不動$$\n「Element Change!\n　$$ゲパルト$$, $$アンディ・Ｗ・ホール$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_a5774604a0f00702": {
+      "text": "$$アンディ$$\n「Alright!\n　Here I go!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b4fa30f33e84207f": {
+      "text": "$$不動$$\n「Element Change!\n　$$スパーダ$$, $$シュレード・エラン$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_9133b7e0b34de48f": {
+      "text": "$$シュレード$$\n「Let me add my melody\n　to this heart-stirring unison.」",
+      "status": "translated"
+    },
+    "stage0083_04:r_4ae9c4bd77494c4a": {
+      "text": "$$アンディ$$\n「I'm on fire!\n　Nobody can stop me now!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_7313331f4077d255": {
+      "text": "???\n「You Mechanical Angel!\n　Don't get carried away!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_a84ab0c3c1ba44d4": {
+      "text": "???\n「This is...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_414e6e90094d1413": {
+      "text": "$$アンディ$$\n「Their mind is flowing into me!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_83a9e41e15444c69": {
+      "text": "$$アンディ$$\n「$$ＭＩＸ$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_09227dec2bd6f4d8": {
+      "text": "$$ＭＩＸＹ$$\n「I'm $$ＭＩＸＹ$$!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_7b3a37f5039eb1f6": {
+      "text": "$$カミーユ$$\n「Was $$ＭＩＸ$$ mind-controlled on Altair...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_cb6d9ee71c24b042": {
+      "text": "$$アルト$$\n「So that's this $$ＭＩＸＹ$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ddd97a6ef823929a": {
+      "text": "$$アンディ$$\n「Wait, $$ＭＩＸ$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_df349052cd9cdd0c": {
+      "text": "$$アンナロッタ$$\n「Take your lovers' quarrel elsewhere!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_a7ce9f908380694c": {
+      "text": "$$アンディ$$\n「Don't get in my way!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_de3cc1f733dcb073": {
+      "text": "$$アンナロッタ$$\n「W-what is this intensity...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_0835ec3fff318aff": {
+      "text": "$$シュレード$$\n「Ngh...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_c32efc7394910997": {
+      "text": "$$アマタ$$\n「$$シュレード$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b01db8213417811e": {
+      "text": "$$シュレード$$\n「I'm fine...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_bc0273c6ae91c929": {
+      "text": "$$アマタ$$\n「There's no way you're fine!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_8deea7c70d7a76e7": {
+      "text": "$$アンディ$$\n「You... your body!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_660c72e627d873c7": {
+      "text": "$$シュレード$$\n「Don't worry about me, $$アンディ$$!\n　Now's the time to let your feelings ring out!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_5d8b67b5bd8ce190": {
+      "text": "$$アンディ$$\n「$$シュレード$$...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_7cf3c91395139f5c": {
+      "text": "$$アンディ$$\n「Got it, $$シュレード$$!\n　Lend me your strength!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_6ccd85652ef4ccf1": {
+      "text": "$$シュレード$$\n「Yeah!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_fbe7bf7d854012a7": {
+      "text": "$$アンディ$$\n「$$ＭＩＸ$$...!\n　No matter what body you end up with,\n　I'll come for you, I swear!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_1f438885dbc1359e": {
+      "text": "$$アンディ$$\n「I told you before, $$ＭＩＸ$$...!\n　Holes... holes are for connecting worlds!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_2e59226caa35f6e5": {
+      "text": "$$アンディ$$\n「I'll punch a huge hole in your heart too!\n　A huge hole to bury myself in!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_5d7a3adb077ad934": {
+      "text": "$$アンナロッタ$$\n「Guh!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_78d3b2a75e38d6f7": {
+      "text": "$$ガドライト$$\n「$$アンナロッタ$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_8d461de418389bf8": {
+      "text": "$$シュレード$$\n「$$アンディ$$, leave the rest to me!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_5cb2acefa1e7c7fb": {
+      "text": "$$シュレード$$\n「Sorry, but I don't have much time left...!\n　Let me play you the fastest toccata there is!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_59ce7fd9524ec8be": {
+      "text": "$$アンナロッタ$$\n「Aaaah!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_33f67c683bda9203": {
+      "text": "$$ガドライト$$\n「Get back, $$アンナロッタ$$!\n　You can't die on me!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_476fb20ab9d18957": {
+      "text": "$$アンナロッタ$$\n「Y-yes!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_6be0d6139fac197c": {
+      "text": "$$スズネ$$\n（That person named $$ガドライト$$...）",
+      "status": "translated"
+    },
+    "stage0083_04:r_df899b8031b4ca06": {
+      "text": "$$シン$$\n「This, this is it!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_c5d048c7db7cac75": {
+      "text": "$$キラ$$\n「Yeah, this is how Aquarion should be.」",
+      "status": "translated"
+    },
+    "stage0083_04:r_308e8ac66b1141ef": {
+      "text": "$$桂$$\n「Turning the tables with absurd power's\n　been tradition for twelve thousand years!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_64f25294d71a5d55": {
+      "text": "$$アマタ$$\n「$$アンディ$$, $$シュレード$$...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b6ca80db4741a62c": {
+      "text": "$$アンディ$$\n「Let's do this, $$アマタ$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_432a29155221625f": {
+      "text": "$$シュレード$$\n「We move forward...!\n　For what we believe in, for what we love!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_9f7c18d1ea1b55c9": {
+      "text": "$$アマタ$$\n「Yeah!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_56688ad8e41b7b42": {
+      "text": "$$甲児$$\n「All that's left is to beat $$ガドライト$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_34a510533cb8a9f5": {
+      "text": "$$ガドライト$$\n「Ahh...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_1afedc9fa466f321": {
+      "text": "$$ガドライト$$\n「...man, this is getting old...\n　Ganging up to break through my $$スフィア$$...\n　It's enough to make a guy lose confidence.」",
+      "status": "translated"
+    },
+    "stage0083_04:r_9547b3241808695f": {
+      "text": "$$アドヴェント$$\n「That's your limit.\n　Give up, $$ガドライト・メオンサム$$.」",
+      "status": "translated"
+    },
+    "stage0083_04:r_32b2a8ce24deeb9f": {
+      "text": "$$ガドライト$$\n「Give up...?\n　I did that a long, long time ago...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_c7ef92060bb8199d": {
+      "text": "$$ガドライト$$\n「But still...!\n　That's just not gonna cut it!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_1be6d12f616f04e4": {
+      "text": "$n\n「You're still up for this!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_80f948aeaed93de8": {
+      "text": "$$ガドライト$$\n「What are you talking about.\n　Don't get cocky just 'cause you scored one hit.」",
+      "status": "translated"
+    },
+    "stage0083_04:r_0d24e9726dcc79f9": {
+      "text": "$$ガドライト$$\n「Fighting head-on, me and the $$ジェミニア$$\n　wouldn't lose to the likes of you.」",
+      "status": "translated"
+    },
+    "stage0083_04:r_da648116badd491a": {
+      "text": "$$ガドライト$$\n「Here I come, $c...!\n　Once you're wishing you'd stayed asleep,\n　it'll be too late to regret it!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_4e91ccecf1dd0f66": {
+      "text": "$$刹那$$\n「We... won't give up on the future!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_668b7114a3ac1d77": {
+      "text": "$$ヒイロ$$\n「Target for attack... $$ガドライト・メオンサム$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ef339c6f71e7560f": {
+      "text": "$$ガドライト$$\n「Tch... just not feeling it today.」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ce68dd10a19e01ea": {
+      "text": "$n\n「Running away, $$ガドライト$$!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_13ce8d4e4858b193": {
+      "text": "$$ガドライト$$\n「Yeah, yeah, that's right.\n　There's no way I could actually fight\n　you guys head-on and win.」",
+      "status": "translated"
+    },
+    "stage0083_04:r_075101b23517fbaa": {
+      "text": "$n\n「Don't screw around!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_13c2ae299018c9ee": {
+      "text": "$$ガドライト$$\n「So that's why I'll be laying low.\n　Until November 11th, as this planet calls it.」",
+      "status": "translated"
+    },
+    "stage0083_04:r_6f4f8dd80820f5e7": {
+      "text": "$$ワッ太$$\n「November 11th...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_afa513b4815df4c9": {
+      "text": "$$タケル$$\n「The day the $$エタニティ・フラット$$ is complete!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_6cf1e5ed68d98bd4": {
+      "text": "$n\n「You bastard!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_e62eb587b8d34cb9": {
+      "text": "$$ガドライト$$\n「See ya, $c!\n　Next time, let's meet within frozen time!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d72cc2c0739c9088": {
+      "text": "$$ジェフリー$$\n「So the Altair forces retreated too...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ecf4e1c8c0f8d2d7": {
+      "text": "$$アンディ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_04:r_e5a692ea5ce09cac": {
+      "text": "$$アマタ$$\n「$$アンディ$$...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_e793fc3ce3a0c28d": {
+      "text": "$$アンディ$$\n「No time to mope.\n　At least I know $$ＭＩＸ$$'s safe.」",
+      "status": "translated"
+    },
+    "stage0083_04:r_2be6c657d0e12c4b": {
+      "text": "$$アンディ$$\n「Even if $$ＭＩＸ$$'s become a man,\n　I'll save them, no matter what!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_f89f6c6c4b076e16": {
+      "text": "$$ミカゲ$$\n「Shall I tell you why she became a man?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_7569f965fff4d791": {
+      "text": "$$カイエン$$\n「$$ミカゲ$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b43bdba9393d4d68": {
+      "text": "$$ガムリン$$\n「$$アルト$$!\n　The one he's got with him is...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_3ec159d1a3492877": {
+      "text": "$$アルト$$\n「!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_4e2fbafa9ebef558": {
+      "text": "$$シェリル$$\n「$$アルト$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_bde2e27bac7e3317": {
+      "text": "$$ランカ$$\n「$$アルト$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_631834aa1545ba7b": {
+      "text": "$$アルト$$\n「You bastard!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_0cd6aab432ee5af7": {
+      "text": "$$ミカゲ$$\n「Heh heh...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_c8b75f3bca245a85": {
+      "text": "$$ミカゲ$$\n「Eve's curse, cast upon Altair...\n　That's exactly why we seek a $$レア・イグラー$$,\n　and why that girl became a boy...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b26be73e3c0c8bed": {
+      "text": "$$アマタ$$\n「Eve's curse...!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_1a4dc288e81719ee": {
+      "text": "$$ミカゲ$$\n「Eve's curse didn't stop at erasing\n　every $$イグラー$$ from Altair...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b8902c992035da79": {
+      "text": "$$ミカゲ$$\n「The $$イグラー$$s brought here from Vega\n　were touched by that same curse, too,\n　and had their sex transformed.」",
+      "status": "translated"
+    },
+    "stage0083_04:r_df10ad0a71c307da": {
+      "text": "$$アンディ$$\n「You mean she became a man!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_9293c52555ba1457": {
+      "text": "$$ミカゲ$$\n「But there are a rare few $$イグラー$$s strong enough\n　to throw off that curse entirely...\n　Yes... those are the $$レア・イグラー$$s.」",
+      "status": "translated"
+    },
+    "stage0083_04:r_6c41647935e2574a": {
+      "text": "$$ミカゲ$$\n「And the strongest $$レア・イグラー$$ among them\n　becomes the true Eve, and saves Altair.」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ca702b5726ebd4da": {
+      "text": "$$ミカゲ$$\n「And that's these two...\n　Divas overflowing with life,\n　whose voices even cross dimensions.」",
+      "status": "translated"
+    },
+    "stage0083_04:r_51ce1d8caa34c103": {
+      "text": "$$アルト$$\n「You mean to take $$シェリル$$ and $$ランカ$$\n　to Altair!?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d00313056b19262c": {
+      "text": "$$ミカゲ$$\n「Now that I've obtained the true Mechanical Angel,\n　I've no more interest in Vega.\n　I'll watch its ruin from Altair from here on.」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d41f1e36365baa6f": {
+      "text": "$$アルト$$\n「$$シェリル$$!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_2c37dd5b8f919a88": {
+      "text": "$$オズマ$$\n「Rankaaaaa!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_53f5199f05a9aad8": {
+      "text": "$$アマタ$$\n「Eve's curse...\n　Then... Mom too...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_c6937f14a8985c35": {
+      "text": "$$カイエン$$\n「To have the Mythical Aquarion taken,\n　and lose the two whose power breaks\n　the Prison of Time...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_07513334490fbdf9": {
+      "text": "$n\n「Daaaammit!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d90c4affdd742a0e": {
+      "text": "$$ジェフリー$$\n「Have we... lost hope...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_082a55c75a163780": {
+      "text": "$$アドヴェント$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_04:r_fa09fad95980b867": {
+      "text": "???\n「Damn it!\n　Fall back once and regroup!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_f5507082e5c31362": {
+      "text": "$$アンディ$$\n「Beat it and don't come back!\n　You cocky little punk!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_3c9956c9d519d2a2": {
+      "text": "$$ユノハ$$\n「What's wrong, $$アンディ$$?\n　You seem oddly hard on them...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d150caab246bbd7a": {
+      "text": "$$アンディ$$\n「Even I don't really get it, but\n　seeing them just gets to me somehow...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d23d30b65284f69d": {
+      "text": "$$カグラ$$\n「Damn, an unwanted interruption!\n　Guess I'll fall back and wait for a chance!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_b2f67d46499f2bbd": {
+      "text": "$$カイエン$$\n「That was a pretty easy retreat for him.」",
+      "status": "translated"
+    },
+    "stage0083_04:r_fc1b13eaa4071b9a": {
+      "text": "$$アマタ$$\n「He'll definitely come back.\n　To settle things with me, and to make $$ミコノ$$ his.」",
+      "status": "translated"
+    },
+    "stage0083_04:r_c4cdd41ba9207e9c": {
+      "text": "$$ミコノ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_04:r_c33c28fb471faf59": {
+      "text": "$$アマタ$$\n「If we defeat him, Altair's Supreme Commander,\n　the fighting will end!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d0fc4899507f74b2": {
+      "text": "$$イズモ$$\n（So, this boy really is my...）",
+      "status": "translated"
+    },
+    "stage0083_04:r_11f13ec5326eaa51": {
+      "text": "$$イズモ$$\n（But for now, I set aside personal feelings...!\n　I will fulfill my duty as Altair's\n　Supreme Commander!）",
+      "status": "translated"
+    },
+    "stage0083_04:r_b69df689192adfc2": {
+      "text": "$$イズモ$$\n（Forgive me, $$アリシア$$...!）",
+      "status": "translated"
+    },
+    "stage0083_04:r_8a9ac301023aa8d3": {
+      "text": "$$カグラ$$\n「I'll settle this once and for all,\n　you coward $$アマタ$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_e4ae97a37c9b0cce": {
+      "text": "$$アマタ$$\n「Just what I wanted, $$カグラ$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_4cab8ba7b88b6c2a": {
+      "text": "$$カグラ$$\n「There's no way you can beat me!\n　Not you, who gave up that day!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_38f89a2d27debb9e": {
+      "text": "$$アマタ$$\n「I'm not who I was back then!\n　I'll never let anyone take someone\n　precious to me again!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_20aab898d4d14e51": {
+      "text": "$$ミコノ$$\n（Why... why do they have to fight...）",
+      "status": "translated"
+    },
+    "stage0083_04:r_e418ba9e04898c28": {
+      "text": "???\n「You Mechanical Angel!\n　If you're going to get in our way,\n　I'll be your opponent myself!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_88461d9fd17c56e7": {
+      "text": "$$アンディ$$\n「Don't think the likes of you can\n　be a match for Aquarion!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_f79b2ac118e41c1a": {
+      "text": "???\n「It's you who I'll be testing,\n　to see if you can handle me!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_d7bf635b7e5f811c": {
+      "text": "$$アンディ$$\n「Always got a comeback, huh...!\n　What a cocky bastard!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_24cb831c779807fd": {
+      "text": "$$アンナロッタ$$\n「$F!\n　There's no need to trouble the captain!\n　I'll be the one to take you down!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_3f9082480d045564": {
+      "text": "$n\n「Get out of the way, $$アンナロッタ$$!\n　My target is $$ガドライト$$!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_312a78dfbb065f65": {
+      "text": "$$アンナロッタ$$\n「I won't let you...!\n　Protecting him is my final duty!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_9f17991d2b19374c": {
+      "text": "$$スズネ$$\n（This person...）",
+      "status": "translated"
+    },
+    "stage0083_04:r_9bf1948e282e5587": {
+      "text": "$n\n「$$ガドライト$$!\n　Today, I'll finally take you down!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_67c9e002d64d9781": {
+      "text": "$$ガドライト$$\n「Persistent, aren't you, kid.\n　I don't know how much you hate me,\n　but don't you think revenge is a hassle?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_cb5e5d90104f7a88": {
+      "text": "$$ガドライト$$\n「Getting revenge won't bring anything back\n　anyway. So wouldn't you rather try\n　living more positively?」",
+      "status": "translated"
+    },
+    "stage0083_04:r_34f8d5cbd504c416": {
+      "text": "$n\n「.........」",
+      "status": "translated"
+    },
+    "stage0083_04:r_8246cdac0973a25f": {
+      "text": "$$スズネ$$\n「$n...!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_0a597f4cd9c8309b": {
+      "text": "$n\n「...I've thought that myself,\n　more times than you'd have to tell me...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_fc7afc4ebf9fd013": {
+      "text": "$n\n「But still!\n　That's not enough for me to move on!\n　I still see my dad and sister's faces from that day!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_833975ddd032dd18": {
+      "text": "$n\n「That's why I'm going to defeat you!\n　I'll think about what comes next after that!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_1608d4c4d3f78b24": {
+      "text": "$$ガドライト$$\n（I see...\n　What $$アンナロッタ$$ meant about him\n　and me being alike... it's finally clicking.）",
+      "status": "translated"
+    },
+    "stage0083_04:r_149109e3b1cf253b": {
+      "text": "$$刹那$$\n「Quanta...\n　Your true purpose lies beyond battle...」",
+      "status": "translated"
+    },
+    "stage0083_04:r_1de04d77f1060720": {
+      "text": "$$刹那$$\n「But for now, I fight...!\n　To end the fighting in this world!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_ffee8be5e866ae97": {
+      "text": "$$アルト$$\n（YF-29... my new wings...）",
+      "status": "translated"
+    },
+    "stage0083_04:r_bc2050dd9e12f5a4": {
+      "text": "$$アルト$$\n（Why I fly... why I fight...!\n　It's to protect them!）",
+      "status": "translated"
+    },
+    "stage0083_04:r_e5de816af15aeaec": {
+      "text": "$$アルト$$\n（I'll protect them!\n　This world, $$シェリル$$, and $$ランカ$$ too!）",
+      "status": "translated"
+    },
+    "stage0083_04:r_5149abbbcbee6ee4": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo, fumo, fumomo!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_bedf0f18c13c0a97": {
+      "text": "$$ガドライト$$\n「Well, this is a surprise!\n　Pretty slick, huh!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_56d65b2dba1b5061": {
+      "text": "$$ガドライト$$\n「If the world was full of folks like you,\n　it'd be a total blast!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_31865d3496c34d8b": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoo!!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_7d1683c9b3b3094a": {
+      "text": "$$ガドライト$$\n「Hahaha, you're just like honey!\n　That angry face is cute too!」",
+      "status": "translated"
+    },
+    "stage0083_04:r_2249da179abb6501": {
+      "text": "$n\n「Ah!」",
+      "status": "translated"
+    }
+  }
+}

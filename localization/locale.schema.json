@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Shared locale message file",
+  "type": "object",
+  "required": ["schema", "language", "messages"],
+  "additionalProperties": false,
+  "properties": {
+    "schema": {"const": 1},
+    "language": {"type": "string", "pattern": "^[a-z]{2,3}(-[A-Z]{2})?$"},
+    "messages": {
+      "type": "object",
+      "propertyNames": {"pattern": "^[A-Za-z0-9_.-]+:[A-Za-z0-9_.-]+$"},
+      "additionalProperties": {
+        "type": "object",
+        "required": ["text", "status"],
+        "additionalProperties": false,
+        "properties": {
+          "text": {"type": ["string", "null"]},
+          "status": {"enum": ["imported", "translated", "reviewed", "missing", "needs_review"]}
+        }
+      }
+    }
+  }
+}

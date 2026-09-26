@@ -1,0 +1,338 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_078:r_479b340ccc6c572b": {
+      "text": "Are you ready?!",
+      "status": "imported"
+    },
+    "voice_078:r_77949221bf58f862": {
+      "text": "I've got you!",
+      "status": "imported"
+    },
+    "voice_078:r_70b9c4b9f1f37eff": {
+      "text": "I won't show you mercy!",
+      "status": "imported"
+    },
+    "voice_078:r_9fcb3754cb1773c7": {
+      "text": "You're out of luck!",
+      "status": "imported"
+    },
+    "voice_078:r_3559d2fad32c2435": {
+      "text": "You've lost!",
+      "status": "imported"
+    },
+    "voice_078:r_f7570547e9f80a64": {
+      "text": "Making my move!",
+      "status": "imported"
+    },
+    "voice_078:r_cbab0f4720e1fcf1": {
+      "text": "It's easy to outmaneuver you!",
+      "status": "imported"
+    },
+    "voice_078:r_0bbe0b4f5364e732": {
+      "text": "I just have to outthink the enemy!",
+      "status": "imported"
+    },
+    "voice_078:r_5dda5198137cb02a": {
+      "text": "I plan to stay on the winning side!",
+      "status": "imported"
+    },
+    "voice_078:r_83ec59afbecdec14": {
+      "text": "Anything can happen in battle!",
+      "status": "imported"
+    },
+    "voice_078:r_e20bfd42ad95a3c9": {
+      "text": "You'll die for your emotions...?!",
+      "status": "imported"
+    },
+    "voice_078:r_0f58a8822381e57f": {
+      "text": "The terrain favors us!",
+      "status": "imported"
+    },
+    "voice_078:r_6dbcc507fb61b51d": {
+      "text": "At this range, this will work!",
+      "status": "imported"
+    },
+    "voice_078:r_b42ab697149a7c8a": {
+      "text": "My magazine isn't empty yet!",
+      "status": "imported"
+    },
+    "voice_078:r_4de4fcf3b440baf4": {
+      "text": "I won't miss...!",
+      "status": "imported"
+    },
+    "voice_078:r_0121a166c715cdff": {
+      "text": "If I can predict your moves...!",
+      "status": "imported"
+    },
+    "voice_078:r_30fad37a42bd3ad3": {
+      "text": "One opening, and they fall apart!",
+      "status": "imported"
+    },
+    "voice_078:r_80a0b2a84e05d81a": {
+      "text": "Close combat, then...!",
+      "status": "imported"
+    },
+    "voice_078:r_4a9ac1dff86506d9": {
+      "text": "Diving in...!",
+      "status": "imported"
+    },
+    "voice_078:r_bc8538e6af3d2577": {
+      "text": "Lose focus here, and you're dead!",
+      "status": "imported"
+    },
+    "voice_078:r_924516c8de2b5342": {
+      "text": "The next attack will finish this!",
+      "status": "imported"
+    },
+    "voice_078:r_da1174533722333f": {
+      "text": "Forgive me, Kashim...!",
+      "status": "imported"
+    },
+    "voice_078:r_fdeb8162976e72c1": {
+      "text": "Kashim, this is a battlefield...!",
+      "status": "imported"
+    },
+    "voice_078:r_0fadb5c26df92b42": {
+      "text": "I hear you quell wars worldwide...!",
+      "status": "imported"
+    },
+    "voice_078:r_6b15af9a0057cdc8": {
+      "text": "Your justice has no power here!",
+      "status": "imported"
+    },
+    "voice_078:r_15b4a90140e8a33a": {
+      "text": "You're no ordinary AT pilot...!",
+      "status": "imported"
+    },
+    "voice_078:r_af884a6b11dff121": {
+      "text": "The Black Knights, is it...!",
+      "status": "imported"
+    },
+    "voice_078:r_ac6fe7838e95647b": {
+      "text": "A Gundam from the colonies...!",
+      "status": "imported"
+    },
+    "voice_078:r_857c4a52ce8df0fd": {
+      "text": "This time, I'll strike first!",
+      "status": "imported"
+    },
+    "voice_078:r_55417493fce1d347": {
+      "text": "You're the one who started this!",
+      "status": "imported"
+    },
+    "voice_078:r_8fdf5910927c9591": {
+      "text": "I already have your position!",
+      "status": "imported"
+    },
+    "voice_078:r_7d724dbcc4451e10": {
+      "text": "You won't get away!",
+      "status": "imported"
+    },
+    "voice_078:r_93e25418a203cb8f": {
+      "text": "Always return every blow!",
+      "status": "imported"
+    },
+    "voice_078:r_adeb0a29274d3d9b": {
+      "text": "Commencing counterattack at once!",
+      "status": "imported"
+    },
+    "voice_078:r_24cf161287ef9d5c": {
+      "text": "No means of counterattack...?",
+      "status": "imported"
+    },
+    "voice_078:r_8f60f6fc86db3107": {
+      "text": "I'm out of options...",
+      "status": "imported"
+    },
+    "voice_078:r_b1de76a75a253c13": {
+      "text": "The tide favors them...",
+      "status": "imported"
+    },
+    "voice_078:r_128c35bf3e0e394c": {
+      "text": "I can't afford to rush in.",
+      "status": "imported"
+    },
+    "voice_078:r_5213c17e13b23de0": {
+      "text": "I lost track of the enemy...!",
+      "status": "imported"
+    },
+    "voice_078:r_38fdff9483e9245c": {
+      "text": "I knew you'd come at me that way.",
+      "status": "imported"
+    },
+    "voice_078:r_620fedec67706d7d": {
+      "text": "It's all within my expectations.",
+      "status": "imported"
+    },
+    "voice_078:r_9680dcd0fddcfcc7": {
+      "text": "I saw that move coming.",
+      "status": "imported"
+    },
+    "voice_078:r_2a00f1044ad5cbaa": {
+      "text": "The cautious soldier survives.",
+      "status": "imported"
+    },
+    "voice_078:r_3dbeead1bd3164ef": {
+      "text": "I won't waste my life.",
+      "status": "imported"
+    },
+    "voice_078:r_98d15b8cc09bc915": {
+      "text": "To keep winning,\\nI can't lose.",
+      "status": "imported"
+    },
+    "voice_078:r_46e86d000250e137": {
+      "text": "You haven't changed, Kashim.",
+      "status": "imported"
+    },
+    "voice_078:r_ac341e7976e88f0b": {
+      "text": "I know how you fight.",
+      "status": "imported"
+    },
+    "voice_078:r_b1f8ec192b9c083a": {
+      "text": "You see? It's futile.",
+      "status": "imported"
+    },
+    "voice_078:r_a007f9ab9cf048b3": {
+      "text": "This is rather convenient.",
+      "status": "imported"
+    },
+    "voice_078:r_ddafde4b065ced49": {
+      "text": "That attack won't get through.",
+      "status": "imported"
+    },
+    "voice_078:r_de1213040856c089": {
+      "text": "Too weak...",
+      "status": "imported"
+    },
+    "voice_078:r_3304412ac41f47a6": {
+      "text": "This is reality.",
+      "status": "imported"
+    },
+    "voice_078:r_0c0775e051211840": {
+      "text": "I won't let you get behind me.",
+      "status": "imported"
+    },
+    "voice_078:r_a2afffe1c396f0b3": {
+      "text": "This is all you can muster?",
+      "status": "imported"
+    },
+    "voice_078:r_13c25fbdfddc8a24": {
+      "text": "Damage is minimal. No problem.",
+      "status": "imported"
+    },
+    "voice_078:r_42ba1ecb310b4bd7": {
+      "text": "Handle it calmly. No problem.",
+      "status": "imported"
+    },
+    "voice_078:r_d692f1d420460a47": {
+      "text": "This is a bad turn...",
+      "status": "imported"
+    },
+    "voice_078:r_a5643cec86b18bd2": {
+      "text": "Lose your cool, and you die first.",
+      "status": "imported"
+    },
+    "voice_078:r_68f2dfab20a4a30e": {
+      "text": "You seem a perceptive soldier.",
+      "status": "imported"
+    },
+    "voice_078:r_9cedad8237480563": {
+      "text": "I've been outmaneuvered...?!",
+      "status": "imported"
+    },
+    "voice_078:r_a03fabecba1508ca": {
+      "text": "I won't join the losing side...!",
+      "status": "imported"
+    },
+    "voice_078:r_5391b24a71eb10ae": {
+      "text": "Stay calm...! Panic warps judgment!",
+      "status": "imported"
+    },
+    "voice_078:r_a554ceef5c87b972": {
+      "text": "Unchanged.\\nHits each weak point...!",
+      "status": "imported"
+    },
+    "voice_078:r_546c3d5937fbb7ee": {
+      "text": "Kashim...! You still won't give up!",
+      "status": "imported"
+    },
+    "voice_078:r_a77f4913375098d2": {
+      "text": "Not yet! There must be a chance...!",
+      "status": "imported"
+    },
+    "voice_078:r_428c2116ac3071b1": {
+      "text": "This is when I must be cautious...!",
+      "status": "imported"
+    },
+    "voice_078:r_84c116267b79f540": {
+      "text": "I've faced worse and lived!",
+      "status": "imported"
+    },
+    "voice_078:r_dad38ee29af2df3a": {
+      "text": "Reads every move...!\\nWho are you?!",
+      "status": "imported"
+    },
+    "voice_078:r_3d32e86f8dc80909": {
+      "text": "Win in the end!\\nThat's all!",
+      "status": "imported"
+    },
+    "voice_078:r_70451ffbabe2f876": {
+      "text": "I don't intend to die for nothing!",
+      "status": "imported"
+    },
+    "voice_078:r_69dfa1659715e2fa": {
+      "text": "I... lost...?!",
+      "status": "imported"
+    },
+    "voice_078:r_d996fd6d4ef5b329": {
+      "text": "I... wasn't one of the winners...",
+      "status": "imported"
+    },
+    "voice_078:r_8ab47a28f99ef565": {
+      "text": "Kashim... you win...",
+      "status": "imported"
+    },
+    "voice_078:r_ca85f87cee5e31f7": {
+      "text": "I'll go on ahead!",
+      "status": "imported"
+    },
+    "voice_078:r_9072ea7bc71df136": {
+      "text": "I'll draw the enemy's attention!",
+      "status": "imported"
+    },
+    "voice_078:r_04e815a8d425827d": {
+      "text": "Follow my lead!",
+      "status": "imported"
+    },
+    "voice_078:r_d89011fe3e5d082a": {
+      "text": "We'll pick them off one by one!",
+      "status": "imported"
+    },
+    "voice_078:r_3c5b0c2ac812d5de": {
+      "text": "I'll fulfill my role!",
+      "status": "imported"
+    },
+    "voice_078:r_5b9e8897190892eb": {
+      "text": "We'll split the enemy forces!",
+      "status": "imported"
+    },
+    "voice_078:r_7bea3023abbf8a94": {
+      "text": "Zaied here! I'll cover you!",
+      "status": "imported"
+    },
+    "voice_078:r_dd01a4c0d1b36a8d": {
+      "text": "I'll follow your lead!",
+      "status": "imported"
+    },
+    "voice_078:r_20920ad2eb3542db": {
+      "text": "You should value your life.",
+      "status": "imported"
+    },
+    "voice_078:r_0ab7914877fd48ed": {
+      "text": "I can't just abandon you!",
+      "status": "imported"
+    }
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "map_locations:r_fa697ec94058b7d0": {
+      "text": "Tokyo",
+      "status": "imported"
+    },
+    "map_locations:r_e39decd37a6f908e": {
+      "text": "Tokyo Bay",
+      "status": "imported"
+    },
+    "map_locations:r_201f58710d04ed55": {
+      "text": "$$第２新東京市$$",
+      "status": "imported"
+    },
+    "map_locations:r_8fc468e6ef9f9d7d": {
+      "text": "$$第２新東京市$$ - Junior High No. 1",
+      "status": "imported"
+    },
+    "map_locations:r_1d493990d9703613": {
+      "text": "$$第２新東京市$$ - Jindai High School",
+      "status": "imported"
+    },
+    "map_locations:r_313e0dfb87985a30": {
+      "text": "$$第２新東京市$$ - Municipal Hospital",
+      "status": "imported"
+    },
+    "map_locations:r_202aa857d472dd97": {
+      "text": "Takeo General Company",
+      "status": "imported"
+    },
+    "map_locations:r_de62957184e816f5": {
+      "text": "$$第３新東京市$$",
+      "status": "imported"
+    },
+    "map_locations:r_ae75e56470114b1f": {
+      "text": "$$第３新東京市$$ - NERV HQ",
+      "status": "imported"
+    },
+    "map_locations:r_070531322f8d267d": {
+      "text": "$$第３新東京市$$ - Geofront",
+      "status": "imported"
+    },
+    "map_locations:r_7b0f60e4c05d351b": {
+      "text": "$$アクエリア市$$",
+      "status": "imported"
+    },
+    "map_locations:r_d26e215db9bad001": {
+      "text": "$$アクエリア市$$ - $$聖天使学園$$",
+      "status": "imported"
+    },
+    "map_locations:r_23cbf350ef8495f1": {
+      "text": "Izu - Federation Forces Far East Branch",
+      "status": "imported"
+    },
+    "map_locations:r_ea65d0d7e602ca4e": {
+      "text": "Narashino Base",
+      "status": "imported"
+    },
+    "map_locations:r_91f6e5586043217d": {
+      "text": "Somewhere in Kanto",
+      "status": "imported"
+    },
+    "map_locations:r_83904a78a4358c87": {
+      "text": "Odaiba",
+      "status": "imported"
+    },
+    "map_locations:r_957a7d44c7415d05": {
+      "text": "Sagami Bay",
+      "status": "imported"
+    },
+    "map_locations:r_abd5d4db32072b44": {
+      "text": "Atami - $$くろがね屋$$",
+      "status": "imported"
+    },
+    "map_locations:r_90ef60089affee8d": {
+      "text": "Matsushiro",
+      "status": "imported"
+    },
+    "map_locations:r_a90ae90d10459a44": {
+      "text": "Okinawa",
+      "status": "imported"
+    },
+    "map_locations:r_33905ce039386c31": {
+      "text": "Nagano",
+      "status": "imported"
+    },
+    "map_locations:r_a1159c92117d5cf3": {
+      "text": "Ryuga Island",
+      "status": "imported"
+    },
+    "map_locations:r_70d87cba569ed340": {
+      "text": "???",
+      "status": "imported"
+    },
+    "map_locations:r_64416a58bd8e1b60": {
+      "text": "Japan's Inland Sea",
+      "status": "imported"
+    },
+    "map_locations:r_88bc546dd50fe9d3": {
+      "text": "Aegean Sea",
+      "status": "imported"
+    },
+    "map_locations:r_fb8391773c400fa0": {
+      "text": "Sea of Okhotsk",
+      "status": "imported"
+    },
+    "map_locations:r_e84f5ab11ba1efc4": {
+      "text": "New York",
+      "status": "imported"
+    },
+    "map_locations:r_4b7175aed068fe2c": {
+      "text": "New York - Earth Federation Forces HQ",
+      "status": "imported"
+    },
+    "map_locations:r_3d5b98257bc78e22": {
+      "text": "New York - Earth Federation Assembly",
+      "status": "imported"
+    },
+    "map_locations:r_d0d5a1b66ae4ff5f": {
+      "text": "Holy Land of $$アレギウム$$",
+      "status": "imported"
+    },
+    "map_locations:r_00e9772e1ba588ec": {
+      "text": "Mexico - $$ア・コバ$$",
+      "status": "imported"
+    },
+    "map_locations:r_2314767431d11afb": {
+      "text": "Southeastern Mexico",
+      "status": "imported"
+    },
+    "map_locations:r_d880252e550ebaf3": {
+      "text": "SE Mexico - $$マーティアル$$ Temple",
+      "status": "imported"
+    },
+    "map_locations:r_351a34ef2faff4c0": {
+      "text": "New World Continent - $$カミナシティ$$",
+      "status": "imported"
+    },
+    "map_locations:r_1e2b8da6af9bd1c8": {
+      "text": "Belgium",
+      "status": "imported"
+    },
+    "map_locations:r_25b6fb5a8cbdc5ad": {
+      "text": "Belgium - Brussels",
+      "status": "imported"
+    },
+    "map_locations:r_81bf2f213d3b9b85": {
+      "text": "North America - East Coast",
+      "status": "imported"
+    },
+    "map_locations:r_3698827b4bcf8005": {
+      "text": "Orb Union",
+      "status": "imported"
+    },
+    "map_locations:r_2c0dcb78f49decc0": {
+      "text": "Africa",
+      "status": "imported"
+    },
+    "map_locations:r_856b64786516c35d": {
+      "text": "$$ヘルマジスタン$$",
+      "status": "imported"
+    },
+    "map_locations:r_9f9c8dd25aab029b": {
+      "text": "$$ヘルマジスタン$$ - $$マーティアル$$ Temple",
+      "status": "imported"
+    },
+    "map_locations:r_bae166aead618299": {
+      "text": "Near the $$ヘルマジスタン$$ Border",
+      "status": "imported"
+    },
+    "map_locations:r_236301a7335b562a": {
+      "text": "Mexico - Istra",
+      "status": "imported"
+    },
+    "map_locations:r_cb1d800b3e618748": {
+      "text": "Chinese Federation",
+      "status": "imported"
+    },
+    "map_locations:r_5c1c16af394bee0d": {
+      "text": "Hong Kong",
+      "status": "imported"
+    },
+    "map_locations:r_3352ce7a75b3167b": {
+      "text": "$$メリダ島$$ - Mithril West Pacific Base",
+      "status": "imported"
+    },
+    "map_locations:r_fe93590e82c57912": {
+      "text": "Los Angeles",
+      "status": "imported"
+    },
+    "map_locations:r_89ed58962c0db3cd": {
+      "text": "Sahara Desert",
+      "status": "imported"
+    },
+    "map_locations:r_0361207798025339": {
+      "text": "Dakar",
+      "status": "imported"
+    },
+    "map_locations:r_1b80440570dffd0f": {
+      "text": "Dakar Outskirts",
+      "status": "imported"
+    },
+    "map_locations:r_a128bdd7ee93b22c": {
+      "text": "Peloponnese Peninsula",
+      "status": "imported"
+    },
+    "map_locations:r_a76f2545848cdf47": {
+      "text": "North Sea",
+      "status": "imported"
+    },
+    "map_locations:r_052746a61876996a": {
+      "text": "Indian Ocean",
+      "status": "imported"
+    },
+    "map_locations:r_cca5dbf8c415438c": {
+      "text": "Pacific Ocean - Point X",
+      "status": "imported"
+    },
+    "map_locations:r_c3e70b590d730d4e": {
+      "text": "Iceland - $$バルエヨルズル$$",
+      "status": "imported"
+    },
+    "map_locations:r_589724858cdc0975": {
+      "text": "Atlantic Ocean",
+      "status": "imported"
+    },
+    "map_locations:r_802007c926d98383": {
+      "text": "Pacific Ocean",
+      "status": "imported"
+    },
+    "map_locations:r_294be5419632bef0": {
+      "text": "Pacific Ocean",
+      "status": "imported"
+    },
+    "map_locations:r_f6c02b84c8406fe4": {
+      "text": "Pacific Ocean",
+      "status": "imported"
+    },
+    "map_locations:r_64cdaa3dca623d34": {
+      "text": "Pacific Ocean",
+      "status": "imported"
+    },
+    "map_locations:r_39659cd06184dae6": {
+      "text": "Pacific Ocean",
+      "status": "imported"
+    },
+    "map_locations:r_42b3f63231c63315": {
+      "text": "Pacific Ocean",
+      "status": "imported"
+    },
+    "map_locations:r_05f664c5b22636d8": {
+      "text": "Pacific Ocean",
+      "status": "imported"
+    },
+    "map_locations:r_1f80fd956bb5fa30": {
+      "text": "L1 Sector",
+      "status": "imported"
+    },
+    "map_locations:r_2e5e01ae46a9c492": {
+      "text": "L1 Sector",
+      "status": "imported"
+    },
+    "map_locations:r_e3951c1e010f0fc8": {
+      "text": "L1 Sector",
+      "status": "imported"
+    },
+    "map_locations:r_6539c30b31000083": {
+      "text": "L1 - Side 4 - Ariel",
+      "status": "imported"
+    },
+    "map_locations:r_6ad2ef62ac51c04e": {
+      "text": "L1 - Industrial 7",
+      "status": "imported"
+    },
+    "map_locations:r_fb60130e887e690e": {
+      "text": "L1 - Shoal Zone",
+      "status": "imported"
+    },
+    "map_locations:r_ba635715eef6dd4f": {
+      "text": "L1 - Palau",
+      "status": "imported"
+    },
+    "map_locations:r_ecc3e347fd93e69a": {
+      "text": "L2 - Side 3 - Sweetwater",
+      "status": "imported"
+    },
+    "map_locations:r_aa035e818115cef1": {
+      "text": "L2 - Axis",
+      "status": "imported"
+    },
+    "map_locations:r_5ee3db3caf3b6086": {
+      "text": "L3 Sector",
+      "status": "imported"
+    },
+    "map_locations:r_ba34bec2c034fb3b": {
+      "text": "L5 Sector",
+      "status": "imported"
+    },
+    "map_locations:r_2cc31862568b2874": {
+      "text": "L5 - Side 1 - Londenion",
+      "status": "imported"
+    },
+    "map_locations:r_11e4b9d36763e8dd": {
+      "text": "L5 - PLANT",
+      "status": "imported"
+    },
+    "map_locations:r_b14a42e6f34b7db8": {
+      "text": "Near Earth",
+      "status": "imported"
+    },
+    "map_locations:r_f67748018b13f433": {
+      "text": "Near Earth",
+      "status": "imported"
+    },
+    "map_locations:r_d9362dc17fecebf7": {
+      "text": "Near Earth",
+      "status": "imported"
+    },
+    "map_locations:r_1ceaa692a86ac2e2": {
+      "text": "Near Earth - Shoal Zone",
+      "status": "imported"
+    },
+    "map_locations:r_f42754d6a45f72a6": {
+      "text": "Near Earth - Axis",
+      "status": "imported"
+    },
+    "map_locations:r_d9b8974fba6ba65f": {
+      "text": "Near Fifth Luna",
+      "status": "imported"
+    },
+    "map_locations:r_0e9c55a6aedf84fd": {
+      "text": "Frontier Fleet",
+      "status": "imported"
+    }
+  }
+}

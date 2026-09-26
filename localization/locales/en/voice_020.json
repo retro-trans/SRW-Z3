@@ -1,0 +1,938 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_020:r_479b340ccc6c572b": {
+      "text": "Let's move!",
+      "status": "imported"
+    },
+    "voice_020:r_ca4acbac57a2a35e": {
+      "text": "This is our moment!",
+      "status": "imported"
+    },
+    "voice_020:r_77949221bf58f862": {
+      "text": "Take down the enemies we can!",
+      "status": "imported"
+    },
+    "voice_020:r_70b9c4b9f1f37eff": {
+      "text": "Machine's running fine. I can do it!",
+      "status": "imported"
+    },
+    "voice_020:r_9fcb3754cb1773c7": {
+      "text": "Chan tuned it.\\nI can win...!",
+      "status": "imported"
+    },
+    "voice_020:r_3559d2fad32c2435": {
+      "text": "Can't let my guard down...!",
+      "status": "imported"
+    },
+    "voice_020:r_f7570547e9f80a64": {
+      "text": "If that's how you want it...!",
+      "status": "imported"
+    },
+    "voice_020:r_cbab0f4720e1fcf1": {
+      "text": "The whole world's on the brink...!",
+      "status": "imported"
+    },
+    "voice_020:r_0bbe0b4f5364e732": {
+      "text": "You can't stop fighting, even now?!",
+      "status": "imported"
+    },
+    "voice_020:r_5dda5198137cb02a": {
+      "text": "This is no time to act selfishly...!",
+      "status": "imported"
+    },
+    "voice_020:r_83ec59afbecdec14": {
+      "text": "If the world's flaws fuel war...!",
+      "status": "imported"
+    },
+    "voice_020:r_e20bfd42ad95a3c9": {
+      "text": "Exploiting the chaos to run wild!",
+      "status": "imported"
+    },
+    "voice_020:r_0f58a8822381e57f": {
+      "text": "I'll crush that naked ego itself!",
+      "status": "imported"
+    },
+    "voice_020:r_6dbcc507fb61b51d": {
+      "text": "It's just a rock! I'll stop it!",
+      "status": "imported"
+    },
+    "voice_020:r_b42ab697149a7c8a": {
+      "text": "Keep this war up,\\nand mankind dies!",
+      "status": "imported"
+    },
+    "voice_020:r_4de4fcf3b440baf4": {
+      "text": "If we don't fight, Earth is done...!",
+      "status": "imported"
+    },
+    "voice_020:r_0121a166c715cdff": {
+      "text": "To think I'd pilot this now...",
+      "status": "imported"
+    },
+    "voice_020:r_30fad37a42bd3ad3": {
+      "text": "I'll draw out its full potential!",
+      "status": "imported"
+    },
+    "voice_020:r_80a0b2a84e05d81a": {
+      "text": "Any machine - I'll make it work!",
+      "status": "imported"
+    },
+    "voice_020:r_4a9ac1dff86506d9": {
+      "text": "They're close...! In that case!",
+      "status": "imported"
+    },
+    "voice_020:r_bc8538e6af3d2577": {
+      "text": "I'm diving into their guard!",
+      "status": "imported"
+    },
+    "voice_020:r_924516c8de2b5342": {
+      "text": "Close combat, huh...!",
+      "status": "imported"
+    },
+    "voice_020:r_6b15af9a0057cdc8": {
+      "text": "Targeting... Locked!",
+      "status": "imported"
+    },
+    "voice_020:r_15b4a90140e8a33a": {
+      "text": "At this range, this'll do!",
+      "status": "imported"
+    },
+    "voice_020:r_af884a6b11dff121": {
+      "text": "If I hit the power unit...!",
+      "status": "imported"
+    },
+    "voice_020:r_48b60d6c48b9b142": {
+      "text": "There!!",
+      "status": "imported"
+    },
+    "voice_020:r_8927e6fb681aa809": {
+      "text": "Go! Fin Funnel!!",
+      "status": "imported"
+    },
+    "voice_020:r_665f01666859013b": {
+      "text": "Fall already!!",
+      "status": "imported"
+    },
+    "voice_020:r_a571eec59b258d11": {
+      "text": "I'll make this hit!",
+      "status": "imported"
+    },
+    "voice_020:r_ddbe581c5ea9183d": {
+      "text": "Fin Funnel!",
+      "status": "imported"
+    },
+    "voice_020:r_faae935cca0edc72": {
+      "text": "Take this!",
+      "status": "imported"
+    },
+    "voice_020:r_d4430bf362340b32": {
+      "text": "I know I can do it!",
+      "status": "imported"
+    },
+    "voice_020:r_b7b5625d7cd4282f": {
+      "text": "Hit them!",
+      "status": "imported"
+    },
+    "voice_020:r_36133ad73a73ef98": {
+      "text": "I'll shoot them down!",
+      "status": "imported"
+    },
+    "voice_020:r_3633df5b7b8f47fa": {
+      "text": "This will finish it!",
+      "status": "imported"
+    },
+    "voice_020:r_52dfc56b14b93551": {
+      "text": "It's not over yet!",
+      "status": "imported"
+    },
+    "voice_020:r_1b9b2aab5cb104da": {
+      "text": "Haaaaaaaah!",
+      "status": "imported"
+    },
+    "voice_020:r_342044c706a2340f": {
+      "text": "I'll finish you!",
+      "status": "imported"
+    },
+    "voice_020:r_cf41e8828a90cbdb": {
+      "text": "Press the attack!",
+      "status": "imported"
+    },
+    "voice_020:r_719e897304ec42d4": {
+      "text": "Oooooooooh!",
+      "status": "imported"
+    },
+    "voice_020:r_d5e0a2317c40d322": {
+      "text": "With this much firepower...!",
+      "status": "imported"
+    },
+    "voice_020:r_ec2ea17765052401": {
+      "text": "This is the end!",
+      "status": "imported"
+    },
+    "voice_020:r_f2d4255f1c2f7542": {
+      "text": "Goooooooo!",
+      "status": "imported"
+    },
+    "voice_020:r_5d08ad19e2da125b": {
+      "text": "Funnel!",
+      "status": "imported"
+    },
+    "voice_020:r_dc8701f6bcb9904f": {
+      "text": "Go, Funnel!!",
+      "status": "imported"
+    },
+    "voice_020:r_d6bdd730f24f66eb": {
+      "text": "There you are!",
+      "status": "imported"
+    },
+    "voice_020:r_41997412868c48c4": {
+      "text": "Funnel!!",
+      "status": "imported"
+    },
+    "voice_020:r_7432ef43ed3471dc": {
+      "text": "The biosensor's reacting...! Good!",
+      "status": "imported"
+    },
+    "voice_020:r_065443f6ddfcf0d7": {
+      "text": "Gooooooo!!",
+      "status": "imported"
+    },
+    "voice_020:r_847f82e7f3eef651": {
+      "text": "Hearts gather...!\\nThen...!",
+      "status": "imported"
+    },
+    "voice_020:r_7d724dbcc4451e10": {
+      "text": "I'll disrupt them with the Beam!",
+      "status": "imported"
+    },
+    "voice_020:r_93e25418a203cb8f": {
+      "text": "Beam Confuse!",
+      "status": "imported"
+    },
+    "voice_020:r_24cf161287ef9d5c": {
+      "text": "I'll give it a shot!",
+      "status": "imported"
+    },
+    "voice_020:r_b1de76a75a253c13": {
+      "text": "Fall!",
+      "status": "imported"
+    },
+    "voice_020:r_5213c17e13b23de0": {
+      "text": "Go!",
+      "status": "imported"
+    },
+    "voice_020:r_38fdff9483e9245c": {
+      "text": "If you can still fight!",
+      "status": "imported"
+    },
+    "voice_020:r_620fedec67706d7d": {
+      "text": "I'll push straight through!",
+      "status": "imported"
+    },
+    "voice_020:r_9680dcd0fddcfcc7": {
+      "text": "I won't let that opening escape!",
+      "status": "imported"
+    },
+    "voice_020:r_2a00f1044ad5cbaa": {
+      "text": "Char!",
+      "status": "imported"
+    },
+    "voice_020:r_3dbeead1bd3164ef": {
+      "text": "No person should punish another!",
+      "status": "imported"
+    },
+    "voice_020:r_98d15b8cc09bc915": {
+      "text": "He fought with us.\\nWhy crush Earth?!",
+      "status": "imported"
+    },
+    "voice_020:r_46e86d000250e137": {
+      "text": "What are you thinking, Char!",
+      "status": "imported"
+    },
+    "voice_020:r_ac341e7976e88f0b": {
+      "text": "Is this your answer, Char!",
+      "status": "imported"
+    },
+    "voice_020:r_cdbd128a5b4127cc": {
+      "text": "Quess Paraya, is that you?!",
+      "status": "imported"
+    },
+    "voice_020:r_cfccaa1fbeda124c": {
+      "text": "If Char's pulled you in...!",
+      "status": "imported"
+    },
+    "voice_020:r_b1f8ec192b9c083a": {
+      "text": "Can't you see you're being used?!",
+      "status": "imported"
+    },
+    "voice_020:r_a007f9ab9cf048b3": {
+      "text": "Your hostility's far too naive...!",
+      "status": "imported"
+    },
+    "voice_020:r_ddafde4b065ced49": {
+      "text": "There have to be other ways!",
+      "status": "imported"
+    },
+    "voice_020:r_de1213040856c089": {
+      "text": "Why are you rushing to an answer?!",
+      "status": "imported"
+    },
+    "voice_020:r_3304412ac41f47a6": {
+      "text": "Is fighting your only voice...?!",
+      "status": "imported"
+    },
+    "voice_020:r_0c0775e051211840": {
+      "text": "Char...?! No, that's not Char!",
+      "status": "imported"
+    },
+    "voice_020:r_a2afffe1c396f0b3": {
+      "text": "What's with this man's pressure...?!",
+      "status": "imported"
+    },
+    "voice_020:r_13c25fbdfddc8a24": {
+      "text": "Why?! I sense Char in this man!",
+      "status": "imported"
+    },
+    "voice_020:r_42ba1ecb310b4bd7": {
+      "text": "Banagher! Get a grip! Wake up!",
+      "status": "imported"
+    },
+    "voice_020:r_d692f1d420460a47": {
+      "text": "Unicorn affects\\nBanagher's mind?!",
+      "status": "imported"
+    },
+    "voice_020:r_a5643cec86b18bd2": {
+      "text": "A ghost of Zeon...!",
+      "status": "imported"
+    },
+    "voice_020:r_68f2dfab20a4a30e": {
+      "text": "Revenge, after all this time!",
+      "status": "imported"
+    },
+    "voice_020:r_9cedad8237480563": {
+      "text": "Are you still doing this...?!",
+      "status": "imported"
+    },
+    "voice_020:r_a03fabecba1508ca": {
+      "text": "Haman! What are you fighting for?!",
+      "status": "imported"
+    },
+    "voice_020:r_5391b24a71eb10ae": {
+      "text": "That machine is warping its pilot!",
+      "status": "imported"
+    },
+    "voice_020:r_a554ceef5c87b972": {
+      "text": "Don't let the system consume you!",
+      "status": "imported"
+    },
+    "voice_020:r_546c3d5937fbb7ee": {
+      "text": "Will Treize have died for nothing?!",
+      "status": "imported"
+    },
+    "voice_020:r_1568ff6298b12b96": {
+      "text": "You learned nothing from that war!",
+      "status": "imported"
+    },
+    "voice_020:r_2c9d94ba13c5fc50": {
+      "text": "That thing is no god!",
+      "status": "imported"
+    },
+    "voice_020:r_a77f4913375098d2": {
+      "text": "I won't let the world end!",
+      "status": "imported"
+    },
+    "voice_020:r_428c2116ac3071b1": {
+      "text": "If I destroy the machine's hold...!",
+      "status": "imported"
+    },
+    "voice_020:r_84c116267b79f540": {
+      "text": "I'll disable it as fast as I can...!",
+      "status": "imported"
+    },
+    "voice_020:r_dad38ee29af2df3a": {
+      "text": "The Angel won't get past me...!",
+      "status": "imported"
+    },
+    "voice_020:r_3d32e86f8dc80909": {
+      "text": "Love forced on others isn't love!",
+      "status": "imported"
+    },
+    "voice_020:r_70451ffbabe2f876": {
+      "text": "Even with a Lambda Driver!",
+      "status": "imported"
+    },
+    "voice_020:r_69dfa1659715e2fa": {
+      "text": "If I can just sense the force field!",
+      "status": "imported"
+    },
+    "voice_020:r_d996fd6d4ef5b329": {
+      "text": "They're Baal... A primal calamity!",
+      "status": "imported"
+    },
+    "voice_020:r_546de3fb6db156ea": {
+      "text": "If we must fight to mutual ruin...!",
+      "status": "imported"
+    },
+    "voice_020:r_04e815a8d425827d": {
+      "text": "Fearing despair that hasn't come!",
+      "status": "imported"
+    },
+    "voice_020:r_d89011fe3e5d082a": {
+      "text": "There's a chance.\\nWhy not take it?!",
+      "status": "imported"
+    },
+    "voice_020:r_3c5b0c2ac812d5de": {
+      "text": "You acted too soon!",
+      "status": "imported"
+    },
+    "voice_020:r_7bea3023abbf8a94": {
+      "text": "I won't let you have your way!",
+      "status": "imported"
+    },
+    "voice_020:r_dd01a4c0d1b36a8d": {
+      "text": "By the light in people's hearts!",
+      "status": "imported"
+    },
+    "voice_020:r_20920ad2eb3542db": {
+      "text": "I'll beat you,\\nand end this mad war!",
+      "status": "imported"
+    },
+    "voice_020:r_0ab7914877fd48ed": {
+      "text": "Humanity's wiser than you think!",
+      "status": "imported"
+    },
+    "voice_020:r_cb846feec748c2e3": {
+      "text": "I'll strike the mastermind...!",
+      "status": "imported"
+    },
+    "voice_020:r_c958860b0676b1f5": {
+      "text": "Nu Gundam isn't just for show!",
+      "status": "imported"
+    },
+    "voice_020:r_5e2669b82ef75ce3": {
+      "text": "I'll finish this with Nu Gundam!",
+      "status": "imported"
+    },
+    "voice_020:r_7847e0ed7dc9282d": {
+      "text": "With Zeta's mobility,\\nI can do this!",
+      "status": "imported"
+    },
+    "voice_020:r_e42b52c7a987b906": {
+      "text": "That hostility... Is it from them?!",
+      "status": "imported"
+    },
+    "voice_020:r_6825fd1ff907bd22": {
+      "text": "A mobile armor, huh...!",
+      "status": "imported"
+    },
+    "voice_020:r_58dd2826a199ef51": {
+      "text": "You won't escape!",
+      "status": "imported"
+    },
+    "voice_020:r_aadc0b2442adb93b": {
+      "text": "I'll hit them before they get away!",
+      "status": "imported"
+    },
+    "voice_020:r_e7a8cd8ed5bc2d1b": {
+      "text": "Your evasion came too late!",
+      "status": "imported"
+    },
+    "voice_020:r_041dd920da4a7c17": {
+      "text": "You don't know I've lured you in!",
+      "status": "imported"
+    },
+    "voice_020:r_c7f4280cde4605b3": {
+      "text": "You can't escape our teamwork!",
+      "status": "imported"
+    },
+    "voice_020:r_ec349c8ea9511a18": {
+      "text": "We still have moves left to play!",
+      "status": "imported"
+    },
+    "voice_020:r_33236ffa3ea95b68": {
+      "text": "This is Amuro. I'll cover you!",
+      "status": "imported"
+    },
+    "voice_020:r_689d0b123de71ae0": {
+      "text": "Kamille...! I'll take it from here!",
+      "status": "imported"
+    },
+    "voice_020:r_84883aa95f63ce32": {
+      "text": "That's not like you, Char!",
+      "status": "imported"
+    },
+    "voice_020:r_25493e978ce8ff16": {
+      "text": "Draw out your MS's full power, Shin!",
+      "status": "imported"
+    },
+    "voice_020:r_7316666150e42960": {
+      "text": "Fall back, Kamille! I've got this!",
+      "status": "imported"
+    },
+    "voice_020:r_c4f11aa93dc5b668": {
+      "text": "Kira, leave the rest to me!",
+      "status": "imported"
+    },
+    "voice_020:r_ce1a22dfe3a4d339": {
+      "text": "We'll handle the rest here!",
+      "status": "imported"
+    },
+    "voice_020:r_240651adab81e145": {
+      "text": "Good instincts. Now get experience.",
+      "status": "imported"
+    },
+    "voice_020:r_a6630215fefaf294": {
+      "text": "Well done, Hathaway!",
+      "status": "imported"
+    },
+    "voice_020:r_6f94566ad37f8ff8": {
+      "text": "Don't chase too far, Quess!",
+      "status": "imported"
+    },
+    "voice_020:r_942ca03c9de80143": {
+      "text": "Banagher, match my rhythm!",
+      "status": "imported"
+    },
+    "voice_020:r_d8c669c70659e18a": {
+      "text": "Nicely done, Captain Otto!",
+      "status": "imported"
+    },
+    "voice_020:r_8f5bade7ac2db78e": {
+      "text": "Sloppy follow-through, Ensign!",
+      "status": "imported"
+    },
+    "voice_020:r_05ea490d2f522520": {
+      "text": "I'll cover you, Heero!",
+      "status": "imported"
+    },
+    "voice_020:r_f5658c702d91db7a": {
+      "text": "That's Preventer Wind for you!",
+      "status": "imported"
+    },
+    "voice_020:r_686df329b50f195b": {
+      "text": "Keep it going, Bright!",
+      "status": "imported"
+    },
+    "voice_020:r_25f0ab0fa3cf690c": {
+      "text": "Things won't go the way you want!",
+      "status": "imported"
+    },
+    "voice_020:r_b708a1d959013dbf": {
+      "text": "Kamille! Watch your back too!",
+      "status": "imported"
+    },
+    "voice_020:r_59fca03e929366c1": {
+      "text": "Char! What are you doing?!",
+      "status": "imported"
+    },
+    "voice_020:r_0d65eb631dcb7514": {
+      "text": "I'm moving to cover Shin!",
+      "status": "imported"
+    },
+    "voice_020:r_d03018a31e23f1e9": {
+      "text": "What're you doing!\\nYou'll be killed!",
+      "status": "imported"
+    },
+    "voice_020:r_279da5f732aa8847": {
+      "text": "I'll draw them off!\\nRegroup!",
+      "status": "imported"
+    },
+    "voice_020:r_97f82e3cb6f70110": {
+      "text": "That was careless, Kamille!",
+      "status": "imported"
+    },
+    "voice_020:r_c5611d8dd6def96b": {
+      "text": "Fall back, Kira!",
+      "status": "imported"
+    },
+    "voice_020:r_6f12cc8ed2732eb5": {
+      "text": "Watch your back too!",
+      "status": "imported"
+    },
+    "voice_020:r_7abfc55f8fb62ba7": {
+      "text": "There's an opening to slip through!",
+      "status": "imported"
+    },
+    "voice_020:r_99e7a66c650b5892": {
+      "text": "I'll take over!\\nRetreat now!",
+      "status": "imported"
+    },
+    "voice_020:r_5b2247b5cfbcd7b2": {
+      "text": "I'll use my machine as a shield!",
+      "status": "imported"
+    },
+    "voice_020:r_2d7a9c06347582d9": {
+      "text": "Fight like that, the dead take you!",
+      "status": "imported"
+    },
+    "voice_020:r_66236eb99b676e5b": {
+      "text": "Keep calm, Hathaway!",
+      "status": "imported"
+    },
+    "voice_020:r_9639a2dbcd2f58ed": {
+      "text": "Quess, take a good look around!",
+      "status": "imported"
+    },
+    "voice_020:r_aeea0893acb93d35": {
+      "text": "Regroup, Banagher!",
+      "status": "imported"
+    },
+    "voice_020:r_b31568654e53487b": {
+      "text": "Captain Otto, evasive maneuvers!",
+      "status": "imported"
+    },
+    "voice_020:r_2502132569141ea3": {
+      "text": "Ensign, that won't do!",
+      "status": "imported"
+    },
+    "voice_020:r_1ff312798a52c8eb": {
+      "text": "Don't be reckless, Heero!",
+      "status": "imported"
+    },
+    "voice_020:r_fa07d90fca62f593": {
+      "text": "I can't let you die yet!",
+      "status": "imported"
+    },
+    "voice_020:r_a25bf2676ecf9d83": {
+      "text": "Bright, you're too far forward!",
+      "status": "imported"
+    },
+    "voice_020:r_237a0288b42dce20": {
+      "text": "That was a clean withdrawal.",
+      "status": "imported"
+    },
+    "voice_020:r_0556e8a22779ea8e": {
+      "text": "I let the enemy go... How pathetic!",
+      "status": "imported"
+    },
+    "voice_020:r_09d377101a48d92a": {
+      "text": "Damn! I fell right into their trap!",
+      "status": "imported"
+    },
+    "voice_020:r_11517cc7b0494dbf": {
+      "text": "Not at this range!",
+      "status": "imported"
+    },
+    "voice_020:r_b5864501463db244": {
+      "text": "Damn! Did I overdo it?!",
+      "status": "imported"
+    },
+    "voice_020:r_a88939ea84b4474d": {
+      "text": "Just as I predicted.",
+      "status": "imported"
+    },
+    "voice_020:r_a870d0cf7cc11ec6": {
+      "text": "Your heart is racing ahead of you.",
+      "status": "imported"
+    },
+    "voice_020:r_03f6158ef83964f3": {
+      "text": "I hope this makes you surrender.",
+      "status": "imported"
+    },
+    "voice_020:r_2970a83693cdcc25": {
+      "text": "I know how to handle your type.",
+      "status": "imported"
+    },
+    "voice_020:r_be661448b85d0009": {
+      "text": "Don't mock me!",
+      "status": "imported"
+    },
+    "voice_020:r_958a56c1151cab9e": {
+      "text": "All momentum and nothing else!",
+      "status": "imported"
+    },
+    "voice_020:r_8b18aa4cc69547df": {
+      "text": "You still intend to keep fighting?!",
+      "status": "imported"
+    },
+    "voice_020:r_3e87f6fc3ea65aef": {
+      "text": "I have no time for your games!",
+      "status": "imported"
+    },
+    "voice_020:r_5508a7bfa9074eb9": {
+      "text": "The Red Comet has fallen far!",
+      "status": "imported"
+    },
+    "voice_020:r_09a003e91f0d5dc7": {
+      "text": "Char! Is this your resolve?!",
+      "status": "imported"
+    },
+    "voice_020:r_192447448ebd7bb5": {
+      "text": "What now, Haman!\\nAre you playing?!",
+      "status": "imported"
+    },
+    "voice_020:r_e92920ba4b301b9f": {
+      "text": "So that's your move, Full Frontal!",
+      "status": "imported"
+    },
+    "voice_020:r_207b256d613bb896": {
+      "text": "Banagher! Are you unconscious?!",
+      "status": "imported"
+    },
+    "voice_020:r_a6fd676d8146501b": {
+      "text": "Will people repeat past mistakes...!",
+      "status": "imported"
+    },
+    "voice_020:r_94d35e5fa8e3a198": {
+      "text": "You think this\\ncan fix the world...!",
+      "status": "imported"
+    },
+    "voice_020:r_b686510e636673f3": {
+      "text": "A leader's ego led\\nto this?!",
+      "status": "imported"
+    },
+    "voice_020:r_59369bad143d4272": {
+      "text": "I can see you!",
+      "status": "imported"
+    },
+    "voice_020:r_25f9b1e39dd8d366": {
+      "text": "I won't let you!",
+      "status": "imported"
+    },
+    "voice_020:r_307477bedd148060": {
+      "text": "As if that would hit me!",
+      "status": "imported"
+    },
+    "voice_020:r_09a780acca0eb4b0": {
+      "text": "Nice machine...\\nIt keeps up with me.",
+      "status": "imported"
+    },
+    "voice_020:r_af62f2ee466b5c8c": {
+      "text": "That first move was a feint...!",
+      "status": "imported"
+    },
+    "voice_020:r_0e4f9b8a2d26ebff": {
+      "text": "That won't work!",
+      "status": "imported"
+    },
+    "voice_020:r_eff747ba39a55393": {
+      "text": "Can't rely too much on equipment...",
+      "status": "imported"
+    },
+    "voice_020:r_b2dc77aa6dd77e69": {
+      "text": "It helped defend me.",
+      "status": "imported"
+    },
+    "voice_020:r_445d40d8b5d7092b": {
+      "text": "With Fin Funnel...!",
+      "status": "imported"
+    },
+    "voice_020:r_bbb633cb5e8e6daf": {
+      "text": "Astonaige won't be happy...",
+      "status": "imported"
+    },
+    "voice_020:r_0abd8b6c713ccdac": {
+      "text": "Were my reactions too sensitive?",
+      "status": "imported"
+    },
+    "voice_020:r_f4ff463b2fda1b86": {
+      "text": "It only grazed me...!",
+      "status": "imported"
+    },
+    "voice_020:r_4e63c037d3cb8a3d": {
+      "text": "I thought I'd dodged it...!",
+      "status": "imported"
+    },
+    "voice_020:r_9ca8d188ae805e3a": {
+      "text": "If my armor can take it...!",
+      "status": "imported"
+    },
+    "voice_020:r_795ed21f3e28e1f5": {
+      "text": "I got hit by that...? Pathetic!",
+      "status": "imported"
+    },
+    "voice_020:r_141415c1def5ab2d": {
+      "text": "They stopped me in my tracks?",
+      "status": "imported"
+    },
+    "voice_020:r_c894e35becf35a03": {
+      "text": "They read my movement...!",
+      "status": "imported"
+    },
+    "voice_020:r_79b1abf5fc86483c": {
+      "text": "I let myself get distracted...!",
+      "status": "imported"
+    },
+    "voice_020:r_e9a11621911acb19": {
+      "text": "The battle's turning against us...!",
+      "status": "imported"
+    },
+    "voice_020:r_d52bece55796f599": {
+      "text": "Damage like this is nothing!",
+      "status": "imported"
+    },
+    "voice_020:r_358fe5a50bbee1df": {
+      "text": "Even though I knew it was coming!",
+      "status": "imported"
+    },
+    "voice_020:r_638834e16724002f": {
+      "text": "Char! Are your doubts gone?!",
+      "status": "imported"
+    },
+    "voice_020:r_b02fca1590ac1210": {
+      "text": "Not since the One Year War...!",
+      "status": "imported"
+    },
+    "voice_020:r_f0344d2fbaa9db77": {
+      "text": "Char must die,\\nor I can't rest...!",
+      "status": "imported"
+    },
+    "voice_020:r_3328eef766ff2c2c": {
+      "text": "Haman's pressure\\nis intensifying...!",
+      "status": "imported"
+    },
+    "voice_020:r_23b037cf6ccc695c": {
+      "text": "Not Char's aura...\\nYet it's Char...!",
+      "status": "imported"
+    },
+    "voice_020:r_883ad1128d340c5e": {
+      "text": "Banagher!\\nOnly you can stop Unicorn!",
+      "status": "imported"
+    },
+    "voice_020:r_a9e6ed99025a703b": {
+      "text": "I've no time to deal with them...!",
+      "status": "imported"
+    },
+    "voice_020:r_cd4893b409472e97": {
+      "text": "When will we end\\nthis mad cycle?!",
+      "status": "imported"
+    },
+    "voice_020:r_5691cc71770ffdde": {
+      "text": "Can't you see\\nyou're being used...?!",
+      "status": "imported"
+    },
+    "voice_020:r_964e07c5563a5508": {
+      "text": "This won't take me down!",
+      "status": "imported"
+    },
+    "voice_020:r_db54e717bff3e3b2": {
+      "text": "Damn!\\nThey actually caught up to me!",
+      "status": "imported"
+    },
+    "voice_020:r_fcab8d80aef7e9d8": {
+      "text": "They're putting up a fight...!",
+      "status": "imported"
+    },
+    "voice_020:r_9747bd61ad23ecd3": {
+      "text": "What?! Was that a direct hit?!",
+      "status": "imported"
+    },
+    "voice_020:r_6823f8abe05c4727": {
+      "text": "There has to be another way!",
+      "status": "imported"
+    },
+    "voice_020:r_b8ccfd8b8ac323ac": {
+      "text": "If it moves, I can still fight!",
+      "status": "imported"
+    },
+    "voice_020:r_c885ff2097749991": {
+      "text": "My weapons still work!\\nI can fight!",
+      "status": "imported"
+    },
+    "voice_020:r_a8da7f8d8b705db0": {
+      "text": "Two dead monitors won't stop me...!",
+      "status": "imported"
+    },
+    "voice_020:r_02e1c5e19de5bd22": {
+      "text": "Power's stable!\\nI can do this!",
+      "status": "imported"
+    },
+    "voice_020:r_6fb823898811e210": {
+      "text": "This is bad. Any more damage...!",
+      "status": "imported"
+    },
+    "voice_020:r_5dcbcf1682cc3ab8": {
+      "text": "Good!\\nFew pilots are this skilled!",
+      "status": "imported"
+    },
+    "voice_020:r_5a20988e743dc1d0": {
+      "text": "I won't let them get any cockier!",
+      "status": "imported"
+    },
+    "voice_020:r_197f05bf899b7697": {
+      "text": "I couldn't do a thing...!",
+      "status": "imported"
+    },
+    "voice_020:r_623ee03bd91ab2a1": {
+      "text": "Sorry! I have to withdraw!",
+      "status": "imported"
+    },
+    "voice_020:r_c5c491f8761152f0": {
+      "text": "Damn! Is this as far as I go...?!",
+      "status": "imported"
+    },
+    "voice_020:r_15042263763f11bb": {
+      "text": "Good call. Fatigue breeds mistakes.",
+      "status": "imported"
+    },
+    "voice_020:r_96b3a8f080aea8b4": {
+      "text": "Rest well first. One word of advice.",
+      "status": "imported"
+    },
+    "voice_020:r_3d4fa015b8b31648": {
+      "text": "Tag battles need two-unit teamwork.",
+      "status": "imported"
+    },
+    "voice_020:r_c1f3167d7dd97543": {
+      "text": "Find a trusted ally or rival. Grow.",
+      "status": "imported"
+    },
+    "voice_020:r_1ac46173650ffe13": {
+      "text": "I'll await your return in battle.",
+      "status": "imported"
+    },
+    "voice_020:r_53660d6bc7fe8513": {
+      "text": "Good call. Fatigue breeds mistakes.",
+      "status": "imported"
+    },
+    "voice_020:r_2e756557a1d92e8b": {
+      "text": "Rest well first. I have good news.",
+      "status": "imported"
+    },
+    "voice_020:r_45d847e7b8d840e3": {
+      "text": "Aces trigger events in D-Trader...",
+      "status": "imported"
+    },
+    "voice_020:r_d2ebe8f28f2420cc": {
+      "text": "Play and find out. Until next time.",
+      "status": "imported"
+    },
+    "voice_020:r_3baa2292b050034a": {
+      "text": "Just\\none rock. Gundam,\\nshove it out!",
+      "status": "imported"
+    },
+    "voice_020:r_8a303240a87b1c7d": {
+      "text": "I'll stop their movement!",
+      "status": "imported"
+    },
+    "voice_020:r_69d009696527fa68": {
+      "text": "I'll hold them here!",
+      "status": "imported"
+    },
+    "voice_020:r_aeb9079d86e2a924": {
+      "text": "We attack in three seconds!",
+      "status": "imported"
+    },
+    "voice_020:r_bc4658630f8e40a9": {
+      "text": "Match my timing!",
+      "status": "imported"
+    },
+    "voice_020:r_92816afa2ba8a8c9": {
+      "text": "We'll take them down one by one!",
+      "status": "imported"
+    },
+    "voice_020:r_a29f58ecde5f7ddd": {
+      "text": "I'll lure them in!",
+      "status": "imported"
+    },
+    "voice_020:r_4069f7e9517c47e8": {
+      "text": "Target confirmed!",
+      "status": "imported"
+    },
+    "voice_020:r_2835a8af1c41be9b": {
+      "text": "I'll handle our sector!",
+      "status": "imported"
+    }
+  }
+}

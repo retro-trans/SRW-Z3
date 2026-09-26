@@ -1,0 +1,2014 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0095_04:r_caaab7bad760e16d": {
+      "text": "$$レズン$$\n「What happened to the Sleeves?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_99b162aa6aa286a2": {
+      "text": "$$ギュネイ$$\n「They're standing by in the rear to defend $$アクシズ$$」",
+      "status": "translated"
+    },
+    "stage0095_04:r_58fb02434a1c40b2": {
+      "text": "$$レズン$$\n「You're awfully on edge, Enhanced Human」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1c0f94acd5a8a143": {
+      "text": "$$ギュネイ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1263541f4071624e": {
+      "text": "$$レズン$$\n「Your princess is stuck in the rear,\n　all thanks to the Supreme Commander's favor.\n　Does that bother you?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3bc300bbdc277d82": {
+      "text": "$$レズン$$\n「Or is it that you can't forgive\n　what the Supreme Commander's trying to do?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_38762a09460d8b6b": {
+      "text": "$$ギュネイ$$\n「What about you, $$レズン・シュナイダー$$?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_7ab28e70b4d4f641": {
+      "text": "$$レズン$$\n「...Well, smashing the Earth to pieces\n　was more than I bargained for, I'll admit」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$レズン$$\n「But it's satisfying, isn't it, giving a shock\n　to people who think of colonists as nothing\n　more than their own servants?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ec335e69f984b8b3": {
+      "text": "$$ギュネイ$$\n「...So it's revenge, in other words.\n　Dragging in people who have nothing to do with the war...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0abcaf0c31978670": {
+      "text": "$$レズン$$\n「I heard about it.\n　Your parents, who lived in a colony...\n　died in the $$一年戦争$$, didn't they」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1d6bc48b7f246730": {
+      "text": "$$ギュネイ$$\n「So what?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1af20fccc3c53cfc": {
+      "text": "$$レズン$$\n「Don't get so angry, Enhanced Human」",
+      "status": "translated"
+    },
+    "stage0095_04:r_f951916061232dcd": {
+      "text": "$$ギュネイ$$\n「Trying to provoke me?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4d863c3fb88a4c39": {
+      "text": "$$レズン$$\n「No such thing.\n　Compared to before, you've become a better person, after all」",
+      "status": "translated"
+    },
+    "stage0095_04:r_44f4742c3dcce39a": {
+      "text": "$$ギュネイ$$\n「A better person...?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9e701cdeb3842c21": {
+      "text": "$$レズン$$\n「You're not that damn cocky elite anymore,\n　acting all high and mighty about being an Enhanced Human」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6fd81f4abebe60c5": {
+      "text": "$$レズン$$\n「Guess that $c of yours\n　was one comfortable place to be, huh」",
+      "status": "translated"
+    },
+    "stage0095_04:r_da2132b5038ec737": {
+      "text": "$$ギュネイ$$\n「...That's not true...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_495d61d3ec7e16f2": {
+      "text": "$$レズン$$\n「That's what makes you human.\n　...But don't think about anything extra.\n　They're the enemy」",
+      "status": "translated"
+    },
+    "stage0095_04:r_5cd353758cfe474d": {
+      "text": "$$ギュネイ$$\n「I know」",
+      "status": "translated"
+    },
+    "stage0095_04:r_a653c8dec4c0f06f": {
+      "text": "$$レズン$$\n「They'll be here soon」",
+      "status": "translated"
+    },
+    "stage0095_04:r_86d493e37a9799a7": {
+      "text": "$$ギュネイ$$\n（$c...）",
+      "status": "translated"
+    },
+    "stage0095_04:r_09d0fcc600cdd3df": {
+      "text": "$$マデューカス$$\n「We've confirmed $$アクシズ$$ and Neo Zeon」",
+      "status": "translated"
+    },
+    "stage0095_04:r_182faded068c15ed": {
+      "text": "$$マデューカス$$\n「Also, the Federation fleet led by Brigadier General\n　$$サイガス・エイロニー$$ appears to be watching the situation」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9c206d19bfda4bd5": {
+      "text": "$$テッサ$$\n「It seems they intend to let us handle Neo Zeon\n　while they preserve their own strength」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6e558bc69acf5bf3": {
+      "text": "$$テッサ$$\n「Or perhaps, depending on the situation,\n　they mean to wipe out both Neo Zeon and us\n　together...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d60d0818e965232f": {
+      "text": "$$カリーニン$$\n「$$ラー・カイラム$$ and $$ネェル・アーガマ$$\n　will be joining this ship as well」",
+      "status": "translated"
+    },
+    "stage0095_04:r_5b23687574286204": {
+      "text": "$$テッサ$$\n「Launch all units」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6fd86c96891ea942": {
+      "text": "$$マデューカス$$\n「Aye, ma'am!\n　All mobile units, launch!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_43e4e548c0b28376": {
+      "text": "$$ギュネイ$$\n「So you've come, $c」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d80a9688790ed583": {
+      "text": "$$カミーユ$$\n「$$ギュネイ$$...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_708bea61e3c43ada": {
+      "text": "$$ヒイロ$$\n「Is $$シャア・アズナブル$$ not out there?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_7b6f159eeaf4de0f": {
+      "text": "$$バナージ$$\n「Is $$シャア$$ really going to drop $$アクシズ$$ on Earth...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0827963cfd706e8d": {
+      "text": "$$キラ$$\n「We can only ask him for that answer」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$シン$$\n「That's exactly why we're crushing Neo Zeon!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3f4035fd9db81258": {
+      "text": "$$レズン$$\n「Look who's talking.\n　Treating us like the opening act!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_567b361a454c4b73": {
+      "text": "$$レズン$$\n「Here we go, $$ギュネイ$$!\n　I'll make those big mouths regret it!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d22851aaafbbf8fc": {
+      "text": "$$ギュネイ$$\n「Understood!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_352534f64413d954": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$... where are you...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_79f2664edb1af798": {
+      "text": "$$カツ$$\n「Let's do this, $$ハサウェイ$$!\n　If we don't survive, we can't see $$クェス$$ again!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$ハサウェイ$$\n「Yes!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1c5aa0d15ae24846": {
+      "text": "$$ブライト$$\n「Captain Testarossa, leave the rest to us.\n　Take the $$トゥアハー・デ・ダナン$$ to the rear」",
+      "status": "translated"
+    },
+    "stage0095_04:r_53bb64ee17750ee2": {
+      "text": "$$テッサ$$\n「No... we've trained again and again\n　for space combat, for this very day.\n　We won't be a burden」",
+      "status": "translated"
+    },
+    "stage0095_04:r_7a7add80fde475ba": {
+      "text": "$$テッサ$$\n「Above all, settling things with Neo Zeon here\n　is the unanimous will of this ship's crew」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b2befefdbed1393d": {
+      "text": "$$ブライト$$\n「Understood.\n　We're grateful for your ship's cooperation」",
+      "status": "translated"
+    },
+    "stage0095_04:r_2103f6df2ea2e447": {
+      "text": "$$ブライト$$\n「All units!\n　Hit the frontline forces and\n　drag $$シャア・アズナブル$$ out!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_a12e3e130d896ff7": {
+      "text": "$$ブライト$$\n「$$ネェル・アーガマ$$, $$トゥアハー・デ・ダナン$$,\n　follow the $$ラー・カイラム$$!\n　We're engaging in a fleet battle!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b6f7b219eb4bd64b": {
+      "text": "$$オットー$$\n「This is it, then...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_91bf33c27ad39f0a": {
+      "text": "$$レイアム$$\n「Are you ready, Captain?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ee220318b96ab538": {
+      "text": "$$オットー$$\n「Of course!\n　I too am a member of Londo Bell's... $c!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ce1b55e526b6277a": {
+      "text": "$$ティエリア$$\n「On Earth, the truth about $$エタニティ・フラット$$\n　will soon be made public」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c304df6888eb78f7": {
+      "text": "$$ロックオン$$\n「So by the time this battle's over,\n　every last human will be forced to choose their future」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c26958634526e597": {
+      "text": "$$アムロ$$\n「Mobile units, cover the ships!\n　Hit the enemy vessels and close in on $$アクシズ$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_cdb750c9d380881a": {
+      "text": "$$カミーユ$$\n「Understood!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_95fda74613c97b39": {
+      "text": "$$アムロ$$\n（I'm going to hear it, $$シャア$$...!\n　Your true intentions...）",
+      "status": "translated"
+    },
+    "stage0095_04:r_1956994937f8171e": {
+      "text": "$$アムロ$$\n（Your real goal!）",
+      "status": "translated"
+    },
+    "stage0095_04:r_48f49f6728c15612": {
+      "text": "$$ブライト$$\n「$c, begin the attack!\n　We settle things with Neo Zeon here!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ギュネイ$$\n「Damn it!\n　I'm sorry, $$クェス$$!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_f02c37d91387d0ad": {
+      "text": "$$カミーユ$$\n「$$ギュネイ$$...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$フォウ$$\n「It's all right, $$カミーユ$$.\n　He ejected safely」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9796b3efa401a303": {
+      "text": "$$カミーユ$$\n「I see...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_643b6eebfc0186b3": {
+      "text": "$$フォウ$$\n「Was he a friend?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_291280e5f7eb9d70": {
+      "text": "$$カミーユ$$\n「It's not that...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_32eb462c1b4999cb": {
+      "text": "$$カミーユ$$\n「But he was someone I couldn't ignore」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1f4337d6d393fc37": {
+      "text": "$$シン$$\n「You know how tough he is, don't you?\n　He's sure to be fine」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4740e748fae085ee": {
+      "text": "$$カミーユ$$\n「Yeah.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b76524cd840e1d37": {
+      "text": "$$ブライト$$\n「We've crushed the enemy's core strength.\n　The front line will collapse entirely now」",
+      "status": "translated"
+    },
+    "stage0095_04:r_730ffe18400abfc2": {
+      "text": "$$アムロ$$\n「It's coming...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ffe0fca26da5cd38": {
+      "text": "$$刹那$$\n「That man...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_bfb27f9eb2f7073e": {
+      "text": "$$アムロ$$\n「$$シャア$$...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_859dfa27bcaafe30": {
+      "text": "$$シャア$$\n「So this day has finally come...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_71ebf05996a4b0fd": {
+      "text": "$$五飛$$\n「Don't put on airs, $$シャア・アズナブル$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6214c11b1bca811e": {
+      "text": "$$ゼロ$$\n「A war to overthrow the Earth Federation Forces\n　controlled by Chrono... Even so,\n　we reject your methods!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_8eaf6f3098ffed12": {
+      "text": "$$シャア$$\n「That's nothing but a trivial goal」",
+      "status": "translated"
+    },
+    "stage0095_04:r_cf507214fe955d75": {
+      "text": "$$ゼクス$$\n「What!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_2113dcbabdfc758a": {
+      "text": "$$刹那$$\n「Then I'll have you tell me!\n　Your reason for starting this war!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ヒイロ$$\n「What meaning is there in a war\n　$$ガドライト・メオンサム$$ pulled the strings on...!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6a74519e1fc29c4b": {
+      "text": "$$シャア$$\n「...I started this war\n　so that humanity could overcome its wall」",
+      "status": "translated"
+    },
+    "stage0095_04:r_5b992878fee054b5": {
+      "text": "$$シャア$$\n「An Earth that lets itself be led along\n　by Geminis's scheme, choosing its own\n　self-destruction, has no future worth speaking of」",
+      "status": "translated"
+    },
+    "stage0095_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$キラ$$\n「Are you saying it's fine if humanity perishes?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4a14ec0c511c7f0d": {
+      "text": "$$シャア$$\n「This war is to find that out」",
+      "status": "translated"
+    },
+    "stage0095_04:r_20cf167c0ec0d4d5": {
+      "text": "$$シン$$\n「What kind of person are you!\n　Just who do you think you are!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b591d812c96c6c99": {
+      "text": "$$カミーユ$$\n「Is that something one single person gets to decide!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_e350fa099c1ab072": {
+      "text": "$$シャア$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0095_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$カミーユ$$\n「Answer me!\n　Do you call yourself $$シャア・アズナブル$$ and\n　think you've become the one who judges humanity!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c33bd700553abf91": {
+      "text": "$$カミーユ$$\n「Just what are you planning to do!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_feee5c91826230e1": {
+      "text": "$$シャア$$\n「I'm dropping $$アクシズ$$」",
+      "status": "translated"
+    },
+    "stage0095_04:r_bccc48e1964ad22d": {
+      "text": "$n\n「...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_f8736aaaa216c766": {
+      "text": "$$宗介$$\n「Just as Chidori said...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d1ec2522c87c361d": {
+      "text": "$$竜馬$$\n「Are you serious, man!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3599f0a4343fd95c": {
+      "text": "$$シモン$$\n「Do you get it!?\n　If something like that falls to Earth,\n　it'll be a disaster!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3bc7834a5bf3ee76": {
+      "text": "$$リディ$$\n「Even the direct impact alone dwarfs a Colony Drop!\n　It'll trigger disasters on the scale of natural catastrophes!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_366814efdc8b5800": {
+      "text": "$$バナージ$$\n「And dust and ash will be thrown up\n　into the upper atmosphere, blocking sunlight,\n　bringing an endless winter to the surface...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9be1a4c10bb62515": {
+      "text": "$$ロジャー$$\n「The whole global environment would change!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_94a88c90e557e16e": {
+      "text": "$$甲児$$\n「If that happens, Earth will become a dead planet!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1c208ca0cbf26f28": {
+      "text": "$$カミーユ$$\n「What for!?\n　Are you trying to break the Prison of Time\n　with the shock of the impact!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_5b7ee307a700171a": {
+      "text": "$$シャア$$\n「That's not it, $$カミーユ$$.\n　What I want is for humanity to advance\n　to its next stage」",
+      "status": "translated"
+    },
+    "stage0095_04:r_8d8f065c932da30a": {
+      "text": "$$カミーユ$$\n「What!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_f5432119677514f7": {
+      "text": "$$シャア$$\n「By moving the sphere of human life into space,\n　that sense expands, and in adapting to it,\n　they'll reach mutual understanding beyond misunderstanding...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4e5c8e989c4a7691": {
+      "text": "$$バナージ$$\n「The concept of... a Newtype...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_adec86483b13599a": {
+      "text": "$$シャア$$\n「That idea isn't limited to $$ＵＣＷ$$'s Newtypes.\n　The Innovators of $$ＡＤＷ$$, for example, are the same」",
+      "status": "translated"
+    },
+    "stage0095_04:r_2cf701bbcde3ec13": {
+      "text": "$$刹那$$\n「...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c17c58fdba72005e": {
+      "text": "$$シャア$$\n「That's not all.\n　Lost wild instinct, Element ability, Spiral Power,\n　such powers are humanity's new strength too」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1fe8564d2b959317": {
+      "text": "$$ワッ太$$\n「That ticks me off!\n　So folks like me and $$赤木$$, who don't have\n　that stuff, are just worthless, huh!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_f527e012803f7f1c": {
+      "text": "$$赤木$$\n「$$ワッ太$$'s right!\n　New power or whatever you call it,\n　what you're trying to do is just plain violence!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4b1247bd3ca4905d": {
+      "text": "$$五飛$$\n「You've gone too far, $$シャア・アズナブル$$!\n　You force your ideals onto the world, and\n　feel self-satisfied just for daring to wear that disgrace!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_00c55e25f87b71d0": {
+      "text": "$$グラハム$$\n「Neither the world nor we\n　have the slightest intention of humoring your ego!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_338f3b27e51dcc41": {
+      "text": "$$ゼクス$$\n「Why do you mean to walk the same path as $$トレーズ$$!\n　He told you to find another way, didn't he!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d91d4bc2d52b61c4": {
+      "text": "$$ゼロ$$\n「A man of your caliber,\n　why would you choose the same foolish means\n　as $$トレーズ$$ or I!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0c8ea89b07432421": {
+      "text": "$$ゼロ$$\n「No! Before that!\n　Why did you try to do something like this alone!?\n　You must have had comrades... allies!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4dbfba00ba7744ee": {
+      "text": "$$カミーユ$$\n「The world is bigger than you think!\n　Why did you try to carry it alone!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_be100a32b731708d": {
+      "text": "$$シャア$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0095_04:r_702f82442fcec8a9": {
+      "text": "$$アムロ$$\n「Is that because you're a singularity?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b1e38da4e8775ffe": {
+      "text": "$$桂$$\n「Wh...!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$タケル$$\n「$$シャア・アズナブル$$ is a singularity...!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$葵$$\n「What's that supposed to mean!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3dad695c99e9e052": {
+      "text": "$$ヒイロ$$\n「$$シャア$$...\n　Did you use the Zero System because\n　you harbored anxiety and fear toward the future?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_66d4ae3a21caf881": {
+      "text": "$$シャア$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0c18da7b3a37825d": {
+      "text": "$$アムロ$$\n「When did you realize you were a singularity?\n　Is that why you broke our ceasefire agreement,\n　deciding to change the world with your own power?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_63249745ffae61b6": {
+      "text": "$$シャア$$\n「...I have no intention of answering.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_abdb034ae8509702": {
+      "text": "$$アムロ$$\n「You bastard!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3ff2e21207d1d1d3": {
+      "text": "$$シャア$$\n「I'm counting on you, $$クェス$$.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_e51ecf6d6aa42e75": {
+      "text": "$$クェス$$\n「Colonel...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_47ddabb7b60131c2": {
+      "text": "$$シャア$$\n「Don't you trust me?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b025267f22788233": {
+      "text": "$$クェス$$\n「No...!\n　I decided to be the Colonel's strength!\n　To help carry even a little of what he bears!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ec1a06a7023bf72c": {
+      "text": "$$シャア$$\n「Good girl.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_8805f96e52aaa462": {
+      "text": "$$クェス$$\n「I'll avenge $$ギュネイ$$, just watch!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_124591cb154fae64": {
+      "text": "$$ハサウェイ$$\n「Stop it, $$クェス$$!\n　$$シャア$$ is using you as a tool of war!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$クェス$$\n「That's not true...!\n　I... believed the Colonel would change the world!\n　That's why I fight!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4bf9b05b5f948170": {
+      "text": "$$クェス$$\n「With this Alpha, the one the Colonel gave me!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_eaa52d152f444bfd": {
+      "text": "$$シャア$$\n「Then, let's begin...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b4bc9e9435b58e6f": {
+      "text": "$$葵$$\n「Not gonna happen, $$シャア・アズナブル$$!\n　Don't tell me you forgot we stopped\n　a falling moon before!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_a9227573166977a9": {
+      "text": "$$シモン$$\n「A hunk of rock like that? My drill will smash it!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b0600ab9a9e8559d": {
+      "text": "$$アムロ$$\n「Wait, everyone!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_7cbc63dad295f862": {
+      "text": "$$刹那$$\n「Captain $$アムロ$$...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_07f53c816e0a51f5": {
+      "text": "$$アムロ$$\n「First, I'll make $$シャア$$ tell us everything.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_2d09c6f6a2d990ea": {
+      "text": "$$テッサ$$\n「But, that would...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3c5fcfc484a51913": {
+      "text": "$$ブライト$$\n「...Very well, $$アムロ$$.\n　Then you're the one who'll stop $$シャア$$.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0476ffd10c764b0e": {
+      "text": "$$アムロ$$\n「Sorry, $$ブライト$$.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$ブライト$$\n「If you have time to apologize, hurry!\n　Before this becomes something we can't undo!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_2b3479c4cf0680f4": {
+      "text": "$$アムロ$$\n「Right...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_e370696b8936b08c": {
+      "text": "$$シャア$$\n「...It's because you're all there\n　that I can pull something like this off...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9d7b02c5e728b7aa": {
+      "text": "$$シャア$$\n「Here I come, $$アムロ$$... $c.\n　If you'd deny me, then stop me yourself.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9af213fc64e0afec": {
+      "text": "$$シン$$\n「Is fighting... the only way...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d7f1c506e78e55ff": {
+      "text": "$$バナージ$$\n「But, if that person really is a singularity...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0c705091f748360e": {
+      "text": "$$カミーユ$$\n「All the more reason!\n　We'll stop him right here!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9eb8599304125b2f": {
+      "text": "$$カミーユ$$\n「This ridiculous crusade to fix the world,\n　trying to carry it all on his own,\n　I'll stop it all and repair spacetime!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_a072aa25e5f521e0": {
+      "text": "$$シャア$$\n「That's right, $$カミーユ$$!\n　But as long as I go by $$シャア・アズナブル$$,\n　I'm not the man you knew!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_24e1a808a1609a1a": {
+      "text": "$$シャア$$\n「Even this 'ridiculous' act, I've resolved myself to it!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_53128ce8f154fd06": {
+      "text": "$$ブライト$$\n「All units, target Neo Zeon Supreme Commander $$シャア・アズナブル$$!\n　Stop him and bring the whole truth to light!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_03b5db9ce98fb8d6": {
+      "text": "$$アムロ$$\n「Here I come, $$シャア$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3915fb4102f1c1dd": {
+      "text": "$$シャア$$\n「Let's settle this!\n　To my own past... and to this world's future!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_817b2773b4ed563e": {
+      "text": "$$シャア$$\n「If you can't even beat someone like me,\n　know that despair awaits you!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1cc233cbc8c80af7": {
+      "text": "$$アムロ$$\n「It's over, $$シャア$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$シャア$$\n「Gh...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_e180b22d18f48d38": {
+      "text": "$$クェス$$\n「I won't let you touch the Colonel, $$アムロ$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_e598c2a0b27e7f50": {
+      "text": "$$アムロ$$\n「I don't have time for children!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4d2a9066c4e7b27f": {
+      "text": "$$クェス$$\n「Ahh!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_10340119af3ed6db": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_23a9c7ab620ab112": {
+      "text": "$$カツ$$\n「It's alright, Hasa.\n　$$クェス$$ has ejected.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4f0aca6deda07883": {
+      "text": "$$ハサウェイ$$\n（$$クェス$$... please, don't fight anymore...\n　You shouldn't be doing something like this...）",
+      "status": "translated"
+    },
+    "stage0095_04:r_8fe40600ce62dfbc": {
+      "text": "$$ゼロ$$\n「Running away, $$シャア・アズナブル$$!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ff4ce5f3cf96b617": {
+      "text": "$$ゼクス$$\n「You will take responsibility for this war!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d73c21f119847e35": {
+      "text": "$$アムロ$$\n「$$シャア$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_89766f5ffaa912d4": {
+      "text": "$$カミーユ$$\n「$$シャア・アズナブル$$...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$リディ$$\n「What a sorry sight...!\n　That's the man they called the Red Comet!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_451f726d4299ea35": {
+      "text": "$$バナージ$$\n「Does this mean... the war with Neo Zeon is finally over...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_e3d111e8bb190cb1": {
+      "text": "$$エマ$$\n「Watch out!\n　$$アクシズ$$ is speeding up!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$ファ$$\n「The fighting still isn't over...!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ab97c2b2418ea732": {
+      "text": "$$アムロ$$\n「A sinister aura... it's coming!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_2ddff5064af78db4": {
+      "text": "$$カミーユ$$\n「That's...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_050d0532c4b24bfe": {
+      "text": "$$バナージ$$\n「$$フル・フロンタル$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d583fcea31bdad2e": {
+      "text": "$$フロンタル$$\n「So, the Supreme Commander has fled...\n　After all, for him, the name $$シャア・アズナブル$$...\n　the Red Comet, must have been too heavy.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_475f7653621a91b5": {
+      "text": "$$アムロ$$\n「You...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_f228ae702350849b": {
+      "text": "$$フロンタル$$\n「The name of the Red Comet, hope of Zeon\n　and the Spacenoids, I shall inherit it myself.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d69dc027cba3003f": {
+      "text": "$$フロンタル$$\n「And I will let $$アクシズ$$ fall to the earth.\n　That is the world's true, rightful form.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3c3735172a480b72": {
+      "text": "$$バナージ$$\n「What!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1f418b5594cea300": {
+      "text": "$$アムロ$$\n「No way...!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_f87fb889124bfaef": {
+      "text": "$$フロンタル$$\n「That's exactly it, $$アムロ$$.\n　I am the same as the Supreme Commander.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_79c90de32a79212d": {
+      "text": "$$アムロ$$\n「$$フル・フロンタル$$!\n　You're a singularity too!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_33f7fd55913419e8": {
+      "text": "$$バナージ$$\n「Wh...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_473d9a88b4ca96e7": {
+      "text": "$$カミーユ$$\n「$$フル・フロンタル$$ too... a singularity...!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4de6ac85c63bac12": {
+      "text": "$$桂$$\n「Two singularities...\n　Just like me and $$オルソン#50$$...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4c92652c9b1adf6f": {
+      "text": "$$アムロ$$\n「Now I understand...!\n　What $$シャア$$'s plan really means...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ce90563a934d49fb": {
+      "text": "$$アムロ$$\n「A great branch point in history,\n　the origin of the $$新世時空震動$$...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4fb296e63cb1fb46": {
+      "text": "$$アムロ$$\n「The Great Singularity is $$アクシズ$$!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$フロンタル$$\n「Now, let us begin, $c...\n　This is humanity's turning point.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9dc59affd40f32fc": {
+      "text": "$$レズン$$\n「Damn it!\n　Is this as far as I go!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0cea115be526a319": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$!\n　You shouldn't be riding a machine made for war like this!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d36072babd12aeb4": {
+      "text": "$$クェス$$\n「Get away, Hasa!\n　Or else...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_09ee921a85025fd3": {
+      "text": "$$ハサウェイ$$\n「No, $$クェス$$!\n　That's exactly why you make enemies!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_fae689f2a1057b61": {
+      "text": "$$クェス$$\n「You're still saying that!\n　I decided to trust the Colonel and fight!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_91c6d0bb53854ecc": {
+      "text": "$$ハサウェイ$$\n「Open the hatch, $$クェス$$!\n　See my face, and you'll forget all that frustration!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_42a3149105314ab8": {
+      "text": "$$クェス$$\n「I hate kids!\n　They're so pushy!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_62ecd978c667bd29": {
+      "text": "$$ハサウェイ$$\n「You're a kid too!\n　And so is $$シャア$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d441e6cc908ac01b": {
+      "text": "$$クェス$$\n「Huh...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b2aab8873350ea1f": {
+      "text": "$$ハサウェイ$$\n「As if any real adult would wage a war!\n　Don't listen to someone like that, $$クェス$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_2c7af4c55d8ac938": {
+      "text": "$$クェス$$\n「Sh-shut up!!\n　Shut up!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_653b741d07545dff": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d584d4b5af55b1cf": {
+      "text": "$$カツ$$\n「$$ハサウェイ$$!\n　Get away from that Mobile Armor!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_db0ee69ece206fcd": {
+      "text": "$$ハサウェイ$$\n「But...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_f97e6925c9e37332": {
+      "text": "$$フォウ$$\n「That unit is amplifying her urge to attack!\n　As long as she's piloting it, she'll keep fighting!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_422861e0b8d77d0c": {
+      "text": "$$カミーユ$$\n「We'll destroy that Mobile Armor!\n　If you want to save $$クェス$$, that's the only way!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ef16bcaa2b0e0c45": {
+      "text": "$$ハサウェイ$$\n「Understood!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_2b93cca10f1c36a8": {
+      "text": "$$アムロ$$\n「$$シャア$$!\n　Giving children a tool to kill with!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_7980fd37141d88d0": {
+      "text": "$$アムロ$$\n「Do you want to repeat $$ララァ$$'s tragedy!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ac21212c36d2b9ad": {
+      "text": "$$シャア$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0095_04:r_a26e2108358af7a4": {
+      "text": "$$アムロ$$\n「Have you really sunk to such a pathetic man\n　who can't even talk back, $$シャア$$!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_a8118b2e37aa1382": {
+      "text": "$$クェス$$\n「I'm sorry, Colonel!!\n　I'm falling back!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_017a56991b7b8ca4": {
+      "text": "$$ハサウェイ$$\n（$$クェス$$... please, don't fight anymore...\n　You shouldn't be doing something like this...）",
+      "status": "translated"
+    },
+    "stage0095_04:r_ad3e1db3419665fb": {
+      "text": "$$クェス$$\n「Ahh!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0149e3a5f2e5ef78": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3ad10e705167a3fa": {
+      "text": "$$カツ$$\n「It's alright, Hasa.\n　$$クェス$$ has ejected.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_bdc546b199c80996": {
+      "text": "$$ハサウェイ$$\n（$$クェス$$... please, don't fight anymore...\n　You shouldn't be doing something like this...）",
+      "status": "translated"
+    },
+    "stage0095_04:r_22c8caf8c08c5119": {
+      "text": "$$ギュネイ$$\n「I'll settle this here, $$カミーユ$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9c13714b3efbc7a8": {
+      "text": "$$カミーユ$$\n「$$ギュネイ$$!\n　Still going on about that...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_96f156e19b53fc09": {
+      "text": "$$ギュネイ$$\n「The Colonel has nothing to do with this anymore!\n　By surpassing a man like you, I'll break free\n　from the doubt inside me!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_feb0390bba7fe1fb": {
+      "text": "$$カミーユ$$\n「Hearing you say something like that,\n　I can't afford to lose even more!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_8a78bcec22029401": {
+      "text": "$$カミーユ$$\n「Wake up, $$ギュネイ$$!\n　Earth doesn't have room for us to keep fighting like this!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_f42017dfce31dea9": {
+      "text": "$$シン$$\n「Get out of the way, $$ギュネイ$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ef7426919f628d8a": {
+      "text": "$$ギュネイ$$\n「Like I'd let you through, $$シン$$!\n　I'll be the one to stop you!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9e994a4b926d9906": {
+      "text": "$$シン$$\n「What's the point of a fight like this!\n　You should already know about\n　$$エタニティ・フラット$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ffae76d2a77abf5a": {
+      "text": "$$ギュネイ$$\n「I've staked everything on the Colonel...!\n　I'm sure he has a plan to turn\n　this whole situation around!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3ac462d37e5893ff": {
+      "text": "$$シン$$\n「Then I'll hear that magic trick\n　straight from the man himself!\n　By breaking through right here!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_fd6bdf7910d7d925": {
+      "text": "$$クェス$$\n「$$アムロ$$!\n　I won't let you get in the Colonel's way!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d38be46e6cd7a5e5": {
+      "text": "$$アムロ$$\n「This isn't a place for kids!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3fe2078328753c16": {
+      "text": "$$クェス$$\n「If you're going to treat me like a kid like that,\n　then act like a proper adult!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c66844158d1ce600": {
+      "text": "$$アムロ$$\n「...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d037ecbc1e348dc9": {
+      "text": "$$クェス$$\n「You and the Colonel are both so selfish!\n　Not caring at all about anyone around you,\n　just getting worked up on your own!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_bcd53d14c4785426": {
+      "text": "$$アムロ$$\n「You might be right, $$クェス$$...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9ca55ea7feca954a": {
+      "text": "$$クェス$$\n「$$アムロ$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_554ae12c4c170253": {
+      "text": "$$アムロ$$\n「That's exactly why I have to\n　hear the truth from him!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_fa59c6df081e6ae4": {
+      "text": "$$アムロ$$\n「I'm getting through here, $$クェス$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ca3edf3b8b52aedf": {
+      "text": "$$クェス$$\n「Move it, Hasa!\n　Now even you're getting in my way!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_aa5d235c78ebe19f": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$!\n　Right now, I'm taking away your power to fight!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0b3b19cddb871f90": {
+      "text": "$$ハサウェイ$$\n「Everything else comes after that!\n　The Earth, and us too, none of it can end yet!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_304e98dac43c9333": {
+      "text": "$$ワッ太$$\n「Stop it, Captain $$クワトロ$$!\n　I don't want to fight you!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b740d817a14afd3a": {
+      "text": "$$シャア$$\n「Right now, I am $$シャア・アズナブル$$.\n　I'm no longer the $$クワトロ・バジーナ$$ you knew.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_40e4c010d1b35b4c": {
+      "text": "$$ワッ太$$\n「Being told that, you think I could just\n　nod along and say 'oh, okay'!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c33abf00683a32bc": {
+      "text": "$$ワッ太$$\n「You're just too selfish, Captain!\n　As long as it works out for you, you\n　don't care how anyone else feels, do you!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3036adce91d1f4a8": {
+      "text": "$$シャア$$\n「I'm sorry...\n　But...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_019293cb83599509": {
+      "text": "$$ワッ太$$\n「Don't make excuses!\n　I never wanted to see a Captain like\n　that!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9b949b9281aaeef1": {
+      "text": "$$ワッ太$$\n「Captain, please always be\n　the cool grown-up you've always been!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b39a1dd705fe6cbf": {
+      "text": "$$タケル$$\n「Please stop, Captain $$クワトロ$$!\n　I can feel your anguished resolve\n　coming through your machine!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c9016e3ab05470b0": {
+      "text": "$$シャア$$\n「I see, $$タケル$$.\n　So your power to sense an opponent's\n　will is something like a Newtype's.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_a684e6cea428e518": {
+      "text": "$$シャア$$\n「But that alone won't let anyone move\n　forward! Think about what you yourself\n　should do about the will you sensed!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_cf907a4d5de8b5c9": {
+      "text": "$$タケル$$\n「...I already know that answer...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_a5774604a0f00702": {
+      "text": "$$シャア$$\n「Then come!\n　Fight me for what you believe in!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b4fa30f33e84207f": {
+      "text": "$$タケル$$\n「Captain $$クワトロ$$... no, $$シャア・アズナブル$$!\n　My fight is to stop you!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9133b7e0b34de48f": {
+      "text": "$$タケル$$\n「To protect the lives of everyone\n　living on Earth, I will fight you!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4ae9c4bd77494c4a": {
+      "text": "$$正太郎$$\n「Captain $$クワトロ$$...!\n　I...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_7313331f4077d255": {
+      "text": "$$シャア$$\n「$$正太郎$$!\n　No matter who the opponent is, showing\n　no mercy to evil is who you are!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_a84ab0c3c1ba44d4": {
+      "text": "$$シャア$$\n「Stay true to your own justice!\n　That's what I want for you too!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_414e6e90094d1413": {
+      "text": "$$正太郎$$\n「But...!\n　But I don't want to fight you!\n　Are you really evil, Captain $$クワトロ$$!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_83a9e41e15444c69": {
+      "text": "$$シャア$$\n「Find that out for yourself!\n　By fighting me!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_09227dec2bd6f4d8": {
+      "text": "$$正太郎$$\n「...Let's do this, $$鉄人$$!\n　We'll stop Captain $$クワトロ$$ together!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_7b3a37f5039eb1f6": {
+      "text": "$$正太郎$$\n「And we'll find out!\n　What the Captain is fighting for!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_cb6d9ee71c24b042": {
+      "text": "$$シャア$$\n「Seems I need no extra words with you.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ddd97a6ef823929a": {
+      "text": "$$キリコ$$\n「If that's what you want, I'll take you on.\n　I'm sick to death of fighting.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_df349052cd9cdd0c": {
+      "text": "$$シャア$$\n「That's fine, $$キリコ$$.\n　I feel the same way.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_a7ce9f908380694c": {
+      "text": "$$シャア$$\n「That's exactly why I'll overcome it...!\n　Causality... a fate someone else decided!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_de3cc1f733dcb073": {
+      "text": "$$桂$$\n「You're too serious, Captain $$クワトロ$$!\n　You're shouldering the singularity's burden\n　all on your own way too much!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0835ec3fff318aff": {
+      "text": "$$シャア$$\n「Coming from you, I have no reply.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c32efc7394910997": {
+      "text": "$$桂$$\n「Don't screw around!\n　Weren't Captain $$アムロ$$ and the rest of\n　us good enough to talk to!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b01db8213417811e": {
+      "text": "$$桂$$\n「And another thing!\n　Whatever future you glimpsed during the\n　$$新世時空震動$$, you'll pay for choosing war!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_bc0273c6ae91c929": {
+      "text": "$$シャア$$\n「Whatever others may say of me, I believe\n　I did everything I could. That much,\n　at least, I'll say with pride.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_8deea7c70d7a76e7": {
+      "text": "$$シャア$$\n「That's why I cannot retreat!\n　I will drop $$アクシズ$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_660c72e627d873c7": {
+      "text": "$$桂$$\n「So it's our pride against yours, is it!\n　Then there's no way I'm backing down\n　either!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_5d8b67b5bd8ce190": {
+      "text": "$$桂$$\n「This isn't some trick played on us by\n　someone else this time! If we're both\n　serious, I can't afford to lose either!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_7cf3c91395139f5c": {
+      "text": "$$カミーユ$$\n「Captain $$クワトロ$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6ccd85652ef4ccf1": {
+      "text": "$$シャア$$\n「Still calling me by that name!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_fbe7bf7d854012a7": {
+      "text": "$$カミーユ$$\n「Don't get the wrong idea, $$シャア・アズナブル$$!\n　This is so I can break away from you!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1f438885dbc1359e": {
+      "text": "$$シャア$$\n「$$カミーユ$$...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_2e59226caa35f6e5": {
+      "text": "$$カミーユ$$\n「Even if the reason you rose up\n　is that you glimpsed a future of despair...\n　No, that's exactly why I can't forgive you!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_5d7a3adb077ad934": {
+      "text": "$$カミーユ$$\n「Why didn't you tell us about that!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_78d3b2a75e38d6f7": {
+      "text": "$$シャア$$\n「That's...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_8d461de418389bf8": {
+      "text": "$$カミーユ$$\n「If you had, we might have found some\n　way other than starting a war!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_5cb2acefa1e7c7fb": {
+      "text": "$$カミーユ$$\n「You haven't changed since you were the Red\n　Comet of the $$一年戦争$$! Moving alone, just\n　for your own ends...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_59ce7fd9524ec8be": {
+      "text": "$$カミーユ$$\n「Don't think you can change the world\n　that way, $$シャア・アズナブル$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_33f67c683bda9203": {
+      "text": "$$シャア$$\n「...You're right, $$カミーユ$$.\n　Perhaps I overestimated myself...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_476fb20ab9d18957": {
+      "text": "$$カミーユ$$\n「That's why I'll show you!\n　That you're powerless!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6be0d6139fac197c": {
+      "text": "$$シャア$$\n「But I have pride of my own!\n　I still cannot afford to lose to you!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_df899b8031b4ca06": {
+      "text": "$$カミーユ$$\n「Here I come, $$シャア$$!\n　Hand over the mission you've been\n　carrying, to us as well!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c5d048c7db7cac75": {
+      "text": "$$シャア$$\n「So this moment has finally come, $$アムロ$$...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_308e8ac66b1141ef": {
+      "text": "$$アムロ$$\n「I understand now...!\n　You mean to settle things with me\n　to break free of your past!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_64f25294d71a5d55": {
+      "text": "$$シャア$$\n「As one who has seen a future of despair,\n　I must guide humanity...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b6ca80db4741a62c": {
+      "text": "$$シャア$$\n「But before that, $$アムロ$$...!\n　I'll defeat you, and surpass the man\n　I've been until now!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_432a29155221625f": {
+      "text": "$$アムロ$$\n「Don't get so full of yourself, $$シャア$$!\n　Humanity's future isn't light enough\n　for one man alone to carry!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9f7c18d1ea1b55c9": {
+      "text": "$$シャア$$\n「Then do you have the resolve to shoulder\n　it together with me!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_56688ad8e41b7b42": {
+      "text": "$$アムロ$$\n「I'm saying the very idea that one person\n　should carry the world is arrogance itself!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_34a510533cb8a9f5": {
+      "text": "$$アムロ$$\n「Each person's future belongs to them alone!\n　All we can do is protect it!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1afedc9fa466f321": {
+      "text": "$$シャア$$\n「Heh...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9547b3241808695f": {
+      "text": "$$アムロ$$\n「What's so funny?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_32b2a8ce24deeb9f": {
+      "text": "$$シャア$$\n「Hearing you say those words,\n　I can go back to being just one man...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c7ef92060bb8199d": {
+      "text": "$$シャア$$\n「Let's settle this, $$アムロ$$!\n　This is the last battle between us!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1be6d12f616f04e4": {
+      "text": "$$アムロ$$\n「$$シャア$$!\n　I'm the one who'll stop you!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_80f948aeaed93de8": {
+      "text": "$$ヒイロ$$\n「$$シャア・アズナブル$$...\n　You're trapped by the future $$ゼロ$$ showed you.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0d24e9726dcc79f9": {
+      "text": "$$シャア$$\n「The future can be changed.\n　I fight because I believe that.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_da648116badd491a": {
+      "text": "$$ヒイロ$$\n「But no one has the right to make\n　someone else unhappy for that.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4e91ccecf1dd0f66": {
+      "text": "$$シャア$$\n「Then tell me, $$ヒイロ$$...!\n　How can I possibly lead every last\n　person to happiness!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_668b7114a3ac1d77": {
+      "text": "$$ヒイロ$$\n「That's not for you or me to decide.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ef339c6f71e7560f": {
+      "text": "$$ヒイロ$$\n「What we should do is eliminate unhappiness...\n　the enemies of peace.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ce68dd10a19e01ea": {
+      "text": "$$シャア$$\n「...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_13ce8d4e4858b193": {
+      "text": "$$ヒイロ$$\n「$$シャア・アズナブル$$...\n　We will stop you with our own hands...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_075101b23517fbaa": {
+      "text": "$$シン$$\n「Captain $$クワトロ$$!\n　I'll keep the promise from that day, now!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_13c2ae299018c9ee": {
+      "text": "$$シャア$$\n「$$シン$$...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6f4f8dd80820f5e7": {
+      "text": "$$シン$$\n「That worst future we saw on the Moon that day...\n　If Captain $$アムロ$$ and you ever fought,\n　$$カミーユ$$ and I swore we'd stop you...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_afa513b4815df4c9": {
+      "text": "$$シャア$$\n「I am $$シャア・アズナブル$$ now...\n　Not $$クワトロ・バジーナ$$.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6cf1e5ed68d98bd4": {
+      "text": "$$シン$$\n「...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_e62eb587b8d34cb9": {
+      "text": "$$シャア$$\n「But I'm grateful for your feelings.\n　You've grown strong, $$シン$$.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d72cc2c0739c9088": {
+      "text": "$$シン$$\n「I'll stop you with that strength!\n　That's how I'll repay you for guiding me!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ecf4e1c8c0f8d2d7": {
+      "text": "$$シン$$\n「Here I come, $$シャア・アズナブル$$!\n　I'll stop you and end this war!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_e5a692ea5ce09cac": {
+      "text": "$$キラ$$\n「Captain $$クワトロ$$!\n　Even if you have your own way of doing\n　things, we won't accept it!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_e793fc3ce3a0c28d": {
+      "text": "$$シャア$$\n「I knew you'd surely say that.\n　That's why I rose as $$シャア・アズナブル$$.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_2be6c657d0e12c4b": {
+      "text": "$$シャア$$\n「And $$キラ$$... you should understand.\n　That there are things that won't bend,\n　no matter what anyone says.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_f89f6c6c4b076e16": {
+      "text": "$$キラ$$\n「But, I...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_7569f965fff4d791": {
+      "text": "$$キラ$$\n「I've learned just how dangerous that is!\n　Acting without ever using words fully\n　only breeds needless conflict!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b43bdba9393d4d68": {
+      "text": "$$キラ$$\n「Tell me your true intentions... your\n　feelings! Showing strength alone\n　changes nothing!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3ec159d1a3492877": {
+      "text": "$$シャア$$\n「If you understand that much, there's\n　nothing left to worry about.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4e2fbafa9ebef558": {
+      "text": "$$キラ$$\n「Captain $$クワトロ$$...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_bde2e27bac7e3317": {
+      "text": "$$シャア$$\n「I've already told you my feelings...!\n　All that's left is for our resolve\n　to clash by force!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_631834aa1545ba7b": {
+      "text": "$$シャア$$\n「Come, $$キラ$$!\n　If you have something you believe in,\n　then stop me!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0cd6aab432ee5af7": {
+      "text": "$$キラ$$\n「I won't hesitate anymore...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c8b75f3bca245a85": {
+      "text": "$$キラ$$\n「I will stop you, Captain $$クワトロ$$!\n　That's the fight I believe in!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b26be73e3c0c8bed": {
+      "text": "$$刹那$$\n「$$シャア・アズナブル$$!\n　What are you thinking!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1a4dc288e81719ee": {
+      "text": "$$シャア$$\n「$$刹那$$...\n　If you too have awakened as an Innovator,\n　you should be able to sense my will.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b8902c992035da79": {
+      "text": "$$刹那$$\n「That's not the issue!\n　I want to hear the truth from your\n　own mouth!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_df10ad0a71c307da": {
+      "text": "$$シャア$$\n「What...?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9293c52555ba1457": {
+      "text": "$$刹那$$\n「Knowing something and understanding each\n　other aren't the same! Tell me in your\n　own words why you did this!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6c41647935e2574a": {
+      "text": "$$シャア$$\n「I'm glad a man like you is the\n　First Innovator.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ca702b5726ebd4da": {
+      "text": "$$刹那$$\n「You...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_51ce1d8caa34c103": {
+      "text": "$$シャア$$\n「$$刹那・Ｆ・セイエイ$$.\n　You're just like $$アムロ$$.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d00313056b19262c": {
+      "text": "$$シャア$$\n「The way you live your life will guide\n　humanity. So live as you see fit.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d41f1e36365baa6f": {
+      "text": "$$刹那$$\n「My feelings... they're...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_2c37dd5b8f919a88": {
+      "text": "$$刹那$$\n「People coming to understand each other\n　through dialogue, and building a world\n　without war...! That's why I'll stop you!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_53f5199f05a9aad8": {
+      "text": "$$バナージ$$\n「Do you really think the world will\n　change through methods like this!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c6937f14a8985c35": {
+      "text": "$$シャア$$\n「A boy who pilots the Unicorn...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_07513334490fbdf9": {
+      "text": "$$バナージ$$\n「Answer me!\n　Will you destroy Earth as Zeon,\n　the Spacenoids' god!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d90c4affdd742a0e": {
+      "text": "$$シャア$$\n「It's not the existence called Zeon that\n　is a god. It's the potential within someone\n　who finds hope that changes fate... the future...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_082a55c75a163780": {
+      "text": "$$シャア$$\n「That is what a god is.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_fa09fad95980b867": {
+      "text": "$$バナージ$$\n「Only humans possess gods...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_f5507082e5c31362": {
+      "text": "$$シャア$$\n「It seems you understand that.\n　It's to a human like that the Unicorn\n　ought to have been entrusted.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3c9956c9d519d2a2": {
+      "text": "$$バナージ$$\n「Don't try to dodge the question!\n　What I want to know is...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d150caab246bbd7a": {
+      "text": "$$シャア$$\n「Find the rest of that answer yourself...!\n　If you want a new era!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d23d30b65284f69d": {
+      "text": "$$バナージ$$\n「If that lies beyond stopping you...!\n　Then I...!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b2f67d46499f2bbd": {
+      "text": "$$葵$$\n「I'm disappointed, Captain $$クワトロ$$.\n　I thought you were a smarter grown-up\n　than this.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_fc1b13eaa4071b9a": {
+      "text": "$$シャア$$\n「You overestimate me.\n　I've only ever done my desperate best.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c4cdd41ba9207e9c": {
+      "text": "$$葵$$\n「So this fight is your answer, huh.\n　Then we'll deny it, head-on!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c33c28fb471faf59": {
+      "text": "$$シャア$$\n「So that's the conclusion your instincts\n　reached. ...But perhaps I wanted that\n　too.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d0fc4899507f74b2": {
+      "text": "$$葵$$\n「Spare me the speech, Captain!\n　I'm sure what you're doing is right,\n　seen from some angle!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_11f13ec5326eaa51": {
+      "text": "$$葵$$\n「All that's left is you and us, Captain...\n　and who wins!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b69df689192adfc2": {
+      "text": "$$シャア$$\n「So your instincts have caught fire...!\n　Come at me, Team D!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_8a9ac301023aa8d3": {
+      "text": "$$葵$$\n「Here we come, Captain!\n　With everything we've got...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_e4ae97a37c9b0cce": {
+      "text": "$$葵$$\n「Let's do this!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4cab8ba7b88b6c2a": {
+      "text": "$$バサラ$$\n「War's a stupid waste of time!\n　You must know that too!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_38f89a2d27debb9e": {
+      "text": "$$シャア$$\n「I suppose I'm the clown who has no\n　choice but to do that stupid thing.」",
+      "status": "translated"
+    },
+    "stage0095_04:r_20aab898d4d14e51": {
+      "text": "$$バサラ$$\n「That's ridiculous!\n　What's the point of forcing yourself\n　to do something you don't want to do!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_e418ba9e04898c28": {
+      "text": "$$バサラ$$\n「Your soul isn't something you burn\n　for a thing like that, is it!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_88461d9fd17c56e7": {
+      "text": "$$シャア$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0095_04:r_f79b2ac118e41c1a": {
+      "text": "$$バサラ$$\n「Heh... looks like you're out of comebacks」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d7bf635b7e5f811c": {
+      "text": "$$シャア$$\n「Anything I say now would only sound like\n　an excuse, in front of you」",
+      "status": "translated"
+    },
+    "stage0095_04:r_24cb831c779807fd": {
+      "text": "$$バサラ$$\n「Then here I go!\n　$$シャア・アズナブル$$!\n　I'll burn your Soul away!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3f9082480d045564": {
+      "text": "$$バサラ$$\n「Liiisten to my soooong!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_312a78dfbb065f65": {
+      "text": "$$シャア$$\n「A fine song...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9f17991d2b19374c": {
+      "text": "$$アルト$$\n「Captain $$クワトロ$$!\n　You betrayed us!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9bf1948e282e5587": {
+      "text": "$$シャア$$\n「You and I simply chose different paths!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_67c9e002d64d9781": {
+      "text": "$$アルト$$\n「That's not what I mean!\n　What you betrayed was our trust!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_cb5e5d90104f7a88": {
+      "text": "$$シャア$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0095_04:r_34f8d5cbd504c416": {
+      "text": "$$アルト$$\n「No matter what happened,\n　I never thought you'd choose\n　a path like war...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_8246cdac0973a25f": {
+      "text": "$$アルト$$\n「And yet...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0a597f4cd9c8309b": {
+      "text": "$$シャア$$\n「Then what will you do?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_fc7afc4ebf9fd013": {
+      "text": "$$アルト$$\n「Obviously!\n　I'll stop you myself!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_833975ddd032dd18": {
+      "text": "$$シャア$$\n「Let's see if you can, $$アルト$$!\n　Even your wings won't catch me easily!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1608d4c4d3f78b24": {
+      "text": "$$アルト$$\n「I'll do it!\n　To protect the lives of everyone living on Earth!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_149109e3b1cf253b": {
+      "text": "$$アルト$$\n「Are you ready, Captain $$クワトロ$$!\n　I'm dead serious!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1de04d77f1060720": {
+      "text": "$$竜馬$$\n「Enough talk, Red Comet!\n　Let's just show each other through action!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ffee8be5e866ae97": {
+      "text": "$$シャア$$\n「Heh... quick to the point」",
+      "status": "translated"
+    },
+    "stage0095_04:r_bc2050dd9e12f5a4": {
+      "text": "$$竜馬$$\n「Even with Earth on the line in this huge fight,\n　I'm getting pumped up!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_e5de816af15aeaec": {
+      "text": "$$シャア$$\n「With you as my opponent, it seems\n　I'll have to give it everything I've got」",
+      "status": "translated"
+    },
+    "stage0095_04:r_5149abbbcbee6ee4": {
+      "text": "$$シャア$$\n「But don't think that even Getter\n　can shatter my resolve so easily!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_bedf0f18c13c0a97": {
+      "text": "$$竜馬$$\n「Here I come, $$シャア・アズナブル$$!\n　I'll beat you down to settle this war!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_56d65b2dba1b5061": {
+      "text": "$$竜馬$$\n「With everything Getter and I have got!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_31865d3496c34d8b": {
+      "text": "$$甲児$$\n「Captain $$クワトロ$$!\n　Stop this fight right now!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_7d1683c9b3b3094a": {
+      "text": "$$シャア$$\n「And if I said I couldn't do that,\n　what would you do?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_2249da179abb6501": {
+      "text": "$$甲児$$\n「Obviously!\n　Even against you, I'll fight to protect Earth!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3f3b91470236b2a8": {
+      "text": "$$シャア$$\n「I see. As I thought」",
+      "status": "translated"
+    },
+    "stage0095_04:r_490618028b4c53d6": {
+      "text": "$$甲児$$\n「What do you mean!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1a6f62daa82363ae": {
+      "text": "$$シャア$$\n「A man like you... even if the world changes,\n　your true nature never wavers...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6b6dd25816c18fc5": {
+      "text": "$$シャア$$\n「I love the heart in you that hates evil」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9d80dc88f241858b": {
+      "text": "$$甲児$$\n「I've had enough of you talking like you know it all!\n　Being a singularity doesn't make you a god!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_23cb7be357e8a4e0": {
+      "text": "$$甲児$$\n「If you want a fight that badly,\n　Mazinger and I will be your opponents!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_60cd511150394b50": {
+      "text": "$$シャア$$\n「That's how it should be, $$兜甲児$$」",
+      "status": "translated"
+    },
+    "stage0095_04:r_33e42009af9a0b54": {
+      "text": "$$赤木$$\n「Captain $$クワトロ$$!\n　Youuuu!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_7fc1d3642481712b": {
+      "text": "$$シャア$$\n「$$赤木$$, is it...\n　I expected a reaction like yours」",
+      "status": "translated"
+    },
+    "stage0095_04:r_f72b6d47f9645d8c": {
+      "text": "$$赤木$$\n「Forget about me!\n　If you're going to think about someone,\n　think about the people living on Earth!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0153901fe839b497": {
+      "text": "$$シャア$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d60b2e6806c37bbe": {
+      "text": "$$赤木$$\n「No matter what your reasons are,\n　can you really hold your head high\n　in the face of the lives you're losing!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_336f0b1ef99d93b3": {
+      "text": "$$赤木$$\n「And you call a man like that\n　the hope of everyone living in space!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_7d0527803c131a6e": {
+      "text": "$$シャア$$\n「I intend to bear that sin!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9d4ee24cdaa2851d": {
+      "text": "$$赤木$$\n「You don't need to be resolved to that!\n　We'll rip that sin right off of you!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_003ee7d177c348cf": {
+      "text": "$$シャア$$\n「Wha...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_f4f785c3e285cb39": {
+      "text": "$$赤木$$\n「Protect the people of Earth,\n　and don't let my friends commit sins!\n　That's what a hero of justice is!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_eb4bb0599c61e2b2": {
+      "text": "$$ロジャー$$\n「For a man like you to have made up his mind...\n　my words probably don't mean anything anymore」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1a9f38456bfe7b4a": {
+      "text": "$$シャア$$\n「And yet, it seems that doesn't mean\n　you agree with me」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6f761a8fd9d1f7b4": {
+      "text": "$$ロジャー$$\n「I made a promise about the future with someone.\n　Naturally, it's a world overflowing with hope」",
+      "status": "translated"
+    },
+    "stage0095_04:r_98c6e74747c3936c": {
+      "text": "$$ロジャー$$\n「Nobody wants a world where countless lives\n　are lost without even being told why.\n　You must understand that too」",
+      "status": "translated"
+    },
+    "stage0095_04:r_7d9f085a5d9c51fd": {
+      "text": "$$シャア$$\n「Even so, it's necessary」",
+      "status": "translated"
+    },
+    "stage0095_04:r_60e4d2ebcfd943ea": {
+      "text": "$$ロジャー$$\n「It's a stale line, but I'll speak the truth...\n　A person's life weighs as much as the Earth itself」",
+      "status": "translated"
+    },
+    "stage0095_04:r_42d73bcdaedb1371": {
+      "text": "$$ロジャー$$\n「I won't accept a war born of resignation\n　or compromise, nor the one who starts it」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c0837a2b98000559": {
+      "text": "$$シャア$$\n「Then come at me without hesitation, $$ロジャー$$.\n　I'll accept this battle as your dialogue」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0866340ed1139b99": {
+      "text": "$$ロジャー$$\n「I'll thank you for showing my profession that respect」",
+      "status": "translated"
+    },
+    "stage0095_04:r_290faeefba2fe68d": {
+      "text": "$$ロジャー$$\n「Then, $$シャア・アズナブル$$!\n　On a negotiator's pride, I'll stop you!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_65ef57e28bd90298": {
+      "text": "$$ゼロ$$\n「So, it's come to this after all」",
+      "status": "translated"
+    },
+    "stage0095_04:r_bbc100b0424fdcd0": {
+      "text": "$$シャア$$\n「Unfortunately, yes」",
+      "status": "translated"
+    },
+    "stage0095_04:r_03d92655c99f7c70": {
+      "text": "$$ゼロ$$\n「I'm disappointed, $$シャア・アズナブル$$.\n　I thought you, of all people, would never make\n　as foolish a choice as $$トレーズ$$ or I did」",
+      "status": "translated"
+    },
+    "stage0095_04:r_8ca795c4c35fc911": {
+      "text": "$$シャア$$\n「Curse me all you like.\n　But someone had to play the fool」",
+      "status": "translated"
+    },
+    "stage0095_04:r_69bf15620a355d50": {
+      "text": "$$シャア$$\n「It wasn't me that $$トレーズ$$ entrusted\n　the future to... it was you」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ae4d9169d6ff43a4": {
+      "text": "$$ゼロ$$\n「...I'll grant that Chrono and the Earth\n　supremacists were a real threat, and credit you\n　for striking them while you had the chance. But I won't accept you!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d9ad0726bf16dd92": {
+      "text": "$$ゼロ$$\n「To affirm your methods would mean\n　forgiving who I once was!\n　That's why I'll fight you!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_821a93f3f890d905": {
+      "text": "$$シャア$$\n「That's how it should be, $$ゼロ$$.\n　A day will come when you take off that mask」",
+      "status": "translated"
+    },
+    "stage0095_04:r_8cb00be7cca91c45": {
+      "text": "$$ゼロ$$\n「That's not for me or you to decide!\n　It's for the world!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ce4ee5d4d2a4dc1d": {
+      "text": "$$ゼロ$$\n「And to protect the people who live in it,\n　I'll stop you!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_5557ccda2f7c3f23": {
+      "text": "$$宗介$$\n「As expected of the man called the Red Comet.\n　Not a single opening...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_01fea60fea66c996": {
+      "text": "$$シャア$$\n「You seem to be a well-trained, fine soldier.\n　But that alone won't be enough to beat me」",
+      "status": "translated"
+    },
+    "stage0095_04:r_48a3f23147fd6b6d": {
+      "text": "$$宗介$$\n「Are you saying there's a factor\n　that decides victory besides combat skill?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ae273a5479d64978": {
+      "text": "$$シャア$$\n「If you too are a member of $c,\n　you must already understand」",
+      "status": "translated"
+    },
+    "stage0095_04:r_28066ae0934e6411": {
+      "text": "$$宗介$$\n「I see. It seems your spirit is still\n　the same as when you fought alongside them」",
+      "status": "translated"
+    },
+    "stage0095_04:r_a38016b9c3d59e6e": {
+      "text": "$$宗介$$\n「But I too carry something on my shoulders...!\n　So I can't afford to lose!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9d00ee0ac3902eac": {
+      "text": "$$シャア$$\n「Let me correct myself.\n　You're not a soldier, but a warrior」",
+      "status": "translated"
+    },
+    "stage0095_04:r_258a09e5e9761e3d": {
+      "text": "$$宗介$$\n「Titles don't matter!\n　All I want is to defeat you!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_263097ee015a04ab": {
+      "text": "$$宗介$$\n「Prepare yourself, $$シャア・アズナブル$$!\n　I, with no needless ties holding me back,\n　will strike you down!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4a301748a7930689": {
+      "text": "$$シャア$$\n「So you're the one who pilots Aquarion...\n　You really do resemble Apollo」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c38e739de7ee864a": {
+      "text": "$$アマタ$$\n「Don't you understand!?\n　There are people who've fought,\n　even throwing away their lives, to protect that star!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_5135fdea02c6bd7b": {
+      "text": "$$シャア$$\n「What I'm trying to do is also to protect Earth」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c545a5a303470d2c": {
+      "text": "$$アマタ$$\n「What meaning is there in a method\n　that takes the lives of the people living there!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_fb06b0a658b1ef40": {
+      "text": "$$シャア$$\n「Even so, it has to be done...\n　That's my mission as a singularity」",
+      "status": "translated"
+    },
+    "stage0095_04:r_e5630cc47dc440b7": {
+      "text": "$$アマタ$$\n「You're just like my father...!\n　You're killing your own heart with the word 'mission'!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_8f39e18936c36a15": {
+      "text": "$$アマタ$$\n「I'm done watching people like that!\n　I'll set you free myself!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_f2655371e3ef7b59": {
+      "text": "$$アマタ$$\n「And for the sake of my father and mother's wishes,\n　I'll protect Vega... and Earth!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ee7f46e6a631fd5c": {
+      "text": "$$ノリコ$$\n「Why would someone who tried to protect\n　the world alongside Captain $$アムロ$$ and the others\n　do something like this!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_959b2fde0469959d": {
+      "text": "$$シャア$$\n「My feelings from that time haven't changed even now.\n　I've simply parted ways with them」",
+      "status": "translated"
+    },
+    "stage0095_04:r_54d7a668750123ea": {
+      "text": "$$ノリコ$$\n「Can't you go back to how things were?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_586ac0e9503b5765": {
+      "text": "$$シャア$$\n「One can't return to the past.\n　So people simply move forward\n　on the path they believe in」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1d13d9bb6a6d7818": {
+      "text": "$$ノリコ$$\n「I... don't know what happened\n　between you and Captain $$アムロ$$ and the others,\n　and I don't really understand what you're thinking」",
+      "status": "translated"
+    },
+    "stage0095_04:r_dc37213133cd8177": {
+      "text": "$$ノリコ$$\n「But I'll protect Earth!\n　For the sake of the people living on that star!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_9b8d839e83da7879": {
+      "text": "$$シャア$$\n「That's how it should be...!\n　There must be meaning in you\n　having arrived in this world!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_95a0cdf4151c12f7": {
+      "text": "$$シモン$$\n「Stop this already, Captain $$クワトロ$$!\n　Deep down, you can't really want this either!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c2a5e2a9019026a4": {
+      "text": "$$シャア$$\n「$$シモン$$, is it...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_855e82ce06693ee8": {
+      "text": "$$シモン$$\n「I don't know who you were in the past,\n　but you're a man who was our comrade!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3c1c81e93f697fb9": {
+      "text": "$$シモン$$\n「A man like that wouldn't go and\n　throw mud on everything he's done!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_10cbf30c54cfe4fc": {
+      "text": "$$シャア$$\n「Even so, someone has to do it!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d84831042f10325c": {
+      "text": "$$シモン$$\n「Did it have to be you!?\n　Even if it meant betraying us!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_cc01b694a39de719": {
+      "text": "$$シャア$$\n「Then who will play the role of guiding the world!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6a5a0a8d6d6a68fd": {
+      "text": "$$シモン$$\n「There's no need to push the villain's role onto someone!\n　No matter how big the problem,\n　if it's for the world's sake, everyone should think it through together!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_fa54b106906131ec": {
+      "text": "$$シャア$$\n「...As I'd expect, Man of the Spiral.\n　It'll be a man like you who forges the new age」",
+      "status": "translated"
+    },
+    "stage0095_04:r_64f86b30363f1f4c": {
+      "text": "$$シモン$$\n「I've just always thrown myself at things recklessly」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c98d1f9a0e601947": {
+      "text": "$$シャア$$\n「Then stop me, and prove it!\n　If you want to protect what you love!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_afa4e4bac1376010": {
+      "text": "$$シモン$$\n「That's the plan!\n　Here I come, $$シャア・アズナブル$$!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c5f074a439f6c890": {
+      "text": "$$シンジ$$\n「So this is the Red Comet at full strength...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_8b22d4b99ca35b84": {
+      "text": "$$シャア$$\n「Are you trembling?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b0aaf075b2a97a36": {
+      "text": "$$シンジ$$\n「A battle between people, different from fighting Angels...\n　Yeah, I'm scared, honestly...」",
+      "status": "translated"
+    },
+    "stage0095_04:r_53add6e443d8a65a": {
+      "text": "$$シンジ$$\n「But I can't run away!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_447e23c61fa29c56": {
+      "text": "$$シャア$$\n「If you have that resolve, you'll surely grow stronger」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d95bdcd1bd8b6579": {
+      "text": "$$シンジ$$\n「I'm not fighting to hear words like that!\n　I'm... fighting to stop you!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_2b4d4dced3ef5a03": {
+      "text": "$$シンジ$$\n「The lives of the people living on Earth...!\n　We'll protect them!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d3ea963a3518a978": {
+      "text": "$$シャア$$\n「You have fine potential...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0c888ad00ef30dc4": {
+      "text": "$n\n「Are you going to keep looking down\n　on humanity from above like that forever!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_941d9e3a330b1087": {
+      "text": "$n\n「What do you mean, 'singularity'!\n　Just because you saw a future of despair,\n　does that give you a reason to destroy Earth!?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_bee2bfb994ca7365": {
+      "text": "$n\n「What you're trying to do is nothing but slaughter!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6d287e4652a3781f": {
+      "text": "$$シャア$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0095_04:r_4d54e46ed7fd462d": {
+      "text": "$n\n「If you can't argue back, here we come!\n　We'll beat you, beat Geminis,\n　and protect Earth ourselves!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1c42d2bca3a5e3a3": {
+      "text": "$$シャア$$\n「A fine resolve」",
+      "status": "translated"
+    },
+    "stage0095_04:r_b23f4e273f76c5a8": {
+      "text": "$$シャア$$\n「Then I'll make sure you truly have\n　the strength to carry that through!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_2488b984097a7bdf": {
+      "text": "$n\n「How long's that big-shot act of yours going to last, I wonder?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6acc4cacd2cf56b6": {
+      "text": "$n\n「Prepare yourself, $$シャア・アズナブル$$!\n　I'll put an end to the legend of the Red Comet myself!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_0491c741ae20f5e6": {
+      "text": "$$シャア$$\n「$$ゼクス$$, is it...!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_131bea3d5d957e98": {
+      "text": "$$ゼクス$$\n「No need for extra words!\n　I'll stop you and show you humanity's potential!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_fc994d6aae0712cc": {
+      "text": "$$シャア$$\n「Let me thank you, $$ゼクス・マーキス$$」",
+      "status": "translated"
+    },
+    "stage0095_04:r_18ef8ab6be368d72": {
+      "text": "$$ゼクス$$\n「There's no time for words of thanks!\n　As a warrior, I will defeat you!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_176fd2544c64e83e": {
+      "text": "$$ゼクス$$\n「And the sorrowful war that's continued\n　since $$トレーズ$$, I'll bring it to a complete end here!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_ae2ea53f43e74074": {
+      "text": "$$ブライト$$\n「We both know each other's tricks...!\n　At this point, it's just a battle of wills!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_60e8a3284b8a113b": {
+      "text": "$$ブライト$$\n「All hands, don't let your guard down for a second!\n　Our enemy is the Red Comet!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d4164c459c1c1165": {
+      "text": "$$シャア$$\n「Not bad, $$ブライト$$...!\n　That's the spirit!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_e745974656b70e6a": {
+      "text": "$$オットー$$\n「Our opponent is that Red Comet!\n　Whatever you do, don't let him get close!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_f794dabe545dc6ac": {
+      "text": "$$レイアム$$\n「Please calm down, Captain.\n　Haven't we fought $$フル・フロンタル$$ many times before?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_d4f3fe1e9bcf2590": {
+      "text": "$$オットー$$\n「Don't underestimate him, XO!\n　The pressure $$シャア$$ gives off is on\n　a whole different level from $$フロンタル$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_59cb6a337266e5c9": {
+      "text": "$$オットー$$\n「That's exactly why, if we take him down,\n　our victory is assured!\n　We're bringing down the Red Comet, no matter what!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_3888ccd5f98dd99d": {
+      "text": "$$レイアム$$\n「Understood!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_521653467873650f": {
+      "text": "$$ボン太くん#pilot$$\n「Fumofumo, fumof! Fumo, fumof!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_aab85855cbaf5596": {
+      "text": "$$シャア$$\n「I understand...!\n　Even I understand, $$ララァ$$!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_e5f4d0fca11502fa": {
+      "text": "$$シャア$$\n「You said it too...!\n　No one dislikes something adorable!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_f3ed55718d2364ba": {
+      "text": "$$ボン太くん#pilot$$\n「F-fumo?」",
+      "status": "translated"
+    },
+    "stage0095_04:r_47fd2ac2e2a8e945": {
+      "text": "$$シャア$$\n「That's exactly why I must shoot that...!\n　That animal, I have to shoot it!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_95ef381ed0b96982": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo! Fumoffu!!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_82218191e135e576": {
+      "text": "$$マデューカス$$\n「So, the time has finally come」",
+      "status": "translated"
+    },
+    "stage0095_04:r_c4e4b578079583c5": {
+      "text": "$$テッサ$$\n「From now on, this cosmos is our ocean」",
+      "status": "translated"
+    },
+    "stage0095_04:r_46c21ad643c64977": {
+      "text": "$$テッサ$$\n「And as long as this is our ocean,\n　there is no defeat for us」",
+      "status": "translated"
+    },
+    "stage0095_04:r_6a27ef5c3933ffa2": {
+      "text": "$$マデューカス$$\n「Quite so」",
+      "status": "translated"
+    },
+    "stage0095_04:r_04169fb070591784": {
+      "text": "$$テッサ$$\n「All hands, battle stations!\n　This is the $$トゥアハー・デ・ダナン$$'s second maiden battle!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_1be6bea3e5d25074": {
+      "text": "$$テッサ$$\n「All we need is victory!\n　I expect everyone to give their all!」",
+      "status": "translated"
+    },
+    "stage0095_04:r_2471e14c1ef0ecac": {
+      "text": "$n\n「Ah!」",
+      "status": "translated"
+    }
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_132:r_479b340ccc6c572b": {
+      "text": "It'll hold for now... Mission on!",
+      "status": "imported"
+    },
+    "voice_132:r_ca4acbac57a2a35e": {
+      "text": "Minor damage... Mission continues.",
+      "status": "imported"
+    },
+    "voice_132:r_77949221bf58f862": {
+      "text": "There you are!",
+      "status": "imported"
+    },
+    "voice_132:r_70b9c4b9f1f37eff": {
+      "text": "All systems normal. Damage... zero.",
+      "status": "imported"
+    },
+    "voice_132:r_9fcb3754cb1773c7": {
+      "text": "His attack is that powerful... But!",
+      "status": "imported"
+    },
+    "voice_132:r_3559d2fad32c2435": {
+      "text": "Unit damaged.\\nMission can continue.",
+      "status": "imported"
+    },
+    "voice_132:r_f7570547e9f80a64": {
+      "text": "A hit...\\nNot bad just to hit me.",
+      "status": "imported"
+    },
+    "voice_132:r_cbab0f4720e1fcf1": {
+      "text": "Evaded.\\nI'll act independently.",
+      "status": "imported"
+    },
+    "voice_132:r_0bbe0b4f5364e732": {
+      "text": "I'll be picked off at this rate?",
+      "status": "imported"
+    },
+    "voice_132:r_5dda5198137cb02a": {
+      "text": "Commencing support attack.",
+      "status": "imported"
+    },
+    "voice_132:r_83ec59afbecdec14": {
+      "text": "Still mobile... Next hit ends you.",
+      "status": "imported"
+    },
+    "voice_132:r_e20bfd42ad95a3c9": {
+      "text": "Over 70 percent...\\nNext hit ends it.",
+      "status": "imported"
+    },
+    "voice_132:r_0f58a8822381e57f": {
+      "text": "Direct hit.\\nDamage as projected.",
+      "status": "imported"
+    },
+    "voice_132:r_6dbcc507fb61b51d": {
+      "text": "Pattern read.\\nI'll use it next time.",
+      "status": "imported"
+    },
+    "voice_132:r_b42ab697149a7c8a": {
+      "text": "Moderate damage... I can fight on.",
+      "status": "imported"
+    },
+    "voice_132:r_4de4fcf3b440baf4": {
+      "text": "Outer armor hit.\\nMission unaffected.",
+      "status": "imported"
+    },
+    "voice_132:r_0121a166c715cdff": {
+      "text": "Minor damage.\\nNo operational issues.",
+      "status": "imported"
+    },
+    "voice_132:r_30fad37a42bd3ad3": {
+      "text": "Targeting me is pointless.",
+      "status": "imported"
+    },
+    "voice_132:r_80a0b2a84e05d81a": {
+      "text": "Further resistance is meaningless.",
+      "status": "imported"
+    },
+    "voice_132:r_4a9ac1dff86506d9": {
+      "text": "Evaded... Selecting my next target.",
+      "status": "imported"
+    },
+    "voice_132:r_bc8538e6af3d2577": {
+      "text": "Turn against me... and you'll die.",
+      "status": "imported"
+    },
+    "voice_132:r_924516c8de2b5342": {
+      "text": "Don't worry. Wrong foe, that's all.",
+      "status": "imported"
+    },
+    "voice_132:r_da1174533722333f": {
+      "text": "I've analyzed your attack pattern.",
+      "status": "imported"
+    },
+    "voice_132:r_fdeb8162976e72c1": {
+      "text": "I don't have time to waste on you.",
+      "status": "imported"
+    },
+    "voice_132:r_0fadb5c26df92b42": {
+      "text": "Evasion successful... Moving on.",
+      "status": "imported"
+    },
+    "voice_132:r_6b15af9a0057cdc8": {
+      "text": "I can't counterattack...?",
+      "status": "imported"
+    },
+    "voice_132:r_15b4a90140e8a33a": {
+      "text": "Status: no counterattack...",
+      "status": "imported"
+    },
+    "voice_132:r_af884a6b11dff121": {
+      "text": "So you do use your head a little.",
+      "status": "imported"
+    },
+    "voice_132:r_ac6fe7838e95647b": {
+      "text": "Out of range?\\nI'll close in myself.",
+      "status": "imported"
+    },
+    "voice_132:r_77ca87eacd17ad52": {
+      "text": "I'll launch my own attack.",
+      "status": "imported"
+    },
+    "voice_132:r_bf3244994760e535": {
+      "text": "Damn!\\nAdvance is taking too long!",
+      "status": "imported"
+    },
+    "voice_132:r_aabfb21c9d069ce7": {
+      "text": "Damn! Is the mission a failure?",
+      "status": "imported"
+    },
+    "voice_132:r_02479dc8fe989560": {
+      "text": "Damn... Is this the end...?",
+      "status": "imported"
+    },
+    "voice_132:r_a2df00f91a9b0a9e": {
+      "text": "I'll put you at ease now...",
+      "status": "imported"
+    },
+    "voice_132:r_48b60d6c48b9b142": {
+      "text": "Out of my way...!",
+      "status": "imported"
+    },
+    "voice_132:r_8927e6fb681aa809": {
+      "text": "Target lock-on...",
+      "status": "imported"
+    },
+    "voice_132:r_a571eec59b258d11": {
+      "text": "Orders set.\\nShoot down enemy unit.",
+      "status": "imported"
+    },
+    "voice_132:r_faae935cca0edc72": {
+      "text": "Tactical level: maximum effect...!",
+      "status": "imported"
+    },
+    "voice_132:r_d4430bf362340b32": {
+      "text": "Auto lock-on... Removing obstacle.",
+      "status": "imported"
+    },
+    "voice_132:r_6ff1323b355593e0": {
+      "text": "Defensive systems activated.",
+      "status": "imported"
+    },
+    "voice_132:r_36133ad73a73ef98": {
+      "text": "Damn... Is there no other way!?",
+      "status": "imported"
+    },
+    "voice_132:r_3633df5b7b8f47fa": {
+      "text": "Last target down. Mission complete.",
+      "status": "imported"
+    },
+    "voice_132:r_52dfc56b14b93551": {
+      "text": "Final target confirmed...",
+      "status": "imported"
+    },
+    "voice_132:r_1b9b2aab5cb104da": {
+      "text": "Target confirmed. Enemy warship...",
+      "status": "imported"
+    },
+    "voice_132:r_342044c706a2340f": {
+      "text": "Precise moves...\\nSo easy to read.",
+      "status": "imported"
+    },
+    "voice_132:r_cf41e8828a90cbdb": {
+      "text": "Gundam type found.\\nCommence attack.",
+      "status": "imported"
+    },
+    "voice_132:r_a7246b52782a877e": {
+      "text": "Lock-on complete...",
+      "status": "imported"
+    },
+    "voice_132:r_dc8701f6bcb9904f": {
+      "text": "Maximum output... Commence attack!",
+      "status": "imported"
+    },
+    "voice_132:r_d6bdd730f24f66eb": {
+      "text": "Mission... complete.",
+      "status": "imported"
+    },
+    "voice_132:r_41997412868c48c4": {
+      "text": "Target lock-on...",
+      "status": "imported"
+    },
+    "voice_132:r_9e6cf4f389dae55c": {
+      "text": "Commencing elimination!",
+      "status": "imported"
+    },
+    "voice_132:r_065443f6ddfcf0d7": {
+      "text": "Commence attack.",
+      "status": "imported"
+    },
+    "voice_132:r_93e25418a203cb8f": {
+      "text": "Any Gundam in my way is eliminated.",
+      "status": "imported"
+    },
+    "voice_132:r_8f60f6fc86db3107": {
+      "text": "Too slow!",
+      "status": "imported"
+    },
+    "voice_132:r_b1de76a75a253c13": {
+      "text": "Move!",
+      "status": "imported"
+    },
+    "voice_132:r_128c35bf3e0e394c": {
+      "text": "You're in my way!",
+      "status": "imported"
+    },
+    "voice_132:r_38fdff9483e9245c": {
+      "text": "It's over!",
+      "status": "imported"
+    },
+    "voice_132:r_2a00f1044ad5cbaa": {
+      "text": "Begone!",
+      "status": "imported"
+    },
+    "voice_132:r_a2afffe1c396f0b3": {
+      "text": "Systems normal. Commencing attack.",
+      "status": "imported"
+    },
+    "voice_132:r_13c25fbdfddc8a24": {
+      "text": "Destroying it immediately.",
+      "status": "imported"
+    },
+    "voice_132:r_42ba1ecb310b4bd7": {
+      "text": "The enemy will be eliminated.",
+      "status": "imported"
+    },
+    "voice_132:r_d692f1d420460a47": {
+      "text": "Enemy unit acquired. Attacking now.",
+      "status": "imported"
+    },
+    "voice_132:r_a5643cec86b18bd2": {
+      "text": "I'll remove all negative factors...!",
+      "status": "imported"
+    },
+    "voice_132:r_546c3d5937fbb7ee": {
+      "text": "Target already acquired.",
+      "status": "imported"
+    },
+    "voice_132:r_1568ff6298b12b96": {
+      "text": "Continuing attack...!",
+      "status": "imported"
+    },
+    "voice_132:r_2c9d94ba13c5fc50": {
+      "text": "I'll shoot down this obstacle.",
+      "status": "imported"
+    },
+    "voice_132:r_a77f4913375098d2": {
+      "text": "Commence attack!",
+      "status": "imported"
+    },
+    "voice_132:r_428c2116ac3071b1": {
+      "text": "Mission complete...!",
+      "status": "imported"
+    },
+    "voice_132:r_84c116267b79f540": {
+      "text": "Mission set. I'll shoot it down now.",
+      "status": "imported"
+    },
+    "voice_132:r_dad38ee29af2df3a": {
+      "text": "Commencing elimination!",
+      "status": "imported"
+    },
+    "voice_132:r_70451ffbabe2f876": {
+      "text": "Target lock-on.",
+      "status": "imported"
+    },
+    "voice_132:r_69dfa1659715e2fa": {
+      "text": "I'll destroy you!",
+      "status": "imported"
+    },
+    "voice_132:r_8ab47a28f99ef565": {
+      "text": "Target: Mechabeast...!",
+      "status": "imported"
+    },
+    "voice_132:r_9072ea7bc71df136": {
+      "text": "Target: Invader...!",
+      "status": "imported"
+    },
+    "voice_132:r_3c5b0c2ac812d5de": {
+      "text": "Target: Heterodyne...!",
+      "status": "imported"
+    },
+    "voice_132:r_dd01a4c0d1b36a8d": {
+      "text": "Target: AT...!",
+      "status": "imported"
+    },
+    "voice_132:r_cb846feec748c2e3": {
+      "text": "Target: Vajra...!",
+      "status": "imported"
+    },
+    "voice_132:r_7847e0ed7dc9282d": {
+      "text": "Stay... out of my way!",
+      "status": "imported"
+    },
+    "voice_132:r_e42b52c7a987b906": {
+      "text": "I'll eliminate that one.",
+      "status": "imported"
+    },
+    "voice_132:r_6825fd1ff907bd22": {
+      "text": "Out of energy...?",
+      "status": "imported"
+    },
+    "voice_132:r_607f666f1563bc0d": {
+      "text": "I can easily evade that...",
+      "status": "imported"
+    },
+    "voice_132:r_97b7431eeb81e6b6": {
+      "text": "Mission can continue... No problem.",
+      "status": "imported"
+    },
+    "voice_132:r_132f605d02975e71": {
+      "text": "Damn...!",
+      "status": "imported"
+    },
+    "voice_132:r_9b9726b1872759d6": {
+      "text": "That isn't worth worrying about.",
+      "status": "imported"
+    },
+    "voice_132:r_1252db29683fefe0": {
+      "text": "What did you say...?",
+      "status": "imported"
+    },
+    "voice_132:r_ad3d538f1e909184": {
+      "text": "Fast...! Faster than anticipated!",
+      "status": "imported"
+    },
+    "voice_132:r_8c61c59a1c0aebbf": {
+      "text": "The battle is going against us...?",
+      "status": "imported"
+    },
+    "voice_132:r_aba6a7662129d8ce": {
+      "text": "Left thruster failure! Well done...!",
+      "status": "imported"
+    },
+    "voice_132:r_b84afafb8a33ec60": {
+      "text": "Far beyond projected values...!",
+      "status": "imported"
+    },
+    "voice_132:r_c8c59db85bf875e6": {
+      "text": "Mistakes kill.\\nBut I can't die now!",
+      "status": "imported"
+    },
+    "voice_132:r_391aa56435d9dd6e": {
+      "text": "Has the mission failed...!",
+      "status": "imported"
+    },
+    "voice_132:r_7c796ba53bd7ea03": {
+      "text": "I'm withdrawing for now.",
+      "status": "imported"
+    },
+    "voice_132:r_fa944da4b6519006": {
+      "text": "Wufei, how many stages are left?",
+      "status": "imported"
+    },
+    "voice_132:r_95d047bcc17fccc6": {
+      "text": "Wufei, more continues? Zero is mum.",
+      "status": "imported"
+    },
+    "voice_132:r_640327a12a559b31": {
+      "text": "Will that cycle repeat yet again?",
+      "status": "imported"
+    },
+    "voice_132:r_bdd38c584fa313d0": {
+      "text": "Target confirmed... Destroying it.",
+      "status": "imported"
+    },
+    "voice_132:r_3fd86c1027f317c8": {
+      "text": "I'll remove the obstacle.",
+      "status": "imported"
+    },
+    "voice_132:r_d0372a183d2007ad": {
+      "text": "I've been lost ever since birth.",
+      "status": "imported"
+    },
+    "voice_132:r_217aa5e1d545b44d": {
+      "text": "Yes. Your\\nskill was always my ace.",
+      "status": "imported"
+    },
+    "voice_132:r_381992c5d8224937": {
+      "text": "Easy, Relena\\nLife's cheap\\nMine most",
+      "status": "imported"
+    },
+    "voice_132:r_f1e7ed9e5874aba5": {
+      "text": "I'll fight on. That is my defiance!",
+      "status": "imported"
+    },
+    "voice_132:r_fc25e66a86fc2c85": {
+      "text": "I'll fight on.\\nHardest on Earth!",
+      "status": "imported"
+    },
+    "voice_132:r_5aeeb4917340c42d": {
+      "text": "Zero predicts you have no future!",
+      "status": "imported"
+    },
+    "voice_132:r_d3f01de714c015bd": {
+      "text": "Target: Anti-Spiral...!",
+      "status": "imported"
+    },
+    "voice_132:r_862ef7385bf2abd4": {
+      "text": "There's no need to worry.",
+      "status": "imported"
+    },
+    "voice_132:r_001cbec4d9a4283f": {
+      "text": "You got careless, Duo.",
+      "status": "imported"
+    },
+    "voice_132:r_8ad40afecd02b41e": {
+      "text": "Trowa... I'll cover you.",
+      "status": "imported"
+    },
+    "voice_132:r_26e5efec03c03d78": {
+      "text": "Quatre... Leave the rest to me.",
+      "status": "imported"
+    },
+    "voice_132:r_4ad81e88c7557a8b": {
+      "text": "Wufei... I'll take it from here.",
+      "status": "imported"
+    },
+    "voice_132:r_1f65a7af190e4674": {
+      "text": "Noin... Leave the rest to me.",
+      "status": "imported"
+    },
+    "voice_132:r_40c5a9358ed5bf29": {
+      "text": "Duo... You owe me one.",
+      "status": "imported"
+    },
+    "voice_132:r_f2e18dfdfe0c89ea": {
+      "text": "Fall back, Trowa.",
+      "status": "imported"
+    },
+    "voice_132:r_cf7dbf49e96a5755": {
+      "text": "Don't worry, Quatre.",
+      "status": "imported"
+    },
+    "voice_132:r_fa96676cc65bb509": {
+      "text": "Stand down, Wufei.",
+      "status": "imported"
+    },
+    "voice_132:r_66ab4cfe1557909d": {
+      "text": "Captain Amuro, I'll cover you.",
+      "status": "imported"
+    },
+    "voice_132:r_0bad405ee6ca63ba": {
+      "text": "Kamille, fall back. I'll take over.",
+      "status": "imported"
+    },
+    "voice_132:r_2072eaf71a260ae7": {
+      "text": "Kira, you go on ahead.",
+      "status": "imported"
+    },
+    "voice_132:r_6c13bbfd27a7799e": {
+      "text": "I'm going straight in.",
+      "status": "imported"
+    },
+    "voice_132:r_a60b107ea3c36a86": {
+      "text": "Can you read my movements...?",
+      "status": "imported"
+    },
+    "voice_132:r_e33693e5ba4665b0": {
+      "text": "No right to judge humanity...!",
+      "status": "imported"
+    },
+    "voice_132:r_98ed411352a3a6ac": {
+      "text": "That lapse will cost you your life.",
+      "status": "imported"
+    },
+    "voice_132:r_4824bea6bab3af67": {
+      "text": "This will... destroy you.",
+      "status": "imported"
+    },
+    "voice_132:r_862b92e63adb9734": {
+      "text": "Attack can continue...",
+      "status": "imported"
+    },
+    "voice_132:r_cb306ef55e49d107": {
+      "text": "I'll provide support.",
+      "status": "imported"
+    },
+    "voice_132:r_57b2bd2de8a1408d": {
+      "text": "Zechs... I'll cover you.",
+      "status": "imported"
+    },
+    "voice_132:r_76f080a4881e8ab5": {
+      "text": "Attacking once more.",
+      "status": "imported"
+    },
+    "voice_132:r_288133bc5b573dae": {
+      "text": "Zero, guide me...!",
+      "status": "imported"
+    },
+    "voice_132:r_6f95653e548f8fcf": {
+      "text": "Even the armor is at its limit...?",
+      "status": "imported"
+    },
+    "voice_132:r_d249d68bada91ab9": {
+      "text": "Not bad. You're my next target.",
+      "status": "imported"
+    },
+    "voice_132:r_e9b3307e9eb69f11": {
+      "text": "Gaaah...!",
+      "status": "imported"
+    },
+    "voice_132:r_03cdac73042343ee": {
+      "text": "Get in my way... and I'll kill you.",
+      "status": "imported"
+    },
+    "voice_132:r_6026da5acbda7c69": {
+      "text": "Obstacles must be removed\\nafter all.",
+      "status": "imported"
+    },
+    "voice_132:r_981f8fedd5414fe5": {
+      "text": "Here it comes... Evasive action.",
+      "status": "imported"
+    },
+    "voice_132:r_96bb0dcde0c8c44a": {
+      "text": "All clear. Continuing the operation.",
+      "status": "imported"
+    },
+    "voice_132:r_641550a2f54cb456": {
+      "text": "Try using your head for once!",
+      "status": "imported"
+    },
+    "voice_132:r_b5f5a97ed82acb0b": {
+      "text": "An attack from beyond my range...",
+      "status": "imported"
+    },
+    "voice_132:r_99e6349431aaf23b": {
+      "text": "Is that all, Zechs?",
+      "status": "imported"
+    },
+    "voice_132:r_689d0b123de71ae0": {
+      "text": "Wufei, press self-destruct!",
+      "status": "imported"
+    },
+    "voice_132:r_84883aa95f63ce32": {
+      "text": "Wufei,\\nYou call this justice!?",
+      "status": "imported"
+    },
+    "voice_132:r_25493e978ce8ff16": {
+      "text": "Treize is gone, Wufei!\\nYou beat him!",
+      "status": "imported"
+    },
+    "voice_132:r_a6630215fefaf294": {
+      "text": "Understood. I'll strike first.",
+      "status": "imported"
+    },
+    "voice_132:r_6f94566ad37f8ff8": {
+      "text": "I have no objections.",
+      "status": "imported"
+    },
+    "voice_132:r_942ca03c9de80143": {
+      "text": "So that is my enemy...!",
+      "status": "imported"
+    },
+    "voice_132:r_d8c669c70659e18a": {
+      "text": "Very well.",
+      "status": "imported"
+    },
+    "voice_132:r_8f5bade7ac2db78e": {
+      "text": "That is the correct decision.",
+      "status": "imported"
+    }
+  }
+}

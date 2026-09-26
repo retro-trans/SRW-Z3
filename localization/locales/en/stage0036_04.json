@@ -1,0 +1,482 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0036_04:r_caaab7bad760e16d": {
+      "text": "$$メラン$$\n「The enemy appears to have noticed our approach.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_99b162aa6aa286a2": {
+      "text": "$$ブライト$$\n「So an interception force is coming out.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_58fb02434a1c40b2": {
+      "text": "$$レイアム$$\n「All units, launch!\n　Hurry!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_1c0f94acd5a8a143": {
+      "text": "$$オットー$$\n「The operation goes as briefed.\n　From here, the $$ネェル・アーガマ$$ will charge\n　toward the target point.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_1263541f4071624e": {
+      "text": "$$オットー$$\n「Once we reach the point,\n　this ship fires the Hyper Mega Particle Cannon...」",
+      "status": "imported"
+    },
+    "stage0036_04:r_3bc300bbdc277d82": {
+      "text": "$$オットー$$\n「We'll use the chaos to rescue\n　$$バナージ・リンクス$$!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_38762a09460d8b6b": {
+      "text": "$$ミシェル$$\n「So the $$ネェル・アーガマ$$\n　had a weapon like that.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_7ab28e70b4d4f641": {
+      "text": "$$ルカ$$\n「It's hard to use due to energy efficiency,\n　but for precision fire, it was judged better\n　suited to this than the Macross Cannon.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$クラン$$\n「I see.\n　So moving all the way to that point\n　is to snipe Palau's base dead on.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_ec335e69f984b8b3": {
+      "text": "$$赤木$$\n「I made a promise to $$オードリー$$ too!\n　Let's do this!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_0abcaf0c31978670": {
+      "text": "$$ハサウェイ$$\n（$$クェス$$... you're not here...）",
+      "status": "imported"
+    },
+    "stage0036_04:r_1d6bc48b7f246730": {
+      "text": "$$カツ$$\n「Focus on what's in front of you, $$ハサウェイ$$.\n　Let your mind wander and you'll die.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_1af20fccc3c53cfc": {
+      "text": "$$ハサウェイ$$\n「Yes!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_f951916061232dcd": {
+      "text": "$$カミーユ$$\n（I'll make up for my mistake myself...!\n　Wait for me, $$バナージ$$!）",
+      "status": "imported"
+    },
+    "stage0036_04:r_4d863c3fb88a4c39": {
+      "text": "$$ブライト$$\n「Our agent inside Palau has already\n　told $$バナージ$$ the operation's details.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_44f4742c3dcce39a": {
+      "text": "$$ブライト$$\n「While we stir up a commotion,\n　we link up with him once he escapes alone.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_9e701cdeb3842c21": {
+      "text": "$$アムロ$$\n「We'll cover the $$ネェル・アーガマ$$'s approach\n　while we strike the defense force!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_6fd81f4abebe60c5": {
+      "text": "$$レイアム$$\n「4 minutes remain until operation start.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_da2132b5038ec737": {
+      "text": "$$オットー$$\n「You heard it!\n　If the $$ネェル・アーガマ$$ can't reach the point\n　in 4 minutes, the operation fails!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_495d61d3ec7e16f2": {
+      "text": "$$オットー$$\n「$$ネェル・アーガマ$$, charge!\n　All units, escort her!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_5cd353758cfe474d": {
+      "text": "$$メラン$$\n「The $$ネェル・アーガマ$$ has reached the point!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_a653c8dec4c0f06f": {
+      "text": "$$ブライト$$\n「I'm counting on you, Captain $$オットー$$!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_86d493e37a9799a7": {
+      "text": "$$オットー$$\n「Halt the engines!\n　All power to the Hyper Mega Particle Cannon!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_09d0fcc600cdd3df": {
+      "text": "$$レイアム$$\n「Hyper Mega Particle Cannon, ready to fire!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_182faded068c15ed": {
+      "text": "$$ミヒロ$$\n「Notice to all units!\n　Clear the line of fire, hurry!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_9c206d19bfda4bd5": {
+      "text": "$$レイアム$$\n「...3, 2, 1!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_6e558bc69acf5bf3": {
+      "text": "$$シン$$\n「Did we get it...!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_d60d0818e965232f": {
+      "text": "$$カミーユ$$\n「Hurry, $$バナージ$$!!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_5b23687574286204": {
+      "text": "$$カミーユ$$\n「$$バナージ$$!!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_6fd86c96891ea942": {
+      "text": "$$ミヒロ$$\n「Unicorn confirmed!\n　It appears the escape succeeded!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_43e4e548c0b28376": {
+      "text": "$$オットー$$\n「All right...!\n　Now we just have to recover the Unicorn!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_d80a9688790ed583": {
+      "text": "$$レイアム$$\n「Aircraft confirmed over Palau!\n　They appear to be pursuers!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_708bea61e3c43ada": {
+      "text": "$$宗介$$\n「A Lambda Driver-equipped model...!\n　$$ガウルン$$!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ガウルン$$\n「That's right, Kashim.\n　I've been wanting to see you!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_0827963cfd706e8d": {
+      "text": "$$宗介$$\n「Why are you here!?」",
+      "status": "imported"
+    },
+    "stage0036_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$ガウルン$$\n「A mercenary's on the battlefield?\n　That's just how it goes.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_3f4035fd9db81258": {
+      "text": "$$クルツ$$\n「$$マリーメイア$$'s remnants\n　and $$アストラギウス$$ folks too!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_567b361a454c4b73": {
+      "text": "$$マオ$$\n「What's going on!?\n　《$$マーティアル$$》 teamed up with\n　Neo Zeon!?」",
+      "status": "imported"
+    },
+    "stage0036_04:r_d22851aaafbbf8fc": {
+      "text": "$$キリコ$$\n（God of War... $$マーティアル$$...）",
+      "status": "imported"
+    },
+    "stage0036_04:r_352534f64413d954": {
+      "text": "$$ガウルン$$\n「You're later, Kashim!\n　First, I've got a job to finish!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_79f2664edb1af798": {
+      "text": "$$バナージ$$\n「Get out of the way!\n　Or Palau becomes a battlefield!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$シン$$\n「$$バナージ$$!!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_1c5aa0d15ae24846": {
+      "text": "$$バナージ$$\n「Covering fire...!?」",
+      "status": "imported"
+    },
+    "stage0036_04:r_53bb64ee17750ee2": {
+      "text": "$$ダグザ$$\n「Over here!\n　$$バナージ・リンクス$$!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_7a7add80fde475ba": {
+      "text": "$$バナージ$$\n「Lt. Colonel $$ダグザ$$!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_b2befefdbed1393d": {
+      "text": "$$ダグザ$$\n「Hurry!\n　Pursuers are coming!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_2103f6df2ea2e447": {
+      "text": "$$バナージ$$\n「Yes!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_a12e3e130d896ff7": {
+      "text": "$$バナージ$$\n「Lt. Colonel $$ダグザ$$... why are you here...?」",
+      "status": "imported"
+    },
+    "stage0036_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ダグザ$$\n「Operations like this are Echoes' specialty.\n　And besides...」",
+      "status": "imported"
+    },
+    "stage0036_04:r_91bf33c27ad39f0a": {
+      "text": "$$バナージ$$\n「And besides...?」",
+      "status": "imported"
+    },
+    "stage0036_04:r_ee220318b96ab538": {
+      "text": "$$ダグザ$$\n「No, never mind.\n　It's personal.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_ce1b55e526b6277a": {
+      "text": "$$ダグザ$$\n「My mission is to support your escape\n　and deliver you to the $$ネェル・アーガマ$$.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_c304df6888eb78f7": {
+      "text": "$$バナージ$$\n「Let's hurry, Lt. Colonel $$ダグザ$$...!\n　I won't let Palau become a battlefield!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_c26958634526e597": {
+      "text": "$$ダグザ$$\n「I'll say this, we feel the same.\n　And so does that girl, $$オードリー$$.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_cdb750c9d380881a": {
+      "text": "$$バナージ$$\n「$$オードリー$$...?」",
+      "status": "imported"
+    },
+    "stage0036_04:r_95fda74613c97b39": {
+      "text": "$$ダグザ$$\n「We're back at the $$ネェル・アーガマ$$ in 3 minutes!\n　You can do it!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_1956994937f8171e": {
+      "text": "$$バナージ$$\n「Yes!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_48f49f6728c15612": {
+      "text": "$$ミヒロ$$\n「Unicorn has linked up with Lt. Colonel $$ダグザ$$!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$レイアム$$\n「Using the $$ネェル・アーガマ$$ and main force as bait\n　to pin Echoes down at Palau...\n　It worked out well.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_f02c37d91387d0ad": {
+      "text": "$$オットー$$\n「This ship waits here for the Unicorn!\n　Everyone, hold the line!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$アムロ$$\n「Don't worry about the mercenary unit!\n　Just focus on recovering the Unicorn!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_9796b3efa401a303": {
+      "text": "$$ガウルン$$\n「I won't let you go, pure white cutie...!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_643b6eebfc0186b3": {
+      "text": "$$宗介$$\n「$$ガウルン$$! You...!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_291280e5f7eb9d70": {
+      "text": "$$ガウルン$$\n「Let's have some fun, Kashim!\n　Soon, everywhere's gonna be a battlefield!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_32eb462c1b4999cb": {
+      "text": "$$レイアム$$\n「Unicorn recovered!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_1f4337d6d393fc37": {
+      "text": "$$オットー$$\n「$$ネェル・アーガマ$$, fall back!\n　All units, withdraw!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_4740e748fae085ee": {
+      "text": "$$フロンタル$$\n「The Unicorn's gone, has it...」",
+      "status": "imported"
+    },
+    "stage0036_04:r_b76524cd840e1d37": {
+      "text": "$$アンジェロ$$\n「It's a shame Lt. $$マリーダ$$ couldn't sortie\n　due to that accident.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_730ffe18400abfc2": {
+      "text": "$$フロンタル$$\n「No matter.\n　The $$ガランシェール$$ will handle the pursuit.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_ffe0fca26da5cd38": {
+      "text": "$$フロンタル$$\n「So let's have young $$バナージ$$\n　unleash the Unicorn's true power.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_bfb27f9eb2f7073e": {
+      "text": "$$レイアム$$\n「Defense force's annihilation confirmed...!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_859dfa27bcaafe30": {
+      "text": "$$オットー$$\n「But if we don't reach the point,\n　it's all for nothing!\n　Hurry!!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_71ebf05996a4b0fd": {
+      "text": "$$アルベルト$$\n「Th-this operation is insane!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_6214c11b1bca811e": {
+      "text": "$$オットー$$\n「We're doing this because you're the one\n　who wanted the Unicorn back!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_8eaf6f3098ffed12": {
+      "text": "$$レイアム$$\n「4 minutes of operation time have passed!\n　Any more fighting is dangerous!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_cf507214fe955d75": {
+      "text": "$$オットー$$\n「Damn it!\n　So the operation's a failure!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_2113dcbabdfc758a": {
+      "text": "$$バナージ$$\n「Ngh, the fighting's spreading...!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$カミーユ$$\n「Hurry, $$バナージ$$!\n　Until we recover you, this stays a battlefield!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_6a74519e1fc29c4b": {
+      "text": "$$ガウルン$$\n「This prototype's about at its limit too.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_5b992878fee054b5": {
+      "text": "$$宗介$$\n「Answer me, $$ガウルン$$!\n　Why are you helping Neo Zeon!?」",
+      "status": "imported"
+    },
+    "stage0036_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$ガウルン$$\n「Like I said, didn't I?\n　It's only natural a mercenary's on the field.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ガウルン$$\n「See ya, Kashim!\n　Let's have plenty more fun soon!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_20cf167c0ec0d4d5": {
+      "text": "$$宗介$$\n「That man...!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_b591d812c96c6c99": {
+      "text": "$$クルツ$$\n「$$マーティアル$$ teaming up with Neo Zeon, huh...」",
+      "status": "imported"
+    },
+    "stage0036_04:r_e350fa099c1ab072": {
+      "text": "$$マオ$$\n「They're the type who believe people\n　evolve through battle.\n　They're probably thrilled war's begun.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$宗介$$\n（I can't believe that man believes in a god...\n　Then why is he acting together\n　with $$マーティアル$$...）",
+      "status": "imported"
+    },
+    "stage0036_04:r_c33bd700553abf91": {
+      "text": "$$カミーユ$$\n（I won't hesitate anymore...\n　I'll do what I have to do...）",
+      "status": "imported"
+    },
+    "stage0036_04:r_feee5c91826230e1": {
+      "text": "$$カミーユ$$\n（Even if it means fighting Captain $$クワトロ$$...!）",
+      "status": "imported"
+    },
+    "stage0036_04:r_bccc48e1964ad22d": {
+      "text": "$$シン$$\n「Wait for me, $$バナージ$$!\n　I'll scatter these guys and come get you!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_f8736aaaa216c766": {
+      "text": "$$シン$$\n「I won't let the war-mongers\n　use you and the Unicorn!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_d1ec2522c87c361d": {
+      "text": "$$アムロ$$\n（$$バナージ$$ and the Unicorn...\n　What meaning could that hold...）",
+      "status": "imported"
+    },
+    "stage0036_04:r_3599f0a4343fd95c": {
+      "text": "$$アムロ$$\n（Is capturing the Unicorn $$シャア$$'s will too...?）",
+      "status": "imported"
+    },
+    "stage0036_04:r_3bc7834a5bf3ee76": {
+      "text": "$$ハサウェイ$$\n「I'll grow stronger, to save $$クェス$$ too...!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_366814efdc8b5800": {
+      "text": "$$ハサウェイ$$\n「If I become stronger than $$シャア$$,\n　$$クェス$$ is sure to come back!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_9be1a4c10bb62515": {
+      "text": "$$シンジ$$\n（Watch, $$ジン$$...\n　We're not fighting just to defeat the enemy...）",
+      "status": "imported"
+    },
+    "stage0036_04:r_94a88c90e557e16e": {
+      "text": "$$シンジ$$\n（Keep the fighting from spreading, as much as we can...\n　That's how we fight.）",
+      "status": "imported"
+    },
+    "stage0036_04:r_1c208ca0cbf26f28": {
+      "text": "$$アルベルト$$\n「Captain!\n　What kind of half-baked plan is this!\n　Just fire the Hyper Mega Particle Cannon!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_5b7ee307a700171a": {
+      "text": "$$オットー$$\n「Please be quiet, Mr. $$アルベルト$$!\n　We'll handle the fighting!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_8d8f065c932da30a": {
+      "text": "$$アルベルト$$\n「I-if this operation fails,\n　I'll report it to HQ and make trouble for you!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_f5432119677514f7": {
+      "text": "$$オットー$$\n「Sorry, but I've no time for you now!\n　The Zeon in front of us is all I can handle!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_4e5c8e989c4a7691": {
+      "text": "$$ダグザ$$\n「We're breaking through, $$バナージ・リンクス$$...!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_adec86483b13599a": {
+      "text": "$$バナージ$$\n「So you pilot a mobile suit too, Lt. Colonel $$ダグザ$$...」",
+      "status": "imported"
+    },
+    "stage0036_04:r_2cf701bbcde3ec13": {
+      "text": "$$ダグザ$$\n「Echoes' missions don't pick their time or place.\n　We're professionals gathered to carry out\n　any task.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_c17c58fdba72005e": {
+      "text": "$$ダグザ$$\n「Though seeing this bunch from $c,\n　I start losing confidence in my piloting.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_1fe8564d2b959317": {
+      "text": "$$バナージ$$\n「Lt. Colonel $$ダグザ$$...」",
+      "status": "imported"
+    },
+    "stage0036_04:r_f527e012803f7f1c": {
+      "text": "$$ダグザ$$\n「But in this situation, I can't say that!\n　Let's go, $$バナージ$$!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_4b1247bd3ca4905d": {
+      "text": "$$バナージ$$\n「Yes!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_00c55e25f87b71d0": {
+      "text": "$$ガウルン$$\n「This is fun, Kashim!\n　Never thought I'd fight you in space!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_338f3b27e51dcc41": {
+      "text": "$$宗介$$\n「I don't have time\n　to play along with your games!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_d91d4bc2d52b61c4": {
+      "text": "$$ガウルン$$\n「So cold, Kashim!\n　A friend-rescue mission doesn't suit you.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_0c8ea89b07432421": {
+      "text": "$$宗介$$\n「Shut up, $$ガウルン$$!\n　Don't call me Kashim!!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_4dbfba00ba7744ee": {
+      "text": "$$赤木$$\n「I made a promise to $$オードリー$$ too!\n　Let's finish this and pull out already!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_be100a32b731708d": {
+      "text": "$$いぶき$$\n「That's unusual.\n　$$赤木$$ working hard for a girl.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_702f82442fcec8a9": {
+      "text": "$$青山$$\n「Following Ensign $$リディ$$, looks like\n　$$赤木$$'s fallen for her charm too.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_b1e38da4e8775ffe": {
+      "text": "$$赤木$$\n「I-it's not like that...!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$いぶき$$\n「I know, I know.\n　Home is precious, full of memories for\n　those living there, and memories matter...」",
+      "status": "imported"
+    },
+    "stage0036_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$青山$$\n「Especially for people living in space,\n　losing living space is literally life or death.」",
+      "status": "imported"
+    },
+    "stage0036_04:r_3dad695c99e9e052": {
+      "text": "$$赤木$$\n「So we absolutely can't afford a mistake!\n　Let's do this!」",
+      "status": "imported"
+    },
+    "stage0036_04:r_66d4ae3a21caf881": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

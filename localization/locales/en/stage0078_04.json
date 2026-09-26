@@ -1,0 +1,614 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0078_04:r_caaab7bad760e16d": {
+      "text": "$$シゲル$$\n「All EVA units are in position.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_99b162aa6aa286a2": {
+      "text": "$$マコト$$\n「Still time before the Angel shows up...」",
+      "status": "translated"
+    },
+    "stage0078_04:r_58fb02434a1c40b2": {
+      "text": "$$ミサト$$\n「It's fine, it's fine.\n　This too is part of the plan.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_1c0f94acd5a8a143": {
+      "text": "$$リツコ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0078_04:r_1263541f4071624e": {
+      "text": "$$ジェフリー$$\n「...How's the crew doing?」",
+      "status": "translated"
+    },
+    "stage0078_04:r_3bc300bbdc277d82": {
+      "text": "$$キャシー$$\n「They've gone to encourage each EVA pilot.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_38762a09460d8b6b": {
+      "text": "$$ジェフリー$$\n「In this operation, what we can do is limited.\n　But that's a worthy fight too.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_7ab28e70b4d4f641": {
+      "text": "$$田中司令$$\n「In that case, allow $$ドラゴンズハイヴ$$ to fall back...」",
+      "status": "translated"
+    },
+    "stage0078_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$Ｆ．Ｓ．$$\n「That won't do, I'm afraid.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_ec335e69f984b8b3": {
+      "text": "$$田中司令$$\n「Ah... I figured.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_0abcaf0c31978670": {
+      "text": "$$ＷＩＬＬ$$\n「It seems he already senses something.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_1d6bc48b7f246730": {
+      "text": "$$號$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0078_04:r_1af20fccc3c53cfc": {
+      "text": "$$ジェフリー$$\n（I'm counting on you, children of EVA...）",
+      "status": "translated"
+    },
+    "stage0078_04:r_f951916061232dcd": {
+      "text": "$$ミサト$$\n「$$シンジ$$, $$アスカ$$, $$レイ#333$$... are you ready?」",
+      "status": "translated"
+    },
+    "stage0078_04:r_4d863c3fb88a4c39": {
+      "text": "$$シンジ$$\n「Yes.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_44f4742c3dcce39a": {
+      "text": "$$アスカ$$\n「Anytime's fine.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_9e701cdeb3842c21": {
+      "text": "$$レイ#333$$\n「I'm fine.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_6fd81f4abebe60c5": {
+      "text": "$$ミサト$$\n（Looks like it worked.）",
+      "status": "translated"
+    },
+    "stage0078_04:r_da2132b5038ec737": {
+      "text": "$$リツコ$$\n（There's no basis for that at all.）",
+      "status": "translated"
+    },
+    "stage0078_04:r_495d61d3ec7e16f2": {
+      "text": "$$ミサト$$\n（What we need right now isn't logical backing,\n　but strong will.）",
+      "status": "translated"
+    },
+    "stage0078_04:r_5cd353758cfe474d": {
+      "text": "$$リツコ$$\n（.........）",
+      "status": "translated"
+    },
+    "stage0078_04:r_a653c8dec4c0f06f": {
+      "text": "$$ミサト$$\n（For better or worse, ten more minutes...\n　That's when it's decided.）",
+      "status": "translated"
+    },
+    "stage0078_04:r_86d493e37a9799a7": {
+      "text": "$$マコト$$\n「Unknowns approaching $$第３新東京市$$ from above!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_09d0fcc600cdd3df": {
+      "text": "$$リツコ$$\n「No way...!\n　It's too soon!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_182faded068c15ed": {
+      "text": "$$シゲル$$\n「This signature!\n　It's not an Angel!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_9c206d19bfda4bd5": {
+      "text": "$$モニカ$$\n「It's the $$宇宙魔王#pilot$$ army!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_6e558bc69acf5bf3": {
+      "text": "$$ジェフリー$$\n「At a time like this...!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_d60d0818e965232f": {
+      "text": "$$田中司令$$\n「The fact that Prince $$グーラ$$ isn't here\n　means $$宇宙魔王#pilot$$ sent the army\n　directly himself, I'd wager.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_5b23687574286204": {
+      "text": "$$Ｆ．Ｓ．$$\n「You said you'd pull back before Mycenae,\n　but it seems you still have lingering\n　feelings for Earth.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_6fd86c96891ea942": {
+      "text": "$$渓$$\n「Hold on a second!\n　If that Angel thing falls, the world's over, isn't it?!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_43e4e548c0b28376": {
+      "text": "$$凱$$\n「Getting an Earth left in that state,\n　is that really fine with $$宇宙魔王#pilot$$?!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_d80a9688790ed583": {
+      "text": "$$號$$\n「What he wants is this planet itself, I'd guess.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_708bea61e3c43ada": {
+      "text": "$$リツコ$$\n「Colonel Katsuragi...!\n　At this rate...!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ミサト$$\n「Operation continues!\n　$c, all units, please launch!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_0827963cfd706e8d": {
+      "text": "$$ワッ太$$\n「All right!\n　Leave this to us, $$シンジ$$!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$正太郎$$\n「We'll take on $$宇宙魔王#pilot$$'s army!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_3f4035fd9db81258": {
+      "text": "$$シンジ$$\n「Everyone...」",
+      "status": "translated"
+    },
+    "stage0078_04:r_567b361a454c4b73": {
+      "text": "$$タケル$$\n「EVA, focus on facing the Angel!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_d22851aaafbbf8fc": {
+      "text": "$$シモン$$\n「So you can fight at full strength,\n　we'll give it everything we've got!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_352534f64413d954": {
+      "text": "$$竜馬$$\n「Just don't screw it up, you brats!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_79f2664edb1af798": {
+      "text": "$$アスカ$$\n「Who do you think you're talking to?」",
+      "status": "translated"
+    },
+    "stage0078_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$アルト$$\n「$$レイ#333$$!\n　Once this fight's over, I'll give you what I promised!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_1c5aa0d15ae24846": {
+      "text": "$$レイ#333$$\n「Yes.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_53bb64ee17750ee2": {
+      "text": "$$シンジ$$\n「Ayanami... What promised thing...?」",
+      "status": "translated"
+    },
+    "stage0078_04:r_7a7add80fde475ba": {
+      "text": "$$甲児$$\n「Never mind, $$シンジ$$!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_b2befefdbed1393d": {
+      "text": "$$アスカ$$\n「Focus, Daddy's Boy, Teacher's Pet!\n　The Angel's coming already!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_2103f6df2ea2e447": {
+      "text": "$$シンジ$$\n「I know!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_a12e3e130d896ff7": {
+      "text": "$n\n（Nice atmosphere, huh.）",
+      "status": "translated"
+    },
+    "stage0078_04:r_b6f7b219eb4bd64b": {
+      "text": "$$スズネ$$\n（All that's left is to make the operation a success.）",
+      "status": "translated"
+    },
+    "stage0078_04:r_91bf33c27ad39f0a": {
+      "text": "$$マヤ$$\n「Five minutes until the Angel hits the surface!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_ee220318b96ab538": {
+      "text": "$$シゲル$$\n「Final trajectory prediction is in!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_ce1b55e526b6277a": {
+      "text": "$$マコト$$\n「From that, we'll calculate the optimal\n　standby points for the three EVAs!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_c304df6888eb78f7": {
+      "text": "$$ミサト$$\n「Transmit the data to all units!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_c26958634526e597": {
+      "text": "$$アスカ$$\n「What?!\n　This is right in the middle of the enemy!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_cdb750c9d380881a": {
+      "text": "$$オズマ$$\n「Skull Leader to all units!\n　Our job's taking out the trash!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_95fda74613c97b39": {
+      "text": "$$アンディ$$\n「Copy!\n　That, we're used to!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_1956994937f8171e": {
+      "text": "$$アマタ$$\n「Not that I'm happy about it.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_48f49f6728c15612": {
+      "text": "$$ミサト$$\n「All EVA units, break through the enemy\n　and reach your assigned points\n　within five minutes!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ミサト$$\n「Unit-01, north; Unit-00, east;\n　Unit-02, west!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_f02c37d91387d0ad": {
+      "text": "$$シンジ$$\n「Understood!\n　Let's go, Ayanami, Shikinami!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$アスカ$$\n「Don't hold me back, Daddy's Boy, Teacher's Pet!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_9796b3efa401a303": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0078_04:r_643b6eebfc0186b3": {
+      "text": "$$ミサト$$\n「Operation start!\n　Good luck to every unit!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_291280e5f7eb9d70": {
+      "text": "$$モニカ$$\n「Unit group approaching this area confirmed!\n　This is... Geminis!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_32eb462c1b4999cb": {
+      "text": "$n\n「$$ガドライト$$!\n　Do you mean to get in our way?!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_1f4337d6d393fc37": {
+      "text": "$$葵$$\n「The Geminis lot don't care\n　if the world ends, huh!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_4740e748fae085ee": {
+      "text": "$$ロジャー$$\n「Those who can't read the room like that...\n　I'll have to ask them to leave...!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_b76524cd840e1d37": {
+      "text": "$$赤木$$\n「$$シンジ$$!\n　We'll take care of them!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_730ffe18400abfc2": {
+      "text": "$$桂$$\n「Don't worry about us,\n　just focus on breaking through!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_ffe0fca26da5cd38": {
+      "text": "$$シンジ$$\n「Yes!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_bfb27f9eb2f7073e": {
+      "text": "$$ミサト$$\n「Calculating the Angel's trajectory\n　in real time...!\n　We don't know what it'll do!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_859dfa27bcaafe30": {
+      "text": "$$シゲル$$\n「Understood!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_71ebf05996a4b0fd": {
+      "text": "$$ミサト$$\n（Don't let your guard down, everyone.\n　We still don't know what'll happen.）",
+      "status": "translated"
+    },
+    "stage0078_04:r_6214c11b1bca811e": {
+      "text": "$$マコト$$\n「All three EVAs are in position!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_8eaf6f3098ffed12": {
+      "text": "$$シゲル$$\n「The Eighth Angel will soon enter\n　the skies over $$第３新東京市$$!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_cf507214fe955d75": {
+      "text": "$$マヤ$$\n「What...!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_2113dcbabdfc758a": {
+      "text": "$$リツコ$$\n「What's wrong?!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$マヤ$$\n「The Angel is trying to change its trajectory!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_6a74519e1fc29c4b": {
+      "text": "$$リツコ$$\n「What did you say?!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_5b992878fee054b5": {
+      "text": "$$Ｆ．Ｓ．$$\n「All units, pour every bit of firepower\n　you can into the Angel!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$葵$$\n「Copy!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_4a14ec0c511c7f0d": {
+      "text": "$n\n「Waaaaargh!!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_20cf167c0ec0d4d5": {
+      "text": "$$リツコ$$\n「Even $c can't break through\n　that A.T. Field...」",
+      "status": "translated"
+    },
+    "stage0078_04:r_b591d812c96c6c99": {
+      "text": "$$竜馬$$\n「But it'll buy us time!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_e350fa099c1ab072": {
+      "text": "$$シンジ$$\n「Everyone!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ミサト$$\n「$$シンジ$$, $$アスカ$$, $$レイ#333$$!\n　The Angel's coming!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_c33bd700553abf91": {
+      "text": "$$シンジ$$\n「Yes!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_feee5c91826230e1": {
+      "text": "$$ミサト$$\n「From here, I'm prioritizing your judgment!\n　I'm staking everything on EVA and you three!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_bccc48e1964ad22d": {
+      "text": "$$シゲル$$\n「Target approaching, distance approx. 20000!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_f8736aaaa216c766": {
+      "text": "$$ミサト$$\n「$$シンジ$$, $$アスカ$$, $$レイ#333$$!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_d1ec2522c87c361d": {
+      "text": "$$ノリコ$$\n「Now's the time to make a miracle happen!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_3599f0a4343fd95c": {
+      "text": "$$赤木$$\n「Goooooo!!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_3bc7834a5bf3ee76": {
+      "text": "$$シンジ$$\n「Ayanami!　$$アスカ$$!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_366814efdc8b5800": {
+      "text": "$$アスカ$$\n「!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_9be1a4c10bb62515": {
+      "text": "$$レイ#333$$\n「!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_94a88c90e557e16e": {
+      "text": "$$シンジ$$\n「Uwaaaaaaaaaaaah!!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_1c208ca0cbf26f28": {
+      "text": "$$モニカ$$\n「Confirmed, all enemies destroyed.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_5b7ee307a700171a": {
+      "text": "$$ジェフリー$$\n「But our ultimate goal is to intercept the Angel.\n　It means nothing if EVA can't reach the point.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_8d8f065c932da30a": {
+      "text": "$$ボビー$$\n「$$シンジ$$, $$アスカ$$, $$レイ#333$$!\n　Hurry up!!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_f5432119677514f7": {
+      "text": "$$マコト$$\n「Unit-01 has reached the point!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_4e5c8e989c4a7691": {
+      "text": "$$ミサト$$\n「$$シンジ$$!\n　Unit-01, stand by there!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_adec86483b13599a": {
+      "text": "$$シンジ$$\n「Understood!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_2cf701bbcde3ec13": {
+      "text": "$$マコト$$\n「Unit-00 has reached the point!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_c17c58fdba72005e": {
+      "text": "$$ミサト$$\n「$$レイ#333$$, stand by there!\n　Watch for the enemy approaching!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_1fe8564d2b959317": {
+      "text": "$$レイ#333$$\n「Understood.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_f527e012803f7f1c": {
+      "text": "$$マコト$$\n「Unit-02 has reached the point!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_4b1247bd3ca4905d": {
+      "text": "$$ミサト$$\n「$$アスカ$$, stand by at the point!\n　Don't let your guard down!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_00c55e25f87b71d0": {
+      "text": "$$アスカ$$\n「I know that without being told!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_338f3b27e51dcc41": {
+      "text": "$$シゲル$$\n「One minute until the Angel reaches the surface!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_d91d4bc2d52b61c4": {
+      "text": "$$ミサト$$\n「All units, hurry!\n　Reach your points within this one minute!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_0c8ea89b07432421": {
+      "text": "$$シゲル$$\n「The Eighth Angel is coming!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_4dbfba00ba7744ee": {
+      "text": "$$マコト$$\n「It's no good!\n　EVA won't make it in time!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_be100a32b731708d": {
+      "text": "$$マヤ$$\n「Ahh...」",
+      "status": "translated"
+    },
+    "stage0078_04:r_702f82442fcec8a9": {
+      "text": "$$ミサト$$\n「The miracle... didn't happen...」",
+      "status": "translated"
+    },
+    "stage0078_04:r_b1e38da4e8775ffe": {
+      "text": "$$シンジ$$\n「Uwaaaaaaaaaaaaaah!!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$シンジ$$\n（Everyone believes in me...!）",
+      "status": "translated"
+    },
+    "stage0078_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$シンジ$$\n（I have to do it...!\n　I'm $c too!）",
+      "status": "translated"
+    },
+    "stage0078_04:r_3dad695c99e9e052": {
+      "text": "$$アスカ$$\n（I always thought I was alone, but...）",
+      "status": "translated"
+    },
+    "stage0078_04:r_66d4ae3a21caf881": {
+      "text": "$$アスカ$$\n（Maybe this isn't so bad, after all.）",
+      "status": "translated"
+    },
+    "stage0078_04:r_0c18da7b3a37825d": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0078_04:r_63249745ffae61b6": {
+      "text": "$$レイ#333$$\n（Everyone's giving it their all...）",
+      "status": "translated"
+    },
+    "stage0078_04:r_abdb034ae8509702": {
+      "text": "$$甲児$$\n「Do your best, $$シンジ$$, $$レイ#333$$, $$アスカ$$!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_3ff2e21207d1d1d3": {
+      "text": "$$甲児$$\n「Your senior's gonna carve the way open for you!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_e51ecf6d6aa42e75": {
+      "text": "$$ワッ太$$\n「Anyone who thinks it's fine if the world ends,\n　get out of the way!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_47ddabb7b60131c2": {
+      "text": "$$ワッ太$$\n「$$竹尾ワッ太$$ and EVA, comin' through!!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_b025267f22788233": {
+      "text": "$$正太郎$$\n「This operation needs all of $c's\n　strength combined into one!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_ec1a06a7023bf72c": {
+      "text": "$$正太郎$$\n「Let's do it, $$鉄人$$!\n　If we protect $$シンジ$$ and the others,\n　they're sure to protect the world!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_8805f96e52aaa462": {
+      "text": "$$竜馬$$\n「The brats are fired up!\n　Can't have the adults not risking their necks!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_124591cb154fae64": {
+      "text": "$$竜馬$$\n「Watch, $$シンジ$$!\n　I'll show you how it's done!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$葵$$\n「Everyone putting their hearts together\n　for one goal... Not bad at all.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_4bf9b05b5f948170": {
+      "text": "$$葵$$\n「Do your best, $$シンジ$$, $$レイ#333$$, $$アスカ$$!\n　Big sis'll show you her serious side too!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_eaa52d152f444bfd": {
+      "text": "$$タケル$$\n「For the sake of every living person,\n　we can't let this world end!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_b4bc9e9435b58e6f": {
+      "text": "$$タケル$$\n「I'm counting on you, $$シンジ$$, $$レイ#333$$, $$アスカ$$!\n　I'm entrusting the world's future to you!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_a9227573166977a9": {
+      "text": "$$赤木$$\n「Even that $$シンジ$$'s gotten reliable.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_b0600ab9a9e8559d": {
+      "text": "$$赤木$$\n「Can't lose to him as his senior!\n　I'll protect the peace as a salaryman,\n　and with EVA!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_7cbc63dad295f862": {
+      "text": "$$シモン$$\n「$$シンジ$$, $$レイ#333$$, $$アスカ$$!\n　I've felt your spirit too!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_07f53c816e0a51f5": {
+      "text": "$$シモン$$\n「Let's go!\n　Anyone blocking EVA's path,\n　my drill will punch through!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_2d09c6f6a2d990ea": {
+      "text": "$$ノリコ$$\n「$$シンジ$$, $$レイ#333$$, $$アスカ$$...!\n　I believe you'll make a miracle happen!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_3c5fcfc484a51913": {
+      "text": "$$ノリコ$$\n「So we'll fight with everything we've got too!\n　To make a miracle happen!!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_0476ffd10c764b0e": {
+      "text": "$$アルト$$\n「As club president, I'll look after my members!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$アルト$$\n「Go, $$シンジ$$, $$レイ#333$$, $$アスカ$$!\n　We'll take on your enemies!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_2b3479c4cf0680f4": {
+      "text": "$$アマタ$$\n「$$シンジ$$ and the others are risking\n　their lives to make a miracle happen!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_e370696b8936b08c": {
+      "text": "$$アマタ$$\n「We'll fight too!\n　To help $$シンジ$$ and the others\n　make a miracle happen!!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_9d7b02c5e728b7aa": {
+      "text": "$$桂$$\n「It's a good thing, seeing kids\n　give it their all!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_9af213fc64e0afec": {
+      "text": "$$桂$$\n「Guess I've got no choice\n　but to give it my all too!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_d7f1c506e78e55ff": {
+      "text": "$$バサラ$$\n「All right, all right, you guys!\n　Every last one of you's burning up!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_0c705091f748360e": {
+      "text": "$$バサラ$$\n「Let's go, EVA!\n　Listen to my song!!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_9eb8599304125b2f": {
+      "text": "$$ロジャー$$\n「Normally, forcing my way through by strength\n　wouldn't be my style.」",
+      "status": "translated"
+    },
+    "stage0078_04:r_a072aa25e5f521e0": {
+      "text": "$$ロジャー$$\n「But to answer these kids' earnest feelings,\n　I'll dare to bend $$ロジャー$$'s law today!」",
+      "status": "translated"
+    },
+    "stage0078_04:r_24e1a808a1609a1a": {
+      "text": "$n\n（I remember, $$シンジ$$.\n　How you cheered me on\n　as I chased after them.）",
+      "status": "translated"
+    },
+    "stage0078_04:r_53128ce8f154fd06": {
+      "text": "$n\n（So today, I fight for you all!\n　For my precious comrades!）",
+      "status": "translated"
+    },
+    "stage0078_04:r_03b5db9ce98fb8d6": {
+      "text": "$n\n「Ah!」",
+      "status": "translated"
+    }
+  }
+}

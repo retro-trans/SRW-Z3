@@ -1,0 +1,538 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0005_04:r_caaab7bad760e16d": {
+      "text": "Branch Member\n「$$金田正太郎$$, curse you!\n　We'll take that remote from you\n　and make $$鉄人$$ our own fighting force!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_99b162aa6aa286a2": {
+      "text": "Branch Member\n「All units, advance!\n　We'll corner him!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_58fb02434a1c40b2": {
+      "text": "Branch Member\n「What!?\n　Where did that robot come from!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_1c0f94acd5a8a143": {
+      "text": "$n\n「Sensei, are you all right?」",
+      "status": "imported"
+    },
+    "stage0005_04:r_1263541f4071624e": {
+      "text": "$n\n「Sensei...?」",
+      "status": "imported"
+    },
+    "stage0005_04:r_3bc300bbdc277d82": {
+      "text": "$$スズネ$$\n「D-don't look at me!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_38762a09460d8b6b": {
+      "text": "$n\n「What's with that outfit!?」",
+      "status": "imported"
+    },
+    "stage0005_04:r_7ab28e70b4d4f641": {
+      "text": "$$スズネ$$\n「How should I know!\n　Why does piloting a robot\n　show this much skin!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_b05f6a6e8f3d9b24": {
+      "text": "$n\n「...Are you serious...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_ec335e69f984b8b3": {
+      "text": "$n\n「...Talk later!\n　To keep them from reaching everyone at school,\n　we'll stop them ourselves!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_0abcaf0c31978670": {
+      "text": "$n\n「If we can, we'll fight\n　to keep them from breaking that line!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_1d6bc48b7f246730": {
+      "text": "$n\n「Are you ready, Sensei!?」",
+      "status": "imported"
+    },
+    "stage0005_04:r_1af20fccc3c53cfc": {
+      "text": "$$スズネ$$\n「That won't do!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_f951916061232dcd": {
+      "text": "$n\n「Eh...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_4d863c3fb88a4c39": {
+      "text": "$$スズネ$$\n「From now on, we're partners in life and death!\n　Don't call me 'Sensei', use my real name!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_44f4742c3dcce39a": {
+      "text": "$n\n「But...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_9e701cdeb3842c21": {
+      "text": "$$スズネ$$\n「No 'buts'!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_6fd81f4abebe60c5": {
+      "text": "$n\n「Understood!\n　$$スズネ$$... Sensei!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_da2132b5038ec737": {
+      "text": "$$スズネ$$\n「Good!\n　Now let's go, $n!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_495d61d3ec7e16f2": {
+      "text": "$n\n「Are you ready, Sensei!?」",
+      "status": "imported"
+    },
+    "stage0005_04:r_5cd353758cfe474d": {
+      "text": "$$スズネ$$\n「That won't do!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_a653c8dec4c0f06f": {
+      "text": "$n\n「Eh...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_86d493e37a9799a7": {
+      "text": "$$スズネ$$\n「From now on, we're partners in life and death!\n　Don't call me 'Sensei', use my real name!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_09d0fcc600cdd3df": {
+      "text": "$n\n「But...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_182faded068c15ed": {
+      "text": "$$スズネ$$\n「No 'buts'!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_9c206d19bfda4bd5": {
+      "text": "$n\n「Understood!\n　$$スズネ$$... Sensei!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_6e558bc69acf5bf3": {
+      "text": "$$スズネ$$\n「Good!\n　Now let's go, Knight!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_d60d0818e965232f": {
+      "text": "$n\n「So the Quarter's here for us.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_5b23687574286204": {
+      "text": "$$正太郎$$\n「Are you all right, $n, Miss $$スズネ$$!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_6fd86c96891ea942": {
+      "text": "$$スズネ$$\n「Y-yes...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_43e4e548c0b28376": {
+      "text": "$$ミシェル$$\n「Something seems off about Miss $$スズネ$$...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_d80a9688790ed583": {
+      "text": "$$クルツ$$\n「Weirdly sexy, or something like that...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_708bea61e3c43ada": {
+      "text": "$$スズネ$$\n「I have no idea...!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_7b6f159eeaf4de0f": {
+      "text": "$$クラン$$\n「Enough with the nonsense,\n　you girl-crazy Snipers!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_0827963cfd706e8d": {
+      "text": "$$マオ$$\n「You two should rename yourselves 'Snoopers'.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$クルツ$$\n「Not bad, that!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_3f4035fd9db81258": {
+      "text": "$$正太郎$$\n「Let's save the chatter for later!\n　We have to protect everyone!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_567b361a454c4b73": {
+      "text": "$$ワッ太$$\n「Robot Mafia, curse you!\n　I won't let you near $$かおる$$!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_d22851aaafbbf8fc": {
+      "text": "$$オズマ$$\n「The kids are right!\n　Skull Leader to all units!\n　Intercept the Robot Mafia!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_352534f64413d954": {
+      "text": "$$正太郎$$\n「Branch Member, damn you!\n　If you're after me, I'll take you on!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_79f2664edb1af798": {
+      "text": "$$モニカ$$\n「Captain!\n　An unidentified unit is closing on the combat zone!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$ジェフリー$$\n「Robot Mafia reinforcements?」",
+      "status": "imported"
+    },
+    "stage0005_04:r_1c5aa0d15ae24846": {
+      "text": "$$モニカ$$\n「Unknown at this time!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_53bb64ee17750ee2": {
+      "text": "???\n「One who bears the sun detected.\n　Commencing attack.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_7a7add80fde475ba": {
+      "text": "$n\n「Ngh!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_b2befefdbed1393d": {
+      "text": "$$正太郎$$\n「Are you all right, $$鉄人$$!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_2103f6df2ea2e447": {
+      "text": "$$ボス$$\n「They opened fire outta nowhere!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_a12e3e130d896ff7": {
+      "text": "$$甲児$$\n「Looks like they're pals with the Robot Mafia!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_b6f7b219eb4bd64b": {
+      "text": "$$さやか$$\n「But that robot and that saucer\n　look nothing like the Branch robots...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_91bf33c27ad39f0a": {
+      "text": "$$厚井$$\n「More than that, it's no Earth-made machine!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_ee220318b96ab538": {
+      "text": "$$木下$$\n「Y-you mean an alien invasion!?」",
+      "status": "imported"
+    },
+    "stage0005_04:r_ce1b55e526b6277a": {
+      "text": "$$ワッ太$$\n「Even so, if we leave these guys be,\n　$$かおる$$ and everyone at school are in danger!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_c304df6888eb78f7": {
+      "text": "$$オズマ$$\n「Damn it!\n　That sudden attack caught us off guard!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_c26958634526e597": {
+      "text": "$$ルカ$$\n「Captain!\n　Another ship is closing on us!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_cdb750c9d380881a": {
+      "text": "$$ルカ$$\n「It's from the Earth Federation Forces!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_95fda74613c97b39": {
+      "text": "???\n「One who bears the sun detected.\n　Commencing attack.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_1956994937f8171e": {
+      "text": "$n\n「Ngh!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_48f49f6728c15612": {
+      "text": "$$スズネ$$\n「Are you all right, $n!?」",
+      "status": "imported"
+    },
+    "stage0005_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ボス$$\n「They opened fire outta nowhere!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_f02c37d91387d0ad": {
+      "text": "$$甲児$$\n「Looks like they're pals with the Robot Mafia!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$さやか$$\n「But that robot and that saucer\n　look nothing like the Branch robots...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_9796b3efa401a303": {
+      "text": "$$厚井$$\n「More than that, it's no Earth-made machine!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_643b6eebfc0186b3": {
+      "text": "$$木下$$\n「Y-you mean an alien invasion!?」",
+      "status": "imported"
+    },
+    "stage0005_04:r_291280e5f7eb9d70": {
+      "text": "$$ワッ太$$\n「Even so, if we leave these guys be,\n　$$かおる$$ and everyone at school are in danger!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_32eb462c1b4999cb": {
+      "text": "$$オズマ$$\n「Damn it!\n　That sudden attack caught us off guard!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_1f4337d6d393fc37": {
+      "text": "$$ルカ$$\n「Captain!\n　Another ship is closing on us!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_4740e748fae085ee": {
+      "text": "$$ルカ$$\n「It's from the Earth Federation Forces!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_b76524cd840e1d37": {
+      "text": "$$カミーユ$$\n「Is everyone all right!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_730ffe18400abfc2": {
+      "text": "$$甲児$$\n「That's $$カミーユ$$ piloting the blue unit!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_ffe0fca26da5cd38": {
+      "text": "$$ミヒロ$$\n「Captain $$オットー$$,\n　we've got a channel open to the Macross Quarter.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_bfb27f9eb2f7073e": {
+      "text": "$$レイアム$$\n「Go ahead, Captain...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_859dfa27bcaafe30": {
+      "text": "$$オットー$$\n「O-oh, right...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_71ebf05996a4b0fd": {
+      "text": "$$オットー$$\n「Uh, this is $$オットー・ミタス$$ of the $$ネェル・アーガマ$$,\n　Londo Bell, an independent Earth Federation unit.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_6214c11b1bca811e": {
+      "text": "$$オットー$$\n「We too have been tracking the unidentified units\n　you're engaged with. We'll lend our support now.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_8eaf6f3098ffed12": {
+      "text": "$$ジェフリー$$\n「This is Colonel $$ジェフリー・ワイルダー$$,\n　captain of the Macross Quarter.\n　We appreciate your ship's assistance.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_cf507214fe955d75": {
+      "text": "$$クルツ$$\n「Huh, their captain\n　seems like kind of an unreliable old guy.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_2113dcbabdfc758a": {
+      "text": "$$マオ$$\n「Still, Londo Bell is\n　an elite unit of the Earth Federation Forces.\n　Let's see what they've got.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$エマ$$\n「$$ファ$$!\n　Go support that blue robot over there!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_6a74519e1fc29c4b": {
+      "text": "$$ファ$$\n「Yes!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_5b992878fee054b5": {
+      "text": "$$ファ$$\n「This is $$ファ・ユイリィ$$ in the $$メタス$$.\n　I'm here to back you up.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$スズネ$$\n「Thank you very much.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_4a14ec0c511c7f0d": {
+      "text": "$$オズマ$$\n「Skull Leader to all units!\n　Save the questions about the Unknowns for later!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_20cf167c0ec0d4d5": {
+      "text": "$$オズマ$$\n「Don't let the Robot Mafia or Unknowns through!\n　Work with Londo Bell and take the enemy down!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_b591d812c96c6c99": {
+      "text": "$$モニカ$$\n「Enemy forces confirmed wiped out.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_e350fa099c1ab072": {
+      "text": "$$ミーナ#120$$\n「They threw that many at us and still lost,\n　so I'd think the Robot Mafia will settle down now...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ラム$$\n「The Unknowns are the real problem.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_c33bd700553abf91": {
+      "text": "$$キャシー$$\n「From what we could see,\n　the Robot Mafia and the Unknowns\n　seemed to have no connection...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_feee5c91826230e1": {
+      "text": "$$ボビー$$\n「So they're new invaders, is that it!?」",
+      "status": "imported"
+    },
+    "stage0005_04:r_bccc48e1964ad22d": {
+      "text": "$$ジェフリー$$\n「...We need something to confirm that.\n　Once all units are recovered, let's trade\n　information with Londo Bell.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_f8736aaaa216c766": {
+      "text": "$$ジェフリー$$\n「Also, tell Ensign $$アルト$$ and the other students\n　to get back to their hike right away,\n　given the effect on the people around them.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_d1ec2522c87c361d": {
+      "text": "$$キャシー$$\n「Understood.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_3599f0a4343fd95c": {
+      "text": "$$スズネ$$\n「The enemy's crossed the line!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_3bc7834a5bf3ee76": {
+      "text": "$n\n「Damn it!\n　I won't let them go any further!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_366814efdc8b5800": {
+      "text": "$$スズネ$$\n「No good!\n　The enemy's heading for everyone!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_9be1a4c10bb62515": {
+      "text": "$n\n「$$ジェニオン$$!\n　Even with your power, I still can't protect anyone!?」",
+      "status": "imported"
+    },
+    "stage0005_04:r_94a88c90e557e16e": {
+      "text": "$$カミーユ$$\n（Words... just ran through me...?）",
+      "status": "imported"
+    },
+    "stage0005_04:r_1c208ca0cbf26f28": {
+      "text": "$$リディ$$\n「What's wrong, $$カミーユ$$?」",
+      "status": "imported"
+    },
+    "stage0005_04:r_5b7ee307a700171a": {
+      "text": "$$カミーユ$$\n「N-no... it's nothing...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_8d8f065c932da30a": {
+      "text": "$$カミーユ$$\n（That feeling just now... Captain $$アムロ$$...?\n　No, it feels rawer than that...）",
+      "status": "imported"
+    },
+    "stage0005_04:r_f5432119677514f7": {
+      "text": "$$カミーユ$$\n（Is there someone nearby who can feel what I feel...?）",
+      "status": "imported"
+    },
+    "stage0005_04:r_4e5c8e989c4a7691": {
+      "text": "$$スズネ$$\n「$n! Th-the enemy's coming!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_adec86483b13599a": {
+      "text": "$n\n「Please calm down, Miss $$スズネ$$.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_2cf701bbcde3ec13": {
+      "text": "$$スズネ$$\n「But...!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_c17c58fdba72005e": {
+      "text": "$n\n「If you're scared, get out.\n　I'll fight alone.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_1fe8564d2b959317": {
+      "text": "$$スズネ$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_f527e012803f7f1c": {
+      "text": "$n\n「There's no need to push yourself.\n　Not fighting at all would obviously be better.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_4b1247bd3ca4905d": {
+      "text": "$$スズネ$$\n「I'm sorry, $n...\n　I... didn't have the resolve I needed...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_00c55e25f87b71d0": {
+      "text": "$$スズネ$$\n「I... might just be dead weight to you...!\n　But I swear I won't ever run away!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_338f3b27e51dcc41": {
+      "text": "$n\n「...Understood.\n　But I swear I'll protect you, Miss $$スズネ$$...!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_d91d4bc2d52b61c4": {
+      "text": "$$甲児$$\n「You're telling me evil aliens showed up again!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_0c8ea89b07432421": {
+      "text": "$$甲児$$\n「But too bad for you!\n　As long as Mazinger and I are around,\n　don't think you can do as you please on Earth!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_4dbfba00ba7744ee": {
+      "text": "$$ワッ太$$\n「Why is it that so many guys\n　who come from space are bad news!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_be100a32b731708d": {
+      "text": "$$ワッ太$$\n「Get ready, you jerk!\n　You're the ones who started this fight,\n　so that's why we're fighting back!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_702f82442fcec8a9": {
+      "text": "$$正太郎$$\n「I don't know why you're after $$鉄人$$,\n　but if you're the kind who'll put everyone\n　in danger, I won't go easy on you!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_b1e38da4e8775ffe": {
+      "text": "$$正太郎$$\n「Go, $$鉄人$$!\n　Take down the Robot Mafia and the mystery enemy!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$アルト$$\n「I got used to fighting aliens during the $$再世戦争$$!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$アルト$$\n「Come at me if you dare!\n　I'll knock you all out of the sky one by one!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_3dad695c99e9e052": {
+      "text": "$$宗介$$\n「Whether the enemy is human or not,\n　if it obstructs the mission, I will eliminate it.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_66d4ae3a21caf881": {
+      "text": "$$宗介$$\n「Preventing your breakthrough is my mission!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_0c18da7b3a37825d": {
+      "text": "$n\n「These guys are different too...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_63249745ffae61b6": {
+      "text": "$$スズネ$$\n「Eh...?」",
+      "status": "imported"
+    },
+    "stage0005_04:r_abdb034ae8509702": {
+      "text": "$n\n「But that doesn't change that you're my enemy too...!\n　Don't think you can get through here!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_3ff2e21207d1d1d3": {
+      "text": "$$カミーユ$$\n「Ensign $$リディ$$, going in now!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_e51ecf6d6aa42e75": {
+      "text": "$$リディ$$\n「I'll leave the timing to you, $$カミーユ$$.\n　You have more real combat experience,\n　and more time in variable mobile suits than I do.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_47ddabb7b60131c2": {
+      "text": "$$カミーユ$$\n「Then, with two $$リゼル$$s in combination...!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_b025267f22788233": {
+      "text": "$$リディ$$\n（A chance I've been given...!\n　I'll make the most of it, no matter what!）",
+      "status": "imported"
+    },
+    "stage0005_04:r_ec1a06a7023bf72c": {
+      "text": "$$カツ$$\n「I was only supposed to assist $$カミーユ$$,\n　and suddenly I'm in real combat...!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_8805f96e52aaa462": {
+      "text": "$$エマ$$\n「You've come this far, so steel yourself, $$カツ$$!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_124591cb154fae64": {
+      "text": "$$カツ$$\n「I know that!\n　Whatever we're up against, I'll pull my weight too!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$オットー$$\n「Fighting Neo Zeon after being sent to Earth, fine.\n　But a mafia and mystery aliens too...」",
+      "status": "imported"
+    },
+    "stage0005_04:r_4bf9b05b5f948170": {
+      "text": "$$レイアム$$\n「Captain, give orders before you complain.」",
+      "status": "imported"
+    },
+    "stage0005_04:r_eaa52d152f444bfd": {
+      "text": "$$オットー$$\n「I know that!\n　Londo Bell can't afford to fall behind\n　an irregular unit of the Frontier fleet!」",
+      "status": "imported"
+    },
+    "stage0005_04:r_b4bc9e9435b58e6f": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

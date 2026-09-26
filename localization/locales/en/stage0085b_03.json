@@ -1,0 +1,442 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0085b_03:r_caaab7bad760e16d": {
+      "text": "Iron-C",
+      "status": "translated"
+    },
+    "stage0085b_03:r_99b162aa6aa286a2": {
+      "text": "Iron-C",
+      "status": "translated"
+    },
+    "stage0085b_03:r_58fb02434a1c40b2": {
+      "text": "Iron-C",
+      "status": "translated"
+    },
+    "stage0085b_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　　\n　　　　　　　～ Altair, Iron-C Surface ～",
+      "status": "translated"
+    },
+    "stage0085b_03:r_1263541f4071624e": {
+      "text": "$$カイエン$$\n「$$アマタ$$, where do you think you're going!?」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_3bc300bbdc277d82": {
+      "text": "$$アマタ$$\n「Someone... is calling me...!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_38762a09460d8b6b": {
+      "text": "$$カイエン$$\n「$$アマタ$$!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_7ab28e70b4d4f641": {
+      "text": "$$モロイ$$\n「This is bad, $$カイエン$$!\n　$$ミコノ$$ and $$ゼシカ$$ went off somewhere alone too!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$カイエン$$\n「What!?」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_ec335e69f984b8b3": {
+      "text": "$$ユノハ$$\n「$$ミコノ$$... $$ゼシカ$$...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_0abcaf0c31978670": {
+      "text": "$$サザンカ$$\n「We don't even know where the Mythical Aquarion is...\n　What in the world is happening!?」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_1d6bc48b7f246730": {
+      "text": "$$カイエン$$\n（$$ミコノ$$...）",
+      "status": "translated"
+    },
+    "stage0085b_03:r_1af20fccc3c53cfc": {
+      "text": "$$アリシア$$'s Room",
+      "status": "translated"
+    },
+    "stage0085b_03:r_f951916061232dcd": {
+      "text": "$$アリシア$$'s Room",
+      "status": "translated"
+    },
+    "stage0085b_03:r_4d863c3fb88a4c39": {
+      "text": "$$アリシア$$'s Room",
+      "status": "translated"
+    },
+    "stage0085b_03:r_44f4742c3dcce39a": {
+      "text": "　\n　\n　　　　　　～ Altair, $$アリシア$$'s Room ～",
+      "status": "translated"
+    },
+    "stage0085b_03:r_9e701cdeb3842c21": {
+      "text": "$$アマタ$$\n「Where...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_6fd81f4abebe60c5": {
+      "text": "$$アリシア$$\n「I've been waiting for you... all this time」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_da2132b5038ec737": {
+      "text": "$$アマタ$$\n「Mom...? Is it really you...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_495d61d3ec7e16f2": {
+      "text": "$$アリシア$$\n「That's right...\n　After I came to Altair, I kept myself asleep\n　to protect myself from Eve's curse」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_5cd353758cfe474d": {
+      "text": "$$アリシア$$\n「But then he... woke me up...\n　before the final battle」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_a653c8dec4c0f06f": {
+      "text": "$$アマタ$$\n「That person... don't tell me...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_86d493e37a9799a7": {
+      "text": "$$アリシア$$\n「$$アマタ$$, I finally get to see you...\n　You've grown so much...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_09d0fcc600cdd3df": {
+      "text": "$$アマタ$$\n「What now, after all this time...!\n　You left me behind...!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_182faded068c15ed": {
+      "text": "$$アマタ$$\n「Do you have any idea what it's been like for me!?\n　And now, after all this, you call out to me...!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_9c206d19bfda4bd5": {
+      "text": "$$アリシア$$\n「$$アマタ$$...\n　I won't ask you to forgive me」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_6e558bc69acf5bf3": {
+      "text": "$$アリシア$$\n「But please... I want you to know.\n　Why I left you behind...\n　and about your father...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_d60d0818e965232f": {
+      "text": "$$アマタ$$\n「My father...?」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_5b23687574286204": {
+      "text": "$$アリシア$$\n「Your father isn't from Earth.\n　$$イズモ・カムロギ$$... Supreme Commander of Altair」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_6fd86c96891ea942": {
+      "text": "$$アマタ$$\n「That man...!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_43e4e548c0b28376": {
+      "text": "$$アリシア$$\n「Your father came to our Earth on a mission\n　to bring back a woman who could withstand dimensional transfer.\n　This was back when I was still an actress」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_d80a9688790ed583": {
+      "text": "$$アリシア$$\n「I met your father after he made an emergency landing from a system failure.\n　And as he spent time with me,\n　he realized I was the $$レア・イグラー$$ Altair was looking for...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_708bea61e3c43ada": {
+      "text": "$$アリシア$$\n「But in even less time than that,\n　we fell for each other...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_7b6f159eeaf4de0f": {
+      "text": "$$アマタ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_0827963cfd706e8d": {
+      "text": "$$アリシア$$\n「Your father hid my existence, at least at first,\n　and returned to Altair.\n　But he couldn't fool that man $$ミカゲ$$」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$アリシア$$\n「A few years later, when he appeared again,\n　you were already there」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_3f4035fd9db81258": {
+      "text": "$$アマタ$$\n「Did that guy try to drag you to Altair\n　against your will?」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_567b361a454c4b73": {
+      "text": "$$アリシア$$\n「No, that's not it」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_d22851aaafbbf8fc": {
+      "text": "$$アマタ$$\n「Then you decided to go to Altair on your own!\n　Even knowing about Eve's curse!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_352534f64413d954": {
+      "text": "$$アリシア$$\n「That's right」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_79f2664edb1af798": {
+      "text": "$$アマタ$$\n「...!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$アリシア$$\n「I agonized for so long over whether to take you to Altair...\n　But my fear of putting you in danger\n　on an unknown planet was greater」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_1c5aa0d15ae24846": {
+      "text": "$$アリシア$$\n「I never imagined it would be such a long parting...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_53bb64ee17750ee2": {
+      "text": "$$アマタ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_7a7add80fde475ba": {
+      "text": "$$アリシア$$\n「No... however I dress it up in words,\n　there's no denying I abandoned you」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_b2befefdbed1393d": {
+      "text": "$$アリシア$$\n「I wanted to save the planet of the man I loved.\n　The thing he loved most...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_2103f6df2ea2e447": {
+      "text": "$$アマタ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_a12e3e130d896ff7": {
+      "text": "$$アマタ$$\n「...I resented you for so long.\n　But not anymore...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_b6f7b219eb4bd64b": {
+      "text": "$$アマタ$$\n「What I hate is myself back then,\n　who could only watch you go...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_91bf33c27ad39f0a": {
+      "text": "$$アマタ$$\n「You had the courage to chase after the one you loved,\n　and I didn't...\n　That's all it comes down to, Mom」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_ee220318b96ab538": {
+      "text": "$$アリシア$$\n「Thank you, $$アマタ$$...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_ce1b55e526b6277a": {
+      "text": "$$イズモ$$\n「Let me thank you as well」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_c304df6888eb78f7": {
+      "text": "$$アマタ$$\n「!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_c26958634526e597": {
+      "text": "$$アリシア$$\n「Dear...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_cdb750c9d380881a": {
+      "text": "$$イズモ$$\n「$$アリシア$$...\n　I want to meet my end with you」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_95fda74613c97b39": {
+      "text": "$$アマタ$$\n「The building's collapsing!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_1956994937f8171e": {
+      "text": "$$イズモ$$\n「$$アリシア$$!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_48f49f6728c15612": {
+      "text": "$$アリシア$$\n「Goodbye...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$アマタ$$\n「Mom!!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_f02c37d91387d0ad": {
+      "text": "$$イズモ$$\n「Aliciaaaa!!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_6bbd5a3c5afb87e0": {
+      "text": "Kagerou",
+      "status": "translated"
+    },
+    "stage0085b_03:r_9796b3efa401a303": {
+      "text": "Kagerou",
+      "status": "translated"
+    },
+    "stage0085b_03:r_643b6eebfc0186b3": {
+      "text": "Kagerou",
+      "status": "translated"
+    },
+    "stage0085b_03:r_291280e5f7eb9d70": {
+      "text": "　\n　　\n　　　　　　　　～ Altair, Iron-C ～",
+      "status": "translated"
+    },
+    "stage0085b_03:r_32eb462c1b4999cb": {
+      "text": "$$イズモ$$\n「Ngh... where...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_1f4337d6d393fc37": {
+      "text": "$$アマタ$$\n「It's near that building」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_4740e748fae085ee": {
+      "text": "$$イズモ$$\n「Where's $$アリシア$$...?」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_b76524cd840e1d37": {
+      "text": "$$アマタ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_730ffe18400abfc2": {
+      "text": "$$イズモ$$\n「I see...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_ffe0fca26da5cd38": {
+      "text": "$$アマタ$$\n「I heard about you from Mom」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_bfb27f9eb2f7073e": {
+      "text": "$$イズモ$$\n「...I have no words to ask your forgiveness...\n　I took your mother from you... I...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_859dfa27bcaafe30": {
+      "text": "$$アマタ$$\n「Ah... a bug...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_71ebf05996a4b0fd": {
+      "text": "$$イズモ$$\n「Impossible...\n　Every natural living creature on Iron-C\n　should have died out」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_6214c11b1bca811e": {
+      "text": "$$アマタ$$\n「But...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_8eaf6f3098ffed12": {
+      "text": "$$イズモ$$\n「Kagerou...\n　I saw one, just once, when I was young...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_cf507214fe955d75": {
+      "text": "$$イズモ$$\n「The females vanished, and they should have gone extinct long ago...\n　Why, after all this time...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_2113dcbabdfc758a": {
+      "text": "$$イズモ$$\n「This is Area 337...\n　where trouble kept flaring up on Iron-C...\n　Don't tell me Iron-C itself is...!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$アマタ$$\n「...Supreme Commander $$不動$$ said...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_6a74519e1fc29c4b": {
+      "text": "$$アマタ$$\n「Woman and man, yin and yang. Only with both poles\n　is the order of all creation maintained... he said」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_5b992878fee054b5": {
+      "text": "$$イズモ$$\n「Mother Earth, the goddess of the land...\n　The land that brings forth abundance is a symbol of womanhood...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$イズモ$$\n「And Iron-C is a system that draws energy\n　from the planet's land...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_4a14ec0c511c7f0d": {
+      "text": "$$イズモ$$\n「But perhaps, at the same time, it was stealing away\n　the planet's maternal power...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_20cf167c0ec0d4d5": {
+      "text": "$$アマタ$$\n「So that's... the cause of Eve's curse...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_b591d812c96c6c99": {
+      "text": "$$イズモ$$\n「Iron-C is the root of it all...\n　Was my entire life for nothing...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_e350fa099c1ab072": {
+      "text": "$$アマタ$$\n「Stay with me!\n　We just found each other!\n　Dad...! Dad!!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$アリシア$$\n「It wasn't for nothing...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_c33bd700553abf91": {
+      "text": "$$アマタ$$\n「Mom's voice...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_feee5c91826230e1": {
+      "text": "$$イズモ$$\n「$$アリシア$$...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_bccc48e1964ad22d": {
+      "text": "$$アリシア$$\n「Your life was never for nothing.\n　After all, you left $$アマタ$$ in this world.\n　This child will surely... the two worlds...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_f8736aaaa216c766": {
+      "text": "$$イズモ$$\n「I see...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_d1ec2522c87c361d": {
+      "text": "$$アマタ$$\n「Mom...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_3599f0a4343fd95c": {
+      "text": "$$アリシア$$\n「$$アマタ$$...\n　You are the proof of our love...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_3bc7834a5bf3ee76": {
+      "text": "$$アリシア$$\n「$$アマタ$$, you too, love someone.\n　Someone more precious to you than anyone else...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_366814efdc8b5800": {
+      "text": "$$イズモ$$\n「Farewell, $$アマタ$$...\n　To you... I entrust... the future of both worlds.........」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_9be1a4c10bb62515": {
+      "text": "$$アマタ$$\n「Mom...! Dad...!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_94a88c90e557e16e": {
+      "text": "$$アマタ$$\n「Waaaaaaaaaaah!!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_1c208ca0cbf26f28": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0085b_03:r_5b7ee307a700171a": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0085b_03:r_8d8f065c932da30a": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0085b_03:r_f5432119677514f7": {
+      "text": "$$ＡＧ$$\n「Master $$シュレード$$...\n　The ultimate melody, proof that you lived...\n　I too have surely heard it」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_4e5c8e989c4a7691": {
+      "text": "$$ＡＧ$$\n「And your days of battle have become\n　300 Z-Chips.\n　I'll add these to the squad's stock」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_adec86483b13599a": {
+      "text": "$$ＡＧ$$\n「For now, I can only pray for your soul to rest in peace...」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_2cf701bbcde3ec13": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0085b_03:r_c17c58fdba72005e": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0085b_03:r_1fe8564d2b959317": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0085b_03:r_f527e012803f7f1c": {
+      "text": "　\n　　\n　　　　　　　　　　　～ D-Trader ～",
+      "status": "translated"
+    },
+    "stage0085b_03:r_4b1247bd3ca4905d": {
+      "text": "$$ＡＧ$$\n「Sorry about that!\n　Since things are quite hectic right now,\n　I'll have D-Trader run on the auto-system!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_00c55e25f87b71d0": {
+      "text": "$$ＡＧ$$\n「The celebration for the ace pilot will have to wait for next time!」",
+      "status": "translated"
+    },
+    "stage0085b_03:r_338f3b27e51dcc41": {
+      "text": "$$ＡＧ$$\n「Well then!\n　Even in the middle of battle, let's get to it... business, business!」",
+      "status": "translated"
+    }
+  }
+}

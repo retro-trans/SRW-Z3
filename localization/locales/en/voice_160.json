@@ -1,0 +1,558 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_160:r_479b340ccc6c572b": {
+      "text": "This is Skull 2! Attacking!",
+      "status": "imported"
+    },
+    "voice_160:r_ca4acbac57a2a35e": {
+      "text": "Skull 2, engaging!",
+      "status": "imported"
+    },
+    "voice_160:r_77949221bf58f862": {
+      "text": "I can see you perfectly!",
+      "status": "imported"
+    },
+    "voice_160:r_70b9c4b9f1f37eff": {
+      "text": "There you are!",
+      "status": "imported"
+    },
+    "voice_160:r_9fcb3754cb1773c7": {
+      "text": "Go!",
+      "status": "imported"
+    },
+    "voice_160:r_3559d2fad32c2435": {
+      "text": "Take this!",
+      "status": "imported"
+    },
+    "voice_160:r_f7570547e9f80a64": {
+      "text": "Let's see if I can punch a hole!",
+      "status": "imported"
+    },
+    "voice_160:r_cbab0f4720e1fcf1": {
+      "text": "Don't move a muscle...!",
+      "status": "imported"
+    },
+    "voice_160:r_0bbe0b4f5364e732": {
+      "text": "No choice now but to do it!",
+      "status": "imported"
+    },
+    "voice_160:r_5dda5198137cb02a": {
+      "text": "Neither of us holds back!",
+      "status": "imported"
+    },
+    "voice_160:r_83ec59afbecdec14": {
+      "text": "I'll break that pride of yours!",
+      "status": "imported"
+    },
+    "voice_160:r_e20bfd42ad95a3c9": {
+      "text": "Stay right there!",
+      "status": "imported"
+    },
+    "voice_160:r_0f58a8822381e57f": {
+      "text": "Damn Vajra! They're everywhere!",
+      "status": "imported"
+    },
+    "voice_160:r_6dbcc507fb61b51d": {
+      "text": "Let's clean up these Vajra fast!",
+      "status": "imported"
+    },
+    "voice_160:r_b42ab697149a7c8a": {
+      "text": "The Vajra won't have their way!",
+      "status": "imported"
+    },
+    "voice_160:r_4de4fcf3b440baf4": {
+      "text": "Monster hunting's\\nnow my specialty!",
+      "status": "imported"
+    },
+    "voice_160:r_0121a166c715cdff": {
+      "text": "Vajra or monsters, all the same!",
+      "status": "imported"
+    },
+    "voice_160:r_30fad37a42bd3ad3": {
+      "text": "I wish we'd met somewhere else.",
+      "status": "imported"
+    },
+    "voice_160:r_80a0b2a84e05d81a": {
+      "text": "Having to fight you\\npains my heart.",
+      "status": "imported"
+    },
+    "voice_160:r_4a9ac1dff86506d9": {
+      "text": "Let's take a shot at the bigwig!",
+      "status": "imported"
+    },
+    "voice_160:r_bc8538e6af3d2577": {
+      "text": "Quick finish,\\nthen our happy ending!",
+      "status": "imported"
+    },
+    "voice_160:r_924516c8de2b5342": {
+      "text": "I couldn't finish them in one shot!",
+      "status": "imported"
+    },
+    "voice_160:r_da1174533722333f": {
+      "text": "Next shot will finish this!",
+      "status": "imported"
+    },
+    "voice_160:r_d5e0a2317c40d322": {
+      "text": "Close combat isn't my thing!",
+      "status": "imported"
+    },
+    "voice_160:r_ec2ea17765052401": {
+      "text": "I may not look it, but I can brawl!",
+      "status": "imported"
+    },
+    "voice_160:r_f2d4255f1c2f7542": {
+      "text": "Heading to a sniping position!",
+      "status": "imported"
+    },
+    "voice_160:r_5d08ad19e2da125b": {
+      "text": "All right... Let's do this!",
+      "status": "imported"
+    },
+    "voice_160:r_a7246b52782a877e": {
+      "text": "Be good and hold still...",
+      "status": "imported"
+    },
+    "voice_160:r_dc8701f6bcb9904f": {
+      "text": "Goooo!",
+      "status": "imported"
+    },
+    "voice_160:r_d6bdd730f24f66eb": {
+      "text": "Well, this much is easy.",
+      "status": "imported"
+    },
+    "voice_160:r_41997412868c48c4": {
+      "text": "Well then, let's wrap this up!",
+      "status": "imported"
+    },
+    "voice_160:r_9e6cf4f389dae55c": {
+      "text": "Time to pick them off!",
+      "status": "imported"
+    },
+    "voice_160:r_9e0c80ac7e33b459": {
+      "text": "Okay, then this... and this...!",
+      "status": "imported"
+    },
+    "voice_160:r_7432ef43ed3471dc": {
+      "text": "Right there!",
+      "status": "imported"
+    },
+    "voice_160:r_065443f6ddfcf0d7": {
+      "text": "Yes, perfect!",
+      "status": "imported"
+    },
+    "voice_160:r_47d52a2839c71715": {
+      "text": "Damn, too far...! Then...!",
+      "status": "imported"
+    },
+    "voice_160:r_847f82e7f3eef651": {
+      "text": "I'll finish this!",
+      "status": "imported"
+    },
+    "voice_160:r_eb7ae28b53dc033c": {
+      "text": "See, with women or bullets, I...",
+      "status": "imported"
+    },
+    "voice_160:r_857c4a52ce8df0fd": {
+      "text": "One shot, one hit!",
+      "status": "imported"
+    },
+    "voice_160:r_55417493fce1d347": {
+      "text": "Told you: one shot, one hit.",
+      "status": "imported"
+    },
+    "voice_160:r_ddafde4b065ced49": {
+      "text": "I always repay my debts in full!",
+      "status": "imported"
+    },
+    "voice_160:r_de1213040856c089": {
+      "text": "A hot kiss for your love letter!",
+      "status": "imported"
+    },
+    "voice_160:r_3304412ac41f47a6": {
+      "text": "And here's my reply!",
+      "status": "imported"
+    },
+    "voice_160:r_0c0775e051211840": {
+      "text": "Think you can get away from me?",
+      "status": "imported"
+    },
+    "voice_160:r_a2afffe1c396f0b3": {
+      "text": "Chasing isn't really my thing...!",
+      "status": "imported"
+    },
+    "voice_160:r_13c25fbdfddc8a24": {
+      "text": "This is Skull 2! Providing support!",
+      "status": "imported"
+    },
+    "voice_160:r_42ba1ecb310b4bd7": {
+      "text": "Gotta make this chance count!",
+      "status": "imported"
+    },
+    "voice_160:r_d692f1d420460a47": {
+      "text": "Okay! Nice position, Alto!",
+      "status": "imported"
+    },
+    "voice_160:r_a5643cec86b18bd2": {
+      "text": "I'll take it from here, Luca!",
+      "status": "imported"
+    },
+    "voice_160:r_68f2dfab20a4a30e": {
+      "text": "That's our Captain! Perfect!",
+      "status": "imported"
+    },
+    "voice_160:r_9cedad8237480563": {
+      "text": "I'm right behind the Quarter!",
+      "status": "imported"
+    },
+    "voice_160:r_a03fabecba1508ca": {
+      "text": "Sheesh, Klan, always butting in!",
+      "status": "imported"
+    },
+    "voice_160:r_5391b24a71eb10ae": {
+      "text": "MM Jenius Formation...!\\nI'm on it!",
+      "status": "imported"
+    },
+    "voice_160:r_a554ceef5c87b972": {
+      "text": "There!",
+      "status": "imported"
+    },
+    "voice_160:r_546c3d5937fbb7ee": {
+      "text": "Take that!",
+      "status": "imported"
+    },
+    "voice_160:r_1568ff6298b12b96": {
+      "text": "Damn you!",
+      "status": "imported"
+    },
+    "voice_160:r_2c9d94ba13c5fc50": {
+      "text": "How's that!",
+      "status": "imported"
+    },
+    "voice_160:r_a77f4913375098d2": {
+      "text": "Lt. Canaria, fierce as ever!",
+      "status": "imported"
+    },
+    "voice_160:r_428c2116ac3071b1": {
+      "text": "Truth is,\\nyour heart's my target!",
+      "status": "imported"
+    },
+    "voice_160:r_84c116267b79f540": {
+      "text": "Helping you\\nis a tremendous honor!",
+      "status": "imported"
+    },
+    "voice_160:r_dad38ee29af2df3a": {
+      "text": "A double sniper team has its charm!",
+      "status": "imported"
+    },
+    "voice_160:r_70451ffbabe2f876": {
+      "text": "This is Skull 2! Pull back now!",
+      "status": "imported"
+    },
+    "voice_160:r_69dfa1659715e2fa": {
+      "text": "Fall back while you can!",
+      "status": "imported"
+    },
+    "voice_160:r_d996fd6d4ef5b329": {
+      "text": "Alto! You owe me one for this!",
+      "status": "imported"
+    },
+    "voice_160:r_8ab47a28f99ef565": {
+      "text": "This is too much for Luca's unit...!",
+      "status": "imported"
+    },
+    "voice_160:r_546de3fb6db156ea": {
+      "text": "Go on ahead, Captain!",
+      "status": "imported"
+    },
+    "voice_160:r_ca85f87cee5e31f7": {
+      "text": "You won't touch the Quarter!",
+      "status": "imported"
+    },
+    "voice_160:r_9072ea7bc71df136": {
+      "text": "What's wrong? Not like you, Klan!",
+      "status": "imported"
+    },
+    "voice_160:r_04e815a8d425827d": {
+      "text": "Klan...! I won't let you!!",
+      "status": "imported"
+    },
+    "voice_160:r_d89011fe3e5d082a": {
+      "text": "Lieutenant! Regroup, now!",
+      "status": "imported"
+    },
+    "voice_160:r_3c5b0c2ac812d5de": {
+      "text": "Can't ignore a girl in trouble!",
+      "status": "imported"
+    },
+    "voice_160:r_5b9e8897190892eb": {
+      "text": "A man's worth is protecting women!",
+      "status": "imported"
+    },
+    "voice_160:r_7bea3023abbf8a94": {
+      "text": "A sniper's the target?\\nNot funny!",
+      "status": "imported"
+    },
+    "voice_160:r_20920ad2eb3542db": {
+      "text": "Damn! Our timing's off!",
+      "status": "imported"
+    },
+    "voice_160:r_0ab7914877fd48ed": {
+      "text": "What...!? Even I didn't see that...!",
+      "status": "imported"
+    },
+    "voice_160:r_cb846feec748c2e3": {
+      "text": "I can barely keep flying...!",
+      "status": "imported"
+    },
+    "voice_160:r_c958860b0676b1f5": {
+      "text": "Longer range than mine?\\nNo way!",
+      "status": "imported"
+    },
+    "voice_160:r_5e2669b82ef75ce3": {
+      "text": "I'm in a terrible position...!",
+      "status": "imported"
+    },
+    "voice_160:r_7847e0ed7dc9282d": {
+      "text": "I'm used to\\nbeing chased around!",
+      "status": "imported"
+    },
+    "voice_160:r_e42b52c7a987b906": {
+      "text": "A sniper's eyes are everything!",
+      "status": "imported"
+    },
+    "voice_160:r_6825fd1ff907bd22": {
+      "text": "If that hit, things would be easy!",
+      "status": "imported"
+    },
+    "voice_160:r_607f666f1563bc0d": {
+      "text": "Whoa! It's the thought that counts!",
+      "status": "imported"
+    },
+    "voice_160:r_97b7431eeb81e6b6": {
+      "text": "Ha! Just scraped by, huh?",
+      "status": "imported"
+    },
+    "voice_160:r_132f605d02975e71": {
+      "text": "Sheesh, it won't even faze me!",
+      "status": "imported"
+    },
+    "voice_160:r_1252db29683fefe0": {
+      "text": "Huh! You actually landed a hit!",
+      "status": "imported"
+    },
+    "voice_160:r_ad3d538f1e909184": {
+      "text": "That hardly counts as an attack.",
+      "status": "imported"
+    },
+    "voice_160:r_8c61c59a1c0aebbf": {
+      "text": "That won't break my focus!",
+      "status": "imported"
+    },
+    "voice_160:r_aba6a7662129d8ce": {
+      "text": "Nice shot! ...So what?",
+      "status": "imported"
+    },
+    "voice_160:r_b84afafb8a33ec60": {
+      "text": "Hitting alone would be easy...",
+      "status": "imported"
+    },
+    "voice_160:r_c8c59db85bf875e6": {
+      "text": "Damn! I blew it...!",
+      "status": "imported"
+    },
+    "voice_160:r_391aa56435d9dd6e": {
+      "text": "Not fatal, but... it ticks me off!",
+      "status": "imported"
+    },
+    "voice_160:r_7c796ba53bd7ea03": {
+      "text": "Damn you! Still pestering me...!",
+      "status": "imported"
+    },
+    "voice_160:r_fa944da4b6519006": {
+      "text": "Even my eyes can't keep up...!",
+      "status": "imported"
+    },
+    "voice_160:r_95d047bcc17fccc6": {
+      "text": "Tch! Keep it up, you'll be hated!",
+      "status": "imported"
+    },
+    "voice_160:r_640327a12a559b31": {
+      "text": "Damn! You've got me cornered!",
+      "status": "imported"
+    },
+    "voice_160:r_bdd38c584fa313d0": {
+      "text": "I'm tougher than I look, you know.",
+      "status": "imported"
+    },
+    "voice_160:r_3fd86c1027f317c8": {
+      "text": "No!\\nEyes and sensors - I can snipe!",
+      "status": "imported"
+    },
+    "voice_160:r_d0372a183d2007ad": {
+      "text": "Ngh!\\nToo much undone to die now!",
+      "status": "imported"
+    },
+    "voice_160:r_217aa5e1d545b44d": {
+      "text": "I won't die and leave her behind!!",
+      "status": "imported"
+    },
+    "voice_160:r_381992c5d8224937": {
+      "text": "No good! Skull 2, retreating!",
+      "status": "imported"
+    },
+    "voice_160:r_f1e7ed9e5874aba5": {
+      "text": "Shot down... I'm ashamed of myself!",
+      "status": "imported"
+    },
+    "voice_160:r_fc25e66a86fc2c85": {
+      "text": "Pinpoint Barrier's quite reliable!",
+      "status": "imported"
+    },
+    "voice_160:r_5aeeb4917340c42d": {
+      "text": "Fire Bomber support...\\nWho knew!",
+      "status": "imported"
+    },
+    "voice_160:r_b765659981b6516d": {
+      "text": "You just focus on the song!",
+      "status": "imported"
+    },
+    "voice_160:r_8a29278549f8e07a": {
+      "text": "Got you!",
+      "status": "imported"
+    },
+    "voice_160:r_7e6c573c26177f98": {
+      "text": "I'll shoot clean through you, Vajra!",
+      "status": "imported"
+    },
+    "voice_160:r_4e05581b7432cce8": {
+      "text": "Let's end it with no hard feelings!",
+      "status": "imported"
+    },
+    "voice_160:r_a60b107ea3c36a86": {
+      "text": "I won't let this chance slip!",
+      "status": "imported"
+    },
+    "voice_160:r_e33693e5ba4665b0": {
+      "text": "End here?\\nNot even worth a laugh!",
+      "status": "imported"
+    },
+    "voice_160:r_72a21a1a489af001": {
+      "text": "That one's strong...!",
+      "status": "imported"
+    },
+    "voice_160:r_0a3fccb71ec6cf2a": {
+      "text": "Whoops, I only grazed them!",
+      "status": "imported"
+    },
+    "voice_160:r_9b63cf1f3e0207ef": {
+      "text": "Too soft, too soft! Far too soft!",
+      "status": "imported"
+    },
+    "voice_160:r_8356f4e3dcdff938": {
+      "text": "A barrier lets me focus on sniping!",
+      "status": "imported"
+    },
+    "voice_160:r_1d6d784036ae0bd7": {
+      "text": "Carriers\\nand battleships, both?!",
+      "status": "imported"
+    },
+    "voice_160:r_625664af02183c17": {
+      "text": "Against a Ghost, I won't hold back.",
+      "status": "imported"
+    },
+    "voice_160:r_3701cba361f80ea5": {
+      "text": "It's a V-9,\\nbut that's no excuse!",
+      "status": "imported"
+    },
+    "voice_160:r_63f429c5c68c0863": {
+      "text": "You're not the only one\\nwho can see!",
+      "status": "imported"
+    },
+    "voice_160:r_38e4a434c91d8ef0": {
+      "text": "Snipers need eyes.\\nToo bad, I see!",
+      "status": "imported"
+    },
+    "voice_160:r_98ed411352a3a6ac": {
+      "text": "It's hard to aim, sure, but...!",
+      "status": "imported"
+    },
+    "voice_160:r_4824bea6bab3af67": {
+      "text": "We'll manage...!\\nButt out, God...!",
+      "status": "imported"
+    },
+    "voice_160:r_862b92e63adb9734": {
+      "text": "Came this far,\\njust to die? No way!",
+      "status": "imported"
+    },
+    "voice_160:r_fa6930340a545054": {
+      "text": "We've got authorization to use it!",
+      "status": "imported"
+    },
+    "voice_160:r_2332b9d56461d7ab": {
+      "text": "Skull 2. Enemy down confirmed!",
+      "status": "imported"
+    },
+    "voice_160:r_854aa0a91a3c80d1": {
+      "text": "A Reaction Missile will do!",
+      "status": "imported"
+    },
+    "voice_160:r_0bc8ae32a406ceab": {
+      "text": "Well, only natural.",
+      "status": "imported"
+    },
+    "voice_160:r_82c09f011d703b2c": {
+      "text": "If you're so sure you're safe...!",
+      "status": "imported"
+    },
+    "voice_160:r_2b4d8818c77b6dca": {
+      "text": "See? I warned you.",
+      "status": "imported"
+    },
+    "voice_160:r_087354f2db0a31e6": {
+      "text": "Alto! You're getting too far ahead!",
+      "status": "imported"
+    },
+    "voice_160:r_db02a2dec93dd263": {
+      "text": "Think how it feels to chase you!",
+      "status": "imported"
+    },
+    "voice_160:r_d520c6d5298a848d": {
+      "text": "Alto, I've got this! Hurry!",
+      "status": "imported"
+    },
+    "voice_160:r_099e2458cabf796f": {
+      "text": "Alto, don't make that new unit cry!",
+      "status": "imported"
+    },
+    "voice_160:r_c94c6d04be583774": {
+      "text": "Concentrating your attack, huh...!",
+      "status": "imported"
+    },
+    "voice_160:r_e54e2c99ef8297af": {
+      "text": "I'll cut off their escape!",
+      "status": "imported"
+    },
+    "voice_160:r_f16a3eb0bcaac082": {
+      "text": "I'll create an opening!",
+      "status": "imported"
+    },
+    "voice_160:r_10a408809e512df1": {
+      "text": "Let's see, who's my opponent?!",
+      "status": "imported"
+    },
+    "voice_160:r_bc7b9e308b879dd4": {
+      "text": "If our roles are already decided!",
+      "status": "imported"
+    },
+    "voice_160:r_98902fd3143c393e": {
+      "text": "I'll live up to your expectations!",
+      "status": "imported"
+    },
+    "voice_160:r_d907fbd7bc1c4298": {
+      "text": "Skull 2, roger!",
+      "status": "imported"
+    }
+  }
+}

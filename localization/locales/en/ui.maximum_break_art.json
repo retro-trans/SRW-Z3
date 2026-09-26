@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ui.maximum_break_art:r_7eb12ae097cca457": {
+      "text": "ALL Attack",
+      "status": "imported"
+    },
+    "ui.maximum_break_art:r_fa55d3474e084f49": {
+      "text": "Center Attack",
+      "status": "imported"
+    },
+    "ui.maximum_break_art:r_69c04257a2c25109": {
+      "text": "Wide Attack",
+      "status": "imported"
+    },
+    "ui.maximum_break_art:r_073548b99c9e4c4e": {
+      "text": "Assist Attack",
+      "status": "imported"
+    },
+    "ui.maximum_break_art:r_22bd019d87788dc4": {
+      "text": "Combo Attack",
+      "status": "imported"
+    },
+    "ui.maximum_break_art:r_dceb029fd06f4073": {
+      "text": "Counter",
+      "status": "imported"
+    },
+    "ui.maximum_break_art:r_19704e10653a2f7e": {
+      "text": "Attack Again",
+      "status": "imported"
+    },
+    "ui.maximum_break_art:r_356a93e55724f7e7": {
+      "text": "Support Attack",
+      "status": "imported"
+    },
+    "ui.maximum_break_art:r_4d15a524a933890f": {
+      "text": "Support Defend",
+      "status": "imported"
+    }
+  }
+}

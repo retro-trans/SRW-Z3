@@ -1,0 +1,390 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0013_04:r_caaab7bad760e16d": {
+      "text": "Terrorist\n「We've confirmed a riot in Colony Ariel!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_99b162aa6aa286a2": {
+      "text": "Terrorist\n「Did our comrades make a move?」",
+      "status": "imported"
+    },
+    "stage0013_04:r_58fb02434a1c40b2": {
+      "text": "Terrorist\n「The situation's unclear.\n　But this is our chance to seize Vice Minister\n　Darlian and Princess $$マリナ$$」",
+      "status": "imported"
+    },
+    "stage0013_04:r_1c0f94acd5a8a143": {
+      "text": "Terrorist\n「Earth-Space reconciliation? Unneeded...!\n　Anyone who preaches that is our enemy!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_1263541f4071624e": {
+      "text": "Terrorist\n「All units, breach Ariel!\n　Seize both to bargain with Earth Federation!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_3bc300bbdc277d82": {
+      "text": "Terrorist\n「Ariel has no real defense force!\n　Once we breach the colony, we've won!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_38762a09460d8b6b": {
+      "text": "Terrorist\n「Wait...!\n　Something's in our path!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_7ab28e70b4d4f641": {
+      "text": "$$ヒイロ$$\n（$$リリーナ$$...\n　Your enemy is my enemy）",
+      "status": "imported"
+    },
+    "stage0013_04:r_b05f6a6e8f3d9b24": {
+      "text": "Terrorist\n「That $$リーオー$$ means to get in our way!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_ec335e69f984b8b3": {
+      "text": "Terrorist\n「Ignore it!\n　One unit alone can't do a thing!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_0abcaf0c31978670": {
+      "text": "$$ヒイロ$$\n「Target confirmed.\n　Beginning elimination」",
+      "status": "imported"
+    },
+    "stage0013_04:r_1d6bc48b7f246730": {
+      "text": "$$ヒイロ$$\n「Reinforcements...!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_1af20fccc3c53cfc": {
+      "text": "$$ヒイロ$$\n「A Flag...?」",
+      "status": "imported"
+    },
+    "stage0013_04:r_f951916061232dcd": {
+      "text": "$$刹那$$\n「I've got your back, $$ヒイロ$$」",
+      "status": "imported"
+    },
+    "stage0013_04:r_4d863c3fb88a4c39": {
+      "text": "$$ヒイロ$$\n「What happened to the Gundam?」",
+      "status": "imported"
+    },
+    "stage0013_04:r_44f4742c3dcce39a": {
+      "text": "$$刹那$$\n「That's my line」",
+      "status": "imported"
+    },
+    "stage0013_04:r_9e701cdeb3842c21": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0013_04:r_6fd81f4abebe60c5": {
+      "text": "$$刹那$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0013_04:r_da2132b5038ec737": {
+      "text": "$$ヒイロ$$\n「Let's go.\n　No time for idle chatter」",
+      "status": "imported"
+    },
+    "stage0013_04:r_495d61d3ec7e16f2": {
+      "text": "$$刹那$$\n「Even without a Gundam,\n　there's still something we must do」",
+      "status": "imported"
+    },
+    "stage0013_04:r_5cd353758cfe474d": {
+      "text": "$$ヒイロ$$\n「But we're not the only ones fighting」",
+      "status": "imported"
+    },
+    "stage0013_04:r_a653c8dec4c0f06f": {
+      "text": "$$カミーユ$$\n「$$ヒイロ$$...!\n　And that Flag with you is...」",
+      "status": "imported"
+    },
+    "stage0013_04:r_86d493e37a9799a7": {
+      "text": "$$刹那$$\n「It's me」",
+      "status": "imported"
+    },
+    "stage0013_04:r_09d0fcc600cdd3df": {
+      "text": "$$カミーユ$$\n「$$刹那$$...!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_182faded068c15ed": {
+      "text": "$$ファ$$\n「Is Celestial Being cooperating\n　with $$プリベンター$$ too?」",
+      "status": "imported"
+    },
+    "stage0013_04:r_9c206d19bfda4bd5": {
+      "text": "$$刹那$$\n「We've been tracking colony movements\n　on our own, and learned of a group waging\n　terror in the name of colony liberation」",
+      "status": "imported"
+    },
+    "stage0013_04:r_6e558bc69acf5bf3": {
+      "text": "$$刹那$$\n「We're here, tracking them」",
+      "status": "imported"
+    },
+    "stage0013_04:r_d60d0818e965232f": {
+      "text": "$$リディ$$\n「So that Flag is piloted by\n　a Celestial Being Gundam Meister...」",
+      "status": "imported"
+    },
+    "stage0013_04:r_5b23687574286204": {
+      "text": "$n\n「Celestial Being...\n　The private armed group that aims to\n　eradicate war... Still active, huh」",
+      "status": "imported"
+    },
+    "stage0013_04:r_6fd86c96891ea942": {
+      "text": "$$カミーユ$$\n「Fighting terrorists in secret,\n　same as $$ミスリル$$」",
+      "status": "imported"
+    },
+    "stage0013_04:r_43e4e548c0b28376": {
+      "text": "$$カツ$$\n「So that's $$刹那・Ｆ・セイエイ$$,\n　the one who piloted the $$ダブルオーライザー$$...」",
+      "status": "imported"
+    },
+    "stage0013_04:r_d80a9688790ed583": {
+      "text": "$$スズネ$$\n「In the movie he was all hot-blooded hero,\n　but the real one's a bit different」",
+      "status": "imported"
+    },
+    "stage0013_04:r_708bea61e3c43ada": {
+      "text": "$$オットー$$\n「All units, keep terrorists from the colony!\n　Target whoever closes in!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_7b6f159eeaf4de0f": {
+      "text": "$$アルベルト$$\n「Wasting time here of all places...!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_0827963cfd706e8d": {
+      "text": "$$オットー$$\n「Please understand the situation, $$アルベルト$$.\n　The terrorists are targeting Vice Minister\n　Darlian and Princess $$マリナ$$」",
+      "status": "imported"
+    },
+    "stage0013_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$オットー$$\n「Vice Minister Darlian works for\n　Earth-Space reconciliation, and Princess\n　$$マリナ$$ is admired as a symbol of peace...」",
+      "status": "imported"
+    },
+    "stage0013_04:r_3f4035fd9db81258": {
+      "text": "$$オットー$$\n「If those two fall into terrorist hands,\n　do you get how much trouble that'd bring?」",
+      "status": "imported"
+    },
+    "stage0013_04:r_567b361a454c4b73": {
+      "text": "$$アルベルト$$\n（Tch...!\n　We might be on the brink of\n　an even bigger crisis than that!）",
+      "status": "imported"
+    },
+    "stage0013_04:r_d22851aaafbbf8fc": {
+      "text": "$$刹那$$\n「Let's go, $$ヒイロ$$.\n　We can't let them have those two」",
+      "status": "imported"
+    },
+    "stage0013_04:r_352534f64413d954": {
+      "text": "$$ヒイロ$$\n「I know」",
+      "status": "imported"
+    },
+    "stage0013_04:r_79f2664edb1af798": {
+      "text": "$$オットー$$\n「Looks like we managed to protect them...」",
+      "status": "imported"
+    },
+    "stage0013_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$アルベルト$$\n「Leave the cleanup to $$プリベンター$$'s agents.\n　Get this ship to Industrial 7, quickly」",
+      "status": "imported"
+    },
+    "stage0013_04:r_1c5aa0d15ae24846": {
+      "text": "$$レイアム$$\n「It looks like we may not have that option...!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_53bb64ee17750ee2": {
+      "text": "$$刹那$$\n「A pseudo-GN Drive unit...!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_7a7add80fde475ba": {
+      "text": "$$エマ$$\n「Seems they're terrorists too」",
+      "status": "imported"
+    },
+    "stage0013_04:r_b2befefdbed1393d": {
+      "text": "$$リディ$$\n「But their gear's different from\n　those old Zeon and OZ relics!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_2103f6df2ea2e447": {
+      "text": "$$カミーユ$$\n「That lead mobile suit, a new model...!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_a12e3e130d896ff7": {
+      "text": "$$トロワ$$\n「This unit's name is $$サーペント$$」",
+      "status": "imported"
+    },
+    "stage0013_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ファ$$\n「Huh...!?」",
+      "status": "imported"
+    },
+    "stage0013_04:r_91bf33c27ad39f0a": {
+      "text": "$$カミーユ$$\n「That voice... $$トロワ$$!?」",
+      "status": "imported"
+    },
+    "stage0013_04:r_ee220318b96ab538": {
+      "text": "$$トロワ$$\n「That's what I'm called now」",
+      "status": "imported"
+    },
+    "stage0013_04:r_ce1b55e526b6277a": {
+      "text": "$n\n「You know him, $$カミーユ$$?」",
+      "status": "imported"
+    },
+    "stage0013_04:r_c304df6888eb78f7": {
+      "text": "$$カミーユ$$\n「That's $$トロワ・バートン$$...\n　One of the colony Gundam pilots\n　who fought us in $$ＺＥＸＩＳ$$」",
+      "status": "imported"
+    },
+    "stage0013_04:r_c26958634526e597": {
+      "text": "$$刹那$$\n「What's going on, $$ヒイロ$$?」",
+      "status": "imported"
+    },
+    "stage0013_04:r_cdb750c9d380881a": {
+      "text": "$$ヒイロ$$\n「...I don't know」",
+      "status": "imported"
+    },
+    "stage0013_04:r_95fda74613c97b39": {
+      "text": "$$レイアム$$\n「The newly appeared force seems to be\n　targeting us, not the colony」",
+      "status": "imported"
+    },
+    "stage0013_04:r_1956994937f8171e": {
+      "text": "$$アルベルト$$\n「Don't tell me they're here to stall me...」",
+      "status": "imported"
+    },
+    "stage0013_04:r_48f49f6728c15612": {
+      "text": "$$オットー$$\n「What do you mean, $$アルベルト$$?」",
+      "status": "imported"
+    },
+    "stage0013_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$アルベルト$$\n「T-they're probably Neo Zeon agents!\n　Captain! Intercept them, now!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_f02c37d91387d0ad": {
+      "text": "$$オットー$$\n「Damn it...! If they're attacking first,\n　we've no choice but to fight back!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$ヒイロ$$\n「$$トロワ$$...」",
+      "status": "imported"
+    },
+    "stage0013_04:r_9796b3efa401a303": {
+      "text": "$$トロワ$$\n「Come, $$ヒイロ$$」",
+      "status": "imported"
+    },
+    "stage0013_04:r_643b6eebfc0186b3": {
+      "text": "$$トロワ$$\n「Unable to continue combat.\n　Falling back」",
+      "status": "imported"
+    },
+    "stage0013_04:r_291280e5f7eb9d70": {
+      "text": "$$カツ$$\n「Not letting them get away...!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_32eb462c1b4999cb": {
+      "text": "$$エマ$$\n「No need to pursue, $$カツ$$」",
+      "status": "imported"
+    },
+    "stage0013_04:r_1f4337d6d393fc37": {
+      "text": "$$リディ$$\n「Still, after attacking us like that,\n　they pulled back awfully easily...」",
+      "status": "imported"
+    },
+    "stage0013_04:r_4740e748fae085ee": {
+      "text": "$$カミーユ$$\n「$$ヒイロ$$...」",
+      "status": "imported"
+    },
+    "stage0013_04:r_b76524cd840e1d37": {
+      "text": "$$ヒイロ$$\n「I know.\n　That's his way of sending a message」",
+      "status": "imported"
+    },
+    "stage0013_04:r_730ffe18400abfc2": {
+      "text": "$n\n「A message...?」",
+      "status": "imported"
+    },
+    "stage0013_04:r_ffe0fca26da5cd38": {
+      "text": "$$ヒイロ$$\n「We'd better hurry」",
+      "status": "imported"
+    },
+    "stage0013_04:r_bfb27f9eb2f7073e": {
+      "text": "$$ヒイロ$$\n「You're going?」",
+      "status": "imported"
+    },
+    "stage0013_04:r_859dfa27bcaafe30": {
+      "text": "$$刹那$$\n「We'll meet again」",
+      "status": "imported"
+    },
+    "stage0013_04:r_71ebf05996a4b0fd": {
+      "text": "$$ヒイロ$$\n「Guess he hasn't changed either」",
+      "status": "imported"
+    },
+    "stage0013_04:r_6214c11b1bca811e": {
+      "text": "$$デュオ$$\n「Looks like things wrapped up here too」",
+      "status": "imported"
+    },
+    "stage0013_04:r_8eaf6f3098ffed12": {
+      "text": "$$ヒイロ$$\n「Are $$リリーナ$$ and the princess safe?」",
+      "status": "imported"
+    },
+    "stage0013_04:r_cf507214fe955d75": {
+      "text": "$$デュオ$$\n「Yeah, they're already somewhere safe」",
+      "status": "imported"
+    },
+    "stage0013_04:r_2113dcbabdfc758a": {
+      "text": "$$カミーユ$$\n「$$デュオ$$, tell us what happened in the colony」",
+      "status": "imported"
+    },
+    "stage0013_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$デュオ$$\n「I'll tell you aboard your ship.\n　Not sure what's going on, but we'd best hurry」",
+      "status": "imported"
+    },
+    "stage0013_04:r_6a74519e1fc29c4b": {
+      "text": "$$レイアム$$\n「The terrorists have latched onto Ariel!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_5b992878fee054b5": {
+      "text": "$$オットー$$\n「Knock them down, now!\n　Don't let them into the colony, no matter what!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$ヒイロ$$\n（$$リリーナ$$...）",
+      "status": "imported"
+    },
+    "stage0013_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ヒイロ$$\n（I'll protect her）",
+      "status": "imported"
+    },
+    "stage0013_04:r_20cf167c0ec0d4d5": {
+      "text": "$$刹那$$\n「If humanity can't stop fighting,\n　we'll fight on till they see their error...!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_b591d812c96c6c99": {
+      "text": "$$刹那$$\n「That's our mission, as Celestial Being...!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_e350fa099c1ab072": {
+      "text": "$$ヒイロ$$\n「What are you playing at, $$トロワ$$?」",
+      "status": "imported"
+    },
+    "stage0013_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$トロワ$$\n「My actions are all there is」",
+      "status": "imported"
+    },
+    "stage0013_04:r_c33bd700553abf91": {
+      "text": "$$ヒイロ$$\n「Fine.\n　Then I'll take you down」",
+      "status": "imported"
+    },
+    "stage0013_04:r_feee5c91826230e1": {
+      "text": "$$刹那$$\n「$$トロワ・バートン$$...!\n　Who's behind you!?」",
+      "status": "imported"
+    },
+    "stage0013_04:r_bccc48e1964ad22d": {
+      "text": "$$トロワ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0013_04:r_f8736aaaa216c766": {
+      "text": "$$刹那$$\n「If you won't answer, then I'll\n　strike the Barton Foundation directly...!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_d1ec2522c87c361d": {
+      "text": "$$カミーユ$$\n「I sense no killing intent from $$トロワ$$...!?\n　What does this mean...」",
+      "status": "imported"
+    },
+    "stage0013_04:r_3599f0a4343fd95c": {
+      "text": "$$トロワ$$\n（$$カミーユ$$... you noticed my intent）",
+      "status": "imported"
+    },
+    "stage0013_04:r_3bc7834a5bf3ee76": {
+      "text": "$n\n「This guy...!\n　No wonder, he's a Gundam pilot!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_366814efdc8b5800": {
+      "text": "$$トロワ$$\n「An unseasoned soldier has no place\n　on the battlefield. It only adds to grief」",
+      "status": "imported"
+    },
+    "stage0013_04:r_9be1a4c10bb62515": {
+      "text": "$n\n「If words like that could make me quit,\n　I'd have drowned in fear long ago!」",
+      "status": "imported"
+    },
+    "stage0013_04:r_94a88c90e557e16e": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

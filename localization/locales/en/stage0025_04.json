@@ -1,0 +1,542 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0025_04:r_caaab7bad760e16d": {
+      "text": "$$甲児$$\n「Not that bat bastard again!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_99b162aa6aa286a2": {
+      "text": "$$アルト$$\n「That's not all!\n　There are machines from all sorts of groups, too!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_58fb02434a1c40b2": {
+      "text": "$n\n「$$ジェニオン$$!!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_1c0f94acd5a8a143": {
+      "text": "$$スズネ$$\n「$n...!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_1263541f4071624e": {
+      "text": "$n\n「There's no choice, Miss Suzune!\n　Until the Quarter or the $$ネェル・アーガマ$$ arrive,\n　we have to protect the city ourselves!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_3bc300bbdc277d82": {
+      "text": "$$スズネ$$\n「I know that, but!\n　Can you even fight!?」",
+      "status": "imported"
+    },
+    "stage0025_04:r_38762a09460d8b6b": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0025_04:r_7ab28e70b4d4f641": {
+      "text": "$$スズネ$$\n（Are they scared...?\n　Does it have to do with their eyes turning red...）",
+      "status": "imported"
+    },
+    "stage0025_04:r_b05f6a6e8f3d9b24": {
+      "text": "$n\n「Even so... there's no choice...!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_ec335e69f984b8b3": {
+      "text": "$$スズネ$$\n「...All right.\n　But promise me you won't push yourself.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_0abcaf0c31978670": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0025_04:r_1d6bc48b7f246730": {
+      "text": "$$ワッ太$$\n「I'm counting on you, $n, Miss $$スズネ$$!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_1af20fccc3c53cfc": {
+      "text": "$$カレン$$\n「$$トウジ$$, $$ケンスケ$$, $$ヒカリ$$!\n　Don't you dare stray from us!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_f951916061232dcd": {
+      "text": "$$ヒカリ$$\n「Y-yes!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_4d863c3fb88a4c39": {
+      "text": "$$スズネ$$\n「Here it comes, $n!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_44f4742c3dcce39a": {
+      "text": "$n\n（I have to fight...!\n　This feeling... it must be nearby...）",
+      "status": "imported"
+    },
+    "stage0025_04:r_9e701cdeb3842c21": {
+      "text": "$$ガドライト$$\n「I don't like it. That blue machine...」",
+      "status": "imported"
+    },
+    "stage0025_04:r_6fd81f4abebe60c5": {
+      "text": "$$ガドライト$$\n「Up close, I like it even less.\n　Honestly...」",
+      "status": "imported"
+    },
+    "stage0025_04:r_da2132b5038ec737": {
+      "text": "$$スズネ$$\n「$n!\n　Everyone's come to help!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_495d61d3ec7e16f2": {
+      "text": "$$田中司令$$\n「$$甲児$$ and his school friends are safely aboard.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_5cd353758cfe474d": {
+      "text": "$$Ｆ．Ｓ．$$\n「Good...\n　Launch whichever machines are ready.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_a653c8dec4c0f06f": {
+      "text": "$$Ｃ．Ｃ．$$\n「It's been a while, $$カレン$$.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_86d493e37a9799a7": {
+      "text": "$$カレン$$\n「$$Ｃ．Ｃ．$$!\n　You were on the Quarter too!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_09d0fcc600cdd3df": {
+      "text": "$$Ｃ．Ｃ．$$\n「We've plenty to catch up on, but later.\n　I have something $$ルルーシュ$$ left with me.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_182faded068c15ed": {
+      "text": "$$カレン$$\n「This is...!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_9c206d19bfda4bd5": {
+      "text": "$$Ｃ．Ｃ．$$\n「I've got the bandana ready too.\n　Use it.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_6e558bc69acf5bf3": {
+      "text": "$$カレン$$\n「Thanks!\n　Now I can fight too!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_d60d0818e965232f": {
+      "text": "$$デュオ$$\n「Is that Guren!?」",
+      "status": "imported"
+    },
+    "stage0025_04:r_5b23687574286204": {
+      "text": "$$キリコ$$\n「Is that $$カレン$$?」",
+      "status": "imported"
+    },
+    "stage0025_04:r_6fd86c96891ea942": {
+      "text": "Kallen\n「That's right, $$キリコ$$!\n　$$紅月カレン$$... reporting back!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_43e4e548c0b28376": {
+      "text": "$$クラン$$\n「So the cargo $$Ｃ．Ｃ．$$ brought aboard\n　was the S.E.I.T.E.N. Eight Elements!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_d80a9688790ed583": {
+      "text": "$$アルト$$\n「$$カレン$$!\n　I need you to back up $n!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_708bea61e3c43ada": {
+      "text": "$$カレン$$\n「Got it!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_7b6f159eeaf4de0f": {
+      "text": "$n\n「What are you playing at?」",
+      "status": "imported"
+    },
+    "stage0025_04:r_0827963cfd706e8d": {
+      "text": "Kallen\n「I'm $$紅月カレン$$.\n　Former captain of $$ゼロ$$'s guard in the Black Knights.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$カレン$$\n「I'll take point!\n　You back me up!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_3f4035fd9db81258": {
+      "text": "$n\n「I don't need any help...!\n　I'm...!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_567b361a454c4b73": {
+      "text": "$$カレン$$\n「Cut it out already!\n　Think I'd leave someone fighting while scared!?」",
+      "status": "imported"
+    },
+    "stage0025_04:r_d22851aaafbbf8fc": {
+      "text": "$n\n「!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_352534f64413d954": {
+      "text": "$$カレン$$\n「If you want to act tough,\n　do something about that shaky voice first.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_79f2664edb1af798": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0025_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$オズマ$$\n「Skull Leader to all units!\n　Leave $n to $$カレン$$,\n　the rest of us hit the Unknowns!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_1c5aa0d15ae24846": {
+      "text": "$$アムロ$$\n「Them... invaders from another dimension after all...」",
+      "status": "imported"
+    },
+    "stage0025_04:r_53bb64ee17750ee2": {
+      "text": "$$カミーユ$$\n「Transferring in while the dimensional boundary\n　is stable, of all things...」",
+      "status": "imported"
+    },
+    "stage0025_04:r_7a7add80fde475ba": {
+      "text": "$$赤木$$\n「Whoever you are,\n　if you're taking everyone's peace away,\n　we'll be the ones to face you!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_b2befefdbed1393d": {
+      "text": "$$ジェフリー$$\n「All units, commence attack!\n　Intercept the Unknowns!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_2103f6df2ea2e447": {
+      "text": "$$カレン$$\n「Here I come!\n　You'll be the opponents in my comeback fight!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_a12e3e130d896ff7": {
+      "text": "$$キャシー$$\n「The dimensional boundary is distorting!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ジェフリー$$\n「A dimensional tremor... or could it be a $$時空震動$$!?」",
+      "status": "imported"
+    },
+    "stage0025_04:r_91bf33c27ad39f0a": {
+      "text": "$$オットー$$\n「What's going on!?\n　Weren't $$時空震動$$s supposed to be over!?」",
+      "status": "imported"
+    },
+    "stage0025_04:r_ee220318b96ab538": {
+      "text": "$$Ｆ．Ｓ．$$\n「Here it comes...!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_ce1b55e526b6277a": {
+      "text": "$$シン$$\n「Their reinforcements!?」",
+      "status": "imported"
+    },
+    "stage0025_04:r_c304df6888eb78f7": {
+      "text": "$$竜馬$$\n「This ain't like the bats we've fought before!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_c26958634526e597": {
+      "text": "$$正太郎$$\n「That humanoid machine,\n　it's the one that showed up when $$ジェニオン$$ came here!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_cdb750c9d380881a": {
+      "text": "$$アンナロッタ$$\n「All units, disperse...\n　Annihilate the enemy force.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_95fda74613c97b39": {
+      "text": "$$バナージ$$\n「It spoke...!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_1956994937f8171e": {
+      "text": "$$リディ$$\n「So it's manned, then...!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_48f49f6728c15612": {
+      "text": "$$ミヒロ$$\n「Captain!\n　The Unknowns are ignoring our transmissions!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$レイアム$$\n「Safe to say they have no intention of a ceasefire.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_f02c37d91387d0ad": {
+      "text": "$$オットー$$\n「No choice, then!\n　We return fire!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$アムロ$$\n「All units, target the machine held back in the rear!\n　That's the commander's unit!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_9796b3efa401a303": {
+      "text": "$$アンナロッタ$$\n「Coming at us, are you, Earthlings...」",
+      "status": "imported"
+    },
+    "stage0025_04:r_643b6eebfc0186b3": {
+      "text": "$$アンナロッタ$$\n「Ignorant fools of the frontier.\n　I'll show you the power of G...!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_291280e5f7eb9d70": {
+      "text": "$$アンナロッタ$$\n「You've done more than I expected...\n　I'll allow that you're an obstacle to the plan.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_32eb462c1b4999cb": {
+      "text": "$$アンナロッタ$$\n「You've done more than I expected...!\n　But!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_1f4337d6d393fc37": {
+      "text": "$$アンナロッタ$$\n「For now, call it an obstacle to the plan.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_4740e748fae085ee": {
+      "text": "$$カレン$$\n「What kind of nonsense...!\n　Just who the hell are you people!?」",
+      "status": "imported"
+    },
+    "stage0025_04:r_b76524cd840e1d37": {
+      "text": "$$スズネ$$\n「$n...!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_730ffe18400abfc2": {
+      "text": "$n\n「If you won't answer, I'll force it out of you!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_ffe0fca26da5cd38": {
+      "text": "$$宗介$$\n「Don't be reckless, $n!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_bfb27f9eb2f7073e": {
+      "text": "$n\n「Raaaargh!!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_859dfa27bcaafe30": {
+      "text": "$$カレン$$\n「You're...!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_71ebf05996a4b0fd": {
+      "text": "$$スズネ$$\n「$$カレン$$!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_6214c11b1bca811e": {
+      "text": "$n\n「You... protected me...」",
+      "status": "imported"
+    },
+    "stage0025_04:r_8eaf6f3098ffed12": {
+      "text": "$$カレン$$\n「Don't get the wrong idea...\n　I just didn't want you to push\n　yourself any harder than this...!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_cf507214fe955d75": {
+      "text": "$$カレン$$\n「Anyone who can't face their own fear\n　has no business on a battlefield!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_2113dcbabdfc758a": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0025_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$アンナロッタ$$\n「I have no interest in your reasons!\n　But since you chased me this far, prepare yourself!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_6a74519e1fc29c4b": {
+      "text": "$$スズネ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_5b992878fee054b5": {
+      "text": "$n\n「Ngh!!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_95a3dd16c2c4cc3e": {
+      "text": "$n\n「I won't die in a place like this!!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_4a14ec0c511c7f0d": {
+      "text": "$$アンナロッタ$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0025_04:r_20cf167c0ec0d4d5": {
+      "text": "$n\n「Waaaaaugh!!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_b591d812c96c6c99": {
+      "text": "$$アンナロッタ$$\n「Tch... that machine...!\n　What in the world is this!?」",
+      "status": "imported"
+    },
+    "stage0025_04:r_e350fa099c1ab072": {
+      "text": "$$バナージ$$\n「That robot... it transformed...」",
+      "status": "imported"
+    },
+    "stage0025_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$葵$$\n「I never knew $$ジェニオン$$ had a function like that...」",
+      "status": "imported"
+    },
+    "stage0025_04:r_c33bd700553abf91": {
+      "text": "$$甲児$$\n「That's amazing, $n!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_feee5c91826230e1": {
+      "text": "$n\n「...I...」",
+      "status": "imported"
+    },
+    "stage0025_04:r_bccc48e1964ad22d": {
+      "text": "$$宗介$$\n「$n!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_f8736aaaa216c766": {
+      "text": "$$マオ$$\n「This is bad!\n　They've lost consciousness!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_d1ec2522c87c361d": {
+      "text": "$$スズネ$$\n「$n...!\n　Hold on, $n!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_3599f0a4343fd95c": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0025_04:r_3bc7834a5bf3ee76": {
+      "text": "$$ガドライト$$\n「I like that blue one even less now...」",
+      "status": "imported"
+    },
+    "stage0025_04:r_366814efdc8b5800": {
+      "text": "$$ガドライト$$\n「Not just hurting little $$アンナロッタ$$,\n　but bringing out something like that too...」",
+      "status": "imported"
+    },
+    "stage0025_04:r_9be1a4c10bb62515": {
+      "text": "$$ガドライト$$\n「Ah, whatever...\n　We've got a big job waiting on our end...\n　I'll let this slide until then.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_94a88c90e557e16e": {
+      "text": "???\n「.........」",
+      "status": "imported"
+    },
+    "stage0025_04:r_1c208ca0cbf26f28": {
+      "text": "Trooper\n「Captain...」",
+      "status": "imported"
+    },
+    "stage0025_04:r_5b7ee307a700171a": {
+      "text": "Trooper\n「As I thought, they're the right ones for the job...」",
+      "status": "imported"
+    },
+    "stage0025_04:r_8d8f065c932da30a": {
+      "text": "???\n「Delightful news.\n　Then we'll watch for a chance to reach out ourselves.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_f5432119677514f7": {
+      "text": "$$アムロ$$\n「Even with things in space so unstable,\n　to think guys like this would show up too...!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_4e5c8e989c4a7691": {
+      "text": "$$アムロ$$\n「Where are you, $$シャア$$...!\n　Humanity doesn't have the luxury\n　of Earth and the colonies fighting each other!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_adec86483b13599a": {
+      "text": "$$シン$$\n「I don't know who you are,\n　but if you want a war, I'll be your opponent!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_2cf701bbcde3ec13": {
+      "text": "$$シン$$\n「I'll protect them, I swear!\n　Earth, $$プラント$$, everyone, all of them!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_c17c58fdba72005e": {
+      "text": "$$ヒイロ$$\n（$$リリーナ$$...）",
+      "status": "imported"
+    },
+    "stage0025_04:r_1fe8564d2b959317": {
+      "text": "$$ヒイロ$$\n（I'll fight for peace in my own way...!）",
+      "status": "imported"
+    },
+    "stage0025_04:r_f527e012803f7f1c": {
+      "text": "$$ゼクス$$\n「Even a man like me can do something for the world...!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_4b1247bd3ca4905d": {
+      "text": "$$ゼクス$$\n「$$リリーナ$$...!\n　The peace you all built, I will protect it, I swear!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_00c55e25f87b71d0": {
+      "text": "$$ゼクス$$\n「So, $$トレーズ$$...!\n　Joining you will have to wait a while longer!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_338f3b27e51dcc41": {
+      "text": "$$バナージ$$\n「If I stay in this unit,\n　I'll end up fighting people like this too...!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_d91d4bc2d52b61c4": {
+      "text": "$$バナージ$$\n「But still...!\n　$$オードリー$$ acted to stop the war too!\n　So then, I will too!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_0c8ea89b07432421": {
+      "text": "$$赤木$$\n「$$界震$$s have gotten less frequent,\n　but $$ダイ・ガード$$'s gotten stronger!\n　I'm gonna use that power to the fullest!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_4dbfba00ba7744ee": {
+      "text": "$$いぶき$$\n「You're fired up, $$赤木$$.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_be100a32b731708d": {
+      "text": "$$青山$$\n「Seems like he's really happy\n　to be able to fight for peace.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_702f82442fcec8a9": {
+      "text": "$$赤木$$\n「Don't get the wrong idea, $$青山$$.\n　I still think it'd be best\n　if $$ダイ・ガード$$ never had to scramble at all.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_b1e38da4e8775ffe": {
+      "text": "$$赤木$$\n「But if $$ダイ・ガード$$'s strength is ever needed,\n　I'll just give it everything I've got!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$いぶき$$\n「I know that, $$赤木$$.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$青山$$\n「Then give us your usual fighting spirit.」",
+      "status": "imported"
+    },
+    "stage0025_04:r_3dad695c99e9e052": {
+      "text": "$$赤木$$\n「Here we goooo!\n　Even a salaryman can protect the peace!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_66d4ae3a21caf881": {
+      "text": "$$タケル$$\n「Even with the Demon King's threat closing in,\n　now a new enemy shows up too...!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_0c18da7b3a37825d": {
+      "text": "$$タケル$$\n「But we won't lose!\n　As long as this vow to peace lives in my heart,\n　no enemy will make us back down!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_63249745ffae61b6": {
+      "text": "$$シンジ$$\n（I'm not the only one fighting...）",
+      "status": "imported"
+    },
+    "stage0025_04:r_abdb034ae8509702": {
+      "text": "$$シンジ$$\n（There's $$赤木$$, $$甲児$$, and Rei too...）",
+      "status": "imported"
+    },
+    "stage0025_04:r_3ff2e21207d1d1d3": {
+      "text": "$$シンジ$$\n（Mr. $$扇$$... you don't need to worry.\n　I intend to do what I can do.）",
+      "status": "imported"
+    },
+    "stage0025_04:r_e51ecf6d6aa42e75": {
+      "text": "$$カレン$$\n「I was going to play the quiet student,\n　but this doesn't look like the time for that!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_47ddabb7b60131c2": {
+      "text": "$$カレン$$\n「Fine...!\n　I'll make up my mind too!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_b025267f22788233": {
+      "text": "$$カレン$$\n「This is the peace so many people wished for...!\n　I'll fight to protect it too!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_ec1a06a7023bf72c": {
+      "text": "$n\n「Where...?\n　Where are they...!?」",
+      "status": "imported"
+    },
+    "stage0025_04:r_8805f96e52aaa462": {
+      "text": "$$スズネ$$\n「Calm down, $n...!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_124591cb154fae64": {
+      "text": "$n\n「...Sorry, Miss $$スズネ$$...\n　But I... maybe I've been fighting\n　for a day like today all along!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$アンナロッタ$$\n「I don't like that machine's existence...!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_4bf9b05b5f948170": {
+      "text": "$n\n「This person...!\n　You know about $$ジェニオン$$!?」",
+      "status": "imported"
+    },
+    "stage0025_04:r_eaa52d152f444bfd": {
+      "text": "$$アンナロッタ$$\n「I have no interest in names...!\n　But you who wield power beyond your worth\n　have invited your own ruin!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_b4bc9e9435b58e6f": {
+      "text": "$$アンナロッタ$$\n「Before you truly fall into despair,\n　I myself will deliver the final blow!」",
+      "status": "imported"
+    },
+    "stage0025_04:r_a9227573166977a9": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

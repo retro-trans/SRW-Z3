@@ -1,0 +1,334 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_163:r_479b340ccc6c572b": {
+      "text": "Farewell.",
+      "status": "imported"
+    },
+    "voice_163:r_77949221bf58f862": {
+      "text": "I'll erase you.",
+      "status": "imported"
+    },
+    "voice_163:r_70b9c4b9f1f37eff": {
+      "text": "You're in my way.",
+      "status": "imported"
+    },
+    "voice_163:r_9fcb3754cb1773c7": {
+      "text": "I'll take you down.",
+      "status": "imported"
+    },
+    "voice_163:r_3559d2fad32c2435": {
+      "text": "This will do it.",
+      "status": "imported"
+    },
+    "voice_163:r_f7570547e9f80a64": {
+      "text": "Time to say goodbye.",
+      "status": "imported"
+    },
+    "voice_163:r_cbab0f4720e1fcf1": {
+      "text": "I don't like this person.",
+      "status": "imported"
+    },
+    "voice_163:r_0bbe0b4f5364e732": {
+      "text": "Hold still.",
+      "status": "imported"
+    },
+    "voice_163:r_5dda5198137cb02a": {
+      "text": "Struggle and it'll only hurt more.",
+      "status": "imported"
+    },
+    "voice_163:r_83ec59afbecdec14": {
+      "text": "So, you want to suffer.",
+      "status": "imported"
+    },
+    "voice_163:r_e20bfd42ad95a3c9": {
+      "text": "I could kill you anytime.",
+      "status": "imported"
+    },
+    "voice_163:r_0f58a8822381e57f": {
+      "text": "I'll do what Sensei wishes.",
+      "status": "imported"
+    },
+    "voice_163:r_6dbcc507fb61b51d": {
+      "text": "I'll use this one.",
+      "status": "imported"
+    },
+    "voice_163:r_b42ab697149a7c8a": {
+      "text": "I've got a lock.",
+      "status": "imported"
+    },
+    "voice_163:r_4de4fcf3b440baf4": {
+      "text": "Got you.",
+      "status": "imported"
+    },
+    "voice_163:r_0121a166c715cdff": {
+      "text": "I'll crush the cockpit.",
+      "status": "imported"
+    },
+    "voice_163:r_30fad37a42bd3ad3": {
+      "text": "This is the end!",
+      "status": "imported"
+    },
+    "voice_163:r_80a0b2a84e05d81a": {
+      "text": "Yes, I like this one better.",
+      "status": "imported"
+    },
+    "voice_163:r_4a9ac1dff86506d9": {
+      "text": "No matter what, you can't escape.",
+      "status": "imported"
+    },
+    "voice_163:r_bc8538e6af3d2577": {
+      "text": "I'm better outside a machine.",
+      "status": "imported"
+    },
+    "voice_163:r_924516c8de2b5342": {
+      "text": "Finishing blow.",
+      "status": "imported"
+    },
+    "voice_163:r_da1174533722333f": {
+      "text": "Next time, I'll finish you.",
+      "status": "imported"
+    },
+    "voice_163:r_fdeb8162976e72c1": {
+      "text": "I'll drive you into a corner!",
+      "status": "imported"
+    },
+    "voice_163:r_0fadb5c26df92b42": {
+      "text": "Found you, Sousuke Sagara.",
+      "status": "imported"
+    },
+    "voice_163:r_6b15af9a0057cdc8": {
+      "text": "That woman looks tenacious.",
+      "status": "imported"
+    },
+    "voice_163:r_af884a6b11dff121": {
+      "text": "I won't let you snipe anyone.",
+      "status": "imported"
+    },
+    "voice_163:r_aabfb21c9d069ce7": {
+      "text": "This one moves differently!",
+      "status": "imported"
+    },
+    "voice_163:r_02479dc8fe989560": {
+      "text": "So these are Mithril's people.",
+      "status": "imported"
+    },
+    "voice_163:r_b1de76a75a253c13": {
+      "text": "Running away won't help you.",
+      "status": "imported"
+    },
+    "voice_163:r_128c35bf3e0e394c": {
+      "text": "I have to pay you back properly.",
+      "status": "imported"
+    },
+    "voice_163:r_5213c17e13b23de0": {
+      "text": "You think you can escape?",
+      "status": "imported"
+    },
+    "voice_163:r_38fdff9483e9245c": {
+      "text": "You knew this would happen, right?",
+      "status": "imported"
+    },
+    "voice_163:r_620fedec67706d7d": {
+      "text": "That move will cost you your life.",
+      "status": "imported"
+    },
+    "voice_163:r_9680dcd0fddcfcc7": {
+      "text": "Now it's my turn.",
+      "status": "imported"
+    },
+    "voice_163:r_2a00f1044ad5cbaa": {
+      "text": "I'll follow up with an attack.",
+      "status": "imported"
+    },
+    "voice_163:r_3dbeead1bd3164ef": {
+      "text": "You're in my way, so move.",
+      "status": "imported"
+    },
+    "voice_163:r_98d15b8cc09bc915": {
+      "text": "Sensei, watch me.",
+      "status": "imported"
+    },
+    "voice_163:r_46e86d000250e137": {
+      "text": "Let me handle this, Sis.",
+      "status": "imported"
+    },
+    "voice_163:r_ac341e7976e88f0b": {
+      "text": "Fall back.",
+      "status": "imported"
+    },
+    "voice_163:r_cdbd128a5b4127cc": {
+      "text": "This is part of the job.",
+      "status": "imported"
+    },
+    "voice_163:r_cfccaa1fbeda124c": {
+      "text": "I won't let you hurt Sensei!",
+      "status": "imported"
+    },
+    "voice_163:r_b1f8ec192b9c083a": {
+      "text": "I have to protect Sis!",
+      "status": "imported"
+    },
+    "voice_163:r_a007f9ab9cf048b3": {
+      "text": "I wasted one chance.",
+      "status": "imported"
+    },
+    "voice_163:r_ddafde4b065ced49": {
+      "text": "It doesn't change that you'll die.",
+      "status": "imported"
+    },
+    "voice_163:r_de1213040856c089": {
+      "text": "All you're doing is buying time.",
+      "status": "imported"
+    },
+    "voice_163:r_3304412ac41f47a6": {
+      "text": "How foolish.",
+      "status": "imported"
+    },
+    "voice_163:r_0c0775e051211840": {
+      "text": "Sensei taught me this.",
+      "status": "imported"
+    },
+    "voice_163:r_a2afffe1c396f0b3": {
+      "text": "Is that all?",
+      "status": "imported"
+    },
+    "voice_163:r_13c25fbdfddc8a24": {
+      "text": "What a boring battle.",
+      "status": "imported"
+    },
+    "voice_163:r_42ba1ecb310b4bd7": {
+      "text": "Try putting up a real fight.",
+      "status": "imported"
+    },
+    "voice_163:r_d692f1d420460a47": {
+      "text": "Sis... I want to go home now...",
+      "status": "imported"
+    },
+    "voice_163:r_a5643cec86b18bd2": {
+      "text": "Sensei... This man is boring.",
+      "status": "imported"
+    },
+    "voice_163:r_68f2dfab20a4a30e": {
+      "text": "Mithril... How weak.",
+      "status": "imported"
+    },
+    "voice_163:r_9cedad8237480563": {
+      "text": "There's no point in even trying.",
+      "status": "imported"
+    },
+    "voice_163:r_a03fabecba1508ca": {
+      "text": "As if that could work.",
+      "status": "imported"
+    },
+    "voice_163:r_546c3d5937fbb7ee": {
+      "text": "The Lambda Driver has activated.",
+      "status": "imported"
+    },
+    "voice_163:r_a77f4913375098d2": {
+      "text": "Hurry up and get serious.",
+      "status": "imported"
+    },
+    "voice_163:r_428c2116ac3071b1": {
+      "text": "What a pointless, boring attack.",
+      "status": "imported"
+    },
+    "voice_163:r_84c116267b79f540": {
+      "text": "That hit me... But that's all.",
+      "status": "imported"
+    },
+    "voice_163:r_dad38ee29af2df3a": {
+      "text": "Why don't you just stop?",
+      "status": "imported"
+    },
+    "voice_163:r_3d32e86f8dc80909": {
+      "text": "So that's the best you can do.",
+      "status": "imported"
+    },
+    "voice_163:r_70451ffbabe2f876": {
+      "text": "Sis... They're weak.",
+      "status": "imported"
+    },
+    "voice_163:r_69dfa1659715e2fa": {
+      "text": "So you can entertain me a little.",
+      "status": "imported"
+    },
+    "voice_163:r_d996fd6d4ef5b329": {
+      "text": "Struggling will only hurt you more.",
+      "status": "imported"
+    },
+    "voice_163:r_8ab47a28f99ef565": {
+      "text": "You can do this too.",
+      "status": "imported"
+    },
+    "voice_163:r_546de3fb6db156ea": {
+      "text": "Resisting is pointless.",
+      "status": "imported"
+    },
+    "voice_163:r_ca85f87cee5e31f7": {
+      "text": "I'll get you back for this later.",
+      "status": "imported"
+    },
+    "voice_163:r_9072ea7bc71df136": {
+      "text": "Are you sure you shouldn't kill me?",
+      "status": "imported"
+    },
+    "voice_163:r_04e815a8d425827d": {
+      "text": "Sousuke Sagara... Sensei's beloved.",
+      "status": "imported"
+    },
+    "voice_163:r_d89011fe3e5d082a": {
+      "text": "Mithril... They're well trained.",
+      "status": "imported"
+    },
+    "voice_163:r_7bea3023abbf8a94": {
+      "text": "Aagh...!",
+      "status": "imported"
+    },
+    "voice_163:r_dd01a4c0d1b36a8d": {
+      "text": "I knew it... I don't like you.",
+      "status": "imported"
+    },
+    "voice_163:r_20920ad2eb3542db": {
+      "text": "Don't think you can make me scream.",
+      "status": "imported"
+    },
+    "voice_163:r_0ab7914877fd48ed": {
+      "text": "Not yet... I must make Sensei proud!",
+      "status": "imported"
+    },
+    "voice_163:r_cb846feec748c2e3": {
+      "text": "We still have\\nsomething we must do!",
+      "status": "imported"
+    },
+    "voice_163:r_c958860b0676b1f5": {
+      "text": "Sis... Sis...!",
+      "status": "imported"
+    },
+    "voice_163:r_5e2669b82ef75ce3": {
+      "text": "I'm sorry, Sensei...",
+      "status": "imported"
+    },
+    "voice_163:r_7847e0ed7dc9282d": {
+      "text": "Sis, it's so cold here...",
+      "status": "imported"
+    },
+    "voice_163:r_e42b52c7a987b906": {
+      "text": "I'll draw their attention.",
+      "status": "imported"
+    },
+    "voice_163:r_6825fd1ff907bd22": {
+      "text": "I'll keep the enemy in check.",
+      "status": "imported"
+    },
+    "voice_163:r_607f666f1563bc0d": {
+      "text": "I just have to destroy that.",
+      "status": "imported"
+    },
+    "voice_163:r_97b7431eeb81e6b6": {
+      "text": "I'll handle this side.",
+      "status": "imported"
+    }
+  }
+}

@@ -1,0 +1,1458 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_185:r_479b340ccc6c572b": {
+      "text": "Position secured. Begin cleanup!",
+      "status": "imported"
+    },
+    "voice_185:r_ca4acbac57a2a35e": {
+      "text": "Urzu 7 to all. Mission commencing!",
+      "status": "imported"
+    },
+    "voice_185:r_77949221bf58f862": {
+      "text": "This is our opening... Attack!",
+      "status": "imported"
+    },
+    "voice_185:r_70b9c4b9f1f37eff": {
+      "text": "Range is good... Let's do this!",
+      "status": "imported"
+    },
+    "voice_185:r_9fcb3754cb1773c7": {
+      "text": "Incoming. Enemy at 11, range 3.",
+      "status": "imported"
+    },
+    "voice_185:r_3559d2fad32c2435": {
+      "text": "Let's clean them up!",
+      "status": "imported"
+    },
+    "voice_185:r_f7570547e9f80a64": {
+      "text": "Enemy at 8, range 3.",
+      "status": "imported"
+    },
+    "voice_185:r_cbab0f4720e1fcf1": {
+      "text": "Hit them before they notice.",
+      "status": "imported"
+    },
+    "voice_185:r_0bbe0b4f5364e732": {
+      "text": "Let's begin!",
+      "status": "imported"
+    },
+    "voice_185:r_5dda5198137cb02a": {
+      "text": "Roger.",
+      "status": "imported"
+    },
+    "voice_185:r_83ec59afbecdec14": {
+      "text": "Are you ready?",
+      "status": "imported"
+    },
+    "voice_185:r_e20bfd42ad95a3c9": {
+      "text": "Affirmative. Preparations complete.",
+      "status": "imported"
+    },
+    "voice_185:r_0f58a8822381e57f": {
+      "text": "Take this!",
+      "status": "imported"
+    },
+    "voice_185:r_6dbcc507fb61b51d": {
+      "text": "It's over!",
+      "status": "imported"
+    },
+    "voice_185:r_b42ab697149a7c8a": {
+      "text": "Target sighted!",
+      "status": "imported"
+    },
+    "voice_185:r_4de4fcf3b440baf4": {
+      "text": "You lose!",
+      "status": "imported"
+    },
+    "voice_185:r_0121a166c715cdff": {
+      "text": "I won't miss!",
+      "status": "imported"
+    },
+    "voice_185:r_30fad37a42bd3ad3": {
+      "text": "Direct hit!",
+      "status": "imported"
+    },
+    "voice_185:r_80a0b2a84e05d81a": {
+      "text": "You're mine!",
+      "status": "imported"
+    },
+    "voice_185:r_4a9ac1dff86506d9": {
+      "text": "Eat this!",
+      "status": "imported"
+    },
+    "voice_185:r_bc8538e6af3d2577": {
+      "text": "You're no match for me!",
+      "status": "imported"
+    },
+    "voice_185:r_924516c8de2b5342": {
+      "text": "Prepare yourself!",
+      "status": "imported"
+    },
+    "voice_185:r_da1174533722333f": {
+      "text": "Too bad for you!",
+      "status": "imported"
+    },
+    "voice_185:r_fdeb8162976e72c1": {
+      "text": "I'll do this my way!",
+      "status": "imported"
+    },
+    "voice_185:r_0fadb5c26df92b42": {
+      "text": "Urzu 7, commencing combat!",
+      "status": "imported"
+    },
+    "voice_185:r_6b15af9a0057cdc8": {
+      "text": "Once I've found you, you've lost!",
+      "status": "imported"
+    },
+    "voice_185:r_15b4a90140e8a33a": {
+      "text": "You let your guard down!",
+      "status": "imported"
+    },
+    "voice_185:r_af884a6b11dff121": {
+      "text": "Your judgment is wrong!",
+      "status": "imported"
+    },
+    "voice_185:r_ac6fe7838e95647b": {
+      "text": "Come on! Show me what you've got!",
+      "status": "imported"
+    },
+    "voice_185:r_77ca87eacd17ad52": {
+      "text": "Lose your cool in battle,\\ndie first!",
+      "status": "imported"
+    },
+    "voice_185:r_bf3244994760e535": {
+      "text": "We'll clear out the nearest first!",
+      "status": "imported"
+    },
+    "voice_185:r_aabfb21c9d069ce7": {
+      "text": "Roger.",
+      "status": "imported"
+    },
+    "voice_185:r_02479dc8fe989560": {
+      "text": "Proceed, Sergeant.",
+      "status": "imported"
+    },
+    "voice_185:r_a2df00f91a9b0a9e": {
+      "text": "Commencing combat!",
+      "status": "imported"
+    },
+    "voice_185:r_48b60d6c48b9b142": {
+      "text": "Proximity alert.",
+      "status": "imported"
+    },
+    "voice_185:r_8927e6fb681aa809": {
+      "text": "All right, let's attack!",
+      "status": "imported"
+    },
+    "voice_185:r_665f01666859013b": {
+      "text": "Can we take them down...?",
+      "status": "imported"
+    },
+    "voice_185:r_a571eec59b258d11": {
+      "text": "Assessment: possible.",
+      "status": "imported"
+    },
+    "voice_185:r_ddbe581c5ea9183d": {
+      "text": "Shall we cut loose, Sergeant?",
+      "status": "imported"
+    },
+    "voice_185:r_faae935cca0edc72": {
+      "text": "Yeah, let's do that!",
+      "status": "imported"
+    },
+    "voice_185:r_d4430bf362340b32": {
+      "text": "I'll finish this in three minutes!",
+      "status": "imported"
+    },
+    "voice_185:r_6ff1323b355593e0": {
+      "text": "Three is impossible. About 4:12.",
+      "status": "imported"
+    },
+    "voice_185:r_b7b5625d7cd4282f": {
+      "text": "Shall we be reckless for once?",
+      "status": "imported"
+    },
+    "voice_185:r_36133ad73a73ef98": {
+      "text": "I don't consider this reckless!",
+      "status": "imported"
+    },
+    "voice_185:r_920740a0219c5085": {
+      "text": "We'll make the first move!",
+      "status": "imported"
+    },
+    "voice_185:r_a8451712c57c1a72": {
+      "text": "Preparations were already complete.",
+      "status": "imported"
+    },
+    "voice_185:r_3633df5b7b8f47fa": {
+      "text": "If we've got the range!",
+      "status": "imported"
+    },
+    "voice_185:r_52dfc56b14b93551": {
+      "text": "Line of fire is clear.",
+      "status": "imported"
+    },
+    "voice_185:r_1b9b2aab5cb104da": {
+      "text": "So this is effective!",
+      "status": "imported"
+    },
+    "voice_185:r_342044c706a2340f": {
+      "text": "Target locked!",
+      "status": "imported"
+    },
+    "voice_185:r_cf41e8828a90cbdb": {
+      "text": "Switching to precision fire mode.",
+      "status": "imported"
+    },
+    "voice_185:r_719e897304ec42d4": {
+      "text": "Roger. Precision fire mode.",
+      "status": "imported"
+    },
+    "voice_185:r_d5e0a2317c40d322": {
+      "text": "We'll take them in close combat!",
+      "status": "imported"
+    },
+    "voice_185:r_ec2ea17765052401": {
+      "text": "Don't think you can dodge!",
+      "status": "imported"
+    },
+    "voice_185:r_f2d4255f1c2f7542": {
+      "text": "At this range...!",
+      "status": "imported"
+    },
+    "voice_185:r_5d08ad19e2da125b": {
+      "text": "At this distance... Got you!",
+      "status": "imported"
+    },
+    "voice_185:r_a7246b52782a877e": {
+      "text": "Diving into close range!",
+      "status": "imported"
+    },
+    "voice_185:r_dc8701f6bcb9904f": {
+      "text": "Roger.",
+      "status": "imported"
+    },
+    "voice_185:r_d6bdd730f24f66eb": {
+      "text": "Prepare for close combat!",
+      "status": "imported"
+    },
+    "voice_185:r_41997412868c48c4": {
+      "text": "Ready.",
+      "status": "imported"
+    },
+    "voice_185:r_9e6cf4f389dae55c": {
+      "text": "I won't let that opening slip by!",
+      "status": "imported"
+    },
+    "voice_185:r_9e0c80ac7e33b459": {
+      "text": "The momentum is still with us!",
+      "status": "imported"
+    },
+    "voice_185:r_7432ef43ed3471dc": {
+      "text": "Continue the attack.",
+      "status": "imported"
+    },
+    "voice_185:r_065443f6ddfcf0d7": {
+      "text": "I know!",
+      "status": "imported"
+    },
+    "voice_185:r_47d52a2839c71715": {
+      "text": "Sergeant, we can still continue.",
+      "status": "imported"
+    },
+    "voice_185:r_847f82e7f3eef651": {
+      "text": "So it seems!",
+      "status": "imported"
+    },
+    "voice_185:r_eb7ae28b53dc033c": {
+      "text": "Pursue them?",
+      "status": "imported"
+    },
+    "voice_185:r_857c4a52ce8df0fd": {
+      "text": "Of course!",
+      "status": "imported"
+    },
+    "voice_185:r_55417493fce1d347": {
+      "text": "So you're still alive...!",
+      "status": "imported"
+    },
+    "voice_185:r_8fdf5910927c9591": {
+      "text": "Gauron... I'll kill you!",
+      "status": "imported"
+    },
+    "voice_185:r_7d724dbcc4451e10": {
+      "text": "This time... This time, I'll win!",
+      "status": "imported"
+    },
+    "voice_185:r_93e25418a203cb8f": {
+      "text": "Let's settle this, Gauron!",
+      "status": "imported"
+    },
+    "voice_185:r_adeb0a29274d3d9b": {
+      "text": "Good machine,\\nthird-rate pilot!",
+      "status": "imported"
+    },
+    "voice_185:r_24cf161287ef9d5c": {
+      "text": "Tokyo won't be consumed by fire!",
+      "status": "imported"
+    },
+    "voice_185:r_8f60f6fc86db3107": {
+      "text": "That monster, mass-produced...!",
+      "status": "imported"
+    },
+    "voice_185:r_b1de76a75a253c13": {
+      "text": "Nothing on the sensors...?",
+      "status": "imported"
+    },
+    "voice_185:r_128c35bf3e0e394c": {
+      "text": "Venom...!",
+      "status": "imported"
+    },
+    "voice_185:r_5213c17e13b23de0": {
+      "text": "Even if I'm facing Venom!",
+      "status": "imported"
+    },
+    "voice_185:r_38fdff9483e9245c": {
+      "text": "A unit with Lambda Driver...!",
+      "status": "imported"
+    },
+    "voice_185:r_620fedec67706d7d": {
+      "text": "Machines equal... It's down to me!",
+      "status": "imported"
+    },
+    "voice_185:r_9680dcd0fddcfcc7": {
+      "text": "You're relying on Lambda Driver!",
+      "status": "imported"
+    },
+    "voice_185:r_2a00f1044ad5cbaa": {
+      "text": "This fighting style...!?",
+      "status": "imported"
+    },
+    "voice_185:r_3dbeead1bd3164ef": {
+      "text": "Zaieeeed!!",
+      "status": "imported"
+    },
+    "voice_185:r_98d15b8cc09bc915": {
+      "text": "Zaied, you...!",
+      "status": "imported"
+    },
+    "voice_185:r_46e86d000250e137": {
+      "text": "You're... not Gauron...?",
+      "status": "imported"
+    },
+    "voice_185:r_ac341e7976e88f0b": {
+      "text": "Time to pay you back!",
+      "status": "imported"
+    },
+    "voice_185:r_cdbd128a5b4127cc": {
+      "text": "Seems you've troubled my comrades!",
+      "status": "imported"
+    },
+    "voice_185:r_cfccaa1fbeda124c": {
+      "text": "So you're with Amalgam...!",
+      "status": "imported"
+    },
+    "voice_185:r_b1f8ec192b9c083a": {
+      "text": "I won't let you have your way!",
+      "status": "imported"
+    },
+    "voice_185:r_a007f9ab9cf048b3": {
+      "text": "No compromise!\\nInternational norms!",
+      "status": "imported"
+    },
+    "voice_185:r_ddafde4b065ced49": {
+      "text": "That approach\\nwon't solve anything!",
+      "status": "imported"
+    },
+    "voice_185:r_de1213040856c089": {
+      "text": "Amateur...!",
+      "status": "imported"
+    },
+    "voice_185:r_3304412ac41f47a6": {
+      "text": "The infamous arsonist, is it?",
+      "status": "imported"
+    },
+    "voice_185:r_0c0775e051211840": {
+      "text": "I don't need a reason... Attacking!",
+      "status": "imported"
+    },
+    "voice_185:r_13c25fbdfddc8a24": {
+      "text": "I can't grasp it, but I can end it!",
+      "status": "imported"
+    },
+    "voice_185:r_42ba1ecb310b4bd7": {
+      "text": "So there's no room for compromise!",
+      "status": "imported"
+    },
+    "voice_185:r_d692f1d420460a47": {
+      "text": "No peaceful solution, then...!",
+      "status": "imported"
+    },
+    "voice_185:r_a5643cec86b18bd2": {
+      "text": "I'll neutralize the unit!",
+      "status": "imported"
+    },
+    "voice_185:r_68f2dfab20a4a30e": {
+      "text": "Ignoring stealth? Are you insane?!",
+      "status": "imported"
+    },
+    "voice_185:r_5391b24a71eb10ae": {
+      "text": "Your plan is complete nonsense!",
+      "status": "imported"
+    },
+    "voice_185:r_a554ceef5c87b972": {
+      "text": "Fine.\\nI'll fight by your rules!",
+      "status": "imported"
+    },
+    "voice_185:r_546c3d5937fbb7ee": {
+      "text": "Drop their leader, and we can win!",
+      "status": "imported"
+    },
+    "voice_185:r_1568ff6298b12b96": {
+      "text": "As commander,\\nyou're pretty good...!",
+      "status": "imported"
+    },
+    "voice_185:r_2c9d94ba13c5fc50": {
+      "text": "I pity troops\\nunder your command!",
+      "status": "imported"
+    },
+    "voice_185:r_428c2116ac3071b1": {
+      "text": "So battle is your greatest joy...!",
+      "status": "imported"
+    },
+    "voice_185:r_84c116267b79f540": {
+      "text": "Who is that...?",
+      "status": "imported"
+    },
+    "voice_185:r_dad38ee29af2df3a": {
+      "text": "I'm sick of looking at that face!",
+      "status": "imported"
+    },
+    "voice_185:r_70451ffbabe2f876": {
+      "text": "You never learn...!",
+      "status": "imported"
+    },
+    "voice_185:r_d996fd6d4ef5b329": {
+      "text": "Today's the last I'll see of you!",
+      "status": "imported"
+    },
+    "voice_185:r_546de3fb6db156ea": {
+      "text": "A vile but capable soldier...!",
+      "status": "imported"
+    },
+    "voice_185:r_ca85f87cee5e31f7": {
+      "text": "A veteran VOTOMS rider...!",
+      "status": "imported"
+    },
+    "voice_185:r_9072ea7bc71df136": {
+      "text": "Choose war,\\nwe answer in kind!",
+      "status": "imported"
+    },
+    "voice_185:r_d89011fe3e5d082a": {
+      "text": "I've heard of the Red Comet!",
+      "status": "imported"
+    },
+    "voice_185:r_3c5b0c2ac812d5de": {
+      "text": "As skilled as the Red Comet...!",
+      "status": "imported"
+    },
+    "voice_185:r_5b9e8897190892eb": {
+      "text": "The enhanced soldier of rumor...!",
+      "status": "imported"
+    },
+    "voice_185:r_dd01a4c0d1b36a8d": {
+      "text": "You monster...!",
+      "status": "imported"
+    },
+    "voice_185:r_20920ad2eb3542db": {
+      "text": "A mindless destroyer gets no mercy!",
+      "status": "imported"
+    },
+    "voice_185:r_cb846feec748c2e3": {
+      "text": "Such a monster existed in space...!",
+      "status": "imported"
+    },
+    "voice_185:r_c958860b0676b1f5": {
+      "text": "We won't stand by and be destroyed!",
+      "status": "imported"
+    },
+    "voice_185:r_7847e0ed7dc9282d": {
+      "text": "Even a god\\nis still our enemy!",
+      "status": "imported"
+    },
+    "voice_185:r_e42b52c7a987b906": {
+      "text": "Some things\\nmust never be lost!",
+      "status": "imported"
+    },
+    "voice_185:r_6825fd1ff907bd22": {
+      "text": "You prey on women!",
+      "status": "imported"
+    },
+    "voice_185:r_607f666f1563bc0d": {
+      "text": "My answer to you is absolutely not!",
+      "status": "imported"
+    },
+    "voice_185:r_97b7431eeb81e6b6": {
+      "text": "Living soldiers\\nnever despair!",
+      "status": "imported"
+    },
+    "voice_185:r_132f605d02975e71": {
+      "text": "Normally, we'd retreat here...",
+      "status": "imported"
+    },
+    "voice_185:r_9b9726b1872759d6": {
+      "text": "No. We can do this, Sergeant.",
+      "status": "imported"
+    },
+    "voice_185:r_1252db29683fefe0": {
+      "text": "That's right. Let's go!",
+      "status": "imported"
+    },
+    "voice_185:r_ad3d538f1e909184": {
+      "text": "High-threat target approaching.",
+      "status": "imported"
+    },
+    "voice_185:r_8c61c59a1c0aebbf": {
+      "text": "We can do this as we are now!",
+      "status": "imported"
+    },
+    "voice_185:r_aba6a7662129d8ce": {
+      "text": "Let's test our so-called limits.",
+      "status": "imported"
+    },
+    "voice_185:r_b84afafb8a33ec60": {
+      "text": "Fine. I'll push us to the limit!",
+      "status": "imported"
+    },
+    "voice_185:r_c8c59db85bf875e6": {
+      "text": "This is it! Let's go, partner!",
+      "status": "imported"
+    },
+    "voice_185:r_391aa56435d9dd6e": {
+      "text": "To the very end.",
+      "status": "imported"
+    },
+    "voice_185:r_7c796ba53bd7ea03": {
+      "text": "Worst and strongest pair.\\nRight?",
+      "status": "imported"
+    },
+    "voice_185:r_fa944da4b6519006": {
+      "text": "We'll teach them a lesson, Sergeant.",
+      "status": "imported"
+    },
+    "voice_185:r_95d047bcc17fccc6": {
+      "text": "That's right! Let's do it, Al!",
+      "status": "imported"
+    },
+    "voice_185:r_640327a12a559b31": {
+      "text": "Your leaders made pawns of you!",
+      "status": "imported"
+    },
+    "voice_185:r_82c09f011d703b2c": {
+      "text": "Haaaaah!",
+      "status": "imported"
+    },
+    "voice_185:r_2b4d8818c77b6dca": {
+      "text": "Raaaaah!",
+      "status": "imported"
+    },
+    "voice_185:r_087354f2db0a31e6": {
+      "text": "Taaaaah!",
+      "status": "imported"
+    },
+    "voice_185:r_db02a2dec93dd263": {
+      "text": "Hyaaaah!",
+      "status": "imported"
+    },
+    "voice_185:r_d520c6d5298a848d": {
+      "text": "We have to help the Captain win...!",
+      "status": "imported"
+    },
+    "voice_185:r_fd910d714be70870": {
+      "text": "Those two are formidable enemies...!",
+      "status": "imported"
+    },
+    "voice_185:r_fcd05582aa5c6068": {
+      "text": "They know my moves. I'll go all out!",
+      "status": "imported"
+    },
+    "voice_185:r_494b5da92ed24ecb": {
+      "text": "Please stay safe, Captain!",
+      "status": "imported"
+    },
+    "voice_185:r_b57d2d74233f889a": {
+      "text": "I won't hold back, Urzu 2!",
+      "status": "imported"
+    },
+    "voice_185:r_cd06d0820d82524b": {
+      "text": "Urzu 6, show me what you can do!",
+      "status": "imported"
+    },
+    "voice_185:r_c94c6d04be583774": {
+      "text": "We'll crush this war's instigator!",
+      "status": "imported"
+    },
+    "voice_185:r_e54e2c99ef8297af": {
+      "text": "Facing us\\nwas your greatest mistake!",
+      "status": "imported"
+    },
+    "voice_185:r_e7a8cd8ed5bc2d1b": {
+      "text": "Al, I'm using the Lambda Driver!",
+      "status": "imported"
+    },
+    "voice_185:r_041dd920da4a7c17": {
+      "text": "Roger.",
+      "status": "imported"
+    },
+    "voice_185:r_c7f4280cde4605b3": {
+      "text": "The image is set... I can do this!",
+      "status": "imported"
+    },
+    "voice_185:r_ec349c8ea9511a18": {
+      "text": "Gooooooo!",
+      "status": "imported"
+    },
+    "voice_185:r_689d0b123de71ae0": {
+      "text": "Al, activate the Lambda Driver!",
+      "status": "imported"
+    },
+    "voice_185:r_84883aa95f63ce32": {
+      "text": "Roger.",
+      "status": "imported"
+    },
+    "voice_185:r_25493e978ce8ff16": {
+      "text": "I'll hit them... and destroy them!",
+      "status": "imported"
+    },
+    "voice_185:r_7316666150e42960": {
+      "text": "Take thiiiiis!",
+      "status": "imported"
+    },
+    "voice_185:r_ce1a22dfe3a4d339": {
+      "text": "Diverting Lambda Driver to attack!",
+      "status": "imported"
+    },
+    "voice_185:r_240651adab81e145": {
+      "text": "Roger.",
+      "status": "imported"
+    },
+    "voice_185:r_cff0deaae73c2858": {
+      "text": "Can I do it...? No, I have to!",
+      "status": "imported"
+    },
+    "voice_185:r_dca67f68a573fab7": {
+      "text": "Punch throughhh!",
+      "status": "imported"
+    },
+    "voice_185:r_9747bd61ad23ecd3": {
+      "text": "Urzu 7, commencing counterattack!",
+      "status": "imported"
+    },
+    "voice_185:r_6823f8abe05c4727": {
+      "text": "The counterattack starts now!",
+      "status": "imported"
+    },
+    "voice_185:r_b8ccfd8b8ac323ac": {
+      "text": "You left no escape route!",
+      "status": "imported"
+    },
+    "voice_185:r_c885ff2097749991": {
+      "text": "Attack carelessly, and this happens!",
+      "status": "imported"
+    },
+    "voice_185:r_a8da7f8d8b705db0": {
+      "text": "You gave away your position!",
+      "status": "imported"
+    },
+    "voice_185:r_02e1c5e19de5bd22": {
+      "text": "Regret not withdrawing immediately!",
+      "status": "imported"
+    },
+    "voice_185:r_6fb823898811e210": {
+      "text": "If they escape, Captain is next!",
+      "status": "imported"
+    },
+    "voice_185:r_5a20988e743dc1d0": {
+      "text": "Let's repay them double, Sergeant.",
+      "status": "imported"
+    },
+    "voice_185:r_197f05bf899b7697": {
+      "text": "No. Triple!",
+      "status": "imported"
+    },
+    "voice_185:r_623ee03bd91ab2a1": {
+      "text": "If they hit us, we hit back!",
+      "status": "imported"
+    },
+    "voice_185:r_c5c491f8761152f0": {
+      "text": "An admirable attitude, Sergeant.",
+      "status": "imported"
+    },
+    "voice_185:r_15042263763f11bb": {
+      "text": "Now it's our turn.",
+      "status": "imported"
+    },
+    "voice_185:r_96b3a8f080aea8b4": {
+      "text": "I'll give it everything I've got!",
+      "status": "imported"
+    },
+    "voice_185:r_3d4fa015b8b31648": {
+      "text": "Covering the allied unit!",
+      "status": "imported"
+    },
+    "voice_185:r_c1f3167d7dd97543": {
+      "text": "Moving in to cover!",
+      "status": "imported"
+    },
+    "voice_185:r_1ac46173650ffe13": {
+      "text": "Finish them before they recover!",
+      "status": "imported"
+    },
+    "voice_185:r_53660d6bc7fe8513": {
+      "text": "Excellent judgment, Captain.",
+      "status": "imported"
+    },
+    "voice_185:r_2e756557a1d92e8b": {
+      "text": "A magnificent attack, Captain!",
+      "status": "imported"
+    },
+    "voice_185:r_45d847e7b8d840e3": {
+      "text": "That's what makes a team leader.",
+      "status": "imported"
+    },
+    "voice_185:r_d2ebe8f28f2420cc": {
+      "text": "Nice work creating an opening, Mao.",
+      "status": "imported"
+    },
+    "voice_185:r_3baa2292b050034a": {
+      "text": "We'll take this prey, Urzu 2!",
+      "status": "imported"
+    },
+    "voice_185:r_8a303240a87b1c7d": {
+      "text": "Take them down for sure, Kurz.",
+      "status": "imported"
+    },
+    "voice_185:r_69d009696527fa68": {
+      "text": "Leave the cleanup to me, Urzu 6.",
+      "status": "imported"
+    },
+    "voice_185:r_aeb9079d86e2a924": {
+      "text": "See the Volunteer Club's unity!",
+      "status": "imported"
+    },
+    "voice_185:r_bc4658630f8e40a9": {
+      "text": "This is volunteer work too.",
+      "status": "imported"
+    },
+    "voice_185:r_92816afa2ba8a8c9": {
+      "text": "You've got skill, Heero.",
+      "status": "imported"
+    },
+    "voice_185:r_a29f58ecde5f7ddd": {
+      "text": "I'll admit you're good, Chirico.",
+      "status": "imported"
+    },
+    "voice_185:r_4069f7e9517c47e8": {
+      "text": "I can't trouble you with this!",
+      "status": "imported"
+    },
+    "voice_185:r_2835a8af1c41be9b": {
+      "text": "Leave this to me!",
+      "status": "imported"
+    },
+    "voice_185:r_cd84325a7c1a820f": {
+      "text": "Do the needed job... That's all!",
+      "status": "imported"
+    },
+    "voice_185:r_0465f74c0488ad70": {
+      "text": "Leave this to me, Captain!",
+      "status": "imported"
+    },
+    "voice_185:r_a30c8238b5208470": {
+      "text": "You can do it!\\nI guarantee it!",
+      "status": "imported"
+    },
+    "voice_185:r_64bf1c63c7c1ebdd": {
+      "text": "Urzu 1, fall back for now!",
+      "status": "imported"
+    },
+    "voice_185:r_f6d5042f671118fa": {
+      "text": "Don't be reckless, Urzu 2.",
+      "status": "imported"
+    },
+    "voice_185:r_0be18539fac21ba4": {
+      "text": "Kurz, stay back!",
+      "status": "imported"
+    },
+    "voice_185:r_c05bd0cf089d667f": {
+      "text": "That's true volunteer spirit!",
+      "status": "imported"
+    },
+    "voice_185:r_f69a0e1d0d67fd0e": {
+      "text": "The club can't lose you...!",
+      "status": "imported"
+    },
+    "voice_185:r_c4e734ceafabd82c": {
+      "text": "I owed you one.",
+      "status": "imported"
+    },
+    "voice_185:r_7ecfe7ddfa4cdb6a": {
+      "text": "Allow me, Your Excellency!",
+      "status": "imported"
+    },
+    "voice_185:r_d1be92a2ad355176": {
+      "text": "Women and children, stay back!",
+      "status": "imported"
+    },
+    "voice_185:r_3ec7c6e48027a853": {
+      "text": "I won't overwork the elderly!",
+      "status": "imported"
+    },
+    "voice_185:r_953824ba6b607e1f": {
+      "text": "So we can't attack from here...!",
+      "status": "imported"
+    },
+    "voice_185:r_d6c7a401f55ee42f": {
+      "text": "Such underhanded tactics...!",
+      "status": "imported"
+    },
+    "voice_185:r_7bce428a8c95c22c": {
+      "text": "They know the basics of tactics...!",
+      "status": "imported"
+    },
+    "voice_185:r_97b5fedc5b19e6af": {
+      "text": "All weapons are inoperable.",
+      "status": "imported"
+    },
+    "voice_185:r_111aa50202ff773f": {
+      "text": "I can see that...!",
+      "status": "imported"
+    },
+    "voice_185:r_10cb1d3f8f325f52": {
+      "text": "Can't hit that bastard\\nin the face?",
+      "status": "imported"
+    },
+    "voice_185:r_ed69cbf9ff3779a7": {
+      "text": "We can pay them back double later.",
+      "status": "imported"
+    },
+    "voice_185:r_82e0a318411dcbf7": {
+      "text": "Times like this\\nneed a joke, no?",
+      "status": "imported"
+    },
+    "voice_185:r_36c402609f13ec14": {
+      "text": "Shut up!",
+      "status": "imported"
+    },
+    "voice_185:r_5ec6634ac287489a": {
+      "text": "Sergeant, relax.\\nI suggest a song.",
+      "status": "imported"
+    },
+    "voice_185:r_0f6c6e8f33422ecf": {
+      "text": "Just shut up already!",
+      "status": "imported"
+    },
+    "voice_185:r_035b4f6912ba7eed": {
+      "text": "They figured out our range...!",
+      "status": "imported"
+    },
+    "voice_185:r_f74b67b3cfcbe05c": {
+      "text": "A miss.",
+      "status": "imported"
+    },
+    "voice_185:r_6d8a80e2956870ed": {
+      "text": "Life should be valued.",
+      "status": "imported"
+    },
+    "voice_185:r_426b68d671486c8e": {
+      "text": "That was a rookie's attack.",
+      "status": "imported"
+    },
+    "voice_185:r_ae913eb08e0ff29b": {
+      "text": "Looks like you blundered.",
+      "status": "imported"
+    },
+    "voice_185:r_6fbc129ae3a24bb0": {
+      "text": "With those skills,\\nthis is reckless.",
+      "status": "imported"
+    },
+    "voice_185:r_0e58a97c7f8c9ecf": {
+      "text": "Lip-licking at prey is third-rate.",
+      "status": "imported"
+    },
+    "voice_185:r_46e80691278d2e90": {
+      "text": "That's right! Keep coming!",
+      "status": "imported"
+    },
+    "voice_185:r_c4c8af04ee11993c": {
+      "text": "I don't have time to play with you!",
+      "status": "imported"
+    },
+    "voice_185:r_ef1ca3b6b4a983b9": {
+      "text": "What are you looking at?!",
+      "status": "imported"
+    },
+    "voice_185:r_cdfaf9cd1fd55c77": {
+      "text": "You have no combat sense at all!",
+      "status": "imported"
+    },
+    "voice_185:r_3d2454ac7a0fed22": {
+      "text": "You need to be more creative!",
+      "status": "imported"
+    },
+    "voice_185:r_437f5e90c3bb0592": {
+      "text": "A waste of time! Stay out of this!",
+      "status": "imported"
+    },
+    "voice_185:r_cf9a2e6954ba3564": {
+      "text": "For a next shot,\\nlet's get fired up.",
+      "status": "imported"
+    },
+    "voice_185:r_a9474d20d8dd3193": {
+      "text": "I get it, so shut up!",
+      "status": "imported"
+    },
+    "voice_185:r_d1b635ea0c0c2d67": {
+      "text": "Things work out surprisingly well.",
+      "status": "imported"
+    },
+    "voice_185:r_b8b0c93fd828bea6": {
+      "text": "Though it gave me a cold sweat...!",
+      "status": "imported"
+    },
+    "voice_185:r_eb6326b22b74aaf5": {
+      "text": "Well? Not bad, is it?",
+      "status": "imported"
+    },
+    "voice_185:r_4561a1a3695f1597": {
+      "text": "No time for idle chatter!",
+      "status": "imported"
+    },
+    "voice_185:r_e756cef3d5de51e9": {
+      "text": "Gauron! Are you playing around?!",
+      "status": "imported"
+    },
+    "voice_185:r_e65d29f740ec5a07": {
+      "text": "You've gotten rusty, Gauron!",
+      "status": "imported"
+    },
+    "voice_185:r_25b3885e2565f90b": {
+      "text": "A joke attack won't take me down!",
+      "status": "imported"
+    },
+    "voice_185:r_96858669715407f1": {
+      "text": "Lambda Driver,\\nand that's all?!",
+      "status": "imported"
+    },
+    "voice_185:r_2bb2a166baa517b9": {
+      "text": "Lambda Driver...\\nstill not mastered!",
+      "status": "imported"
+    },
+    "voice_185:r_34be00b434b42bea": {
+      "text": "West Pacific Squadron's disgrace!",
+      "status": "imported"
+    },
+    "voice_185:r_7eedcce1036b4f4a": {
+      "text": "A known attack won't work on me!",
+      "status": "imported"
+    },
+    "voice_185:r_aa211e3c1f473e51": {
+      "text": "Could it be... Zaied...?",
+      "status": "imported"
+    },
+    "voice_185:r_689700a088dc2f5b": {
+      "text": "Useless!",
+      "status": "imported"
+    },
+    "voice_185:r_5a1e097aa0ec9859": {
+      "text": "An attack like that...!",
+      "status": "imported"
+    },
+    "voice_185:r_2a8d41aa8f4749ec": {
+      "text": "That impact left you unscathed...",
+      "status": "imported"
+    },
+    "voice_185:r_c9f83672cc4c8866": {
+      "text": "To think I have to rely on this...!",
+      "status": "imported"
+    },
+    "voice_185:r_19631c3492e99773": {
+      "text": "Mastering this\\nis up to me...!",
+      "status": "imported"
+    },
+    "voice_185:r_a49cb27d62c078ed": {
+      "text": "Damage: zero.\\nWhat nonsense.",
+      "status": "imported"
+    },
+    "voice_185:r_aa6642a8b00c07f9": {
+      "text": "Yes, completely.",
+      "status": "imported"
+    },
+    "voice_185:r_b6a1f76ff2f0b93d": {
+      "text": "Lambda Driver has activated.",
+      "status": "imported"
+    },
+    "voice_185:r_16669b320b466ffb": {
+      "text": "I'm the one who activated it.",
+      "status": "imported"
+    },
+    "voice_185:r_7a533f3a77a702e3": {
+      "text": "No problem.",
+      "status": "imported"
+    },
+    "voice_185:r_f13d4928e70aad04": {
+      "text": "What a pathetic attack.",
+      "status": "imported"
+    },
+    "voice_185:r_bf8c22ddf5e5ebc4": {
+      "text": "Keep wasting your effort.",
+      "status": "imported"
+    },
+    "voice_185:r_9ca308feda543481": {
+      "text": "Playtime ends here.",
+      "status": "imported"
+    },
+    "voice_185:r_323506822dc933d1": {
+      "text": "Any effort you make is pointless.",
+      "status": "imported"
+    },
+    "voice_185:r_a60677a64d47d57d": {
+      "text": "That's enough to learn my enemy.",
+      "status": "imported"
+    },
+    "voice_185:r_eb27b8cd0e427016": {
+      "text": "Never let your guard down...",
+      "status": "imported"
+    },
+    "voice_185:r_d99d6b303b9eca7a": {
+      "text": "I grant your courage in facing me.",
+      "status": "imported"
+    },
+    "voice_185:r_46e646d7ceafbf12": {
+      "text": "Status?",
+      "status": "imported"
+    },
+    "voice_185:r_2f49681a2d6f9e2b": {
+      "text": "Hit to the chest.",
+      "status": "imported"
+    },
+    "voice_185:r_645e1e5c1c16c791": {
+      "text": "Damage is minor.",
+      "status": "imported"
+    },
+    "voice_185:r_f8ed7cb3cc3d3275": {
+      "text": "Excellent.",
+      "status": "imported"
+    },
+    "voice_185:r_05e4c8c66077e99e": {
+      "text": "Report the damage.",
+      "status": "imported"
+    },
+    "voice_185:r_8d9b4fc385aef7c5": {
+      "text": "No problem. The rest is yours.",
+      "status": "imported"
+    },
+    "voice_185:r_00f6ca39fc3acf2f": {
+      "text": "Sergeant, your focus is slipping.",
+      "status": "imported"
+    },
+    "voice_185:r_497ecb7603305283": {
+      "text": "Because you won't shut up.",
+      "status": "imported"
+    },
+    "voice_185:r_5007f4e5632e10dc": {
+      "text": "An easy win, as they say, Sergeant.",
+      "status": "imported"
+    },
+    "voice_185:r_c6e2e5a0cf999610": {
+      "text": "Optimism is dangerous.",
+      "status": "imported"
+    },
+    "voice_185:r_fd60a3acea1b3ee7": {
+      "text": "That stung a little, but I'm fine.",
+      "status": "imported"
+    },
+    "voice_185:r_4ae43494550cddb4": {
+      "text": "I see. I can't underestimate them.",
+      "status": "imported"
+    },
+    "voice_185:r_ed6a018f016df09c": {
+      "text": "The mission remains unaffected.",
+      "status": "imported"
+    },
+    "voice_185:r_07aec1c333dfbb19": {
+      "text": "Impossible...!",
+      "status": "imported"
+    },
+    "voice_185:r_107aa098b3ff1499": {
+      "text": "Stay focused... Stay conscious...!",
+      "status": "imported"
+    },
+    "voice_185:r_77289aae7685d872": {
+      "text": "We're at a clear disadvantage...!",
+      "status": "imported"
+    },
+    "voice_185:r_5b29d293c437429d": {
+      "text": "My judgment was clouded? Why?!",
+      "status": "imported"
+    },
+    "voice_185:r_03a3a973128986f1": {
+      "text": "So they're\\nfinally serious...!",
+      "status": "imported"
+    },
+    "voice_185:r_13209866a96cdb7e": {
+      "text": "What's the damage?!",
+      "status": "imported"
+    },
+    "voice_185:r_58fa3a0d2bd59f45": {
+      "text": "Right shoulder has Class C damage.",
+      "status": "imported"
+    },
+    "voice_185:r_6290e34747497854": {
+      "text": "Damage report!",
+      "status": "imported"
+    },
+    "voice_185:r_20f27bcf531af7a7": {
+      "text": "Stabilizer malfunction detected.",
+      "status": "imported"
+    },
+    "voice_185:r_d6e13e5d6953bb84": {
+      "text": "Severe targeting error detected.",
+      "status": "imported"
+    },
+    "voice_185:r_3baf3d844fb1d682": {
+      "text": "Fixing that is your job!",
+      "status": "imported"
+    },
+    "voice_185:r_3360fe6adb1d6342": {
+      "text": "I must keep observing calmly...!",
+      "status": "imported"
+    },
+    "voice_185:r_5102781c1e823018": {
+      "text": "Initiating forced cooling.",
+      "status": "imported"
+    },
+    "voice_185:r_21062243b0a51b01": {
+      "text": "Sergeant, I advise we retreat.",
+      "status": "imported"
+    },
+    "voice_185:r_ecb10ae1dba4d07b": {
+      "text": "Your jokes are never funny...!",
+      "status": "imported"
+    },
+    "voice_185:r_ff4fca801d10da93": {
+      "text": "Gauron, you...!",
+      "status": "imported"
+    },
+    "voice_185:r_536e725bfc769e27": {
+      "text": "So I can't beat them unscathed...!",
+      "status": "imported"
+    },
+    "voice_185:r_63532dbbd2c777da": {
+      "text": "Attack and operator, equally absurd!",
+      "status": "imported"
+    },
+    "voice_185:r_248e2e68f66891d5": {
+      "text": "Zaied...! You're as tough as ever!",
+      "status": "imported"
+    },
+    "voice_185:r_dc569fdc0d6c30a3": {
+      "text": "More of Lambda Driver's power...!",
+      "status": "imported"
+    },
+    "voice_185:r_e58eebaa984b6a93": {
+      "text": "To counter it,\\nwe must use that too!",
+      "status": "imported"
+    },
+    "voice_185:r_c4afbc5dcb6aff0f": {
+      "text": "Damn...! The Captain is in danger!",
+      "status": "imported"
+    },
+    "voice_185:r_a4891580f1ed7c34": {
+      "text": "So they can see through our moves!",
+      "status": "imported"
+    },
+    "voice_185:r_c33c630320a0f42d": {
+      "text": "So this is the worst case...!",
+      "status": "imported"
+    },
+    "voice_185:r_2890b43c4f3875b2": {
+      "text": "I look like a total amateur fool!",
+      "status": "imported"
+    },
+    "voice_185:r_7e84498103e0d8e2": {
+      "text": "Impressive, even for an enemy...!",
+      "status": "imported"
+    },
+    "voice_185:r_f1795d62699fbde5": {
+      "text": "If I can move, I can still fight...!",
+      "status": "imported"
+    },
+    "voice_185:r_eed83a6ec7810482": {
+      "text": "I must at least regain my footing!",
+      "status": "imported"
+    },
+    "voice_185:r_25c73785b778f6ea": {
+      "text": "End it next time, or I'm dead...!",
+      "status": "imported"
+    },
+    "voice_185:r_dceadb8673382fa8": {
+      "text": "Such complex, advanced tactics...!",
+      "status": "imported"
+    },
+    "voice_185:r_b20529207f6c679c": {
+      "text": "Fine. I'll fight you to the end!",
+      "status": "imported"
+    },
+    "voice_185:r_6d8c49745466602b": {
+      "text": "Give me a damage report!",
+      "status": "imported"
+    },
+    "voice_185:r_2a7c3e63066bb476": {
+      "text": "Class B: right thigh and forearm.",
+      "status": "imported"
+    },
+    "voice_185:r_857d69cc06534ed0": {
+      "text": "Status?!",
+      "status": "imported"
+    },
+    "voice_185:r_abadc65ae19c6a47": {
+      "text": "Class B: left shoulder and hip.",
+      "status": "imported"
+    },
+    "voice_185:r_5f804641f79a8d84": {
+      "text": "Sergeant, eject immediately.",
+      "status": "imported"
+    },
+    "voice_185:r_06de74b3649b56a6": {
+      "text": "I would have already, if I could...!",
+      "status": "imported"
+    },
+    "voice_185:r_c564bb4a57113de9": {
+      "text": "Abandon it. Self-destruct advised.",
+      "status": "imported"
+    },
+    "voice_185:r_35d7693142bfac0c": {
+      "text": "Denied!",
+      "status": "imported"
+    },
+    "voice_185:r_a8ba71836345ee71": {
+      "text": "What now? Do you advise withdrawal?",
+      "status": "imported"
+    },
+    "voice_185:r_bbce9cc348b5fec2": {
+      "text": "No, Sergeant. The battle starts now.",
+      "status": "imported"
+    },
+    "voice_185:r_6a33536cdb9e9c32": {
+      "text": "No...! The unit is over its limit!",
+      "status": "imported"
+    },
+    "voice_185:r_93b13f545db4d55e": {
+      "text": "Damn! Will we lose the unit?!",
+      "status": "imported"
+    },
+    "voice_185:r_49f278326a3ba3df": {
+      "text": "Raaaaaaaaah!",
+      "status": "imported"
+    },
+    "voice_185:r_00d67eda0ca8bcac": {
+      "text": "Generator off.\\nCaps destroyed.",
+      "status": "imported"
+    },
+    "voice_185:r_cb6f5f32c512bd06": {
+      "text": "Is this as far as we go...?",
+      "status": "imported"
+    },
+    "voice_185:r_1908b4bfabaaf397": {
+      "text": "Al, I'm sorry...",
+      "status": "imported"
+    },
+    "voice_185:r_299353f629fec323": {
+      "text": "No, Sergeant.",
+      "status": "imported"
+    },
+    "voice_185:r_be7defc50f86d5b5": {
+      "text": "Forgive me, Captain!",
+      "status": "imported"
+    },
+    "voice_185:r_1f7722403476a2d4": {
+      "text": "Sir! It is Super Robot Wars!",
+      "status": "imported"
+    },
+    "voice_185:r_dadd5a6550b5d2e4": {
+      "text": "Sub TDD-1 has poor terrain fit...",
+      "status": "imported"
+    },
+    "voice_185:r_bb64cc3e79718d28": {
+      "text": "Never, sir!",
+      "status": "imported"
+    },
+    "voice_185:r_7fb168ada4a5c43c": {
+      "text": "R-roger, sir!",
+      "status": "imported"
+    },
+    "voice_185:r_fbe010968c59557d": {
+      "text": "Test soon. Good box... Muromachi.",
+      "status": "imported"
+    },
+    "voice_185:r_233105911ffd7216": {
+      "text": "Japanese history is my weak point...",
+      "status": "imported"
+    },
+    "voice_185:r_1d33f9b6c6e83560": {
+      "text": "A break? Good timing. Get some rest.",
+      "status": "imported"
+    },
+    "voice_185:r_e2cfe1dd207eff04": {
+      "text": "A joke?",
+      "status": "imported"
+    },
+    "voice_185:r_d8066ba2d8e44a06": {
+      "text": "Gggggh...!",
+      "status": "imported"
+    },
+    "voice_185:r_0309f797f7ea0e85": {
+      "text": "Rest needs calm nerves. Try a joke.",
+      "status": "imported"
+    },
+    "voice_185:r_8f827a3995df8c8e": {
+      "text": "Jokes warm rooms. Go on, Sergeant.",
+      "status": "imported"
+    },
+    "voice_185:r_73306601db753dcf": {
+      "text": "Bring one next time. Stay tuned.",
+      "status": "imported"
+    },
+    "voice_185:r_01bbbb8099a5450a": {
+      "text": "(Damn... It said my whole line...)",
+      "status": "imported"
+    },
+    "voice_185:r_7189bf28fe615b57": {
+      "text": "Which is it?!",
+      "status": "imported"
+    },
+    "voice_185:r_81088f48a48ca279": {
+      "text": "Pathetic! You lowly maggots!",
+      "status": "imported"
+    },
+    "voice_185:r_b0eb4d47a01d2cc8": {
+      "text": "Ticks! The universe's lowest life!",
+      "status": "imported"
+    },
+    "voice_185:r_9de00ef7821f5fe6": {
+      "text": "Listen, worms! Your pain is my joy!",
+      "status": "imported"
+    },
+    "voice_185:r_811a3798e25c8ef3": {
+      "text": "You pant like old marathon runners!",
+      "status": "imported"
+    },
+    "voice_185:r_c9e4c68bc52c16b8": {
+      "text": "Miki Matsuura's a tramp! Show guts!",
+      "status": "imported"
+    },
+    "voice_185:r_31dedad2deed010c": {
+      "text": "Listen! You're less than human now!",
+      "status": "imported"
+    },
+    "voice_185:r_68b64fdd6d26b6b1": {
+      "text": "Scum! Survive, then become weapons!",
+      "status": "imported"
+    },
+    "voice_185:r_7c53987b5bb3c03a": {
+      "text": "I hate and despise you!",
+      "status": "imported"
+    },
+    "voice_185:r_c2a98d67a013c156": {
+      "text": "I weed out the weak. That's my job!",
+      "status": "imported"
+    },
+    "voice_185:r_6614839e46b17859": {
+      "text": "No laughs or tears! You're machines!",
+      "status": "imported"
+    },
+    "voice_185:r_20c452a7646f03eb": {
+      "text": "Can't kill? Then you have no value!",
+      "status": "imported"
+    },
+    "voice_185:r_cbba5f44e54a813e": {
+      "text": "Fake defeat and pain for pity? Scum!",
+      "status": "imported"
+    },
+    "voice_185:r_1737bae80deb816b": {
+      "text": "Move, scum! That ball is your girl!",
+      "status": "imported"
+    },
+    "voice_185:r_0e397791430dc268": {
+      "text": "Kashim, Kashim... Don't get chummy!",
+      "status": "imported"
+    },
+    "voice_185:r_4fbad434763b52b0": {
+      "text": "I'm no amateur. I'm a specialist.",
+      "status": "imported"
+    },
+    "voice_185:r_ad0950fa29f390d4": {
+      "text": "Hatch shut. Mode 4. B-angle 3.5.",
+      "status": "imported"
+    },
+    "voice_185:r_8da802c449f1408d": {
+      "text": "Match: Sergeant Sagara. Orders?",
+      "status": "imported"
+    },
+    "voice_185:r_66ef161492c2a0b1": {
+      "text": "Me? Want to know? Then listen.",
+      "status": "imported"
+    },
+    "voice_185:r_9a623926db1b2d22": {
+      "text": "Mithril means nothing to me...",
+      "status": "imported"
+    },
+    "voice_185:r_e383cc6de366270c": {
+      "text": "No. 41, trash and umbrella duty...!",
+      "status": "imported"
+    },
+    "voice_185:r_208ecc9bb6ec8156": {
+      "text": "I'm Sousuke Sagaraaaaa!!",
+      "status": "imported"
+    },
+    "voice_185:r_08a9bb3c479e40be": {
+      "text": "Jindai High, Tokyo, Class 2-4...",
+      "status": "imported"
+    },
+    "voice_185:r_e2ba6cee6c8bdcd4": {
+      "text": "I'll draw the enemy's fire!",
+      "status": "imported"
+    },
+    "voice_185:r_2d0b63a973c98363": {
+      "text": "I'll pin the target down!",
+      "status": "imported"
+    },
+    "voice_185:r_2c1962b377d22bf9": {
+      "text": "I'll take the lead!",
+      "status": "imported"
+    },
+    "voice_185:r_f1f16024dd23edff": {
+      "text": "Leave the assist role to me!",
+      "status": "imported"
+    },
+    "voice_185:r_9764df0b825349fa": {
+      "text": "One-on-one is my specialty!",
+      "status": "imported"
+    },
+    "voice_185:r_b0e9708560e344ed": {
+      "text": "I'll fulfill my assigned role!",
+      "status": "imported"
+    },
+    "voice_185:r_fe38b47bacf817c4": {
+      "text": "So that's my target...!",
+      "status": "imported"
+    },
+    "voice_185:r_4719e20717163c25": {
+      "text": "We'll take them down one by one!",
+      "status": "imported"
+    }
+  }
+}

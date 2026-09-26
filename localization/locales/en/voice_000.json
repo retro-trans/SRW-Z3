@@ -1,0 +1,522 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_000:r_479b340ccc6c572b": {
+      "text": "Let's go!",
+      "status": "imported"
+    },
+    "voice_000:r_77949221bf58f862": {
+      "text": "Time to make our move!",
+      "status": "imported"
+    },
+    "voice_000:r_70b9c4b9f1f37eff": {
+      "text": "Stay right where you are!",
+      "status": "imported"
+    },
+    "voice_000:r_9fcb3754cb1773c7": {
+      "text": "I'll hit you!",
+      "status": "imported"
+    },
+    "voice_000:r_3559d2fad32c2435": {
+      "text": "This'll work!",
+      "status": "imported"
+    },
+    "voice_000:r_f7570547e9f80a64": {
+      "text": "I won't miss!",
+      "status": "imported"
+    },
+    "voice_000:r_cbab0f4720e1fcf1": {
+      "text": "You're going to die!",
+      "status": "imported"
+    },
+    "voice_000:r_0bbe0b4f5364e732": {
+      "text": "I'll smash you to pieces too!",
+      "status": "imported"
+    },
+    "voice_000:r_5dda5198137cb02a": {
+      "text": "Ready to die?",
+      "status": "imported"
+    },
+    "voice_000:r_83ec59afbecdec14": {
+      "text": "This is the only way for us!",
+      "status": "imported"
+    },
+    "voice_000:r_e20bfd42ad95a3c9": {
+      "text": "We'll destroy this rotten world!",
+      "status": "imported"
+    },
+    "voice_000:r_0f58a8822381e57f": {
+      "text": "Everyone can just burn!",
+      "status": "imported"
+    },
+    "voice_000:r_6dbcc507fb61b51d": {
+      "text": "We'll do this our way!",
+      "status": "imported"
+    },
+    "voice_000:r_b42ab697149a7c8a": {
+      "text": "If you're going to stand in our way!",
+      "status": "imported"
+    },
+    "voice_000:r_4de4fcf3b440baf4": {
+      "text": "Seiji's not involved!\\nWe chose this!",
+      "status": "imported"
+    },
+    "voice_000:r_0121a166c715cdff": {
+      "text": "Soon a devil will destroy this city!",
+      "status": "imported"
+    },
+    "voice_000:r_30fad37a42bd3ad3": {
+      "text": "The world will know the name A21!",
+      "status": "imported"
+    },
+    "voice_000:r_80a0b2a84e05d81a": {
+      "text": "There's no future for us anyway!",
+      "status": "imported"
+    },
+    "voice_000:r_4a9ac1dff86506d9": {
+      "text": "Activate that monster,\\nand we win!",
+      "status": "imported"
+    },
+    "voice_000:r_bc8538e6af3d2577": {
+      "text": "There's no turning back now!",
+      "status": "imported"
+    },
+    "voice_000:r_924516c8de2b5342": {
+      "text": "No one can stop that thing now!",
+      "status": "imported"
+    },
+    "voice_000:r_da1174533722333f": {
+      "text": "Just do as we were taught!",
+      "status": "imported"
+    },
+    "voice_000:r_fdeb8162976e72c1": {
+      "text": "Aim for the drive system!",
+      "status": "imported"
+    },
+    "voice_000:r_0fadb5c26df92b42": {
+      "text": "Direct hit! You're mine!",
+      "status": "imported"
+    },
+    "voice_000:r_6b15af9a0057cdc8": {
+      "text": "Aim's good!",
+      "status": "imported"
+    },
+    "voice_000:r_15b4a90140e8a33a": {
+      "text": "Target locked! Fire!",
+      "status": "imported"
+    },
+    "voice_000:r_af884a6b11dff121": {
+      "text": "Engaging in close combat!",
+      "status": "imported"
+    },
+    "voice_000:r_ac6fe7838e95647b": {
+      "text": "Once I close the distance!",
+      "status": "imported"
+    },
+    "voice_000:r_77ca87eacd17ad52": {
+      "text": "At this range, I've got you!",
+      "status": "imported"
+    },
+    "voice_000:r_bf3244994760e535": {
+      "text": "I'm charging in!",
+      "status": "imported"
+    },
+    "voice_000:r_aabfb21c9d069ce7": {
+      "text": "I'll cut you to pieces with this!",
+      "status": "imported"
+    },
+    "voice_000:r_02479dc8fe989560": {
+      "text": "This time, I'll finish you!",
+      "status": "imported"
+    },
+    "voice_000:r_a2df00f91a9b0a9e": {
+      "text": "No time to waste. I'll end this now!",
+      "status": "imported"
+    },
+    "voice_000:r_48b60d6c48b9b142": {
+      "text": "Looks like you've trained hard!",
+      "status": "imported"
+    },
+    "voice_000:r_8927e6fb681aa809": {
+      "text": "Seina said to watch out for you!",
+      "status": "imported"
+    },
+    "voice_000:r_665f01666859013b": {
+      "text": "So the famous Mithril showed up!",
+      "status": "imported"
+    },
+    "voice_000:r_a571eec59b258d11": {
+      "text": "That unit... It's different!?",
+      "status": "imported"
+    },
+    "voice_000:r_ddbe581c5ea9183d": {
+      "text": "Snipers get taken out first!",
+      "status": "imported"
+    },
+    "voice_000:r_b7b5625d7cd4282f": {
+      "text": "Always take out the commander first!",
+      "status": "imported"
+    },
+    "voice_000:r_36133ad73a73ef98": {
+      "text": "So the heroes of justice are here!",
+      "status": "imported"
+    },
+    "voice_000:r_920740a0219c5085": {
+      "text": "Big, useless hulks don't scare me!",
+      "status": "imported"
+    },
+    "voice_000:r_a8451712c57c1a72": {
+      "text": "Beat a Gundam and we'll be famous!",
+      "status": "imported"
+    },
+    "voice_000:r_3633df5b7b8f47fa": {
+      "text": "Why are you siding with the Feds!?",
+      "status": "imported"
+    },
+    "voice_000:r_1b9b2aab5cb104da": {
+      "text": "So the establishment got you too!",
+      "status": "imported"
+    },
+    "voice_000:r_342044c706a2340f": {
+      "text": "You Federation dogs!",
+      "status": "imported"
+    },
+    "voice_000:r_cf41e8828a90cbdb": {
+      "text": "A salaryman can't\\nunderstand us!",
+      "status": "imported"
+    },
+    "voice_000:r_ec2ea17765052401": {
+      "text": "I'll burn your company down too!",
+      "status": "imported"
+    },
+    "voice_000:r_f2d4255f1c2f7542": {
+      "text": "You'll pay for ruining our plan!",
+      "status": "imported"
+    },
+    "voice_000:r_5d08ad19e2da125b": {
+      "text": "So I'm facing Kallen Kozuki!",
+      "status": "imported"
+    },
+    "voice_000:r_a7246b52782a877e": {
+      "text": "So I have to fight Captain Kozuki!",
+      "status": "imported"
+    },
+    "voice_000:r_dc8701f6bcb9904f": {
+      "text": "I know Guren's terror all too well!",
+      "status": "imported"
+    },
+    "voice_000:r_d6bdd730f24f66eb": {
+      "text": "So the witch C.C. is coming!",
+      "status": "imported"
+    },
+    "voice_000:r_41997412868c48c4": {
+      "text": "So Zero's lover has appeared!",
+      "status": "imported"
+    },
+    "voice_000:r_9e6cf4f389dae55c": {
+      "text": "You and I only live\\nthrough battle!",
+      "status": "imported"
+    },
+    "voice_000:r_9e0c80ac7e33b459": {
+      "text": "That mobility makes it a tough foe!",
+      "status": "imported"
+    },
+    "voice_000:r_7d2617c809fead70": {
+      "text": "They hit us. Now we hit back!",
+      "status": "imported"
+    },
+    "voice_000:r_ceb935ccbf830724": {
+      "text": "We never forget a grudge!",
+      "status": "imported"
+    },
+    "voice_000:r_862ef7385bf2abd4": {
+      "text": "Time to counterattack!",
+      "status": "imported"
+    },
+    "voice_000:r_001cbec4d9a4283f": {
+      "text": "This counterattack will finish you!",
+      "status": "imported"
+    },
+    "voice_000:r_8ad40afecd02b41e": {
+      "text": "You think I'll let you escape!",
+      "status": "imported"
+    },
+    "voice_000:r_26e5efec03c03d78": {
+      "text": "Now it's our turn!",
+      "status": "imported"
+    },
+    "voice_000:r_4ad81e88c7557a8b": {
+      "text": "I won't let you interfere with us!",
+      "status": "imported"
+    },
+    "voice_000:r_1f65a7af190e4674": {
+      "text": "I should've finished you before!",
+      "status": "imported"
+    },
+    "voice_000:r_40c5a9358ed5bf29": {
+      "text": "We'll take this one together!",
+      "status": "imported"
+    },
+    "voice_000:r_f2e18dfdfe0c89ea": {
+      "text": "I'll cover you!",
+      "status": "imported"
+    },
+    "voice_000:r_cf7dbf49e96a5755": {
+      "text": "Seina, leave the rest to me!",
+      "status": "imported"
+    },
+    "voice_000:r_fa96676cc65bb509": {
+      "text": "That's it, Takuma...!",
+      "status": "imported"
+    },
+    "voice_000:r_4e37f92e7d2fc62e": {
+      "text": "I won't let you hurt my comrades!",
+      "status": "imported"
+    },
+    "voice_000:r_66ab4cfe1557909d": {
+      "text": "Fall back while you still can!",
+      "status": "imported"
+    },
+    "voice_000:r_0bad405ee6ca63ba": {
+      "text": "Fall back, Seina!",
+      "status": "imported"
+    },
+    "voice_000:r_2072eaf71a260ae7": {
+      "text": "I can't afford to lose Behemoth...!",
+      "status": "imported"
+    },
+    "voice_000:r_6c13bbfd27a7799e": {
+      "text": "I can't attack...!?",
+      "status": "imported"
+    },
+    "voice_000:r_06f88dcbd3c9e738": {
+      "text": "I have no choice but to hold out...!",
+      "status": "imported"
+    },
+    "voice_000:r_b28faf9f71bc3598": {
+      "text": "No!\\nThey'll concentrate fire on us!",
+      "status": "imported"
+    },
+    "voice_000:r_8a29278549f8e07a": {
+      "text": "Every second matters right now...!",
+      "status": "imported"
+    },
+    "voice_000:r_7e6c573c26177f98": {
+      "text": "Wrong range for our weapons...!",
+      "status": "imported"
+    },
+    "voice_000:r_45abf84f7757d6eb": {
+      "text": "I can't believe I lost them now...!",
+      "status": "imported"
+    },
+    "voice_000:r_edd7a13ab8f06a14": {
+      "text": "Not to fools softened by peace...!",
+      "status": "imported"
+    },
+    "voice_000:r_8165e5b41f0124c4": {
+      "text": "We've got the resolve for this!",
+      "status": "imported"
+    },
+    "voice_000:r_4e05581b7432cce8": {
+      "text": "I've been training hard for this!",
+      "status": "imported"
+    },
+    "voice_000:r_a60b107ea3c36a86": {
+      "text": "Don't think I'll stay in one place!",
+      "status": "imported"
+    },
+    "voice_000:r_e33693e5ba4665b0": {
+      "text": "They look like seasoned fighters...!",
+      "status": "imported"
+    },
+    "voice_000:r_72a21a1a489af001": {
+      "text": "Good, this feels right!",
+      "status": "imported"
+    },
+    "voice_000:r_eb643f8bf737a0ca": {
+      "text": "Even I can manage this much...!",
+      "status": "imported"
+    },
+    "voice_000:r_0a3fccb71ec6cf2a": {
+      "text": "I already saw that attack coming!",
+      "status": "imported"
+    },
+    "voice_000:r_9b63cf1f3e0207ef": {
+      "text": "That won't work!",
+      "status": "imported"
+    },
+    "voice_000:r_8356f4e3dcdff938": {
+      "text": "I'm prepared for this much!",
+      "status": "imported"
+    },
+    "voice_000:r_3701cba361f80ea5": {
+      "text": "This is nothing! No problem at all!",
+      "status": "imported"
+    },
+    "voice_000:r_63f429c5c68c0863": {
+      "text": "Nothing can stop us!",
+      "status": "imported"
+    },
+    "voice_000:r_38e4a434c91d8ef0": {
+      "text": "No time to worry about a scratch!",
+      "status": "imported"
+    },
+    "voice_000:r_98ed411352a3a6ac": {
+      "text": "You don't have the strength!",
+      "status": "imported"
+    },
+    "voice_000:r_4824bea6bab3af67": {
+      "text": "All that swagger, and that's all!?",
+      "status": "imported"
+    },
+    "voice_000:r_862b92e63adb9734": {
+      "text": "Looks like you're all show!",
+      "status": "imported"
+    },
+    "voice_000:r_cb306ef55e49d107": {
+      "text": "Just one step above small fry!",
+      "status": "imported"
+    },
+    "voice_000:r_57b2bd2de8a1408d": {
+      "text": "Keep moving and dodge direct hits!",
+      "status": "imported"
+    },
+    "voice_000:r_76f080a4881e8ab5": {
+      "text": "Damn it! I took a hit!",
+      "status": "imported"
+    },
+    "voice_000:r_288133bc5b573dae": {
+      "text": "Tch! Adjust the bilateral angle!",
+      "status": "imported"
+    },
+    "voice_000:r_6f95653e548f8fcf": {
+      "text": "Transmission fault!? At this rate!",
+      "status": "imported"
+    },
+    "voice_000:r_d249d68bada91ab9": {
+      "text": "Reality's never that easy...!",
+      "status": "imported"
+    },
+    "voice_000:r_e9b3307e9eb69f11": {
+      "text": "That training was tougher than this!",
+      "status": "imported"
+    },
+    "voice_000:r_03cdac73042343ee": {
+      "text": "Damn! They hit the legs!",
+      "status": "imported"
+    },
+    "voice_000:r_6026da5acbda7c69": {
+      "text": "Output's holding! I can still fight!",
+      "status": "imported"
+    },
+    "voice_000:r_981f8fedd5414fe5": {
+      "text": "Hold on\\nuntil the plan is done...!",
+      "status": "imported"
+    },
+    "voice_000:r_96bb0dcde0c8c44a": {
+      "text": "Ugh! I made a stupid mistake!",
+      "status": "imported"
+    },
+    "voice_000:r_641550a2f54cb456": {
+      "text": "I can't go back!\\nI must move on!",
+      "status": "imported"
+    },
+    "voice_000:r_a0f2074af8debbfa": {
+      "text": "This is bad! Output's dropping!",
+      "status": "imported"
+    },
+    "voice_000:r_b5f5a97ed82acb0b": {
+      "text": "Damn! I can't keep my balance!",
+      "status": "imported"
+    },
+    "voice_000:r_d9cd2e4ded064396": {
+      "text": "Damn it! Are the sensors dead?!",
+      "status": "imported"
+    },
+    "voice_000:r_99e6349431aaf23b": {
+      "text": "Output's spiking! It won't last!",
+      "status": "imported"
+    },
+    "voice_000:r_ec1081caf845f56a": {
+      "text": "Move, you junk heap! We're not done!",
+      "status": "imported"
+    },
+    "voice_000:r_2c5b7ee872c1ed7f": {
+      "text": "If the machine still moves...!",
+      "status": "imported"
+    },
+    "voice_000:r_76d1e51c8b494a60": {
+      "text": "We're at our best when cornered!",
+      "status": "imported"
+    },
+    "voice_000:r_eb5f687fcd372ae7": {
+      "text": "No surrender!\\nI fight to the end!",
+      "status": "imported"
+    },
+    "voice_000:r_2329428a6871d9fa": {
+      "text": "Till I see this city\\nin ruins...!",
+      "status": "imported"
+    },
+    "voice_000:r_0e7466971bec4cc4": {
+      "text": "Can't fall\\ntill it all burns away!",
+      "status": "imported"
+    },
+    "voice_000:r_efa71f7a4cc33ff3": {
+      "text": "I'm sorry, Seina...!",
+      "status": "imported"
+    },
+    "voice_000:r_3fc2e1186557e7a0": {
+      "text": "The rest is up to you, Takuma...!",
+      "status": "imported"
+    },
+    "voice_000:r_fa6930340a545054": {
+      "text": "Anyone! Somebody destroy the world!",
+      "status": "imported"
+    },
+    "voice_000:r_2332b9d56461d7ab": {
+      "text": "So this is where my fight ends...!",
+      "status": "imported"
+    },
+    "voice_000:r_854aa0a91a3c80d1": {
+      "text": "I... We... We can only fight...!",
+      "status": "imported"
+    },
+    "voice_000:r_0bc8ae32a406ceab": {
+      "text": "Damn! A21's spirit is immortal!",
+      "status": "imported"
+    },
+    "voice_000:r_82c09f011d703b2c": {
+      "text": "Got it! I'll go on ahead!",
+      "status": "imported"
+    },
+    "voice_000:r_2b4d8818c77b6dca": {
+      "text": "Leave holding them off to me!",
+      "status": "imported"
+    },
+    "voice_000:r_087354f2db0a31e6": {
+      "text": "I'll keep them occupied!",
+      "status": "imported"
+    },
+    "voice_000:r_db02a2dec93dd263": {
+      "text": "Concentrate all attacks on them!",
+      "status": "imported"
+    },
+    "voice_000:r_d520c6d5298a848d": {
+      "text": "I'm going after that one!",
+      "status": "imported"
+    },
+    "voice_000:r_099e2458cabf796f": {
+      "text": "Target confirmed!",
+      "status": "imported"
+    },
+    "voice_000:r_fd910d714be70870": {
+      "text": "I'll see my mission through!",
+      "status": "imported"
+    },
+    "voice_000:r_9736f29b11344ec3": {
+      "text": "Take them down one by one!",
+      "status": "imported"
+    }
+  }
+}

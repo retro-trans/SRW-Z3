@@ -1,0 +1,758 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_106:r_479b340ccc6c572b": {
+      "text": "Give it all you've got, everyone!",
+      "status": "imported"
+    },
+    "voice_106:r_77949221bf58f862": {
+      "text": "Leave it to me!",
+      "status": "imported"
+    },
+    "voice_106:r_70b9c4b9f1f37eff": {
+      "text": "All right, let's go! Ready?!",
+      "status": "imported"
+    },
+    "voice_106:r_9fcb3754cb1773c7": {
+      "text": "I was getting tired of waiting!",
+      "status": "imported"
+    },
+    "voice_106:r_3559d2fad32c2435": {
+      "text": "We eat when this is over! Hang on!",
+      "status": "imported"
+    },
+    "voice_106:r_f7570547e9f80a64": {
+      "text": "Range, 3,000. We're well placed.",
+      "status": "imported"
+    },
+    "voice_106:r_cbab0f4720e1fcf1": {
+      "text": "All right! Let's do this, everyone!",
+      "status": "imported"
+    },
+    "voice_106:r_0bbe0b4f5364e732": {
+      "text": "Leeron! What's our range?!",
+      "status": "imported"
+    },
+    "voice_106:r_5dda5198137cb02a": {
+      "text": "Yes, yes. I'm measuring it now.",
+      "status": "imported"
+    },
+    "voice_106:r_83ec59afbecdec14": {
+      "text": "Dai-Gurren! Full speed ahead!",
+      "status": "imported"
+    },
+    "voice_106:r_e20bfd42ad95a3c9": {
+      "text": "Show them what Dai-Gurren can do!",
+      "status": "imported"
+    },
+    "voice_106:r_0f58a8822381e57f": {
+      "text": "One more hit! Go!",
+      "status": "imported"
+    },
+    "voice_106:r_6dbcc507fb61b51d": {
+      "text": "Looks like the big one's here!",
+      "status": "imported"
+    },
+    "voice_106:r_b42ab697149a7c8a": {
+      "text": "We can match that size! Let's go!",
+      "status": "imported"
+    },
+    "voice_106:r_02479dc8fe989560": {
+      "text": "Counterattack! Hurry!",
+      "status": "imported"
+    },
+    "voice_106:r_a2df00f91a9b0a9e": {
+      "text": "Don't let them escape! Down them!",
+      "status": "imported"
+    },
+    "voice_106:r_48b60d6c48b9b142": {
+      "text": "Big but fast!\\nYou won't get away!",
+      "status": "imported"
+    },
+    "voice_106:r_8927e6fb681aa809": {
+      "text": "Hit us, we hit back.\\nThat's manners!",
+      "status": "imported"
+    },
+    "voice_106:r_665f01666859013b": {
+      "text": "We'll lend a hand too!",
+      "status": "imported"
+    },
+    "voice_106:r_a571eec59b258d11": {
+      "text": "Fall back while you can!",
+      "status": "imported"
+    },
+    "voice_106:r_ddbe581c5ea9183d": {
+      "text": "Engine room!\\nWhat's going on?!",
+      "status": "imported"
+    },
+    "voice_106:r_faae935cca0edc72": {
+      "text": "Damn! They read our firing range!",
+      "status": "imported"
+    },
+    "voice_106:r_d4430bf362340b32": {
+      "text": "Tetsukan! Stay on high alert!",
+      "status": "imported"
+    },
+    "voice_106:r_6ff1323b355593e0": {
+      "text": "We missed! Dai-Gurren, press on!",
+      "status": "imported"
+    },
+    "voice_106:r_b7b5625d7cd4282f": {
+      "text": "That won't\\nleave a scratch!",
+      "status": "imported"
+    },
+    "voice_106:r_920740a0219c5085": {
+      "text": "We're not this big for show! Go!",
+      "status": "imported"
+    },
+    "voice_106:r_a8451712c57c1a72": {
+      "text": "What's our damage status?!",
+      "status": "imported"
+    },
+    "voice_106:r_3633df5b7b8f47fa": {
+      "text": "Nothing serious.\\nFull speed ahead!",
+      "status": "imported"
+    },
+    "voice_106:r_52dfc56b14b93551": {
+      "text": "Dai-Gurren bears\\nKamina's spirit!",
+      "status": "imported"
+    },
+    "voice_106:r_1b9b2aab5cb104da": {
+      "text": "All stations! Report your damage!",
+      "status": "imported"
+    },
+    "voice_106:r_342044c706a2340f": {
+      "text": "This won't bring our ship down!",
+      "status": "imported"
+    },
+    "voice_106:r_cf41e8828a90cbdb": {
+      "text": "Leeron! We took a direct hit!",
+      "status": "imported"
+    },
+    "voice_106:r_719e897304ec42d4": {
+      "text": "Don't panic!\\nLeave repairs to me!",
+      "status": "imported"
+    },
+    "voice_106:r_d5e0a2317c40d322": {
+      "text": "Team Dai-Gurren's flagship stands!",
+      "status": "imported"
+    },
+    "voice_106:r_ec2ea17765052401": {
+      "text": "They're keeping up with Dai-Gurren!",
+      "status": "imported"
+    },
+    "voice_106:r_f2d4255f1c2f7542": {
+      "text": "Engine room! Keep us running!",
+      "status": "imported"
+    },
+    "voice_106:r_5d08ad19e2da125b": {
+      "text": "Fight the fires!\\nThis is our home!",
+      "status": "imported"
+    },
+    "voice_106:r_a7246b52782a877e": {
+      "text": "Ghh! We can't go on like this!",
+      "status": "imported"
+    },
+    "voice_106:r_dc8701f6bcb9904f": {
+      "text": "Captain, stay strong!\\nTo the end!",
+      "status": "imported"
+    },
+    "voice_106:r_d6bdd730f24f66eb": {
+      "text": "Dai-Gurren's taken this much...!",
+      "status": "imported"
+    },
+    "voice_106:r_41997412868c48c4": {
+      "text": "Hang on a bit longer, Dai-Gurren!",
+      "status": "imported"
+    },
+    "voice_106:r_9e6cf4f389dae55c": {
+      "text": "Lose this ship, and our future...!",
+      "status": "imported"
+    },
+    "voice_106:r_9e0c80ac7e33b459": {
+      "text": "Oh? Looks like we can't counter.",
+      "status": "imported"
+    },
+    "voice_106:r_7432ef43ed3471dc": {
+      "text": "Too bad. We can't counter this time.",
+      "status": "imported"
+    },
+    "voice_106:r_065443f6ddfcf0d7": {
+      "text": "My, aren't you clumsy!",
+      "status": "imported"
+    },
+    "voice_106:r_47d52a2839c71715": {
+      "text": "Sorry, but that's a wasted effort.",
+      "status": "imported"
+    },
+    "voice_106:r_847f82e7f3eef651": {
+      "text": "Too forceful! You don't get women!",
+      "status": "imported"
+    },
+    "voice_106:r_eb7ae28b53dc033c": {
+      "text": "All hands! Battle stations!",
+      "status": "imported"
+    },
+    "voice_106:r_857c4a52ce8df0fd": {
+      "text": "You got it!",
+      "status": "imported"
+    },
+    "voice_106:r_55417493fce1d347": {
+      "text": "We can fight too!\\nWatch us!",
+      "status": "imported"
+    },
+    "voice_106:r_8fdf5910927c9591": {
+      "text": "We won't be outdone in size!",
+      "status": "imported"
+    },
+    "voice_106:r_8f60f6fc86db3107": {
+      "text": "Support our allied ship!",
+      "status": "imported"
+    },
+    "voice_106:r_b1de76a75a253c13": {
+      "text": "Abandon ship! Everyone, hurry!",
+      "status": "imported"
+    },
+    "voice_106:r_128c35bf3e0e394c": {
+      "text": "Oh, well... Beauty dies young...",
+      "status": "imported"
+    },
+    "voice_106:r_5213c17e13b23de0": {
+      "text": "Stop wallowing and get out, now!",
+      "status": "imported"
+    },
+    "voice_106:r_38fdff9483e9245c": {
+      "text": "We can take one or two more hits...!",
+      "status": "imported"
+    },
+    "voice_106:r_620fedec67706d7d": {
+      "text": "Then we've got plenty of leeway!",
+      "status": "imported"
+    },
+    "voice_106:r_9680dcd0fddcfcc7": {
+      "text": "Gabal!\\nOnly your helm can save us!",
+      "status": "imported"
+    },
+    "voice_106:r_2a00f1044ad5cbaa": {
+      "text": "Honestly, how rude!",
+      "status": "imported"
+    },
+    "voice_106:r_3dbeead1bd3164ef": {
+      "text": "Absolutely! That was beyond rude!",
+      "status": "imported"
+    },
+    "voice_106:r_98d15b8cc09bc915": {
+      "text": "Repairs all night again...\\nMy skin!",
+      "status": "imported"
+    },
+    "voice_106:r_ac341e7976e88f0b": {
+      "text": "Repairs are hard! Stop breaking it!",
+      "status": "imported"
+    },
+    "voice_106:r_cdbd128a5b4127cc": {
+      "text": "Tell that to the enemy!",
+      "status": "imported"
+    },
+    "voice_106:r_cfccaa1fbeda124c": {
+      "text": "Oho! Knowing when to quit matters.",
+      "status": "imported"
+    },
+    "voice_106:r_b1f8ec192b9c083a": {
+      "text": "Oh, what a pity! You missed!",
+      "status": "imported"
+    },
+    "voice_106:r_a007f9ab9cf048b3": {
+      "text": "Can't say I'm unhappy about that!",
+      "status": "imported"
+    },
+    "voice_106:r_ddafde4b065ced49": {
+      "text": "Hurry and catch me, won't you?",
+      "status": "imported"
+    },
+    "voice_106:r_de1213040856c089": {
+      "text": "We've got a barrier. Did you know?",
+      "status": "imported"
+    },
+    "voice_106:r_3304412ac41f47a6": {
+      "text": "Come about, Gabal! Change position!",
+      "status": "imported"
+    },
+    "voice_106:r_0c0775e051211840": {
+      "text": "A huge ship needs a huge shield!",
+      "status": "imported"
+    },
+    "voice_106:r_a2afffe1c396f0b3": {
+      "text": "So huge,\\nyet standing there...!",
+      "status": "imported"
+    },
+    "voice_106:r_13c25fbdfddc8a24": {
+      "text": "Enemy incoming!",
+      "status": "imported"
+    },
+    "voice_106:r_42ba1ecb310b4bd7": {
+      "text": "I know! Get them before they get us!",
+      "status": "imported"
+    },
+    "voice_106:r_9cedad8237480563": {
+      "text": "Tetsukan! Give us enemy positions!",
+      "status": "imported"
+    },
+    "voice_106:r_a03fabecba1508ca": {
+      "text": "Gabal! Corner the enemy!",
+      "status": "imported"
+    },
+    "voice_106:r_5391b24a71eb10ae": {
+      "text": "They're open after attacking!",
+      "status": "imported"
+    },
+    "voice_106:r_a554ceef5c87b972": {
+      "text": "Come on, the enemy's getting away!",
+      "status": "imported"
+    },
+    "voice_106:r_546c3d5937fbb7ee": {
+      "text": "Oh, honestly! So forceful!",
+      "status": "imported"
+    },
+    "voice_106:r_1568ff6298b12b96": {
+      "text": "Oh, no!\\nThe drive took a direct hit!",
+      "status": "imported"
+    },
+    "voice_106:r_2c9d94ba13c5fc50": {
+      "text": "Leave the helm to Gabal. We're safe!",
+      "status": "imported"
+    },
+    "voice_106:r_a77f4913375098d2": {
+      "text": "Hehe! Don't come back anytime soon.",
+      "status": "imported"
+    },
+    "voice_106:r_428c2116ac3071b1": {
+      "text": "Lordgenome! Can we attack here?!",
+      "status": "imported"
+    },
+    "voice_106:r_84c116267b79f540": {
+      "text": "Of course.",
+      "status": "imported"
+    },
+    "voice_106:r_dad38ee29af2df3a": {
+      "text": "All right! Commence attack!",
+      "status": "imported"
+    },
+    "voice_106:r_3d32e86f8dc80909": {
+      "text": "Let's go! Everyone, get fired up!",
+      "status": "imported"
+    },
+    "voice_106:r_70451ffbabe2f876": {
+      "text": "Show me, warriors of the Spiral.",
+      "status": "imported"
+    },
+    "voice_106:r_9072ea7bc71df136": {
+      "text": "Incoming:\\nRandom Schrodinger Warp.",
+      "status": "imported"
+    },
+    "voice_106:r_04e815a8d425827d": {
+      "text": "Please say it so I can understand!",
+      "status": "imported"
+    },
+    "voice_106:r_5b9e8897190892eb": {
+      "text": "I'll help, brother-in-law!",
+      "status": "imported"
+    },
+    "voice_106:r_7bea3023abbf8a94": {
+      "text": "If Kittan dies,\\nKiyoh will grieve!",
+      "status": "imported"
+    },
+    "voice_106:r_dd01a4c0d1b36a8d": {
+      "text": "That attack was already predicted.",
+      "status": "imported"
+    },
+    "voice_106:r_20920ad2eb3542db": {
+      "text": "You saved us, Lordgenome!",
+      "status": "imported"
+    },
+    "voice_106:r_0ab7914877fd48ed": {
+      "text": "Spiral Energy stable. No issues.",
+      "status": "imported"
+    },
+    "voice_106:r_cb846feec748c2e3": {
+      "text": "Our spirit will keep this ship safe!",
+      "status": "imported"
+    },
+    "voice_106:r_c958860b0676b1f5": {
+      "text": "An attack like that can't hurt us!",
+      "status": "imported"
+    },
+    "voice_106:r_5e2669b82ef75ce3": {
+      "text": "Hmph... How reassuring.",
+      "status": "imported"
+    },
+    "voice_106:r_7847e0ed7dc9282d": {
+      "text": "Fight on,\\nand our survival odds...",
+      "status": "imported"
+    },
+    "voice_106:r_e42b52c7a987b906": {
+      "text": "Don't say it! We know it's reckless!",
+      "status": "imported"
+    },
+    "voice_106:r_6825fd1ff907bd22": {
+      "text": "Spiral Energy falls\\nLife signs fade",
+      "status": "imported"
+    },
+    "voice_106:r_607f666f1563bc0d": {
+      "text": "Stay strong!\\nThis ship won't fall!",
+      "status": "imported"
+    },
+    "voice_106:r_97b7431eeb81e6b6": {
+      "text": "The Spiral gauge is dropping fast!",
+      "status": "imported"
+    },
+    "voice_106:r_132f605d02975e71": {
+      "text": "This is bad!\\nPower's running short!",
+      "status": "imported"
+    },
+    "voice_106:r_c8c59db85bf875e6": {
+      "text": "Mugann approaching.",
+      "status": "imported"
+    },
+    "voice_106:r_391aa56435d9dd6e": {
+      "text": "Anti-Spiral...!",
+      "status": "imported"
+    },
+    "voice_106:r_95d047bcc17fccc6": {
+      "text": "Commencing attack.",
+      "status": "imported"
+    },
+    "voice_106:r_640327a12a559b31": {
+      "text": "Target acquired.",
+      "status": "imported"
+    },
+    "voice_106:r_bdd38c584fa313d0": {
+      "text": "Attack target confirmed.",
+      "status": "imported"
+    },
+    "voice_106:r_381992c5d8224937": {
+      "text": "Commencing immediate counterattack.",
+      "status": "imported"
+    },
+    "voice_106:r_f1e7ed9e5874aba5": {
+      "text": "Attack the withdrawing target.",
+      "status": "imported"
+    },
+    "voice_106:r_fc25e66a86fc2c85": {
+      "text": "Intercept attacking enemies first.",
+      "status": "imported"
+    },
+    "voice_106:r_5aeeb4917340c42d": {
+      "text": "No move available now.",
+      "status": "imported"
+    },
+    "voice_106:r_b765659981b6516d": {
+      "text": "Counterattack deemed impossible.",
+      "status": "imported"
+    },
+    "voice_106:r_0c427458bc00eb95": {
+      "text": "Spiral Power decreasing...",
+      "status": "imported"
+    },
+    "voice_106:r_774a9ab4d8fd5351": {
+      "text": "Evasion failed.",
+      "status": "imported"
+    },
+    "voice_106:r_d3f01de714c015bd": {
+      "text": "Damage minimal.",
+      "status": "imported"
+    },
+    "voice_106:r_7d2617c809fead70": {
+      "text": "Damage accumulating.",
+      "status": "imported"
+    },
+    "voice_106:r_ceb935ccbf830724": {
+      "text": "Direct hit. No operational impact.",
+      "status": "imported"
+    },
+    "voice_106:r_862ef7385bf2abd4": {
+      "text": "Damage extensive.",
+      "status": "imported"
+    },
+    "voice_106:r_001cbec4d9a4283f": {
+      "text": "Damage rate entering danger zone.",
+      "status": "imported"
+    },
+    "voice_106:r_8ad40afecd02b41e": {
+      "text": "Operations impossible...",
+      "status": "imported"
+    },
+    "voice_106:r_26e5efec03c03d78": {
+      "text": "Recommend immediate withdrawal.",
+      "status": "imported"
+    },
+    "voice_106:r_4ad81e88c7557a8b": {
+      "text": "So what does that mean...?",
+      "status": "imported"
+    },
+    "voice_106:r_1f65a7af190e4674": {
+      "text": "Lordgenome, thoughts on this game?",
+      "status": "imported"
+    },
+    "voice_106:r_40c5a9358ed5bf29": {
+      "text": "If you enjoy it, you've already won.",
+      "status": "imported"
+    },
+    "voice_106:r_f2e18dfdfe0c89ea": {
+      "text": "Games give desire form and worth.",
+      "status": "imported"
+    },
+    "voice_106:r_cf7dbf49e96a5755": {
+      "text": "This game, too, obeys that law.",
+      "status": "imported"
+    },
+    "voice_106:r_fa96676cc65bb509": {
+      "text": "Until we meet again.",
+      "status": "imported"
+    },
+    "voice_106:r_4e37f92e7d2fc62e": {
+      "text": "Over already?! We're just starting!!",
+      "status": "imported"
+    },
+    "voice_106:r_66ab4cfe1557909d": {
+      "text": "At last! A face, a voice - fired up!",
+      "status": "imported"
+    },
+    "voice_106:r_0bad405ee6ca63ba": {
+      "text": "I could replace Dayakka as captain!",
+      "status": "imported"
+    },
+    "voice_106:r_2072eaf71a260ae7": {
+      "text": "Nnngh! Then, farewell!",
+      "status": "imported"
+    },
+    "voice_106:r_6c13bbfd27a7799e": {
+      "text": "No... Impossible.",
+      "status": "imported"
+    },
+    "voice_106:r_06f88dcbd3c9e738": {
+      "text": "Attack!",
+      "status": "imported"
+    },
+    "voice_106:r_b28faf9f71bc3598": {
+      "text": "Fire!",
+      "status": "imported"
+    },
+    "voice_106:r_8a29278549f8e07a": {
+      "text": "Here I go!",
+      "status": "imported"
+    },
+    "voice_106:r_7e6c573c26177f98": {
+      "text": "Clear my line of fire!",
+      "status": "imported"
+    },
+    "voice_106:r_45abf84f7757d6eb": {
+      "text": "We'll shoot down every last enemy!",
+      "status": "imported"
+    },
+    "voice_106:r_edd7a13ab8f06a14": {
+      "text": "Take every last round!",
+      "status": "imported"
+    },
+    "voice_106:r_0a3fccb71ec6cf2a": {
+      "text": "Shoot down that Mugann!",
+      "status": "imported"
+    },
+    "voice_106:r_9b63cf1f3e0207ef": {
+      "text": "Nice target! Faceless bastard!",
+      "status": "imported"
+    },
+    "voice_106:r_8356f4e3dcdff938": {
+      "text": "Attack target: Anti-Spiral forces!",
+      "status": "imported"
+    },
+    "voice_106:r_1d6d784036ae0bd7": {
+      "text": "Commence attack on Anti-Spiral!",
+      "status": "imported"
+    },
+    "voice_106:r_625664af02183c17": {
+      "text": "A big one! Let me fire!",
+      "status": "imported"
+    },
+    "voice_106:r_63f429c5c68c0863": {
+      "text": "This is the very end! Fire away!!",
+      "status": "imported"
+    },
+    "voice_106:r_288133bc5b573dae": {
+      "text": "Main cannon, fire!",
+      "status": "imported"
+    },
+    "voice_106:r_6f95653e548f8fcf": {
+      "text": "Fire!!",
+      "status": "imported"
+    },
+    "voice_106:r_d249d68bada91ab9": {
+      "text": "Fire, fire, fire away!",
+      "status": "imported"
+    },
+    "voice_106:r_e9b3307e9eb69f11": {
+      "text": "All riiight!",
+      "status": "imported"
+    },
+    "voice_106:r_03cdac73042343ee": {
+      "text": "Don't waste shots, Attenborough!",
+      "status": "imported"
+    },
+    "voice_106:r_6026da5acbda7c69": {
+      "text": "Trust us! You're in safe hands!",
+      "status": "imported"
+    },
+    "voice_106:r_981f8fedd5414fe5": {
+      "text": "Naval barrage on enemies ahead!",
+      "status": "imported"
+    },
+    "voice_106:r_96bb0dcde0c8c44a": {
+      "text": "Eat this!!",
+      "status": "imported"
+    },
+    "voice_106:r_641550a2f54cb456": {
+      "text": "Give them a big one!",
+      "status": "imported"
+    },
+    "voice_106:r_d9cd2e4ded064396": {
+      "text": "Main cannon, fiiire!",
+      "status": "imported"
+    },
+    "voice_106:r_ec1081caf845f56a": {
+      "text": "Fire, fire, fiiire!!",
+      "status": "imported"
+    },
+    "voice_106:r_76d1e51c8b494a60": {
+      "text": "KABOOM!",
+      "status": "imported"
+    },
+    "voice_106:r_2329428a6871d9fa": {
+      "text": "Then let's fire like crazy!!",
+      "status": "imported"
+    },
+    "voice_106:r_efa71f7a4cc33ff3": {
+      "text": "This is where I show my skill!!",
+      "status": "imported"
+    },
+    "voice_106:r_0bc8ae32a406ceab": {
+      "text": "Let the Probability Shift Shell rip!",
+      "status": "imported"
+    },
+    "voice_106:r_82c09f011d703b2c": {
+      "text": "This shell nullifies\\ndefense odds!",
+      "status": "imported"
+    },
+    "voice_106:r_087354f2db0a31e6": {
+      "text": "Attenborough!\\nShift odds! Jackpot!",
+      "status": "imported"
+    },
+    "voice_106:r_db02a2dec93dd263": {
+      "text": "Yes! Probability Shift Shell, fire!",
+      "status": "imported"
+    },
+    "voice_106:r_099e2458cabf796f": {
+      "text": "Lovely!\\nIt nullifies defense odds!",
+      "status": "imported"
+    },
+    "voice_106:r_fd910d714be70870": {
+      "text": "Attenborough:Probability Shift Shell",
+      "status": "imported"
+    },
+    "voice_106:r_cd06d0820d82524b": {
+      "text": "Probability Shift Shell, fire!!",
+      "status": "imported"
+    },
+    "voice_106:r_c94c6d04be583774": {
+      "text": "You won't get away!",
+      "status": "imported"
+    },
+    "voice_106:r_e54e2c99ef8297af": {
+      "text": "Hit us, and we hit back!",
+      "status": "imported"
+    },
+    "voice_106:r_f16a3eb0bcaac082": {
+      "text": "Now you're the target!",
+      "status": "imported"
+    },
+    "voice_106:r_10a408809e512df1": {
+      "text": "We won't take that lying down!",
+      "status": "imported"
+    },
+    "voice_106:r_bc7b9e308b879dd4": {
+      "text": "What's going on here?!",
+      "status": "imported"
+    },
+    "voice_106:r_98902fd3143c393e": {
+      "text": "You lousy shot!",
+      "status": "imported"
+    },
+    "voice_106:r_d907fbd7bc1c4298": {
+      "text": "What the hell are you aiming at?!",
+      "status": "imported"
+    },
+    "voice_106:r_96b21e3a028dd074": {
+      "text": "Not bad, Gabal!",
+      "status": "imported"
+    },
+    "voice_106:r_ce140b5d8e6b7310": {
+      "text": "Guess that didn't work!",
+      "status": "imported"
+    },
+    "voice_106:r_a8e85bd950696403": {
+      "text": "So briiight!",
+      "status": "imported"
+    },
+    "voice_106:r_772c8bc40ab6cb61": {
+      "text": "Now that's one tough ship!",
+      "status": "imported"
+    },
+    "voice_106:r_58dd2826a199ef51": {
+      "text": "Didn't even budge us!",
+      "status": "imported"
+    },
+    "voice_106:r_aadc0b2442adb93b": {
+      "text": "We only shook a little!",
+      "status": "imported"
+    },
+    "voice_106:r_e7a8cd8ed5bc2d1b": {
+      "text": "What?! That's pretty strong!",
+      "status": "imported"
+    },
+    "voice_106:r_041dd920da4a7c17": {
+      "text": "That won't be enough to finish us!",
+      "status": "imported"
+    },
+    "voice_106:r_c7f4280cde4605b3": {
+      "text": "Damn! Quit darting around!",
+      "status": "imported"
+    },
+    "voice_106:r_ec349c8ea9511a18": {
+      "text": "Not yet! I can still fire!",
+      "status": "imported"
+    },
+    "voice_106:r_33236ffa3ea95b68": {
+      "text": "I'll keep firing till we explode!",
+      "status": "imported"
+    },
+    "voice_106:r_689d0b123de71ae0": {
+      "text": "Damn! We're in trouble at this rate!",
+      "status": "imported"
+    },
+    "voice_106:r_84883aa95f63ce32": {
+      "text": "Everyone, hold firm! This is it!",
+      "status": "imported"
+    },
+    "voice_106:r_25493e978ce8ff16": {
+      "text": "Yeah! Time for a huge comeback!",
+      "status": "imported"
+    },
+    "voice_106:r_7316666150e42960": {
+      "text": "R-Run away!",
+      "status": "imported"
+    },
+    "voice_106:r_c4f11aa93dc5b668": {
+      "text": "Aaaagh! We're done for!!",
+      "status": "imported"
+    }
+  }
+}

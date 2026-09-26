@@ -1,0 +1,4154 @@
+{
+  "schema": 1,
+  "literals": {
+    "aboard_order_labels.ROWS/0": {
+      "file": "tools/aboard_order_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.aboard_order_labels:r_0ea619af31c0a4bc"
+      }
+    },
+    "aboard_order_labels.ROWS/1": {
+      "file": "tools/aboard_order_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.aboard_order_labels:r_0f01041fe7997827"
+      }
+    },
+    "backlog_layout.EN/0": {
+      "file": "tools/backlog_layout.py",
+      "variable": "EN",
+      "template": {
+        "$message": "ui.backlog_layout:r_d29d773a8a9dbc70"
+      }
+    },
+    "battle_preview_layout.ROWS/0": {
+      "file": "tools/battle_preview_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.battle_preview_layout:r_0ea619af31c0a4bc"
+      }
+    },
+    "battle_preview_layout.ROWS/1": {
+      "file": "tools/battle_preview_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.battle_preview_layout:r_0f01041fe7997827"
+      }
+    },
+    "battle_preview_layout.ROWS/2": {
+      "file": "tools/battle_preview_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.battle_preview_layout:r_7cc540f65f4d3eec"
+      }
+    },
+    "battle_preview_layout.ROWS/3": {
+      "file": "tools/battle_preview_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.battle_preview_layout:r_c769ed448ac2ddde"
+      }
+    },
+    "battle_preview_layout.ROWS/4": {
+      "file": "tools/battle_preview_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.battle_preview_layout:r_e96afa13f4c5fa9c"
+      }
+    },
+    "battle_preview_layout.ROWS/5": {
+      "file": "tools/battle_preview_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.battle_preview_layout:r_ae4aa1e70c4c9fe0"
+      }
+    },
+    "battle_preview_layout.ROWS/6": {
+      "file": "tools/battle_preview_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.battle_preview_layout:r_f9b35564aafcd2e7"
+      }
+    },
+    "battle_preview_layout.ROWS/7": {
+      "file": "tools/battle_preview_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.battle_preview_layout:r_3116c33439dff787"
+      }
+    },
+    "battle_preview_layout.ROWS/8": {
+      "file": "tools/battle_preview_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.battle_preview_layout:r_7f2318a37843ae64"
+      }
+    },
+    "battle_preview_layout.ROWS/9": {
+      "file": "tools/battle_preview_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.battle_preview_layout:r_4b764c845ba4bb77"
+      }
+    },
+    "battle_reports.HOOKS/0": {
+      "file": "tools/battle_reports.py",
+      "variable": "HOOKS",
+      "template": {
+        "$message": "ui.battle_reports:r_4998c9f909424a08"
+      }
+    },
+    "battle_reports.HOOKS/1": {
+      "file": "tools/battle_reports.py",
+      "variable": "HOOKS",
+      "template": {
+        "$message": "ui.battle_reports:r_f21d29d91af8d199"
+      }
+    },
+    "battle_reports.HELP/2": {
+      "file": "tools/battle_reports.py",
+      "variable": "HELP",
+      "template": {
+        "$message": "ui.battle_reports:r_52a6e811afb89172"
+      }
+    },
+    "battle_reports.HELP/3": {
+      "file": "tools/battle_reports.py",
+      "variable": "HELP",
+      "template": {
+        "$message": "ui.battle_reports:r_12830343ae581b43"
+      }
+    },
+    "battle_reports.HELP/4": {
+      "file": "tools/battle_reports.py",
+      "variable": "HELP",
+      "template": {
+        "$message": "ui.battle_reports:r_73f8080be688dfc5"
+      }
+    },
+    "battle_reports.HELP/5": {
+      "file": "tools/battle_reports.py",
+      "variable": "HELP",
+      "template": {
+        "$message": "ui.battle_reports:r_b52f2480da53bf39"
+      }
+    },
+    "battle_reports.ROWS/6": {
+      "file": "tools/battle_reports.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.battle_reports:r_f9b35564aafcd2e7"
+      }
+    },
+    "battle_reports.ROWS/7": {
+      "file": "tools/battle_reports.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.battle_reports:r_3116c33439dff787"
+      }
+    },
+    "battle_reports.ROWS/8": {
+      "file": "tools/battle_reports.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.battle_reports:r_7f2318a37843ae64"
+      }
+    },
+    "battle_reports.ROWS/9": {
+      "file": "tools/battle_reports.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.battle_reports:r_4b764c845ba4bb77"
+      }
+    },
+    "battle_reports.ROWS/10": {
+      "file": "tools/battle_reports.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.battle_reports:r_22a9c653a7f2b8b7"
+      }
+    },
+    "battle_reports.ROWS/11": {
+      "file": "tools/battle_reports.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.battle_reports:r_dabd1c74af49e9a6"
+      }
+    },
+    "combat_record_links.LINKS/0": {
+      "file": "tools/combat_record_links.py",
+      "variable": "LINKS",
+      "template": {
+        "$message": "ui.combat_record_links:r_7fc0b7602993da39"
+      }
+    },
+    "combat_record_links.LINKS/1": {
+      "file": "tools/combat_record_links.py",
+      "variable": "LINKS",
+      "template": {
+        "$message": "ui.combat_record_links:r_30d0ffe8a92c35fa"
+      }
+    },
+    "combat_record_links.LINKS/2": {
+      "file": "tools/combat_record_links.py",
+      "variable": "LINKS",
+      "template": {
+        "$message": "ui.combat_record_links:r_769ef990cdbaa4b4"
+      }
+    },
+    "combat_record_links.LINKS/3": {
+      "file": "tools/combat_record_links.py",
+      "variable": "LINKS",
+      "template": {
+        "$message": "ui.combat_record_links:r_44ee2ef17b9ab933"
+      }
+    },
+    "combat_record_links.HELP/4": {
+      "file": "tools/combat_record_links.py",
+      "variable": "HELP",
+      "template": {
+        "$message": "ui.combat_record_links:r_73f8080be688dfc5"
+      }
+    },
+    "combat_record_links.HELP/5": {
+      "file": "tools/combat_record_links.py",
+      "variable": "HELP",
+      "template": {
+        "$message": "ui.combat_record_links:r_b52f2480da53bf39"
+      }
+    },
+    "combat_record_links.HELP/6": {
+      "file": "tools/combat_record_links.py",
+      "variable": "HELP",
+      "template": {
+        "$message": "ui.combat_record_links:r_bae13dfff792458a"
+      }
+    },
+    "combat_record_links.HELP/7": {
+      "file": "tools/combat_record_links.py",
+      "variable": "HELP",
+      "template": {
+        "$message": "ui.combat_record_links:r_2499ba2da12f2c10"
+      }
+    },
+    "command_layout.LABELS/0": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_24f8d43d1e93b8a1"
+      }
+    },
+    "command_layout.LABELS/1": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_9c0e8c2691adb4f1"
+      }
+    },
+    "command_layout.LABELS/2": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_7c43dd0cfd5d3c49"
+      }
+    },
+    "command_layout.LABELS/3": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_f5c2c45cc55e7e3c"
+      }
+    },
+    "command_layout.LABELS/4": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_7f8c6e5c5e4e347e"
+      }
+    },
+    "command_layout.LABELS/5": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_9fc62866844dfe9a"
+      }
+    },
+    "command_layout.LABELS/6": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_dfa93022bbc30980"
+      }
+    },
+    "command_layout.LABELS/7": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_1416360379dea645"
+      }
+    },
+    "command_layout.LABELS/8": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_07bda9bbd38c277e"
+      }
+    },
+    "command_layout.LABELS/9": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_9dcbffc950a2f863"
+      }
+    },
+    "command_layout.LABELS/10": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_a4a8b66523fec5ef"
+      }
+    },
+    "command_layout.LABELS/11": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_c3f7096c93353c69"
+      }
+    },
+    "command_layout.LABELS/12": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_4bfe6b7f166985f6"
+      }
+    },
+    "command_layout.LABELS/13": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_e6622a0af4cd94f4"
+      }
+    },
+    "command_layout.LABELS/14": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_392dbb3fa782aa56"
+      }
+    },
+    "command_layout.LABELS/15": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_f35bb291f78fe83a"
+      }
+    },
+    "command_layout.LABELS/16": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_f548063f042ac39b"
+      }
+    },
+    "command_layout.MORE_COMMANDS/17": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_5449e369bee5b409"
+      }
+    },
+    "command_layout.MORE_COMMANDS/18": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_e0d0a768d1583671"
+      }
+    },
+    "command_layout.MORE_COMMANDS/19": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_bf1a4977327a4fc8"
+      }
+    },
+    "command_layout.MORE_COMMANDS/20": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_3cf6aecbc98cca7f"
+      }
+    },
+    "command_layout.MORE_COMMANDS/21": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_faa8114290185415"
+      }
+    },
+    "command_layout.MORE_COMMANDS/22": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_67500aec0f9b0bac"
+      }
+    },
+    "command_layout.MORE_COMMANDS/23": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_444f7f15f226c8a7"
+      }
+    },
+    "command_layout.MORE_COMMANDS/24": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_b2eb4d7c959caa8d"
+      }
+    },
+    "command_layout.MORE_COMMANDS/25": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_03118e8846ac661c"
+      }
+    },
+    "command_layout.MORE_COMMANDS/26": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_6baeda8d536fac93"
+      }
+    },
+    "command_layout.MORE_COMMANDS/27": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_42a983f55d340aac"
+      }
+    },
+    "command_layout.MORE_COMMANDS/28": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_ab2a88b66db4be62"
+      }
+    },
+    "command_layout.MORE_COMMANDS/29": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_03f5ce909d7de11f"
+      }
+    },
+    "command_layout.MORE_COMMANDS/30": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_d590a498d19945e6"
+      }
+    },
+    "command_layout.MORE_COMMANDS/31": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_e82d5dfb0dff9bcb"
+      }
+    },
+    "command_layout.MORE_COMMANDS/32": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_fbf0f7c19af03699"
+      }
+    },
+    "command_layout.MORE_COMMANDS/33": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_e08b1cf222e4a2a0"
+      }
+    },
+    "command_layout.MORE_COMMANDS/34": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_e7510922d925b533"
+      }
+    },
+    "command_layout.MORE_COMMANDS/35": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_109d5fa3ed6e91f3"
+      }
+    },
+    "command_layout.MORE_COMMANDS/36": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_05defd326750860f"
+      }
+    },
+    "command_layout.MORE_COMMANDS/37": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_18d28770a2e8b0a6"
+      }
+    },
+    "command_layout.MORE_COMMANDS/38": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_856e76c7b54eb7ea"
+      }
+    },
+    "command_layout.MORE_COMMANDS/39": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_d253a1502bae57a6"
+      }
+    },
+    "command_layout.MORE_COMMANDS/40": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_e95260cbc82dbc73"
+      }
+    },
+    "command_layout.MORE_COMMANDS/41": {
+      "file": "tools/command_layout.py",
+      "variable": "MORE_COMMANDS",
+      "template": {
+        "$message": "ui.command_layout:r_7734a0a058920390"
+      }
+    },
+    "command_layout.DIALOGS/42": {
+      "file": "tools/command_layout.py",
+      "variable": "DIALOGS",
+      "template": {
+        "$message": "ui.command_layout:r_47b714f8af25410b"
+      }
+    },
+    "command_layout.DIALOGS/43": {
+      "file": "tools/command_layout.py",
+      "variable": "DIALOGS",
+      "template": {
+        "$message": "ui.command_layout:r_eb67189ba1e77948"
+      }
+    },
+    "command_layout.DIALOGS/44": {
+      "file": "tools/command_layout.py",
+      "variable": "DIALOGS",
+      "template": {
+        "$message": "ui.command_layout:r_df70e8eef794da3b"
+      }
+    },
+    "command_layout.DIALOGS/45": {
+      "file": "tools/command_layout.py",
+      "variable": "DIALOGS",
+      "template": {
+        "$message": "ui.command_layout:r_4fb94a9f50b60e8a"
+      }
+    },
+    "command_layout.DIALOGS/46": {
+      "file": "tools/command_layout.py",
+      "variable": "DIALOGS",
+      "template": {
+        "$message": "ui.command_layout:r_99578b82af0123b2"
+      }
+    },
+    "command_layout.DIALOGS/47": {
+      "file": "tools/command_layout.py",
+      "variable": "DIALOGS",
+      "template": {
+        "$message": "ui.command_layout:r_d3e83d471701761d"
+      }
+    },
+    "command_layout.LABELS/48": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_719a15f977768aa6"
+      }
+    },
+    "command_layout.LABELS/49": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_36e67147c66e5aab"
+      }
+    },
+    "command_layout.EXTRA_DIALOGS/50": {
+      "file": "tools/command_layout.py",
+      "variable": "EXTRA_DIALOGS",
+      "template": {
+        "$message": "ui.command_layout:r_b23b1f9034963514"
+      }
+    },
+    "command_layout.EXTRA_DIALOGS/51": {
+      "file": "tools/command_layout.py",
+      "variable": "EXTRA_DIALOGS",
+      "template": {
+        "$message": "ui.command_layout:r_06972662aeb13faf"
+      }
+    },
+    "command_layout.EXTRA_DIALOGS/52": {
+      "file": "tools/command_layout.py",
+      "variable": "EXTRA_DIALOGS",
+      "template": {
+        "$message": "ui.command_layout:r_ef67c34420659891"
+      }
+    },
+    "command_layout.EXTRA_DIALOGS/53": {
+      "file": "tools/command_layout.py",
+      "variable": "EXTRA_DIALOGS",
+      "template": {
+        "$message": "ui.command_layout:r_f68e91b782cf994e"
+      }
+    },
+    "command_layout.EXTRA_DIALOGS/54": {
+      "file": "tools/command_layout.py",
+      "variable": "EXTRA_DIALOGS",
+      "template": {
+        "$message": "ui.command_layout:r_832477efac905e4d"
+      }
+    },
+    "command_layout.LABELS/55": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_6d9518eec4c8a56f"
+      }
+    },
+    "command_layout.LABELS/56": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_515a34ea2fe71c76"
+      }
+    },
+    "command_layout.LABELS/57": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_e5c678ea31eb53c5"
+      }
+    },
+    "command_layout.UTF8_LABELS/58": {
+      "file": "tools/command_layout.py",
+      "variable": "UTF8_LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_f86fa5cf90671682"
+      }
+    },
+    "command_layout.UTF8_LABELS/59": {
+      "file": "tools/command_layout.py",
+      "variable": "UTF8_LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_8538e59a2e0811ad"
+      }
+    },
+    "command_layout.TERRAIN/60": {
+      "file": "tools/command_layout.py",
+      "variable": "TERRAIN",
+      "template": {
+        "$message": "ui.command_layout:r_21c269a126ecc9a1"
+      }
+    },
+    "command_layout.TERRAIN/61": {
+      "file": "tools/command_layout.py",
+      "variable": "TERRAIN",
+      "template": {
+        "$message": "ui.command_layout:r_663cd11f291af3ce"
+      }
+    },
+    "command_layout.TERRAIN/62": {
+      "file": "tools/command_layout.py",
+      "variable": "TERRAIN",
+      "template": {
+        "$message": "ui.command_layout:r_b117b6753bd1fcf0"
+      }
+    },
+    "command_layout.TERRAIN/63": {
+      "file": "tools/command_layout.py",
+      "variable": "TERRAIN",
+      "template": {
+        "$message": "ui.command_layout:r_603805f67e8cc26e"
+      }
+    },
+    "command_layout.LABELS/64": {
+      "file": "tools/command_layout.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_112d9f5edae6ec97"
+      }
+    },
+    "command_layout.FOLLOWUP_TERRAIN/65": {
+      "file": "tools/command_layout.py",
+      "variable": "FOLLOWUP_TERRAIN",
+      "template": {
+        "$message": "ui.command_layout:r_86caca8c012ac17b"
+      }
+    },
+    "command_layout.FOLLOWUP_LABELS/66": {
+      "file": "tools/command_layout.py",
+      "variable": "FOLLOWUP_LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_16de04bb4460012f"
+      }
+    },
+    "command_layout.FOLLOWUP_LABELS/67": {
+      "file": "tools/command_layout.py",
+      "variable": "FOLLOWUP_LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_e66329c6ac0f6268"
+      }
+    },
+    "command_layout.FOLLOWUP_LABELS/68": {
+      "file": "tools/command_layout.py",
+      "variable": "FOLLOWUP_LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_8b4e0292956bd5c2"
+      }
+    },
+    "command_layout.FOLLOWUP_LABELS/69": {
+      "file": "tools/command_layout.py",
+      "variable": "FOLLOWUP_LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_412693189a5bcdb3"
+      }
+    },
+    "command_layout.FOLLOWUP_LABELS/70": {
+      "file": "tools/command_layout.py",
+      "variable": "FOLLOWUP_LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_a7a77a29cf42b03f"
+      }
+    },
+    "command_layout.FOLLOWUP_LABELS/71": {
+      "file": "tools/command_layout.py",
+      "variable": "FOLLOWUP_LABELS",
+      "template": {
+        "$message": "ui.command_layout:r_c9eab47dc1f50d39"
+      }
+    },
+    "command_layout.SAVE_DIALOGS/72": {
+      "file": "tools/command_layout.py",
+      "variable": "SAVE_DIALOGS",
+      "template": {
+        "$message": "ui.command_layout:r_d038973063732093"
+      }
+    },
+    "command_layout.SAVE_DIALOGS/73": {
+      "file": "tools/command_layout.py",
+      "variable": "SAVE_DIALOGS",
+      "template": {
+        "$message": "ui.command_layout:r_f8caee7ecb6a98dc"
+      }
+    },
+    "command_layout.SAVE_DIALOGS/74": {
+      "file": "tools/command_layout.py",
+      "variable": "SAVE_DIALOGS",
+      "template": {
+        "$message": "ui.command_layout:r_3c05ce39c9ab8c49"
+      }
+    },
+    "command_layout.SAVE_DIALOGS/75": {
+      "file": "tools/command_layout.py",
+      "variable": "SAVE_DIALOGS",
+      "template": {
+        "$message": "ui.command_layout:r_670c9bdcb78c3743"
+      }
+    },
+    "command_layout.SAVE_DIALOGS/76": {
+      "file": "tools/command_layout.py",
+      "variable": "SAVE_DIALOGS",
+      "template": {
+        "$message": "ui.command_layout:r_de44072308f7dacb"
+      }
+    },
+    "command_layout.SAVE_DIALOGS/77": {
+      "file": "tools/command_layout.py",
+      "variable": "SAVE_DIALOGS",
+      "template": {
+        "$message": "ui.command_layout:r_468e3f1ac02ecb6a"
+      }
+    },
+    "command_layout.PREP_ROWS/78": {
+      "file": "tools/command_layout.py",
+      "variable": "PREP_ROWS",
+      "template": {
+        "$message": "ui.command_layout:r_e77dda179903d616"
+      }
+    },
+    "command_layout.PREP_ROWS/79": {
+      "file": "tools/command_layout.py",
+      "variable": "PREP_ROWS",
+      "template": {
+        "$message": "ui.command_layout:r_c877bc88db4ae7b1"
+      }
+    },
+    "command_layout.PREP_ROWS/80": {
+      "file": "tools/command_layout.py",
+      "variable": "PREP_ROWS",
+      "template": {
+        "$message": "ui.command_layout:r_aabfadaa48196183"
+      }
+    },
+    "command_layout.PREP_ROWS/81": {
+      "file": "tools/command_layout.py",
+      "variable": "PREP_ROWS",
+      "template": {
+        "$message": "ui.command_layout:r_5905878053362b35"
+      }
+    },
+    "command_layout.PREP_ROWS/82": {
+      "file": "tools/command_layout.py",
+      "variable": "PREP_ROWS",
+      "template": {
+        "$message": "ui.command_layout:r_1eaf00052cb7b945"
+      }
+    },
+    "command_layout.PREP_ROWS/83": {
+      "file": "tools/command_layout.py",
+      "variable": "PREP_ROWS",
+      "template": {
+        "$message": "ui.command_layout:r_7a7f01f9d42eccee"
+      }
+    },
+    "command_layout.PREP_ROWS/84": {
+      "file": "tools/command_layout.py",
+      "variable": "PREP_ROWS",
+      "template": {
+        "$message": "ui.command_layout:r_c6571f087bb0ab6e"
+      }
+    },
+    "deployment_layout.ROWS/0": {
+      "file": "tools/deployment_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_layout:r_0ea619af31c0a4bc"
+      }
+    },
+    "deployment_layout.ROWS/1": {
+      "file": "tools/deployment_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_layout:r_0f01041fe7997827"
+      }
+    },
+    "deployment_layout.ROWS/2": {
+      "file": "tools/deployment_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_layout:r_7cc540f65f4d3eec"
+      }
+    },
+    "deployment_layout.ROWS/3": {
+      "file": "tools/deployment_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_layout:r_c769ed448ac2ddde"
+      }
+    },
+    "deployment_layout.ROWS/4": {
+      "file": "tools/deployment_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_layout:r_e96afa13f4c5fa9c"
+      }
+    },
+    "deployment_layout.ROWS/5": {
+      "file": "tools/deployment_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_layout:r_ae4aa1e70c4c9fe0"
+      }
+    },
+    "deployment_layout.ROWS/6": {
+      "file": "tools/deployment_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_layout:r_f9b35564aafcd2e7"
+      }
+    },
+    "deployment_layout.ROWS/7": {
+      "file": "tools/deployment_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_layout:r_3116c33439dff787"
+      }
+    },
+    "deployment_layout.ROWS/8": {
+      "file": "tools/deployment_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_layout:r_7f2318a37843ae64"
+      }
+    },
+    "deployment_layout.ROWS/9": {
+      "file": "tools/deployment_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_layout:r_4b764c845ba4bb77"
+      }
+    },
+    "deployment_menu_text.ROWS/0": {
+      "file": "tools/deployment_menu_text.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_menu_text:r_0ea619af31c0a4bc"
+      }
+    },
+    "deployment_menu_text.ROWS/1": {
+      "file": "tools/deployment_menu_text.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_menu_text:r_0f01041fe7997827"
+      }
+    },
+    "deployment_menu_text.ROWS/2": {
+      "file": "tools/deployment_menu_text.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_menu_text:r_7cc540f65f4d3eec"
+      }
+    },
+    "deployment_menu_text.ROWS/3": {
+      "file": "tools/deployment_menu_text.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_menu_text:r_c769ed448ac2ddde"
+      }
+    },
+    "deployment_menu_text.ROWS/4": {
+      "file": "tools/deployment_menu_text.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_menu_text:r_e96afa13f4c5fa9c"
+      }
+    },
+    "deployment_menu_text.ROWS/5": {
+      "file": "tools/deployment_menu_text.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_menu_text:r_ae4aa1e70c4c9fe0"
+      }
+    },
+    "deployment_menu_text.ROWS/6": {
+      "file": "tools/deployment_menu_text.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_menu_text:r_f9b35564aafcd2e7"
+      }
+    },
+    "deployment_menu_text.ROWS/7": {
+      "file": "tools/deployment_menu_text.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_menu_text:r_3116c33439dff787"
+      }
+    },
+    "deployment_menu_text.ROWS/8": {
+      "file": "tools/deployment_menu_text.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_menu_text:r_7f2318a37843ae64"
+      }
+    },
+    "deployment_menu_text.ROWS/9": {
+      "file": "tools/deployment_menu_text.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_menu_text:r_4b764c845ba4bb77"
+      }
+    },
+    "deployment_menu_text.ROWS/10": {
+      "file": "tools/deployment_menu_text.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_menu_text:r_22a9c653a7f2b8b7"
+      }
+    },
+    "deployment_menu_text.ROWS/11": {
+      "file": "tools/deployment_menu_text.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_menu_text:r_dabd1c74af49e9a6"
+      }
+    },
+    "deployment_menu_text.ROWS/12": {
+      "file": "tools/deployment_menu_text.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.deployment_menu_text:r_2b97fcf86b27f9c9"
+      }
+    },
+    "eboot.UI_LABELS/0": {
+      "file": "tools/eboot.py",
+      "variable": "UI_LABELS",
+      "template": {
+        "$message": "ui.eboot:r_5cfbeed1358956cf"
+      }
+    },
+    "eboot.UI_LABELS/1": {
+      "file": "tools/eboot.py",
+      "variable": "UI_LABELS",
+      "template": {
+        "$message": "ui.eboot:r_cfb0c65048fcfa08"
+      }
+    },
+    "eboot.UI_LABELS/2": {
+      "file": "tools/eboot.py",
+      "variable": "UI_LABELS",
+      "template": {
+        "$message": "ui.eboot:r_674f0074bd473c09"
+      }
+    },
+    "eboot.UI_LABELS/3": {
+      "file": "tools/eboot.py",
+      "variable": "UI_LABELS",
+      "template": {
+        "$message": "ui.eboot:r_de22044024a1297e"
+      }
+    },
+    "eboot.UI_LABELS/4": {
+      "file": "tools/eboot.py",
+      "variable": "UI_LABELS",
+      "template": {
+        "$message": "ui.eboot:r_d282183597d08f39"
+      }
+    },
+    "eboot.UI_LABELS/5": {
+      "file": "tools/eboot.py",
+      "variable": "UI_LABELS",
+      "template": {
+        "$message": "ui.eboot:r_02fed072cb91fcb9"
+      }
+    },
+    "eboot.UI_LABELS/6": {
+      "file": "tools/eboot.py",
+      "variable": "UI_LABELS",
+      "template": {
+        "$message": "ui.eboot:r_a4f5f159df51056d"
+      }
+    },
+    "eboot.UI_LABELS/7": {
+      "file": "tools/eboot.py",
+      "variable": "UI_LABELS",
+      "template": {
+        "$message": "ui.eboot:r_809d88dc19e2e9ba"
+      }
+    },
+    "eboot.UI_LABELS/8": {
+      "file": "tools/eboot.py",
+      "variable": "UI_LABELS",
+      "template": {
+        "$message": "ui.eboot:r_212be906ca4a02f3"
+      }
+    },
+    "eboot.UI_LABELS/9": {
+      "file": "tools/eboot.py",
+      "variable": "UI_LABELS",
+      "template": {
+        "$message": "ui.eboot:r_abf83c5969dd1340"
+      }
+    },
+    "episode_heading_hooks.EXTRA/0": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_64af625e5dca3806"
+      }
+    },
+    "episode_heading_hooks.EXTRA/1": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_c0482517ce06150c"
+      }
+    },
+    "episode_heading_hooks.EXTRA/2": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_c588e26b29f5915f"
+      }
+    },
+    "episode_heading_hooks.EXTRA/3": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_18db8d5bd4decaaf"
+      }
+    },
+    "episode_heading_hooks.EXTRA/4": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_860b101db5b65df2"
+      }
+    },
+    "episode_heading_hooks.EXTRA/5": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_25fae811b0259f90"
+      }
+    },
+    "episode_heading_hooks.EXTRA/6": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_541d17c62f7c8c54"
+      }
+    },
+    "episode_heading_hooks.EXTRA/7": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_1903b324de612ee1"
+      }
+    },
+    "episode_heading_hooks.EXTRA/8": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_13c8a98b7f8816a2"
+      }
+    },
+    "episode_heading_hooks.EXTRA/9": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_ab05e0a42ec92b43"
+      }
+    },
+    "episode_heading_hooks.EXTRA/10": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_828123fe445f85c3"
+      }
+    },
+    "episode_heading_hooks.EXTRA/11": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_22296d1b6d1c9d30"
+      }
+    },
+    "episode_heading_hooks.EXTRA/12": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_5ba0f2d5111ab1dc"
+      }
+    },
+    "episode_heading_hooks.EXTRA/13": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_fb2362523e6e62f0"
+      }
+    },
+    "episode_heading_hooks.EXTRA/14": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_cc97554544cef3c6"
+      }
+    },
+    "episode_heading_hooks.EXTRA/15": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_7e8835176098d124"
+      }
+    },
+    "episode_heading_hooks.EXTRA/16": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_c51130b50e2e2537"
+      }
+    },
+    "episode_heading_hooks.EXTRA/17": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_af45bc571e6327de"
+      }
+    },
+    "episode_heading_hooks.EXTRA/18": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_047f35e5c13f431c"
+      }
+    },
+    "episode_heading_hooks.EXTRA/19": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_5d30ae51d1feb6af"
+      }
+    },
+    "episode_heading_hooks.EXTRA/20": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_0e4a2d2f28678468"
+      }
+    },
+    "episode_heading_hooks.EXTRA/21": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_b6fa8fe48139dc96"
+      }
+    },
+    "episode_heading_hooks.EXTRA/22": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_8facfd4ffe3044bf"
+      }
+    },
+    "episode_heading_hooks.EXTRA/23": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_932bbb7f94828b26"
+      }
+    },
+    "episode_heading_hooks.EXTRA/24": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_422f90f85d39e7b8"
+      }
+    },
+    "episode_heading_hooks.EXTRA/25": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_96b5280942b4668c"
+      }
+    },
+    "episode_heading_hooks.EXTRA/26": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_2528fc5ef8adbb67"
+      }
+    },
+    "episode_heading_hooks.EXTRA/27": {
+      "file": "tools/episode_heading_hooks.py",
+      "variable": "EXTRA",
+      "template": {
+        "$message": "ui.episode_heading_hooks:r_c0469da0536eac10"
+      }
+    },
+    "gift_reports.CONVERSIONS/0": {
+      "file": "tools/gift_reports.py",
+      "variable": "CONVERSIONS",
+      "template": {
+        "$message": "ui.gift_reports:r_cd78bc2d48f96a46"
+      }
+    },
+    "gift_reports.CONVERSIONS/1": {
+      "file": "tools/gift_reports.py",
+      "variable": "CONVERSIONS",
+      "template": {
+        "$message": "ui.gift_reports:r_fdac634157ce7815"
+      }
+    },
+    "gift_reports.CONVERSIONS/2": {
+      "file": "tools/gift_reports.py",
+      "variable": "CONVERSIONS",
+      "template": {
+        "$message": "ui.gift_reports:r_b76e7b2887324130"
+      }
+    },
+    "intermission_layout.DESCRIPTIONS/0": {
+      "file": "tools/intermission_layout.py",
+      "variable": "DESCRIPTIONS",
+      "template": {
+        "$message": "ui.intermission_layout:r_2a60d82bb9ff84a9"
+      }
+    },
+    "intermission_layout.DESCRIPTIONS/1": {
+      "file": "tools/intermission_layout.py",
+      "variable": "DESCRIPTIONS",
+      "template": {
+        "$message": "ui.intermission_layout:r_7a79d98683da18f6"
+      }
+    },
+    "intermission_layout.DESCRIPTIONS/2": {
+      "file": "tools/intermission_layout.py",
+      "variable": "DESCRIPTIONS",
+      "template": {
+        "$message": "ui.intermission_layout:r_9cac4534033c083a"
+      }
+    },
+    "intermission_layout.DESCRIPTIONS/3": {
+      "file": "tools/intermission_layout.py",
+      "variable": "DESCRIPTIONS",
+      "template": {
+        "$message": "ui.intermission_layout:r_ccdae18df34daa5b"
+      }
+    },
+    "intermission_layout.DESCRIPTIONS/4": {
+      "file": "tools/intermission_layout.py",
+      "variable": "DESCRIPTIONS",
+      "template": {
+        "$message": "ui.intermission_layout:r_704cf9ce8204865a"
+      }
+    },
+    "intermission_layout.ROWS/5": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_ae4aa1e70c4c9fe0"
+      }
+    },
+    "intermission_layout.ROWS/6": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_f9b35564aafcd2e7"
+      }
+    },
+    "intermission_layout.ROWS/7": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_3116c33439dff787"
+      }
+    },
+    "intermission_layout.ROWS/8": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_7f2318a37843ae64"
+      }
+    },
+    "intermission_layout.ROWS/9": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_4b764c845ba4bb77"
+      }
+    },
+    "intermission_layout.ROWS/10": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_22a9c653a7f2b8b7"
+      }
+    },
+    "intermission_layout.ROWS/11": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_dabd1c74af49e9a6"
+      }
+    },
+    "intermission_layout.ROWS/12": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_2b97fcf86b27f9c9"
+      }
+    },
+    "intermission_layout.ROWS/13": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_3635d6467777aa77"
+      }
+    },
+    "intermission_layout.ROWS/14": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_1b431a6a690abc19"
+      }
+    },
+    "intermission_layout.ROWS/15": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_2c83af3242843d64"
+      }
+    },
+    "intermission_layout.ROWS/16": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_3ae24ea03105ec68"
+      }
+    },
+    "intermission_layout.ROWS/17": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_e05d8f766193ff81"
+      }
+    },
+    "intermission_layout.ROWS/18": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_6c274ab6a7fbaeef"
+      }
+    },
+    "intermission_layout.ROWS/19": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_c3f9aca1bd6a0ba5"
+      }
+    },
+    "intermission_layout.ROWS/20": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_008de319d4657412"
+      }
+    },
+    "intermission_layout.ROWS/21": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_5a257c1607e377be"
+      }
+    },
+    "intermission_layout.ROWS/22": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_8fd2e87b30d20fc5"
+      }
+    },
+    "intermission_layout.ROWS/23": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_fd5f10ba0ceee284"
+      }
+    },
+    "intermission_layout.ROWS/24": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_52bc45333fa7a37b"
+      }
+    },
+    "intermission_layout.ROWS/25": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_3e085be2698070b7"
+      }
+    },
+    "intermission_layout.ROWS/26": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_5a3e048a2a9ef0b3"
+      }
+    },
+    "intermission_layout.ROWS/27": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_aa2969e71a07927d"
+      }
+    },
+    "intermission_layout.ROWS/28": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_dc40ee474ab3c2e6"
+      }
+    },
+    "intermission_layout.ROWS/29": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_6aaa67570d5bd88b"
+      }
+    },
+    "intermission_layout.ROWS/30": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_e04759b99adb3845"
+      }
+    },
+    "intermission_layout.ROWS/31": {
+      "file": "tools/intermission_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.intermission_layout:r_58b3876c3bfc2e57"
+      }
+    },
+    "key_help_labels.LABELS/0": {
+      "file": "tools/key_help_labels.py",
+      "variable": "LABELS",
+      "template": {
+        "$join": [
+          "\n",
+          "ページ切換え|",
+          {
+            "$message": "ui.key_help_labels:r_f8b3ebee87de84b8"
+          },
+          "\n",
+          "戻る|",
+          {
+            "$message": "ui.key_help_labels:r_05e7634b8081f430"
+          },
+          "\n",
+          "詳細画面切換え|",
+          {
+            "$message": "ui.key_help_labels:r_86b6701b7e295756"
+          },
+          "\n",
+          "（強化パーツへ）|",
+          {
+            "$message": "ui.key_help_labels:r_e058ebcca8e2a393"
+          },
+          "\n",
+          "（ユニット変更）|",
+          {
+            "$message": "ui.key_help_labels:r_724cf522ef04e256"
+          },
+          "\n",
+          "（サブパイロット）|",
+          {
+            "$message": "ui.key_help_labels:r_b2cdb6dfe07f096b"
+          },
+          "\n",
+          "キャラクター事典へ|",
+          {
+            "$message": "ui.key_help_labels:r_58b6b6ee0f037639"
+          },
+          "\n",
+          "（パイロット養成へ）|",
+          {
+            "$message": "ui.key_help_labels:r_61f4ef041484f9b4"
+          },
+          "\n",
+          "ロボット大図鑑へ|",
+          {
+            "$message": "ui.key_help_labels:r_d63a9a525f4989b3"
+          },
+          "\n",
+          "（機体・武器改造へ）|",
+          {
+            "$message": "ui.key_help_labels:r_b3e6376a2773cdd7"
+          },
+          "\n",
+          "カーソル移動|",
+          {
+            "$message": "ui.key_help_labels:r_b710070fc03eb2d1"
+          },
+          "\n",
+          "ユニット選択|",
+          {
+            "$message": "ui.key_help_labels:r_9bc44e79e9076c1d"
+          },
+          "\n",
+          "マップ上のピースへ|",
+          {
+            "$message": "ui.key_help_labels:r_f78d5db29b2af4fe"
+          },
+          "\n",
+          "能力画面|",
+          {
+            "$message": "ui.key_help_labels:r_e27a030707b8d08e"
+          },
+          "\n",
+          "情報切換え＜チーム＞|",
+          {
+            "$message": "ui.key_help_labels:r_95cf0cedfd541853"
+          },
+          "\n",
+          "勢力（敵／味方）切換え|",
+          {
+            "$message": "ui.key_help_labels:r_8af3adf5ae071ec3"
+          },
+          "\n",
+          "ソート条件切換え|",
+          {
+            "$message": "ui.key_help_labels:r_1a398fb189190402"
+          },
+          "\n",
+          "サブ情報切換え|",
+          {
+            "$message": "ui.key_help_labels:r_128157faf36a6ebf"
+          },
+          "\n",
+          "情報切換え＜ユニット＞|",
+          {
+            "$message": "ui.key_help_labels:r_46037d685457376b"
+          },
+          "\n",
+          "選択|",
+          {
+            "$message": "ui.key_help_labels:r_58dab78490fff4e2"
+          },
+          "\n",
+          "決定|",
+          {
+            "$message": "ui.key_help_labels:r_a68e61f8f7e406cb"
+          },
+          "\n",
+          "検索変更|",
+          {
+            "$message": "ui.key_help_labels:r_742573c979f7759c"
+          },
+          "\n",
+          "マップ上のピースへ（マーク実行）|",
+          {
+            "$message": "ui.key_help_labels:r_0175225ed4cc62e3"
+          },
+          "\n",
+          "（マークＯＮ／ＯＦＦ）|",
+          {
+            "$message": "ui.key_help_labels:r_8bacaa812cd54ac2"
+          },
+          "\n",
+          "頁頭へ／頁末へ|",
+          {
+            "$message": "ui.key_help_labels:r_40ef0f509227a620"
+          },
+          "\n",
+          "項目切換え|",
+          {
+            "$message": "ui.key_help_labels:r_f71f26bada9b8294"
+          },
+          "\n",
+          "パイロット選択|",
+          {
+            "$message": "ui.key_help_labels:r_99e53b1d338acd0e"
+          },
+          "\n",
+          "パイロット能力画面|",
+          {
+            "$message": "ui.key_help_labels:r_7ee1dd018b1a8b6f"
+          },
+          "\n",
+          "ユニット能力画面|",
+          {
+            "$message": "ui.key_help_labels:r_36fcb9ae8fd00e7a"
+          },
+          "\n",
+          "条件切換え|",
+          {
+            "$message": "ui.key_help_labels:r_b61d6ff40cd5ee28"
+          },
+          "\n",
+          "機体選択|",
+          {
+            "$message": "ui.key_help_labels:r_765d1ec07326c08d"
+          },
+          "\n",
+          "機体能力画面|",
+          {
+            "$message": "ui.key_help_labels:r_e65a4ee818a238e2"
+          },
+          "\n",
+          "決定（マーク実行）|",
+          {
+            "$message": "ui.key_help_labels:r_15449ba871bb0a4b"
+          },
+          "\n",
+          "発進|",
+          {
+            "$message": "ui.key_help_labels:r_19eccd3296147e70"
+          },
+          "\n",
+          "切換え|",
+          {
+            "$message": "ui.key_help_labels:r_85383fd67ec0a5ca"
+          },
+          "\n",
+          "（設定画面へ）|",
+          {
+            "$message": "ui.key_help_labels:r_40b23b3143d852c1"
+          },
+          "\n",
+          "設定終了|",
+          {
+            "$message": "ui.key_help_labels:r_15f3691e034df578"
+          },
+          "\n",
+          "再生|",
+          {
+            "$message": "ui.key_help_labels:r_0a4044757532753c"
+          },
+          "\n",
+          "基本曲にする|",
+          {
+            "$message": "ui.key_help_labels:r_7e23643ec5b10b84"
+          },
+          "\n",
+          "＜全ランダム＞で決定|",
+          {
+            "$message": "ui.key_help_labels:r_13dcdb3eedd6df1d"
+          },
+          "\n",
+          "（詳細表示切換え）|",
+          {
+            "$message": "ui.key_help_labels:r_bd3a1e2b6432cf25"
+          },
+          "\n",
+          "コマンド選択|",
+          {
+            "$message": "ui.key_help_labels:r_fe472cc7ca9b28e4"
+          },
+          "\n",
+          "精神コマンド|",
+          {
+            "$message": "ui.key_help_labels:r_750797e15934e606"
+          },
+          "\n",
+          "戦闘開始|",
+          {
+            "$message": "ui.key_help_labels:r_350e8ec0172f930c"
+          },
+          "\n",
+          "（攻撃対象の切換え）|",
+          {
+            "$message": "ui.key_help_labels:r_f66a383f120c15a8"
+          },
+          "\n",
+          "（サブユニットの行動切換え）|",
+          {
+            "$message": "ui.key_help_labels:r_bdfcab4c5132058f"
+          },
+          "\n",
+          "（援護攻撃ＯＮ／ＯＦＦ）|",
+          {
+            "$message": "ui.key_help_labels:r_1715bf93a435a185"
+          },
+          "\n",
+          "デモ：ＯＮ／ＯＦＦ切換え|",
+          {
+            "$message": "ui.key_help_labels:r_846394542ea1b6b5"
+          },
+          "\n",
+          "マップをみる|",
+          {
+            "$message": "ui.key_help_labels:r_30aeec41bb72b31a"
+          },
+          "\n",
+          "（武器選択）|",
+          {
+            "$message": "ui.key_help_labels:r_a85d380cc2d08fe7"
+          },
+          "\n",
+          "（メインユニットの行動切換え）|",
+          {
+            "$message": "ui.key_help_labels:r_c8b32c9d1b1da869"
+          },
+          "\n",
+          "（援護防御ＯＮ／ＯＦＦ）|",
+          {
+            "$message": "ui.key_help_labels:r_4ed78f2edfa97a88"
+          },
+          "\n",
+          "マークＯＮ／ＯＦＦ|",
+          {
+            "$message": "ui.key_help_labels:r_9ee9d299c34f3af7"
+          },
+          "\n",
+          "マークＯＦＦ（戻る）|",
+          {
+            "$message": "ui.key_help_labels:r_7afe6e4f0d45d687"
+          },
+          "\n",
+          "決定ダイアログ|",
+          {
+            "$message": "ui.key_help_labels:r_e3d69b9cbe67e27e"
+          },
+          "\n",
+          "一覧／個別切換え|",
+          {
+            "$message": "ui.key_help_labels:r_b911e010acd1e5c7"
+          },
+          "\n",
+          "改造ゲージ操作|",
+          {
+            "$message": "ui.key_help_labels:r_f478b0abb65bfa2c"
+          },
+          "\n",
+          "改造キャンセル／戻る|",
+          {
+            "$message": "ui.key_help_labels:r_94f278d7a1db750a"
+          },
+          "\n",
+          "（変形確認）|",
+          {
+            "$message": "ui.key_help_labels:r_f694445cfbe94fa8"
+          },
+          "\n",
+          "ユニット変更|",
+          {
+            "$message": "ui.key_help_labels:r_2392e20bcfba6a02"
+          },
+          "\n",
+          "はずす|",
+          {
+            "$message": "ui.key_help_labels:r_ddc1a2799af20b1b"
+          },
+          "\n",
+          "（ページ切換え）|",
+          {
+            "$message": "ui.key_help_labels:r_7db33fa7087817e7"
+          },
+          "\n",
+          "分類切換え|",
+          {
+            "$message": "ui.key_help_labels:r_bb8901d15ce4b611"
+          },
+          "\n",
+          "マーク実行|",
+          {
+            "$message": "ui.key_help_labels:r_346112f915e90cb8"
+          },
+          "\n",
+          "（能力画面）|",
+          {
+            "$message": "ui.key_help_labels:r_ec5c03917b8e1176"
+          },
+          "\n",
+          "項目選択|",
+          {
+            "$message": "ui.key_help_labels:r_2c1a1fdb82ea408e"
+          },
+          "\n",
+          "パイロット切換え|",
+          {
+            "$message": "ui.key_help_labels:r_280f1025f24d7eb1"
+          },
+          "\n",
+          "パラメータ操作|",
+          {
+            "$message": "ui.key_help_labels:r_fc30ea62365fb2c3"
+          },
+          "\n",
+          "（変更／切換え）|",
+          {
+            "$message": "ui.key_help_labels:r_b9735ce56d3968cb"
+          },
+          "\n",
+          "個別／一括切換え|",
+          {
+            "$message": "ui.key_help_labels:r_bec6c7853846a2d9"
+          },
+          "\n",
+          "空席を埋める|",
+          {
+            "$message": "ui.key_help_labels:r_230f63bf987f61aa"
+          },
+          "\n",
+          "オーダー切換え|",
+          {
+            "$message": "ui.key_help_labels:r_44a66b9bada64a98"
+          },
+          "\n",
+          "カーソル|",
+          {
+            "$message": "ui.key_help_labels:r_9fa8e7b6d936cc2e"
+          },
+          "\n",
+          "一字削除or空白|",
+          {
+            "$message": "ui.key_help_labels:r_6df45c680d3a48c8"
+          },
+          "\n",
+          "空白or一字削除|",
+          {
+            "$message": "ui.key_help_labels:r_cb24324f32dbb663"
+          },
+          "\n",
+          "確定へ|",
+          {
+            "$message": "ui.key_help_labels:r_3853dd7eaac1ba4d"
+          },
+          "\n",
+          "入力カーソル移動|",
+          {
+            "$message": "ui.key_help_labels:r_21664a81d51cab8f"
+          },
+          "\n",
+          "文字種切換え|",
+          {
+            "$message": "ui.key_help_labels:r_6acda239f715d7b7"
+          },
+          "\n",
+          "読み送り|",
+          {
+            "$message": "ui.key_help_labels:r_2f435430643d1838"
+          },
+          "\n",
+          "入力モード切換え|",
+          {
+            "$message": "ui.key_help_labels:r_c8303681fd9ea18d"
+          },
+          "\n",
+          "（編入操作）|",
+          {
+            "$message": "ui.key_help_labels:r_2a92bdfa74c06390"
+          },
+          "\n",
+          "（メニュー）|",
+          {
+            "$message": "ui.key_help_labels:r_bbdf2b3859fd5652"
+          },
+          "\n",
+          "サポートコマンド|",
+          {
+            "$message": "ui.key_help_labels:r_94b707b5d9089fc4"
+          },
+          "\n",
+          "検索項目切換え|",
+          {
+            "$message": "ui.key_help_labels:r_0b6cdd5f06430782"
+          },
+          "\n",
+          "チーム選択|",
+          {
+            "$message": "ui.key_help_labels:r_1665d2801c9c7485"
+          },
+          "\n",
+          "実行|",
+          {
+            "$message": "ui.key_help_labels:r_1a23733bdf1c989a"
+          },
+          "\n",
+          "全マークＯＮ／ＯＦＦ|",
+          {
+            "$message": "ui.key_help_labels:r_116b97a82f2548ec"
+          },
+          "\n",
+          "入れ替え操作|",
+          {
+            "$message": "ui.key_help_labels:r_1bb50ac0c64d7a59"
+          },
+          "\n",
+          "モード切換え|",
+          {
+            "$message": "ui.key_help_labels:r_dc362a01bb418737"
+          },
+          "\n",
+          "トレードリスト|",
+          {
+            "$message": "ui.key_help_labels:r_8cbcd91cb336a6fd"
+          },
+          "\n",
+          "ページ切換／数量設定|",
+          {
+            "$message": "ui.key_help_labels:r_933f9563033461be"
+          },
+          "\n"
+        ]
+      }
+    },
+    "key_help_labels.SLOT_HELP_EN/1": {
+      "file": "tools/key_help_labels.py",
+      "variable": "SLOT_HELP_EN",
+      "template": {
+        "$message": "ui.key_help_labels:r_191cf964f9167b10"
+      }
+    },
+    "library_list_labels.ROWS/0": {
+      "file": "tools/library_list_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.library_list_labels:r_0ea619af31c0a4bc"
+      }
+    },
+    "library_list_labels.ROWS/1": {
+      "file": "tools/library_list_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.library_list_labels:r_0f01041fe7997827"
+      }
+    },
+    "library_list_labels.ROWS/2": {
+      "file": "tools/library_list_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.library_list_labels:r_7cc540f65f4d3eec"
+      }
+    },
+    "library_list_labels.ROWS/3": {
+      "file": "tools/library_list_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.library_list_labels:r_c769ed448ac2ddde"
+      }
+    },
+    "library_list_labels.ROWS/4": {
+      "file": "tools/library_list_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.library_list_labels:r_e96afa13f4c5fa9c"
+      }
+    },
+    "library_list_labels.ROWS/5": {
+      "file": "tools/library_list_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.library_list_labels:r_ae4aa1e70c4c9fe0"
+      }
+    },
+    "library_list_labels.ROWS/6": {
+      "file": "tools/library_list_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.library_list_labels:r_f9b35564aafcd2e7"
+      }
+    },
+    "library_list_labels.ROWS/7": {
+      "file": "tools/library_list_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.library_list_labels:r_3116c33439dff787"
+      }
+    },
+    "library_list_labels.ROWS/8": {
+      "file": "tools/library_list_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.library_list_labels:r_7f2318a37843ae64"
+      }
+    },
+    "library_list_labels.ROWS/9": {
+      "file": "tools/library_list_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.library_list_labels:r_4b764c845ba4bb77"
+      }
+    },
+    "library_list_labels.ROWS/10": {
+      "file": "tools/library_list_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.library_list_labels:r_22a9c653a7f2b8b7"
+      }
+    },
+    "library_list_labels.ROWS/11": {
+      "file": "tools/library_list_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.library_list_labels:r_dabd1c74af49e9a6"
+      }
+    },
+    "map_popup_layout.ROWS/0": {
+      "file": "tools/map_popup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.map_popup_layout:r_0ea619af31c0a4bc"
+      }
+    },
+    "map_popup_layout.ROWS/1": {
+      "file": "tools/map_popup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.map_popup_layout:r_0f01041fe7997827"
+      }
+    },
+    "map_popup_layout.ROWS/2": {
+      "file": "tools/map_popup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.map_popup_layout:r_7cc540f65f4d3eec"
+      }
+    },
+    "map_popup_layout.ROWS/3": {
+      "file": "tools/map_popup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.map_popup_layout:r_c769ed448ac2ddde"
+      }
+    },
+    "map_popup_layout.ROWS/4": {
+      "file": "tools/map_popup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.map_popup_layout:r_e96afa13f4c5fa9c"
+      }
+    },
+    "map_popup_layout.ROWS/5": {
+      "file": "tools/map_popup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.map_popup_layout:r_ae4aa1e70c4c9fe0"
+      }
+    },
+    "map_popup_layout.ROWS/6": {
+      "file": "tools/map_popup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.map_popup_layout:r_f9b35564aafcd2e7"
+      }
+    },
+    "map_popup_layout.ROWS/7": {
+      "file": "tools/map_popup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.map_popup_layout:r_3116c33439dff787"
+      }
+    },
+    "maximum_break_art.ACTION_RECTS/0": {
+      "file": "tools/maximum_break_art.py",
+      "variable": "ACTION_RECTS",
+      "template": {
+        "$message": "ui.maximum_break_art:r_7eb12ae097cca457"
+      }
+    },
+    "maximum_break_art.ACTION_RECTS/1": {
+      "file": "tools/maximum_break_art.py",
+      "variable": "ACTION_RECTS",
+      "template": {
+        "$message": "ui.maximum_break_art:r_fa55d3474e084f49"
+      }
+    },
+    "maximum_break_art.ACTION_RECTS/2": {
+      "file": "tools/maximum_break_art.py",
+      "variable": "ACTION_RECTS",
+      "template": {
+        "$message": "ui.maximum_break_art:r_69c04257a2c25109"
+      }
+    },
+    "maximum_break_art.ACTION_RECTS/3": {
+      "file": "tools/maximum_break_art.py",
+      "variable": "ACTION_RECTS",
+      "template": {
+        "$message": "ui.maximum_break_art:r_073548b99c9e4c4e"
+      }
+    },
+    "maximum_break_art.ACTION_RECTS/4": {
+      "file": "tools/maximum_break_art.py",
+      "variable": "ACTION_RECTS",
+      "template": {
+        "$message": "ui.maximum_break_art:r_22bd019d87788dc4"
+      }
+    },
+    "maximum_break_art.ACTION_RECTS/5": {
+      "file": "tools/maximum_break_art.py",
+      "variable": "ACTION_RECTS",
+      "template": {
+        "$message": "ui.maximum_break_art:r_dceb029fd06f4073"
+      }
+    },
+    "maximum_break_art.ACTION_RECTS/6": {
+      "file": "tools/maximum_break_art.py",
+      "variable": "ACTION_RECTS",
+      "template": {
+        "$message": "ui.maximum_break_art:r_19704e10653a2f7e"
+      }
+    },
+    "maximum_break_art.ACTION_RECTS/7": {
+      "file": "tools/maximum_break_art.py",
+      "variable": "ACTION_RECTS",
+      "template": {
+        "$message": "ui.maximum_break_art:r_356a93e55724f7e7"
+      }
+    },
+    "maximum_break_art.ACTION_RECTS/8": {
+      "file": "tools/maximum_break_art.py",
+      "variable": "ACTION_RECTS",
+      "template": {
+        "$message": "ui.maximum_break_art:r_4d15a524a933890f"
+      }
+    },
+    "mech_info_layout.LABEL/0": {
+      "file": "tools/mech_info_layout.py",
+      "variable": "LABEL",
+      "template": {
+        "$message": "ui.mech_info_layout:r_1e00713e9e06a5da"
+      }
+    },
+    "menu_followup.PROMPTS/0": {
+      "file": "tools/menu_followup.py",
+      "variable": "PROMPTS",
+      "template": {
+        "$message": "ui.menu_followup:r_a209ef038897b8a1"
+      }
+    },
+    "menu_followup.PROMPTS/1": {
+      "file": "tools/menu_followup.py",
+      "variable": "PROMPTS",
+      "template": {
+        "$message": "ui.menu_followup:r_ff8a431ff23e80a8"
+      }
+    },
+    "menu_followup.PROMPTS/2": {
+      "file": "tools/menu_followup.py",
+      "variable": "PROMPTS",
+      "template": {
+        "$message": "ui.menu_followup:r_a0c4b4f4f7276f95"
+      }
+    },
+    "menu_followup.PROMPTS/3": {
+      "file": "tools/menu_followup.py",
+      "variable": "PROMPTS",
+      "template": {
+        "$message": "ui.menu_followup:r_02fa8ef00aabcdd5"
+      }
+    },
+    "message_class_formats.FORMATS/0": {
+      "file": "tools/message_class_formats.py",
+      "variable": "FORMATS",
+      "template": {
+        "$message": "ui.message_class_formats:r_e7efd927542437d6"
+      }
+    },
+    "message_class_formats.FORMATS/1": {
+      "file": "tools/message_class_formats.py",
+      "variable": "FORMATS",
+      "template": {
+        "$message": "ui.message_class_formats:r_4490b24859ff5727"
+      }
+    },
+    "naming_search_layout.REPORTS/0": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "REPORTS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_234ead8fb40135be"
+      }
+    },
+    "naming_search_layout.REPORTS/1": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "REPORTS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_72e3fd9fc10c7e4b"
+      }
+    },
+    "naming_search_layout.REPORTS/2": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "REPORTS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_35e296b5061797b1"
+      }
+    },
+    "naming_search_layout.ROWS/3": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_c769ed448ac2ddde"
+      }
+    },
+    "naming_search_layout.ROWS/4": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_e96afa13f4c5fa9c"
+      }
+    },
+    "naming_search_layout.ROWS/5": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_ae4aa1e70c4c9fe0"
+      }
+    },
+    "naming_search_layout.ROWS/6": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_f9b35564aafcd2e7"
+      }
+    },
+    "naming_search_layout.ROWS/7": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_3116c33439dff787"
+      }
+    },
+    "naming_search_layout.ROWS/8": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_7f2318a37843ae64"
+      }
+    },
+    "naming_search_layout.ROWS/9": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_4b764c845ba4bb77"
+      }
+    },
+    "naming_search_layout.ROWS/10": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_22a9c653a7f2b8b7"
+      }
+    },
+    "naming_search_layout.ROWS/11": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_dabd1c74af49e9a6"
+      }
+    },
+    "naming_search_layout.ROWS/12": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_2b97fcf86b27f9c9"
+      }
+    },
+    "naming_search_layout.ROWS/13": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_3635d6467777aa77"
+      }
+    },
+    "naming_search_layout.ROWS/14": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_1b431a6a690abc19"
+      }
+    },
+    "naming_search_layout.ROWS/15": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_2c83af3242843d64"
+      }
+    },
+    "naming_search_layout.ROWS/16": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_3ae24ea03105ec68"
+      }
+    },
+    "naming_search_layout.ROWS/17": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_e05d8f766193ff81"
+      }
+    },
+    "naming_search_layout.ROWS/18": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_6c274ab6a7fbaeef"
+      }
+    },
+    "naming_search_layout.ROWS/19": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_c3f9aca1bd6a0ba5"
+      }
+    },
+    "naming_search_layout.ROWS/20": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_008de319d4657412"
+      }
+    },
+    "naming_search_layout.ROWS/21": {
+      "file": "tools/naming_search_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.naming_search_layout:r_5a257c1607e377be"
+      }
+    },
+    "narration_layout.PAGES/0": {
+      "file": "tools/narration_layout.py",
+      "variable": "PAGES",
+      "template": {
+        "$message": "ui.narration_layout:r_bdfbae5491d70cd4"
+      }
+    },
+    "narration_layout.PAGES/1": {
+      "file": "tools/narration_layout.py",
+      "variable": "PAGES",
+      "template": {
+        "$message": "ui.narration_layout:r_8d057c908f9bcc46"
+      }
+    },
+    "narration_layout.PAGES/2": {
+      "file": "tools/narration_layout.py",
+      "variable": "PAGES",
+      "template": {
+        "$message": "ui.narration_layout:r_4077623401359edb"
+      }
+    },
+    "parts_description_catalog.DATA/0": {
+      "file": "tools/parts_description_catalog.py",
+      "variable": "DATA",
+      "template": {
+        "$join": [
+          "\n",
+          "ブースター|",
+          {
+            "$message": "ui.parts_description_catalog:r_36f268db006f5e6b"
+          },
+          "\n",
+          "メガブースター|",
+          {
+            "$message": "ui.parts_description_catalog:r_f565890c7cfc843a"
+          },
+          "\n",
+          "補助ＩＳＣ|",
+          {
+            "$message": "ui.parts_description_catalog:r_7a76682e43b328c2"
+          },
+          "\n",
+          "マグネットコーティング|",
+          {
+            "$message": "ui.parts_description_catalog:r_d770ccafdd37bcab"
+          },
+          "\n",
+          "慣性制御システム|",
+          {
+            "$message": "ui.parts_description_catalog:r_e4535d212e04428e"
+          },
+          "\n",
+          "精密照準レンズ|",
+          {
+            "$message": "ui.parts_description_catalog:r_75e9258a05902206"
+          },
+          "\n",
+          "クエント製センサー|",
+          {
+            "$message": "ui.parts_description_catalog:r_b9cbdea23f228e9d"
+          },
+          "\n",
+          "スナイパーキット|",
+          {
+            "$message": "ui.parts_description_catalog:r_4831f6bda2d91be1"
+          },
+          "\n",
+          "高性能レーダー|",
+          {
+            "$message": "ui.parts_description_catalog:r_2eb2159ac1f40688"
+          },
+          "\n",
+          "脊髄反射コネクタ|",
+          {
+            "$message": "ui.parts_description_catalog:r_58856809015e781e"
+          },
+          "\n",
+          "ハロ|",
+          {
+            "$message": "ui.parts_description_catalog:r_5078c0cfad836bf9"
+          },
+          "\n",
+          "チョバムアーマー|",
+          {
+            "$message": "ui.parts_description_catalog:r_ccb004029a060033"
+          },
+          "\n",
+          "ハイブリッドアーマー|",
+          {
+            "$message": "ui.parts_description_catalog:r_09f8ea93026ef625"
+          },
+          "\n",
+          "超合金Ｚ|",
+          {
+            "$message": "ui.parts_description_catalog:r_77f038e1486eff06"
+          },
+          "\n",
+          "補助ＧＮドライヴ|",
+          {
+            "$message": "ui.parts_description_catalog:r_c90803a34d9641fa"
+          },
+          "\n",
+          "パラジウム・リアクター|",
+          {
+            "$message": "ui.parts_description_catalog:r_efcf42a6a46e51ae"
+          },
+          "\n",
+          "バリア・フィールド|",
+          {
+            "$message": "ui.parts_description_catalog:r_8320cc893386038d"
+          },
+          "\n",
+          "オートディフェンサー|",
+          {
+            "$message": "ui.parts_description_catalog:r_1d0996e1703c951c"
+          },
+          "\n",
+          "勇者の印|",
+          {
+            "$message": "ui.parts_description_catalog:r_6c74c95b4d9551ab"
+          },
+          "\n",
+          "鋼の魂|",
+          {
+            "$message": "ui.parts_description_catalog:r_d1141c8d1b990207"
+          },
+          "\n",
+          "破界の紋章|",
+          {
+            "$message": "ui.parts_description_catalog:r_f257d8d4ca5f8b2a"
+          },
+          "\n",
+          "再世の紋章|",
+          {
+            "$message": "ui.parts_description_catalog:r_ad3bbd061562e864"
+          },
+          "\n",
+          "ＤエクストラクターＳ|",
+          {
+            "$message": "ui.parts_description_catalog:r_3d70f54b4bf189d4"
+          },
+          "\n",
+          "ダメージアベンジャー|",
+          {
+            "$message": "ui.parts_description_catalog:r_f4c8b1f5732acc65"
+          },
+          "\n",
+          "極小次元震システム|",
+          {
+            "$message": "ui.parts_description_catalog:r_ca9388f8c71461cf"
+          },
+          "\n",
+          "レスキューユニット|",
+          {
+            "$message": "ui.parts_description_catalog:r_a4584e80743b2361"
+          },
+          "\n",
+          "スパイラルエフェクター|",
+          {
+            "$message": "ui.parts_description_catalog:r_b772a55a4d2ad3d8"
+          },
+          "\n",
+          "ゲートジャンパー|",
+          {
+            "$message": "ui.parts_description_catalog:r_ee5f9d9a893cdeb5"
+          },
+          "\n",
+          "ＤＥＣチャージャー|",
+          {
+            "$message": "ui.parts_description_catalog:r_a8b0fda29297cbef"
+          },
+          "\n",
+          "ＧＥＭアーマー|",
+          {
+            "$message": "ui.parts_description_catalog:r_c1143f122f6e6911"
+          },
+          "\n",
+          "ＧＥＭクリスタル|",
+          {
+            "$message": "ui.parts_description_catalog:r_bf5e34977f793d2d"
+          },
+          "\n",
+          "フライトモジュール|",
+          {
+            "$message": "ui.parts_description_catalog:r_14f11b83115e42cd"
+          },
+          "\n",
+          "スラスターモジュール|",
+          {
+            "$message": "ui.parts_description_catalog:r_d4f638629c7e71c5"
+          },
+          "\n",
+          "ランドモジュール|",
+          {
+            "$message": "ui.parts_description_catalog:r_5ba3a5be21bccfe9"
+          },
+          "\n",
+          "スクリューモジュール|",
+          {
+            "$message": "ui.parts_description_catalog:r_ff6f847015c4739e"
+          },
+          "\n",
+          "Ａ－アダプター|",
+          {
+            "$message": "ui.parts_description_catalog:r_412e12562f8d8816"
+          },
+          "\n",
+          "Ｓ－アダプター|",
+          {
+            "$message": "ui.parts_description_catalog:r_7d10124253095ae9"
+          },
+          "\n",
+          "プロペラントタンク|",
+          {
+            "$message": "ui.parts_description_catalog:r_7a4ca4cfa801523f"
+          },
+          "\n",
+          "カートリッジ|",
+          {
+            "$message": "ui.parts_description_catalog:r_65672f7339d81e42"
+          },
+          "\n",
+          "リペアキット|",
+          {
+            "$message": "ui.parts_description_catalog:r_8c60929d97072275"
+          },
+          "\n",
+          "スーパーリペアキット|",
+          {
+            "$message": "ui.parts_description_catalog:r_4a1e2f1bbebb42b3"
+          },
+          "\n",
+          "郁絵のおやつ|",
+          {
+            "$message": "ui.parts_description_catalog:r_0038bef8ce1318e1"
+          },
+          "\n",
+          "トライデント焼き|",
+          {
+            "$message": "ui.parts_description_catalog:r_0361e29217adb6e5"
+          },
+          "\n",
+          "ＺＥＮのドーナツ|",
+          {
+            "$message": "ui.parts_description_catalog:r_3db8f5bb948746a5"
+          },
+          "\n",
+          "娘娘名物まぐろマン|",
+          {
+            "$message": "ui.parts_description_catalog:r_6c2e2df3f7db702a"
+          },
+          "\n",
+          "インサラウムの秘宝|",
+          {
+            "$message": "ui.parts_description_catalog:r_1e0b4caa82fc27bd"
+          },
+          "\n",
+          "奇跡の欠片|",
+          {
+            "$message": "ui.parts_description_catalog:r_3e053a42ac9c98ae"
+          },
+          "\n",
+          "アドレナリンアンプル|",
+          {
+            "$message": "ui.parts_description_catalog:r_4b9eda7c977afa32"
+          },
+          "\n",
+          "サイキックリアクター|",
+          {
+            "$message": "ui.parts_description_catalog:r_c48f03831752b289"
+          },
+          "\n",
+          "カミナのサングラス|",
+          {
+            "$message": "ui.parts_description_catalog:r_578e466c84163346"
+          },
+          "\n",
+          "Ｆボンバーのディスク|",
+          {
+            "$message": "ui.parts_description_catalog:r_a802bcd0cb41e098"
+          },
+          "\n",
+          "シェリルのディスク|",
+          {
+            "$message": "ui.parts_description_catalog:r_5068123850c4843f"
+          },
+          "\n",
+          "ランカのディスク|",
+          {
+            "$message": "ui.parts_description_catalog:r_a17adb76f3c76023"
+          },
+          "\n",
+          "ＳＰゲッター|",
+          {
+            "$message": "ui.parts_description_catalog:r_61eac4b3336b8176"
+          },
+          "\n",
+          "カイメラ隊員証|",
+          {
+            "$message": "ui.parts_description_catalog:r_85f17425264930c5"
+          },
+          "\n",
+          "テンションレイザー|",
+          {
+            "$message": "ui.parts_description_catalog:r_5cb4f498002d6f4e"
+          },
+          "\n",
+          "プラーナコンバーター|",
+          {
+            "$message": "ui.parts_description_catalog:r_e4d4cc62efc3bfe6"
+          },
+          "\n",
+          "コマンダーターミナル|",
+          {
+            "$message": "ui.parts_description_catalog:r_a8e8f4f34d26ec0e"
+          },
+          "\n",
+          "ゲインメーター|",
+          {
+            "$message": "ui.parts_description_catalog:r_8a70fdfb3a62ddf8"
+          },
+          "\n",
+          "ＤＧの牙|",
+          {
+            "$message": "ui.parts_description_catalog:r_9734ad080cbd44c7"
+          },
+          "\n",
+          "アイアンエンブレム|",
+          {
+            "$message": "ui.parts_description_catalog:r_b11c0a9995792e9e"
+          },
+          "\n",
+          "ブロンズエンブレム|",
+          {
+            "$message": "ui.parts_description_catalog:r_4e5c36b902efeace"
+          },
+          "\n",
+          "シルバーエンブレム|",
+          {
+            "$message": "ui.parts_description_catalog:r_5838b602af77e84c"
+          },
+          "\n",
+          "ゴールドエンブレム|",
+          {
+            "$message": "ui.parts_description_catalog:r_1769fe2ef94d9d9c"
+          },
+          "\n",
+          "プラチナエンブレム|",
+          {
+            "$message": "ui.parts_description_catalog:r_cec9a68b699c8494"
+          },
+          "\n",
+          "セイクリッドアーマー|",
+          {
+            "$message": "ui.parts_description_catalog:r_fca1efae838c90de"
+          },
+          "\n",
+          "アサルトブースター|",
+          {
+            "$message": "ui.parts_description_catalog:r_72dcb76a9e28041a"
+          },
+          "\n",
+          "ＰＭＣサイト|",
+          {
+            "$message": "ui.parts_description_catalog:r_9dddeffa080f4c56"
+          },
+          "\n",
+          "ＢＣＨモーター|",
+          {
+            "$message": "ui.parts_description_catalog:r_de0c5aa92f823ff3"
+          },
+          "\n"
+        ]
+      }
+    },
+    "parts_menu_followup.ROWS/0": {
+      "file": "tools/parts_menu_followup.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.parts_menu_followup:r_0ea619af31c0a4bc"
+      }
+    },
+    "record_screen_labels.TARGETS/0": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "TARGETS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_6525ab82ed08d59e"
+      }
+    },
+    "record_screen_labels.TARGETS/1": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "TARGETS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_4cdd391676d80142"
+      }
+    },
+    "record_screen_labels.TARGETS/2": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "TARGETS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_c0d75f13089e5e26"
+      }
+    },
+    "record_screen_labels.TARGETS/3": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "TARGETS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_dca54304e09b7ae7"
+      }
+    },
+    "record_screen_labels.TARGETS/4": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "TARGETS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_5b65ffb6d876a15b"
+      }
+    },
+    "record_screen_labels.TARGETS/5": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "TARGETS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_f9b6c9b117a1af0c"
+      }
+    },
+    "record_screen_labels.TARGETS/6": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "TARGETS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_935711c09453a0d4"
+      }
+    },
+    "record_screen_labels.TARGETS/7": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "TARGETS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_8b087bacc0821763"
+      }
+    },
+    "record_screen_labels.TARGETS/8": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "TARGETS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_97dbed88c1ce1636"
+      }
+    },
+    "record_screen_labels.TARGETS/9": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "TARGETS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_72e6697ad14d4b1c"
+      }
+    },
+    "record_screen_labels.TARGETS/10": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "TARGETS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_7ba52579e900b90e"
+      }
+    },
+    "record_screen_labels.ROWS/11": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_dabd1c74af49e9a6"
+      }
+    },
+    "record_screen_labels.ROWS/12": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_2b97fcf86b27f9c9"
+      }
+    },
+    "record_screen_labels.TITLE_GROUPS/13": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "TITLE_GROUPS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_4b048b43d0e15d33"
+      }
+    },
+    "record_screen_labels.TITLE_GROUPS/14": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "TITLE_GROUPS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_349173b5c047c8e0"
+      }
+    },
+    "record_screen_labels.TITLE_GROUPS/15": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "TITLE_GROUPS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_f8f4095b39bcad63"
+      }
+    },
+    "record_screen_labels.TITLE_GROUPS/16": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "TITLE_GROUPS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_b525ba8107b1b484"
+      }
+    },
+    "record_screen_labels.TITLE_GROUPS/17": {
+      "file": "tools/record_screen_labels.py",
+      "variable": "TITLE_GROUPS",
+      "template": {
+        "$message": "ui.record_screen_labels:r_f975e90895331b05"
+      }
+    },
+    "roster_settings_layout.SUPPORT/0": {
+      "file": "tools/roster_settings_layout.py",
+      "variable": "SUPPORT",
+      "template": {
+        "$message": "ui.roster_settings_layout:r_fc00d6eef03a120d"
+      }
+    },
+    "roster_settings_layout.SUPPORT/1": {
+      "file": "tools/roster_settings_layout.py",
+      "variable": "SUPPORT",
+      "template": {
+        "$message": "ui.roster_settings_layout:r_601d77ae3cbbe336"
+      }
+    },
+    "roster_settings_layout.SUPPORT/2": {
+      "file": "tools/roster_settings_layout.py",
+      "variable": "SUPPORT",
+      "template": {
+        "$message": "ui.roster_settings_layout:r_4fc1691d82f2431c"
+      }
+    },
+    "roster_settings_layout.SUPPORT/3": {
+      "file": "tools/roster_settings_layout.py",
+      "variable": "SUPPORT",
+      "template": {
+        "$message": "ui.roster_settings_layout:r_a6f26337cde6b674"
+      }
+    },
+    "roster_settings_layout.SUPPORT/4": {
+      "file": "tools/roster_settings_layout.py",
+      "variable": "SUPPORT",
+      "template": {
+        "$message": "ui.roster_settings_layout:r_2b78bcef730854b0"
+      }
+    },
+    "roster_settings_layout.SUPPORT/5": {
+      "file": "tools/roster_settings_layout.py",
+      "variable": "SUPPORT",
+      "template": {
+        "$message": "ui.roster_settings_layout:r_aacdf712b86f2bb1"
+      }
+    },
+    "roster_settings_layout.SUPPORT/6": {
+      "file": "tools/roster_settings_layout.py",
+      "variable": "SUPPORT",
+      "template": {
+        "$message": "ui.roster_settings_layout:r_cc252cd6a864e2d0"
+      }
+    },
+    "roster_settings_layout.SUPPORT/7": {
+      "file": "tools/roster_settings_layout.py",
+      "variable": "SUPPORT",
+      "template": {
+        "$message": "ui.roster_settings_layout:r_dc8e7a2f4c5950f9"
+      }
+    },
+    "roster_settings_layout.TABS/8": {
+      "file": "tools/roster_settings_layout.py",
+      "variable": "TABS",
+      "template": {
+        "$message": "ui.roster_settings_layout:r_0632923e1bf3be7b"
+      }
+    },
+    "runtime_names.READERS/0": {
+      "file": "tools/runtime_names.py",
+      "variable": "READERS",
+      "template": {
+        "$message": "ui.runtime_names:r_fd402c2be1949899"
+      }
+    },
+    "runtime_names.READERS/1": {
+      "file": "tools/runtime_names.py",
+      "variable": "READERS",
+      "template": {
+        "$message": "ui.runtime_names:r_5160e365ddd750eb"
+      }
+    },
+    "runtime_names.READERS/2": {
+      "file": "tools/runtime_names.py",
+      "variable": "READERS",
+      "template": {
+        "$message": "ui.runtime_names:r_8d15b248973dfcec"
+      }
+    },
+    "save_prompt_layout.EN/0": {
+      "file": "tools/save_prompt_layout.py",
+      "variable": "EN",
+      "template": {
+        "$message": "ui.save_prompt_layout:r_d29d773a8a9dbc70"
+      }
+    },
+    "scenario_title.TITLE/0": {
+      "file": "tools/scenario_title.py",
+      "variable": "TITLE",
+      "template": {
+        "$message": "ui.scenario_title:r_1d5d01bedc38e521"
+      }
+    },
+    "search_layout.TAB_TEXT/0": {
+      "file": "tools/search_layout.py",
+      "variable": "TAB_TEXT",
+      "template": {
+        "$message": "ui.search_layout:r_8c9e5643c58fbb59"
+      }
+    },
+    "search_layout.TAB_TEXT/1": {
+      "file": "tools/search_layout.py",
+      "variable": "TAB_TEXT",
+      "template": {
+        "$message": "ui.search_layout:r_ed979a2fcd1088b3"
+      }
+    },
+    "search_layout.TAB_TEXT/2": {
+      "file": "tools/search_layout.py",
+      "variable": "TAB_TEXT",
+      "template": {
+        "$message": "ui.search_layout:r_6922679bc65736ce"
+      }
+    },
+    "search_list_headers.ROWS/0": {
+      "file": "tools/search_list_headers.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.search_list_headers:r_0ea619af31c0a4bc"
+      }
+    },
+    "search_list_headers.ROWS/1": {
+      "file": "tools/search_list_headers.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.search_list_headers:r_0f01041fe7997827"
+      }
+    },
+    "search_list_headers.ROWS/2": {
+      "file": "tools/search_list_headers.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.search_list_headers:r_7cc540f65f4d3eec"
+      }
+    },
+    "search_list_headers.ROWS/3": {
+      "file": "tools/search_list_headers.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.search_list_headers:r_c769ed448ac2ddde"
+      }
+    },
+    "search_list_headers.ROWS/4": {
+      "file": "tools/search_list_headers.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.search_list_headers:r_e96afa13f4c5fa9c"
+      }
+    },
+    "skill_description_catalog.DATA/0": {
+      "file": "tools/skill_description_catalog.py",
+      "variable": "DATA",
+      "template": {
+        "$join": [
+          "\n",
+          "援護攻撃|",
+          {
+            "$message": "ui.skill_description_catalog:r_36f268db006f5e6b"
+          },
+          "\n",
+          "再攻撃|",
+          {
+            "$message": "ui.skill_description_catalog:r_f565890c7cfc843a"
+          },
+          "\n",
+          "サポートアタック|",
+          {
+            "$message": "ui.skill_description_catalog:r_7a76682e43b328c2"
+          },
+          "\n",
+          "援護防御|",
+          {
+            "$message": "ui.skill_description_catalog:r_d770ccafdd37bcab"
+          },
+          "\n",
+          "ＳＰアップ|",
+          {
+            "$message": "ui.skill_description_catalog:r_e4535d212e04428e"
+          },
+          "\n",
+          "闘争心|",
+          {
+            "$message": "ui.skill_description_catalog:r_75e9258a05902206"
+          },
+          "\n",
+          "戦意高揚|",
+          {
+            "$message": "ui.skill_description_catalog:r_b9cbdea23f228e9d"
+          },
+          "\n",
+          "気力＋（回避）|",
+          {
+            "$message": "ui.skill_description_catalog:r_4831f6bda2d91be1"
+          },
+          "\n",
+          "気力＋（命中）|",
+          {
+            "$message": "ui.skill_description_catalog:r_2eb2159ac1f40688"
+          },
+          "\n",
+          "気力＋（ダメージ）|",
+          {
+            "$message": "ui.skill_description_catalog:r_58856809015e781e"
+          },
+          "\n",
+          "気力＋（壊滅）|",
+          {
+            "$message": "ui.skill_description_catalog:r_5078c0cfad836bf9"
+          },
+          "\n",
+          "気力限界突破|",
+          {
+            "$message": "ui.skill_description_catalog:r_ccb004029a060033"
+          },
+          "\n",
+          "底力|",
+          {
+            "$message": "ui.skill_description_catalog:r_09f8ea93026ef625"
+          },
+          "\n",
+          "カウンター|",
+          {
+            "$message": "ui.skill_description_catalog:r_77f038e1486eff06"
+          },
+          "\n",
+          "Ｅセーブ|",
+          {
+            "$message": "ui.skill_description_catalog:r_c90803a34d9641fa"
+          },
+          "\n",
+          "Ｂセーブ|",
+          {
+            "$message": "ui.skill_description_catalog:r_efcf42a6a46e51ae"
+          },
+          "\n",
+          "見切り|",
+          {
+            "$message": "ui.skill_description_catalog:r_8320cc893386038d"
+          },
+          "\n",
+          "ガード|",
+          {
+            "$message": "ui.skill_description_catalog:r_1d0996e1703c951c"
+          },
+          "\n",
+          "マルチターゲット|",
+          {
+            "$message": "ui.skill_description_catalog:r_6c74c95b4d9551ab"
+          },
+          "\n",
+          "サイズ差補正無視|",
+          {
+            "$message": "ui.skill_description_catalog:r_d1141c8d1b990207"
+          },
+          "\n",
+          "精神耐性|",
+          {
+            "$message": "ui.skill_description_catalog:r_f257d8d4ca5f8b2a"
+          },
+          "\n",
+          "ヒット＆アウェイ|",
+          {
+            "$message": "ui.skill_description_catalog:r_ad3bbd061562e864"
+          },
+          "\n",
+          "ダッシュ|",
+          {
+            "$message": "ui.skill_description_catalog:r_3d70f54b4bf189d4"
+          },
+          "\n",
+          "修理スキル|",
+          {
+            "$message": "ui.skill_description_catalog:r_f4c8b1f5732acc65"
+          },
+          "\n",
+          "補給スキル|",
+          {
+            "$message": "ui.skill_description_catalog:r_ca9388f8c71461cf"
+          },
+          "\n",
+          "パーツ供給|",
+          {
+            "$message": "ui.skill_description_catalog:r_a4584e80743b2361"
+          },
+          "\n",
+          "ＳＰ回復|",
+          {
+            "$message": "ui.skill_description_catalog:r_b772a55a4d2ad3d8"
+          },
+          "\n",
+          "気力＋ボーナス|",
+          {
+            "$message": "ui.skill_description_catalog:r_ee5f9d9a893cdeb5"
+          },
+          "\n",
+          "極|",
+          {
+            "$message": "ui.skill_description_catalog:r_a8b0fda29297cbef"
+          },
+          "\n",
+          "２回行動|",
+          {
+            "$message": "ui.skill_description_catalog:r_c1143f122f6e6911"
+          },
+          "\n",
+          "強運|",
+          {
+            "$message": "ui.skill_description_catalog:r_bf5e34977f793d2d"
+          },
+          "\n",
+          "天才|",
+          {
+            "$message": "ui.skill_description_catalog:r_14f11b83115e42cd"
+          },
+          "\n",
+          "指揮官|",
+          {
+            "$message": "ui.skill_description_catalog:r_d4f638629c7e71c5"
+          },
+          "\n",
+          "戦術指揮|",
+          {
+            "$message": "ui.skill_description_catalog:r_5ba3a5be21bccfe9"
+          },
+          "\n",
+          "社長|",
+          {
+            "$message": "ui.skill_description_catalog:r_ff6f847015c4739e"
+          },
+          "\n",
+          "サラリーマン|",
+          {
+            "$message": "ui.skill_description_catalog:r_412e12562f8d8816"
+          },
+          "\n",
+          "戦闘プログラム|",
+          {
+            "$message": "ui.skill_description_catalog:r_7d10124253095ae9"
+          },
+          "\n",
+          "ニュータイプ|",
+          {
+            "$message": "ui.skill_description_catalog:r_7a4ca4cfa801523f"
+          },
+          "\n",
+          "強化人間|",
+          {
+            "$message": "ui.skill_description_catalog:r_65672f7339d81e42"
+          },
+          "\n",
+          "ＳＥＥＤ|",
+          {
+            "$message": "ui.skill_description_catalog:r_8c60929d97072275"
+          },
+          "\n",
+          "イノベイター|",
+          {
+            "$message": "ui.skill_description_catalog:r_4a1e2f1bbebb42b3"
+          },
+          "\n",
+          "ギアスの呪縛|",
+          {
+            "$message": "ui.skill_description_catalog:r_0038bef8ce1318e1"
+          },
+          "\n",
+          "超能力|",
+          {
+            "$message": "ui.skill_description_catalog:r_0361e29217adb6e5"
+          },
+          "\n",
+          "超Ａ級超能力|",
+          {
+            "$message": "ui.skill_description_catalog:r_3db8f5bb948746a5"
+          },
+          "\n",
+          "螺旋力|",
+          {
+            "$message": "ui.skill_description_catalog:r_6c2e2df3f7db702a"
+          },
+          "\n",
+          "螺旋力∞|",
+          {
+            "$message": "ui.skill_description_catalog:r_1e0b4caa82fc27bd"
+          },
+          "\n",
+          "野性化|",
+          {
+            "$message": "ui.skill_description_catalog:r_3e053a42ac9c98ae"
+          },
+          "\n",
+          "ネゴシエイター|",
+          {
+            "$message": "ui.skill_description_catalog:r_4b9eda7c977afa32"
+          },
+          "\n",
+          "精密攻撃|",
+          {
+            "$message": "ui.skill_description_catalog:r_c48f03831752b289"
+          },
+          "\n",
+          "異能生存体|",
+          {
+            "$message": "ui.skill_description_catalog:r_578e466c84163346"
+          },
+          "\n",
+          "重力干渉１|",
+          {
+            "$message": "ui.skill_description_catalog:r_a802bcd0cb41e098"
+          },
+          "\n",
+          "重力干渉２|",
+          {
+            "$message": "ui.skill_description_catalog:r_5068123850c4843f"
+          },
+          "\n",
+          "繋ぐ力|",
+          {
+            "$message": "ui.skill_description_catalog:r_a17adb76f3c76023"
+          },
+          "\n",
+          "衝撃力|",
+          {
+            "$message": "ui.skill_description_catalog:r_61eac4b3336b8176"
+          },
+          "\n",
+          "逆さまの力１|",
+          {
+            "$message": "ui.skill_description_catalog:r_85f17425264930c5"
+          },
+          "\n",
+          "逆さまの力２|",
+          {
+            "$message": "ui.skill_description_catalog:r_5cb4f498002d6f4e"
+          },
+          "\n",
+          "断ち切る力|",
+          {
+            "$message": "ui.skill_description_catalog:r_e4d4cc62efc3bfe6"
+          },
+          "\n",
+          "精神演奏|",
+          {
+            "$message": "ui.skill_description_catalog:r_a8e8f4f34d26ec0e"
+          },
+          "\n",
+          "絶望予知|",
+          {
+            "$message": "ui.skill_description_catalog:r_8a70fdfb3a62ddf8"
+          },
+          "\n",
+          "穴堀力|",
+          {
+            "$message": "ui.skill_description_catalog:r_9734ad080cbd44c7"
+          },
+          "\n",
+          "空間補填|",
+          {
+            "$message": "ui.skill_description_catalog:r_b11c0a9995792e9e"
+          },
+          "\n",
+          "腐食力|",
+          {
+            "$message": "ui.skill_description_catalog:r_4e5c36b902efeace"
+          },
+          "\n",
+          "光学透過|",
+          {
+            "$message": "ui.skill_description_catalog:r_5838b602af77e84c"
+          },
+          "\n",
+          "脆弱力|",
+          {
+            "$message": "ui.skill_description_catalog:r_1769fe2ef94d9d9c"
+          },
+          "\n",
+          "テレポート|",
+          {
+            "$message": "ui.skill_description_catalog:r_cec9a68b699c8494"
+          },
+          "\n",
+          "ハーフカット|",
+          {
+            "$message": "ui.skill_description_catalog:r_fca1efae838c90de"
+          },
+          "\n",
+          "３回行動|",
+          {
+            "$message": "ui.skill_description_catalog:r_72dcb76a9e28041a"
+          },
+          "\n",
+          "念動力|",
+          {
+            "$message": "ui.skill_description_catalog:r_9dddeffa080f4c56"
+          },
+          "\n"
+        ]
+      }
+    },
+    "tag_reward_layout.ROWS/0": {
+      "file": "tools/tag_reward_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.tag_reward_layout:r_0ea619af31c0a4bc"
+      }
+    },
+    "tag_reward_layout.REWARDS/1": {
+      "file": "tools/tag_reward_layout.py",
+      "variable": "REWARDS",
+      "template": {
+        "$message": "ui.tag_reward_layout:r_5aaf68b777e85675"
+      }
+    },
+    "tag_reward_layout.REWARDS/2": {
+      "file": "tools/tag_reward_layout.py",
+      "variable": "REWARDS",
+      "template": {
+        "$message": "ui.tag_reward_layout:r_bec300a25bfc371e"
+      }
+    },
+    "tag_reward_layout.HEADERS/3": {
+      "file": "tools/tag_reward_layout.py",
+      "variable": "HEADERS",
+      "template": {
+        "$message": "ui.tag_reward_layout:r_35056ced2d37a5ee"
+      }
+    },
+    "tag_reward_layout.HEADERS/4": {
+      "file": "tools/tag_reward_layout.py",
+      "variable": "HEADERS",
+      "template": {
+        "$message": "ui.tag_reward_layout:r_56d4a9f573d4740f"
+      }
+    },
+    "tag_reward_layout.HEADERS/5": {
+      "file": "tools/tag_reward_layout.py",
+      "variable": "HEADERS",
+      "template": {
+        "$message": "ui.tag_reward_layout:r_394f977868c846cc"
+      }
+    },
+    "tag_reward_layout.HEADERS/6": {
+      "file": "tools/tag_reward_layout.py",
+      "variable": "HEADERS",
+      "template": {
+        "$message": "ui.tag_reward_layout:r_274569c897a83e75"
+      }
+    },
+    "team_roster_layout.ROWS/0": {
+      "file": "tools/team_roster_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.team_roster_layout:r_0ea619af31c0a4bc"
+      }
+    },
+    "title_library_buttons.ROWS/0": {
+      "file": "tools/title_library_buttons.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.title_library_buttons:r_0ea619af31c0a4bc"
+      }
+    },
+    "title_library_buttons.ROWS/1": {
+      "file": "tools/title_library_buttons.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.title_library_buttons:r_0f01041fe7997827"
+      }
+    },
+    "title_library_buttons.ROWS/2": {
+      "file": "tools/title_library_buttons.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.title_library_buttons:r_7cc540f65f4d3eec"
+      }
+    },
+    "title_library_buttons.ROWS/3": {
+      "file": "tools/title_library_buttons.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.title_library_buttons:r_c769ed448ac2ddde"
+      }
+    },
+    "title_library_buttons.ROWS/4": {
+      "file": "tools/title_library_buttons.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.title_library_buttons:r_e96afa13f4c5fa9c"
+      }
+    },
+    "trader_art.CELLS/0": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_862edfa53468e349"
+      }
+    },
+    "trader_art.CELLS/1": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_d39db86eb8d7e28a"
+      }
+    },
+    "trader_art.CELLS/2": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_946f7606d70285d2"
+      }
+    },
+    "trader_art.CELLS/3": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_7ba634e28bdac50e"
+      }
+    },
+    "trader_art.CELLS/4": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_d97455ca1de3a8ec"
+      }
+    },
+    "trader_art.CELLS/5": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_603ac52d621958bb"
+      }
+    },
+    "trader_art.CELLS/6": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_a874f0fa555c3e93"
+      }
+    },
+    "trader_art.CELLS/7": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_56b2ab7373357ba5"
+      }
+    },
+    "trader_art.CELLS/8": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_b974b832f5b94dc9"
+      }
+    },
+    "trader_art.CELLS/9": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_cacf2c7932beb0a5"
+      }
+    },
+    "trader_art.CELLS/10": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_4de9b4112863bc46"
+      }
+    },
+    "trader_art.CELLS/11": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_ed7331f5f0711f58"
+      }
+    },
+    "trader_art.CELLS/12": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_f23586b5e7cce998"
+      }
+    },
+    "trader_art.CELLS/13": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_094944a78b14fc6a"
+      }
+    },
+    "trader_art.CELLS/14": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_80f9e51958bddedc"
+      }
+    },
+    "trader_art.CELLS/15": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_d37043b597cb820c"
+      }
+    },
+    "trader_art.CELLS/16": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_ee2d5af12fced401"
+      }
+    },
+    "trader_art.CELLS/17": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_89e2be094a6bdd0c"
+      }
+    },
+    "trader_art.CELLS/18": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_730868aa3e222d58"
+      }
+    },
+    "trader_art.CELLS/19": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_0213f6965040a306"
+      }
+    },
+    "trader_art.CELLS/20": {
+      "file": "tools/trader_art.py",
+      "variable": "CELLS",
+      "template": {
+        "$message": "ui.trader_art:r_bd048ba395c6f049"
+      }
+    },
+    "trade_list_flavor.TEXT/0": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_d1f4e55771cedc69"
+      }
+    },
+    "trade_list_flavor.TEXT/1": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_90c2c24a288f8a49"
+      }
+    },
+    "trade_list_flavor.TEXT/2": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_5dad7bca57bb5de0"
+      }
+    },
+    "trade_list_flavor.TEXT/3": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_d0a9c7aca3a6c227"
+      }
+    },
+    "trade_list_flavor.TEXT/4": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_70035399372f0447"
+      }
+    },
+    "trade_list_flavor.TEXT/5": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_562ea70fdf3034e5"
+      }
+    },
+    "trade_list_flavor.TEXT/6": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_97be40178a940e39"
+      }
+    },
+    "trade_list_flavor.TEXT/7": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_0d8eacac10bb2f9f"
+      }
+    },
+    "trade_list_flavor.TEXT/8": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_6099675c1f677f11"
+      }
+    },
+    "trade_list_flavor.TEXT/9": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_8f2cd355bf12984a"
+      }
+    },
+    "trade_list_flavor.TEXT/10": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_76c6b1e74ca0d5d4"
+      }
+    },
+    "trade_list_flavor.TEXT/11": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_9662562cddc42c18"
+      }
+    },
+    "trade_list_flavor.TEXT/12": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_ed3a28fadcfb56d9"
+      }
+    },
+    "trade_list_flavor.TEXT/13": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_91373d84ff63f567"
+      }
+    },
+    "trade_list_flavor.TEXT/14": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_33d35697d094e033"
+      }
+    },
+    "trade_list_flavor.TEXT/15": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_dd32b70c24f08444"
+      }
+    },
+    "trade_list_flavor.TEXT/16": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_41eafee448f53c38"
+      }
+    },
+    "trade_list_flavor.TEXT/17": {
+      "file": "tools/trade_list_flavor.py",
+      "variable": "TEXT",
+      "template": {
+        "$message": "ui.trade_list_flavor:r_4349e285349e8fed"
+      }
+    },
+    "trader_ui.ROWS/0": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_0ea619af31c0a4bc"
+      }
+    },
+    "trader_ui.ROWS/1": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_0f01041fe7997827"
+      }
+    },
+    "trader_ui.ROWS/2": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_7cc540f65f4d3eec"
+      }
+    },
+    "trader_ui.ROWS/3": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_c769ed448ac2ddde"
+      }
+    },
+    "trader_ui.ROWS/4": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_e96afa13f4c5fa9c"
+      }
+    },
+    "trader_ui.ROWS/5": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_ae4aa1e70c4c9fe0"
+      }
+    },
+    "trader_ui.ROWS/6": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_f9b35564aafcd2e7"
+      }
+    },
+    "trader_ui.ROWS/7": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_3116c33439dff787"
+      }
+    },
+    "trader_ui.ROWS/8": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_7f2318a37843ae64"
+      }
+    },
+    "trader_ui.ROWS/9": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_4b764c845ba4bb77"
+      }
+    },
+    "trader_ui.ROWS/10": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_22a9c653a7f2b8b7"
+      }
+    },
+    "trader_ui.ROWS/11": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_dabd1c74af49e9a6"
+      }
+    },
+    "trader_ui.ROWS/12": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_2b97fcf86b27f9c9"
+      }
+    },
+    "trader_ui.ROWS/13": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_3635d6467777aa77"
+      }
+    },
+    "trader_ui.ROWS/14": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_1b431a6a690abc19"
+      }
+    },
+    "trader_ui.ROWS/15": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_2c83af3242843d64"
+      }
+    },
+    "trader_ui.ROWS/16": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_3ae24ea03105ec68"
+      }
+    },
+    "trader_ui.ROWS/17": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_e05d8f766193ff81"
+      }
+    },
+    "trader_ui.ROWS/18": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_6c274ab6a7fbaeef"
+      }
+    },
+    "trader_ui.ROWS/19": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_c3f9aca1bd6a0ba5"
+      }
+    },
+    "trader_ui.ROWS/20": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_008de319d4657412"
+      }
+    },
+    "trader_ui.ROWS/21": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_5a257c1607e377be"
+      }
+    },
+    "trader_ui.ROWS/22": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_8fd2e87b30d20fc5"
+      }
+    },
+    "trader_ui.ROWS/23": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_fd5f10ba0ceee284"
+      }
+    },
+    "trader_ui.ROWS/24": {
+      "file": "tools/trader_ui.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.trader_ui:r_52bc45333fa7a37b"
+      }
+    },
+    "training_help_layout.ROWS/0": {
+      "file": "tools/training_help_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.training_help_layout:r_0ea619af31c0a4bc"
+      }
+    },
+    "trophy_labels.NAME/0": {
+      "file": "tools/trophy_labels.py",
+      "variable": "NAME",
+      "template": {
+        "$message": "ui.trophy_labels:r_eee137b2f74eab8d"
+      }
+    },
+    "trophy_labels.DETAIL/1": {
+      "file": "tools/trophy_labels.py",
+      "variable": "DETAIL",
+      "template": {
+        "$message": "ui.trophy_labels:r_78aa19723a36b289"
+      }
+    },
+    "ui_followup_layout.ROWS/0": {
+      "file": "tools/ui_followup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.ui_followup_layout:r_0ea619af31c0a4bc"
+      }
+    },
+    "ui_followup_layout.ROWS/1": {
+      "file": "tools/ui_followup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.ui_followup_layout:r_0f01041fe7997827"
+      }
+    },
+    "ui_followup_layout.ROWS/2": {
+      "file": "tools/ui_followup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.ui_followup_layout:r_7cc540f65f4d3eec"
+      }
+    },
+    "ui_followup_layout.ROWS/3": {
+      "file": "tools/ui_followup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.ui_followup_layout:r_c769ed448ac2ddde"
+      }
+    },
+    "ui_followup_layout.ROWS/4": {
+      "file": "tools/ui_followup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.ui_followup_layout:r_e96afa13f4c5fa9c"
+      }
+    },
+    "ui_followup_layout.ROWS/5": {
+      "file": "tools/ui_followup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.ui_followup_layout:r_ae4aa1e70c4c9fe0"
+      }
+    },
+    "ui_followup_layout.ROWS/6": {
+      "file": "tools/ui_followup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.ui_followup_layout:r_f9b35564aafcd2e7"
+      }
+    },
+    "ui_followup_layout.ROWS/7": {
+      "file": "tools/ui_followup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.ui_followup_layout:r_3116c33439dff787"
+      }
+    },
+    "ui_followup_layout.ROWS/8": {
+      "file": "tools/ui_followup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.ui_followup_layout:r_7f2318a37843ae64"
+      }
+    },
+    "ui_followup_layout.ROWS/9": {
+      "file": "tools/ui_followup_layout.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.ui_followup_layout:r_4b764c845ba4bb77"
+      }
+    },
+    "unlock_reports.CONDITIONS/0": {
+      "file": "tools/unlock_reports.py",
+      "variable": "CONDITIONS",
+      "template": {
+        "$message": "ui.unlock_reports:r_d76261811e4fff23"
+      }
+    },
+    "unlock_reports.CONDITIONS/1": {
+      "file": "tools/unlock_reports.py",
+      "variable": "CONDITIONS",
+      "template": {
+        "$message": "ui.unlock_reports:r_31906a70be92473c"
+      }
+    },
+    "unlock_reports.PARTS/2": {
+      "file": "tools/unlock_reports.py",
+      "variable": "PARTS",
+      "template": {
+        "$message": "ui.unlock_reports:r_002540f3e595b95e"
+      }
+    },
+    "upgrade_list_labels.ROWS/0": {
+      "file": "tools/upgrade_list_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.upgrade_list_labels:r_0ea619af31c0a4bc"
+      }
+    },
+    "upgrade_list_labels.ROWS/1": {
+      "file": "tools/upgrade_list_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.upgrade_list_labels:r_0f01041fe7997827"
+      }
+    },
+    "upgrade_list_labels.ROWS/2": {
+      "file": "tools/upgrade_list_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.upgrade_list_labels:r_7cc540f65f4d3eec"
+      }
+    },
+    "upgrade_list_labels.ROWS/3": {
+      "file": "tools/upgrade_list_labels.py",
+      "variable": "ROWS",
+      "template": {
+        "$message": "ui.upgrade_list_labels:r_c769ed448ac2ddde"
+      }
+    },
+    "weapon_effect_labels.LABELS/0": {
+      "file": "tools/weapon_effect_labels.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.weapon_effect_labels:r_24f8d43d1e93b8a1"
+      }
+    },
+    "weapon_effect_labels.LABELS/1": {
+      "file": "tools/weapon_effect_labels.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.weapon_effect_labels:r_9c0e8c2691adb4f1"
+      }
+    },
+    "weapon_info_layout.LABEL/0": {
+      "file": "tools/weapon_info_layout.py",
+      "variable": "LABEL",
+      "template": {
+        "$message": "ui.weapon_info_layout:r_1e00713e9e06a5da"
+      }
+    },
+    "weapon_requirements.PREFIX/0": {
+      "file": "tools/weapon_requirements.py",
+      "variable": "PREFIX",
+      "template": {
+        "$message": "ui.weapon_requirements:r_0f01f91c31f8ec5e"
+      }
+    },
+    "weapon_requirements.HEADER/1": {
+      "file": "tools/weapon_requirements.py",
+      "variable": "HEADER",
+      "template": {
+        "$message": "ui.weapon_requirements:r_068d7f4170519e1f"
+      }
+    },
+    "weapon_requirements.LABELS/2": {
+      "file": "tools/weapon_requirements.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.weapon_requirements:r_7c43dd0cfd5d3c49"
+      }
+    },
+    "weapon_requirements.LABELS/3": {
+      "file": "tools/weapon_requirements.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.weapon_requirements:r_f5c2c45cc55e7e3c"
+      }
+    },
+    "weapon_requirements.LABELS/4": {
+      "file": "tools/weapon_requirements.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.weapon_requirements:r_7f8c6e5c5e4e347e"
+      }
+    },
+    "weapon_requirements.LABELS/5": {
+      "file": "tools/weapon_requirements.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.weapon_requirements:r_9fc62866844dfe9a"
+      }
+    },
+    "weapon_requirements.LABELS/6": {
+      "file": "tools/weapon_requirements.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.weapon_requirements:r_dfa93022bbc30980"
+      }
+    },
+    "weapon_requirements.LABELS/7": {
+      "file": "tools/weapon_requirements.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.weapon_requirements:r_1416360379dea645"
+      }
+    },
+    "weapon_requirements.LABELS/8": {
+      "file": "tools/weapon_requirements.py",
+      "variable": "LABELS",
+      "template": {
+        "$message": "ui.weapon_requirements:r_07bda9bbd38c277e"
+      }
+    }
+  }
+}

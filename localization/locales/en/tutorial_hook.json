@@ -1,0 +1,386 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "tutorial_hook:r_479b340ccc6c572b": {
+      "text": "●A battle system fought in teams of 2 units.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_ca4acbac57a2a35e": {
+      "text": "●A 2-unit group is Tag, a 1-unit group is Single; together a Team.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_77949221bf58f862": {
+      "text": "　The main unit and sub unit can be swapped freely.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_70b9c4b9f1f37eff": {
+      "text": "●A team's passable map terrain (air/ground) is limited to what",
+      "status": "imported"
+    },
+    "tutorial_hook:r_9fcb3754cb1773c7": {
+      "text": "　every unit in the team can enter.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_3559d2fad32c2435": {
+      "text": "●Single Attack　　　Only the main unit attacks.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_f7570547e9f80a64": {
+      "text": "　　　　　　　　Also applies to an ALL weapon hitting all enemies.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_cbab0f4720e1fcf1": {
+      "text": "　　　　　　　　And, with an ALL weapon, if the enemy has 2 units,",
+      "status": "imported"
+    },
+    "tutorial_hook:r_0bbe0b4f5364e732": {
+      "text": "●Center Attack　Sub and Main both attack one enemy unit.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_5dda5198137cb02a": {
+      "text": "　　　　　　　　The attacked unit counters a Center Attack.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_83ec59afbecdec14": {
+      "text": "●Wide Attack　　Main hits the enemy's main, Sub hits its sub.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_e20bfd42ad95a3c9": {
+      "text": "　　　　　　　　Both Main and Sub each counter a Wide Attack.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_0f58a8822381e57f": {
+      "text": "　　　　　　　　If Main counters with an ALL weapon, Sub does not",
+      "status": "imported"
+    },
+    "tutorial_hook:r_6dbcc507fb61b51d": {
+      "text": "　　　　　　　　counter.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_b42ab697149a7c8a": {
+      "text": "●Map Attack　　Uses a MAP weapon, hitting every team in range.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_4de4fcf3b440baf4": {
+      "text": "●A challenge worth 1 point, set for every scenario.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_0121a166c715cdff": {
+      "text": "　Its condition is shown in the mission objectives.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_30fad37a42bd3ad3": {
+      "text": "●Difficulty is decided by how many SR Points you've earned.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_80a0b2a84e05d81a": {
+      "text": "　　　　　　　　　　E.g. enemies are stronger, raising difficulty.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_4a9ac1dff86506d9": {
+      "text": "●Retrying after a Game Over forfeits that scenario's SR Point.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_bc8538e6af3d2577": {
+      "text": "　Sub Pilots' SP rises the same way.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_924516c8de2b5342": {
+      "text": "　However, SP never exceeds its maximum.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_da1174533722333f": {
+      "text": "●Overall Command 'Mid-map Save' saves map state as 'Suspend Data'.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_fdeb8162976e72c1": {
+      "text": "　Select 'Continue' on the title screen, or",
+      "status": "imported"
+    },
+    "tutorial_hook:r_0fadb5c26df92b42": {
+      "text": "　use Quick Continue to return to the point of the mid-map save.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_6b15af9a0057cdc8": {
+      "text": "　See the manual for how to use Quick Continue.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_15b4a90140e8a33a": {
+      "text": "●A value only Tag teams have; it represents the team's tension.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_af884a6b11dff121": {
+      "text": "●Meeting either condition below raises Tag Tension by 1 point.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_ac6fe7838e95647b": {
+      "text": "●If the pilots of both units making up the team are Ace Pilots,",
+      "status": "imported"
+    },
+    "tutorial_hook:r_77ca87eacd17ad52": {
+      "text": "　Tag Tension gets an extra +1 at sortie.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_bf3244994760e535": {
+      "text": "●Tag Tension maxes out at 2 points, unlocking the following",
+      "status": "imported"
+    },
+    "tutorial_hook:r_aabfb21c9d069ce7": {
+      "text": "　individual commands.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_02479dc8fe989560": {
+      "text": "　　Maximum Break　:　A powerful combo attack by Main and Sub",
+      "status": "imported"
+    },
+    "tutorial_hook:r_a2df00f91a9b0a9e": {
+      "text": "　　Tag Command　　　:　Various effects, such as restoring SP",
+      "status": "imported"
+    },
+    "tutorial_hook:r_48b60d6c48b9b142": {
+      "text": "●An individual command usable only when Tag Tension is MAX.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_8927e6fb681aa809": {
+      "text": "　Using Maximum Break resets Tag Tension to '0'.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_665f01666859013b": {
+      "text": "●Sub and Main each freely pick a weapon, attacking in succession.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_a571eec59b258d11": {
+      "text": "　Sub can choose weapons other than the assist weapon too.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_ddbe581c5ea9183d": {
+      "text": "●The enemy's 'Counter', 'Support Defense', and 'Barrier' special",
+      "status": "imported"
+    },
+    "tutorial_hook:r_faae935cca0edc72": {
+      "text": "　special abilities cannot activate.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_d4430bf362340b32": {
+      "text": "●Other systems, e.g. Support Attack, Spirit Commands, are treated",
+      "status": "imported"
+    },
+    "tutorial_hook:r_6ff1323b355593e0": {
+      "text": "　the same as a normal attack.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_b7b5625d7cd4282f": {
+      "text": "●An individual command usable only when Tag Tension is MAX.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_36133ad73a73ef98": {
+      "text": "　Using a Tag Command resets Tag Tension to '0'.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_920740a0219c5085": {
+      "text": "●Tag Command has 4 kinds of effects; select and use one of them.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_a8451712c57c1a72": {
+      "text": "　　　　　　　　　　Can act again.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_3633df5b7b8f47fa": {
+      "text": "　　　　　　　　　　PP is the points used for pilot training.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_52dfc56b14b93551": {
+      "text": "　　　　　　　　　　Z Chips are points for trades at the D-Trader",
+      "status": "imported"
+    },
+    "tutorial_hook:r_1b9b2aab5cb104da": {
+      "text": "　　　　　　　　　　at Intermission.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_342044c706a2340f": {
+      "text": "　　　　　　　　　　Recovers 25.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_cf41e8828a90cbdb": {
+      "text": "●Wiping out an enemy team in the ally phase (=downing all units)",
+      "status": "imported"
+    },
+    "tutorial_hook:r_719e897304ec42d4": {
+      "text": "　raises the Combo Gauge by 1 (max value is 5).",
+      "status": "imported"
+    },
+    "tutorial_hook:r_d5e0a2317c40d322": {
+      "text": "●With the Gauge raised, wiping out a team on the next action",
+      "status": "imported"
+    },
+    "tutorial_hook:r_ec2ea17765052401": {
+      "text": "　adds another +1; failing to wipe one out subtracts 1 instead.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_f2d4255f1c2f7542": {
+      "text": "　The Combo Gauge resets to 0 at the end of the ally phase.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_5d08ad19e2da125b": {
+      "text": "●For each point of Combo Gauge, allied units gain these bonuses.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_a7246b52782a877e": {
+      "text": "●The current Combo Gauge is shown in the Overall Command.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_dc8701f6bcb9904f": {
+      "text": "●A Game Over restarts that map from the beginning.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_d6bdd730f24f66eb": {
+      "text": "　Kills, PP, Z Chips, and Power Parts do not carry over.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_41997412868c48c4": {
+      "text": "　Also, retrying after a Game Over forfeits that SR Point.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_9e6cf4f389dae55c": {
+      "text": "●Teams form at intermission; on the map they {c1}cannot split or merge{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_9e0c80ac7e33b459": {
+      "text": "●A team's Move is the {c1}average of its units' Move, rounded up{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_7432ef43ed3471dc": {
+      "text": "　　　　　　　　Attack power becomes {c1}x0.75{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_065443f6ddfcf0d7": {
+      "text": ".",
+      "status": "imported"
+    },
+    "tutorial_hook:r_47d52a2839c71715": {
+      "text": "　　　　　　　　Sub's attack {c1}uses the assist weapon at x1.0 power{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_847f82e7f3eef651": {
+      "text": ",",
+      "status": "imported"
+    },
+    "tutorial_hook:r_eb7ae28b53dc033c": {
+      "text": "　　　　　　　　Main's {c1}accuracy gets +20%{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_857c4a52ce8df0fd": {
+      "text": ".",
+      "status": "imported"
+    },
+    "tutorial_hook:r_55417493fce1d347": {
+      "text": "　　　　　　　　Sub's attack {c1}uses the assist weapon at x1.2 power{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_8fdf5910927c9591": {
+      "text": "●Earning it awards a fund bonus of {c1}10000{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_7d724dbcc4451e10": {
+      "text": ".",
+      "status": "imported"
+    },
+    "tutorial_hook:r_93e25418a203cb8f": {
+      "text": "　Difficulty: Hard  {c1}80% or more{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_adeb0a29274d3d9b": {
+      "text": " of the SR Points from cleared episodes.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_24cf161287ef9d5c": {
+      "text": "　Difficulty: Normal  {c1}under 80%{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_8f60f6fc86db3107": {
+      "text": " of the SR Points from cleared episodes.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_b1de76a75a253c13": {
+      "text": "　　　　　　　　　　Funds for an enemy kill are {c1}x1.2 those on Hard{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_128c35bf3e0e394c": {
+      "text": "●At sortie, SP is {c1}half of max, rounded up{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_5213c17e13b23de0": {
+      "text": "●SP {c1}rises by 5 points every turn{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_38fdff9483e9245c": {
+      "text": ".",
+      "status": "imported"
+    },
+    "tutorial_hook:r_620fedec67706d7d": {
+      "text": "　{c1}1. The team's total kill count passes a multiple of 2.{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_9680dcd0fddcfcc7": {
+      "text": "　{c1}2. A unit's Main Pilot in the team levels up.{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_2a00f1044ad5cbaa": {
+      "text": "●For a Maximum Break, {c1}Sub ignores range and move-then restrictions{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_3dbeead1bd3164ef": {
+      "text": ".",
+      "status": "imported"
+    },
+    "tutorial_hook:r_98d15b8cc09bc915": {
+      "text": "●Damage dealt to the Maximum Break's target {c1}becomes x1.2 normal{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_46e86d000250e137": {
+      "text": "　{c1}Multi Action{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_ac341e7976e88f0b": {
+      "text": "　When your next attack wipes out the enemy team (leaves 0 units)",
+      "status": "imported"
+    },
+    "tutorial_hook:r_cdbd128a5b4127cc": {
+      "text": "　{c1}Bonus PP{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_cfccaa1fbeda124c": {
+      "text": "　　　PP gained on your next kill is doubled.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_b1f8ec192b9c083a": {
+      "text": "　{c1}Bonus Chip{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_a007f9ab9cf048b3": {
+      "text": "　　Z Chips gained on your next kill are doubled.",
+      "status": "imported"
+    },
+    "tutorial_hook:r_ddafde4b065ced49": {
+      "text": "　{c1}Charge SP{/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_de1213040856c089": {
+      "text": "　　　Restores the Main and Sub Units' Main Pilots' SP by",
+      "status": "imported"
+    },
+    "tutorial_hook:r_3304412ac41f47a6": {
+      "text": "　　{c1}Final damage dealt to enemy units becomes x1.05 (up to x1.25){/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_0c0775e051211840": {
+      "text": "　　{c1}Funds/Z Chips from downing an enemy become x1.05 (up to x1.25){/c}",
+      "status": "imported"
+    },
+    "tutorial_hook:r_a2afffe1c396f0b3": {
+      "text": "　Note: funds/EXP earned before a Game Over on that map {c1}carry over{/c}",
+      "status": "imported"
+    }
+  }
+}

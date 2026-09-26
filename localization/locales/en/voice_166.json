@@ -1,0 +1,762 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_166:r_479b340ccc6c572b": {
+      "text": "Ready to go!",
+      "status": "imported"
+    },
+    "voice_166:r_ca4acbac57a2a35e": {
+      "text": "This is the path I chose...!",
+      "status": "imported"
+    },
+    "voice_166:r_77949221bf58f862": {
+      "text": "This is Romeo 008! Moving out!",
+      "status": "imported"
+    },
+    "voice_166:r_70b9c4b9f1f37eff": {
+      "text": "Riddhe Marcenas, commencing combat!",
+      "status": "imported"
+    },
+    "voice_166:r_9fcb3754cb1773c7": {
+      "text": "There you are!",
+      "status": "imported"
+    },
+    "voice_166:r_3559d2fad32c2435": {
+      "text": "Come on, hit!",
+      "status": "imported"
+    },
+    "voice_166:r_f7570547e9f80a64": {
+      "text": "Don't dodge...!",
+      "status": "imported"
+    },
+    "voice_166:r_cbab0f4720e1fcf1": {
+      "text": "I'll shoot you down!",
+      "status": "imported"
+    },
+    "voice_166:r_0bbe0b4f5364e732": {
+      "text": "You shouldn't have come out!",
+      "status": "imported"
+    },
+    "voice_166:r_5dda5198137cb02a": {
+      "text": "If you're getting in my way!",
+      "status": "imported"
+    },
+    "voice_166:r_83ec59afbecdec14": {
+      "text": "I'll take down whoever's closest!",
+      "status": "imported"
+    },
+    "voice_166:r_e20bfd42ad95a3c9": {
+      "text": "You bastard!",
+      "status": "imported"
+    },
+    "voice_166:r_0f58a8822381e57f": {
+      "text": "If you won't back down!",
+      "status": "imported"
+    },
+    "voice_166:r_6dbcc507fb61b51d": {
+      "text": "I've got my pride too!",
+      "status": "imported"
+    },
+    "voice_166:r_b42ab697149a7c8a": {
+      "text": "I swore I'd see this through!",
+      "status": "imported"
+    },
+    "voice_166:r_4de4fcf3b440baf4": {
+      "text": "I'll make you acknowledge my skill!",
+      "status": "imported"
+    },
+    "voice_166:r_0121a166c715cdff": {
+      "text": "I'll use the Rezel's mobility!",
+      "status": "imported"
+    },
+    "voice_166:r_30fad37a42bd3ad3": {
+      "text": "I can do this in the Delta Plus!",
+      "status": "imported"
+    },
+    "voice_166:r_80a0b2a84e05d81a": {
+      "text": "They entrusted me with a new model!",
+      "status": "imported"
+    },
+    "voice_166:r_4a9ac1dff86506d9": {
+      "text": "I can't screw up in a Gundam!",
+      "status": "imported"
+    },
+    "voice_166:r_bc8538e6af3d2577": {
+      "text": "Even an antique can still fight!",
+      "status": "imported"
+    },
+    "voice_166:r_924516c8de2b5342": {
+      "text": "Saber!",
+      "status": "imported"
+    },
+    "voice_166:r_da1174533722333f": {
+      "text": "Am I too close...?!",
+      "status": "imported"
+    },
+    "voice_166:r_fdeb8162976e72c1": {
+      "text": "Even in close combat...!",
+      "status": "imported"
+    },
+    "voice_166:r_0fadb5c26df92b42": {
+      "text": "I'm charging in!",
+      "status": "imported"
+    },
+    "voice_166:r_ac6fe7838e95647b": {
+      "text": "I've got you in my sights...!",
+      "status": "imported"
+    },
+    "voice_166:r_77ca87eacd17ad52": {
+      "text": "Target locked!",
+      "status": "imported"
+    },
+    "voice_166:r_bf3244994760e535": {
+      "text": "Firing!",
+      "status": "imported"
+    },
+    "voice_166:r_aabfb21c9d069ce7": {
+      "text": "Got you!",
+      "status": "imported"
+    },
+    "voice_166:r_d4430bf362340b32": {
+      "text": "Go!",
+      "status": "imported"
+    },
+    "voice_166:r_6ff1323b355593e0": {
+      "text": "Damn you!",
+      "status": "imported"
+    },
+    "voice_166:r_b7b5625d7cd4282f": {
+      "text": "Here I go!",
+      "status": "imported"
+    },
+    "voice_166:r_36133ad73a73ef98": {
+      "text": "Hah!",
+      "status": "imported"
+    },
+    "voice_166:r_920740a0219c5085": {
+      "text": "Take this!",
+      "status": "imported"
+    },
+    "voice_166:r_a8451712c57c1a72": {
+      "text": "Right there!",
+      "status": "imported"
+    },
+    "voice_166:r_3633df5b7b8f47fa": {
+      "text": "Go down!",
+      "status": "imported"
+    },
+    "voice_166:r_52dfc56b14b93551": {
+      "text": "Hyaa!",
+      "status": "imported"
+    },
+    "voice_166:r_1b9b2aab5cb104da": {
+      "text": "First up!",
+      "status": "imported"
+    },
+    "voice_166:r_342044c706a2340f": {
+      "text": "With this!",
+      "status": "imported"
+    },
+    "voice_166:r_d5e0a2317c40d322": {
+      "text": "This is over!",
+      "status": "imported"
+    },
+    "voice_166:r_5d08ad19e2da125b": {
+      "text": "This is the finish!",
+      "status": "imported"
+    },
+    "voice_166:r_d6bdd730f24f66eb": {
+      "text": "Raaaaaagh!!",
+      "status": "imported"
+    },
+    "voice_166:r_9e0c80ac7e33b459": {
+      "text": "There you aaaaaare!!",
+      "status": "imported"
+    },
+    "voice_166:r_847f82e7f3eef651": {
+      "text": "You're still moving...!",
+      "status": "imported"
+    },
+    "voice_166:r_eb7ae28b53dc033c": {
+      "text": "This time, go down!",
+      "status": "imported"
+    },
+    "voice_166:r_857c4a52ce8df0fd": {
+      "text": "I'll do it as often as it takes!",
+      "status": "imported"
+    },
+    "voice_166:r_55417493fce1d347": {
+      "text": "With this thing's firepower...!",
+      "status": "imported"
+    },
+    "voice_166:r_7d724dbcc4451e10": {
+      "text": "I'll drop you with the launcher!",
+      "status": "imported"
+    },
+    "voice_166:r_24cf161287ef9d5c": {
+      "text": "Beam Confuse!",
+      "status": "imported"
+    },
+    "voice_166:r_8f60f6fc86db3107": {
+      "text": "If this works, it'll be some show!",
+      "status": "imported"
+    },
+    "voice_166:r_b1de76a75a253c13": {
+      "text": "The Red Comet's human too...!",
+      "status": "imported"
+    },
+    "voice_166:r_128c35bf3e0e394c": {
+      "text": "I'll defeat Char Aznable...!",
+      "status": "imported"
+    },
+    "voice_166:r_5213c17e13b23de0": {
+      "text": "If I take down Full Frontal...!",
+      "status": "imported"
+    },
+    "voice_166:r_38fdff9483e9245c": {
+      "text": "Even against Haman Karn,\\nI'll win!",
+      "status": "imported"
+    },
+    "voice_166:r_620fedec67706d7d": {
+      "text": "You're one of Frontal's lackeys!",
+      "status": "imported"
+    },
+    "voice_166:r_9680dcd0fddcfcc7": {
+      "text": "I'll crush the Sleeves here!",
+      "status": "imported"
+    },
+    "voice_166:r_2a00f1044ad5cbaa": {
+      "text": "Intercepting Neo Zeon!",
+      "status": "imported"
+    },
+    "voice_166:r_3dbeead1bd3164ef": {
+      "text": "You're still propping up Zeon?!",
+      "status": "imported"
+    },
+    "voice_166:r_98d15b8cc09bc915": {
+      "text": "Spacenoids only know extremism...!",
+      "status": "imported"
+    },
+    "voice_166:r_46e86d000250e137": {
+      "text": "Zeon remnants! Enough already...!",
+      "status": "imported"
+    },
+    "voice_166:r_ac341e7976e88f0b": {
+      "text": "In that outdated machine...!",
+      "status": "imported"
+    },
+    "voice_166:r_cdbd128a5b4127cc": {
+      "text": "A giant mobile armor is coming...!",
+      "status": "imported"
+    },
+    "voice_166:r_cfccaa1fbeda124c": {
+      "text": "I'm charging the battleship!",
+      "status": "imported"
+    },
+    "voice_166:r_b1f8ec192b9c083a": {
+      "text": "Leave the command unit to me!",
+      "status": "imported"
+    },
+    "voice_166:r_a007f9ab9cf048b3": {
+      "text": "Those moves...!\\nAn enhanced human?!",
+      "status": "imported"
+    },
+    "voice_166:r_ddafde4b065ced49": {
+      "text": "A machine for enhanced humans?!",
+      "status": "imported"
+    },
+    "voice_166:r_de1213040856c089": {
+      "text": "You monster! I'll take you on!",
+      "status": "imported"
+    },
+    "voice_166:r_3304412ac41f47a6": {
+      "text": "See a human's power, monster!",
+      "status": "imported"
+    },
+    "voice_166:r_0c0775e051211840": {
+      "text": "Can't let those things through...!",
+      "status": "imported"
+    },
+    "voice_166:r_13c25fbdfddc8a24": {
+      "text": "A soldier must repel the invaders!",
+      "status": "imported"
+    },
+    "voice_166:r_42ba1ecb310b4bd7": {
+      "text": "Destroy humanity?! Not on my watch!",
+      "status": "imported"
+    },
+    "voice_166:r_d692f1d420460a47": {
+      "text": "Banagher! Don't you recognize me?!",
+      "status": "imported"
+    },
+    "voice_166:r_a5643cec86b18bd2": {
+      "text": "I'm stopping you, Banagher...!",
+      "status": "imported"
+    },
+    "voice_166:r_68f2dfab20a4a30e": {
+      "text": "I don't want to attack!\\nUnderstand!",
+      "status": "imported"
+    },
+    "voice_166:r_9cedad8237480563": {
+      "text": "Can't go all out!\\nCan't ease up!",
+      "status": "imported"
+    },
+    "voice_166:r_a03fabecba1508ca": {
+      "text": "They move unlike all the others...!",
+      "status": "imported"
+    },
+    "voice_166:r_5391b24a71eb10ae": {
+      "text": "If I lose,\\nit was all in vain...!",
+      "status": "imported"
+    },
+    "voice_166:r_546c3d5937fbb7ee": {
+      "text": "The final battle...! I will win!",
+      "status": "imported"
+    },
+    "voice_166:r_1568ff6298b12b96": {
+      "text": "No mercy for people like you!",
+      "status": "imported"
+    },
+    "voice_166:r_2c9d94ba13c5fc50": {
+      "text": "War isn't some damn game!",
+      "status": "imported"
+    },
+    "voice_166:r_391aa56435d9dd6e": {
+      "text": "Wait!",
+      "status": "imported"
+    },
+    "voice_166:r_7c796ba53bd7ea03": {
+      "text": "Now it's my turn!",
+      "status": "imported"
+    },
+    "voice_166:r_fa944da4b6519006": {
+      "text": "Retreat and I'll chase you down!",
+      "status": "imported"
+    },
+    "voice_166:r_95d047bcc17fccc6": {
+      "text": "Now we're attacking!",
+      "status": "imported"
+    },
+    "voice_166:r_640327a12a559b31": {
+      "text": "I'll make this chance count!",
+      "status": "imported"
+    },
+    "voice_166:r_bdd38c584fa313d0": {
+      "text": "Strike back, or I'm just a target!",
+      "status": "imported"
+    },
+    "voice_166:r_3fd86c1027f317c8": {
+      "text": "You won't get away!",
+      "status": "imported"
+    },
+    "voice_166:r_d0372a183d2007ad": {
+      "text": "Attack me and you'll pay for it!",
+      "status": "imported"
+    },
+    "voice_166:r_217aa5e1d545b44d": {
+      "text": "I'll finish you here for certain!",
+      "status": "imported"
+    },
+    "voice_166:r_4e05581b7432cce8": {
+      "text": "We'll attack from our side too!",
+      "status": "imported"
+    },
+    "voice_166:r_a60b107ea3c36a86": {
+      "text": "If we work together...!",
+      "status": "imported"
+    },
+    "voice_166:r_e33693e5ba4665b0": {
+      "text": "Good, that's it! Banagher!",
+      "status": "imported"
+    },
+    "voice_166:r_72a21a1a489af001": {
+      "text": "Kamille, I'll back you up!",
+      "status": "imported"
+    },
+    "voice_166:r_eb643f8bf737a0ca": {
+      "text": "I'm here too, Captain Otto!",
+      "status": "imported"
+    },
+    "voice_166:r_0a3fccb71ec6cf2a": {
+      "text": "Captain Bright! I'm following you!",
+      "status": "imported"
+    },
+    "voice_166:r_9b63cf1f3e0207ef": {
+      "text": "Mind if I join you, Captain!",
+      "status": "imported"
+    },
+    "voice_166:r_8356f4e3dcdff938": {
+      "text": "Lieutenant! I'll handle the rest!",
+      "status": "imported"
+    },
+    "voice_166:r_1d6d784036ae0bd7": {
+      "text": "Leave the rest to me, Ensign!",
+      "status": "imported"
+    },
+    "voice_166:r_625664af02183c17": {
+      "text": "I'll support the Red Comet!",
+      "status": "imported"
+    },
+    "voice_166:r_3701cba361f80ea5": {
+      "text": "Hathaway, I'll take it from here!",
+      "status": "imported"
+    },
+    "voice_166:r_63f429c5c68c0863": {
+      "text": "That's it! Keep it up, Katz!",
+      "status": "imported"
+    },
+    "voice_166:r_38e4a434c91d8ef0": {
+      "text": "I can hear... music...?",
+      "status": "imported"
+    },
+    "voice_166:r_98ed411352a3a6ac": {
+      "text": "Moving in to cover you!",
+      "status": "imported"
+    },
+    "voice_166:r_4824bea6bab3af67": {
+      "text": "I'll take the hit...!",
+      "status": "imported"
+    },
+    "voice_166:r_862b92e63adb9734": {
+      "text": "You're pushing too far, Banagher!",
+      "status": "imported"
+    },
+    "voice_166:r_cb306ef55e49d107": {
+      "text": "Leave it to me, Kamille!",
+      "status": "imported"
+    },
+    "voice_166:r_57b2bd2de8a1408d": {
+      "text": "I'll protect the Nahel Argama!",
+      "status": "imported"
+    },
+    "voice_166:r_76f080a4881e8ab5": {
+      "text": "I won't let them hit the Ra Cailum!",
+      "status": "imported"
+    },
+    "voice_166:r_288133bc5b573dae": {
+      "text": "Go on without me, Captain...!",
+      "status": "imported"
+    },
+    "voice_166:r_6f95653e548f8fcf": {
+      "text": "You're too far ahead, Lieutenant!",
+      "status": "imported"
+    },
+    "voice_166:r_d249d68bada91ab9": {
+      "text": "Ensign! Get behind me!",
+      "status": "imported"
+    },
+    "voice_166:r_e9b3307e9eb69f11": {
+      "text": "What are you doing, Red Comet?!",
+      "status": "imported"
+    },
+    "voice_166:r_03cdac73042343ee": {
+      "text": "Don't make your dad grieve!",
+      "status": "imported"
+    },
+    "voice_166:r_6026da5acbda7c69": {
+      "text": "Run, Katz!",
+      "status": "imported"
+    },
+    "voice_166:r_981f8fedd5414fe5": {
+      "text": "I'll protect your melody!",
+      "status": "imported"
+    },
+    "voice_166:r_96bb0dcde0c8c44a": {
+      "text": "I can't hit back, only watch...!",
+      "status": "imported"
+    },
+    "voice_166:r_641550a2f54cb456": {
+      "text": "Now I'm just a sitting target...!",
+      "status": "imported"
+    },
+    "voice_166:r_a0f2074af8debbfa": {
+      "text": "Damn! Did I overwork the machine?!",
+      "status": "imported"
+    },
+    "voice_166:r_b5f5a97ed82acb0b": {
+      "text": "They slipped into my blind spot...!",
+      "status": "imported"
+    },
+    "voice_166:r_d9cd2e4ded064396": {
+      "text": "Is this loadout not enough...!",
+      "status": "imported"
+    },
+    "voice_166:r_99e6349431aaf23b": {
+      "text": "I'll dodge it!",
+      "status": "imported"
+    },
+    "voice_166:r_ec1081caf845f56a": {
+      "text": "This barely even counts!",
+      "status": "imported"
+    },
+    "voice_166:r_2c5b7ee872c1ed7f": {
+      "text": "Whew! Guess luck's on my side...!",
+      "status": "imported"
+    },
+    "voice_166:r_76d1e51c8b494a60": {
+      "text": "I can do this too!",
+      "status": "imported"
+    },
+    "voice_166:r_eb5f687fcd372ae7": {
+      "text": "I can't spare time to get hit!",
+      "status": "imported"
+    },
+    "voice_166:r_2329428a6871d9fa": {
+      "text": "Good! I'll keep drawing them in!",
+      "status": "imported"
+    },
+    "voice_166:r_0e7466971bec4cc4": {
+      "text": "You're too slow!",
+      "status": "imported"
+    },
+    "voice_166:r_efa71f7a4cc33ff3": {
+      "text": "Like that attack could ever hit me!",
+      "status": "imported"
+    },
+    "voice_166:r_3fc2e1186557e7a0": {
+      "text": "Don't underestimate me!",
+      "status": "imported"
+    },
+    "voice_166:r_fa6930340a545054": {
+      "text": "Good!\\nI can handle the Red Comet!",
+      "status": "imported"
+    },
+    "voice_166:r_2332b9d56461d7ab": {
+      "text": "If I can pin Frontal\\ndown here...!",
+      "status": "imported"
+    },
+    "voice_166:r_854aa0a91a3c80d1": {
+      "text": "So this is all the Sleeves can do!",
+      "status": "imported"
+    },
+    "voice_166:r_0bc8ae32a406ceab": {
+      "text": "At this level,\\nYou're Royal Guard?!",
+      "status": "imported"
+    },
+    "voice_166:r_82c09f011d703b2c": {
+      "text": "Give it up already, Neo Zeon!",
+      "status": "imported"
+    },
+    "voice_166:r_2b4d8818c77b6dca": {
+      "text": "Enhanced human or not...!",
+      "status": "imported"
+    },
+    "voice_166:r_087354f2db0a31e6": {
+      "text": "I won't lose to Zeon remnants!",
+      "status": "imported"
+    },
+    "voice_166:r_db02a2dec93dd263": {
+      "text": "I told you! That relic can't do it!",
+      "status": "imported"
+    },
+    "voice_166:r_b57d2d74233f889a": {
+      "text": "Without that shield, I'd be...!",
+      "status": "imported"
+    },
+    "voice_166:r_cd06d0820d82524b": {
+      "text": "This much is nothing!",
+      "status": "imported"
+    },
+    "voice_166:r_c94c6d04be583774": {
+      "text": "Damn! I failed to dodge it!",
+      "status": "imported"
+    },
+    "voice_166:r_e54e2c99ef8297af": {
+      "text": "Damn! My guard wasn't down...!",
+      "status": "imported"
+    },
+    "voice_166:r_f16a3eb0bcaac082": {
+      "text": "I fell for such a stupid trick...!",
+      "status": "imported"
+    },
+    "voice_166:r_10a408809e512df1": {
+      "text": "Damage check! ...No need after all!",
+      "status": "imported"
+    },
+    "voice_166:r_bc7b9e308b879dd4": {
+      "text": "Romeo 008!\\nFully combat capable!",
+      "status": "imported"
+    },
+    "voice_166:r_98902fd3143c393e": {
+      "text": "If it's useless, stay back!",
+      "status": "imported"
+    },
+    "voice_166:r_d907fbd7bc1c4298": {
+      "text": "I can't worry over minor damage...!",
+      "status": "imported"
+    },
+    "voice_166:r_96b21e3a028dd074": {
+      "text": "Ugh! What was that attack...!",
+      "status": "imported"
+    },
+    "voice_166:r_ce140b5d8e6b7310": {
+      "text": "Damn it! What the hell was that?!",
+      "status": "imported"
+    },
+    "voice_166:r_0e0335789c5396d7": {
+      "text": "I need more focus,\\nor I'm done...!",
+      "status": "imported"
+    },
+    "voice_166:r_a8e85bd950696403": {
+      "text": "Guh...! Did it pierce my armor?!",
+      "status": "imported"
+    },
+    "voice_166:r_772c8bc40ab6cb61": {
+      "text": "Damage check...! Moderate damage!",
+      "status": "imported"
+    },
+    "voice_166:r_58dd2826a199ef51": {
+      "text": "Romeo 008!\\nMission can continue!",
+      "status": "imported"
+    },
+    "voice_166:r_aadc0b2442adb93b": {
+      "text": "Damn! Changing tactical pattern!",
+      "status": "imported"
+    },
+    "voice_166:r_e7a8cd8ed5bc2d1b": {
+      "text": "I won't let you do any more!",
+      "status": "imported"
+    },
+    "voice_166:r_041dd920da4a7c17": {
+      "text": "This won't be enough to stop me!",
+      "status": "imported"
+    },
+    "voice_166:r_c7f4280cde4605b3": {
+      "text": "Guh...! Can't catch the Red Comet!",
+      "status": "imported"
+    },
+    "voice_166:r_ec349c8ea9511a18": {
+      "text": "Frontal...!\\nStronger than rumored!",
+      "status": "imported"
+    },
+    "voice_166:r_33236ffa3ea95b68": {
+      "text": "Haman Karn...! Such power!",
+      "status": "imported"
+    },
+    "voice_166:r_689d0b123de71ae0": {
+      "text": "Royal Guard...\\nNot just a title...!",
+      "status": "imported"
+    },
+    "voice_166:r_84883aa95f63ce32": {
+      "text": "Damn Sleeves...! Don't get cocky!",
+      "status": "imported"
+    },
+    "voice_166:r_25493e978ce8ff16": {
+      "text": "An enhanced human's too fast...!",
+      "status": "imported"
+    },
+    "voice_166:r_7316666150e42960": {
+      "text": "Neo Zeon won't\\nbe the end of me!",
+      "status": "imported"
+    },
+    "voice_166:r_c4f11aa93dc5b668": {
+      "text": "Has Zeon's hatred\\nconsumed you...?!",
+      "status": "imported"
+    },
+    "voice_166:r_ce1a22dfe3a4d339": {
+      "text": "That machine...! What tenacity...!",
+      "status": "imported"
+    },
+    "voice_166:r_f5658c702d91db7a": {
+      "text": "A two-rank promotion? Hell no...!",
+      "status": "imported"
+    },
+    "voice_166:r_686df329b50f195b": {
+      "text": "This gap...!\\nMachine or skill?!",
+      "status": "imported"
+    },
+    "voice_166:r_25f0ab0fa3cf690c": {
+      "text": "Ngh! If this keeps up, everyone...!",
+      "status": "imported"
+    },
+    "voice_166:r_b708a1d959013dbf": {
+      "text": "Hold...! No, I'll make you hold!",
+      "status": "imported"
+    },
+    "voice_166:r_59fca03e929366c1": {
+      "text": "Any more,\\nand each hit is fatal...!",
+      "status": "imported"
+    },
+    "voice_166:r_0d65eb631dcb7514": {
+      "text": "Damage is nearly past the limit...!",
+      "status": "imported"
+    },
+    "voice_166:r_d03018a31e23f1e9": {
+      "text": "Damn it! Am I not strong enough?!",
+      "status": "imported"
+    },
+    "voice_166:r_279da5f732aa8847": {
+      "text": "I can't save a thing!\\nI'm helpless!",
+      "status": "imported"
+    },
+    "voice_166:r_97f82e3cb6f70110": {
+      "text": "I...!\\nI won't let this be all I am!",
+      "status": "imported"
+    },
+    "voice_166:r_c5611d8dd6def96b": {
+      "text": "Aaaaaagh! Not here...!",
+      "status": "imported"
+    },
+    "voice_166:r_6f12cc8ed2732eb5": {
+      "text": "Damn! My only choice is retreat...!",
+      "status": "imported"
+    },
+    "voice_166:r_7abfc55f8fb62ba7": {
+      "text": "I'm so pathetic...!",
+      "status": "imported"
+    },
+    "voice_166:r_99e7a66c650b5892": {
+      "text": "The Delta Plus is going down...!",
+      "status": "imported"
+    },
+    "voice_166:r_5b2247b5cfbcd7b2": {
+      "text": "Th-The Juaggu...?!",
+      "status": "imported"
+    },
+    "voice_166:r_e09b933e3e706779": {
+      "text": "I'll drain whatever power I can!",
+      "status": "imported"
+    },
+    "voice_166:r_66236eb99b676e5b": {
+      "text": "There's no escape!",
+      "status": "imported"
+    },
+    "voice_166:r_9639a2dbcd2f58ed": {
+      "text": "Only one target!",
+      "status": "imported"
+    },
+    "voice_166:r_aeea0893acb93d35": {
+      "text": "I'll fire the opening shot!",
+      "status": "imported"
+    },
+    "voice_166:r_b31568654e53487b": {
+      "text": "So you're my opponent!",
+      "status": "imported"
+    },
+    "voice_166:r_2502132569141ea3": {
+      "text": "I'll start with one!",
+      "status": "imported"
+    },
+    "voice_166:r_1ff312798a52c8eb": {
+      "text": "I'll live up to your expectations!",
+      "status": "imported"
+    },
+    "voice_166:r_fa07d90fca62f593": {
+      "text": "I'll get the job done!",
+      "status": "imported"
+    },
+    "voice_166:r_a25bf2676ecf9d83": {
+      "text": "I can block this completely!",
+      "status": "imported"
+    },
+    "voice_166:r_237a0288b42dce20": {
+      "text": "Like I'd let that hurt me!",
+      "status": "imported"
+    },
+    "voice_166:r_11517cc7b0494dbf": {
+      "text": "I-Field...! Nice!",
+      "status": "imported"
+    }
+  }
+}

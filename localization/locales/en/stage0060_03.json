@@ -1,0 +1,1206 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0060_03:r_caaab7bad760e16d": {
+      "text": "$$敷島$$ Residence, Living Room",
+      "status": "imported"
+    },
+    "stage0060_03:r_99b162aa6aa286a2": {
+      "text": "$$敷島$$ Residence, Living Room",
+      "status": "imported"
+    },
+    "stage0060_03:r_58fb02434a1c40b2": {
+      "text": "$$敷島$$ Residence, Living Room",
+      "status": "imported"
+    },
+    "stage0060_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　　\n　　　　　　　　　　～ $$敷島$$ Residence Living Room ～",
+      "status": "imported"
+    },
+    "stage0060_03:r_1263541f4071624e": {
+      "text": "$$マッキー$$\n「Welcome home, $$正太郎$$.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_3bc300bbdc277d82": {
+      "text": "$$正太郎$$\n「I'm home, $$マッキー$$.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_38762a09460d8b6b": {
+      "text": "$$マッキー$$\n「Sounds like it's been rough on you.\n　And on the last day of summer break, no less.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_7ab28e70b4d4f641": {
+      "text": "$$正太郎$$\n「A lot happened.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$正太郎$$\n（I can't tell $$マッキー$$ about\n　$$エタニティ・フラット$$ or $$バアル$$...）",
+      "status": "imported"
+    },
+    "stage0060_03:r_ec335e69f984b8b3": {
+      "text": "$$正太郎$$\n（For $$マッキー$$ and everyone living in peace,\n　I have to protect the Earth, no matter what）",
+      "status": "imported"
+    },
+    "stage0060_03:r_0abcaf0c31978670": {
+      "text": "$$マッキー$$\n「What's wrong, $$正太郎$$?\n　You've got quite the serious look...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_1d6bc48b7f246730": {
+      "text": "$$正太郎$$\n「It's nothing.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_1af20fccc3c53cfc": {
+      "text": "$$マッキー$$\n「$c's got the day off, right?\n　Let's go have some fun somewhere.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_f951916061232dcd": {
+      "text": "$$正太郎$$\n「Sorry, $$マッキー$$.\n　I've got maintenance to do on $$鉄人$$\n　and $$ブラックオックス#robot$$ now.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_4d863c3fb88a4c39": {
+      "text": "$$敷島$$\n「I'll handle that myself,\n　so go enjoy yourself today, $$正太郎$$.\n　It's the last day of summer break, after all.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_44f4742c3dcce39a": {
+      "text": "$$正太郎$$\n「Thank you, Doctor.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_9e701cdeb3842c21": {
+      "text": "$$マッキー$$\n「So where should we go?\n　Amusement park, aquarium... or shopping?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_6fd81f4abebe60c5": {
+      "text": "$$正太郎$$\n「Hmm... let's see...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_da2132b5038ec737": {
+      "text": "$$グーラ$$\n「I shall intrude.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_495d61d3ec7e16f2": {
+      "text": "$$正太郎$$\n「$$グーラ$$!?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_5cd353758cfe474d": {
+      "text": "$$マッキー$$\n「No way...!\n　How did you get into the house!?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_a653c8dec4c0f06f": {
+      "text": "$$グーラ$$\n「A feat this trivial is nothing to me.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_86d493e37a9799a7": {
+      "text": "$$敷島$$\n「Get back, Makiko!\n　$$正太郎$$, call $$鉄人$$!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_09d0fcc600cdd3df": {
+      "text": "$$正太郎$$\n「Wait, Doctor.\n　$$グーラ$$ isn't here to fight.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_182faded068c15ed": {
+      "text": "$$敷島$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_9c206d19bfda4bd5": {
+      "text": "$$正太郎$$\n「Right, $$グーラ$$?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_6e558bc69acf5bf3": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_d60d0818e965232f": {
+      "text": "$$正太郎$$\n「Perfect timing.\n　Come along with us.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_5b23687574286204": {
+      "text": "$$グーラ$$\n「Where to?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_6fd86c96891ea942": {
+      "text": "$$正太郎$$\n「Today's the last day of summer break.\n　Come have some fun with us too.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_43e4e548c0b28376": {
+      "text": "$$グーラ$$\n「Play...?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_d80a9688790ed583": {
+      "text": "Beach",
+      "status": "imported"
+    },
+    "stage0060_03:r_708bea61e3c43ada": {
+      "text": "Beach",
+      "status": "imported"
+    },
+    "stage0060_03:r_7b6f159eeaf4de0f": {
+      "text": "Beach",
+      "status": "imported"
+    },
+    "stage0060_03:r_0827963cfd706e8d": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$ワッ太$$\n「So that's why you brought him along?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_3f4035fd9db81258": {
+      "text": "$$正太郎$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_567b361a454c4b73": {
+      "text": "$$ワッ太$$\n「I worked my tail off to finish my homework,\n　and now I'm babysitting him on break's last day...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_d22851aaafbbf8fc": {
+      "text": "$$正太郎$$\n「But I think this could be a chance.\n　Maybe this means we won't have to\n　fight $$グーラ$$ after all.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_352534f64413d954": {
+      "text": "$$タケル$$\n「That's fine, $$正太郎$$.\n　$$グーラ$$ slept for 12,000 years, then his father,\n　the $$宇宙魔王#pilot$$ ordered him to conquer Earth.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_79f2664edb1af798": {
+      "text": "$$タケル$$\n「He probably doesn't know anything but fighting.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$正太郎$$\n「Right.\n　So if he learns there's more to life\n　than fighting, I think he'll stop.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_1c5aa0d15ae24846": {
+      "text": "$$ワッ太$$\n「I wonder if this'll work...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_53bb64ee17750ee2": {
+      "text": "$$タケル$$\n「No need to worry.\n　$$グーラ$$ has no hostility in him right now.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_7a7add80fde475ba": {
+      "text": "$$タケル$$\n「Besides, didn't you just learn\n　not to judge others on your own assumptions?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_b2befefdbed1393d": {
+      "text": "$$ワッ太$$\n「That's not what I'm worried about.\n　I mean whether $$グーラ$$'ll actually enjoy it.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_2103f6df2ea2e447": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_a12e3e130d896ff7": {
+      "text": "$$マッキー$$\n「Come on, $$グーラ$$.\n　Let's pick up trash on the beach with everyone.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_b6f7b219eb4bd64b": {
+      "text": "$$グーラ$$\n「Just what is this act, exactly?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_91bf33c27ad39f0a": {
+      "text": "$n\n「It's volunteering.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_ee220318b96ab538": {
+      "text": "$$グーラ$$\n「Volunteering?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_ce1b55e526b6277a": {
+      "text": "$n\n「You learned Earth's language in cryosleep,\n　right? Don't play dumb about not knowing.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_c304df6888eb78f7": {
+      "text": "$$グーラ$$\n「Volunteer work...\n　Serving society and the weak without self-interest.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_c26958634526e597": {
+      "text": "$$スズネ$$\n「That's right, $$グーラ$$.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_cdb750c9d380881a": {
+      "text": "$n\n「Picking up beach trash is a regular activity\n　for our Volunteer Club. You're helping too.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_95fda74613c97b39": {
+      "text": "$$トウジ$$\n「Still, this ain't how ya spend break's last day...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_1956994937f8171e": {
+      "text": "$$ケンスケ$$\n「Seriously.\n　I had a bad feeling the moment $n\n　suddenly called us all together...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_48f49f6728c15612": {
+      "text": "$$トウジ$$\n「He seems cool an' collected,\n　but that guy's surprisingly hot-blooded.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$シンジ$$\n「But still... I don't like leaving\n　the pretty blue sea all dirty like this...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_f02c37d91387d0ad": {
+      "text": "$$アスカ$$\n「What a lame honor-student thing to say.\n　Real hypocrite talk, that is.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$シンジ$$\n「A hypocrite...?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_9796b3efa401a303": {
+      "text": "$$レイ#333$$\n「Ikari... are you done over here?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_643b6eebfc0186b3": {
+      "text": "$$シンジ$$\n「Yeah.\n　Just that block over there left.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_291280e5f7eb9d70": {
+      "text": "$$ケンスケ$$\n「Kinda got a nice vibe going on.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_32eb462c1b4999cb": {
+      "text": "$$ヒカリ$$\n「Really...\n　Never thought Ayanami would join in like this...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_1f4337d6d393fc37": {
+      "text": "$$アスカ$$\n「Fine by me!\n　If Daddy's Boy and Teacher's Pet are teaming up,\n　then I'll just do it solo!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_4740e748fae085ee": {
+      "text": "$$スズネ$$\n「Heh... well, looks like $$アスカ$$'s fired up too.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_b76524cd840e1d37": {
+      "text": "$$グーラ$$\n「How pointless...\n　An act like this is mere self-satisfaction.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_730ffe18400abfc2": {
+      "text": "$n\n「Don't say that.\n　Doesn't it feel good to see the sea get clean?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_ffe0fca26da5cd38": {
+      "text": "$$グーラ$$\n「Have you forgotten?\n　It was you Earthlings who dirtied this sea\n　that's supposed to be so clean.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_bfb27f9eb2f7073e": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_859dfa27bcaafe30": {
+      "text": "$$グーラ$$\n「It's hot here...\n　Never mind.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_71ebf05996a4b0fd": {
+      "text": "$n\n「$$グーラ・キング・Ｊｒ．$$, huh...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_6214c11b1bca811e": {
+      "text": "$$スズネ$$\n「Seems like a tough opponent...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_8eaf6f3098ffed12": {
+      "text": "$$ドラゴンズハイヴ$$ Salon",
+      "status": "imported"
+    },
+    "stage0060_03:r_cf507214fe955d75": {
+      "text": "$$ドラゴンズハイヴ$$ Salon",
+      "status": "imported"
+    },
+    "stage0060_03:r_2113dcbabdfc758a": {
+      "text": "$$ドラゴンズハイヴ$$ Salon",
+      "status": "imported"
+    },
+    "stage0060_03:r_4b0e43ba6a5f2f5b": {
+      "text": "　\n　　\n　　　　　　　　～ $$ドラゴンズハイヴ$$ Salon ～",
+      "status": "imported"
+    },
+    "stage0060_03:r_6a74519e1fc29c4b": {
+      "text": "$$甲児$$\n「Done! These are $$兜甲児$$'s special Rust Hurricane croquettes.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_5b992878fee054b5": {
+      "text": "$$さやか$$\n「They look big and delicious!\n　...But what about these is 'Rust Hurricane'?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$ボス$$\n「You'll get it once you eat one!\n　Time to dig in!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_4a14ec0c511c7f0d": {
+      "text": "$$ヌケ$$\n「Whoa!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_20cf167c0ec0d4d5": {
+      "text": "$$ムチャ$$\n「Hot wind's blasting out of the batter!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_b591d812c96c6c99": {
+      "text": "$$ボス$$\n「Now that's a real Rust Hurricane!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_e350fa099c1ab072": {
+      "text": "$$甲児$$\n「Surprised?\n　This is my ultimate dish.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$ジョニー$$\n「Nicely done, $$甲児$$.\n　Next up is my dish.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_c33bd700553abf91": {
+      "text": "$$ジョニー$$\n「I call it Nova Elephant-style Wild Meat.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_feee5c91826230e1": {
+      "text": "$$朔哉$$\n「Wait, this is just...\n　A whole roasted bone-in leg of meat!?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_bccc48e1964ad22d": {
+      "text": "$$エイーダ$$\n「Lovely...\n　The classic cartoon drumstick, I take it.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_f8736aaaa216c766": {
+      "text": "$$ジョニー$$\n「It's a perennial favorite in 'Monthly:\n　A Man's Cooking,' too. Too bad it's not real\n　elephant or mammoth, but it's etched in our DNA.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_d1ec2522c87c361d": {
+      "text": "$$甲児$$\n「As expected, $$ジョニー$$.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_3599f0a4343fd95c": {
+      "text": "$$ジョニー$$\n「No, no... $$甲児$$'s wild imagination\n　caught me off guard too.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_3bc7834a5bf3ee76": {
+      "text": "$$葵$$\n「Still, this is supposed to be a nice meal,\n　but it's been one oddball dish after another.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_366814efdc8b5800": {
+      "text": "$$くらら$$\n「Well then, let's bring out the main event.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_9be1a4c10bb62515": {
+      "text": "$$郁絵$$\n「Sorry for the wait.\n　Here's nikujaga and fried chicken.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_94a88c90e557e16e": {
+      "text": "$$赤木$$\n「Been waiting for this, $$郁絵$$!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_1c208ca0cbf26f28": {
+      "text": "$$田中司令$$\n「Ahh... classics like this really\n　hit you right in the stomach and heart.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_5b7ee307a700171a": {
+      "text": "$$青山$$\n「And the taste is top-notch.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_8d8f065c932da30a": {
+      "text": "$$郁絵$$\n「Thank you.\n　This is all thanks to $$シンジ$$'s help too.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_f5432119677514f7": {
+      "text": "$$アスカ$$\n「Daddy's Boy did?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_4e5c8e989c4a7691": {
+      "text": "$$シンジ$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_adec86483b13599a": {
+      "text": "$$ミサト$$\n「This is delicious, $$シンジ$$-chan.\n　Next time, mind if I request German potatoes\n　and fried squid rings, just for me?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_2cf701bbcde3ec13": {
+      "text": "$$スズネ$$\n「Both are perfect drinking snacks.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_c17c58fdba72005e": {
+      "text": "$$ミサト$$\n「Before beer season ends,\n　I've gotta enjoy it to the fullest.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_1fe8564d2b959317": {
+      "text": "$$正太郎$$\n「Here, $$グーラ$$...\n　This is Earth cuisine.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_f527e012803f7f1c": {
+      "text": "$$ワッ太$$\n「Just try it.\n　Any of it...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_4b1247bd3ca4905d": {
+      "text": "$$厚井$$\n「So goooooood!!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_00c55e25f87b71d0": {
+      "text": "$$木下$$\n「Whoa!\n　The Managing Director's glowing and growing\n　huge as he savors it! ...Or so it feels!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_338f3b27e51dcc41": {
+      "text": "$$グーラ$$\n「None of it interests me.\n　A meal is nothing more than intake of nutrients.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_d91d4bc2d52b61c4": {
+      "text": "$$ワッ太$$\n「You...!\n　Everyone went through the trouble of cooking\n　this, and you won't even take one bite!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_0c8ea89b07432421": {
+      "text": "$$正太郎$$\n「Don't, $$ワッ太$$!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_4dbfba00ba7744ee": {
+      "text": "$$ワッ太$$\n「But still...!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_be100a32b731708d": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_702f82442fcec8a9": {
+      "text": "$$竜馬$$\n「Looks like it'll take more than\n　the ordinary to get this guy fired up.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_b1e38da4e8775ffe": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0060_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0060_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0060_03:r_3dad695c99e9e052": {
+      "text": "　\n　　\n　　　　　　　　～ $$ドラゴンズハイヴ$$ Hangar ～",
+      "status": "imported"
+    },
+    "stage0060_03:r_66d4ae3a21caf881": {
+      "text": "$$隼人$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_0c18da7b3a37825d": {
+      "text": "$$弁慶$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_63249745ffae61b6": {
+      "text": "$$キタン$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_abdb034ae8509702": {
+      "text": "$$ヴィラル$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_3ff2e21207d1d1d3": {
+      "text": "$$グーラ$$\n「...what is the meaning of this?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_e51ecf6d6aa42e75": {
+      "text": "$$竜馬$$\n「Isn't it obvious?\n　We fight.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_47ddabb7b60131c2": {
+      "text": "$$シモン$$\n「Nothing gets a man's blood up like this.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_b025267f22788233": {
+      "text": "$$竜馬$$\n「Watch this, $$グーラ$$!\n　Right here, $c decides\n　its toughest fighter!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_ec1a06a7023bf72c": {
+      "text": "$$セイミー$$\n「Nice, nice!\n　$c's midsummer brawl festival!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_8805f96e52aaa462": {
+      "text": "$$ルゥ$$\n「Commentary's by me, $$ルゥ・リルリ$$,\n　and $$セイミー$$.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_124591cb154fae64": {
+      "text": "$$田中司令$$\n「And now... FIGHT!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$竜馬$$\n「Hyah!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_4bf9b05b5f948170": {
+      "text": "$$キタン$$\n「Too soft, $$竜馬$$!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_eaa52d152f444bfd": {
+      "text": "$$弁慶$$\n「And you're wide open, $$キタン$$!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_b4bc9e9435b58e6f": {
+      "text": "$$ヴィラル$$\n「$$隼人$$...!\n　I've always wanted to go all out against you!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_a9227573166977a9": {
+      "text": "$$隼人$$\n「I'm honored, $$ヴィラル$$.\n　But I'll show you the difference in skill.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_b0600ab9a9e8559d": {
+      "text": "$$竜馬$$\n「$$甲児$$, $n!\n　You two get in here too!!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_7cbc63dad295f862": {
+      "text": "$$シモン$$\n「Let's work up a good sweat!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_07f53c816e0a51f5": {
+      "text": "$n\n「Then, if you insist...!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_2d09c6f6a2d990ea": {
+      "text": "$$甲児$$\n「Here I goooo!!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_3c5fcfc484a51913": {
+      "text": "$$スズネ$$\n「T-that's not exactly a wholesome mood...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_0476ffd10c764b0e": {
+      "text": "$$マッキー$$\n「Less like it's for $$グーラ$$'s sake,\n　more like they're enjoying it...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$正太郎$$\n「How is it, $$グーラ$$...?\n　Feel anything?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_2b3479c4cf0680f4": {
+      "text": "$$グーラ$$\n「My body's starting to heat up...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_e370696b8936b08c": {
+      "text": "$$ワッ太$$\n「Yes!\n　Looks like it's working!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_9d7b02c5e728b7aa": {
+      "text": "$$グーラ$$\n「Earth's warriors, with all that power,\n　bowing before the name\n　of $$グーラ・キング・Ｊｒ．$$, that is.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_9af213fc64e0afec": {
+      "text": "$$ギミー$$\n「Stop!\n　$$竜馬$$, that's backfiring!!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_d7f1c506e78e55ff": {
+      "text": "$$ダリー$$\n「No good...!\n　He's not listening to a word we say!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_0c705091f748360e": {
+      "text": "$$ヨーコ$$\n「Leave it to that bunch,\n　and, well, this is what you get.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_9eb8599304125b2f": {
+      "text": "$$葵$$\n「Honestly... men are such idiots.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_a072aa25e5f521e0": {
+      "text": "$$正太郎$$\n「But I can't think of anything else\n　that might interest $$グーラ$$.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_24e1a808a1609a1a": {
+      "text": "$$ヨーコ$$\n「Relax, $$正太郎$$.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_53128ce8f154fd06": {
+      "text": "$$ミサト$$\n「It's a bit of a cheat, but\n　there's a trick that works on any boy.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_03b5db9ce98fb8d6": {
+      "text": "$$スズネ$$\n「$$ミサト$$... you're still drunk, aren't you.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_3915fb4102f1c1dd": {
+      "text": "$$ドラゴンズハイヴ$$ Salon",
+      "status": "imported"
+    },
+    "stage0060_03:r_817b2773b4ed563e": {
+      "text": "$$ドラゴンズハイヴ$$ Salon",
+      "status": "imported"
+    },
+    "stage0060_03:r_1cc233cbc8c80af7": {
+      "text": "$$ドラゴンズハイヴ$$ Salon",
+      "status": "imported"
+    },
+    "stage0060_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_e180b22d18f48d38": {
+      "text": "$$ミサト$$\n「Thank you for waiting, Prince $$グーラ$$!\n　Here come $c's Team Earth girls!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_e598c2a0b27e7f50": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_4d2a9066c4e7b27f": {
+      "text": "$$ミサト$$\n「Leading off, a captivating ex-idol!\n　$$エイーダ・ロッサ$$!!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_10340119af3ed6db": {
+      "text": "$$エイーダ$$\n「Your heart's mine at first strike! Mwah!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_23a9c7ab620ab112": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_4f0aca6deda07883": {
+      "text": "$$ミサト$$\n「Next, a top racer and top model!\n　Beauty and skill both, $$飛鷹葵$$!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_8fe40600ce62dfbc": {
+      "text": "$$葵$$\n「Hi there, $$グーラ$$!\n　Enjoy the show!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_ff4ce5f3cf96b617": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_d73c21f119847e35": {
+      "text": "$$ミサト$$\n「Next up, still hugely popular,\n　the tsundere girl, $$式波・アスカ・ラングレー$$!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_89766f5ffaa912d4": {
+      "text": "$$アスカ$$\n「What is with that catchphrase!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$トウジ$$\n「Tsundere...?\n　She's got no such cute side.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_451f726d4299ea35": {
+      "text": "$$ケンスケ$$\n「Hard to imagine, but...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_e3d111e8bb190cb1": {
+      "text": "$$青山$$\n「Judging a girl by looks alone,\n　you two still have a lot to learn.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_7c0d3c51f9a11ca0": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_ab97c2b2418ea732": {
+      "text": "$$ミサト$$\n「Now, the favorite!\n　A dynamite body, an envoy from the new world,\n　$$ヨーコ$$ the Sniper!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_2ddff5064af78db4": {
+      "text": "$$ヨーコ$$\n「I'll shoot your heart too.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_050d0532c4b24bfe": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_d583fcea31bdad2e": {
+      "text": "$$ミサト$$\n「If even this fails, we go niche!\n　A retro gym-uniform girl who crossed dimensions!\n　$$タカヤ・ノリコ$$!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_475f7653621a91b5": {
+      "text": "$$ノリコ$$\n「$$ノリコ$$, going in!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_f228ae702350849b": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_d69dc027cba3003f": {
+      "text": "$$葵$$\n「Even after all that, it's no good!?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_3c3735172a480b72": {
+      "text": "$$エイーダ$$\n「If it's come to this!\n　We'll have to go with a motherly approach!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_1f418b5594cea300": {
+      "text": "$$ミサト$$\n「Which means, finally, my...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_f87fb889124bfaef": {
+      "text": "$$ノリコ$$\n「Miss $$スズネ$$, over to you!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_79c90de32a79212d": {
+      "text": "$$スズネ$$\n「Eh... me!?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_33f7fd55913419e8": {
+      "text": "$$葵$$\n「What matters is 'motherly',\n　and if someone old enough to be a real mom\n　shows up, that's not funny anymore.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_473d9a88b4ca96e7": {
+      "text": "$$ミサト$$\n「Hey, $$葵$$!\n　What's that supposed to mean!?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_4de6ac85c63bac12": {
+      "text": "$$グーラ$$\n「...pathetic.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_4c92652c9b1adf6f": {
+      "text": "$$ミサト$$\n「A boy with no interest in women...!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_ce90563a934d49fb": {
+      "text": "$$赤木$$\n「What the hell are we supposed to do!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_4fb296e63cb1fb46": {
+      "text": "$$グーラ$$\n「Trying to teach me the folly of battle\n　was pointless from the start.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_6d77e72dbbcd7dfe": {
+      "text": "$$ワッ太$$\n「Hate to say it, but you're right!\n　It's the last day of summer break,\n　and we wasted it!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_9dc59affd40f32fc": {
+      "text": "$$グーラ$$\n「How carefree.\n　The true last day is still to come.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_0cea115be526a319": {
+      "text": "$$タケル$$\n「So, you all knew about\n　$$エタニティ・フラット$$ too...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_d36072babd12aeb4": {
+      "text": "$$正太郎$$\n「$$グーラ$$, hear me out.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_09ee921a85025fd3": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_fae689f2a1057b61": {
+      "text": "$$正太郎$$\n「As you know, this world is in danger.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_91c6d0bb53854ecc": {
+      "text": "$$グーラ$$\n「So?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_42a3149105314ab8": {
+      "text": "$$正太郎$$\n「$$宇宙魔王#pilot$$ has power that transcends dimensions...\n　We need that power to break the Prison of Time.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_62ecd978c667bd29": {
+      "text": "$$グーラ$$\n「Why must I cooperate with Earthlings?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_d441e6cc908ac01b": {
+      "text": "$$ワッ太$$\n「You've got some nerve!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_b2aab8873350ea1f": {
+      "text": "$$グーラ$$\n「Besides, wouldn't it suit Earth better\n　if I stayed inside the Prison of Time?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_2c7af4c55d8ac938": {
+      "text": "$$グーラ$$\n「The 12,000-year cycle is about to close, after all.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_653b741d07545dff": {
+      "text": "$$タケル$$\n「The 12,000-year cycle...!?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_d584d4b5af55b1cf": {
+      "text": "$n\n「The same words $$ロジャー$$ said...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_db0ee69ece206fcd": {
+      "text": "$$グーラ$$\n「So you knew too.\n　You have some wits after all.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_f97e6925c9e37332": {
+      "text": "$$正太郎$$\n「$$グーラ$$...\n　What is the 12,000-year cycle?\n　And how does it relate to the Prison of Time?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_422861e0b8d77d0c": {
+      "text": "$$グーラ$$\n「That's not something you need to know.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_ef16bcaa2b0e0c45": {
+      "text": "$$正太郎$$\n「$$グーラ$$!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_2b93cca10f1c36a8": {
+      "text": "$$グーラ$$\n「Playtime's over, $$正太郎$$.\n　I will defeat you all...!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_7980fd37141d88d0": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0060_03:r_ac21212c36d2b9ad": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0060_03:r_a26e2108358af7a4": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0060_03:r_a8118b2e37aa1382": {
+      "text": "　\n　　\n　　　　　　　　～ $$ドラゴンズハイヴ$$ Hangar ～",
+      "status": "imported"
+    },
+    "stage0060_03:r_017a56991b7b8ca4": {
+      "text": "$$タケル$$\n「$$宇宙魔王#pilot$$, the black hole incarnate...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_ad3e1db3419665fb": {
+      "text": "$$シモン$$\n「I thought I understood, but\n　somewhere, we underestimated his power...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_0149e3a5f2e5ef78": {
+      "text": "$$竜馬$$\n「Damn it!!!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_3ad10e705167a3fa": {
+      "text": "$$隼人$$\n「Calm down, $$竜馬$$.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_bdc546b199c80996": {
+      "text": "$$竜馬$$\n「Shut up!\n　How am I supposed to stay quiet!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_22c8caf8c08c5119": {
+      "text": "$$竜馬$$\n「The enemy showed us mercy!\n　Is there any greater humiliation!!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_9c13714b3efbc7a8": {
+      "text": "$$隼人$$\n「Even so, we kept our lives.\n　We haven't lost completely.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_96f156e19b53fc09": {
+      "text": "$$竜馬$$\n「But still!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_feb0390bba7fe1fb": {
+      "text": "$$弁慶$$\n「Stop it, $$竜馬$$.\n　Think about how $$正太郎$$ feels.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_8a78bcec22029401": {
+      "text": "$$正太郎$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_f42017dfce31dea9": {
+      "text": "$$竜馬$$\n「...sorry, $$正太郎$$.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_ef7426919f628d8a": {
+      "text": "$$正太郎$$\n「It's all right, $$竜馬$$.\n　I'm just as frustrated as you are.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_9e994a4b926d9906": {
+      "text": "$$正太郎$$\n「But today's battle made up my mind.\n　I'll settle things with $$グーラ$$ myself.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_ffae76d2a77abf5a": {
+      "text": "$$ワッ太$$\n「You mean you're gonna fight him!?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_3ac462d37e5893ff": {
+      "text": "$$正太郎$$\n「...I don't know.\n　But I won't give up till the end.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_fd6bdf7910d7d925": {
+      "text": "$$マッキー$$\n「$$正太郎$$...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_d38be46e6cd7a5e5": {
+      "text": "$n\n「Still, $$宇宙魔王#pilot$$'s power is on another level.\n　He could send more $$インベーダー#keyword$$s our way,\n　like he did today.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_3fe2078328753c16": {
+      "text": "$$ワッ太$$\n「With his power,\n　even the Prison of Time could be broken.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_c66844158d1ce600": {
+      "text": "$$タケル$$\n「If we knew his power's true nature, we could plan...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_d037ecbc1e348dc9": {
+      "text": "$$敷島$$\n「About that, I've formed my own\n　hypothesis on what $$宇宙魔王#pilot$$ really is.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_bcd53d14c4785426": {
+      "text": "$$正太郎$$\n「Please, tell us, Doctor.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_9ca55ea7feca954a": {
+      "text": "$$敷島$$\n「The source of $$宇宙魔王#pilot$$'s power...\n　It must be $$次元力$$, after all.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_554ae12c4c170253": {
+      "text": "$$ヨーコ$$\n「$$次元力$$...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_fa59c6df081e6ae4": {
+      "text": "$$キタン$$\n「So, what... he's a $$スフィア・リアクター$$\n　like Crowe and Land!?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_ca3edf3b8b52aedf": {
+      "text": "$$敷島$$\n「Not quite that, I'd say,\n　but something close to it.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_aa5d235c78ebe19f": {
+      "text": "$$敷島$$\n「$$宇宙魔王#pilot$$ likely fused with a black hole,\n　becoming one who freely draws out its $$次元力$$.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_0b3b19cddb871f90": {
+      "text": "$$隼人$$\n「I see...\n　$$次元力$$ originates from stars, after all...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_304e98dac43c9333": {
+      "text": "$$隼人$$\n「So a black hole, a star's final form,\n　is a mass of $$次元力$$ too.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_b740d817a14afd3a": {
+      "text": "$$タケル$$\n「Then how does $$宇宙魔王#pilot$$\n　draw out a black hole's $$次元力$$?\n　Is he using a system like a $$スフィア$$?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_40e4c010d1b35b4c": {
+      "text": "$$敷島$$\n「That much is unclear.\n　But if it's $$次元力$$ he's using,\n　there are ways to deal with it.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_c33abf00683a32bc": {
+      "text": "$$隼人$$\n「$$次元力$$ against $$次元力$$...\n　The same kind of power could seal his too」",
+      "status": "imported"
+    },
+    "stage0060_03:r_3036adce91d1f4a8": {
+      "text": "$$ワッ太$$\n「But how are we gonna do that!?\n　Crowe and the others aren't even in this world!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_019293cb83599509": {
+      "text": "$n\n「So basically, all we need is that $$スフィア$$」",
+      "status": "imported"
+    },
+    "stage0060_03:r_9b949b9281aaeef1": {
+      "text": "$$シモン$$\n「Easy to say, but Crowe and the others aren't here...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_b39a1dd705fe6cbf": {
+      "text": "$n\n「What we need to do is settled.\n　The target is him」",
+      "status": "imported"
+    },
+    "stage0060_03:r_c9016e3ab05470b0": {
+      "text": "$$タケル$$\n「Bickering twins...\n　Geminis's $$ガドライト・メオンサム$$, huh」",
+      "status": "imported"
+    },
+    "stage0060_03:r_a684e6cea428e518": {
+      "text": "$n\n「Yeah...\n　With his $$スフィア$$, we could fight the\n　$$宇宙魔王#pilot$$ evenly, and break the Prison of Time」",
+      "status": "imported"
+    },
+    "stage0060_03:r_cf907a4d5de8b5c9": {
+      "text": "$$弁慶$$\n「A simple answer, huh」",
+      "status": "imported"
+    },
+    "stage0060_03:r_a5774604a0f00702": {
+      "text": "$$竜馬$$\n「They've got it in for us.\n　They'll come at us whether we like it or not」",
+      "status": "imported"
+    },
+    "stage0060_03:r_b4fa30f33e84207f": {
+      "text": "$n\n「Next time they show up...\n　that'll be our chance too」",
+      "status": "imported"
+    },
+    "stage0060_03:r_9133b7e0b34de48f": {
+      "text": "$$ワッ太$$\n「There's still hope!\n　No time to mope, $$正太郎$$!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_4ae9c4bd77494c4a": {
+      "text": "$$正太郎$$\n「Yeah...!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_7313331f4077d255": {
+      "text": "$$正太郎$$\n（$$グーラ$$...\n　I'll never give up）",
+      "status": "imported"
+    },
+    "stage0060_03:r_a84ab0c3c1ba44d4": {
+      "text": "$$正太郎$$\n（I'll make you my friend again, I swear）",
+      "status": "imported"
+    },
+    "stage0060_03:r_414e6e90094d1413": {
+      "text": "$$巨大円盤$$",
+      "status": "imported"
+    },
+    "stage0060_03:r_83a9e41e15444c69": {
+      "text": "$$巨大円盤$$",
+      "status": "imported"
+    },
+    "stage0060_03:r_09227dec2bd6f4d8": {
+      "text": "$$巨大円盤$$",
+      "status": "imported"
+    },
+    "stage0060_03:r_7b3a37f5039eb1f6": {
+      "text": "　\n　　\n　　　　　　～ $$巨大円盤$$ Bridge ～",
+      "status": "imported"
+    },
+    "stage0060_03:r_cb6d9ee71c24b042": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_ddd97a6ef823929a": {
+      "text": "$$ロビー$$\n「What's wrong, Your Highness $$グーラ$$?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_df349052cd9cdd0c": {
+      "text": "$$グーラ$$\n「...Earth truly is beautiful...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_a7ce9f908380694c": {
+      "text": "$$ロビー$$\n「Yes.\n　Search the whole galaxy, and you'd\n　find few stars this beautiful」",
+      "status": "imported"
+    },
+    "stage0060_03:r_de3cc1f733dcb073": {
+      "text": "$$ロビー$$\n「Perhaps only my home star, as far as I know」",
+      "status": "imported"
+    },
+    "stage0060_03:r_0835ec3fff318aff": {
+      "text": "$$グーラ$$\n「What became of that star?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_c32efc7394910997": {
+      "text": "$$ロビー$$\n「It became part of Lord $$宇宙魔王#pilot$$」",
+      "status": "imported"
+    },
+    "stage0060_03:r_b01db8213417811e": {
+      "text": "$$グーラ$$\n「I see...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_bc0273c6ae91c929": {
+      "text": "$$ロビー$$\n「Your Highness $$グーラ$$...\n　Declaring you'd conquer Earth with\n　your own hands, that was wise」",
+      "status": "imported"
+    },
+    "stage0060_03:r_8deea7c70d7a76e7": {
+      "text": "$$ロビー$$\n「Had you kept relying on Lord\n　$$宇宙魔王#pilot$$'s help, he would never\n　have named you his successor」",
+      "status": "imported"
+    },
+    "stage0060_03:r_660c72e627d873c7": {
+      "text": "$$グーラ$$\n「That's right.\n　That's why I absolutely must\n　defeat $c」",
+      "status": "imported"
+    },
+    "stage0060_03:r_5d8b67b5bd8ce190": {
+      "text": "$$グーラ$$\n「Yes... even if $$正太郎$$ stands there...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_7cf3c91395139f5c": {
+      "text": "$$ロビー$$\n（Good, $$グーラ$$...\n　Keep fighting with doubt in your heart,\n　and one day you'll surely lose your life）",
+      "status": "imported"
+    },
+    "stage0060_03:r_6ccd85652ef4ccf1": {
+      "text": "$$ロビー$$\n（Then the $$宇宙魔王#pilot$$ will come to Earth...\n　His true body, roaming freely among\n　the galaxy's stars, will finally appear）",
+      "status": "imported"
+    },
+    "stage0060_03:r_fbe7bf7d854012a7": {
+      "text": "$$ロビー$$\n（That will be my chance for revenge...）",
+      "status": "imported"
+    },
+    "stage0060_03:r_1f438885dbc1359e": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0060_03:r_2e59226caa35f6e5": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0060_03:r_5d7a3adb077ad934": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0060_03:r_78d3b2a75e38d6f7": {
+      "text": "$$ＡＧ$$\n「Good work, Master $$正太郎$$.\n　Too bad about Prince $$グーラ$$.」",
+      "status": "imported"
+    },
+    "stage0060_03:r_8d461de418389bf8": {
+      "text": "$$正太郎$$\n「Thanks, $$ＡＧ$$.\n　But it's okay」",
+      "status": "imported"
+    },
+    "stage0060_03:r_5cb2acefa1e7c7fb": {
+      "text": "$$正太郎$$\n「I did fail today, that's true,\n　but next time I'll make $$グーラ$$ stop fighting」",
+      "status": "imported"
+    },
+    "stage0060_03:r_59ce7fd9524ec8be": {
+      "text": "$$ＡＧ$$\n「Such honesty...\n　to have a friend like Master\n　$$正太郎$$, Prince $$グーラ$$ is lucky」",
+      "status": "imported"
+    },
+    "stage0060_03:r_33f67c683bda9203": {
+      "text": "$$正太郎$$\n「What are you saying, $$ＡＧ$$.\n　You're my friend too, aren't you?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_476fb20ab9d18957": {
+      "text": "$$ＡＧ$$\n「Me, a friend of Master $$正太郎$$'s...」",
+      "status": "imported"
+    },
+    "stage0060_03:r_6be0d6139fac197c": {
+      "text": "$$正太郎$$\n「Do you not like that?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_df899b8031b4ca06": {
+      "text": "$$ＡＧ$$\n「Not at all!\n　I am so happy, so happy... I am moved!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_c5d048c7db7cac75": {
+      "text": "$$正太郎$$\n「Good...!\n　Then I'll walk $$マッキー$$ and Dr. $$敷島$$ home」",
+      "status": "imported"
+    },
+    "stage0060_03:r_308e8ac66b1141ef": {
+      "text": "$$ＡＧ$$\n「Do your best, Master $$正太郎$$.\n　Your words moved Prince $$グーラ$$'s heart」",
+      "status": "imported"
+    },
+    "stage0060_03:r_64f25294d71a5d55": {
+      "text": "$$ＡＧ$$\n「Thanks to that, a 50Z Z-Chip was born.\n　I will add it to the squad's stock」",
+      "status": "imported"
+    },
+    "stage0060_03:r_b6ca80db4741a62c": {
+      "text": "$$ＡＧ$$\n「As a friend too, I am rooting\n　for you, Master $$正太郎$$」",
+      "status": "imported"
+    },
+    "stage0060_03:r_432a29155221625f": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0060_03:r_9f7c18d1ea1b55c9": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0060_03:r_56688ad8e41b7b42": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0060_03:r_34a510533cb8a9f5": {
+      "text": "　\n　\n　　　　　　～ D-Trader ～",
+      "status": "imported"
+    },
+    "stage0060_03:r_1afedc9fa466f321": {
+      "text": "$$ブラックオックス#pilot$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0060_03:r_9547b3241808695f": {
+      "text": "$$ＡＧ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_32b2a8ce24deeb9f": {
+      "text": "$$ブラックオックス#pilot$$\n「!?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_c7ef92060bb8199d": {
+      "text": "$$ＡＧ$$\n「!?!?」",
+      "status": "imported"
+    },
+    "stage0060_03:r_1be6d12f616f04e4": {
+      "text": "$$ブラックオックス#pilot$$\n「!!!!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_80f948aeaed93de8": {
+      "text": "$$ＡＧ$$\n「Well then, let's give it our all today too!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_0d24e9726dcc79f9": {
+      "text": "$$ブラックオックス#pilot$$\n「!!!!」",
+      "status": "imported"
+    },
+    "stage0060_03:r_da648116badd491a": {
+      "text": "$$ＡＧ$$\n「Ah well... robots really do get along after all」",
+      "status": "imported"
+    }
+  }
+}

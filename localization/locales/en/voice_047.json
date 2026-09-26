@@ -1,0 +1,930 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_047:r_479b340ccc6c572b": {
+      "text": "Glad to see you care, my friend.",
+      "status": "imported"
+    },
+    "voice_047:r_ca4acbac57a2a35e": {
+      "text": "Perfect distance... I'm going in!",
+      "status": "imported"
+    },
+    "voice_047:r_77949221bf58f862": {
+      "text": "You're in my firing range!",
+      "status": "imported"
+    },
+    "voice_047:r_70b9c4b9f1f37eff": {
+      "text": "I'll show you Gepard's power!",
+      "status": "imported"
+    },
+    "voice_047:r_9fcb3754cb1773c7": {
+      "text": "Don't expect me to go easy!",
+      "status": "imported"
+    },
+    "voice_047:r_3559d2fad32c2435": {
+      "text": "Coming at me head-on? What a fool!",
+      "status": "imported"
+    },
+    "voice_047:r_f7570547e9f80a64": {
+      "text": "Come to make yourself a target?",
+      "status": "imported"
+    },
+    "voice_047:r_cbab0f4720e1fcf1": {
+      "text": "The timing's right!",
+      "status": "imported"
+    },
+    "voice_047:r_0bbe0b4f5364e732": {
+      "text": "I'll decide your fate!",
+      "status": "imported"
+    },
+    "voice_047:r_5dda5198137cb02a": {
+      "text": "I can see your fate!",
+      "status": "imported"
+    },
+    "voice_047:r_83ec59afbecdec14": {
+      "text": "Run anywhere,\\nI see your every move!",
+      "status": "imported"
+    },
+    "voice_047:r_e20bfd42ad95a3c9": {
+      "text": "The enemy's coming...!",
+      "status": "imported"
+    },
+    "voice_047:r_0f58a8822381e57f": {
+      "text": "I can tell just by looking!",
+      "status": "imported"
+    },
+    "voice_047:r_6dbcc507fb61b51d": {
+      "text": "Amata Sora! Don't hold me back!",
+      "status": "imported"
+    },
+    "voice_047:r_b42ab697149a7c8a": {
+      "text": "I'll do my best...",
+      "status": "imported"
+    },
+    "voice_047:r_4de4fcf3b440baf4": {
+      "text": "Cayenne! They're dead ahead!",
+      "status": "imported"
+    },
+    "voice_047:r_0121a166c715cdff": {
+      "text": "Then we'll make the first move!",
+      "status": "imported"
+    },
+    "voice_047:r_30fad37a42bd3ad3": {
+      "text": "Amata! Lend me your strength!",
+      "status": "imported"
+    },
+    "voice_047:r_80a0b2a84e05d81a": {
+      "text": "Roger! Cayenne, my power is yours!",
+      "status": "imported"
+    },
+    "voice_047:r_4a9ac1dff86506d9": {
+      "text": "Show me your skill,\\nMr. Number Two!",
+      "status": "imported"
+    },
+    "voice_047:r_bc8538e6af3d2577": {
+      "text": "Stop calling me number two!",
+      "status": "imported"
+    },
+    "voice_047:r_924516c8de2b5342": {
+      "text": "Don't push yourself, Shrade.",
+      "status": "imported"
+    },
+    "voice_047:r_fdeb8162976e72c1": {
+      "text": "Now's our chance! Let's finish it!",
+      "status": "imported"
+    },
+    "voice_047:r_0fadb5c26df92b42": {
+      "text": "Energico... Strong notes feel good.",
+      "status": "imported"
+    },
+    "voice_047:r_6b15af9a0057cdc8": {
+      "text": "Play me your music, my friend.",
+      "status": "imported"
+    },
+    "voice_047:r_15b4a90140e8a33a": {
+      "text": "If that's what you want, I'll do it!",
+      "status": "imported"
+    },
+    "voice_047:r_af884a6b11dff121": {
+      "text": "Let's see what you can do, Cayenne.",
+      "status": "imported"
+    },
+    "voice_047:r_ac6fe7838e95647b": {
+      "text": "My methods can get pretty rough!",
+      "status": "imported"
+    },
+    "voice_047:r_77ca87eacd17ad52": {
+      "text": "Face me,\\nand you won't leave whole!",
+      "status": "imported"
+    },
+    "voice_047:r_bf3244994760e535": {
+      "text": "Cayenne's spirit\\nreaches even us!",
+      "status": "imported"
+    },
+    "voice_047:r_aabfb21c9d069ce7": {
+      "text": "Get in my way, and you'll regret it!",
+      "status": "imported"
+    },
+    "voice_047:r_02479dc8fe989560": {
+      "text": "Yes, this!\\nThis intensity is bliss!",
+      "status": "imported"
+    },
+    "voice_047:r_a2df00f91a9b0a9e": {
+      "text": "Cayenne Suzushiro\\nseize the chance!",
+      "status": "imported"
+    },
+    "voice_047:r_48b60d6c48b9b142": {
+      "text": "Roger, Chairwoman!",
+      "status": "imported"
+    },
+    "voice_047:r_8927e6fb681aa809": {
+      "text": "You're wide open! Here I go again!",
+      "status": "imported"
+    },
+    "voice_047:r_665f01666859013b": {
+      "text": "Don't think I'll stop at one attack!",
+      "status": "imported"
+    },
+    "voice_047:r_a571eec59b258d11": {
+      "text": "That one... They're after Mikono!",
+      "status": "imported"
+    },
+    "voice_047:r_ddbe581c5ea9183d": {
+      "text": "I won't let you near Mikono!",
+      "status": "imported"
+    },
+    "voice_047:r_faae935cca0edc72": {
+      "text": "A beast must be subdued by force!",
+      "status": "imported"
+    },
+    "voice_047:r_d4430bf362340b32": {
+      "text": "Abductor, prepare yourself!",
+      "status": "imported"
+    },
+    "voice_047:r_6ff1323b355593e0": {
+      "text": "Back to your dimension with you!",
+      "status": "imported"
+    },
+    "voice_047:r_b7b5625d7cd4282f": {
+      "text": "Defeat you, and this battle ends!",
+      "status": "imported"
+    },
+    "voice_047:r_36133ad73a73ef98": {
+      "text": "Before despair\\ndevours tomorrow...!",
+      "status": "imported"
+    },
+    "voice_047:r_920740a0219c5085": {
+      "text": "So you're the despair I foresaw...!",
+      "status": "imported"
+    },
+    "voice_047:r_a8451712c57c1a72": {
+      "text": "Bear with me a little, MIX!",
+      "status": "imported"
+    },
+    "voice_047:r_3633df5b7b8f47fa": {
+      "text": "Come, Amata!\\nI'll show you the gap!",
+      "status": "imported"
+    },
+    "voice_047:r_52dfc56b14b93551": {
+      "text": "Interesting! I'm facing EVOL!",
+      "status": "imported"
+    },
+    "voice_047:r_1b9b2aab5cb104da": {
+      "text": "A fellow Gepard won't beat me!",
+      "status": "imported"
+    },
+    "voice_047:r_342044c706a2340f": {
+      "text": "At long range,\\nSpada can't scare me!",
+      "status": "imported"
+    },
+    "voice_047:r_cf41e8828a90cbdb": {
+      "text": "Trying to confuse us with speed...!",
+      "status": "imported"
+    },
+    "voice_047:r_719e897304ec42d4": {
+      "text": "You can't escape my sights!",
+      "status": "imported"
+    },
+    "voice_047:r_d5e0a2317c40d322": {
+      "text": "Worthy of Gundam?\\nLet's see!",
+      "status": "imported"
+    },
+    "voice_047:r_ec2ea17765052401": {
+      "text": "A foe is a foe.\\nI won't hesitate!",
+      "status": "imported"
+    },
+    "voice_047:r_f2d4255f1c2f7542": {
+      "text": "A mere machine is no match for me!",
+      "status": "imported"
+    },
+    "voice_047:r_5d08ad19e2da125b": {
+      "text": "Invaders from another planet, huh!",
+      "status": "imported"
+    },
+    "voice_047:r_a7246b52782a877e": {
+      "text": "No mercy for monsters!",
+      "status": "imported"
+    },
+    "voice_047:r_dc8701f6bcb9904f": {
+      "text": "Identity later.\\nShoot it down first!",
+      "status": "imported"
+    },
+    "voice_047:r_d6bdd730f24f66eb": {
+      "text": "Your ambitions end here!",
+      "status": "imported"
+    },
+    "voice_047:r_41997412868c48c4": {
+      "text": "You cast despair across the world!",
+      "status": "imported"
+    },
+    "voice_047:r_9e6cf4f389dae55c": {
+      "text": "Past despair!\\nFor a hopeful future!",
+      "status": "imported"
+    },
+    "voice_047:r_9e0c80ac7e33b459": {
+      "text": "You'll pay for fighting dirty!",
+      "status": "imported"
+    },
+    "voice_047:r_7432ef43ed3471dc": {
+      "text": "We and mankind\\nwon't bend to you!",
+      "status": "imported"
+    },
+    "voice_047:r_065443f6ddfcf0d7": {
+      "text": "Onward, friend. Past death, despair.",
+      "status": "imported"
+    },
+    "voice_047:r_47d52a2839c71715": {
+      "text": "Together,\\nwe can surely do it!",
+      "status": "imported"
+    },
+    "voice_047:r_847f82e7f3eef651": {
+      "text": "Play, Shrade!\\nThe ultimate melody!",
+      "status": "imported"
+    },
+    "voice_047:r_eb7ae28b53dc033c": {
+      "text": "Gladly, friend! Now is the time...!",
+      "status": "imported"
+    },
+    "voice_047:r_857c4a52ce8df0fd": {
+      "text": "Shrade! Let's unite our strength!",
+      "status": "imported"
+    },
+    "voice_047:r_55417493fce1d347": {
+      "text": "Now, friend!\\nThe ultimate melody...!",
+      "status": "imported"
+    },
+    "voice_047:r_8fdf5910927c9591": {
+      "text": "I'll fill you full of holes!",
+      "status": "imported"
+    },
+    "voice_047:r_7d724dbcc4451e10": {
+      "text": "This will hit dead-on!",
+      "status": "imported"
+    },
+    "voice_047:r_93e25418a203cb8f": {
+      "text": "There's no escaping my aim!",
+      "status": "imported"
+    },
+    "voice_047:r_adeb0a29274d3d9b": {
+      "text": "Target locked! Fire!",
+      "status": "imported"
+    },
+    "voice_047:r_24cf161287ef9d5c": {
+      "text": "Every shot will hit dead-on!",
+      "status": "imported"
+    },
+    "voice_047:r_8f60f6fc86db3107": {
+      "text": "Missile set! Fire!",
+      "status": "imported"
+    },
+    "voice_047:r_b1de76a75a253c13": {
+      "text": "There's nowhere you can run!",
+      "status": "imported"
+    },
+    "voice_047:r_128c35bf3e0e394c": {
+      "text": "This will decide the battle...!",
+      "status": "imported"
+    },
+    "voice_047:r_5213c17e13b23de0": {
+      "text": "Missile, full barrage!",
+      "status": "imported"
+    },
+    "voice_047:r_38fdff9483e9245c": {
+      "text": "This settles it!",
+      "status": "imported"
+    },
+    "voice_047:r_620fedec67706d7d": {
+      "text": "Goooooo!!",
+      "status": "imported"
+    },
+    "voice_047:r_9680dcd0fddcfcc7": {
+      "text": "Double Missile fire - you're done!",
+      "status": "imported"
+    },
+    "voice_047:r_2a00f1044ad5cbaa": {
+      "text": "Blow awaaaaay!!",
+      "status": "imported"
+    },
+    "voice_047:r_3dbeead1bd3164ef": {
+      "text": "Beginning counterattack!",
+      "status": "imported"
+    },
+    "voice_047:r_98d15b8cc09bc915": {
+      "text": "Your last attack gave you away!",
+      "status": "imported"
+    },
+    "voice_047:r_46e86d000250e137": {
+      "text": "You're a fool to attack me!",
+      "status": "imported"
+    },
+    "voice_047:r_ac341e7976e88f0b": {
+      "text": "Should've retreated when you could!",
+      "status": "imported"
+    },
+    "voice_047:r_cdbd128a5b4127cc": {
+      "text": "You hit me, I hit back!",
+      "status": "imported"
+    },
+    "voice_047:r_cfccaa1fbeda124c": {
+      "text": "Time to return the favor!",
+      "status": "imported"
+    },
+    "voice_047:r_b1f8ec192b9c083a": {
+      "text": "I'll cover you! Fall back for now!",
+      "status": "imported"
+    },
+    "voice_047:r_a007f9ab9cf048b3": {
+      "text": "We'll overwhelm them together!",
+      "status": "imported"
+    },
+    "voice_047:r_ddafde4b065ced49": {
+      "text": "Get behind me!",
+      "status": "imported"
+    },
+    "voice_047:r_de1213040856c089": {
+      "text": "Use Gepard as your shield!",
+      "status": "imported"
+    },
+    "voice_047:r_3304412ac41f47a6": {
+      "text": "Damn! They shut down our counter!",
+      "status": "imported"
+    },
+    "voice_047:r_0c0775e051211840": {
+      "text": "Tch! Can I only stand by and watch?!",
+      "status": "imported"
+    },
+    "voice_047:r_a2afffe1c396f0b3": {
+      "text": "More worn down than I thought...!",
+      "status": "imported"
+    },
+    "voice_047:r_13c25fbdfddc8a24": {
+      "text": "They've figured out our range...!",
+      "status": "imported"
+    },
+    "voice_047:r_42ba1ecb310b4bd7": {
+      "text": "Taking that position... How shrewd!",
+      "status": "imported"
+    },
+    "voice_047:r_d692f1d420460a47": {
+      "text": "What are you even aiming at?",
+      "status": "imported"
+    },
+    "voice_047:r_a5643cec86b18bd2": {
+      "text": "Hmph... What a boring attack.",
+      "status": "imported"
+    },
+    "voice_047:r_68f2dfab20a4a30e": {
+      "text": "Seems\\nI needn't even face you.",
+      "status": "imported"
+    },
+    "voice_047:r_9cedad8237480563": {
+      "text": "You're too slow!",
+      "status": "imported"
+    },
+    "voice_047:r_a03fabecba1508ca": {
+      "text": "I already see through your attack!",
+      "status": "imported"
+    },
+    "voice_047:r_5391b24a71eb10ae": {
+      "text": "I won't let this go your way!",
+      "status": "imported"
+    },
+    "voice_047:r_a554ceef5c87b972": {
+      "text": "An attack exactly as I foresaw.",
+      "status": "imported"
+    },
+    "voice_047:r_546c3d5937fbb7ee": {
+      "text": "This result is just as I foresaw.",
+      "status": "imported"
+    },
+    "voice_047:r_1568ff6298b12b96": {
+      "text": "What's wrong, stray dog? I'm here!",
+      "status": "imported"
+    },
+    "voice_047:r_2c9d94ba13c5fc50": {
+      "text": "All you can do is charge in blind!",
+      "status": "imported"
+    },
+    "voice_047:r_a77f4913375098d2": {
+      "text": "Whoa!",
+      "status": "imported"
+    },
+    "voice_047:r_428c2116ac3071b1": {
+      "text": "It missed! Don't whimper like that!",
+      "status": "imported"
+    },
+    "voice_047:r_84c116267b79f540": {
+      "text": "Like that would ever hit me...!",
+      "status": "imported"
+    },
+    "voice_047:r_dad38ee29af2df3a": {
+      "text": "Cayenne can read their moves...?",
+      "status": "imported"
+    },
+    "voice_047:r_3d32e86f8dc80909": {
+      "text": "Impressive as ever, Cayenne.",
+      "status": "imported"
+    },
+    "voice_047:r_70451ffbabe2f876": {
+      "text": "This is hardly worth surprise.",
+      "status": "imported"
+    },
+    "voice_047:r_69dfa1659715e2fa": {
+      "text": "A harmonious melody... Nice, friend.",
+      "status": "imported"
+    },
+    "voice_047:r_d996fd6d4ef5b329": {
+      "text": "Your compliments are hard to follow.",
+      "status": "imported"
+    },
+    "voice_047:r_8ab47a28f99ef565": {
+      "text": "I saw that attack coming!",
+      "status": "imported"
+    },
+    "voice_047:r_546de3fb6db156ea": {
+      "text": "Nice moves.\\nThey inspire me.",
+      "status": "imported"
+    },
+    "voice_047:r_ca85f87cee5e31f7": {
+      "text": "You can't keep up with our moves!",
+      "status": "imported"
+    },
+    "voice_047:r_9072ea7bc71df136": {
+      "text": "It stings, but well done, Cayenne.",
+      "status": "imported"
+    },
+    "voice_047:r_04e815a8d425827d": {
+      "text": "Cayenne! Another one's coming!",
+      "status": "imported"
+    },
+    "voice_047:r_d89011fe3e5d082a": {
+      "text": "Relax! I won't get hit next time!",
+      "status": "imported"
+    },
+    "voice_047:r_3c5b0c2ac812d5de": {
+      "text": "Ah! Beautiful Cayenne! Too perfect!",
+      "status": "imported"
+    },
+    "voice_047:r_5b9e8897190892eb": {
+      "text": "Sazanka! Focus on the battle!",
+      "status": "imported"
+    },
+    "voice_047:r_7bea3023abbf8a94": {
+      "text": "Splendid, Cayenne Suzushiro.",
+      "status": "imported"
+    },
+    "voice_047:r_dd01a4c0d1b36a8d": {
+      "text": "Academy training\\nwasn't for nothing.",
+      "status": "imported"
+    },
+    "voice_047:r_20920ad2eb3542db": {
+      "text": "What a pointless thing to do...!",
+      "status": "imported"
+    },
+    "voice_047:r_cb846feec748c2e3": {
+      "text": "Damn... I relied on the barrier!",
+      "status": "imported"
+    },
+    "voice_047:r_c958860b0676b1f5": {
+      "text": "A barrier, yet you struggle in vain?",
+      "status": "imported"
+    },
+    "voice_047:r_5e2669b82ef75ce3": {
+      "text": "That wasn't even worth dodging.",
+      "status": "imported"
+    },
+    "voice_047:r_7847e0ed7dc9282d": {
+      "text": "Just as I thought. That's all.",
+      "status": "imported"
+    },
+    "voice_047:r_e42b52c7a987b906": {
+      "text": "Anyone else might be dead now.",
+      "status": "imported"
+    },
+    "voice_047:r_6825fd1ff907bd22": {
+      "text": "Was I careless somewhere...!",
+      "status": "imported"
+    },
+    "voice_047:r_607f666f1563bc0d": {
+      "text": "Damage like this\\nwon't stop me!",
+      "status": "imported"
+    },
+    "voice_047:r_97b7431eeb81e6b6": {
+      "text": "Gepard's armor can take it!",
+      "status": "imported"
+    },
+    "voice_047:r_132f605d02975e71": {
+      "text": "An attack beyond my foresight?!",
+      "status": "imported"
+    },
+    "voice_047:r_9b9726b1872759d6": {
+      "text": "This outcome was foreseen too.",
+      "status": "imported"
+    },
+    "voice_047:r_1252db29683fefe0": {
+      "text": "Roaring alone won't defeat me!",
+      "status": "imported"
+    },
+    "voice_047:r_ad3d538f1e909184": {
+      "text": "Mikono and I\\nwon't obey you!",
+      "status": "imported"
+    },
+    "voice_047:r_8c61c59a1c0aebbf": {
+      "text": "Just a scratch... That was lucky.",
+      "status": "imported"
+    },
+    "voice_047:r_aba6a7662129d8ce": {
+      "text": "Stay sharp! Another one's coming!",
+      "status": "imported"
+    },
+    "voice_047:r_b84afafb8a33ec60": {
+      "text": "Tch! That simple trick got me...!",
+      "status": "imported"
+    },
+    "voice_047:r_c8c59db85bf875e6": {
+      "text": "Get your head back in it, Cayenne!",
+      "status": "imported"
+    },
+    "voice_047:r_391aa56435d9dd6e": {
+      "text": "Cayenne made a mistake? How rare.",
+      "status": "imported"
+    },
+    "voice_047:r_7c796ba53bd7ea03": {
+      "text": "I'll be sure to repay this debt...!",
+      "status": "imported"
+    },
+    "voice_047:r_fa944da4b6519006": {
+      "text": "Why so off-key, my friend?",
+      "status": "imported"
+    },
+    "voice_047:r_95d047bcc17fccc6": {
+      "text": "I know! I don't need you telling me!",
+      "status": "imported"
+    },
+    "voice_047:r_640327a12a559b31": {
+      "text": "Tch! What a strange way to move!",
+      "status": "imported"
+    },
+    "voice_047:r_bdd38c584fa313d0": {
+      "text": "Still slow to handle the unexpected.",
+      "status": "imported"
+    },
+    "voice_047:r_3fd86c1027f317c8": {
+      "text": "I can't believe Cayenne got hit...!",
+      "status": "imported"
+    },
+    "voice_047:r_d0372a183d2007ad": {
+      "text": "Don't worry! I won't slip up again!",
+      "status": "imported"
+    },
+    "voice_047:r_217aa5e1d545b44d": {
+      "text": "Are you all right, Yunoha?!",
+      "status": "imported"
+    },
+    "voice_047:r_381992c5d8224937": {
+      "text": "Y-yes!\\nAquarion and I are both fine!",
+      "status": "imported"
+    },
+    "voice_047:r_f1e7ed9e5874aba5": {
+      "text": "Are you all right, Cayenne?!",
+      "status": "imported"
+    },
+    "voice_047:r_fc25e66a86fc2c85": {
+      "text": "Sorry! I lost them for a second!",
+      "status": "imported"
+    },
+    "voice_047:r_5aeeb4917340c42d": {
+      "text": "Not good enough, Cayenne Suzushiro.",
+      "status": "imported"
+    },
+    "voice_047:r_b765659981b6516d": {
+      "text": "I'll make up for my mistake myself!",
+      "status": "imported"
+    },
+    "voice_047:r_0c427458bc00eb95": {
+      "text": "Damn...! What the hell is this?!",
+      "status": "imported"
+    },
+    "voice_047:r_774a9ab4d8fd5351": {
+      "text": "Damn! They outmaneuvered me!",
+      "status": "imported"
+    },
+    "voice_047:r_d3f01de714c015bd": {
+      "text": "They outpaced even my movements...!",
+      "status": "imported"
+    },
+    "voice_047:r_7d2617c809fead70": {
+      "text": "Gepard's armor couldn't stop it...!",
+      "status": "imported"
+    },
+    "voice_047:r_ceb935ccbf830724": {
+      "text": "Strong...! Tougher than I thought!",
+      "status": "imported"
+    },
+    "voice_047:r_862ef7385bf2abd4": {
+      "text": "Damage is starting to pile up...!",
+      "status": "imported"
+    },
+    "voice_047:r_001cbec4d9a4283f": {
+      "text": "Can they surpass my foresight...?!",
+      "status": "imported"
+    },
+    "voice_047:r_8ad40afecd02b41e": {
+      "text": "Damn...! Despair is drawing near!",
+      "status": "imported"
+    },
+    "voice_047:r_26e5efec03c03d78": {
+      "text": "Damn! A true wild beast!",
+      "status": "imported"
+    },
+    "voice_047:r_4ad81e88c7557a8b": {
+      "text": "I knew it... That man is dangerous!",
+      "status": "imported"
+    },
+    "voice_047:r_1f65a7af190e4674": {
+      "text": "Damn...! That's serious damage!",
+      "status": "imported"
+    },
+    "voice_047:r_40c5a9358ed5bf29": {
+      "text": "Scared, amateur? Leave the Vector!",
+      "status": "imported"
+    },
+    "voice_047:r_f2e18dfdfe0c89ea": {
+      "text": "I never expected that move...!",
+      "status": "imported"
+    },
+    "voice_047:r_cf7dbf49e96a5755": {
+      "text": "Calm down, Cayenne!\\nNot fatal yet!",
+      "status": "imported"
+    },
+    "voice_047:r_fa96676cc65bb509": {
+      "text": "You're worthy\\nof my full power.",
+      "status": "imported"
+    },
+    "voice_047:r_4e37f92e7d2fc62e": {
+      "text": "Hey! This is no time to act so calm!",
+      "status": "imported"
+    },
+    "voice_047:r_66ab4cfe1557909d": {
+      "text": "Not like you, friend. Why the rush?",
+      "status": "imported"
+    },
+    "voice_047:r_0bad405ee6ca63ba": {
+      "text": "Shut up! I'm not panicking!",
+      "status": "imported"
+    },
+    "voice_047:r_2072eaf71a260ae7": {
+      "text": "Are you all right, Shrade?!",
+      "status": "imported"
+    },
+    "voice_047:r_6c13bbfd27a7799e": {
+      "text": "I'm fine.\\nNow play me your sound.",
+      "status": "imported"
+    },
+    "voice_047:r_06f88dcbd3c9e738": {
+      "text": "MIX! Repair the damaged sections!",
+      "status": "imported"
+    },
+    "voice_047:r_b28faf9f71bc3598": {
+      "text": "Got it! Leave that to me!",
+      "status": "imported"
+    },
+    "voice_047:r_8a29278549f8e07a": {
+      "text": "Cayenne!\\nThe armor is badly damaged!",
+      "status": "imported"
+    },
+    "voice_047:r_7e6c573c26177f98": {
+      "text": "Damn! Stronger than I thought?!",
+      "status": "imported"
+    },
+    "voice_047:r_45abf84f7757d6eb": {
+      "text": "Looks like I owe them some payback.",
+      "status": "imported"
+    },
+    "voice_047:r_edd7a13ab8f06a14": {
+      "text": "Eek!\\nCool Cayenne looks furious!",
+      "status": "imported"
+    },
+    "voice_047:r_8165e5b41f0124c4": {
+      "text": "Cayenne Suzushiro, status report.",
+      "status": "imported"
+    },
+    "voice_047:r_4e05581b7432cce8": {
+      "text": "I'm damaged,\\nbut still battle-ready!",
+      "status": "imported"
+    },
+    "voice_047:r_72a21a1a489af001": {
+      "text": "Gwaaaah!",
+      "status": "imported"
+    },
+    "voice_047:r_eb643f8bf737a0ca": {
+      "text": "No...! They trapped me completely!",
+      "status": "imported"
+    },
+    "voice_047:r_0a3fccb71ec6cf2a": {
+      "text": "They've pushed me this far...!",
+      "status": "imported"
+    },
+    "voice_047:r_9b63cf1f3e0207ef": {
+      "text": "Ngh! Hold together, Gepard!",
+      "status": "imported"
+    },
+    "voice_047:r_8356f4e3dcdff938": {
+      "text": "Seems\\nI must steel myself now!",
+      "status": "imported"
+    },
+    "voice_047:r_1d6d784036ae0bd7": {
+      "text": "Flesh for bone...!\\nNow it begins!",
+      "status": "imported"
+    },
+    "voice_047:r_625664af02183c17": {
+      "text": "This is the despair I foresaw...!",
+      "status": "imported"
+    },
+    "voice_047:r_3701cba361f80ea5": {
+      "text": "Despair will swallow me...!",
+      "status": "imported"
+    },
+    "voice_047:r_63f429c5c68c0863": {
+      "text": "No! At this rate, they'll finish me!",
+      "status": "imported"
+    },
+    "voice_047:r_38e4a434c91d8ef0": {
+      "text": "Amateurs, keep quiet!",
+      "status": "imported"
+    },
+    "voice_047:r_98ed411352a3a6ac": {
+      "text": "Cayenne! Fall back!",
+      "status": "imported"
+    },
+    "voice_047:r_4824bea6bab3af67": {
+      "text": "No! I'll fight until the very end!",
+      "status": "imported"
+    },
+    "voice_047:r_862b92e63adb9734": {
+      "text": "So strong... Beyond my foresight?!",
+      "status": "imported"
+    },
+    "voice_047:r_cb306ef55e49d107": {
+      "text": "Hey!\\nDon't lose your nerve now!",
+      "status": "imported"
+    },
+    "voice_047:r_57b2bd2de8a1408d": {
+      "text": "Ngh!",
+      "status": "imported"
+    },
+    "voice_047:r_76f080a4881e8ab5": {
+      "text": "Hold, Shrade!\\nWe'll turn the tide!",
+      "status": "imported"
+    },
+    "voice_047:r_288133bc5b573dae": {
+      "text": "I won't lose! I can still fight!",
+      "status": "imported"
+    },
+    "voice_047:r_6f95653e548f8fcf": {
+      "text": "Grave, then Allegro.\\nHeh, not done.",
+      "status": "imported"
+    },
+    "voice_047:r_d249d68bada91ab9": {
+      "text": "MIX! What's our status?!",
+      "status": "imported"
+    },
+    "voice_047:r_e9b3307e9eb69f11": {
+      "text": "No! I can't repair it fast enough!",
+      "status": "imported"
+    },
+    "voice_047:r_03cdac73042343ee": {
+      "text": "Cayenne! The armor won't hold!",
+      "status": "imported"
+    },
+    "voice_047:r_6026da5acbda7c69": {
+      "text": "Then we must finish this first!",
+      "status": "imported"
+    },
+    "voice_047:r_981f8fedd5414fe5": {
+      "text": "C-Cayenne!\\nI can't take any more!",
+      "status": "imported"
+    },
+    "voice_047:r_96bb0dcde0c8c44a": {
+      "text": "I'll push past this - past despair!",
+      "status": "imported"
+    },
+    "voice_047:r_641550a2f54cb456": {
+      "text": "Chairwoman, grant me final strength.",
+      "status": "imported"
+    },
+    "voice_047:r_a0f2074af8debbfa": {
+      "text": "Good resolve, Cayenne Suzushiro.",
+      "status": "imported"
+    },
+    "voice_047:r_b5f5a97ed82acb0b": {
+      "text": "Daaaaamn! Is this the end?!!",
+      "status": "imported"
+    },
+    "voice_047:r_d9cd2e4ded064396": {
+      "text": "No...! I have to eject!",
+      "status": "imported"
+    },
+    "voice_047:r_99e6349431aaf23b": {
+      "text": "Your job. Play your best violin.",
+      "status": "imported"
+    },
+    "voice_047:r_ec1081caf845f56a": {
+      "text": "Quiet! Nobody wants us two here!",
+      "status": "imported"
+    },
+    "voice_047:r_2c5b7ee872c1ed7f": {
+      "text": "This is hardly a break at all!",
+      "status": "imported"
+    },
+    "voice_047:r_2d7a9c06347582d9": {
+      "text": "I'll dig a hole with all my power!",
+      "status": "imported"
+    },
+    "voice_047:r_bf953d64c3c7d9b7": {
+      "text": "Let's do this, Gepard!",
+      "status": "imported"
+    },
+    "voice_047:r_e09b933e3e706779": {
+      "text": "Whoooooa!!",
+      "status": "imported"
+    },
+    "voice_047:r_66236eb99b676e5b": {
+      "text": "Punch throooooough!!",
+      "status": "imported"
+    },
+    "voice_047:r_9639a2dbcd2f58ed": {
+      "text": "I... dig a hole!",
+      "status": "imported"
+    },
+    "voice_047:r_aeea0893acb93d35": {
+      "text": "Everyone, lend me your strength!",
+      "status": "imported"
+    },
+    "voice_047:r_b31568654e53487b": {
+      "text": "Dimension Tunnel Shell!",
+      "status": "imported"
+    },
+    "voice_047:r_2502132569141ea3": {
+      "text": "Goooooo!!",
+      "status": "imported"
+    },
+    "voice_047:r_1ff312798a52c8eb": {
+      "text": "Shrade!!",
+      "status": "imported"
+    },
+    "voice_047:r_09d377101a48d92a": {
+      "text": "I'll make the first move!",
+      "status": "imported"
+    },
+    "voice_047:r_11517cc7b0494dbf": {
+      "text": "Don't think I'm just a diversion!",
+      "status": "imported"
+    },
+    "voice_047:r_b5864501463db244": {
+      "text": "I'll stop the enemy cold!",
+      "status": "imported"
+    },
+    "voice_047:r_a88939ea84b4474d": {
+      "text": "I'll focus on support here!",
+      "status": "imported"
+    },
+    "voice_047:r_a870d0cf7cc11ec6": {
+      "text": "I'm the one you're fighting!",
+      "status": "imported"
+    },
+    "voice_047:r_03f6158ef83964f3": {
+      "text": "My job is to beat you down!",
+      "status": "imported"
+    },
+    "voice_047:r_2970a83693cdcc25": {
+      "text": "We'll hold the battle line too!",
+      "status": "imported"
+    },
+    "voice_047:r_be661448b85d0009": {
+      "text": "If I can make this one-on-one...!",
+      "status": "imported"
+    }
+  }
+}

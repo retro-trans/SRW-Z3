@@ -1,0 +1,330 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0034_04:r_caaab7bad760e16d": {
+      "text": "$$フロンタル$$\n「All units, spread out.\n　$c is coming out.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_99b162aa6aa286a2": {
+      "text": "$$メラン$$\n「Neo Zeon has already deployed its forces.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_58fb02434a1c40b2": {
+      "text": "$$ブライト$$\n「Damn you, $$シャア$$...!\n　Right to Londenion, where Londo Bell's\n　base is, so brazenly...!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_1c0f94acd5a8a143": {
+      "text": "$$タケル$$\n「$$シャア・アズナブル$$...\n　To us, he's Captain $$クワトロ・バジーナ$$...\n　Also known as Zeon's Red Comet...」",
+      "status": "imported"
+    },
+    "stage0034_04:r_1263541f4071624e": {
+      "text": "$$甲児$$\n「So that red mobile suit...\n　Captain $$クワトロ$$... no, $$シャア$$'s in it!?」",
+      "status": "imported"
+    },
+    "stage0034_04:r_3bc300bbdc277d82": {
+      "text": "$$カミーユ$$\n「No...\n　It's someone else piloting that.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_38762a09460d8b6b": {
+      "text": "$$アルト$$\n「But there's something about it...\n　No doubt it's a serious threat...!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_7ab28e70b4d4f641": {
+      "text": "$$フロンタル$$\n「Heh...」",
+      "status": "imported"
+    },
+    "stage0034_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$宗介$$\n「Fast...!\n　Almost 3x a standard suit's acceleration!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_ec335e69f984b8b3": {
+      "text": "$$竜馬$$\n「Tch...!\n　He's no ordinary fake, that guy!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_0abcaf0c31978670": {
+      "text": "$$レズン$$\n（I don't like this, $$フル・フロンタル$$...\n　Trying to drum up publicity for the Sleeves?）",
+      "status": "imported"
+    },
+    "stage0034_04:r_1d6bc48b7f246730": {
+      "text": "$$フロンタル$$\n「To all units.\n　The Commander needs 4 minutes to escape.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_1af20fccc3c53cfc": {
+      "text": "$$フロンタル$$\n「Our objective is to hold the enemy for 4 minutes.\n　...There's public opinion to consider.\n　Don't damage the colony.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_f951916061232dcd": {
+      "text": "$$アムロ$$\n「All units, stay alert.\n　Last time, he was just testing us,\n　but today's different.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_4d863c3fb88a4c39": {
+      "text": "$$カミーユ$$\n（The one piloting that...\n　The man who shot $$アムロ$$...\n　A new Red Comet...）",
+      "status": "imported"
+    },
+    "stage0034_04:r_44f4742c3dcce39a": {
+      "text": "$$フロンタル$$\n「All units, begin the attack...!\n　Show them Neo Zeon's strength!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_9e701cdeb3842c21": {
+      "text": "$$レイアム$$\n「Confirmed: the enemy force is wiped out.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_6fd81f4abebe60c5": {
+      "text": "$$オットー$$\n「All that's left is to crush $$シャア$$!\n　We end this war right here!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_da2132b5038ec737": {
+      "text": "$$メラン$$\n「Captain!\n　A ship's approaching Londenion!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_495d61d3ec7e16f2": {
+      "text": "$$ブライト$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0034_04:r_5cd353758cfe474d": {
+      "text": "$$メラン$$\n「Captain!\n　A ship's approaching Londenion!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_a653c8dec4c0f06f": {
+      "text": "$$ブライト$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0034_04:r_86d493e37a9799a7": {
+      "text": "$$リディ$$\n「That's...!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_09d0fcc600cdd3df": {
+      "text": "$$エマ$$\n「$$レウルーラ$$...!\n　Neo Zeon's flagship!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_182faded068c15ed": {
+      "text": "$$オットー$$\n「They've come to pick up $$シャア$$!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_9c206d19bfda4bd5": {
+      "text": "$$ヒル$$\n「Confirmed: the Commander's party is recovered.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_6e558bc69acf5bf3": {
+      "text": "$$ナナイ$$\n「All ships, fall back!\n　Recover the withdrawing units, then\n　return straight to $$アクシズ$$!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_d60d0818e965232f": {
+      "text": "$$シャア$$\n（$$アムロ$$, $$カミーユ$$... and $c...\n　My war against humanity begins today...）",
+      "status": "imported"
+    },
+    "stage0034_04:r_5b23687574286204": {
+      "text": "$$メラン$$\n「...Shall we pursue, Captain?」",
+      "status": "imported"
+    },
+    "stage0034_04:r_6fd86c96891ea942": {
+      "text": "$$ブライト$$\n「No, don't...\n　Push too far and we'll just get hit back.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_43e4e548c0b28376": {
+      "text": "$$カミーユ$$\n「Captain $$クワトロ$$...」",
+      "status": "imported"
+    },
+    "stage0034_04:r_d80a9688790ed583": {
+      "text": "$$アムロ$$\n（$$シャア$$...\n　What are you even trying to do in this fight...）",
+      "status": "imported"
+    },
+    "stage0034_04:r_708bea61e3c43ada": {
+      "text": "$$フロンタル$$\n「Not bad, Unicorn...!\n　Worthy of the Gundam name!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_7b6f159eeaf4de0f": {
+      "text": "$$バナージ$$\n「No good...!\n　Keep taking hits like this and I'm done for!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_0827963cfd706e8d": {
+      "text": "$$バナージ$$\n「That red suit's hostility is bearing down...!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$甲児$$\n「The Unicorn's horn split open!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_3f4035fd9db81258": {
+      "text": "$$アルト$$\n「So that's that NT-D system they mentioned!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_567b361a454c4b73": {
+      "text": "$$アルベルト$$\n（Is the Unicorn reacting to the $$シナンジュ$$!）",
+      "status": "imported"
+    },
+    "stage0034_04:r_d22851aaafbbf8fc": {
+      "text": "$$フロンタル$$\n「Oh... So you finally show your true form.\n　Seems I should count the pilot as part of the 'key.'」",
+      "status": "imported"
+    },
+    "stage0034_04:r_352534f64413d954": {
+      "text": "$$フロンタル$$\n「Then I'll simply take it all...!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_79f2664edb1af798": {
+      "text": "$$バナージ$$\n「With this power... I can do it!!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$フロンタル$$\n「This is as far as I go...\n　Impressive, $c.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_1c5aa0d15ae24846": {
+      "text": "$$フロンタル$$\n「The key to Laplace's Box...\n　Seems I really will need to take\n　the pilot along with it.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_53bb64ee17750ee2": {
+      "text": "$$フロンタル$$\n「This is as far as I go...\n　Impressive, $c.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_7a7add80fde475ba": {
+      "text": "$$フロンタル$$\n「Leaving this unit in charge\n　of the key to Laplace's Box may be risky...」",
+      "status": "imported"
+    },
+    "stage0034_04:r_b2befefdbed1393d": {
+      "text": "$$フロンタル$$\n「Before it's too late,\n　perhaps I should take the pilot too...」",
+      "status": "imported"
+    },
+    "stage0034_04:r_2103f6df2ea2e447": {
+      "text": "$$カツ$$\n「They've pulled back...」",
+      "status": "imported"
+    },
+    "stage0034_04:r_a12e3e130d896ff7": {
+      "text": "$$エマ$$\n「That red mobile suit's pilot...\n　might be even better than Captain $$クワトロ$$.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_b6f7b219eb4bd64b": {
+      "text": "$$シン$$\n「A new Red Comet...\n　I think they called him $$フル・フロンタル$$...」",
+      "status": "imported"
+    },
+    "stage0034_04:r_91bf33c27ad39f0a": {
+      "text": "$$アムロ$$\n（What is this unease...\n　That man... what's his connection to $$シャア$$...）",
+      "status": "imported"
+    },
+    "stage0034_04:r_ee220318b96ab538": {
+      "text": "$$レズン$$\n「Slipped up, did I!\n　Guess he's as good as the rumors say!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_ce1b55e526b6277a": {
+      "text": "$$レズン$$\n「Londo Bell and $c!\n　Feels like this'll be a long relationship!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_c304df6888eb78f7": {
+      "text": "$$バナージ$$\n「This red mobile suit...!\n　It's on a whole different level!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_c26958634526e597": {
+      "text": "$$フロンタル$$\n「Compared to our last fight,\n　your movements have loosened up.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_cdb750c9d380881a": {
+      "text": "$$フロンタル$$\n「A shame.\n　Keep growing like this and you'll be a fine pilot.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_95fda74613c97b39": {
+      "text": "$$フロンタル$$\n「Now that the system's activated,\n　holding back would put me at risk...!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_1956994937f8171e": {
+      "text": "$$バナージ$$\n「What...!?\n　I can feel that pilot's hostility!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_48f49f6728c15612": {
+      "text": "$$バナージ$$\n「Kill or be killed...!\n　Is that the kind of fight this is!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$カミーユ$$\n「I can tell clearly now...!\n　You're not Captain $$クワトロ$$!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_f02c37d91387d0ad": {
+      "text": "$$フロンタル$$\n「Hearing you say that,\n　seems you've mistaken me, if only a little,\n　for the Commander. I'm honored, $$カミーユ・ビダン$$.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$カミーユ$$\n「Why do you know my name...!?」",
+      "status": "imported"
+    },
+    "stage0034_04:r_9796b3efa401a303": {
+      "text": "$$フロンタル$$\n「Naturally.\n　I know a great deal about you too.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_643b6eebfc0186b3": {
+      "text": "$$アムロ$$\n「A presence just like $$シャア$$'s...!\n　Just who are you!?」",
+      "status": "imported"
+    },
+    "stage0034_04:r_291280e5f7eb9d70": {
+      "text": "$$フロンタル$$\n「Why don't you find that out for yourself, $$アムロ$$.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_32eb462c1b4999cb": {
+      "text": "$$アムロ$$\n「Don't mock me...!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_1f4337d6d393fc37": {
+      "text": "$$フロンタル$$\n「No matter how good you are,\n　a mobile suit that pathetic\n　can't beat my $$シナンジュ$$!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_4740e748fae085ee": {
+      "text": "$$シン$$\n「You people...!\n　Why start a war like this!?」",
+      "status": "imported"
+    },
+    "stage0034_04:r_b76524cd840e1d37": {
+      "text": "$$フロンタル$$\n「A foolish question from someone of $$プラント$$.\n　We rose bearing the will\n　of every Spacenoid.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_730ffe18400abfc2": {
+      "text": "$$シン$$\n「Don't just assume that!\n　The people I know have been trying\n　to avoid war!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_ffe0fca26da5cd38": {
+      "text": "$$シン$$\n「You people trampled on their hopes,\n　and I won't forgive that!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_bfb27f9eb2f7073e": {
+      "text": "$$フロンタル$$\n「Your desperate act, awakening\n　the citizens' will to fight... Well done.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_859dfa27bcaafe30": {
+      "text": "$$ヒイロ$$\n「A strange man...\n　I feel no heat at all when I fight him...」",
+      "status": "imported"
+    },
+    "stage0034_04:r_71ebf05996a4b0fd": {
+      "text": "$$フロンタル$$\n「Your impression is a fair one.\n　But I too have a role that must be fulfilled.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_6214c11b1bca811e": {
+      "text": "$$ヒイロ$$\n「This man... just what is he...」",
+      "status": "imported"
+    },
+    "stage0034_04:r_8eaf6f3098ffed12": {
+      "text": "$$ゼクス$$\n「I heard about this man from $$シン$$...!\n　So he's the new masked man!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_cf507214fe955d75": {
+      "text": "$$フロンタル$$\n「$$ゼクス・マーキス$$...\n　No, Milliardo Peacecraft.\n　Weren't you once the same as me?」",
+      "status": "imported"
+    },
+    "stage0034_04:r_2113dcbabdfc758a": {
+      "text": "$$ゼクス$$\n「That's exactly why I understand...!\n　Just how dangerous a masked man can be!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$フロンタル$$\n「Me, who wears a mask, and you,\n　who cast one aside... An amusing twist of fate.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_6a74519e1fc29c4b": {
+      "text": "$$レズン$$\n「Well then... shall we?\n　Let me see what you're made of.」",
+      "status": "imported"
+    },
+    "stage0034_04:r_5b992878fee054b5": {
+      "text": "$$レズン$$\n「If you're called Bell, you should just ring one!」",
+      "status": "imported"
+    },
+    "stage0034_04:r_95a3dd16c2c4cc3e": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

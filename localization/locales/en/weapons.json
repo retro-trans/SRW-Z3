@@ -1,0 +1,1882 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "weapons:r_33713791dfe7d69d": {
+      "text": "Accel Glaive",
+      "status": "imported"
+    },
+    "weapons:r_616a4681296f9259": {
+      "text": "Assault Knife",
+      "status": "imported"
+    },
+    "weapons:r_34f58102f7b399d8": {
+      "text": "Assault Maneuver",
+      "status": "imported"
+    },
+    "weapons:r_33ce0f91214094a0": {
+      "text": "Assault Rifle",
+      "status": "imported"
+    },
+    "weapons:r_7a1054754c9e3cb2": {
+      "text": "Assault Combat",
+      "status": "imported"
+    },
+    "weapons:r_b7d61371781ecff6": {
+      "text": "Apoina Sword",
+      "status": "imported"
+    },
+    "weapons:r_2a8e53c8d383a45a": {
+      "text": "Arondight",
+      "status": "imported"
+    },
+    "weapons:r_cbfd7909a06f253c": {
+      "text": "Arc Line",
+      "status": "imported"
+    },
+    "weapons:r_6b2d1f6ad807380f": {
+      "text": "Arm Punch",
+      "status": "imported"
+    },
+    "weapons:r_d01a0d3549c7e9fb": {
+      "text": "Arm Beam Gun",
+      "status": "imported"
+    },
+    "weapons:r_2a98758c4881d0fd": {
+      "text": "Inazuma Kick",
+      "status": "imported"
+    },
+    "weapons:r_e93bc79c78a55812": {
+      "text": "Impact Dagger",
+      "status": "imported"
+    },
+    "weapons:r_e1b734d42c052836": {
+      "text": "Impact Cannon",
+      "status": "imported"
+    },
+    "weapons:r_88a186a700eb378c": {
+      "text": "Infinity Big Bang Storm",
+      "status": "imported"
+    },
+    "weapons:r_c850903e3e39ea07": {
+      "text": "Energy Wing",
+      "status": "imported"
+    },
+    "weapons:r_82186237ec64c1a4": {
+      "text": "Energy Sword",
+      "status": "imported"
+    },
+    "weapons:r_23ca8eb189847051": {
+      "text": "GEC-B 40mm Assault Rifle",
+      "status": "imported"
+    },
+    "weapons:r_f8ed7ae2d789cd03": {
+      "text": "All Range Attack",
+      "status": "imported"
+    },
+    "weapons:r_27575128d170b905": {
+      "text": "Catapult Launcher",
+      "status": "imported"
+    },
+    "weapons:r_21a4fafbc9462745": {
+      "text": "Gatling Gun",
+      "status": "imported"
+    },
+    "weapons:r_519c7c96c278779f": {
+      "text": "Gatling Gun Pod",
+      "status": "imported"
+    },
+    "weapons:r_edcb68d42a9fceb7": {
+      "text": "Gatling Gun",
+      "status": "imported"
+    },
+    "weapons:r_234f36604df0f714": {
+      "text": "Gun Pod",
+      "status": "imported"
+    },
+    "weapons:r_e305a7855878506d": {
+      "text": "Gunmarl Glaive",
+      "status": "imported"
+    },
+    "weapons:r_bfa5bb5e8c5d3b4a": {
+      "text": "Gunmarl Combination",
+      "status": "imported"
+    },
+    "weapons:r_bbc477a73c7188d2": {
+      "text": "Guard Attack",
+      "status": "imported"
+    },
+    "weapons:r_6eea365482c3c1b5": {
+      "text": "AK/VF-M9 Assault Knife",
+      "status": "imported"
+    },
+    "weapons:r_ed31d8e454a32ead": {
+      "text": "Cannon",
+      "status": "imported"
+    },
+    "weapons:r_3b9c97675704fbb5": {
+      "text": "King Kittan Giga Drill Break",
+      "status": "imported"
+    },
+    "weapons:r_b40998907c2e9b1e": {
+      "text": "Giga Drill Break",
+      "status": "imported"
+    },
+    "weapons:r_b07bf3b1cc695828": {
+      "text": "Giga Drill Maximum",
+      "status": "imported"
+    },
+    "weapons:r_3397b4419a74e378": {
+      "text": "Quarter Cannon",
+      "status": "imported"
+    },
+    "weapons:r_fb9a726247252c9d": {
+      "text": "Crab Claw",
+      "status": "imported"
+    },
+    "weapons:r_bc839a6966478cac": {
+      "text": "Crimson Edge",
+      "status": "imported"
+    },
+    "weapons:r_f9c3a49df35e4984": {
+      "text": "Chrome Buster",
+      "status": "imported"
+    },
+    "weapons:r_c2b63fb40574cf24": {
+      "text": "Claw",
+      "status": "imported"
+    },
+    "weapons:r_3df5e5d6efc66d98": {
+      "text": "Claw Arm",
+      "status": "imported"
+    },
+    "weapons:r_4a75ebfae8d97dc9": {
+      "text": "Sunglasses Cutter",
+      "status": "imported"
+    },
+    "weapons:r_a8f6d50a25a94675": {
+      "text": "Grenade",
+      "status": "imported"
+    },
+    "weapons:r_7c4cab6743a0a802": {
+      "text": "Grenade Launcher",
+      "status": "imported"
+    },
+    "weapons:r_45a50e9c880a221f": {
+      "text": "Grenade Launcher",
+      "status": "imported"
+    },
+    "weapons:r_2214d207423ed685": {
+      "text": "Gurren Boomerang",
+      "status": "imported"
+    },
+    "weapons:r_e2bdbd7ecda43a4c": {
+      "text": "Great Knot Punisher",
+      "status": "imported"
+    },
+    "weapons:r_7d787e43429c607a": {
+      "text": "Getter Spike Blade",
+      "status": "imported"
+    },
+    "weapons:r_3849707f55f41306": {
+      "text": "Getter Tomahawk",
+      "status": "imported"
+    },
+    "weapons:r_49853d048e97944c": {
+      "text": "Getter Beam",
+      "status": "imported"
+    },
+    "weapons:r_8c0ea17057e87e88": {
+      "text": "Cosmo Laser",
+      "status": "imported"
+    },
+    "weapons:r_44d262497fa51188": {
+      "text": "God Fire",
+      "status": "imported"
+    },
+    "weapons:r_c9db9b9c42058969": {
+      "text": "Ghost",
+      "status": "imported"
+    },
+    "weapons:r_d0d6452d47cec04f": {
+      "text": "Sudden Impact",
+      "status": "imported"
+    },
+    "weapons:r_57c9f3498a91e532": {
+      "text": "Thunder Spear",
+      "status": "imported"
+    },
+    "weapons:r_573e0f14492f1acf": {
+      "text": "Zaku Machine Gun",
+      "status": "imported"
+    },
+    "weapons:r_811b27cdcd0b0c68": {
+      "text": "Sturm Faust",
+      "status": "imported"
+    },
+    "weapons:r_6302c4f0dbeb8033": {
+      "text": "Sturmgewehr",
+      "status": "imported"
+    },
+    "weapons:r_396699b6a3eb47e1": {
+      "text": "Shoulder Missile Pod",
+      "status": "imported"
+    },
+    "weapons:r_0c75e10540c6fe5d": {
+      "text": "Shield Launcher",
+      "status": "imported"
+    },
+    "weapons:r_3488660215efcf83": {
+      "text": "Giant Cutter",
+      "status": "imported"
+    },
+    "weapons:r_211c8f9c2a39f929": {
+      "text": "Giant Bazooka",
+      "status": "imported"
+    },
+    "weapons:r_96dfd2d073138e23": {
+      "text": "Scramble Edge",
+      "status": "imported"
+    },
+    "weapons:r_161e1368ab460e10": {
+      "text": "Stauros Cannon",
+      "status": "imported"
+    },
+    "weapons:r_3e956d96c0be8c91": {
+      "text": "Stun Rod",
+      "status": "imported"
+    },
+    "weapons:r_ee1e846fe9983ee8": {
+      "text": "Stoner Sunshine",
+      "status": "imported"
+    },
+    "weapons:r_20461acfdd422fde": {
+      "text": "Stormbringer",
+      "status": "imported"
+    },
+    "weapons:r_4c9bb8e73ab63f62": {
+      "text": "Sniper Rifle",
+      "status": "imported"
+    },
+    "weapons:r_0dc4eed9cd9e0351": {
+      "text": "Sniper Beam Rifle",
+      "status": "imported"
+    },
+    "weapons:r_305754fc79f7f9b0": {
+      "text": "Spiral Getter Beam",
+      "status": "imported"
+    },
+    "weapons:r_eb3cce637665bac6": {
+      "text": "Space Kiyal Lancer",
+      "status": "imported"
+    },
+    "weapons:r_55ff6ebf92c0c548": {
+      "text": "Space King Kittan Beam",
+      "status": "imported"
+    },
+    "weapons:r_a3a9f76a0ad8ce0c": {
+      "text": "Slash Harken",
+      "status": "imported"
+    },
+    "weapons:r_911253849c6d518f": {
+      "text": "Super DRAGOON",
+      "status": "imported"
+    },
+    "weapons:r_c355be0c2f2c7dd3": {
+      "text": "Super Varis",
+      "status": "imported"
+    },
+    "weapons:r_fe054fbd250c82a6": {
+      "text": "Solid Shooter",
+      "status": "imported"
+    },
+    "weapons:r_b38381f999ac77a4": {
+      "text": "Double Gatling Gun",
+      "status": "imported"
+    },
+    "weapons:r_43f7772ad0ee719f": {
+      "text": "Double Tomahawk Boomerang",
+      "status": "imported"
+    },
+    "weapons:r_b9a3600e2eeab3c1": {
+      "text": "Dummy",
+      "status": "imported"
+    },
+    "weapons:r_b26e0ab1f054faee": {
+      "text": "Dan Blade Shoot",
+      "status": "imported"
+    },
+    "weapons:r_335910b44086d877": {
+      "text": "Twin Buster Rifle",
+      "status": "imported"
+    },
+    "weapons:r_786d28c288c6331f": {
+      "text": "Twin Beam Trident",
+      "status": "imported"
+    },
+    "weapons:r_2413dd8574800a53": {
+      "text": "Tomahawk Boomerang",
+      "status": "imported"
+    },
+    "weapons:r_04c8c830ef7ba8be": {
+      "text": "Trider Cutter",
+      "status": "imported"
+    },
+    "weapons:r_e789b97e699be32f": {
+      "text": "Trider Javelin",
+      "status": "imported"
+    },
+    "weapons:r_80fb8e01f9435c72": {
+      "text": "Trider Saber",
+      "status": "imported"
+    },
+    "weapons:r_4e22d40d3f41b9ee": {
+      "text": "Trider Bird Attack",
+      "status": "imported"
+    },
+    "weapons:r_f0addd1c84df772e": {
+      "text": "Trider Beam Cannon",
+      "status": "imported"
+    },
+    "weapons:r_7597497588e8949d": {
+      "text": "Trider Missile",
+      "status": "imported"
+    },
+    "weapons:r_1ccad4f2a235983d": {
+      "text": "Tri Punisher",
+      "status": "imported"
+    },
+    "weapons:r_6ac9e7100d6b7b4b": {
+      "text": "Triple Laser",
+      "status": "imported"
+    },
+    "weapons:r_ea2549e4e61e8347": {
+      "text": "Dragon Fang",
+      "status": "imported"
+    },
+    "weapons:r_452301b6ab7fa5b6": {
+      "text": "Drill Arm",
+      "status": "imported"
+    },
+    "weapons:r_a35fddb86209302e": {
+      "text": "Drill Hurricane",
+      "status": "imported"
+    },
+    "weapons:r_25d7c961a33366b9": {
+      "text": "Drill Missile",
+      "status": "imported"
+    },
+    "weapons:r_114dc65a976d9bcf": {
+      "text": "Droppers Folding Gun",
+      "status": "imported"
+    },
+    "weapons:r_9209b987deb147fc": {
+      "text": "Knuckle Buster",
+      "status": "imported"
+    },
+    "weapons:r_9cea3684e1b48a4f": {
+      "text": "Nitro Pike",
+      "status": "imported"
+    },
+    "weapons:r_569c5ab6dee2097d": {
+      "text": "New Hyper Bazooka",
+      "status": "imported"
+    },
+    "weapons:r_a8bd1a39d9ddfdf7": {
+      "text": "Nibelung Annihilation",
+      "status": "imported"
+    },
+    "weapons:r_e3c0410e0f21dbc3": {
+      "text": "Hyper Knuckle Buster",
+      "status": "imported"
+    },
+    "weapons:r_d2cd38677024e3ff": {
+      "text": "Hyper Bazooka",
+      "status": "imported"
+    },
+    "weapons:r_8031a4d1af494cec": {
+      "text": "Hyper Mega Launcher",
+      "status": "imported"
+    },
+    "weapons:r_42839045a2719813": {
+      "text": "Hadron Shot",
+      "status": "imported"
+    },
+    "weapons:r_498f79378c286078": {
+      "text": "Hammer Punch",
+      "status": "imported"
+    },
+    "weapons:r_e51fce8641f34408": {
+      "text": "Buster Cannon",
+      "status": "imported"
+    },
+    "weapons:r_4e5e739eb9687f9e": {
+      "text": "Buster Collider",
+      "status": "imported"
+    },
+    "weapons:r_88b8b5117914db9f": {
+      "text": "Buster Tomahawk",
+      "status": "imported"
+    },
+    "weapons:r_0559f5e717ce1d4b": {
+      "text": "Buster Beam",
+      "status": "imported"
+    },
+    "weapons:r_370bd2000104f9aa": {
+      "text": "Buster Missile",
+      "status": "imported"
+    },
+    "weapons:r_3059d5bf75463300": {
+      "text": "Battle Axe",
+      "status": "imported"
+    },
+    "weapons:r_233e3f78dc73e925": {
+      "text": "Battle Wing",
+      "status": "imported"
+    },
+    "weapons:r_4789bc09791e0fea": {
+      "text": "Vulcan",
+      "status": "imported"
+    },
+    "weapons:r_4e2d2f862cd12284": {
+      "text": "Pile Bunker",
+      "status": "imported"
+    },
+    "weapons:r_2603e286b37bc96f": {
+      "text": "Pulse Beam",
+      "status": "imported"
+    },
+    "weapons:r_f143a7cfebbbd54f": {
+      "text": "Pallet Rifle",
+      "status": "imported"
+    },
+    "weapons:r_ad78101f427815e7": {
+      "text": "Power Arm",
+      "status": "imported"
+    },
+    "weapons:r_039807f0606c913d": {
+      "text": "GV-17L Gun Pod",
+      "status": "imported"
+    },
+    "weapons:r_f1b33248c0ecf4cc": {
+      "text": "Heat Shotel",
+      "status": "imported"
+    },
+    "weapons:r_7f3d6ae878922d72": {
+      "text": "Heat Rod",
+      "status": "imported"
+    },
+    "weapons:r_0f971961fc40c2f2": {
+      "text": "Heat Saber",
+      "status": "imported"
+    },
+    "weapons:r_b20d215fc60854be": {
+      "text": "Big Bang Punch",
+      "status": "imported"
+    },
+    "weapons:r_df399978eb52ca96": {
+      "text": "BML-02S Micro Missiles",
+      "status": "imported"
+    },
+    "weapons:r_43daef27093dc59c": {
+      "text": "MBL-02S Micro Missiles",
+      "status": "imported"
+    },
+    "weapons:r_001114139e34dc0e": {
+      "text": "Beam",
+      "status": "imported"
+    },
+    "weapons:r_a5d0a9513c219588": {
+      "text": "Beam Gun",
+      "status": "imported"
+    },
+    "weapons:r_f04f12fc171273ac": {
+      "text": "Beam Gun Pod",
+      "status": "imported"
+    },
+    "weapons:r_b6c45103448106b1": {
+      "text": "Beam Saber",
+      "status": "imported"
+    },
+    "weapons:r_290689d29c7c837a": {
+      "text": "Beam Scissors",
+      "status": "imported"
+    },
+    "weapons:r_e6f3279b5f26fb90": {
+      "text": "Beam Rifle",
+      "status": "imported"
+    },
+    "weapons:r_5b24e743daad0c82": {
+      "text": "Beam Assault Rifle",
+      "status": "imported"
+    },
+    "weapons:r_8a05fe4dda8ed05b": {
+      "text": "Beam Gatling",
+      "status": "imported"
+    },
+    "weapons:r_dcca983d77c44e32": {
+      "text": "Beam Gun",
+      "status": "imported"
+    },
+    "weapons:r_1e35a75c25dbf846": {
+      "text": "Beam Cannon",
+      "status": "imported"
+    },
+    "weapons:r_794880ddc295e9c4": {
+      "text": "Beam Confuse",
+      "status": "imported"
+    },
+    "weapons:r_684e6f20ea967a25": {
+      "text": "Beam Saber",
+      "status": "imported"
+    },
+    "weapons:r_e3c122626d391584": {
+      "text": "Beam Saber (Hyper)",
+      "status": "imported"
+    },
+    "weapons:r_5c9259ed9d10c95a": {
+      "text": "Beam Shot Rifle",
+      "status": "imported"
+    },
+    "weapons:r_67fb1f9444dcbe2f": {
+      "text": "Beam Sword Axe",
+      "status": "imported"
+    },
+    "weapons:r_6760d92d0fb3493a": {
+      "text": "Beam Tomahawk",
+      "status": "imported"
+    },
+    "weapons:r_eb4f9b8403ba583d": {
+      "text": "Beam Hawk",
+      "status": "imported"
+    },
+    "weapons:r_f7bb35ae0e3c5025": {
+      "text": "Beam Magnum",
+      "status": "imported"
+    },
+    "weapons:r_f8bdee6825423551": {
+      "text": "Beam Machine Gun",
+      "status": "imported"
+    },
+    "weapons:r_74289411346efc3e": {
+      "text": "Beam Rifle",
+      "status": "imported"
+    },
+    "weapons:r_679946bc2a3f812a": {
+      "text": "Pinpoint Barrier Punch",
+      "status": "imported"
+    },
+    "weapons:r_4a6777d11f7b1d1a": {
+      "text": "Final Godmars",
+      "status": "imported"
+    },
+    "weapons:r_6fb8e06696f812cc": {
+      "text": "Final Stage",
+      "status": "imported"
+    },
+    "weapons:r_68a0ef16cf85d1c9": {
+      "text": "Funnel",
+      "status": "imported"
+    },
+    "weapons:r_4247f8f2f3ad293d": {
+      "text": "Finger Beam",
+      "status": "imported"
+    },
+    "weapons:r_8ffe16c8850659be": {
+      "text": "Fin Funnel",
+      "status": "imported"
+    },
+    "weapons:r_1a10056eab85a771": {
+      "text": "Folding Smasher",
+      "status": "imported"
+    },
+    "weapons:r_7f6c6305954c118d": {
+      "text": "Flywheel",
+      "status": "imported"
+    },
+    "weapons:r_a026aa5ba0196212": {
+      "text": "Flying Kick",
+      "status": "imported"
+    },
+    "weapons:r_f55f3578d63d7bc2": {
+      "text": "Flash Edge 2",
+      "status": "imported"
+    },
+    "weapons:r_db036819abab7196": {
+      "text": "Full Drillize",
+      "status": "imported"
+    },
+    "weapons:r_a4b6b73b998136d5": {
+      "text": "Blaster Arts Nova",
+      "status": "imported"
+    },
+    "weapons:r_78cb57d74116c0bd": {
+      "text": "Black Ox Attack",
+      "status": "imported"
+    },
+    "weapons:r_e5814626eb2a89e0": {
+      "text": "Black Hole",
+      "status": "imported"
+    },
+    "weapons:r_85754e243a11b2e7": {
+      "text": "Blizzard",
+      "status": "imported"
+    },
+    "weapons:r_ae7fe8d9924421ee": {
+      "text": "Breast Fire",
+      "status": "imported"
+    },
+    "weapons:r_bdc69e62fca76bd4": {
+      "text": "Boost Nova Knuckle",
+      "status": "imported"
+    },
+    "weapons:r_9cef2559904fcb74": {
+      "text": "Pneuma Bullet",
+      "status": "imported"
+    },
+    "weapons:r_2f50980583df7fb8": {
+      "text": "Plasma Drill Hurricane",
+      "status": "imported"
+    },
+    "weapons:r_9d7d8c7fdddaf51a": {
+      "text": "Plasma Gimmick",
+      "status": "imported"
+    },
+    "weapons:r_d40f7d3a0e7ed82b": {
+      "text": "Progressive Knife",
+      "status": "imported"
+    },
+    "weapons:r_c9b5f23474e746c0": {
+      "text": "Propeller Arm",
+      "status": "imported"
+    },
+    "weapons:r_4eaa7e811cbf1129": {
+      "text": "Heavy Machinegun",
+      "status": "imported"
+    },
+    "weapons:r_3a5f28d3fade8311": {
+      "text": "Helheim",
+      "status": "imported"
+    },
+    "weapons:r_5e084a209dd4ba61": {
+      "text": "Homing Missile",
+      "status": "imported"
+    },
+    "weapons:r_84ec3b814ca6ce35": {
+      "text": "Homing Laser",
+      "status": "imported"
+    },
+    "weapons:r_8a1f92fd00e3636e": {
+      "text": "Homing Missile",
+      "status": "imported"
+    },
+    "weapons:r_b1520d9e654323c3": {
+      "text": "Pole Weapon",
+      "status": "imported"
+    },
+    "weapons:r_8f228f9e449018d7": {
+      "text": "Micro Missile",
+      "status": "imported"
+    },
+    "weapons:r_9ee09006ec551d55": {
+      "text": "MGK 35mm Rifle",
+      "status": "imported"
+    },
+    "weapons:r_cc58ddee520395d1": {
+      "text": "Macross Attack",
+      "status": "imported"
+    },
+    "weapons:r_fe3fa0d8de4c76ee": {
+      "text": "Macross Cannon",
+      "status": "imported"
+    },
+    "weapons:r_6291749c967f433b": {
+      "text": "Machine Gun",
+      "status": "imported"
+    },
+    "weapons:r_6998a60f3670638c": {
+      "text": "Machine Cannon",
+      "status": "imported"
+    },
+    "weapons:r_b1f22da395c38176": {
+      "text": "Mars Flash",
+      "status": "imported"
+    },
+    "weapons:r_22e7141a976f488a": {
+      "text": "Missile",
+      "status": "imported"
+    },
+    "weapons:r_98473e8023ffa2da": {
+      "text": "Missile Gun",
+      "status": "imported"
+    },
+    "weapons:r_254d023e0d77404b": {
+      "text": "Missile Storm",
+      "status": "imported"
+    },
+    "weapons:r_3cb97d836ca17d27": {
+      "text": "Missile Detonator",
+      "status": "imported"
+    },
+    "weapons:r_07c335b30f64f058": {
+      "text": "Missile Pod",
+      "status": "imported"
+    },
+    "weapons:r_ff914a40fb45cc12": {
+      "text": "Missile Launcher",
+      "status": "imported"
+    },
+    "weapons:r_30abccca99a52363": {
+      "text": "Missile Party",
+      "status": "imported"
+    },
+    "weapons:r_a8dd7f11524ebbe3": {
+      "text": "Missile Launcher",
+      "status": "imported"
+    },
+    "weapons:r_a4590344a9ff34df": {
+      "text": "Midgardsormr",
+      "status": "imported"
+    },
+    "weapons:r_5c218b5da5e6294d": {
+      "text": "Mega Cannon",
+      "status": "imported"
+    },
+    "weapons:r_d163d880427381fa": {
+      "text": "Mega Gatling Gun",
+      "status": "imported"
+    },
+    "weapons:r_eba38d6660f3d817": {
+      "text": "Mega Beam Cannon",
+      "status": "imported"
+    },
+    "weapons:r_b66083e80c533f57": {
+      "text": "Mega Beam Launcher",
+      "status": "imported"
+    },
+    "weapons:r_b9ffefccc7045901": {
+      "text": "Metanoia Shot",
+      "status": "imported"
+    },
+    "weapons:r_ea903a050138d3d0": {
+      "text": "REB-22 Laser Beam Gun",
+      "status": "imported"
+    },
+    "weapons:r_0e8d0ea62487c069": {
+      "text": "Lambda Strike",
+      "status": "imported"
+    },
+    "weapons:r_3c38dd736623b591": {
+      "text": "Rust Hurricane",
+      "status": "imported"
+    },
+    "weapons:r_9353a6dcb9897ef0": {
+      "text": "Laser Pulse Gun",
+      "status": "imported"
+    },
+    "weapons:r_561a514941c528e0": {
+      "text": "BK-540 37mm Rifle",
+      "status": "imported"
+    },
+    "weapons:r_4d9c92a275e9b350": {
+      "text": "Rocket Punch",
+      "status": "imported"
+    },
+    "weapons:r_867e71a3566ae370": {
+      "text": "Rocket Launcher",
+      "status": "imported"
+    },
+    "weapons:r_90d8efa01e83efcc": {
+      "text": "Long Rifle",
+      "status": "imported"
+    },
+    "weapons:r_b36def538f8cab93": {
+      "text": "Rolling Attack",
+      "status": "imported"
+    },
+    "weapons:r_621fd9b76d904ec8": {
+      "text": "Rolling Buster Rifle",
+      "status": "imported"
+    },
+    "weapons:r_dbb6f75fd3c0c507": {
+      "text": "Vanargand",
+      "status": "imported"
+    },
+    "weapons:r_a4706a609abe9ffb": {
+      "text": "Varis",
+      "status": "imported"
+    },
+    "weapons:r_878c9cafb011e8a1": {
+      "text": "Varis Full Burst Mode",
+      "status": "imported"
+    },
+    "weapons:r_b7d81d0d406dc8c6": {
+      "text": "Varis Full Power",
+      "status": "imported"
+    },
+    "weapons:r_0a9b1bef4686a7e1": {
+      "text": "12.7mm Chain Gun",
+      "status": "imported"
+    },
+    "weapons:r_1042d63744d81bb5": {
+      "text": "25mm Gatling Cannon",
+      "status": "imported"
+    },
+    "weapons:r_12893ca6949a008d": {
+      "text": "35mm Rifle",
+      "status": "imported"
+    },
+    "weapons:r_0e823d01663adefa": {
+      "text": "37mm Rifle",
+      "status": "imported"
+    },
+    "weapons:r_1d7f0f49e19a115c": {
+      "text": "40mm Assault Rifle",
+      "status": "imported"
+    },
+    "weapons:r_0962154a7b0c9234": {
+      "text": "AM11 12.7mm Chain Gun",
+      "status": "imported"
+    },
+    "weapons:r_825dcdd3b8e64c7b": {
+      "text": "D Solid Punisher",
+      "status": "imported"
+    },
+    "weapons:r_f381ef532f76ed17": {
+      "text": "EM Dagger",
+      "status": "imported"
+    },
+    "weapons:r_76c7b0b530dcf9be": {
+      "text": "G-Dimension Liberator",
+      "status": "imported"
+    },
+    "weapons:r_8f973256447d28f3": {
+      "text": "G-BATM-04 Catapult Launcher",
+      "status": "imported"
+    },
+    "weapons:r_e5a0074b55345395": {
+      "text": "GAT-22 Heavy Machinegun",
+      "status": "imported"
+    },
+    "weapons:r_4a4c92f7f4f8a1c8": {
+      "text": "GN Cannon",
+      "status": "imported"
+    },
+    "weapons:r_74ff563ed5c94cdb": {
+      "text": "GN Sword Bit",
+      "status": "imported"
+    },
+    "weapons:r_97de7f4df82163be": {
+      "text": "GN Sword Rifle",
+      "status": "imported"
+    },
+    "weapons:r_da642dd6ee6fb64f": {
+      "text": "GN Big Cannon",
+      "status": "imported"
+    },
+    "weapons:r_8f75425cf955d693": {
+      "text": "GN Beam Gun",
+      "status": "imported"
+    },
+    "weapons:r_a8369a8d97b0a022": {
+      "text": "GN Beam Saber",
+      "status": "imported"
+    },
+    "weapons:r_9e8b81320c6841db": {
+      "text": "GN Beam Rifle",
+      "status": "imported"
+    },
+    "weapons:r_edd6c073a6d8c38f": {
+      "text": "GN Pistol Bit",
+      "status": "imported"
+    },
+    "weapons:r_b15a09f7a9cd9dec": {
+      "text": "GN Missile",
+      "status": "imported"
+    },
+    "weapons:r_133e6a75f93bb2bd": {
+      "text": "ISC Maneuver",
+      "status": "imported"
+    },
+    "weapons:r_769cd9d33ff6f91d": {
+      "text": "MA-M02G Super Lacerta",
+      "status": "imported"
+    },
+    "weapons:r_9b9470b20d988f89": {
+      "text": "MMI-714 Arondight",
+      "status": "imported"
+    },
+    "weapons:r_9c728520e2cc1775": {
+      "text": "O Thunder",
+      "status": "imported"
+    },
+    "weapons:r_b4723a9c61ccca47": {
+      "text": "QF-4000 Ghost",
+      "status": "imported"
+    },
+    "weapons:r_e83e9a0129cde343": {
+      "text": "RQM60F Flash Edge 2",
+      "status": "imported"
+    },
+    "weapons:r_f1d4fc38fb2ca325": {
+      "text": "SAT-03 Solid Shooter",
+      "status": "imported"
+    },
+    "weapons:r_4a30c7ce88800efa": {
+      "text": "SSL-9B Dragunov",
+      "status": "imported"
+    },
+    "weapons:r_59236de9846ab7c7": {
+      "text": "StG-3b Sturmgewehr",
+      "status": "imported"
+    },
+    "weapons:r_18801d0072682645": {
+      "text": "W Cannon",
+      "status": "imported"
+    },
+    "weapons:r_3d8bb4656727be8f": {
+      "text": "W Boomerang Spiral",
+      "status": "imported"
+    },
+    "weapons:r_32d8c279941a471e": {
+      "text": "Z Cutter",
+      "status": "imported"
+    },
+    "weapons:r_407006d9ef2fe13a": {
+      "text": "Mugen Big Bang Storm",
+      "status": "imported"
+    },
+    "weapons:r_7dc1875638856f9c": {
+      "text": "Bite",
+      "status": "imported"
+    },
+    "weapons:r_771f0aa70f9e0763": {
+      "text": "AU Assault Rifle MM-99",
+      "status": "imported"
+    },
+    "weapons:r_14505f9437a6438a": {
+      "text": "Thunder Spear CB-012",
+      "status": "imported"
+    },
+    "weapons:r_2214977e30a81d9c": {
+      "text": "Super EM Crossbow MM-144",
+      "status": "imported"
+    },
+    "weapons:r_556387ce7c17881b": {
+      "text": "Progressive Knife PKN-01C",
+      "status": "imported"
+    },
+    "weapons:r_c4beeb1f1d7abef7": {
+      "text": "Progressive Knife PKN-02.2C",
+      "status": "imported"
+    },
+    "weapons:r_e2be832e268db752": {
+      "text": "Callidus Beam Cannon",
+      "status": "imported"
+    },
+    "weapons:r_d4e19c402f32bc16": {
+      "text": "Gatling Cannon",
+      "status": "imported"
+    },
+    "weapons:r_5ed388b6470ef0d1": {
+      "text": "Gunmarl Glaive (Shot)",
+      "status": "imported"
+    },
+    "weapons:r_13cae92d20aa0283": {
+      "text": "Cannon",
+      "status": "imported"
+    },
+    "weapons:r_36db095a0e8e4119": {
+      "text": "Gurren Boomerang Great Cut",
+      "status": "imported"
+    },
+    "weapons:r_bbcba0b04fa3b4f6": {
+      "text": "Sturmgewehr Kai",
+      "status": "imported"
+    },
+    "weapons:r_b5fe8f294bb7ba2e": {
+      "text": "GRAW-2 Monomolecular Cutter",
+      "status": "imported"
+    },
+    "weapons:r_fd232f05eaaa1956": {
+      "text": "Giant Cutter Throw",
+      "status": "imported"
+    },
+    "weapons:r_6cac4e3df62ef3f3": {
+      "text": "Sniper Rifle (Precision)",
+      "status": "imported"
+    },
+    "weapons:r_e981520b2e6a16fd": {
+      "text": "Solid Shooter Rapid Fire",
+      "status": "imported"
+    },
+    "weapons:r_4a5b6849a0d462d8": {
+      "text": "Wrath of Talos",
+      "status": "imported"
+    },
+    "weapons:r_3371f1eb67935752": {
+      "text": "Change Shin Poseidon",
+      "status": "imported"
+    },
+    "weapons:r_f624aa0563c4427d": {
+      "text": "Change Shin Liger",
+      "status": "imported"
+    },
+    "weapons:r_3aae2eb465b1ebe2": {
+      "text": "Twin Buster Rifle Max Power",
+      "status": "imported"
+    },
+    "weapons:r_6440af29781f6f30": {
+      "text": "Trans-Am",
+      "status": "imported"
+    },
+    "weapons:r_07468d5c027690c4": {
+      "text": "Dragon's Hive Cannon",
+      "status": "imported"
+    },
+    "weapons:r_28ca02662f43df72": {
+      "text": "Hyper Mega Particle Cannon",
+      "status": "imported"
+    },
+    "weapons:r_b868a4a463040873": {
+      "text": "HPB-01A Heavy Quantum Pod",
+      "status": "imported"
+    },
+    "weapons:r_3a3bd56e0842322c": {
+      "text": "GU-17A 58mm Gun Pod",
+      "status": "imported"
+    },
+    "weapons:r_cdf72d7cbcb42bcd": {
+      "text": "Vulcan Cannon",
+      "status": "imported"
+    },
+    "weapons:r_0d2f265885505921": {
+      "text": "VGM-A2 'Versaile II' Missile",
+      "status": "imported"
+    },
+    "weapons:r_4ffa3d07ac19e0a8": {
+      "text": "Heat Shotel Throw",
+      "status": "imported"
+    },
+    "weapons:r_4f355c8ef0d526d6": {
+      "text": "Close-Range Missile Pod",
+      "status": "imported"
+    },
+    "weapons:r_ef6dcfd7dccfe59b": {
+      "text": "AA-55/QD 55mm Impact Cannon",
+      "status": "imported"
+    },
+    "weapons:r_fc9e8265df9c63b6": {
+      "text": "AA-76/QD Impact Cannon",
+      "status": "imported"
+    },
+    "weapons:r_44844a71d718030f": {
+      "text": "Beam Scissors Combo",
+      "status": "imported"
+    },
+    "weapons:r_7699062d4b3cbe9b": {
+      "text": "Beam Rifle Rapid Fire",
+      "status": "imported"
+    },
+    "weapons:r_157d23ae9e1387ca": {
+      "text": "Beam Machine Gun",
+      "status": "imported"
+    },
+    "weapons:r_a74e7662cf5014d5": {
+      "text": "Beam Cannon",
+      "status": "imported"
+    },
+    "weapons:r_c19c70b0deae33fd": {
+      "text": "Final Dankuu Hou",
+      "status": "imported"
+    },
+    "weapons:r_4f1251e5509b11d2": {
+      "text": "Funnel Barrage",
+      "status": "imported"
+    },
+    "weapons:r_5d26ba062c45289a": {
+      "text": "Heavy Machinegun Kai",
+      "status": "imported"
+    },
+    "weapons:r_012b83b750bf9fcf": {
+      "text": "ASG96-b 57mm Smoothbore",
+      "status": "imported"
+    },
+    "weapons:r_cd9ff39316cfaa78": {
+      "text": "LPG-30/3R Laser Pulse Gun",
+      "status": "imported"
+    },
+    "weapons:r_06325def22950f66": {
+      "text": "ROV-127C Beam Autocannon",
+      "status": "imported"
+    },
+    "weapons:r_a1f518f3b004378b": {
+      "text": "ROV-25 25mm Beam Autocannon",
+      "status": "imported"
+    },
+    "weapons:r_d20e5fb4ae4063d0": {
+      "text": "Mazinger Corps Barrage",
+      "status": "imported"
+    },
+    "weapons:r_cb2014524450a534": {
+      "text": "Missile Salvo",
+      "status": "imported"
+    },
+    "weapons:r_b328e41ed475a85d": {
+      "text": "Main Mega Particle Cannon",
+      "status": "imported"
+    },
+    "weapons:r_ac4b53f00bd3ee8b": {
+      "text": "Mega Cannon Max Power",
+      "status": "imported"
+    },
+    "weapons:r_7bec2d134fb1f542": {
+      "text": "Mega Particle Cannon",
+      "status": "imported"
+    },
+    "weapons:r_ff54ddc812a86917": {
+      "text": "Mega Particle Salvo",
+      "status": "imported"
+    },
+    "weapons:r_277e2c858bf36a7f": {
+      "text": "Triple Heavy Missile Pod",
+      "status": "imported"
+    },
+    "weapons:r_1a530aa8fd0c0d95": {
+      "text": "ES-25A 25mm Machine Gun",
+      "status": "imported"
+    },
+    "weapons:r_156506ed734d253f": {
+      "text": "Ring Beam",
+      "status": "imported"
+    },
+    "weapons:r_a29efa0f0e8884d4": {
+      "text": "Laser Cannon",
+      "status": "imported"
+    },
+    "weapons:r_65c5f52a1aa21d0d": {
+      "text": "M1108 Anti-Tank Dagger",
+      "status": "imported"
+    },
+    "weapons:r_38aa1fc7e444fbfd": {
+      "text": "Volley Fire",
+      "status": "imported"
+    },
+    "weapons:r_770b672c86445afe": {
+      "text": "Trinity Attack",
+      "status": "imported"
+    },
+    "weapons:r_57f445c41a666553": {
+      "text": "ALL TOGETHER ATTACK",
+      "status": "imported"
+    },
+    "weapons:r_29e268721700f24a": {
+      "text": "Rapid-Fire Impact Cannon",
+      "status": "imported"
+    },
+    "weapons:r_366ee5c7a0197883": {
+      "text": "Ram Attack",
+      "status": "imported"
+    },
+    "weapons:r_da099b1cbe36d40e": {
+      "text": "Multiplying Missiles",
+      "status": "imported"
+    },
+    "weapons:r_8ed6d227cb8a5a18": {
+      "text": "BYE-BYE MISSILES",
+      "status": "imported"
+    },
+    "weapons:r_5df4e1eb9b375e2f": {
+      "text": "Sword of Light",
+      "status": "imported"
+    },
+    "weapons:r_6857437595f4ce8c": {
+      "text": "Arrow of Light",
+      "status": "imported"
+    },
+    "weapons:r_2b27a39096ab2166": {
+      "text": "Photon Beam",
+      "status": "imported"
+    },
+    "weapons:r_2374cb0063e98ae5": {
+      "text": "Light Shot",
+      "status": "imported"
+    },
+    "weapons:r_b8db65508d960373": {
+      "text": "Light Sphere",
+      "status": "imported"
+    },
+    "weapons:r_864bd0eeb406e8a0": {
+      "text": "Formenia Light Blade",
+      "status": "imported"
+    },
+    "weapons:r_9960f870fb8e3302": {
+      "text": "Light Particle Blast",
+      "status": "imported"
+    },
+    "weapons:r_774f1cc52710c7e3": {
+      "text": "Light Particle Blast Wide",
+      "status": "imported"
+    },
+    "weapons:r_29dd318491e044cd": {
+      "text": "Light Particle Blade",
+      "status": "imported"
+    },
+    "weapons:r_b4bf1ed1ff9a2c82": {
+      "text": "Light Particle Maser",
+      "status": "imported"
+    },
+    "weapons:r_d6040a15b9c973a6": {
+      "text": "Soldier",
+      "status": "imported"
+    },
+    "weapons:r_dfe187cd642acb2a": {
+      "text": "Separation Barrage",
+      "status": "imported"
+    },
+    "weapons:r_4efba03613dac09e": {
+      "text": "Sword",
+      "status": "imported"
+    },
+    "weapons:r_8d9db85cba23dcab": {
+      "text": "Sword Beam",
+      "status": "imported"
+    },
+    "weapons:r_4c7bcd0a13a4b3bc": {
+      "text": "Secondary Cannon",
+      "status": "imported"
+    },
+    "weapons:r_6ec74920691a1707": {
+      "text": "Genesys Mugen Attack",
+      "status": "imported"
+    },
+    "weapons:r_d254169e889ce970": {
+      "text": "GENESYS MUGEN ATTACK",
+      "status": "imported"
+    },
+    "weapons:r_1d25e467d4fc5c8d": {
+      "text": "Wrath of the Hero",
+      "status": "imported"
+    },
+    "weapons:r_4cf1bc3978b8ae18": {
+      "text": "Monomolecular Cutter",
+      "status": "imported"
+    },
+    "weapons:r_acd3b123b1f37e1e": {
+      "text": "Monomolecular Cutter Rifle",
+      "status": "imported"
+    },
+    "weapons:r_09916839cd11d305": {
+      "text": "Reflect Beam",
+      "status": "imported"
+    },
+    "weapons:r_b257e0aa7bdced27": {
+      "text": "Reaction Missile",
+      "status": "imported"
+    },
+    "weapons:r_21427bd4fe80e445": {
+      "text": "Anti-Spiral Giga Drill Break",
+      "status": "imported"
+    },
+    "weapons:r_332b09a4832c65d9": {
+      "text": "Possible Spacetime Volley",
+      "status": "imported"
+    },
+    "weapons:r_63dcdde728b71d96": {
+      "text": "Spinning Ram Attack",
+      "status": "imported"
+    },
+    "weapons:r_a21fc4b82f7c98cc": {
+      "text": "460mm Positron Cannon",
+      "status": "imported"
+    },
+    "weapons:r_74fe47445964d4e4": {
+      "text": "Large Vajra Launch",
+      "status": "imported"
+    },
+    "weapons:r_259e47e3ffddcf62": {
+      "text": "Large Fan",
+      "status": "imported"
+    },
+    "weapons:r_541b8919c6748f6f": {
+      "text": "Large Mega Particle Cannon",
+      "status": "imported"
+    },
+    "weapons:r_d51505605e807c7c": {
+      "text": "Large Monomolecular Cutter",
+      "status": "imported"
+    },
+    "weapons:r_8b1bfc8999211bb2": {
+      "text": "Daisetsuzan Oroshi",
+      "status": "imported"
+    },
+    "weapons:r_416ba945be6f55b9": {
+      "text": "Tachi",
+      "status": "imported"
+    },
+    "weapons:r_3dd5b7a58802bcc4": {
+      "text": "Wings of the Sun",
+      "status": "imported"
+    },
+    "weapons:r_2999b04ec05bbc74": {
+      "text": "Trinity Requiem",
+      "status": "imported"
+    },
+    "weapons:r_952ccac21a58015b": {
+      "text": "TRINITY REQUIEM",
+      "status": "imported"
+    },
+    "weapons:r_ceceae69126bdd98": {
+      "text": "Anti-Tank Dagger",
+      "status": "imported"
+    },
+    "weapons:r_3a8eec7878b69585": {
+      "text": "Anti-Air/Ground Turret",
+      "status": "imported"
+    },
+    "weapons:r_60fd6e18b0969dd5": {
+      "text": "Anti-Air Machine Gun",
+      "status": "imported"
+    },
+    "weapons:r_54e31eefd727fae9": {
+      "text": "Anti-Air Cannon",
+      "status": "imported"
+    },
+    "weapons:r_596d16e3387f1b2c": {
+      "text": "Anti-Ship Missile",
+      "status": "imported"
+    },
+    "weapons:r_6d1e4a83d1ccfd03": {
+      "text": "Custom Rifle",
+      "status": "imported"
+    },
+    "weapons:r_6777542c66d94a1e": {
+      "text": "Small-Bore Beam Cannon",
+      "status": "imported"
+    },
+    "weapons:r_49a66e5495ea4dd0": {
+      "text": "Small Vajra Launch",
+      "status": "imported"
+    },
+    "weapons:r_e2d90692212e2dbf": {
+      "text": "Small Saucer Barrage",
+      "status": "imported"
+    },
+    "weapons:r_5ddf360eb34d57ea": {
+      "text": "Shigokumon",
+      "status": "imported"
+    },
+    "weapons:r_087f2a19fb41fc7d": {
+      "text": "Cruise Missile",
+      "status": "imported"
+    },
+    "weapons:r_dcc193e64fb0809d": {
+      "text": "Bow and Arrow",
+      "status": "imported"
+    },
+    "weapons:r_f46a1d58a5e40c30": {
+      "text": "Assault",
+      "status": "imported"
+    },
+    "weapons:r_4f3bb1e60ea84dc0": {
+      "text": "Bullet Attack",
+      "status": "imported"
+    },
+    "weapons:r_d21e3f21ad753afb": {
+      "text": "Kurogane Five Deathblow",
+      "status": "imported"
+    },
+    "weapons:r_09b92b3d426a6509": {
+      "text": "Mystery Beam",
+      "status": "imported"
+    },
+    "weapons:r_cb36bb1f7e4ddcfb": {
+      "text": "Planet Throw",
+      "status": "imported"
+    },
+    "weapons:r_dbb7c4ab71e612a9": {
+      "text": "Spread Beam",
+      "status": "imported"
+    },
+    "weapons:r_f95d7a48df735c65": {
+      "text": "Spread Mega Particle Cannon",
+      "status": "imported"
+    },
+    "weapons:r_709204e0ea865ab5": {
+      "text": "Spread Phase-Shift Cannon",
+      "status": "imported"
+    },
+    "weapons:r_5923c0ededd98f0d": {
+      "text": "Shotgun",
+      "status": "imported"
+    },
+    "weapons:r_39e9c4a4ab7298af": {
+      "text": "Dankuuken",
+      "status": "imported"
+    },
+    "weapons:r_4f28d013f3451786": {
+      "text": "Dankuu Dangaiken",
+      "status": "imported"
+    },
+    "weapons:r_82ea8dbbab2da691": {
+      "text": "Berserk",
+      "status": "imported"
+    },
+    "weapons:r_329d65142afd77f0": {
+      "text": "Moonlight Rhapsody",
+      "status": "imported"
+    },
+    "weapons:r_b28b199989b5a77c": {
+      "text": "MOONLIGHT RHAPSODY",
+      "status": "imported"
+    },
+    "weapons:r_6d12afdb65bedc3d": {
+      "text": "Moonlight Requiem",
+      "status": "imported"
+    },
+    "weapons:r_e4f4afd9f8686041": {
+      "text": "MOONLIGHT REQUIEM",
+      "status": "imported"
+    },
+    "weapons:r_2461664c03600636": {
+      "text": "Psycommu Mega Arm Cannon",
+      "status": "imported"
+    },
+    "weapons:r_b064e405ed811878": {
+      "text": "Melee",
+      "status": "imported"
+    },
+    "weapons:r_f89e6f547463c8c2": {
+      "text": "Spear",
+      "status": "imported"
+    },
+    "weapons:r_4af39312bc9b5c20": {
+      "text": "Machine Gun",
+      "status": "imported"
+    },
+    "weapons:r_a2351e77b4cbf2cc": {
+      "text": "Machine Gun Turret",
+      "status": "imported"
+    },
+    "weapons:r_9162c18cb0d6f641": {
+      "text": "Autocannon",
+      "status": "imported"
+    },
+    "weapons:r_82a3e898bd1d1bdc": {
+      "text": "Dimension Tunnel Shell",
+      "status": "imported"
+    },
+    "weapons:r_5fb37646bb67817f": {
+      "text": "TUNNEL BULLET",
+      "status": "imported"
+    },
+    "weapons:r_39b04c0b17cf9d52": {
+      "text": "All Weapons Barrage",
+      "status": "imported"
+    },
+    "weapons:r_c10b0b96ba984769": {
+      "text": "Altair Cannon",
+      "status": "imported"
+    },
+    "weapons:r_f9ba2d3a1e4004d4": {
+      "text": "ALTAIR CANNON",
+      "status": "imported"
+    },
+    "weapons:r_0e73e2beada18ed9": {
+      "text": "Light of Oblivion",
+      "status": "imported"
+    },
+    "weapons:r_18e737a6b2f0af6a": {
+      "text": "Flame",
+      "status": "imported"
+    },
+    "weapons:r_69bd7a3da82784d9": {
+      "text": "Scorching Beam",
+      "status": "imported"
+    },
+    "weapons:r_cb01a151aeeed26a": {
+      "text": "Mugen Attack",
+      "status": "imported"
+    },
+    "weapons:r_f3e2c9e4f9881833": {
+      "text": "Cluster Mugen Attack",
+      "status": "imported"
+    },
+    "weapons:r_4d1d40533319dd9e": {
+      "text": "CLUSTER MUGEN ATTACK",
+      "status": "imported"
+    },
+    "weapons:r_01baaf2dcd8aee9e": {
+      "text": "Bombing",
+      "status": "imported"
+    },
+    "weapons:r_16714a0e4e8b2b55": {
+      "text": "Beast Mode",
+      "status": "imported"
+    },
+    "weapons:r_5425354d8047a1b3": {
+      "text": "Bio Missile",
+      "status": "imported"
+    },
+    "weapons:r_af0488e99b20b767": {
+      "text": "Bio Heavy Beam Cannon",
+      "status": "imported"
+    },
+    "weapons:r_6d188a20a5e35b17": {
+      "text": "Shin Getter Change Attack",
+      "status": "imported"
+    },
+    "weapons:r_b1a499b584dc4b40": {
+      "text": "Bombardment",
+      "status": "imported"
+    },
+    "weapons:r_4cc35e45ab9d96ec": {
+      "text": "Destruction Beam",
+      "status": "imported"
+    },
+    "weapons:r_65dd7de3eca81ab7": {
+      "text": "Probability Shift Shell",
+      "status": "imported"
+    },
+    "weapons:r_cad6d317eef18ae4": {
+      "text": "Infinite Palm of the Buddha",
+      "status": "imported"
+    },
+    "weapons:r_8996a3fbbb1f60a5": {
+      "text": "INFINITE PALM OF THE BUDDHA",
+      "status": "imported"
+    },
+    "weapons:r_f62f9e470fe9e8b7": {
+      "text": "Space Severing Cannon",
+      "status": "imported"
+    },
+    "weapons:r_bbd9293a689c89fb": {
+      "text": "Charge",
+      "status": "imported"
+    },
+    "weapons:r_3b1e577f1a810ff6": {
+      "text": "TOTSUGEKI LOVE HEART",
+      "status": "imported"
+    },
+    "weapons:r_23acae6472a172a7": {
+      "text": "Rush",
+      "status": "imported"
+    },
+    "weapons:r_316a581d0eadb33e": {
+      "text": "All-Out Attack",
+      "status": "imported"
+    },
+    "weapons:r_9392c8c486a3e431": {
+      "text": "Chest Mega Particle Cannon",
+      "status": "imported"
+    },
+    "weapons:r_15e662c257fcd898": {
+      "text": "Arm Separation Attack",
+      "status": "imported"
+    },
+    "weapons:r_c9eae321bd9befb0": {
+      "text": "Horn",
+      "status": "imported"
+    },
+    "weapons:r_4980915075d31323": {
+      "text": "Flying Love Attack",
+      "status": "imported"
+    },
+    "weapons:r_ba5568e8b9c455f5": {
+      "text": "FLYING LOVE ATTACK",
+      "status": "imported"
+    },
+    "weapons:r_3d166a9ec49f3a31": {
+      "text": "Tentacle",
+      "status": "imported"
+    },
+    "weapons:r_3b7f2e29a9300677": {
+      "text": "Tengen Toppa Giga Drill Break",
+      "status": "imported"
+    },
+    "weapons:r_0872d48ed854a0b0": {
+      "text": "Tengen Toppa Dai-Gurren",
+      "status": "imported"
+    },
+    "weapons:r_052f5d58601bd285": {
+      "text": "Dai-Gurren Brigade",
+      "status": "imported"
+    },
+    "weapons:r_12a3557c8beae4b7": {
+      "text": "Super Dimension Mugen Attack",
+      "status": "imported"
+    },
+    "weapons:r_7062d259c277ce76": {
+      "text": "Super Dimensional MUGEN ATTACK",
+      "status": "imported"
+    },
+    "weapons:r_02f472bc42bd0022": {
+      "text": "Space Galaxy Giga Drill Break",
+      "status": "imported"
+    },
+    "weapons:r_c3ee84acd324c3b6": {
+      "text": "Super EM Crossbow",
+      "status": "imported"
+    },
+    "weapons:r_834f1529fee5806f": {
+      "text": "Radiant Wave Surger",
+      "status": "imported"
+    },
+    "weapons:r_f04d47445a18b363": {
+      "text": "Radiant Wave Surger (Wide)",
+      "status": "imported"
+    },
+    "weapons:r_452cd6a91399b2d5": {
+      "text": "Radiant Wave Surger (Halo)",
+      "status": "imported"
+    },
+    "weapons:r_6cff1c4645893e8e": {
+      "text": "Rapid-Fire Buster Cannon",
+      "status": "imported"
+    },
+    "weapons:r_aa344628435af84d": {
+      "text": "Buster Cannon: Quantum Mode",
+      "status": "imported"
+    },
+    "weapons:r_f4f848596bbb964d": {
+      "text": "Combo Attack",
+      "status": "imported"
+    },
+    "weapons:r_67e4e4d3c5dd36ab": {
+      "text": "No Guard Attack",
+      "status": "imported"
+    },
+    "weapons:r_e178052a662d7d81": {
+      "text": "NO GUARD ATTACK",
+      "status": "imported"
+    },
+    "weapons:r_00dd4c7470ef4d9c": {
+      "text": "Gravity Attack",
+      "status": "imported"
+    },
+    "weapons:r_4bb905da37c6492b": {
+      "text": "Heavy Quantum Beam Gun Pod",
+      "status": "imported"
+    },
+    "weapons:r_2d8aae4fa4e36db2": {
+      "text": "Tetsujin Full Power",
+      "status": "imported"
+    },
+    "weapons:r_0b421e259aeda4f6": {
+      "text": "Iron Fist",
+      "status": "imported"
+    },
+    "weapons:r_7bbc2dc6149de9e5": {
+      "text": "Iron Ball",
+      "status": "imported"
+    },
+    "weapons:r_8c060e0cc0f2158d": {
+      "text": "Galaxy Shuriken",
+      "status": "imported"
+    },
+    "weapons:r_443777f3cd49b3b2": {
+      "text": "Scythe",
+      "status": "imported"
+    },
+    "weapons:r_e6b43890fd37a5a0": {
+      "text": "Positron Cannon",
+      "status": "imported"
+    },
+    "weapons:r_870d3528cae3fa27": {
+      "text": "Electric Shock",
+      "status": "imported"
+    },
+    "weapons:r_453ae8be8393e3e1": {
+      "text": "Electromagnetic Beam",
+      "status": "imported"
+    },
+    "weapons:r_57c36221f49646e0": {
+      "text": "Head Getter Beam",
+      "status": "imported"
+    },
+    "weapons:r_37b3db3bc5048a35": {
+      "text": "Gaien",
+      "status": "imported"
+    },
+    "weapons:r_293a12aa46758fe0": {
+      "text": "High-Energy Beam Rifle",
+      "status": "imported"
+    },
+    "weapons:r_bfa72f6d0fe4aea9": {
+      "text": "Long-Range Beam Cannon",
+      "status": "imported"
+    },
+    "weapons:r_277471a1e4f748a1": {
+      "text": "14.5mm Autocannon",
+      "status": "imported"
+    },
+    "weapons:r_d1c97d8b49b8412d": {
+      "text": "25mm Beam Autocannon",
+      "status": "imported"
+    },
+    "weapons:r_2698e18d22b729c4": {
+      "text": "25mm Machine Gun",
+      "status": "imported"
+    },
+    "weapons:r_558cd6a2ed7f07b4": {
+      "text": "Triple Gatling Buster Cannon",
+      "status": "imported"
+    },
+    "weapons:r_7ca48dd2d12e3fc3": {
+      "text": "Triple Beam Gun",
+      "status": "imported"
+    },
+    "weapons:r_8ea451ee16833a3e": {
+      "text": "Triple Rocket Launcher",
+      "status": "imported"
+    },
+    "weapons:r_9e8eaa6d39a532bf": {
+      "text": "Triple Bio Quantum Cannon",
+      "status": "imported"
+    },
+    "weapons:r_ccf311b40322aee5": {
+      "text": "30mm Autocannon",
+      "status": "imported"
+    },
+    "weapons:r_4a8052e8f072f487": {
+      "text": "31mm CIWS",
+      "status": "imported"
+    },
+    "weapons:r_81c8921bc87ac106": {
+      "text": "37mm Twin Cannon",
+      "status": "imported"
+    },
+    "weapons:r_cb2724a645fce261": {
+      "text": "4-Barrel Quantum Cannon",
+      "status": "imported"
+    },
+    "weapons:r_f43e4b0879773da7": {
+      "text": "Quad Mega Particle Cannon",
+      "status": "imported"
+    },
+    "weapons:r_8cad9684e4ed6b52": {
+      "text": "57mm Shot Cannon Boxer",
+      "status": "imported"
+    },
+    "weapons:r_4d25246f059c9278": {
+      "text": "AS Anti-Materiel Rifle",
+      "status": "imported"
+    },
+    "weapons:r_673422424413cdbc": {
+      "text": "EM-226 440mm Gatling Gun",
+      "status": "imported"
+    },
+    "weapons:r_fd845d96a0f842b4": {
+      "text": "EQFU-3X Super DRAGOON",
+      "status": "imported"
+    },
+    "weapons:r_61290e393d9f0419": {
+      "text": "GAT-22-C Heavy Machinegun Kai",
+      "status": "imported"
+    },
+    "weapons:r_bc9268b514413688": {
+      "text": "GN Sword II Kai",
+      "status": "imported"
+    },
+    "weapons:r_4cd3948b5f1574d4": {
+      "text": "GN Sword II Kai Rifle Mode",
+      "status": "imported"
+    },
+    "weapons:r_385dfa41f7dad0d0": {
+      "text": "GN Sword III",
+      "status": "imported"
+    },
+    "weapons:r_ee00e217d1ff6d57": {
+      "text": "GN Sword III Rifle Mode",
+      "status": "imported"
+    },
+    "weapons:r_215f4a448696fd4a": {
+      "text": "GN Sword V",
+      "status": "imported"
+    },
+    "weapons:r_789d0de524625354": {
+      "text": "GN Sword V Rifle Mode",
+      "status": "imported"
+    },
+    "weapons:r_7184fdeb54367f72": {
+      "text": "GN Sword Rifle (Slash)",
+      "status": "imported"
+    },
+    "weapons:r_1fb9af09bf36f858": {
+      "text": "GN Rifle Bit II",
+      "status": "imported"
+    },
+    "weapons:r_ce2fc5461ceaf0eb": {
+      "text": "GN Rifle Bit II (Scatter)",
+      "status": "imported"
+    },
+    "weapons:r_502661d5c6b3825e": {
+      "text": "IAI 'Crimson Edge' Cutter",
+      "status": "imported"
+    },
+    "weapons:r_d86ded2ea1818ebb": {
+      "text": "IAI 'Dark Edge' Cutter",
+      "status": "imported"
+    },
+    "weapons:r_1f0ff73d31d38dab": {
+      "text": "M2000GX Long-Range Beam Gun",
+      "status": "imported"
+    },
+    "weapons:r_82c439dbd5937d4d": {
+      "text": "MA-BAR73/S Beam Rifle",
+      "status": "imported"
+    },
+    "weapons:r_fe659d682424d409": {
+      "text": "MA-M21KF Beam Rifle",
+      "status": "imported"
+    },
+    "weapons:r_9d18a5b5eeb443fb": {
+      "text": "MDE Beam Cannon",
+      "status": "imported"
+    },
+    "weapons:r_daa91e75a9638a40": {
+      "text": "MDE Shell",
+      "status": "imported"
+    },
+    "weapons:r_69078daf1209e4ab": {
+      "text": "MGX-2235 Callidus Cannon",
+      "status": "imported"
+    },
+    "weapons:r_aee2825c5e879390": {
+      "text": "MMI-GAU27D 31mm CIWS",
+      "status": "imported"
+    },
+    "weapons:r_6f8a66186f9b7d62": {
+      "text": "MVS Dual Wield",
+      "status": "imported"
+    },
+    "weapons:r_013612a8c15aa129": {
+      "text": "Mk48 ADCAP Torpedo",
+      "status": "imported"
+    },
+    "weapons:r_dc3efa529fb31903": {
+      "text": "NT-D Combo Attack",
+      "status": "imported"
+    },
+    "weapons:r_f1cd87f93797fc28": {
+      "text": "OTO Melara 'Boxer' 57mm",
+      "status": "imported"
+    },
+    "weapons:r_d6ebedbc8a8bf096": {
+      "text": "SSL-9B Dragunov (Precision)",
+      "status": "imported"
+    },
+    "weapons:r_434ccd2b6c1bd715": {
+      "text": "StG-5A Sturmgewehr Kai",
+      "status": "imported"
+    },
+    "weapons:r_079fb732723609f4": {
+      "text": "TW1-MDE/M25 Twin Beam Gun",
+      "status": "imported"
+    },
+    "weapons:r_56bfffd4a7d0d95c": {
+      "text": "TW2-MDE/M25 Twin MDE Gun",
+      "status": "imported"
+    }
+  }
+}

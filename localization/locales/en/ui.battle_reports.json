@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ui.battle_reports:r_4998c9f909424a08": {
+      "text": "President skill bonus:",
+      "status": "imported"
+    },
+    "ui.battle_reports:r_f21d29d91af8d199": {
+      "text": "Each deployed pilot gained",
+      "status": "imported"
+    },
+    "ui.battle_reports:r_52a6e811afb89172": {
+      "text": "Destroy an enemy team with your next action to gain one extra action.",
+      "status": "imported"
+    },
+    "ui.battle_reports:r_12830343ae581b43": {
+      "text": "Earn double PP from the next enemy destroyed.",
+      "status": "imported"
+    },
+    "ui.battle_reports:r_73f8080be688dfc5": {
+      "text": "Earn double Z Chips from the next enemy destroyed.",
+      "status": "imported"
+    },
+    "ui.battle_reports:r_b52f2480da53bf39": {
+      "text": "Restore 25 SP to the team's main pilots.",
+      "status": "imported"
+    },
+    "ui.battle_reports:r_f9b35564aafcd2e7": {
+      "text": ": Repair Costs",
+      "status": "imported"
+    },
+    "ui.battle_reports:r_3116c33439dff787": {
+      "text": ": Repair Costs",
+      "status": "imported"
+    },
+    "ui.battle_reports:r_7f2318a37843ae64": {
+      "text": ": Repair Costs",
+      "status": "imported"
+    },
+    "ui.battle_reports:r_4b764c845ba4bb77": {
+      "text": "Cost",
+      "status": "imported"
+    },
+    "ui.battle_reports:r_22a9c653a7f2b8b7": {
+      "text": "Funds",
+      "status": "imported"
+    },
+    "ui.battle_reports:r_dabd1c74af49e9a6": {
+      "text": "Tag Command",
+      "status": "imported"
+    }
+  }
+}

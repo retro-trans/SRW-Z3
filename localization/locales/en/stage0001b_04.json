@@ -1,0 +1,414 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0001b_04:r_caaab7bad760e16d": {
+      "text": "$$スズネ$$\n「That robot...!\n　Did the spacequake bring it here...!?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_99b162aa6aa286a2": {
+      "text": "$n\n「It's looking right at us...!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_58fb02434a1c40b2": {
+      "text": "$$スズネ$$\n「Kyaa!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_1c0f94acd5a8a143": {
+      "text": "$n\n「Miss!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_1263541f4071624e": {
+      "text": "$$スズネ$$\n「$l!\n　Hold on, $l!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_3bc300bbdc277d82": {
+      "text": "$n\n「...!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_38762a09460d8b6b": {
+      "text": "$$スズネ$$\n「Thank goodness, you're awake.\n　You were out cold for a little while.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_7ab28e70b4d4f641": {
+      "text": "$n\n「...Miss, please run.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$スズネ$$\n「W-what...?\n　Come on, hurry, $l.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_ec335e69f984b8b3": {
+      "text": "$n\n「I'm... going...!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_0abcaf0c31978670": {
+      "text": "$$スズネ$$\n「$l!?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_1d6bc48b7f246730": {
+      "text": "$n\n「I know... I can feel it...\n　It's coming...」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_1af20fccc3c53cfc": {
+      "text": "$n\n「...That's right...\n　Come here...!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_f951916061232dcd": {
+      "text": "$n\n「Lend me your power!!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_4d863c3fb88a4c39": {
+      "text": "$n\n「...Climb aboard and it even changes\n　my clothes for me. How considerate...」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_44f4742c3dcce39a": {
+      "text": "$n\n「First...!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_9e701cdeb3842c21": {
+      "text": "$$スズネ$$\n「A robot...!?\n　Did that come through the quake too!?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_6fd81f4abebe60c5": {
+      "text": "$$スズネ$$\n「$l...\n　It looked like that robot\n　pulled him inside...」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_da2132b5038ec737": {
+      "text": "$n\n「It poured out of that black mass,\n　straight into my head...」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_495d61d3ec7e16f2": {
+      "text": "$n\n「I know it...\n　Its name... how to move it,\n　how to fight with it!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_5cd353758cfe474d": {
+      "text": "$n\n「With this... I can fight!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_a653c8dec4c0f06f": {
+      "text": "$n\n「That's it...\n　Keep coming after me.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_86d493e37a9799a7": {
+      "text": "$n\n「Here we go...!\n　I don't know what you are,\n　but you're going to lend me your strength!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_09d0fcc600cdd3df": {
+      "text": "$n\n「Go, $$ジェニオン$$!\n　Show me what you can do!!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_182faded068c15ed": {
+      "text": "$$恭子$$\n「What is that robot!?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_9c206d19bfda4bd5": {
+      "text": "$$かなめ$$\n「Looks like the quake threw it here...」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_6e558bc69acf5bf3": {
+      "text": "$$恭子$$\n「This is what you get for saying\n　you wanted some excitement...」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_d60d0818e965232f": {
+      "text": "$$かなめ$$\n「What!?\n　This is my fault!?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_5b23687574286204": {
+      "text": "$$スズネ$$\n「All of you!\n　Get to shelter, now!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_6fd86c96891ea942": {
+      "text": "$$恭子$$\n「Miss $$スズネ$$!\n　What are those things!?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_43e4e548c0b28376": {
+      "text": "$$かなめ$$\n「The blue one looks like it's\n　protecting the city. Is it a\n　Federation machine!?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_d80a9688790ed583": {
+      "text": "$$スズネ$$\n「I don't know either...!\n　Whatever it is, we run. Now!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_708bea61e3c43ada": {
+      "text": "$$スズネ$$\n（$l...）",
+      "status": "imported"
+    },
+    "stage0001b_04:r_7b6f159eeaf4de0f": {
+      "text": "$$マッキー$$\n「What's going on, $$正太郎$$!?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_0827963cfd706e8d": {
+      "text": "$$正太郎$$\n「I don't know...!\n　I've never seen either of them!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$ワッ太$$\n「Forget that for now. We have to do\n　something about that bat robot!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_3f4035fd9db81258": {
+      "text": "$$かおる$$\n「What about the blue one?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_567b361a454c4b73": {
+      "text": "$$ワッ太$$\n「No idea what it is, but it's\n　defending the city, so I don't think\n　it's one of the bad guys.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_d22851aaafbbf8fc": {
+      "text": "$$正太郎$$\n「$$ワッ太$$!\n　Leave this side to me. Look after\n　$$マッキー$$ and $$かおる$$!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_352534f64413d954": {
+      "text": "$$ワッ太$$\n「OK!\n　Counting on you, $$正太郎$$!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_79f2664edb1af798": {
+      "text": "$n\n「That's... handled...」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_a62c4e7f3c09f7ed": {
+      "text": "$n\n「Something else is coming...!?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_1c5aa0d15ae24846": {
+      "text": "$n\n「Reinforcements...!?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_53bb64ee17750ee2": {
+      "text": "$n\n「Numbers this time, is it...!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_7a7add80fde475ba": {
+      "text": "$$正太郎$$\n「Pilot of the blue robot,\n　can you hear me?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_b2befefdbed1393d": {
+      "text": "$$正太郎$$\n「This is $$鉄人$$ 28, of the 《$$ＩＣＰＯ$$》!\n　Let's work together and\n　protect the city!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_2103f6df2ea2e447": {
+      "text": "$n\n「$$ＩＣＰＯ$$, huh...\n　Not an enemy, then.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_a12e3e130d896ff7": {
+      "text": "$$正太郎$$\n「Those things...!\n　They mean to surround us!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_b6f7b219eb4bd64b": {
+      "text": "$n\n「They know the basics of a hunt...!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_91bf33c27ad39f0a": {
+      "text": "$$正太郎$$\n「But at this rate the whole city\n　becomes a battlefield!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_ee220318b96ab538": {
+      "text": "$$正太郎$$\n「What...!\n　A machine appeared out of nowhere!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_ce1b55e526b6277a": {
+      "text": "$n\n「An AS...?\n　But I've never seen a model like that.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_c304df6888eb78f7": {
+      "text": "$$マオ$$\n「Can you hear me, boy detective of\n　the $$ＩＣＰＯ$$, and mystery robot pilot?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_c26958634526e597": {
+      "text": "$$正太郎$$\n「Who are you people?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_cdb750c9d380881a": {
+      "text": "$$マオ$$\n「Mmm, let's say allies of justice\n　who happened to be passing through.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_95fda74613c97b39": {
+      "text": "$$マオ$$\n「And since we've said as much, we'll\n　handle the Unknowns close to us.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_1956994937f8171e": {
+      "text": "$$正太郎$$\n「...Understood.\n　Please, go ahead.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_48f49f6728c15612": {
+      "text": "$$クルツ$$\n「There she is, the pure and righteous\n　genuine ally of justice! So obliging.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$宗介$$\n「There's no time for chatter, $$クルツ$$.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_f02c37d91387d0ad": {
+      "text": "$$マオ$$\n「$$宗介$$'s right. Having made a show\n　of it, we're not allowed to betray\n　that kid's trust.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$マオ$$\n「And above all, we have\n　a mission to carry out.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_9796b3efa401a303": {
+      "text": "$$クルツ$$\n「I know, I know, boss.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_643b6eebfc0186b3": {
+      "text": "$$マオ$$\n「$$ウルズ$$ 2 to 6 and 7!\n　7 and I take point!\n　6, cover us from the rear!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_291280e5f7eb9d70": {
+      "text": "$$宗介$$\n「Understood.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_32eb462c1b4999cb": {
+      "text": "$$クルツ$$\n「Well then, let's get to it!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_1f4337d6d393fc37": {
+      "text": "$$クルツ$$\n「That's cleaned up for now.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_4740e748fae085ee": {
+      "text": "$$宗介$$\n「What now, $$ウルズ$$ 2?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_b76524cd840e1d37": {
+      "text": "$$マオ$$\n「I want data on the Unknowns.\n　$$クルツ$$ and I will recover wreckage\n　and pull back.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_730ffe18400abfc2": {
+      "text": "$$宗介$$\n「And what should I do?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_ffe0fca26da5cd38": {
+      "text": "$$マオ$$\n「You continue the mission.\n　In all this confusion some troublesome\n　people might go after the Angel.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_bfb27f9eb2f7073e": {
+      "text": "$$宗介$$\n「Understood.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_859dfa27bcaafe30": {
+      "text": "$$クルツ$$\n「Right, the rest is yours.\n　Don't let the boy detective catch you.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_71ebf05996a4b0fd": {
+      "text": "$$宗介$$\n「I'll engage $$ＥＣＳ$$ as well\n　and shake off pursuit.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_6214c11b1bca811e": {
+      "text": "$$正太郎$$\n「An AS I've never seen...\n　Who were those people...」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_8eaf6f3098ffed12": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_cf507214fe955d75": {
+      "text": "$$正太郎$$\n「Please wait!\n　Who exactly are you...」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_2113dcbabdfc758a": {
+      "text": "$n\n「I can't let anyone else\n　get hold of this...」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$正太郎$$\n「...He's gone...」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_6a74519e1fc29c4b": {
+      "text": "$$正太郎$$\n「He and the AS pilots both\n　helped us out, so I can't believe\n　they're bad people, but...」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_5b992878fee054b5": {
+      "text": "$$正太郎$$\n「For now, finding out what that\n　enemy really is comes first...」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_95a3dd16c2c4cc3e": {
+      "text": "???\n「.........」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_4a14ec0c511c7f0d": {
+      "text": "???\n「I followed the $$デイモーン$$ that activated\n　on its own, and got to see\n　something interesting.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_20cf167c0ec0d4d5": {
+      "text": "???\n「This planet's fighting strength...\n　Not enough to call a threat after all.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_b591d812c96c6c99": {
+      "text": "???\n「...Savour your peace while you can,\n　little pets. What waits for you is...」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_e350fa099c1ab072": {
+      "text": "???\n「a hell split in two.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_fb05d8e5f1ee93e5": {
+      "text": "$n\n「I can do this...!\n　With this power, I'm sure I can...!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_c33bd700553abf91": {
+      "text": "$n\n「Is it no good...!\n　Do I end without doing anything!?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_feee5c91826230e1": {
+      "text": "$n\n「I'm sorry... Dad, sis...」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_bccc48e1964ad22d": {
+      "text": "$n\n「$$ジェニオン$$...\n　I don't care what you are.\n　I need you.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_f8736aaaa216c766": {
+      "text": "$n\n「So let me put it to the test!\n　That power of yours!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_d1ec2522c87c361d": {
+      "text": "$n\n「I'll fight...!\n　No matter what stands there!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_3599f0a4343fd95c": {
+      "text": "$n\n「Dad, sis...!\n　I...!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_3bc7834a5bf3ee76": {
+      "text": "$$正太郎$$\n「A new Earth Federation was formed,\n　and I thought the world had\n　finally found peace...!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_366814efdc8b5800": {
+      "text": "$$正太郎$$\n「If you would disturb that peace,\n　then $$鉄人$$ and I will face you!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_9be1a4c10bb62515": {
+      "text": "$$マオ$$\n「《$$ＥＣＳ$$》 running fine...!\n　That's our surprise attack ready!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_94a88c90e557e16e": {
+      "text": "$$マオ$$\n「Still, curiosity killed the cat...\n　Never expected trouble this far\n　outside the plan mid-mission.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_1c208ca0cbf26f28": {
+      "text": "$$マオ$$\n「Don't tell me these things are\n　after the Angel too...!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_5b7ee307a700171a": {
+      "text": "$$クルツ$$\n「Unknown or not, it makes no\n　difference. They're targets to me...!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_8d8f065c932da30a": {
+      "text": "$$クルツ$$\n「You lot get to play the part of\n　my accumulated frustration!」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_f5432119677514f7": {
+      "text": "$$宗介$$\n「Are these the troublesome enemies\n　the Major mentioned, the ones\n　after $$千鳥かなめ$$...?」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_4e5c8e989c4a7691": {
+      "text": "$$宗介$$\n「...No need to pry further.\n　I simply carry out the mission.」",
+      "status": "imported"
+    },
+    "stage0001b_04:r_adec86483b13599a": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

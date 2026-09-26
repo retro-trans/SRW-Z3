@@ -1,0 +1,1062 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0080_03:r_caaab7bad760e16d": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "translated"
+    },
+    "stage0080_03:r_99b162aa6aa286a2": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "translated"
+    },
+    "stage0080_03:r_58fb02434a1c40b2": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "translated"
+    },
+    "stage0080_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　　\n　　　　　　　　～ $$ドラゴンズハイヴ$$ Hangar ～",
+      "status": "translated"
+    },
+    "stage0080_03:r_1263541f4071624e": {
+      "text": "$$甲児$$\n「Calm down, $$シンジ$$!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_3bc300bbdc277d82": {
+      "text": "$$シンジ$$\n「Let go of me, $$甲児$$!\n　I can't forgive my father!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_38762a09460d8b6b": {
+      "text": "$$タケル$$\n「Commander Ikari used the Dummy System\n　to save you!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_7ab28e70b4d4f641": {
+      "text": "$$シンジ$$\n「But then what about $$アスカ$$...!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$スズネ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_ec335e69f984b8b3": {
+      "text": "$$ロゼ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_0abcaf0c31978670": {
+      "text": "$$甲児$$\n「Even so, taking it out on your dad...!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_1d6bc48b7f246730": {
+      "text": "$$シンジ$$\n「Shut up!\n　Let go of me!!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_1af20fccc3c53cfc": {
+      "text": "$$タケル$$\n「$$シンジ$$!!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_f951916061232dcd": {
+      "text": "$$竜馬$$\n「Let him go.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_4d863c3fb88a4c39": {
+      "text": "$$タケル$$\n「But if we leave things as they are...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_44f4742c3dcce39a": {
+      "text": "$$甲児$$\n「That's right!\n　You two were finally getting closer!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_9e701cdeb3842c21": {
+      "text": "$$竜馬$$\n「It ain't about reason.\n　Let $$シンジ$$ do what he wants.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_6fd81f4abebe60c5": {
+      "text": "$$竜馬$$\n「If that's all it takes to break them\n　as father and son, so be it.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_da2132b5038ec737": {
+      "text": "$$甲児$$\n「Ngh...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_495d61d3ec7e16f2": {
+      "text": "$$赤木$$\n「I agree with $$竜馬$$ on this.\n　If $$シンジ$$ won't go, I'll go protest\n　this to Commander Ikari myself.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_5cd353758cfe474d": {
+      "text": "$$ロジャー$$\n「$$碇ゲンドウ$$...\n　His actions are far too self-righteous.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_a653c8dec4c0f06f": {
+      "text": "$$ロジャー$$\n「Angels, Third Impact... and Evangelion.\n　Being made to fight without knowing\n　the truth is wearing thin, for $$シンジ$$ and for us.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_86d493e37a9799a7": {
+      "text": "$$甲児$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_09d0fcc600cdd3df": {
+      "text": "$$タケル$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_182faded068c15ed": {
+      "text": "$n\n「$$ミサト$$...\n　what happened to $$アスカ$$?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_9c206d19bfda4bd5": {
+      "text": "$$ミサト$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_6e558bc69acf5bf3": {
+      "text": "$n\n「She's alive, isn't she?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_d60d0818e965232f": {
+      "text": "$$ミサト$$\n「...The cellular erosion is gone, but we still\n　can't rule out mental contamination by an Angel.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_5b23687574286204": {
+      "text": "$$ミサト$$\n「We'll just have to keep her isolated for now.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_6fd86c96891ea942": {
+      "text": "$$スズネ$$\n「No way...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_43e4e548c0b28376": {
+      "text": "$$赤木$$\n「She'll get better, right!?\n　Please, tell me she'll get better!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_d80a9688790ed583": {
+      "text": "$$ミサト$$\n「...At this point, I can't say for sure...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_708bea61e3c43ada": {
+      "text": "$$ミコノ$$\n「$$アスカ$$...\n　And she was finally starting to open up...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_7b6f159eeaf4de0f": {
+      "text": "$$ユノハ$$\n「$$アスカ$$...$$シンジ$$...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_0827963cfd706e8d": {
+      "text": "$$アマタ$$\n「...If we'd tried harder,\n　could we have saved $$アスカ$$...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$シモン$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_3f4035fd9db81258": {
+      "text": "$$ヴィラル$$\n「What's on your mind?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_567b361a454c4b73": {
+      "text": "$$シモン$$\n「...It's about $$シンジ$$ and $$アスカ$$...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_d22851aaafbbf8fc": {
+      "text": "$$ヴィラル$$\n「Don't think my eyes are just for show, $$シモン$$.\n　What's really on your mind is the EVA.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_352534f64413d954": {
+      "text": "$$ヴィラル$$\n「No... I'd say you're afraid of it!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_79f2664edb1af798": {
+      "text": "$$シモン$$\n「...You're right, $$ヴィラル$$.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$ダリー$$\n「$$シモン$$...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_1c5aa0d15ae24846": {
+      "text": "$$ギミー$$\n「What's wrong!?\n　I can't believe $$シモン$$ would be scared of anything!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_53bb64ee17750ee2": {
+      "text": "$$キタン$$\n「That ain't like you, $$シモン$$.\n　Aren't you the guy who never flinches,\n　no matter how big the enemy is?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_7a7add80fde475ba": {
+      "text": "$$シモン$$\n「If it's an enemy, I just clash with it head-on.\n　But that thing...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_b2befefdbed1393d": {
+      "text": "$$ヨーコ$$\n「The EVA?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_2103f6df2ea2e447": {
+      "text": "$$シモン$$\n「I can't explain it, but that thing is dangerous...\n　Something about it is fundamentally\n　different from other machines.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_a12e3e130d896ff7": {
+      "text": "$$隼人$$\n「Something inside you is sounding the alarm...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_b6f7b219eb4bd64b": {
+      "text": "$$シモン$$\n「If it's about machines that make no sense,\n　Aquarion, $$ジェニオン$$, and Unicorn are\n　all just as strange...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_91bf33c27ad39f0a": {
+      "text": "$$シモン$$\n「But the EVA... that Unit-01,\n　something about it's different...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_ee220318b96ab538": {
+      "text": "$$ニア$$\n（It's because you are the same kind of being.）",
+      "status": "translated"
+    },
+    "stage0080_03:r_ce1b55e526b6277a": {
+      "text": "$$シモン$$\n「$$ニア$$!?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_c304df6888eb78f7": {
+      "text": "$$ヨーコ$$\n「What's gotten into you all of a sudden!?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_c26958634526e597": {
+      "text": "$$シモン$$\n「N-no... I heard $$ニア$$'s voice...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_cdb750c9d380881a": {
+      "text": "$$キタン$$\n「Get a grip, $$シモン$$.\n　I get that $$アスカ$$'s got you shaken up,\n　but what good are you like this?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_95fda74613c97b39": {
+      "text": "$$シモン$$\n「Y-yeah...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_1956994937f8171e": {
+      "text": "$$アドヴェント$$\n「It's only natural that you'd be on edge.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_48f49f6728c15612": {
+      "text": "$n\n「$$アドヴェント$$...!\n　Why are you here!?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$アドヴェント$$\n「I came to warn you of danger.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_f02c37d91387d0ad": {
+      "text": "$$竜馬$$\n「What'd you say?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$シモン$$\n「Does that danger have something to do\n　with what you just said about me being on edge?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_9796b3efa401a303": {
+      "text": "$$アドヴェント$$\n「$$シモン$$...\n　When your head is held down, you draw out\n　the strength to break through it...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_643b6eebfc0186b3": {
+      "text": "$$アドヴェント$$\n「Now that the whole world is being wrapped\n　in the Prison of Time, that sense of confinement\n　is instead awakening your power.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_291280e5f7eb9d70": {
+      "text": "$$シモン$$\n「!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_32eb462c1b4999cb": {
+      "text": "$$アドヴェント$$\n「Let's hurry.\n　He may already be closing in.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_1f4337d6d393fc37": {
+      "text": "Pitch Black",
+      "status": "translated"
+    },
+    "stage0080_03:r_4740e748fae085ee": {
+      "text": "Pitch Black",
+      "status": "translated"
+    },
+    "stage0080_03:r_b76524cd840e1d37": {
+      "text": "Pitch Black",
+      "status": "translated"
+    },
+    "stage0080_03:r_730ffe18400abfc2": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_ffe0fca26da5cd38": {
+      "text": "$$レイ#333$$\n「You're covering your ears again, like that?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_bfb27f9eb2f7073e": {
+      "text": "$$シンジ$$\n「If I cover my ears, my heart closes off too.\n　Then I don't have to touch this awful world.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_859dfa27bcaafe30": {
+      "text": "$$レイ#333$$\n「An awful world...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_71ebf05996a4b0fd": {
+      "text": "$$シンジ$$\n「That's right.\n　A world with the dad I hate, scary Angels, EVAs,\n　a world that makes me do awful things...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_6214c11b1bca811e": {
+      "text": "$$シンジ$$\n「With a Dummy, it's a world dad doesn't\n　need me in, a world where I hurt my friends too...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_8eaf6f3098ffed12": {
+      "text": "$$シンジ$$\n「But there were good things too.\n　...In the end, though, it all breaks down.\n　An awful world...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_cf507214fe955d75": {
+      "text": "$$レイ#333$$\n「...Did you try to understand your father, Ikari?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_2113dcbabdfc758a": {
+      "text": "$$シンジ$$\n「I tried to understand him.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$レイ#333$$\n「Didn't you do nothing at all?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_6a74519e1fc29c4b": {
+      "text": "$$シンジ$$\n「I did try to understand him!\n　It's dad who's wrong!\n　He's the one who abandoned me!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_5b992878fee054b5": {
+      "text": "$$アドヴェント$$\n「Running away from what you hate again, like that?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$シンジ$$\n「So what if I am!\n　What's wrong with running from what I hate!?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_4a14ec0c511c7f0d": {
+      "text": "$$アドヴェント$$\n「That's fine...\n　Just keep running like that, then...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_20cf167c0ec0d4d5": {
+      "text": "$$シンジ$$\n「What are you, anyway...!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_b591d812c96c6c99": {
+      "text": "$$アドヴェント$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_e350fa099c1ab072": {
+      "text": "NERV Hangar",
+      "status": "translated"
+    },
+    "stage0080_03:r_fb05d8e5f1ee93e5": {
+      "text": "NERV Hangar",
+      "status": "translated"
+    },
+    "stage0080_03:r_c33bd700553abf91": {
+      "text": "NERV Hangar",
+      "status": "translated"
+    },
+    "stage0080_03:r_feee5c91826230e1": {
+      "text": "　\n　　\n　　　　　　　　　～ NERV Headquarters, Hangar ～",
+      "status": "translated"
+    },
+    "stage0080_03:r_bccc48e1964ad22d": {
+      "text": "$$シンジ$$\n「What are you, anyway...!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_f8736aaaa216c766": {
+      "text": "$$ミサト$$\n「So you're awake.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_d1ec2522c87c361d": {
+      "text": "$$シンジ$$\n「$$ミサト$$...where is this...?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_3599f0a4343fd95c": {
+      "text": "$$ミサト$$\n「NERV's hangar.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_3bc7834a5bf3ee76": {
+      "text": "$$シンジ$$\n「I see...\n　So dad picked me up...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_366814efdc8b5800": {
+      "text": "$$ミサト$$\n「Where are you going, $$シンジ$$?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_9be1a4c10bb62515": {
+      "text": "$$シンジ$$\n「I'm not... getting in the EVA anymore...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_94a88c90e557e16e": {
+      "text": "$$ミサト$$\n「...Understood.\n　I'll let everyone know myself.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_1c208ca0cbf26f28": {
+      "text": "$$シンジ$$\n「Is that all right?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_5b7ee307a700171a": {
+      "text": "$$ミサト$$\n「Right now, I can't stop you.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_8d8f065c932da30a": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_f5432119677514f7": {
+      "text": "$$ミサト$$\n「Honestly...\n　maybe even I don't really care\n　about humanity or the world.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_4e5c8e989c4a7691": {
+      "text": "$$ミサト$$\n「I ended up in this position, but at first\n　I just wanted to get a little closer to my\n　dead father, so I volunteered for NERV.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_adec86483b13599a": {
+      "text": "$$ミサト$$\n「Just like how you got in the EVA because\n　you wanted Commander Ikari to need you...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_2cf701bbcde3ec13": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_c17c58fdba72005e": {
+      "text": "$$ミサト$$\n「So I ended up overlapping my own feelings onto you.\n　I know that's felt like a burden to you too.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_1fe8564d2b959317": {
+      "text": "$$ミサト$$\n「I know you've grown disappointed in\n　your reasons for getting in the EVA now.\n　But even so, I still...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_f527e012803f7f1c": {
+      "text": "$$シンジ$$\n「It doesn't matter anymore...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_4b1247bd3ca4905d": {
+      "text": "$$ミサト$$\n「...That day, $$レイ#333$$ invited Commander Ikari too.\n　She wanted you to get along with your father.\n　She wanted you all to laugh together...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_00c55e25f87b71d0": {
+      "text": "$$シンジ$$\n「I can't laugh with anyone anymore.\n　$$アスカ$$, too... after what happened to her...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_338f3b27e51dcc41": {
+      "text": "$$アドヴェント$$\n「Don't go deciding she's dead on your own.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_d91d4bc2d52b61c4": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_0c8ea89b07432421": {
+      "text": "$$ミサト$$\n「$$アドヴェント$$...\n　You... how did you get in here...?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_4dbfba00ba7744ee": {
+      "text": "$$アドヴェント$$\n「That doesn't matter right now.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_be100a32b731708d": {
+      "text": "$$ミサト$$\n（Even with the internal split, he's part\n　of Chrono... Is that why...?）",
+      "status": "translated"
+    },
+    "stage0080_03:r_702f82442fcec8a9": {
+      "text": "$$アドヴェント$$\n「$$シンジ$$...\n　When $$アスカ$$ wakes up and sees you like this,\n　what do you think she'll say...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_b1e38da4e8775ffe": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$アドヴェント$$\n「And now, the time has come for you to leave\n　your parents' nest. Get in the Evangelion\n　for your own sake, not your father's.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$シンジ$$\n「That's not something... I want to hear from you.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_3dad695c99e9e052": {
+      "text": "$$アドヴェント$$\n「That's fine.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_66d4ae3a21caf881": {
+      "text": "$$シンジ$$\n「Huh...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_0c18da7b3a37825d": {
+      "text": "$$アドヴェント$$\n「If it's your own choice not to get in it,\n　that's fine too.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_63249745ffae61b6": {
+      "text": "$$ミサト$$\n「But, $$シンジ$$...\n　if you refuse to pilot EVA just to\n　spite your father or me, I won't forgive you」",
+      "status": "translated"
+    },
+    "stage0080_03:r_abdb034ae8509702": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_3ff2e21207d1d1d3": {
+      "text": "$$ミサト$$\n「Think back, $$シンジ$$.\n　When you were fighting as $c,\n　were you only fighting for your father?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_e51ecf6d6aa42e75": {
+      "text": "$$ミサト$$\n「Wanting to save someone, to protect\n　the world... Didn't you feel that,\n　not even a little?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_47ddabb7b60131c2": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_b025267f22788233": {
+      "text": "$$ミサト$$\n「Tell me, $$シンジ$$...\n　Are you Commander Ikari's son,\n　his Daddy's Boy?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_ec1a06a7023bf72c": {
+      "text": "$$シンジ$$\n「I...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_8805f96e52aaa462": {
+      "text": "Moonlit Night",
+      "status": "translated"
+    },
+    "stage0080_03:r_124591cb154fae64": {
+      "text": "Moonlit Night",
+      "status": "translated"
+    },
+    "stage0080_03:r_7bdb6fecc8b3bde8": {
+      "text": "Moonlit Night",
+      "status": "translated"
+    },
+    "stage0080_03:r_4bf9b05b5f948170": {
+      "text": "$$カヲル$$\n（Fate has shifted, if only a little...）",
+      "status": "translated"
+    },
+    "stage0080_03:r_eaa52d152f444bfd": {
+      "text": "$$カヲル$$\n（This means the Tenth Angel won't\n　appear again for a while...）",
+      "status": "translated"
+    },
+    "stage0080_03:r_b4bc9e9435b58e6f": {
+      "text": "$$カヲル$$\n「A bit of a shame...\n　It seems my visit to see him\n　will be delayed too」",
+      "status": "translated"
+    },
+    "stage0080_03:r_a9227573166977a9": {
+      "text": "Command Room",
+      "status": "translated"
+    },
+    "stage0080_03:r_b0600ab9a9e8559d": {
+      "text": "Command Room",
+      "status": "translated"
+    },
+    "stage0080_03:r_7cbc63dad295f862": {
+      "text": "Command Room",
+      "status": "translated"
+    },
+    "stage0080_03:r_07f53c816e0a51f5": {
+      "text": "　\n　　\n　　　　　　　　～ NERV Headquarters, Commander's Office ～",
+      "status": "translated"
+    },
+    "stage0080_03:r_2d09c6f6a2d990ea": {
+      "text": "$$ゲンドウ$$\n「To think you'd turn yourself in」",
+      "status": "translated"
+    },
+    "stage0080_03:r_3c5fcfc484a51913": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_0476ffd10c764b0e": {
+      "text": "$$ゲンドウ$$\n「How is $$レイ#333$$ doing?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$ミサト$$\n「We judged her unrelated to this matter,\n　so she's standing by at $c」",
+      "status": "translated"
+    },
+    "stage0080_03:r_2b3479c4cf0680f4": {
+      "text": "$$ゲンドウ$$\n「So her affiliation is $c now,\n　not NERV...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_e370696b8936b08c": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_9d7b02c5e728b7aa": {
+      "text": "$$ゲンドウ$$\n「Insubordination, private use of an EVA,\n　a clumsy threat... These are all crimes.\n　...Do you have anything to say?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_9af213fc64e0afec": {
+      "text": "$$シンジ$$\n「I did it because I thought it was necessary」",
+      "status": "translated"
+    },
+    "stage0080_03:r_d7f1c506e78e55ff": {
+      "text": "$$ゲンドウ$$\n「That judgment is mine to make」",
+      "status": "translated"
+    },
+    "stage0080_03:r_0c705091f748360e": {
+      "text": "$$シンジ$$\n「And if you're wrong, what am I\n　supposed to do?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_9eb8599304125b2f": {
+      "text": "$$ゲンドウ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_a072aa25e5f521e0": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_24e1a808a1609a1a": {
+      "text": "$$ゲンドウ$$\n「I am stripping you of your qualification\n　as an EVA pilot」",
+      "status": "translated"
+    },
+    "stage0080_03:r_53128ce8f154fd06": {
+      "text": "$$ミサト$$\n「Commander Ikari, that's...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_03b5db9ce98fb8d6": {
+      "text": "$$ゲンドウ$$\n「And if I said that, what would\n　you do?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_3915fb4102f1c1dd": {
+      "text": "$$シンジ$$\n「...I'll go to $c」",
+      "status": "translated"
+    },
+    "stage0080_03:r_817b2773b4ed563e": {
+      "text": "$$ゲンドウ$$\n「Are you running away?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_1cc233cbc8c80af7": {
+      "text": "$$シンジ$$\n「Even without an EVA, I'll find\n　something I can do」",
+      "status": "translated"
+    },
+    "stage0080_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$$ゲンドウ$$\n「...Paying any price to fulfill your\n　own wish, by your own strength...\n　Is that your idea of becoming an adult?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_e180b22d18f48d38": {
+      "text": "$$シンジ$$\n「I don't want to become the kind of\n　adult who steals someone's happiness\n　or life to get there」",
+      "status": "translated"
+    },
+    "stage0080_03:r_e598c2a0b27e7f50": {
+      "text": "$$ゲンドウ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_4d2a9066c4e7b27f": {
+      "text": "$$ゲンドウ$$\n「...Colonel Katsuragi」",
+      "status": "translated"
+    },
+    "stage0080_03:r_10340119af3ed6db": {
+      "text": "$$ミサト$$\n「Yes.」",
+      "status": "translated"
+    },
+    "stage0080_03:r_23a9c7ab620ab112": {
+      "text": "$$ゲンドウ$$\n「This entire incident will be excused\n　as a judgment call made in the field\n　by the pilot」",
+      "status": "translated"
+    },
+    "stage0080_03:r_4f0aca6deda07883": {
+      "text": "$$ミサト$$\n「Then...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_8fe40600ce62dfbc": {
+      "text": "$$ゲンドウ$$\n「The three EVAs will continue to operate\n　under $c, as before.\n　I leave command to you」",
+      "status": "translated"
+    },
+    "stage0080_03:r_ff4ce5f3cf96b617": {
+      "text": "$$ミサト$$\n「Will Unit-02 be operated by\n　$$真希波・マリ・イラストリアス$$?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_d73c21f119847e35": {
+      "text": "$$ゲンドウ$$\n「That's right.\n　She too is one of the children」",
+      "status": "translated"
+    },
+    "stage0080_03:r_89766f5ffaa912d4": {
+      "text": "$$ミサト$$\n「Understood」",
+      "status": "translated"
+    },
+    "stage0080_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$ゲンドウ$$\n「$$シンジ$$...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_451f726d4299ea35": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_e3d111e8bb190cb1": {
+      "text": "$$ゲンドウ$$\n「Go」",
+      "status": "translated"
+    },
+    "stage0080_03:r_7c0d3c51f9a11ca0": {
+      "text": "$$シンジ$$\n「...Goodbye, father」",
+      "status": "translated"
+    },
+    "stage0080_03:r_ab97c2b2418ea732": {
+      "text": "$$ゲンドウ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_2ddff5064af78db4": {
+      "text": "$$冬月$$\n「Is that wise?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_050d0532c4b24bfe": {
+      "text": "$$ゲンドウ$$\n「It's fine.\n　A delay of this scale was expected」",
+      "status": "translated"
+    },
+    "stage0080_03:r_d583fcea31bdad2e": {
+      "text": "$$冬月$$\n「So you'll let things run their course...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_475f7653621a91b5": {
+      "text": "$$ゲンドウ$$\n「And that's only for another month」",
+      "status": "translated"
+    },
+    "stage0080_03:r_f228ae702350849b": {
+      "text": "$$冬月$$\n「At the $$大統領$$s' meeting in Dakar, it was\n　decided that on November 1st, the truth of\n　$$エタニティ・フラット$$ will be told to all mankind」",
+      "status": "translated"
+    },
+    "stage0080_03:r_d69dc027cba3003f": {
+      "text": "$$ゲンドウ$$\n「That's about the limit」",
+      "status": "translated"
+    },
+    "stage0080_03:r_3c3735172a480b72": {
+      "text": "$$冬月$$\n「By then, the abnormality will be plain\n　to anyone's eyes anyway」",
+      "status": "translated"
+    },
+    "stage0080_03:r_1f418b5594cea300": {
+      "text": "$$ゲンドウ$$\n「Then, we shall watch how things unfold.\n　Until the time of evolution... the day\n　of Instrumentality...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_f87fb889124bfaef": {
+      "text": "Quarter Hangar",
+      "status": "translated"
+    },
+    "stage0080_03:r_79c90de32a79212d": {
+      "text": "Quarter Hangar",
+      "status": "translated"
+    },
+    "stage0080_03:r_33f7fd55913419e8": {
+      "text": "Quarter Hangar",
+      "status": "translated"
+    },
+    "stage0080_03:r_473d9a88b4ca96e7": {
+      "text": "　\n　　\n　　　　　　～ Macross Quarter Hangar ～",
+      "status": "translated"
+    },
+    "stage0080_03:r_4de6ac85c63bac12": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_4c92652c9b1adf6f": {
+      "text": "$$赤木$$\n「$$シンジ$$...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_ce90563a934d49fb": {
+      "text": "$$シモン$$\n「What a pathetic face.\n　You're the guy who talked that big,\n　aren't you」",
+      "status": "translated"
+    },
+    "stage0080_03:r_4fb296e63cb1fb46": {
+      "text": "$$シンジ$$\n「$$シモン$$...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_6d77e72dbbcd7dfe": {
+      "text": "$$ミサト$$\n「$$シモン$$'s tough, isn't he」",
+      "status": "translated"
+    },
+    "stage0080_03:r_9dc59affd40f32fc": {
+      "text": "$$シモン$$\n「$$ニア$$... There's someone\n　waiting for me」",
+      "status": "translated"
+    },
+    "stage0080_03:r_0cea115be526a319": {
+      "text": "$$シンジ$$\n「Someone waiting...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_d36072babd12aeb4": {
+      "text": "$$赤木$$\n「Same goes for you, $$シンジ$$.\n　Everyone was waiting for you\n　to come back」",
+      "status": "translated"
+    },
+    "stage0080_03:r_09ee921a85025fd3": {
+      "text": "$$アルト$$\n「That's right, $$シンジ$$」",
+      "status": "translated"
+    },
+    "stage0080_03:r_fae689f2a1057b61": {
+      "text": "$$甲児$$\n「If your old man had talked you into\n　staying, we were all gonna go drag\n　you back ourselves」",
+      "status": "translated"
+    },
+    "stage0080_03:r_91c6d0bb53854ecc": {
+      "text": "$n\n「I believed $$シンジ$$ would come back\n　on his own」",
+      "status": "translated"
+    },
+    "stage0080_03:r_42a3149105314ab8": {
+      "text": "$$ワッ太$$\n「Pretty smooth talker, aren't you, $n!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_62ecd978c667bd29": {
+      "text": "$$正太郎$$\n「But, I believed it too」",
+      "status": "translated"
+    },
+    "stage0080_03:r_d441e6cc908ac01b": {
+      "text": "$$葵$$\n「Of course.\n　$$シンジ$$'s a member of $c, after all」",
+      "status": "translated"
+    },
+    "stage0080_03:r_b2aab8873350ea1f": {
+      "text": "$$タケル$$\n「Painful things, sad things, hard things,\n　we've all gotten through them together」",
+      "status": "translated"
+    },
+    "stage0080_03:r_2c7af4c55d8ac938": {
+      "text": "$$アマタ$$\n「Helping each other, being helped\n　in turn」",
+      "status": "translated"
+    },
+    "stage0080_03:r_653b741d07545dff": {
+      "text": "$$バサラ$$\n「Your hot soul, it hit me hard」",
+      "status": "translated"
+    },
+    "stage0080_03:r_d584d4b5af55b1cf": {
+      "text": "$$桂$$\n「Even that cranky old man was\n　caught off guard」",
+      "status": "translated"
+    },
+    "stage0080_03:r_db0ee69ece206fcd": {
+      "text": "$$ロジャー$$\n「It's about time you flew the nest\n　from your father's protection」",
+      "status": "translated"
+    },
+    "stage0080_03:r_f97e6925c9e37332": {
+      "text": "$$竜馬$$\n「You're a full-grown man now,\n　$$シンジ$$」",
+      "status": "translated"
+    },
+    "stage0080_03:r_422861e0b8d77d0c": {
+      "text": "$$シンジ$$\n「...Yes...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_ef16bcaa2b0e0c45": {
+      "text": "$$ノリコ$$\n「We're not the only ones who were\n　waiting for $$シンジ$$」",
+      "status": "translated"
+    },
+    "stage0080_03:r_2b93cca10f1c36a8": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0080_03:r_7980fd37141d88d0": {
+      "text": "$$シンジ$$\n「Ayanami...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_ac21212c36d2b9ad": {
+      "text": "$$レイ#333$$\n「Welcome back, Ikari...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_a26e2108358af7a4": {
+      "text": "$$シンジ$$\n「...I'm back, Ayanami...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_a8118b2e37aa1382": {
+      "text": "$$ミサト$$\n「And $$真希波・マリ・イラストリアス$$...?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_017a56991b7b8ca4": {
+      "text": "$$キャシー$$\n「After a quick round of greetings,\n　she shut herself in her quarters」",
+      "status": "translated"
+    },
+    "stage0080_03:r_ad3e1db3419665fb": {
+      "text": "$$ミサト$$\n「So she has no intention of talking\n　with us...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_0149e3a5f2e5ef78": {
+      "text": "$$キャシー$$\n「A file has arrived for Colonel\n　Katsuragi. It's said to be information\n　about her」",
+      "status": "translated"
+    },
+    "stage0080_03:r_3ad10e705167a3fa": {
+      "text": "$$ミサト$$\n「From $$加持$$...\n　...That helps...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_bdc546b199c80996": {
+      "text": "$$シンジ$$\n（Goodbye, father...\n　I don't know what I can do, but\n　I'll go looking for it...）",
+      "status": "translated"
+    },
+    "stage0080_03:r_22c8caf8c08c5119": {
+      "text": "$$シンジ$$\n（Here in $c, together with everyone...）",
+      "status": "translated"
+    },
+    "stage0080_03:r_9c13714b3efbc7a8": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0080_03:r_96f156e19b53fc09": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0080_03:r_feb0390bba7fe1fb": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0080_03:r_8a78bcec22029401": {
+      "text": "$$キタン$$\n「You know the drill, $$ギミー$$, $$ダリー$$?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_f42017dfce31dea9": {
+      "text": "$$ダリー$$\n「Yes, let's back $$シモン$$ up together」",
+      "status": "translated"
+    },
+    "stage0080_03:r_ef7426919f628d8a": {
+      "text": "$$ギミー$$\n「When the time comes for $$シモン$$ to\n　win back $$ニア$$, we'll clear out\n　anyone in the way」",
+      "status": "translated"
+    },
+    "stage0080_03:r_9e994a4b926d9906": {
+      "text": "$$キタン$$\n「Alright...!\n　Don't you forget that fire!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_ffae76d2a77abf5a": {
+      "text": "$$ヨーコ$$\n「That's sweet, $$キタン$$.\n　Supporting $$シモン$$ from the shadows」",
+      "status": "translated"
+    },
+    "stage0080_03:r_3ac462d37e5893ff": {
+      "text": "$$キタン$$\n「$$ニア$$ looked after my niece $$アンネ$$,\n　after all... And more than that,\n　that lady's Dai-Gurren Brigade too」",
+      "status": "translated"
+    },
+    "stage0080_03:r_fd6bdf7910d7d925": {
+      "text": "$$キタン$$\n「And besides, a guy busting his ass\n　for the woman he loves, you can't help\n　but root for him」",
+      "status": "translated"
+    },
+    "stage0080_03:r_d38be46e6cd7a5e5": {
+      "text": "$$ヨーコ$$\n「Hmm...\n　Could it be you're in love with\n　someone too, $$キタン$$?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_3fe2078328753c16": {
+      "text": "$$ダリー$$\n「!?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_c66844158d1ce600": {
+      "text": "$$ギミー$$\n「!?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_d037ecbc1e348dc9": {
+      "text": "$$キタン$$\n「T-that's... you...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_bcd53d14c4785426": {
+      "text": "$$ダリー$$\n（Go for it, $$キタン$$!）",
+      "status": "translated"
+    },
+    "stage0080_03:r_9ca55ea7feca954a": {
+      "text": "$$ギミー$$\n（Go! Bore through with the drill\n　of your heart!!）",
+      "status": "translated"
+    },
+    "stage0080_03:r_554ae12c4c170253": {
+      "text": "$$キタン$$\n「$$ヨーコ$$...!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_fa59c6df081e6ae4": {
+      "text": "$$ヨーコ$$\n「What, shouting out of nowhere...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_ca3edf3b8b52aedf": {
+      "text": "$$キタン$$\n「I-I'm...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_aa5d235c78ebe19f": {
+      "text": "$$ＡＧ$$\n「Stoooooop!!\n　At this rate, Master $$キタン$$ will\n　generate too many Z-Chips and break!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_0b3b19cddb871f90": {
+      "text": "$$キタン$$\n「What did you say!?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_304e98dac43c9333": {
+      "text": "$$ＡＧ$$\n「Master $$キタン$$'s heart-throbs make\n　100Z of Z-Chips a minute, but his heart\n　will overheat in under five minutes!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_b740d817a14afd3a": {
+      "text": "$$ＡＧ$$\n「For now, I've added that first 100Z\n　to the squad's stock, but any more\n　would be dangerous!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_40e4c010d1b35b4c": {
+      "text": "$$キタン$$\n「I-I see...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_c33abf00683a32bc": {
+      "text": "$$ヨーコ$$\n「Your face is bright red, $$キタン$$.\n　Shouldn't you go to the infirmary?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_3036adce91d1f4a8": {
+      "text": "$$キタン$$\n「I-I'm fine!\n　It's nothing!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_019293cb83599509": {
+      "text": "$$ヨーコ$$\n「No need to push yourself.\n　If our reckless captain $$キタン$$ goes down,\n　the Dai-Gurren Brigade's in trouble too」",
+      "status": "translated"
+    },
+    "stage0080_03:r_9b949b9281aaeef1": {
+      "text": "$$ヨーコ$$\n「Come on, let's go.\n　Want me to lend you a shoulder?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_b39a1dd705fe6cbf": {
+      "text": "$$キタン$$\n「I-I don't need it!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_c9016e3ab05470b0": {
+      "text": "$$ギミー$$\n「Don't interrupt, $$ＡＧ$$!\n　It was just getting good!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_a684e6cea428e518": {
+      "text": "$$ダリー$$\n「It's fine, $$ギミー$$.\n　At least $$キタン$$... seems to have\n　made some progress」",
+      "status": "translated"
+    },
+    "stage0080_03:r_cf907a4d5de8b5c9": {
+      "text": "$$ＡＧ$$\n「Quite right.\n　...And Master $$キタン$$ is a fine man.\n　He'll set things right when the time comes」",
+      "status": "translated"
+    },
+    "stage0080_03:r_a5774604a0f00702": {
+      "text": "$$ＡＧ$$\n「I'm already looking forward to how\n　many Z-Chips that'll produce」",
+      "status": "translated"
+    },
+    "stage0080_03:r_b4fa30f33e84207f": {
+      "text": "$$ＡＧ$$\n「To help Master $$キタン$$ and Master $$シモン$$\n　do their best, I've stocked some\n　special goods. Please take a look!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_9133b7e0b34de48f": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0080_03:r_4ae9c4bd77494c4a": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0080_03:r_7313331f4077d255": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0080_03:r_a84ab0c3c1ba44d4": {
+      "text": "　\n　　\n　　　　　　　　　　　～ D-Trader ～",
+      "status": "translated"
+    },
+    "stage0080_03:r_414e6e90094d1413": {
+      "text": "$$マリ$$\n「Yo, $$ＡＧ$$.\n　Looks like you're working hard」",
+      "status": "translated"
+    },
+    "stage0080_03:r_83a9e41e15444c69": {
+      "text": "$$ＡＧ$$\n「Well, business as usual, I'd say.\n　...So, Master $$マリ$$... what brings\n　you here today?」",
+      "status": "translated"
+    },
+    "stage0080_03:r_09227dec2bd6f4d8": {
+      "text": "$$マリ$$\n「Haha, don't mind me.\n　Just pretend I'm basically not here」",
+      "status": "translated"
+    },
+    "stage0080_03:r_7b3a37f5039eb1f6": {
+      "text": "$$ＡＧ$$\n「My, how modest of you...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_cb6d9ee71c24b042": {
+      "text": "$$マリ$$\n「It's not that.\n　It's just that this isn't my place,\n　that's all」",
+      "status": "translated"
+    },
+    "stage0080_03:r_ddd97a6ef823929a": {
+      "text": "$$ＡＧ$$\n「Master $$マリ$$...」",
+      "status": "translated"
+    },
+    "stage0080_03:r_df349052cd9cdd0c": {
+      "text": "$$マリ$$\n「So that's why this is the last time\n　I show up here! I'll cut loose\n　without holding back!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_a7ce9f908380694c": {
+      "text": "$$ＡＧ$$\n「Understood!\n　This $$ＡＧ$$ will go all out too!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_de3cc1f733dcb073": {
+      "text": "$$ＡＧ$$\n「Well then, let's get fired up today too!!」",
+      "status": "translated"
+    },
+    "stage0080_03:r_0835ec3fff318aff": {
+      "text": "$$マリ$$\n「Business, business!\n　And bye-bye while I'm at it!」",
+      "status": "translated"
+    }
+  }
+}

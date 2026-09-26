@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "build": "vita-english-vwf-test-01",
+  "title_id": "PCSG00264",
+  "app_version": "01.00",
+  "zip": {
+    "path": "work/vita/english_vwf_test_01/SRW-Z3-Vita-English-VWF-test-01.zip",
+    "bytes": 1874654431,
+    "sha256": "0f7ba197c47c8c8a7f86e4cae33bfac6f7d6b2080257cdd54f2487b13cdceb6d"
+  },
+  "catalog_sha256": "f2ad9ca54ead45a2cf91b313a05ad16991f1eeb10f3999a2f9a4614789d2c5c6",
+  "executable_sha256": "b996b0b40094fb04a313c22736fe8eec3a250b240487b7a0af24ac862c62eb6f",
+  "files": 589,
+  "rebuilt_cpk_archives": 116,
+  "story_records": 42742,
+  "battle_subtitles": 31666,
+  "ui_keys": 1510,
+  "latin_cells": 95,
+  "focused_tests_passed": 89,
+  "archive_readback_verified": true,
+  "runtime_tested": false,
+  "installed": false,
+  "full_english_port": false,
+  "no_license_firmware_or_saves_included": true
+}

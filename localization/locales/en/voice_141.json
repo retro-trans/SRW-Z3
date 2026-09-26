@@ -1,0 +1,562 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_141:r_479b340ccc6c572b": {
+      "text": "Take this!",
+      "status": "imported"
+    },
+    "voice_141:r_ca4acbac57a2a35e": {
+      "text": "Drop dead!",
+      "status": "imported"
+    },
+    "voice_141:r_77949221bf58f862": {
+      "text": "This is the end!",
+      "status": "imported"
+    },
+    "voice_141:r_70b9c4b9f1f37eff": {
+      "text": "I'll crush you flat!",
+      "status": "imported"
+    },
+    "voice_141:r_9fcb3754cb1773c7": {
+      "text": "Resistance is useless!",
+      "status": "imported"
+    },
+    "voice_141:r_3559d2fad32c2435": {
+      "text": "You think you can run? Think again!",
+      "status": "imported"
+    },
+    "voice_141:r_f7570547e9f80a64": {
+      "text": "Ha ha ha! You won't get away!",
+      "status": "imported"
+    },
+    "voice_141:r_cbab0f4720e1fcf1": {
+      "text": "I'll show you our power gap!",
+      "status": "imported"
+    },
+    "voice_141:r_0bbe0b4f5364e732": {
+      "text": "Regret this in the afterlife!",
+      "status": "imported"
+    },
+    "voice_141:r_5dda5198137cb02a": {
+      "text": "Learn to fear\\nthe Robot Mafia!",
+      "status": "imported"
+    },
+    "voice_141:r_83ec59afbecdec14": {
+      "text": "You dare defy the Robot Mafia!",
+      "status": "imported"
+    },
+    "voice_141:r_e20bfd42ad95a3c9": {
+      "text": "Do the Branch Members proud!",
+      "status": "imported"
+    },
+    "voice_141:r_0f58a8822381e57f": {
+      "text": "I'll take you on myself!",
+      "status": "imported"
+    },
+    "voice_141:r_6dbcc507fb61b51d": {
+      "text": "We'll crush all who defy us!",
+      "status": "imported"
+    },
+    "voice_141:r_b42ab697149a7c8a": {
+      "text": "Go, Branch Robo!",
+      "status": "imported"
+    },
+    "voice_141:r_4de4fcf3b440baf4": {
+      "text": "You can't beat the Branch Robo!",
+      "status": "imported"
+    },
+    "voice_141:r_0121a166c715cdff": {
+      "text": "Behold the Branch Robo's power!",
+      "status": "imported"
+    },
+    "voice_141:r_30fad37a42bd3ad3": {
+      "text": "One more time! Let's go!",
+      "status": "imported"
+    },
+    "voice_141:r_80a0b2a84e05d81a": {
+      "text": "Can you survive this, Tetsujin?",
+      "status": "imported"
+    },
+    "voice_141:r_4a9ac1dff86506d9": {
+      "text": "Tetsujin! I'll turn you to scrap!",
+      "status": "imported"
+    },
+    "voice_141:r_bc8538e6af3d2577": {
+      "text": "Tetsujin! Pay for what you've done!",
+      "status": "imported"
+    },
+    "voice_141:r_924516c8de2b5342": {
+      "text": "Got you, Black Ox!",
+      "status": "imported"
+    },
+    "voice_141:r_da1174533722333f": {
+      "text": "Black Ox! You accursed machine!",
+      "status": "imported"
+    },
+    "voice_141:r_fdeb8162976e72c1": {
+      "text": "So, I'm facing the famous Gundam!",
+      "status": "imported"
+    },
+    "voice_141:r_0fadb5c26df92b42": {
+      "text": "There's a Gundam here too?!",
+      "status": "imported"
+    },
+    "voice_141:r_6b15af9a0057cdc8": {
+      "text": "Beat a Gundam\\nto earn our stripes!",
+      "status": "imported"
+    },
+    "voice_141:r_15b4a90140e8a33a": {
+      "text": "Otsuka's lackeys!\\nYou defy us again!",
+      "status": "imported"
+    },
+    "voice_141:r_ac6fe7838e95647b": {
+      "text": "We won't lose to Otsuka's lackeys!",
+      "status": "imported"
+    },
+    "voice_141:r_bf3244994760e535": {
+      "text": "Robot Mafia\\nteaches commoners fear!",
+      "status": "imported"
+    },
+    "voice_141:r_02479dc8fe989560": {
+      "text": "Office drones, butting in?!",
+      "status": "imported"
+    },
+    "voice_141:r_48b60d6c48b9b142": {
+      "text": "A super robot has appeared!",
+      "status": "imported"
+    },
+    "voice_141:r_8927e6fb681aa809": {
+      "text": "Raw power?\\nWe rival super robots!",
+      "status": "imported"
+    },
+    "voice_141:r_665f01666859013b": {
+      "text": "Combiner!\\nI'll tear you apart!",
+      "status": "imported"
+    },
+    "voice_141:r_a571eec59b258d11": {
+      "text": "Our teamwork is second to none!",
+      "status": "imported"
+    },
+    "voice_141:r_ddbe581c5ea9183d": {
+      "text": "That drill won't win this for you!",
+      "status": "imported"
+    },
+    "voice_141:r_faae935cca0edc72": {
+      "text": "Ha ha ha! Time to hunt a beast!",
+      "status": "imported"
+    },
+    "voice_141:r_d4430bf362340b32": {
+      "text": "Quit darting around, you noisy pest!",
+      "status": "imported"
+    },
+    "voice_141:r_b7b5625d7cd4282f": {
+      "text": "I'll swat you down, you gnat!",
+      "status": "imported"
+    },
+    "voice_141:r_36133ad73a73ef98": {
+      "text": "Damn! They're no ordinary pilot!",
+      "status": "imported"
+    },
+    "voice_141:r_920740a0219c5085": {
+      "text": "I'll shoot that battleship down!",
+      "status": "imported"
+    },
+    "voice_141:r_a8451712c57c1a72": {
+      "text": "Sink that battleship and we win!",
+      "status": "imported"
+    },
+    "voice_141:r_3633df5b7b8f47fa": {
+      "text": "Missile, launch!",
+      "status": "imported"
+    },
+    "voice_141:r_b1de76a75a253c13": {
+      "text": "Counterattack!",
+      "status": "imported"
+    },
+    "voice_141:r_128c35bf3e0e394c": {
+      "text": "Here's some payback!",
+      "status": "imported"
+    },
+    "voice_141:r_5213c17e13b23de0": {
+      "text": "I'll pay you back double!",
+      "status": "imported"
+    },
+    "voice_141:r_38fdff9483e9245c": {
+      "text": "How dare you!",
+      "status": "imported"
+    },
+    "voice_141:r_620fedec67706d7d": {
+      "text": "I won't let you escape!",
+      "status": "imported"
+    },
+    "voice_141:r_9680dcd0fddcfcc7": {
+      "text": "Now it's our turn!",
+      "status": "imported"
+    },
+    "voice_141:r_2a00f1044ad5cbaa": {
+      "text": "You hit us, we hit back!",
+      "status": "imported"
+    },
+    "voice_141:r_3dbeead1bd3164ef": {
+      "text": "An eye for an eye!",
+      "status": "imported"
+    },
+    "voice_141:r_98d15b8cc09bc915": {
+      "text": "I'll down whoever comes at me!",
+      "status": "imported"
+    },
+    "voice_141:r_46e86d000250e137": {
+      "text": "We'll follow up this attack!",
+      "status": "imported"
+    },
+    "voice_141:r_ac341e7976e88f0b": {
+      "text": "Attack in waves!",
+      "status": "imported"
+    },
+    "voice_141:r_cdbd128a5b4127cc": {
+      "text": "Behold the Robot Mafia's teamwork!",
+      "status": "imported"
+    },
+    "voice_141:r_cfccaa1fbeda124c": {
+      "text": "Use me as your shield!",
+      "status": "imported"
+    },
+    "voice_141:r_b1f8ec192b9c083a": {
+      "text": "Damn! I can't counterattack!",
+      "status": "imported"
+    },
+    "voice_141:r_a007f9ab9cf048b3": {
+      "text": "No choice but to let this one go...",
+      "status": "imported"
+    },
+    "voice_141:r_ddafde4b065ced49": {
+      "text": "Damn! I can't do a thing!",
+      "status": "imported"
+    },
+    "voice_141:r_de1213040856c089": {
+      "text": "Damn it! Why can't I counter?!",
+      "status": "imported"
+    },
+    "voice_141:r_3304412ac41f47a6": {
+      "text": "Damn! I'm out of energy!",
+      "status": "imported"
+    },
+    "voice_141:r_0c0775e051211840": {
+      "text": "They can attack from there...?!",
+      "status": "imported"
+    },
+    "voice_141:r_a2afffe1c396f0b3": {
+      "text": "Tch! They're in a nasty spot!",
+      "status": "imported"
+    },
+    "voice_141:r_13c25fbdfddc8a24": {
+      "text": "You amateur!",
+      "status": "imported"
+    },
+    "voice_141:r_42ba1ecb310b4bd7": {
+      "text": "Your haphazard attacks won't work!",
+      "status": "imported"
+    },
+    "voice_141:r_d692f1d420460a47": {
+      "text": "I'm an expert at handling robots!",
+      "status": "imported"
+    },
+    "voice_141:r_a5643cec86b18bd2": {
+      "text": "That's the gap in robot performance!",
+      "status": "imported"
+    },
+    "voice_141:r_68f2dfab20a4a30e": {
+      "text": "Surrender if you know what's good!",
+      "status": "imported"
+    },
+    "voice_141:r_9cedad8237480563": {
+      "text": "Is that all, Shotaro Kaneda?!",
+      "status": "imported"
+    },
+    "voice_141:r_a03fabecba1508ca": {
+      "text": "Hand over the controller already!",
+      "status": "imported"
+    },
+    "voice_141:r_5391b24a71eb10ae": {
+      "text": "Don't make me laugh, Black Ox!",
+      "status": "imported"
+    },
+    "voice_141:r_a554ceef5c87b972": {
+      "text": "And you call that a super robot?!",
+      "status": "imported"
+    },
+    "voice_141:r_546c3d5937fbb7ee": {
+      "text": "Just for show, super robot?!",
+      "status": "imported"
+    },
+    "voice_141:r_1568ff6298b12b96": {
+      "text": "An attack like that won't work!",
+      "status": "imported"
+    },
+    "voice_141:r_70451ffbabe2f876": {
+      "text": "Oh! Looks like that hit!",
+      "status": "imported"
+    },
+    "voice_141:r_69dfa1659715e2fa": {
+      "text": "That attack won't affect me!",
+      "status": "imported"
+    },
+    "voice_141:r_d996fd6d4ef5b329": {
+      "text": "That didn't even sting!",
+      "status": "imported"
+    },
+    "voice_141:r_8ab47a28f99ef565": {
+      "text": "My armor will deflect it!",
+      "status": "imported"
+    },
+    "voice_141:r_546de3fb6db156ea": {
+      "text": "That won't beat the Branch Robo!",
+      "status": "imported"
+    },
+    "voice_141:r_ca85f87cee5e31f7": {
+      "text": "Not even worth dodging!",
+      "status": "imported"
+    },
+    "voice_141:r_9072ea7bc71df136": {
+      "text": "W-What?! What just happened?!",
+      "status": "imported"
+    },
+    "voice_141:r_04e815a8d425827d": {
+      "text": "Whoa! What incredible power!",
+      "status": "imported"
+    },
+    "voice_141:r_d89011fe3e5d082a": {
+      "text": "So it's a high-performance robot...!",
+      "status": "imported"
+    },
+    "voice_141:r_3c5b0c2ac812d5de": {
+      "text": "Damn! I took that much damage?!",
+      "status": "imported"
+    },
+    "voice_141:r_5b9e8897190892eb": {
+      "text": "This risks\\nshaming the Robot Mafia!",
+      "status": "imported"
+    },
+    "voice_141:r_7bea3023abbf8a94": {
+      "text": "They didn't miss our opening...!",
+      "status": "imported"
+    },
+    "voice_141:r_dd01a4c0d1b36a8d": {
+      "text": "Now it starts! Time to get serious!",
+      "status": "imported"
+    },
+    "voice_141:r_20920ad2eb3542db": {
+      "text": "You insist\\non getting in our way...!",
+      "status": "imported"
+    },
+    "voice_141:r_0ab7914877fd48ed": {
+      "text": "Our robot, beaten this easily...?!",
+      "status": "imported"
+    },
+    "voice_141:r_cb846feec748c2e3": {
+      "text": "Tetsujin! You'll pay for that!",
+      "status": "imported"
+    },
+    "voice_141:r_c958860b0676b1f5": {
+      "text": "S-So this is Tetsujin's power!",
+      "status": "imported"
+    },
+    "voice_141:r_5e2669b82ef75ce3": {
+      "text": "Fearsome indeed, Black Ox!",
+      "status": "imported"
+    },
+    "voice_141:r_7847e0ed7dc9282d": {
+      "text": "Curse you, Black Ox! How dare you!!",
+      "status": "imported"
+    },
+    "voice_141:r_e42b52c7a987b906": {
+      "text": "Damn you, Otsuka's lackeys!",
+      "status": "imported"
+    },
+    "voice_141:r_607f666f1563bc0d": {
+      "text": "The Mafia,\\nlosing to office drones?!",
+      "status": "imported"
+    },
+    "voice_141:r_132f605d02975e71": {
+      "text": "I-Impressive, super robot!",
+      "status": "imported"
+    },
+    "voice_141:r_9b9726b1872759d6": {
+      "text": "Such power...!\\nTruly a super robot!",
+      "status": "imported"
+    },
+    "voice_141:r_640327a12a559b31": {
+      "text": "Aah! I-I'm going down!",
+      "status": "imported"
+    },
+    "voice_141:r_bdd38c584fa313d0": {
+      "text": "No! We'll lose at this rate!",
+      "status": "imported"
+    },
+    "voice_141:r_3fd86c1027f317c8": {
+      "text": "Damn! They hit the power unit!",
+      "status": "imported"
+    },
+    "voice_141:r_d0372a183d2007ad": {
+      "text": "Impossible! This wasn't in the plan!",
+      "status": "imported"
+    },
+    "voice_141:r_217aa5e1d545b44d": {
+      "text": "Damage is far beyond projections!",
+      "status": "imported"
+    },
+    "voice_141:r_381992c5d8224937": {
+      "text": "S-Sensors and radar are both dead!",
+      "status": "imported"
+    },
+    "voice_141:r_f1e7ed9e5874aba5": {
+      "text": "The cockpit's sparking too!",
+      "status": "imported"
+    },
+    "voice_141:r_fc25e66a86fc2c85": {
+      "text": "M-My joints are screaming!",
+      "status": "imported"
+    },
+    "voice_141:r_5aeeb4917340c42d": {
+      "text": "I won't last! Call for help, now!",
+      "status": "imported"
+    },
+    "voice_141:r_b765659981b6516d": {
+      "text": "Aaaaaaagh!!",
+      "status": "imported"
+    },
+    "voice_141:r_0c427458bc00eb95": {
+      "text": "N-No! The machine's going to blow!",
+      "status": "imported"
+    },
+    "voice_141:r_774a9ab4d8fd5351": {
+      "text": "N-No! My robot...!",
+      "status": "imported"
+    },
+    "voice_141:r_d3f01de714c015bd": {
+      "text": "A-Aah! I'm at my limit!!",
+      "status": "imported"
+    },
+    "voice_141:r_7d2617c809fead70": {
+      "text": "Branch! I have failed you!!",
+      "status": "imported"
+    },
+    "voice_141:r_ceb935ccbf830724": {
+      "text": "The Branch Robo...! Aaaaagh!",
+      "status": "imported"
+    },
+    "voice_141:r_b28faf9f71bc3598": {
+      "text": "Go to hell!",
+      "status": "imported"
+    },
+    "voice_141:r_8a29278549f8e07a": {
+      "text": "Commence attack!",
+      "status": "imported"
+    },
+    "voice_141:r_7e6c573c26177f98": {
+      "text": "Ha ha ha! There you are!",
+      "status": "imported"
+    },
+    "voice_141:r_45abf84f7757d6eb": {
+      "text": "We'll do whatever we want!",
+      "status": "imported"
+    },
+    "voice_141:r_edd7a13ab8f06a14": {
+      "text": "With the power of this Branch Robo!",
+      "status": "imported"
+    },
+    "voice_141:r_eb643f8bf737a0ca": {
+      "text": "I'll finish you in one blow!",
+      "status": "imported"
+    },
+    "voice_141:r_0a3fccb71ec6cf2a": {
+      "text": "Damn! I can't win like this!",
+      "status": "imported"
+    },
+    "voice_141:r_9b63cf1f3e0207ef": {
+      "text": "Damn! Is their robot superior...?!",
+      "status": "imported"
+    },
+    "voice_141:r_8356f4e3dcdff938": {
+      "text": "Damn! That hit me dead-on!",
+      "status": "imported"
+    },
+    "voice_141:r_1d6d784036ae0bd7": {
+      "text": "Damn! I can't let my guard down!",
+      "status": "imported"
+    },
+    "voice_141:r_625664af02183c17": {
+      "text": "Ha ha ha! Useless, useless!",
+      "status": "imported"
+    },
+    "voice_141:r_3701cba361f80ea5": {
+      "text": "You underestimated our robot!",
+      "status": "imported"
+    },
+    "voice_141:r_63f429c5c68c0863": {
+      "text": "Too slow!",
+      "status": "imported"
+    },
+    "voice_141:r_38e4a434c91d8ef0": {
+      "text": "You're no match for the Robot Mafia!",
+      "status": "imported"
+    },
+    "voice_141:r_98ed411352a3a6ac": {
+      "text": "Thank goodness for that barrier!",
+      "status": "imported"
+    },
+    "voice_141:r_4824bea6bab3af67": {
+      "text": "Fall back while you still can!",
+      "status": "imported"
+    },
+    "voice_141:r_cb306ef55e49d107": {
+      "text": "This is how the Robot Mafia fights!",
+      "status": "imported"
+    },
+    "voice_141:r_288133bc5b573dae": {
+      "text": "Don't think you can get away!",
+      "status": "imported"
+    },
+    "voice_141:r_6f95653e548f8fcf": {
+      "text": "You couldn't be further off target!",
+      "status": "imported"
+    },
+    "voice_141:r_d249d68bada91ab9": {
+      "text": "I'll block the attack from here!",
+      "status": "imported"
+    },
+    "voice_141:r_e9b3307e9eb69f11": {
+      "text": "See the Branch Members stand united!",
+      "status": "imported"
+    },
+    "voice_141:r_03cdac73042343ee": {
+      "text": "You little...!",
+      "status": "imported"
+    },
+    "voice_141:r_6026da5acbda7c69": {
+      "text": "Hyaah!",
+      "status": "imported"
+    },
+    "voice_141:r_981f8fedd5414fe5": {
+      "text": "Hyah!",
+      "status": "imported"
+    },
+    "voice_141:r_96bb0dcde0c8c44a": {
+      "text": "We'll hold them here!",
+      "status": "imported"
+    },
+    "voice_141:r_641550a2f54cb456": {
+      "text": "Just draw all their attacks here!",
+      "status": "imported"
+    },
+    "voice_141:r_a0f2074af8debbfa": {
+      "text": "Leave this to us!",
+      "status": "imported"
+    },
+    "voice_141:r_b5f5a97ed82acb0b": {
+      "text": "Attack target confirmed!",
+      "status": "imported"
+    }
+  }
+}

@@ -1,0 +1,2138 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0046b_03:r_caaab7bad760e16d": {
+      "text": "Hospital",
+      "status": "imported"
+    },
+    "stage0046b_03:r_99b162aa6aa286a2": {
+      "text": "Hospital",
+      "status": "imported"
+    },
+    "stage0046b_03:r_58fb02434a1c40b2": {
+      "text": "Hospital",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　\n　　　　　　～ Municipal General Hospital, Special Ward ～",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1263541f4071624e": {
+      "text": "$$シンヤ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3bc300bbdc277d82": {
+      "text": "$$ミサコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_38762a09460d8b6b": {
+      "text": "$n\n「...How's the situation?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_7ab28e70b4d4f641": {
+      "text": "$$マキ$$\n「Nothing's changed since that panic before...\n　It's been the same the whole time」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b05f6a6e8f3d9b24": {
+      "text": "$n\n「...Will these two stay like this forever...?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ec335e69f984b8b3": {
+      "text": "$$マキ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0abcaf0c31978670": {
+      "text": "$n\n「Staying like this forever...\n　and someday not just hearts, but bodies too...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1d6bc48b7f246730": {
+      "text": "$n\n「And yet, I can't do anything...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1af20fccc3c53cfc": {
+      "text": "$$マキ$$\n「$n...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f951916061232dcd": {
+      "text": "$n\n「...Sorry...\n　I'm heading home for today...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4d863c3fb88a4c39": {
+      "text": "$$マキ$$\n「Wait, $n.\n　Did something happen?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_44f4742c3dcce39a": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9e701cdeb3842c21": {
+      "text": "$$マキ$$\n「If you don't mind, will you tell me?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6fd81f4abebe60c5": {
+      "text": "$$マキ$$\n「Just a little is fine...\n　Tell me about yourself」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_da2132b5038ec737": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_495d61d3ec7e16f2": {
+      "text": "$$聖天使学園$$ - Schoolyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_5cd353758cfe474d": {
+      "text": "$$聖天使学園$$ - Schoolyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_a653c8dec4c0f06f": {
+      "text": "$$聖天使学園$$ - Schoolyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_86d493e37a9799a7": {
+      "text": "　\n　\n　　　　　　　　　～ $$聖天使学園$$ ～",
+      "status": "imported"
+    },
+    "stage0046b_03:r_09d0fcc600cdd3df": {
+      "text": "$$甲児$$\n「...Where's $n?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_182faded068c15ed": {
+      "text": "$$宗介$$\n「The hospital.\n　Visiting those kids」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9c206d19bfda4bd5": {
+      "text": "$$アルト$$\n「About $$ジン$$...\n　guess they're shaken up over it too...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6e558bc69acf5bf3": {
+      "text": "$$シン$$\n「Where's $$シンジ$$...?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d60d0818e965232f": {
+      "text": "$$カミーユ$$\n「$$ミサト$$ took him to $$第３新東京市$$.\n　Sounds like they're staying the night」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_5b23687574286204": {
+      "text": "$$シン$$\n「I wonder... if he's really okay...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6fd86c96891ea942": {
+      "text": "$$カレン$$\n「I don't know...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_43e4e548c0b28376": {
+      "text": "$$シン$$\n「Fight long enough, and this happens...\n　Even if you understand that in your head...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d80a9688790ed583": {
+      "text": "$$カレン$$\n「It was like this with $$カミナ$$ too...\n　Even knowing you have to move on, recover...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_708bea61e3c43ada": {
+      "text": "$$オードリー$$\n「...For now... let's just grieve...\n　and mourn the one we lost...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_7b6f159eeaf4de0f": {
+      "text": "$$バナージ$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0827963cfd706e8d": {
+      "text": "$$アルト$$\n「$$ユノハ$$'s still holed up in her room, huh...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$ミコノ$$\n「She won't answer, no matter how we call...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3f4035fd9db81258": {
+      "text": "$$アマタ$$\n「Can't blame her...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_567b361a454c4b73": {
+      "text": "$$ミコノ$$\n（$$ユノハ$$...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d22851aaafbbf8fc": {
+      "text": "$$不動$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_352534f64413d954": {
+      "text": "$$ミコノ$$\n「Supreme Commander $$不動$$...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_79f2664edb1af798": {
+      "text": "$$ミコノ$$\n（This man... I'm no good with him...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$不動$$\n「Tomorrow's funeral for $$ジン・ムソウ$$...\n　get $$ユノハ・スルール$$ out of her room」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1c5aa0d15ae24846": {
+      "text": "$$ミコノ$$\n「No...!\n　I just want to leave her be for now...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_53bb64ee17750ee2": {
+      "text": "$$不動$$\n「Elements are duty-bound to bond with\n　others through joining. Selfishly\n　sinking into solitude isn't allowed...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_7a7add80fde475ba": {
+      "text": "$$ミコノ$$\n「Selfish...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b2befefdbed1393d": {
+      "text": "$$不動$$\n「Have you forgotten?\n　$$ユノハ$$'s Element ability is to vanish...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2103f6df2ea2e447": {
+      "text": "$$不動$$\n「Losing $$ジン・ムソウ$$ could make her power\n　run wild enough to destroy herself...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_a12e3e130d896ff7": {
+      "text": "$$ミコノ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b6f7b219eb4bd64b": {
+      "text": "$$不動$$\n（Still the same, huh...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_91bf33c27ad39f0a": {
+      "text": "$$ミコノ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ee220318b96ab538": {
+      "text": "$$アマタ$$\n「You okay, $$ミコノ$$?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ce1b55e526b6277a": {
+      "text": "$$ミコノ$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c304df6888eb78f7": {
+      "text": "$$アマタ$$\n「Right now, $$ユノハ$$ thinks $$ジン$$ left her behind...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c26958634526e597": {
+      "text": "$$ミコノ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_cdb750c9d380881a": {
+      "text": "$$アマタ$$\n「I... understand that.\n　How it feels to be left behind...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_95fda74613c97b39": {
+      "text": "$$アマタ$$\n「Because I was... left behind by my mom too...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1956994937f8171e": {
+      "text": "$$ミコノ$$\n「$$アマタ$$...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_48f49f6728c15612": {
+      "text": "$$アマタ$$\n「That mom I'm talking about is the one\n　who played $$シルフィ$$ in '$$アクエリアの舞う空$$'...\n　She's $$アリシア$$」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ミコノ$$\n「$$アリシア$$ is... $$アマタ$$'s mom...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f02c37d91387d0ad": {
+      "text": "$$アマタ$$\n「Mom leapt over fate so easily,\n　left me behind, and went off somewhere...\n　I couldn't do anything, just watched her go...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$アマタ$$\n「To my mom, I was a kid she didn't need...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9796b3efa401a303": {
+      "text": "$$ミコノ$$\n「That's not true!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_643b6eebfc0186b3": {
+      "text": "$$アマタ$$\n「$$ミコノ$$...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_291280e5f7eb9d70": {
+      "text": "$$ミコノ$$\n「You weren't left behind, $$アマタ$$...!\n　You're still connected to your mom, even now...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_32eb462c1b4999cb": {
+      "text": "$$ミコノ$$\n「$$ユノハ$$'s the same...!\n　So I'll... go bring her here...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1f4337d6d393fc37": {
+      "text": "$$アマタ$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4740e748fae085ee": {
+      "text": "$$甲児$$\n「...Where's $n?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b76524cd840e1d37": {
+      "text": "$$宗介$$\n「The hospital.\n　Visiting those kids」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_730ffe18400abfc2": {
+      "text": "$$アルト$$\n「About $$ジン$$...\n　guess they're shaken up over it too...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ffe0fca26da5cd38": {
+      "text": "$$シン$$\n「Where's $$シンジ$$...?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_bfb27f9eb2f7073e": {
+      "text": "$$カミーユ$$\n「$$ミサト$$ took him to $$第３新東京市$$.\n　Sounds like they're staying the night」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_859dfa27bcaafe30": {
+      "text": "$$シン$$\n「I wonder... if he's really okay...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_71ebf05996a4b0fd": {
+      "text": "$$カレン$$\n「I don't know...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6214c11b1bca811e": {
+      "text": "$$シン$$\n「Fight long enough, and this happens...\n　Even if you understand that in your head...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_8eaf6f3098ffed12": {
+      "text": "$$カレン$$\n「It was like this with $$カミナ$$ too...\n　Even knowing you have to move on, recover...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_cf507214fe955d75": {
+      "text": "$$オードリー$$\n「...For now... let's just grieve...\n　and mourn the one we lost...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2113dcbabdfc758a": {
+      "text": "$$バナージ$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$アルト$$\n「$$ユノハ$$'s still holed up in her room, huh...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6a74519e1fc29c4b": {
+      "text": "$$ミコノ$$\n「She won't answer, no matter how we call...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_5b992878fee054b5": {
+      "text": "$$アマタ$$\n「Can't blame her...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$ミコノ$$\n（$$ユノハ$$...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4a14ec0c511c7f0d": {
+      "text": "$$不動$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_20cf167c0ec0d4d5": {
+      "text": "$$ミコノ$$\n「Supreme Commander $$不動$$...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b591d812c96c6c99": {
+      "text": "$$ミコノ$$\n（This man... I'm no good with him...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_e350fa099c1ab072": {
+      "text": "$$不動$$\n「Tomorrow's funeral for $$ジン・ムソウ$$...\n　get $$ユノハ・スルール$$ out of her room」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$ミコノ$$\n「No...!\n　I just want to leave her be for now...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c33bd700553abf91": {
+      "text": "$$不動$$\n「Elements are duty-bound to bond with\n　others through joining. Selfishly\n　sinking into solitude isn't allowed...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_feee5c91826230e1": {
+      "text": "$$ミコノ$$\n「Selfish...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_bccc48e1964ad22d": {
+      "text": "$$不動$$\n「Have you forgotten?\n　$$ユノハ$$'s Element ability is to vanish...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f8736aaaa216c766": {
+      "text": "$$不動$$\n「Losing $$ジン・ムソウ$$ could make her power\n　run wild enough to destroy herself...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d1ec2522c87c361d": {
+      "text": "$$ミコノ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3599f0a4343fd95c": {
+      "text": "$$不動$$\n（Still the same, huh...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3bc7834a5bf3ee76": {
+      "text": "$$ミサト$$'s Room",
+      "status": "imported"
+    },
+    "stage0046b_03:r_366814efdc8b5800": {
+      "text": "$$ミサト$$'s Room",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9be1a4c10bb62515": {
+      "text": "$$ミサト$$'s Room",
+      "status": "imported"
+    },
+    "stage0046b_03:r_94a88c90e557e16e": {
+      "text": "　\n　　\n　　　　　　　　　　　～ $$ミサト$$'s Room ～",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1c208ca0cbf26f28": {
+      "text": "$$アスカ$$\n「Why do I have to share a room with\n　Daddy's Boy!?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_5b7ee307a700171a": {
+      "text": "$$ミサト$$\n「Sorry, $$アスカ$$.\n　My place isn't that big, just bear with it one night」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_8d8f065c932da30a": {
+      "text": "$$アスカ$$\n「If I'd known, I should've stayed at\n　$c's dorm instead...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f5432119677514f7": {
+      "text": "$$ミサト$$\n「While I'm apologizing, one more thing...\n　Just for today, stay by $$シンジ$$'s side」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4e5c8e989c4a7691": {
+      "text": "$$アスカ$$\n「Because that $$ジン$$ guy died?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_adec86483b13599a": {
+      "text": "$$ミサト$$\n「That's right」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2cf701bbcde3ec13": {
+      "text": "$$アスカ$$\n「Why does that matter?\n　Wasn't he an enemy spy from another world?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c17c58fdba72005e": {
+      "text": "$$ミサト$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1fe8564d2b959317": {
+      "text": "$$アスカ$$\n「Moping over a guy like that...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f527e012803f7f1c": {
+      "text": "$$ミサト$$\n「But he was still a friend」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4b1247bd3ca4905d": {
+      "text": "$$アスカ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_00c55e25f87b71d0": {
+      "text": "$$ミサト$$\n「He was an important friend to $$シンジ$$」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_338f3b27e51dcc41": {
+      "text": "$$アスカ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d91d4bc2d52b61c4": {
+      "text": "Pitch Black",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0c8ea89b07432421": {
+      "text": "Pitch Black",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4dbfba00ba7744ee": {
+      "text": "Pitch Black",
+      "status": "imported"
+    },
+    "stage0046b_03:r_be100a32b731708d": {
+      "text": "$$アスカ$$\n「...Already asleep, Daddy's Boy?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_702f82442fcec8a9": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b1e38da4e8775ffe": {
+      "text": "$$アスカ$$\n「If you're asleep, fine...\n　I'm just talking to myself now, though...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$アスカ$$\n「We're EVA pilots...\n　There's surely more pain and sorrow\n　waiting for us, no matter how much...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3dad695c99e9e052": {
+      "text": "$$アスカ$$\n「But I won't get out of EVA...\n　Because that's the only place I belong...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_66d4ae3a21caf881": {
+      "text": "$$シンジ$$\n（Shikinami...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0c18da7b3a37825d": {
+      "text": "$$アスカ$$\n「You can do whatever you want...\n　But me... I'm never running away...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_63249745ffae61b6": {
+      "text": "$$シンジ$$\n（I'll never... run away...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_abdb034ae8509702": {
+      "text": "$$アスカ$$\n「That's it for talking to myself...\n　Good night...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3ff2e21207d1d1d3": {
+      "text": "$$シンジ$$\n（Good night, Shikinami...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_e51ecf6d6aa42e75": {
+      "text": "$$シンジ$$\n（Good night, $$ジン$$...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_47ddabb7b60131c2": {
+      "text": "Red Sea",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b025267f22788233": {
+      "text": "Red Sea",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ec1a06a7023bf72c": {
+      "text": "Red Sea",
+      "status": "imported"
+    },
+    "stage0046b_03:r_8805f96e52aaa462": {
+      "text": "　\n　\n　　　　　　　　　　　　～ Sagami Bay ～",
+      "status": "imported"
+    },
+    "stage0046b_03:r_124591cb154fae64": {
+      "text": "$$シンジ$$\n「...Why did you bring me here...?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$ゲンドウ$$\n「Because this is the only place left where I can\n　remember the world your mother was part of.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4bf9b05b5f948170": {
+      "text": "$$シンジ$$\n「...This red sea... does it connect to our old world...?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_eaa52d152f444bfd": {
+      "text": "$$ゲンドウ$$\n「Who knows...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b4bc9e9435b58e6f": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_a9227573166977a9": {
+      "text": "$$ゲンドウ$$\n「People can go on living by forgetting their memories.\n　But there are things one must never forget.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b0600ab9a9e8559d": {
+      "text": "$$ゲンドウ$$\n「Yui taught me something irreplaceable.\n　I come here to make sure I remember it.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_7cbc63dad295f862": {
+      "text": "$$シンジ$$\n「Don't you have a photo, or something?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_07f53c816e0a51f5": {
+      "text": "$$ゲンドウ$$\n「None remain.\n　...It's all in my heart now.\n　That's enough, for now.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2d09c6f6a2d990ea": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3c5fcfc484a51913": {
+      "text": "$$ゲンドウ$$\n「It's time.\n　I'm heading back to NERV.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0476ffd10c764b0e": {
+      "text": "$$シンジ$$\n「Father...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$ゲンドウ$$\n「What is it?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2b3479c4cf0680f4": {
+      "text": "$$シンジ$$\n「...Thank you...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_e370696b8936b08c": {
+      "text": "$$ゲンドウ$$\n「...I see.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9d7b02c5e728b7aa": {
+      "text": "$$シンジ$$\n（$$ジン$$...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9af213fc64e0afec": {
+      "text": "$$ミサト$$'s Room",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d7f1c506e78e55ff": {
+      "text": "$$ミサト$$'s Room",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0c705091f748360e": {
+      "text": "$$ミサト$$'s Room",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9eb8599304125b2f": {
+      "text": "　\n　　\n　　　　　　　　　　　～ $$ミサト$$'s Room ～",
+      "status": "imported"
+    },
+    "stage0046b_03:r_a072aa25e5f521e0": {
+      "text": "$$アスカ$$\n「Why do I have to share a room with\n　Daddy's Boy!?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_24e1a808a1609a1a": {
+      "text": "$$ミサト$$\n「Sorry, $$アスカ$$.\n　My place isn't that big, just bear with it one night」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_53128ce8f154fd06": {
+      "text": "$$アスカ$$\n「If I'd known, I should've stayed at\n　$c's dorm instead...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_03b5db9ce98fb8d6": {
+      "text": "$$ミサト$$\n「While I'm apologizing, one more thing...\n　Just for today, stay by $$シンジ$$'s side」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3915fb4102f1c1dd": {
+      "text": "$$アスカ$$\n「Because $$ジン$$ died?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_817b2773b4ed563e": {
+      "text": "$$ミサト$$\n「That's right」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1cc233cbc8c80af7": {
+      "text": "$$アスカ$$\n「Why should that matter?\n　Wasn't he an enemy spy from another world?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$$ミサト$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_e180b22d18f48d38": {
+      "text": "$$アスカ$$\n「Moping over a guy like that...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_e598c2a0b27e7f50": {
+      "text": "$$ミサト$$\n「But he was still a friend」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4d2a9066c4e7b27f": {
+      "text": "$$アスカ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_10340119af3ed6db": {
+      "text": "$$ミサト$$\n「He was an important friend to $$シンジ$$」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_23a9c7ab620ab112": {
+      "text": "$$アスカ$$\n「...I know that already...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4f0aca6deda07883": {
+      "text": "Pitch Black",
+      "status": "imported"
+    },
+    "stage0046b_03:r_8fe40600ce62dfbc": {
+      "text": "Pitch Black",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ff4ce5f3cf96b617": {
+      "text": "Pitch Black",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d73c21f119847e35": {
+      "text": "$$アスカ$$\n「...Already asleep, Daddy's Boy?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_89766f5ffaa912d4": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$アスカ$$\n「If you're asleep, fine...\n　I'm just talking to myself now, though...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_451f726d4299ea35": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_e3d111e8bb190cb1": {
+      "text": "$$アスカ$$\n「We're EVA pilots...\n　There's surely more pain and sorrow\n　waiting for us, no matter how much...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_7c0d3c51f9a11ca0": {
+      "text": "$$アスカ$$\n「But I won't get out of EVA...\n　Because that's the only place I belong...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ab97c2b2418ea732": {
+      "text": "$$シンジ$$\n（Shikinami...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2ddff5064af78db4": {
+      "text": "$$アスカ$$\n「You can do whatever you want...\n　But me... I'm never running away...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_050d0532c4b24bfe": {
+      "text": "$$シンジ$$\n（I'll never... run away...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d583fcea31bdad2e": {
+      "text": "$$アスカ$$\n「That's it for talking to myself...\n　Good night...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_475f7653621a91b5": {
+      "text": "$$シンジ$$\n（Good night, Shikinami...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f228ae702350849b": {
+      "text": "$$シンジ$$\n（Good night, $$ジン$$...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d69dc027cba3003f": {
+      "text": "Classroom",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3c3735172a480b72": {
+      "text": "Classroom",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1f418b5594cea300": {
+      "text": "Classroom",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f87fb889124bfaef": {
+      "text": "　\n　　\n　　　　　　～ $$聖天使学園$$ Classroom ～",
+      "status": "imported"
+    },
+    "stage0046b_03:r_79c90de32a79212d": {
+      "text": "$$ユノハ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_33f7fd55913419e8": {
+      "text": "$$ミコノ$$\n「There you are, $$ユノハ$$」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_473d9a88b4ca96e7": {
+      "text": "$$ユノハ$$\n「$$ミコノ$$...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4de6ac85c63bac12": {
+      "text": "$$ミコノ$$\n「...It's about to start」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4c92652c9b1adf6f": {
+      "text": "$$ユノハ$$\n「...If only I had answered him...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ce90563a934d49fb": {
+      "text": "$$ミコノ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4fb296e63cb1fb46": {
+      "text": "$$ユノハ$$\n「$$ジン$$ said to me...\n　'Come with me,' he said...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6d77e72dbbcd7dfe": {
+      "text": "$$ミコノ$$\n（$$ユノハ$$ keeps fading more and more...!\n　At this rate...!）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9dc59affd40f32fc": {
+      "text": "$$ユノハ$$\n「If I had answered that, $$ジン$$ might...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0cea115be526a319": {
+      "text": "$$ミコノ$$\n「Let's go, $$ユノハ$$.\n　Together with everyone」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d36072babd12aeb4": {
+      "text": "$$ユノハ$$\n「No! I don't want to go! I don't want to say it...!\n　I don't want to say goodbye to $$ジン$$!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_09ee921a85025fd3": {
+      "text": "$$ミコノ$$\n「$$シンジ$$ came too...!\n　You're the only one left, $$ユノハ$$!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_fae689f2a1057b61": {
+      "text": "$$ユノハ$$\n「No! I don't want to go!\n　$$ジン$$... $$ジン$$!!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_91c6d0bb53854ecc": {
+      "text": "$$ミコノ$$\n「You don't have to say goodbye!\n　I don't want to say it either...!\n　Not to $$ジン$$... not to $$ユノハ$$...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_42a3149105314ab8": {
+      "text": "$$ミコノ$$\n「I love $$ユノハ$$... you matter to me...!\n　So please!\n　Don't disappear from us, $$ユノハ$$!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_62ecd978c667bd29": {
+      "text": "$$ユノハ$$\n「$$ミコノ$$...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d441e6cc908ac01b": {
+      "text": "Graveyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b2aab8873350ea1f": {
+      "text": "Graveyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2c7af4c55d8ac938": {
+      "text": "Graveyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_653b741d07545dff": {
+      "text": "$$トウジ$$\n「...that $$ジン$$... he really did go and die...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d584d4b5af55b1cf": {
+      "text": "$$かなめ$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_db0ee69ece206fcd": {
+      "text": "$$ケンスケ$$\n「$$シンジ$$ and the rest of the volunteer club...\n　one wrong step and...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f97e6925c9e37332": {
+      "text": "$$かなめ$$\n（Sousuke...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_422861e0b8d77d0c": {
+      "text": "$$クレア$$\n「...There's something I'd like to tell all of you,\n　now that you've gathered here」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ef16bcaa2b0e0c45": {
+      "text": "$$正太郎$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2b93cca10f1c36a8": {
+      "text": "$$竜馬$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_7980fd37141d88d0": {
+      "text": "$$クレア$$\n「$$ジン・ムソウ$$ came from a world\n　called Altair」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ac21212c36d2b9ad": {
+      "text": "$$アマタ$$\n「Altair...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_a26e2108358af7a4": {
+      "text": "$$クレア$$\n「From the data device $$ジン・ムソウ$$ carried,\n　his true purpose has come to light」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_a8118b2e37aa1382": {
+      "text": "$$クレア$$\n「He was trying to carry off female Elements\n　to the world of Altair」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_017a56991b7b8ca4": {
+      "text": "$$ゼシカ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ad3e1db3419665fb": {
+      "text": "$$葵$$\n「So it's not that he targeted women at\n　random, but Elements specifically...?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0149e3a5f2e5ef78": {
+      "text": "$$桂$$\n「So $$ユノハ$$ was the one they chose...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3ad10e705167a3fa": {
+      "text": "$$ユノハ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_bdc546b199c80996": {
+      "text": "$$アマタ$$\n（I think I get it now, somehow...\n　That sight I saw as a kid...\n　Mom went to Altair too...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_22c8caf8c08c5119": {
+      "text": "$$クレア$$\n「We don't know exactly why they targeted\n　female Elements」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9c13714b3efbc7a8": {
+      "text": "$$クレア$$\n「But now that Altair has taken\n　a more direct approach, the fighting\n　is bound to intensify from here」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_96f156e19b53fc09": {
+      "text": "$$タケル$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_feb0390bba7fe1fb": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_8a78bcec22029401": {
+      "text": "$$ミサト$$\n「$$ジン・ムソウ$$... I'll call him $$ジン$$, on purpose...\n　I respect your grief over $$ジン$$'s death」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f42017dfce31dea9": {
+      "text": "$$ミサト$$\n「But I need you to make peace with it.\n　It may be cruel, but it's your duty to do so」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ef7426919f628d8a": {
+      "text": "$$モロイ$$\n「Just switching our feelings off like that...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9e994a4b926d9906": {
+      "text": "$$アンディ$$\n「You call that a duty...!?\n　People aren't built that simple!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ffae76d2a77abf5a": {
+      "text": "$$アムロ$$\n「You do it anyway.\n　Those who can't get dragged down by the dead」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3ac462d37e5893ff": {
+      "text": "$$バナージ$$\n「$$アムロ$$...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_fd6bdf7910d7d925": {
+      "text": "$$ギミー$$\n「Even if you tell us that...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d38be46e6cd7a5e5": {
+      "text": "$$シモン$$\n「The dead are dead...\n　They're just not here anymore...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3fe2078328753c16": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c66844158d1ce600": {
+      "text": "$$シモン$$\n「But that doesn't mean they vanished...!\n　They're with us, always!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d037ecbc1e348dc9": {
+      "text": "$$カレン$$\n（You mean $$カミナ$$, $$シモン$$...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_bcd53d14c4785426": {
+      "text": "$$ミコノ$$\n「I'll try...!\n　But...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9ca55ea7feca954a": {
+      "text": "$$オズマ$$\n「This is...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_554ae12c4c170253": {
+      "text": "$$ガムリン$$\n「$$バサラ$$'s guitar, huh...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_fa59c6df081e6ae4": {
+      "text": "$$カイエン$$\n「That guy...!\n　Read the room!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ca3edf3b8b52aedf": {
+      "text": "$$シュレード$$\n「Stop, my friend.\n　This is... a sound of grief」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_aa5d235c78ebe19f": {
+      "text": "$$カイエン$$\n「But...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0b3b19cddb871f90": {
+      "text": "$$シュレード$$\n「Look around you.\n　Except for us and a few others, everyone\n　is getting past death and despair, their own way」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_304e98dac43c9333": {
+      "text": "$$バナージ$$\n（To live...\n　is to keep reaching for what's possible...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b740d817a14afd3a": {
+      "text": "$$バナージ$$\n（The one who entrusted me with the Unicorn...\n　I'm alive, so I can't let that go to waste）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_40e4c010d1b35b4c": {
+      "text": "$$バナージ$$\n（But... right now...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c33abf00683a32bc": {
+      "text": "$$宗介$$\n（A comrade's death...\n　It's a fact I must accept...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3036adce91d1f4a8": {
+      "text": "$$宗介$$\n（But I... won't die...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_019293cb83599509": {
+      "text": "$$シンジ$$\n（Goodbye, $$ジン$$...\n　I'll... never forget you...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9b949b9281aaeef1": {
+      "text": "$$シンジ$$\n（I'll... do my best to keep living...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b39a1dd705fe6cbf": {
+      "text": "$$カイエン$$\n「Everyone...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c9016e3ab05470b0": {
+      "text": "$$シュレード$$\n「Looks like, of everyone in $c,\n　we're the naivest about death.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_a684e6cea428e518": {
+      "text": "$$シュレード$$\n「Good timing.\n　We should recognize it now, I suppose,\n　that we're somewhere life and death are at stake.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_cf907a4d5de8b5c9": {
+      "text": "$$カイエン$$\n「$$シュレード$$...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_a5774604a0f00702": {
+      "text": "$$不動$$\n「Saves me the trouble of explaining what comes next.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b4fa30f33e84207f": {
+      "text": "$$アマタ$$\n「Supreme Commander $$不動$$...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9133b7e0b34de48f": {
+      "text": "$$不動$$\n「$$シモン$$, $$アンディ$$... dig a hole.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4ae9c4bd77494c4a": {
+      "text": "$$シモン$$\n「A-ah...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_7313331f4077d255": {
+      "text": "$$不動$$\n「And in that hole, the Elements will be buried.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_a84ab0c3c1ba44d4": {
+      "text": "$$カイエン$$\n「Buried...?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_414e6e90094d1413": {
+      "text": "$$アンディ$$\n「In... a hole?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_83a9e41e15444c69": {
+      "text": "$$不動$$\n「I dub it... the Grave Pit Drill!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_09227dec2bd6f4d8": {
+      "text": "$$アマタ$$\n「A grave pit...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_7b3a37f5039eb1f6": {
+      "text": "$$不動$$\n「There, you will learn about death.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_cb6d9ee71c24b042": {
+      "text": "$$ミコノ$$\n「The worst!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ddd97a6ef823929a": {
+      "text": "$$アマタ$$\n「$$ミコノ$$...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_df349052cd9cdd0c": {
+      "text": "$$不動$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_a7ce9f908380694c": {
+      "text": "$$ミコノ$$\n「Everyone's hurting, and yet!\n　What you're saying makes no sense at all!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_de3cc1f733dcb073": {
+      "text": "$$不動$$\n「...You are bound by life.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0835ec3fff318aff": {
+      "text": "$$ミコノ$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c32efc7394910997": {
+      "text": "$$不動$$\n「By sleeping alongside the dead who rest here,\n　your attachment to life will grow remarkably.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b01db8213417811e": {
+      "text": "$$不動$$\n「Distraction, malice, grief, obsession, grudges...\n　All these notions rob your soul of freedom,\n　and become shackles on a battlefield beside death...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_bc0273c6ae91c929": {
+      "text": "$$不動$$\n「All of you must die here, once...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_8deea7c70d7a76e7": {
+      "text": "$$モロイ$$\n「Die...?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_660c72e627d873c7": {
+      "text": "$$不動$$\n「Blow out your attachment to life, and sever it...\n　What lies at the end of a mock death...\n　See it for yourself, with your own eyes!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_5d8b67b5bd8ce190": {
+      "text": "$$スズネ$$\n「And for that... we get buried in a hole...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_7cf3c91395139f5c": {
+      "text": "$n\n「I'll do it too.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6ccd85652ef4ccf1": {
+      "text": "$$スズネ$$\n「$n...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_fbe7bf7d854012a7": {
+      "text": "$n\n「...I have to get past it too...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1f438885dbc1359e": {
+      "text": "$$不動$$\n「Very well,\n　$F」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2e59226caa35f6e5": {
+      "text": "$$不動$$\n「Now... what will you do?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_5d7a3adb077ad934": {
+      "text": "$$シュレード$$\n「Interesting.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_78d3b2a75e38d6f7": {
+      "text": "$$カイエン$$\n「$$シュレード$$!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_8d461de418389bf8": {
+      "text": "$$シュレード$$\n「I'm already as good as in my coffin.\n　A rehearsal for a death that's not far off isn't bad.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_5cb2acefa1e7c7fb": {
+      "text": "$$ユノハ$$\n「I want... to be close...\n　Even a little, close to $$ジン$$...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_59ce7fd9524ec8be": {
+      "text": "$$ＭＩＸ$$\n「This nasty hole... guess I fill it myself...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_33f67c683bda9203": {
+      "text": "$$アンディ$$\n「Filling in a hole we worked so hard to dig,\n　now that's a real killer!\n　Fine, I'll just jump in myself!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_476fb20ab9d18957": {
+      "text": "$$モロイ$$\n「Guess we've got no choice...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6be0d6139fac197c": {
+      "text": "$$サザンカ$$\n「Y-yeah...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_df899b8031b4ca06": {
+      "text": "$$アマタ$$\n「Everyone...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c5d048c7db7cac75": {
+      "text": "$$ミコノ$$\n「I don't want to! Absolutely not!!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_308e8ac66b1141ef": {
+      "text": "$$不動$$\n「That's fine, for you.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_64f25294d71a5d55": {
+      "text": "$$ミコノ$$\n「Those eyes that see right through everything...!\n　I really hate them!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b6ca80db4741a62c": {
+      "text": "$$不動$$\n「That's... fine.\n　...But you, you're not allowed to run.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_432a29155221625f": {
+      "text": "$$アマタ$$\n「Whoa!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9f7c18d1ea1b55c9": {
+      "text": "$$ミコノ$$\n「$$アマタ$$...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_56688ad8e41b7b42": {
+      "text": "$$クレア$$\n「Well then, Colonel Katsuragi...\n　the Elements and $F...\n　I'll look after them for a while.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_34a510533cb8a9f5": {
+      "text": "$$ミサト$$\n「Understood.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1afedc9fa466f321": {
+      "text": "$$シモン$$\n「Everyone ready?\n　We're covering you with dirt.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9547b3241808695f": {
+      "text": "$$アマタ$$\n「Y-yes!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_32b2a8ce24deeb9f": {
+      "text": "$$ミコノ$$\n「Everyone...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c7ef92060bb8199d": {
+      "text": "$$スズネ$$\n「Let's wait, $$ミコノ$$.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1be6d12f616f04e4": {
+      "text": "$$ミコノ$$\n「Wait for what?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_80f948aeaed93de8": {
+      "text": "$$スズネ$$\n「For everyone to grasp something.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0d24e9726dcc79f9": {
+      "text": "$$不動$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_da648116badd491a": {
+      "text": "$$バサラ$$\n「Interesting, this one.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4e91ccecf1dd0f66": {
+      "text": "$$ミレーヌ$$\n「Hey, $$バサラ$$!\n　This isn't the time for irresponsible talk!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_668b7114a3ac1d77": {
+      "text": "$$不動$$\n「Do you understand it, $$熱気バサラ$$?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ef339c6f71e7560f": {
+      "text": "$$バサラ$$\n「A guitar played into air stretched taut... right?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ce68dd10a19e01ea": {
+      "text": "$$不動$$\n「That's right.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_13ce8d4e4858b193": {
+      "text": "Graveyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_075101b23517fbaa": {
+      "text": "Graveyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_13c2ae299018c9ee": {
+      "text": "Graveyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6f4f8dd80820f5e7": {
+      "text": "$$ミコノ$$\n「...The battle's already begun.\n　Are we really okay not going?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_afa513b4815df4c9": {
+      "text": "$$不動$$\n「If you went now, you'd only be a hindrance.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6cf1e5ed68d98bd4": {
+      "text": "$$ミコノ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_e62eb587b8d34cb9": {
+      "text": "$$スズネ$$\n「Supreme Commander $$不動$$... may I ask you something?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d72cc2c0739c9088": {
+      "text": "$$不動$$\n「What is it?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ecf4e1c8c0f8d2d7": {
+      "text": "$$スズネ$$\n「It's about $n's $$ブーストアップ$$.\n　Is that an Element ability too?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_e5a692ea5ce09cac": {
+      "text": "$$不動$$\n「No.\n　That's a curse.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_e793fc3ce3a0c28d": {
+      "text": "$$スズネ$$\n「Is it like the children with the bloodied eyes?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2be6c657d0e12c4b": {
+      "text": "$$不動$$\n「You could say the source is one and the same.\n　But depending on who receives it,\n　it comes to walk an entirely different path.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f89f6c6c4b076e16": {
+      "text": "$$スズネ$$\n「I don't quite follow what you're saying...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_7569f965fff4d791": {
+      "text": "$$不動$$\n「No need to worry.\n　With that power, whether you fall to\n　Heaven's Prison or break Time's is up to you.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b43bdba9393d4d68": {
+      "text": "$$スズネ$$\n「Um...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3ec159d1a3492877": {
+      "text": "$$不動$$\n「Good opportunity.\n　You should face yourself too.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4e2fbafa9ebef558": {
+      "text": "$$不動$$\n「You might find another self.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_bde2e27bac7e3317": {
+      "text": "$$スズネ$$\n「Eh...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_631834aa1545ba7b": {
+      "text": "$$ミコノ$$\n「$$アマタ$$... everyone...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0cd6aab432ee5af7": {
+      "text": "Pitch Black",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c8b75f3bca245a85": {
+      "text": "Pitch Black",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b26be73e3c0c8bed": {
+      "text": "Pitch Black",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1a4dc288e81719ee": {
+      "text": "$$アマタ$$\n（...Dark... I can't see anything...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b8902c992035da79": {
+      "text": "$$ゼシカ$$\n（So quiet... total, complete silence...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_df10ad0a71c307da": {
+      "text": "$$シュレード$$\n（There's a sound...\n　The presence of insects crawling through soil...\n　Something burrowing through, squirming...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9293c52555ba1457": {
+      "text": "$$カイエン$$\n（It's disgusting...\n　Like maggots crawling into my pores, like this...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6c41647935e2574a": {
+      "text": "$$モロイ$$\n（Like my body's slowly crumbling away...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ca702b5726ebd4da": {
+      "text": "$$サザンカ$$\n（Like I'm slowly rotting away...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_51ce1d8caa34c103": {
+      "text": "$$ユノハ$$\n（If I rot... and rotting, return to the earth,\n　could $$ジン$$ and I... become one...?）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d00313056b19262c": {
+      "text": "$$ＭＩＸ$$\n（I'm scared...!\n　Returning to the earth...? I can't go back...!）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d41f1e36365baa6f": {
+      "text": "$$アンディ$$\n（Don't be afraid, $$ＭＩＸ$$!）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2c37dd5b8f919a88": {
+      "text": "$n\n（If I just die like this...\n　then I... won't have to fight fear anymore... is that it...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_53f5199f05a9aad8": {
+      "text": "$n\n（Is it... okay to stop fearing loss...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c6937f14a8985c35": {
+      "text": "Graveyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_07513334490fbdf9": {
+      "text": "Graveyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d90c4affdd742a0e": {
+      "text": "Graveyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_082a55c75a163780": {
+      "text": "$$ミコノ$$\n「Everyone...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_fa09fad95980b867": {
+      "text": "$$不動$$\n「$$アマタ$$'s power, Flight... $$ゼシカ$$'s power, Twist...\n　$$シュレード$$'s sound... $$カイエン$$'s despair...\n　and then, $$ユノハ$$'s power, Vanish...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f5507082e5c31362": {
+      "text": "$$不動$$\n「Each of their thoughts is running wild.\n　At this rate...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3c9956c9d519d2a2": {
+      "text": "$$ミコノ$$\n「No, $$ユノハ$$!\n　You can't just disappear!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d150caab246bbd7a": {
+      "text": "$$スズネ$$\n「$$ミコノ$$!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d23d30b65284f69d": {
+      "text": "$$ミコノ$$\n「We finally got to be friends...!\n　I thought we'd finally get to connect...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b2f67d46499f2bbd": {
+      "text": "$$ミコノ$$\n「Why...! Come back here again, please!\n　Hey, everyone!!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_fc1b13eaa4071b9a": {
+      "text": "$$アマタ$$\n「I don't want to...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c4cdd41ba9207e9c": {
+      "text": "$$ミコノ$$\n「$$アマタ$$...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c33c28fb471faf59": {
+      "text": "$$アマタ$$\n「If I'm born, I'll just be left behind again.\n　I don't want that... never be left behind again...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d0fc4899507f74b2": {
+      "text": "$$ゼシカ$$\n「Left behind...!\n　$$アマタ$$'s being left behind...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_11f13ec5326eaa51": {
+      "text": "$$ユノハ$$\n「No more...! I hate this...! Don't leave me...!\n　I want to stay here...!\n　Here with $$ジン$$, just like this...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b69df689192adfc2": {
+      "text": "$$アマタ$$\n「I don't want to be born... not again, ever...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_8a9ac301023aa8d3": {
+      "text": "$$ユノハ$$\n「Living all alone...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_e4ae97a37c9b0cce": {
+      "text": "$$ゼシカ$$\n「It hurts...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4cab8ba7b88b6c2a": {
+      "text": "$$アマタ$$\n「Living is...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_38f89a2d27debb9e": {
+      "text": "$$スズネ$$\n「W-what is this...!?\n　Everyone's sorrow is spreading...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_20aab898d4d14e51": {
+      "text": "$$ミコノ$$\n「Stop...! Just stop it!\n　You're all such idiots!!\n　What is this!?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_e418ba9e04898c28": {
+      "text": "Graveyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_88461d9fd17c56e7": {
+      "text": "Graveyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f79b2ac118e41c1a": {
+      "text": "Graveyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d7bf635b7e5f811c": {
+      "text": "$$不動$$\n「$$碇シンジ$$...\n　Meeting $$ジン$$ made you feel the\n　Elements' walls of the heart, didn't it...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_24cb831c779807fd": {
+      "text": "$$ミコノ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3f9082480d045564": {
+      "text": "$$不動$$\n「$$ミコノ・スズシロ$$...\n　It's your power that will save them.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_312a78dfbb065f65": {
+      "text": "$$ミコノ$$\n「My...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9f17991d2b19374c": {
+      "text": "$$不動$$\n「A person doesn't only die when life ends.\n　Like hair falling, teeth dropping, withering away,\n　the body's cells, mind and heart die moment by moment...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9bf1948e282e5587": {
+      "text": "$$ミコノ$$\n「Moment by moment...?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_67c9e002d64d9781": {
+      "text": "$$不動$$\n「But when bound to a past self and frozen,\n　a person is cut off from the universe's\n　great flow, and falls apart...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_cb5e5d90104f7a88": {
+      "text": "$$不動$$\n「$$ミコノ・スズシロ$$...\n　Your power binds the scattered back together...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_34f8d5cbd504c416": {
+      "text": "$$ミコノ$$\n「The power to bind...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_8246cdac0973a25f": {
+      "text": "$$不動$$\n「Yes, that attachment to a past self...\n　Like mushroom threads that feed on the dead\n　and grow, beneath unseen earth...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0a597f4cd9c8309b": {
+      "text": "$$不動$$\n「Between life and death,\n　it binds the souls that were torn apart...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_fc7afc4ebf9fd013": {
+      "text": "$$不動$$\n「$$ミコノ・スズシロ$$...\n　It's your power that will save the Elements.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_833975ddd032dd18": {
+      "text": "$$ミコノ$$\n「My...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1608d4c4d3f78b24": {
+      "text": "$$不動$$\n「A person doesn't only die when life ends.\n　Like hair falling, teeth dropping, withering away,\n　the body's cells, mind and heart die moment by moment...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_149109e3b1cf253b": {
+      "text": "$$ミコノ$$\n「Moment by moment...?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1de04d77f1060720": {
+      "text": "$$不動$$\n「But when bound to a past self and frozen,\n　a person is cut off from the universe's\n　great flow, and falls apart...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ffee8be5e866ae97": {
+      "text": "$$不動$$\n「$$ミコノ・スズシロ$$...\n　Your power binds the scattered back together...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_bc2050dd9e12f5a4": {
+      "text": "$$ミコノ$$\n「The power to bind...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_e5de816af15aeaec": {
+      "text": "$$不動$$\n「Yes, that attachment to a past self...\n　Like mushroom threads that feed on the dead\n　and grow, beneath unseen earth...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_5149abbbcbee6ee4": {
+      "text": "$$不動$$\n「Between life and death,\n　it binds the souls that were torn apart...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_bedf0f18c13c0a97": {
+      "text": "Pitch Black",
+      "status": "imported"
+    },
+    "stage0046b_03:r_56d65b2dba1b5061": {
+      "text": "Pitch Black",
+      "status": "imported"
+    },
+    "stage0046b_03:r_31865d3496c34d8b": {
+      "text": "Pitch Black",
+      "status": "imported"
+    },
+    "stage0046b_03:r_7d1683c9b3b3094a": {
+      "text": "$$ジン$$\n「I've loved you for twelve thousand years...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2249da179abb6501": {
+      "text": "$$ユノハ$$\n「No way...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3f3b91470236b2a8": {
+      "text": "$$ジン$$\n「From year eight thousand on, I missed you more.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_490618028b4c53d6": {
+      "text": "$$ユノハ$$\n「This voice, it's...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1a6f62daa82363ae": {
+      "text": "$$ジン$$\n「I was always alone.\n　I thought other people didn't matter.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6b6dd25816c18fc5": {
+      "text": "$$ユノハ$$\n「I knew it, $$ジン$$...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9d80dc88f241858b": {
+      "text": "$$ジン$$\n「But $$ユノハ$$... meeting you, all of you,\n　made me wish to connect with someone.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_23cb7be357e8a4e0": {
+      "text": "$$ジン$$\n「So don't let the flow of life stop.\n　And, everyone...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_60cd511150394b50": {
+      "text": "$$アマタ$$\n「$$ジン$$...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_33e42009af9a0b54": {
+      "text": "$$ジン$$\n「I know now that I'm not alone...!\n　Our lives were never meant to be alone...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_7fc1d3642481712b": {
+      "text": "$$ユノハ$$\n「Life is...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f72b6d47f9645d8c": {
+      "text": "$$アマタ$$\n「Never meant to be alone!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0153901fe839b497": {
+      "text": "$$ミコノ$$\n「That's right...!\n　Our lives go beyond life and death,\n　connecting together, right now...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d60b2e6806c37bbe": {
+      "text": "$$サザンカ$$\n「Ah, such soft earth!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_336f0b1ef99d93b3": {
+      "text": "$$モロイ$$\n「It's like the dead became a cradle...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_7d0527803c131a6e": {
+      "text": "$$アマタ$$\n「It feels like being held again\n　in mother's arms as a baby...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9d4ee24cdaa2851d": {
+      "text": "$$ゼシカ$$\n「Right... if I'd never been born,\n　I'd never have felt this...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_003ee7d177c348cf": {
+      "text": "$$ユノハ$$\n「If I'd never been born, I'd never have\n　met any of you, or $$ジン$$...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f4f785c3e285cb39": {
+      "text": "$$ＭＩＸ$$\n「That's right! The outside isn't scary!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_eb4bb0599c61e2b2": {
+      "text": "$$アンディ$$\n「Sure, there's danger out there!\n　But it's just as warm as inside the hole!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1a9f38456bfe7b4a": {
+      "text": "$$カイエン$$\n「To reach for warmth,\n　you'll get hurt, you'll feel pain...!\n　Even so...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6f761a8fd9d1f7b4": {
+      "text": "$$シュレード$$\n「A sound lives only between death and rebirth...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_98c6e74747c3936c": {
+      "text": "$$ミコノ$$\n「That's right! Everyone, don't be afraid!\n　I'll be waiting here for you!\n　Waiting for you all to be born again!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_7d9f085a5d9c51fd": {
+      "text": "Graveyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_60e4d2ebcfd943ea": {
+      "text": "Graveyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_42d73bcdaedb1371": {
+      "text": "Graveyard",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c0837a2b98000559": {
+      "text": "$$不動$$\n「In the flow of passing time,\n　you die each moment, reborn each moment.\n　Where being is born from nothing, that is now...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0866340ed1139b99": {
+      "text": "$$ミコノ$$\n「Now?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_290faeefba2fe68d": {
+      "text": "$$不動$$\n「Bind this moment called 'now' with your heart!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_65ef57e28bd90298": {
+      "text": "$$不動$$\n「Behold, the Union of Mind and Truth!!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_bbc100b0424fdcd0": {
+      "text": "$$カイエン$$\n「Where are we...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_03d92655c99f7c70": {
+      "text": "$$ゼシカ$$\n「Outside the hole...?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_8ca795c4c35fc911": {
+      "text": "$$アンディ$$\n「We're...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_69bf15620a355d50": {
+      "text": "$$ＭＩＸ$$\n「We got out of the hole!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ae4d9169d6ff43a4": {
+      "text": "$$アマタ$$\n「$$ミコノ$$...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d9ad0726bf16dd92": {
+      "text": "$$ミコノ$$\n「Happy birthday!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_821a93f3f890d905": {
+      "text": "$$不動$$\n「Heh...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_8cb00be7cca91c45": {
+      "text": "$$モロイ$$\n「$n is...!?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ce4ee5d4d2a4dc1d": {
+      "text": "$$サザンカ$$\n「No way! Is that kid still in the dirt!?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_5557ccda2f7c3f23": {
+      "text": "$$ユノハ$$\n「$n!\n　Please answer me, $n!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_01fea60fea66c996": {
+      "text": "$$スズネ$$\n「Everyone...\n　I'll stay with $n.\n　Please launch, quickly.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_48a3f23147fd6b6d": {
+      "text": "$$不動$$\n「Then, I'll leave the rest to you.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ae273a5479d64978": {
+      "text": "$$不動$$\n「All hands, launch!\n　Elements: $$アマタ$$, $$ミコノ$$, $$ゼシカ$$!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_28066ae0934e6411": {
+      "text": "$$ミコノ$$\n「Yes!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_a38016b9c3d59e6e": {
+      "text": "$$スズネ$$\n「...Hey...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9d00ee0ac3902eac": {
+      "text": "$$スズネ$$\n「...$n... can you hear me?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_258a09e5e9761e3d": {
+      "text": "$$スズネ$$\n「Not that Supreme Commander $$不動$$ told me to,\n　but since I'm always asking $n things,\n　today I'll talk about myself for once...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_263097ee015a04ab": {
+      "text": "$$スズネ$$\n「Sorry, $n...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4a301748a7930689": {
+      "text": "$$スズネ$$\n「I always act mature and lecture you...\n　but I'm not really someone who can do that.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c38e739de7ee864a": {
+      "text": "$$スズネ$$\n「The real me is weak, and a coward...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_5135fdea02c6bd7b": {
+      "text": "$$スズネ$$\n「The UG's leader unit!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c545a5a303470d2c": {
+      "text": "$$スズネ$$\n「Kyaa!!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_fb06b0a658b1ef40": {
+      "text": "$n\n「Miss $$スズネ$$!!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_e5630cc47dc440b7": {
+      "text": "$$スズネ$$\n「$n...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_8f39e18936c36a15": {
+      "text": "$n\n「Are you hurt?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f2655371e3ef7b59": {
+      "text": "$$スズネ$$\n「I'm fine...\n　But, $n, are you...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ee7f46e6a631fd5c": {
+      "text": "$n\n「...I didn't really understand what Supreme\n　Commander $$不動$$ meant about life and death...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_959b2fde0469959d": {
+      "text": "$n\n「But when I thought Miss $$スズネ$$ was in danger,\n　my body just moved on its own...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_54d7a668750123ea": {
+      "text": "$$スズネ$$\n「$$ＡＧ$$ told me...\n　that wanting to protect someone\n　becomes your strength, $n...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_586ac0e9503b5765": {
+      "text": "$$スズネ$$\n「You've saved me so many times, $n...\n　My life is a life you, $n, saved for me.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1d13d9bb6a6d7818": {
+      "text": "$n\n「Miss $$スズネ$$...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_dc37213133cd8177": {
+      "text": "$$スズネ$$\n「Your life has meaning...\n　let it become the strength to protect someone.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9b8d839e83da7879": {
+      "text": "$n\n「That's... my fight...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_95a0cdf4151c12f7": {
+      "text": "$$スズネ$$\n「That's right.\n　Even if chasing an angel began your fight,\n　you're fighting to protect something now.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c2a5e2a9019026a4": {
+      "text": "$$スズネ$$\n「So live...\n　to protect someone with your life.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_855e82ce06693ee8": {
+      "text": "$n\n「Yes...!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3c1c81e93f697fb9": {
+      "text": "$$スズネ$$\n「Let's go!\n　Before that UG leader unit comes back!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_10cbf30c54cfe4fc": {
+      "text": "$n\n「Since I just used $$ブーストアップ$$,\n　we'll have to run to the hangar!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d84831042f10325c": {
+      "text": "$n\n「...I'll... take your hand!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_cc01b694a39de719": {
+      "text": "$$スズネ$$\n（Our joined hands are so warm...\n　I can feel $n's heart...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6a5a0a8d6d6a68fd": {
+      "text": "$$スズネ$$\n（But, what is this...\n　something stirring deep in my heart...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_fa54b106906131ec": {
+      "text": "Command Room",
+      "status": "imported"
+    },
+    "stage0046b_03:r_64f86b30363f1f4c": {
+      "text": "Command Room",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c98d1f9a0e601947": {
+      "text": "Command Room",
+      "status": "imported"
+    },
+    "stage0046b_03:r_afa4e4bac1376010": {
+      "text": "　\n　　\n　　　　　　　　　～ NERV Headquarters, Command Room ～",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c5f074a439f6c890": {
+      "text": "$$ゲンドウ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_8b22d4b99ca35b84": {
+      "text": "$$加持$$\n「Whew, what a job that was.\n　The Third Angel and EVA Unit-05 in question\n　were dealt with as planned.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b0aaf075b2a97a36": {
+      "text": "$$加持$$\n「Officially, it was an accident...\n　This ends the Marduk Plan at Bethany Base.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_53add6e443d8a65a": {
+      "text": "$$ゲンドウ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_447e23c61fa29c56": {
+      "text": "$$加持$$\n「Everything went by your script.\n　And the usual latest data from $$ＳＥＥＬＥ$$, earlier...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d95bdcd1bd8b6579": {
+      "text": "$$冬月$$\n「I've had a look.\n　Proof of Mark.06's construction was useful.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2b4d4dced3ef5a03": {
+      "text": "$$加持$$\n「Very well.\n　Here's the item as promised.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d3ea963a3518a978": {
+      "text": "$$加持$$\n「The Lost Number kept in reserve,\n　a guide that weaves god and soul together.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0c888ad00ef30dc4": {
+      "text": "$$ゲンドウ$$\n「Yes...\n　the Key of Nebuchadnezzar, door to Instrumentality.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_941d9e3a330b1087": {
+      "text": "$$加持$$\n「Well then, I'll be off.\n　I'll do as I please for a while.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_bee2bfb994ca7365": {
+      "text": "$$冬月$$\n「Chief Inspector $$加持リョウジ$$...\n　Is he a man worth trusting?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6d287e4652a3781f": {
+      "text": "$$ゲンドウ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_4d54e46ed7fd462d": {
+      "text": "Bar",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1c42d2bca3a5e3a3": {
+      "text": "Bar",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b23f4e273f76c5a8": {
+      "text": "Bar",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2488b984097a7bdf": {
+      "text": "$$ガドライト$$\n「Welcome back, my sweet honey.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6acc4cacd2cf56b6": {
+      "text": "$$アンナロッタ$$\n「I'm sorry...\n　Launching without orders, and failing my goal besides...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_0491c741ae20f5e6": {
+      "text": "$$アンナロッタ$$\n「I'm the one who stained the pride of G.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_131bea3d5d957e98": {
+      "text": "$$ガドライト$$\n「Quit thinking such dangerous thoughts.\n　You're our last hope, after all.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_fc994d6aae0712cc": {
+      "text": "$$アンナロッタ$$\n「But...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_18ef8ab6be368d72": {
+      "text": "$$ガドライト$$\n「Don't worry about it, don't worry.\n　The clock's hands will stop soon enough anyway.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_176fd2544c64e83e": {
+      "text": "$$ガドライト$$\n「But, always losing does sting a little...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ae2ea53f43e74074": {
+      "text": "$$アンナロッタ$$\n「Captain...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_60e8a3284b8a113b": {
+      "text": "$$ガドライト$$\n「That $c of ours needs\n　a bit of punishment, imitation\n　included. Pretty seriously, too.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d4164c459c1c1165": {
+      "text": "$$ガドライト$$\n「Once we've hit that pesky island,\n　I think we'll let them taste\n　despair a little early.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_e745974656b70e6a": {
+      "text": "???\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f794dabe545dc6ac": {
+      "text": "$$アンナロッタ$$\n「What are you!?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_d4f3fe1e9bcf2590": {
+      "text": "$$ガドライト$$\n「Don't worry, $$アンナロッタ$$.\n　This guy here's just my drinking buddy.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_59cb6a337266e5c9": {
+      "text": "$$ガドライト$$\n「Though it's always on me, mind you.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3888ccd5f98dd99d": {
+      "text": "???\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_521653467873650f": {
+      "text": "$$アンナロッタ$$\n（What is this guy...）",
+      "status": "imported"
+    },
+    "stage0046b_03:r_aab85855cbaf5596": {
+      "text": "Favorite Backdrop",
+      "status": "imported"
+    },
+    "stage0046b_03:r_e5f4d0fca11502fa": {
+      "text": "Favorite Backdrop",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f3ed55718d2364ba": {
+      "text": "Favorite Backdrop",
+      "status": "imported"
+    },
+    "stage0046b_03:r_47fd2ac2e2a8e945": {
+      "text": "$$ＡＧ$$\n「You did it, $n!\n　You managed to activate GAI Mode!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_95ef381ed0b96982": {
+      "text": "$n\n「Was that... thanks to $$ミコノ$$'s power to connect?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_82218191e135e576": {
+      "text": "$$ＡＧ$$\n「Since $n isn't an Element,\n　I'd say it's just a side effect.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c4e4b578079583c5": {
+      "text": "$$ＡＧ$$\n「This activation happened because\n　the Grave Pit Drill briefly made you\n　open to Element power. Irregular, so to speak.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_46c21ad643c64977": {
+      "text": "$n\n「I see...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6a27ef5c3933ffa2": {
+      "text": "$$ＡＧ$$\n「But thanks to the data we got,\n　we're almost able to pin down the conditions.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_04169fb070591784": {
+      "text": "$$ＡＧ$$\n「Since a Z-Chip was generated\n　on activation, I think the pilot's\n　mental state does have an effect.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_1be6bea3e5d25074": {
+      "text": "$n\n「My mental state...?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2471e14c1ef0ecac": {
+      "text": "$$ＡＧ$$\n「This is just my guess,\n　but sensing Miss $$スズネ$$'s mind directly\n　likely caused some change in $n.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_6c3c0ada303bce08": {
+      "text": "$$ＡＧ$$\n「Anyway, I'll add the 100Z Z-Chip\n　from this activation to the squad's stock.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_9f5a27f5febf371b": {
+      "text": "$n\n「...I'd call this the Grave Pit Drill's payoff.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c5d536c5ba8c0902": {
+      "text": "$$ＡＧ$$\n「Want to bury yourself in dirt\n　before every sortie from now on? If so,\n　I'll get a huge planter ready in the hangar.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_243595675818fcae": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_61c5480dbf2e58e0": {
+      "text": "$$ＡＧ$$\n「Ah... I like that jokes don't land with you...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2e966de2770bb703": {
+      "text": "$n\n「If anger is what turns the $$ジェニオン$$\n　into GAI, I'm sure I could trigger it right now...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ddda297a7997c73b": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0046b_03:r_02c89111c680d125": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0046b_03:r_fda7edf39e317875": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0046b_03:r_b267a0ec877acc0e": {
+      "text": "　\n　\n　　　　　　～ D-Trader ～",
+      "status": "imported"
+    },
+    "stage0046b_03:r_c627120a60cde94d": {
+      "text": "$$ＡＧ$$\n「...That was quite an ordeal, Lady $$ユノハ$$.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_22a2d3667e5a9fc8": {
+      "text": "$$ユノハ$$\n「Thank you, $$ＡＧ$$...\n　But I'm alright now.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_62e68b17a29fb53b": {
+      "text": "$$ＡＧ$$\n「You've changed so much since we first met.\n　To see you smile like that...\n　it makes this $$ＡＧ$$ happy too.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3f09ae47d355cbc5": {
+      "text": "$$ユノハ$$\n「For $$ジン$$, who taught me what it means\n　to cherish someone, I'll... keep trying.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_629b0e87b7bc7b76": {
+      "text": "$$ユノハ$$\n「Well then, I have meal duty soon,\n　so please excuse me.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_5777cb06f7e0103f": {
+      "text": "$$ＡＧ$$\n「Do your best, Lady $$ユノハ$$.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_ede6dd5bb2efe029": {
+      "text": "$$ＡＧ$$\n「But this time's Grave Pit Drill...\n　left something bothering me.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_98e716ed18b1b3a2": {
+      "text": "$$ＡＧ$$\n「Just who is Supreme Commander $$不動$$,\n　really...? And what he said about the heavens...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_91a4ece3cc02badd": {
+      "text": "$$不動$$\n「Do you need something from me?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_e81e034b71411af7": {
+      "text": "$$ＡＧ$$\n「Whoa!\n　W-what was that all of a sudden!?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_e83ac0db54ff2b02": {
+      "text": "$$不動$$\n「Oh...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_bc5b33fbc100b97b": {
+      "text": "$$ＡＧ$$\n「W-what is it...?\n　Looking at me like you can see through my armor...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_f2d72b948cc38cfe": {
+      "text": "$$不動$$\n「Things are more interesting with secrets.\n　We are too... and so is she...」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_3b207a6e3b8e5700": {
+      "text": "$$ＡＧ$$\n「Are you going to cloud the issue again\n　with words like that?」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_718d4f86b37b2915": {
+      "text": "$$不動$$\n「It's just my nature.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_2cd57aac659672dc": {
+      "text": "$$ＡＧ$$\n「Those eyes that see through everything...!\n　I hate them so much!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_017c609cb5528ca1": {
+      "text": "$$不動$$\n「Not much of a resemblance, hm.」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_984737d2920b03f7": {
+      "text": "$$ＡＧ$$\n「J-just leave me alone!\n　I will fulfill my own duty!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_5ce10ef5943775df": {
+      "text": "$$不動$$\n「Fired up for business, business, today too!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_444bfe868b096710": {
+      "text": "$$ＡＧ$$\n「He stole my catchphrase!」",
+      "status": "imported"
+    },
+    "stage0046b_03:r_864ee68806b41af1": {
+      "text": "$$不動$$\n「Fate changes within the wheel of reincarnation.\n　Catchphrases, and loved ones too...」",
+      "status": "imported"
+    }
+  }
+}

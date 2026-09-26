@@ -1,0 +1,3983 @@
+{
+  "schema": 1,
+  "table_start": "0x84d410",
+  "table_end": "0x84e61c",
+  "table_sha256": "296c535c9474bec8e31d410aaf858ee2e344c3f1ca6f9079ee53f93df69f27f3",
+  "bindings": [
+    {
+      "source_va": "0x6ebb18",
+      "message_id": "enemy_names:r_202509b78dd24bb8",
+      "refs": [
+        "0x84d410"
+      ]
+    },
+    {
+      "source_va": "0x6ebb20",
+      "message_id": "glossary:r_1cc17beda628b0f5",
+      "refs": [
+        "0x84d414",
+        "0x84d444",
+        "0x84d448"
+      ]
+    },
+    {
+      "source_va": "0x6ebb30",
+      "message_id": "glossary:r_cfbe7ba5c0ad567e",
+      "refs": [
+        "0x84d418",
+        "0x84d44c"
+      ]
+    },
+    {
+      "source_va": "0x6ebb40",
+      "message_id": "glossary:r_1a264657fe2b3e61",
+      "refs": [
+        "0x84d41c",
+        "0x84d454"
+      ]
+    },
+    {
+      "source_va": "0x6ebb48",
+      "message_id": "glossary:r_1ad1240f2fa5c6af",
+      "refs": [
+        "0x84d420",
+        "0x84d450"
+      ]
+    },
+    {
+      "source_va": "0x6ebb50",
+      "message_id": "glossary:r_d67c7132215afd2a",
+      "refs": [
+        "0x84d424",
+        "0x84d458"
+      ]
+    },
+    {
+      "source_va": "0x6ebb58",
+      "message_id": "glossary:r_68bccc95a086c9e4",
+      "refs": [
+        "0x84d428"
+      ]
+    },
+    {
+      "source_va": "0x6ebb68",
+      "message_id": "glossary:r_d99da66246c08641",
+      "refs": [
+        "0x84d42c"
+      ]
+    },
+    {
+      "source_va": "0x6ebb70",
+      "message_id": "glossary:r_12826ad9029ce84e",
+      "refs": [
+        "0x84d430"
+      ]
+    },
+    {
+      "source_va": "0x6ebb80",
+      "message_id": "glossary:r_6305b932f56312b5",
+      "refs": [
+        "0x84d434"
+      ]
+    },
+    {
+      "source_va": "0x6ebb88",
+      "message_id": "glossary:r_b774ac707ce5b015",
+      "refs": [
+        "0x84d438"
+      ]
+    },
+    {
+      "source_va": "0x6ebb98",
+      "message_id": "glossary:r_e99517d1e25e058a",
+      "refs": [
+        "0x84d43c"
+      ]
+    },
+    {
+      "source_va": "0x6ebba8",
+      "message_id": "glossary:r_08a6b9f1ed3afc3e",
+      "refs": [
+        "0x84d440"
+      ]
+    },
+    {
+      "source_va": "0x6ebbb8",
+      "message_id": "command_swap_labels:unknown",
+      "refs": [
+        "0x84d45c",
+        "0x84d460",
+        "0x84d4a8",
+        "0x84d4ac",
+        "0x84d508",
+        "0x84d50c",
+        "0x84d568",
+        "0x84d56c",
+        "0x84d644",
+        "0x84d648",
+        "0x84d64c",
+        "0x84d650",
+        "0x84d654",
+        "0x84d658",
+        "0x84d670",
+        "0x84d674",
+        "0x84d698",
+        "0x84d6e8",
+        "0x84d6ec",
+        "0x84d78c",
+        "0x84d790",
+        "0x84d82c",
+        "0x84d830",
+        "0x84d888",
+        "0x84d88c",
+        "0x84d8cc",
+        "0x84d978",
+        "0x84d97c",
+        "0x84d9d0",
+        "0x84dabc",
+        "0x84dac0",
+        "0x84daf4",
+        "0x84daf8",
+        "0x84db24",
+        "0x84db28",
+        "0x84db2c",
+        "0x84db30",
+        "0x84db34",
+        "0x84db38",
+        "0x84dbec",
+        "0x84dbf0",
+        "0x84dc38",
+        "0x84dc3c",
+        "0x84dc60",
+        "0x84dc64",
+        "0x84dc68",
+        "0x84dc6c",
+        "0x84dd40",
+        "0x84dd44",
+        "0x84dd94",
+        "0x84ddec",
+        "0x84ddf0",
+        "0x84de18",
+        "0x84de4c",
+        "0x84de50",
+        "0x84deb0",
+        "0x84dffc",
+        "0x84e000",
+        "0x84e004",
+        "0x84e008",
+        "0x84e00c",
+        "0x84e010",
+        "0x84e08c",
+        "0x84e090",
+        "0x84e0b0",
+        "0x84e148",
+        "0x84e14c",
+        "0x84e150",
+        "0x84e154",
+        "0x84e18c",
+        "0x84e1c0",
+        "0x84e23c",
+        "0x84e240",
+        "0x84e244",
+        "0x84e248",
+        "0x84e280",
+        "0x84e284",
+        "0x84e294",
+        "0x84e2c8",
+        "0x84e2cc",
+        "0x84e324",
+        "0x84e388",
+        "0x84e38c",
+        "0x84e450",
+        "0x84e454",
+        "0x84e458",
+        "0x84e4a4",
+        "0x84e4ac",
+        "0x84e568",
+        "0x84e56c",
+        "0x84e570",
+        "0x84e574",
+        "0x84e578",
+        "0x84e614",
+        "0x84e618"
+      ]
+    },
+    {
+      "source_va": "0x6ebbc8",
+      "message_id": "glossary:r_5d1e064ebc5763ba",
+      "refs": [
+        "0x84d464",
+        "0x84d468",
+        "0x84d4d0",
+        "0x84d4d4"
+      ]
+    },
+    {
+      "source_va": "0x6ebbd8",
+      "message_id": "glossary:r_33d597bb4a2bdf96",
+      "refs": [
+        "0x84d46c",
+        "0x84d4d8"
+      ]
+    },
+    {
+      "source_va": "0x6ebbe0",
+      "message_id": "glossary:r_dab1c8724790b0d3",
+      "refs": [
+        "0x84d470",
+        "0x84d474",
+        "0x84d4dc"
+      ]
+    },
+    {
+      "source_va": "0x6ebc00",
+      "message_id": "glossary:r_367b8f632cdcff76",
+      "refs": [
+        "0x84d478",
+        "0x84d4ec"
+      ]
+    },
+    {
+      "source_va": "0x6ebc10",
+      "message_id": "glossary:r_889a2c4a3d13a49d",
+      "refs": [
+        "0x84d47c",
+        "0x84d4f0"
+      ]
+    },
+    {
+      "source_va": "0x6ebc18",
+      "message_id": "glossary:r_f5855e4199d1218e",
+      "refs": [
+        "0x84d480"
+      ]
+    },
+    {
+      "source_va": "0x6ebc20",
+      "message_id": "glossary:r_b47522ec22d5230b",
+      "refs": [
+        "0x84d484",
+        "0x84d488",
+        "0x84d48c",
+        "0x84d490",
+        "0x84d4e0"
+      ]
+    },
+    {
+      "source_va": "0x6ebc30",
+      "message_id": "glossary:r_1139a9a7eaa1d0a7",
+      "refs": [
+        "0x84d494",
+        "0x84d498",
+        "0x84d49c",
+        "0x84d4e4"
+      ]
+    },
+    {
+      "source_va": "0x6ebc40",
+      "message_id": "glossary:r_9705def214c6c945",
+      "refs": [
+        "0x84d4a0",
+        "0x84d4e8"
+      ]
+    },
+    {
+      "source_va": "0x6ebc50",
+      "message_id": "glossary:r_bf894ea276f843a8",
+      "refs": [
+        "0x84d4a4"
+      ]
+    },
+    {
+      "source_va": "0x6ebc60",
+      "message_id": "enemy_names:r_50e87a2fb9246781",
+      "refs": [
+        "0x84d4b0",
+        "0x84d4b4",
+        "0x84d4b8",
+        "0x84d4bc",
+        "0x84d4f4",
+        "0x84d4f8"
+      ]
+    },
+    {
+      "source_va": "0x6ebc70",
+      "message_id": "enemy_names:r_08b31989702bc39a",
+      "refs": [
+        "0x84d4c0",
+        "0x84d4c4",
+        "0x84d4fc",
+        "0x84dcc8",
+        "0x84dd3c"
+      ]
+    },
+    {
+      "source_va": "0x6ebc80",
+      "message_id": "enemy_names:r_7438109290fa0b31",
+      "refs": [
+        "0x84d4c8",
+        "0x84d4cc",
+        "0x84d500",
+        "0x84d504"
+      ]
+    },
+    {
+      "source_va": "0x6ebca0",
+      "message_id": "glossary:r_3b739ba696db92af",
+      "refs": [
+        "0x84d510",
+        "0x84d544"
+      ]
+    },
+    {
+      "source_va": "0x6ebcb0",
+      "message_id": "glossary:r_7dd1e56bd24631d1",
+      "refs": [
+        "0x84d514",
+        "0x84d548"
+      ]
+    },
+    {
+      "source_va": "0x6ebcc0",
+      "message_id": "glossary:r_a2c9847e9a3bc834",
+      "refs": [
+        "0x84d518",
+        "0x84d54c"
+      ]
+    },
+    {
+      "source_va": "0x6ebcd0",
+      "message_id": "glossary:r_2b7ce66269db94ed",
+      "refs": [
+        "0x84d51c",
+        "0x84d550"
+      ]
+    },
+    {
+      "source_va": "0x6ebce0",
+      "message_id": "glossary:r_353a3e76c280b652",
+      "refs": [
+        "0x84d520",
+        "0x84d554"
+      ]
+    },
+    {
+      "source_va": "0x6ebce8",
+      "message_id": "glossary:r_57ef5ce7e3bd0e38",
+      "refs": [
+        "0x84d524",
+        "0x84d558"
+      ]
+    },
+    {
+      "source_va": "0x6ebcf0",
+      "message_id": "glossary:r_4904386149b61b1e",
+      "refs": [
+        "0x84d528"
+      ]
+    },
+    {
+      "source_va": "0x6ebd00",
+      "message_id": "glossary:r_31ef15afa5997973",
+      "refs": [
+        "0x84d52c",
+        "0x84d55c"
+      ]
+    },
+    {
+      "source_va": "0x6ebd08",
+      "message_id": "glossary:r_c5f40627ee74f7fe",
+      "refs": [
+        "0x84d530"
+      ]
+    },
+    {
+      "source_va": "0x6ebd10",
+      "message_id": "enemy_names:r_d36486d1350b3dd7",
+      "refs": [
+        "0x84d534"
+      ]
+    },
+    {
+      "source_va": "0x6ebd20",
+      "message_id": "glossary:r_11bd8a24244d18e5",
+      "refs": [
+        "0x84d538"
+      ]
+    },
+    {
+      "source_va": "0x6ebd30",
+      "message_id": "enemy_names:r_0df897000b7652c1",
+      "refs": [
+        "0x84d53c",
+        "0x84d540",
+        "0x84d560",
+        "0x84d564"
+      ]
+    },
+    {
+      "source_va": "0x6ebd40",
+      "message_id": "glossary:r_9a6d04cce32b96d6",
+      "refs": [
+        "0x84d570",
+        "0x84d614"
+      ]
+    },
+    {
+      "source_va": "0x6ebd50",
+      "message_id": "glossary:r_2dafc0a6c181cb47",
+      "refs": [
+        "0x84d574",
+        "0x84d618"
+      ]
+    },
+    {
+      "source_va": "0x6ebd60",
+      "message_id": "glossary:r_704ec44dd463900d",
+      "refs": [
+        "0x84d578",
+        "0x84d61c"
+      ]
+    },
+    {
+      "source_va": "0x6ebd70",
+      "message_id": "glossary:r_ccb2c4c71616f03c",
+      "refs": [
+        "0x84d57c",
+        "0x84d580"
+      ]
+    },
+    {
+      "source_va": "0x6ebd80",
+      "message_id": "glossary:r_2bedd0c5160ac0a2",
+      "refs": [
+        "0x84d584",
+        "0x84d620"
+      ]
+    },
+    {
+      "source_va": "0x6ebd90",
+      "message_id": "glossary:r_e16711ccbc62b04b",
+      "refs": [
+        "0x84d588",
+        "0x84d624"
+      ]
+    },
+    {
+      "source_va": "0x6ebda0",
+      "message_id": "glossary:r_f5465fb6799bd694",
+      "refs": [
+        "0x84d58c",
+        "0x84d628"
+      ]
+    },
+    {
+      "source_va": "0x6ebdb0",
+      "message_id": "glossary:r_bfb1beb67c9586d5",
+      "refs": [
+        "0x84d590",
+        "0x84d594",
+        "0x84d62c"
+      ]
+    },
+    {
+      "source_va": "0x6ebdc0",
+      "message_id": "glossary:r_4da11ac4124ed581",
+      "refs": [
+        "0x84d598"
+      ]
+    },
+    {
+      "source_va": "0x6ebdd0",
+      "message_id": "glossary:r_81c98f91c094bde2",
+      "refs": [
+        "0x84d59c"
+      ]
+    },
+    {
+      "source_va": "0x6ebde0",
+      "message_id": "glossary:r_3c1554dcd1221526",
+      "refs": [
+        "0x84d5a0"
+      ]
+    },
+    {
+      "source_va": "0x6ebdf0",
+      "message_id": "glossary:r_72e39b7851452ba8",
+      "refs": [
+        "0x84d5a4"
+      ]
+    },
+    {
+      "source_va": "0x6ebe00",
+      "message_id": "glossary:r_1e2ca3ad65f8801b",
+      "refs": [
+        "0x84d5a8",
+        "0x84d5ac",
+        "0x84d5b0",
+        "0x84d630"
+      ]
+    },
+    {
+      "source_va": "0x6ebe10",
+      "message_id": "glossary:r_7986592a80c7b9a3",
+      "refs": [
+        "0x84d5b4"
+      ]
+    },
+    {
+      "source_va": "0x6ebe30",
+      "message_id": "glossary:r_3add69782bb0cfc6",
+      "refs": [
+        "0x84d5b8"
+      ]
+    },
+    {
+      "source_va": "0x6ebe38",
+      "message_id": "glossary:r_9267af85d23d9a13",
+      "refs": [
+        "0x84d5bc"
+      ]
+    },
+    {
+      "source_va": "0x6ebe48",
+      "message_id": "glossary:r_7e89b0eed4a015e7",
+      "refs": [
+        "0x84d5c0"
+      ]
+    },
+    {
+      "source_va": "0x6ebe60",
+      "message_id": "enemy_names:r_7f1a897167a5f9e7",
+      "refs": [
+        "0x84d5c4",
+        "0x84d5c8"
+      ]
+    },
+    {
+      "source_va": "0x6ebe78",
+      "message_id": "enemy_names:r_efe82ff4e704e780",
+      "refs": [
+        "0x84d5cc",
+        "0x84d5d0"
+      ]
+    },
+    {
+      "source_va": "0x6ebe90",
+      "message_id": "enemy_names:r_d811a476360967e3",
+      "refs": [
+        "0x84d5d4",
+        "0x84d5d8",
+        "0x84d5dc"
+      ]
+    },
+    {
+      "source_va": "0x6ebea0",
+      "message_id": "enemy_names:r_33e8d9149cf7aa3a",
+      "refs": [
+        "0x84d5e0",
+        "0x84d5e4",
+        "0x84d5e8",
+        "0x84d5ec",
+        "0x84d634",
+        "0x84d638",
+        "0x84d63c",
+        "0x84d640"
+      ]
+    },
+    {
+      "source_va": "0x6ebeb0",
+      "message_id": "enemy_names:r_009480de9f260a5e",
+      "refs": [
+        "0x84d5f0"
+      ]
+    },
+    {
+      "source_va": "0x6ebec8",
+      "message_id": "enemy_names:r_38d5560376ccfd93",
+      "refs": [
+        "0x84d5f4"
+      ]
+    },
+    {
+      "source_va": "0x6ebee0",
+      "message_id": "enemy_names:r_a25b77867981e81a",
+      "refs": [
+        "0x84d5f8",
+        "0x84d5fc",
+        "0x84d600"
+      ]
+    },
+    {
+      "source_va": "0x6ebef0",
+      "message_id": "enemy_names:r_f84b6adc322e4f3f",
+      "refs": [
+        "0x84d604",
+        "0x84d608",
+        "0x84d60c"
+      ]
+    },
+    {
+      "source_va": "0x6ebef8",
+      "message_id": "enemy_names:r_e2dbb21f0a83311a",
+      "refs": [
+        "0x84d610"
+      ]
+    },
+    {
+      "source_va": "0x6ebf10",
+      "message_id": "glossary:r_59fefe2214ccc196",
+      "refs": [
+        "0x84d65c",
+        "0x84d668"
+      ]
+    },
+    {
+      "source_va": "0x6ebf18",
+      "message_id": "glossary:r_2912af8a2963c729",
+      "refs": [
+        "0x84d660",
+        "0x84d914"
+      ]
+    },
+    {
+      "source_va": "0x6ebf28",
+      "message_id": "glossary:r_96e6074d9081e56b",
+      "refs": [
+        "0x84d664",
+        "0x84d66c"
+      ]
+    },
+    {
+      "source_va": "0x6ebf38",
+      "message_id": "glossary:r_e61be53ab65b5aee",
+      "refs": [
+        "0x84d678",
+        "0x84d6c8"
+      ]
+    },
+    {
+      "source_va": "0x6ebf48",
+      "message_id": "glossary:r_c2b0003048f93378",
+      "refs": [
+        "0x84d67c",
+        "0x84d6cc"
+      ]
+    },
+    {
+      "source_va": "0x6ebf50",
+      "message_id": "glossary:r_a7d7db4de4a34a56",
+      "refs": [
+        "0x84d680",
+        "0x84d6d0"
+      ]
+    },
+    {
+      "source_va": "0x6ebf60",
+      "message_id": "glossary:r_f490b89a04c6b55d",
+      "refs": [
+        "0x84d684",
+        "0x84d6d4"
+      ]
+    },
+    {
+      "source_va": "0x6ebf68",
+      "message_id": "glossary:r_68fd37aa66290b00",
+      "refs": [
+        "0x84d688",
+        "0x84d6d8"
+      ]
+    },
+    {
+      "source_va": "0x6ebf70",
+      "message_id": "glossary:r_b0facd476265a5fd",
+      "refs": [
+        "0x84d68c"
+      ]
+    },
+    {
+      "source_va": "0x6ebf80",
+      "message_id": "glossary:r_5de21d0d8cd0dbc8",
+      "refs": [
+        "0x84d690",
+        "0x84d6f0",
+        "0x84d6f4",
+        "0x84d754"
+      ]
+    },
+    {
+      "source_va": "0x6ebf90",
+      "message_id": "glossary:r_8ec1522b7a1b6878",
+      "refs": [
+        "0x84d694"
+      ]
+    },
+    {
+      "source_va": "0x6ebfa8",
+      "message_id": "glossary:r_bbd46542c501ed26",
+      "refs": [
+        "0x84d69c"
+      ]
+    },
+    {
+      "source_va": "0x6ebfb8",
+      "message_id": "glossary:r_cfea7dd256a4a1d3",
+      "refs": [
+        "0x84d6a0",
+        "0x84d6a4",
+        "0x84d6dc"
+      ]
+    },
+    {
+      "source_va": "0x6ebfc8",
+      "message_id": "glossary:r_e5acfe90c625ee60",
+      "refs": [
+        "0x84d6a8"
+      ]
+    },
+    {
+      "source_va": "0x6ebfd8",
+      "message_id": "enemy_names:r_34dc6d5fcf53fd54",
+      "refs": [
+        "0x84d6ac",
+        "0x84d6b0",
+        "0x84d6b4",
+        "0x84d6b8",
+        "0x84d73c",
+        "0x84d740",
+        "0x84d744",
+        "0x84d748",
+        "0x84d74c",
+        "0x84d750",
+        "0x84d780",
+        "0x84d784",
+        "0x84d788",
+        "0x84da34",
+        "0x84da38",
+        "0x84da3c",
+        "0x84da40",
+        "0x84da44",
+        "0x84da48",
+        "0x84da4c",
+        "0x84da50",
+        "0x84da54",
+        "0x84da58",
+        "0x84da5c"
+      ]
+    },
+    {
+      "source_va": "0x6ebff0",
+      "message_id": "enemy_names:r_e679637319b76d28",
+      "refs": [
+        "0x84d6bc",
+        "0x84d6c0",
+        "0x84d6c4",
+        "0x84d6e0",
+        "0x84d6e4",
+        "0x84d91c",
+        "0x84d968",
+        "0x84da70"
+      ]
+    },
+    {
+      "source_va": "0x6ec000",
+      "message_id": "glossary:r_84d59d0eda010024",
+      "refs": [
+        "0x84d6f8",
+        "0x84d6fc",
+        "0x84d700",
+        "0x84d75c"
+      ]
+    },
+    {
+      "source_va": "0x6ec010",
+      "message_id": "glossary:r_340a97ae3dbd09e9",
+      "refs": [
+        "0x84d704",
+        "0x84d708",
+        "0x84d70c",
+        "0x84d760",
+        "0x84d764",
+        "0x84d768"
+      ]
+    },
+    {
+      "source_va": "0x6ec020",
+      "message_id": "glossary:r_b52afe52c0b1e85c",
+      "refs": [
+        "0x84d710",
+        "0x84d714",
+        "0x84d76c",
+        "0x84d770"
+      ]
+    },
+    {
+      "source_va": "0x6ec030",
+      "message_id": "glossary:r_15c8ecbccae02800",
+      "refs": [
+        "0x84d718",
+        "0x84d774"
+      ]
+    },
+    {
+      "source_va": "0x6ec040",
+      "message_id": "glossary:r_09fbf6b53ec28a0c",
+      "refs": [
+        "0x84d71c"
+      ]
+    },
+    {
+      "source_va": "0x6ec050",
+      "message_id": "glossary:r_41f8fec405ca6837",
+      "refs": [
+        "0x84d720",
+        "0x84d778"
+      ]
+    },
+    {
+      "source_va": "0x6ec060",
+      "message_id": "glossary:r_664a07214b085250",
+      "refs": [
+        "0x84d724",
+        "0x84d758"
+      ]
+    },
+    {
+      "source_va": "0x6ec070",
+      "message_id": "glossary:r_ba8d8232e1c22fe3",
+      "refs": [
+        "0x84d728"
+      ]
+    },
+    {
+      "source_va": "0x6ec088",
+      "message_id": "glossary:r_57f1ba73bc2a45c2",
+      "refs": [
+        "0x84d72c"
+      ]
+    },
+    {
+      "source_va": "0x6ec0a0",
+      "message_id": "glossary:r_e95693a2f8c5341a",
+      "refs": [
+        "0x84d730"
+      ]
+    },
+    {
+      "source_va": "0x6ec0b0",
+      "message_id": "glossary:r_188e4bb6075373e1",
+      "refs": [
+        "0x84d734"
+      ]
+    },
+    {
+      "source_va": "0x6ec0c0",
+      "message_id": "enemy_names:r_a8450742280831fc",
+      "refs": [
+        "0x84d738",
+        "0x84d77c"
+      ]
+    },
+    {
+      "source_va": "0x6ec0e0",
+      "message_id": "glossary:r_6205d1746123d399",
+      "refs": [
+        "0x84d794",
+        "0x84d7fc"
+      ]
+    },
+    {
+      "source_va": "0x6ec0f0",
+      "message_id": "glossary:r_aa358a7b1304b069",
+      "refs": [
+        "0x84d798",
+        "0x84d800"
+      ]
+    },
+    {
+      "source_va": "0x6ec100",
+      "message_id": "glossary:r_860e06f700de7d06",
+      "refs": [
+        "0x84d79c",
+        "0x84d7a0",
+        "0x84d804"
+      ]
+    },
+    {
+      "source_va": "0x6ec110",
+      "message_id": "glossary:r_adb4b537df6468af",
+      "refs": [
+        "0x84d7a4",
+        "0x84d7a8",
+        "0x84d808",
+        "0x84d80c"
+      ]
+    },
+    {
+      "source_va": "0x6ec120",
+      "message_id": "glossary:r_cbfde6829be86994",
+      "refs": [
+        "0x84d7ac",
+        "0x84d7b0",
+        "0x84d7b4",
+        "0x84d810"
+      ]
+    },
+    {
+      "source_va": "0x6ec128",
+      "message_id": "glossary:r_b028f4545552de9c",
+      "refs": [
+        "0x84d7b8",
+        "0x84d814"
+      ]
+    },
+    {
+      "source_va": "0x6ec138",
+      "message_id": "glossary:r_111fa5593840d200",
+      "refs": [
+        "0x84d7bc",
+        "0x84d818"
+      ]
+    },
+    {
+      "source_va": "0x6ec148",
+      "message_id": "glossary:r_9f532e426a80900d",
+      "refs": [
+        "0x84d7c0"
+      ]
+    },
+    {
+      "source_va": "0x6ec158",
+      "message_id": "glossary:r_a8c83479fc2fe534",
+      "refs": [
+        "0x84d7c4"
+      ]
+    },
+    {
+      "source_va": "0x6ec170",
+      "message_id": "glossary:r_8bde02aa66c4097b",
+      "refs": [
+        "0x84d7c8"
+      ]
+    },
+    {
+      "source_va": "0x6ec180",
+      "message_id": "glossary:r_5ba3355eee088ace",
+      "refs": [
+        "0x84d7cc",
+        "0x84de00",
+        "0x84de38"
+      ]
+    },
+    {
+      "source_va": "0x6ec190",
+      "message_id": "glossary:r_989c325febc9e107",
+      "refs": [
+        "0x84d7d0",
+        "0x84d81c"
+      ]
+    },
+    {
+      "source_va": "0x6ec1a0",
+      "message_id": "glossary:r_9a4004b878db9549",
+      "refs": [
+        "0x84d7d4"
+      ]
+    },
+    {
+      "source_va": "0x6ec1b0",
+      "message_id": "glossary:r_e036fb71de01904a",
+      "refs": [
+        "0x84d7d8"
+      ]
+    },
+    {
+      "source_va": "0x6ec1c0",
+      "message_id": "enemy_names:r_9f1a12ec8fddca3b",
+      "refs": [
+        "0x84d7dc",
+        "0x84d7e0",
+        "0x84d7e4",
+        "0x84d7e8"
+      ]
+    },
+    {
+      "source_va": "0x6ec1d8",
+      "message_id": "enemy_names:r_39984eeaac8f5f92",
+      "refs": [
+        "0x84d7ec",
+        "0x84d7f0",
+        "0x84d7f4",
+        "0x84d7f8",
+        "0x84d820",
+        "0x84d824",
+        "0x84d828",
+        "0x84d920",
+        "0x84d924",
+        "0x84d928",
+        "0x84d96c",
+        "0x84d970",
+        "0x84d974",
+        "0x84da68",
+        "0x84da6c"
+      ]
+    },
+    {
+      "source_va": "0x6ec1e8",
+      "message_id": "glossary:r_bd959365bf0b967a",
+      "refs": [
+        "0x84d834",
+        "0x84d838",
+        "0x84d83c",
+        "0x84d840",
+        "0x84d870",
+        "0x84d874"
+      ]
+    },
+    {
+      "source_va": "0x6ec1f0",
+      "message_id": "glossary:r_69fa7ce16daaacbc",
+      "refs": [
+        "0x84d844",
+        "0x84d848",
+        "0x84d878",
+        "0x84d87c"
+      ]
+    },
+    {
+      "source_va": "0x6ec1f8",
+      "message_id": "glossary:r_1ad04c7ebe6e434f",
+      "refs": [
+        "0x84d84c",
+        "0x84d880"
+      ]
+    },
+    {
+      "source_va": "0x6ec208",
+      "message_id": "glossary:r_23d6aa77ff9a8b3d",
+      "refs": [
+        "0x84d850",
+        "0x84d884"
+      ]
+    },
+    {
+      "source_va": "0x6ec218",
+      "message_id": "glossary:r_73e0947df087ae39",
+      "refs": [
+        "0x84d854"
+      ]
+    },
+    {
+      "source_va": "0x6ec228",
+      "message_id": "glossary:r_7a4108bccd2b1c3f",
+      "refs": [
+        "0x84d858"
+      ]
+    },
+    {
+      "source_va": "0x6ec240",
+      "message_id": "glossary:r_6e908e0e56d7e5ec",
+      "refs": [
+        "0x84d85c"
+      ]
+    },
+    {
+      "source_va": "0x6ec250",
+      "message_id": "glossary:r_b8a29cbaa3515458",
+      "refs": [
+        "0x84d860"
+      ]
+    },
+    {
+      "source_va": "0x6ec260",
+      "message_id": "glossary:r_9ffe50084b826004",
+      "refs": [
+        "0x84d864"
+      ]
+    },
+    {
+      "source_va": "0x6ec270",
+      "message_id": "glossary:r_05f127446ae5d965",
+      "refs": [
+        "0x84d868"
+      ]
+    },
+    {
+      "source_va": "0x6ec280",
+      "message_id": "glossary:r_c4a44502e50a2d85",
+      "refs": [
+        "0x84d86c"
+      ]
+    },
+    {
+      "source_va": "0x6ec290",
+      "message_id": "glossary:r_992c1700970404c3",
+      "refs": [
+        "0x84d890",
+        "0x84d92c"
+      ]
+    },
+    {
+      "source_va": "0x6ec298",
+      "message_id": "glossary:r_63f5fa81f8f1bc16",
+      "refs": [
+        "0x84d894",
+        "0x84d930"
+      ]
+    },
+    {
+      "source_va": "0x6ec2a8",
+      "message_id": "glossary:r_c84e96fdb20b0a59",
+      "refs": [
+        "0x84d898",
+        "0x84d934",
+        "0x84da10"
+      ]
+    },
+    {
+      "source_va": "0x6ec2b0",
+      "message_id": "glossary:r_64f1e1290023106c",
+      "refs": [
+        "0x84d89c",
+        "0x84d938"
+      ]
+    },
+    {
+      "source_va": "0x6ec2c0",
+      "message_id": "glossary:r_9bbdb84c5b51de57",
+      "refs": [
+        "0x84d8a0",
+        "0x84d93c"
+      ]
+    },
+    {
+      "source_va": "0x6ec2d0",
+      "message_id": "glossary:r_d328f243257701fc",
+      "refs": [
+        "0x84d8a4",
+        "0x84d940"
+      ]
+    },
+    {
+      "source_va": "0x6ec2e0",
+      "message_id": "glossary:r_048ba872e7e0de9a",
+      "refs": [
+        "0x84d8a8",
+        "0x84d944"
+      ]
+    },
+    {
+      "source_va": "0x6ec2f0",
+      "message_id": "glossary:r_5eabdc71f48e0742",
+      "refs": [
+        "0x84d8ac",
+        "0x84d948"
+      ]
+    },
+    {
+      "source_va": "0x6ec300",
+      "message_id": "glossary:r_da7d6ab1b0a6cc24",
+      "refs": [
+        "0x84d8b0",
+        "0x84d8b4",
+        "0x84d94c"
+      ]
+    },
+    {
+      "source_va": "0x6ec310",
+      "message_id": "glossary:r_c10b10668169ad47",
+      "refs": [
+        "0x84d8b8",
+        "0x84d950"
+      ]
+    },
+    {
+      "source_va": "0x6ec320",
+      "message_id": "glossary:r_b3e3fa31c0163f66",
+      "refs": [
+        "0x84d8bc",
+        "0x84d954"
+      ]
+    },
+    {
+      "source_va": "0x6ec330",
+      "message_id": "glossary:r_e595aae8c5882bb4",
+      "refs": [
+        "0x84d8c0",
+        "0x84d958"
+      ]
+    },
+    {
+      "source_va": "0x6ec340",
+      "message_id": "glossary:r_257c37c0429fa650",
+      "refs": [
+        "0x84d8c4",
+        "0x84d95c"
+      ]
+    },
+    {
+      "source_va": "0x6ec350",
+      "message_id": "glossary:r_a47f1c18f7a1be27",
+      "refs": [
+        "0x84d8c8"
+      ]
+    },
+    {
+      "source_va": "0x6ec360",
+      "message_id": "glossary:r_a4c7619e6818065e",
+      "refs": [
+        "0x84d8d0",
+        "0x84d8d4",
+        "0x84d960"
+      ]
+    },
+    {
+      "source_va": "0x6ec370",
+      "message_id": "glossary:r_d29803de09e29f34",
+      "refs": [
+        "0x84d8d8",
+        "0x84d8dc",
+        "0x84d964"
+      ]
+    },
+    {
+      "source_va": "0x6ec388",
+      "message_id": "glossary:r_62950946ead4a821",
+      "refs": [
+        "0x84d8e0"
+      ]
+    },
+    {
+      "source_va": "0x6ec398",
+      "message_id": "glossary:r_e3452ea38974dd16",
+      "refs": [
+        "0x84d8e4"
+      ]
+    },
+    {
+      "source_va": "0x6ec3a8",
+      "message_id": "glossary:r_c87bda41a0a54586",
+      "refs": [
+        "0x84d8e8"
+      ]
+    },
+    {
+      "source_va": "0x6ec3b8",
+      "message_id": "glossary:r_6e9850c754ce9d7d",
+      "refs": [
+        "0x84d8ec"
+      ]
+    },
+    {
+      "source_va": "0x6ec3c8",
+      "message_id": "glossary:r_c1abe0427f3bfbff",
+      "refs": [
+        "0x84d8f0"
+      ]
+    },
+    {
+      "source_va": "0x6ec3d0",
+      "message_id": "glossary:r_27095a6daeaccda7",
+      "refs": [
+        "0x84d8f4"
+      ]
+    },
+    {
+      "source_va": "0x6ec3e0",
+      "message_id": "glossary:r_3b3d429fec806e6a",
+      "refs": [
+        "0x84d8f8"
+      ]
+    },
+    {
+      "source_va": "0x6ec3f0",
+      "message_id": "glossary:r_7cb90d98501d0fc2",
+      "refs": [
+        "0x84d8fc"
+      ]
+    },
+    {
+      "source_va": "0x6ec400",
+      "message_id": "glossary:r_b6f94fbeb44ba64c",
+      "refs": [
+        "0x84d900"
+      ]
+    },
+    {
+      "source_va": "0x6ec410",
+      "message_id": "glossary:r_fc4af722062d55b0",
+      "refs": [
+        "0x84d904"
+      ]
+    },
+    {
+      "source_va": "0x6ec420",
+      "message_id": "glossary:r_dda40b1996466445",
+      "refs": [
+        "0x84d908"
+      ]
+    },
+    {
+      "source_va": "0x6ec430",
+      "message_id": "glossary:r_4733e4717da7b9a1",
+      "refs": [
+        "0x84d90c"
+      ]
+    },
+    {
+      "source_va": "0x6ec440",
+      "message_id": "glossary:r_66e3b4583ccdf3cd",
+      "refs": [
+        "0x84d910"
+      ]
+    },
+    {
+      "source_va": "0x6ec458",
+      "message_id": "glossary:r_15447e20464af54f",
+      "refs": [
+        "0x84d918"
+      ]
+    },
+    {
+      "source_va": "0x6ec470",
+      "message_id": "glossary:r_f5be24c4c4e28609",
+      "refs": [
+        "0x84d980",
+        "0x84d984",
+        "0x84d988",
+        "0x84d98c",
+        "0x84d990",
+        "0x84d994",
+        "0x84da74",
+        "0x84da78",
+        "0x84da7c"
+      ]
+    },
+    {
+      "source_va": "0x6ec480",
+      "message_id": "glossary:r_06a5266a08cfcdcb",
+      "refs": [
+        "0x84d998",
+        "0x84d99c",
+        "0x84da80",
+        "0x84da84"
+      ]
+    },
+    {
+      "source_va": "0x6ec490",
+      "message_id": "glossary:r_a76da0faca832225",
+      "refs": [
+        "0x84d9a0",
+        "0x84d9a4",
+        "0x84da88"
+      ]
+    },
+    {
+      "source_va": "0x6ec4a0",
+      "message_id": "glossary:r_ec179ceb11ff8da0",
+      "refs": [
+        "0x84d9a8",
+        "0x84da8c"
+      ]
+    },
+    {
+      "source_va": "0x6ec4b0",
+      "message_id": "glossary:r_9601c49f9d668cb0",
+      "refs": [
+        "0x84d9ac",
+        "0x84da90"
+      ]
+    },
+    {
+      "source_va": "0x6ec4c0",
+      "message_id": "glossary:r_fbfb550babc7cf59",
+      "refs": [
+        "0x84d9b0",
+        "0x84da94"
+      ]
+    },
+    {
+      "source_va": "0x6ec4d0",
+      "message_id": "glossary:r_671b694df29fa14b",
+      "refs": [
+        "0x84d9b4"
+      ]
+    },
+    {
+      "source_va": "0x6ec4e0",
+      "message_id": "glossary:r_a2d717d9da03b37f",
+      "refs": [
+        "0x84d9b8",
+        "0x84da98"
+      ]
+    },
+    {
+      "source_va": "0x6ec4f0",
+      "message_id": "glossary:r_2dc5e1b24d3fa4f1",
+      "refs": [
+        "0x84d9bc",
+        "0x84da9c"
+      ]
+    },
+    {
+      "source_va": "0x6ec500",
+      "message_id": "glossary:r_5df6601feedeb955",
+      "refs": [
+        "0x84d9c0"
+      ]
+    },
+    {
+      "source_va": "0x6ec510",
+      "message_id": "glossary:r_62fed54071db5128",
+      "refs": [
+        "0x84d9c4",
+        "0x84d9c8",
+        "0x84d9cc",
+        "0x84daa0"
+      ]
+    },
+    {
+      "source_va": "0x6ec520",
+      "message_id": "glossary:r_d22dbf5f2bf8566c",
+      "refs": [
+        "0x84d9d4",
+        "0x84daa4"
+      ]
+    },
+    {
+      "source_va": "0x6ec530",
+      "message_id": "glossary:r_e0cc0d6b21fd2d55",
+      "refs": [
+        "0x84d9d8",
+        "0x84d9dc",
+        "0x84daa8",
+        "0x84daac"
+      ]
+    },
+    {
+      "source_va": "0x6ec540",
+      "message_id": "glossary:r_4b1694dda9bd0c57",
+      "refs": [
+        "0x84d9e0"
+      ]
+    },
+    {
+      "source_va": "0x6ec550",
+      "message_id": "glossary:r_df8da162846b55e7",
+      "refs": [
+        "0x84d9e4"
+      ]
+    },
+    {
+      "source_va": "0x6ec560",
+      "message_id": "glossary:r_113fca40dfa39c57",
+      "refs": [
+        "0x84d9e8"
+      ]
+    },
+    {
+      "source_va": "0x6ec570",
+      "message_id": "glossary:r_febd518fa06d7318",
+      "refs": [
+        "0x84d9ec"
+      ]
+    },
+    {
+      "source_va": "0x6ec580",
+      "message_id": "glossary:r_876ee7d06a29d816",
+      "refs": [
+        "0x84d9f0"
+      ]
+    },
+    {
+      "source_va": "0x6ec590",
+      "message_id": "glossary:r_1ac252b4672f0023",
+      "refs": [
+        "0x84d9f4"
+      ]
+    },
+    {
+      "source_va": "0x6ec5a0",
+      "message_id": "glossary:r_5c19fdcf9ca0cdeb",
+      "refs": [
+        "0x84d9f8",
+        "0x84d9fc"
+      ]
+    },
+    {
+      "source_va": "0x6ec5a8",
+      "message_id": "glossary:r_7c4ac0be88d741b7",
+      "refs": [
+        "0x84da00"
+      ]
+    },
+    {
+      "source_va": "0x6ec5b8",
+      "message_id": "glossary:r_ef9b37024b502a25",
+      "refs": [
+        "0x84da04"
+      ]
+    },
+    {
+      "source_va": "0x6ec5c0",
+      "message_id": "glossary:r_674c4dbd233730a6",
+      "refs": [
+        "0x84da08"
+      ]
+    },
+    {
+      "source_va": "0x6ec5d0",
+      "message_id": "glossary:r_db4c5c5784f3c1f2",
+      "refs": [
+        "0x84da0c",
+        "0x84dab0"
+      ]
+    },
+    {
+      "source_va": "0x6ec5e0",
+      "message_id": "glossary:r_f29ae2eb4f6fce4a",
+      "refs": [
+        "0x84da14"
+      ]
+    },
+    {
+      "source_va": "0x6ec5f0",
+      "message_id": "glossary:r_f2724c71af3b6eb1",
+      "refs": [
+        "0x84da18"
+      ]
+    },
+    {
+      "source_va": "0x6ec600",
+      "message_id": "glossary:r_094ff384a0e0dec2",
+      "refs": [
+        "0x84da1c"
+      ]
+    },
+    {
+      "source_va": "0x6ec618",
+      "message_id": "glossary:r_6273f809f48745b1",
+      "refs": [
+        "0x84da20"
+      ]
+    },
+    {
+      "source_va": "0x6ec628",
+      "message_id": "glossary:r_80e7801604d75012",
+      "refs": [
+        "0x84da24"
+      ]
+    },
+    {
+      "source_va": "0x6ec638",
+      "message_id": "glossary:r_633cc3bb5f5dc4cb",
+      "refs": [
+        "0x84da28"
+      ]
+    },
+    {
+      "source_va": "0x6ec648",
+      "message_id": "glossary:r_f709f7e014d90ff6",
+      "refs": [
+        "0x84da2c"
+      ]
+    },
+    {
+      "source_va": "0x6ec658",
+      "message_id": "enemy_names:r_95bc3bd940f68c4b",
+      "refs": [
+        "0x84da30"
+      ]
+    },
+    {
+      "source_va": "0x6ec668",
+      "message_id": "enemy_names:r_a7c14315947afa54",
+      "refs": [
+        "0x84da60",
+        "0x84da64",
+        "0x84dab4",
+        "0x84dab8"
+      ]
+    },
+    {
+      "source_va": "0x6ec678",
+      "message_id": "glossary:r_401d94ebe0603676",
+      "refs": [
+        "0x84dac4",
+        "0x84dac8",
+        "0x84dae0",
+        "0x84dae4",
+        "0x84dae8"
+      ]
+    },
+    {
+      "source_va": "0x6ec688",
+      "message_id": "glossary:r_cdae4f4103ca90c8",
+      "refs": [
+        "0x84dacc"
+      ]
+    },
+    {
+      "source_va": "0x6ec698",
+      "message_id": "enemy_names:r_8a21b660c12609ad",
+      "refs": [
+        "0x84dad0",
+        "0x84dad4",
+        "0x84dad8",
+        "0x84dadc",
+        "0x84daec",
+        "0x84daf0"
+      ]
+    },
+    {
+      "source_va": "0x6ec6a8",
+      "message_id": "glossary:r_823806f41a7bf51f",
+      "refs": [
+        "0x84dafc",
+        "0x84db10"
+      ]
+    },
+    {
+      "source_va": "0x6ec6b8",
+      "message_id": "glossary:r_57cc7760c48aed47",
+      "refs": [
+        "0x84db00",
+        "0x84db14"
+      ]
+    },
+    {
+      "source_va": "0x6ec6c8",
+      "message_id": "glossary:r_d94e5f8d44b10c8a",
+      "refs": [
+        "0x84db04",
+        "0x84db18"
+      ]
+    },
+    {
+      "source_va": "0x6ec6d0",
+      "message_id": "glossary:r_266558c8c80582a1",
+      "refs": [
+        "0x84db08",
+        "0x84db1c"
+      ]
+    },
+    {
+      "source_va": "0x6ec6e0",
+      "message_id": "glossary:r_e6d21dd1f11cc553",
+      "refs": [
+        "0x84db0c",
+        "0x84db20"
+      ]
+    },
+    {
+      "source_va": "0x6ec6f0",
+      "message_id": "glossary:r_ed0dd0fe3dee5d0c",
+      "refs": [
+        "0x84db3c",
+        "0x84dbac"
+      ]
+    },
+    {
+      "source_va": "0x6ec700",
+      "message_id": "glossary:r_f2aad22e60ce5e1b",
+      "refs": [
+        "0x84db40",
+        "0x84db44",
+        "0x84db48",
+        "0x84dbb0",
+        "0x84dbb4"
+      ]
+    },
+    {
+      "source_va": "0x6ec710",
+      "message_id": "glossary:r_714ed1f583437e94",
+      "refs": [
+        "0x84db4c",
+        "0x84dbb8"
+      ]
+    },
+    {
+      "source_va": "0x6ec718",
+      "message_id": "glossary:r_8c6131656197104d",
+      "refs": [
+        "0x84db50",
+        "0x84dbbc"
+      ]
+    },
+    {
+      "source_va": "0x6ec728",
+      "message_id": "glossary:r_46275ecbd39c9833",
+      "refs": [
+        "0x84db54",
+        "0x84db58",
+        "0x84dbc0",
+        "0x84dbc4"
+      ]
+    },
+    {
+      "source_va": "0x6ec738",
+      "message_id": "glossary:r_6d95451a8d0fd9e9",
+      "refs": [
+        "0x84db5c",
+        "0x84dbc8"
+      ]
+    },
+    {
+      "source_va": "0x6ec748",
+      "message_id": "glossary:r_c947f9677206c70f",
+      "refs": [
+        "0x84db60",
+        "0x84dbcc"
+      ]
+    },
+    {
+      "source_va": "0x6ec758",
+      "message_id": "glossary:r_d02d730e44473525",
+      "refs": [
+        "0x84db64",
+        "0x84dbd0"
+      ]
+    },
+    {
+      "source_va": "0x6ec768",
+      "message_id": "glossary:r_4aefb4dcfed1a212",
+      "refs": [
+        "0x84db68",
+        "0x84dbd4"
+      ]
+    },
+    {
+      "source_va": "0x6ec778",
+      "message_id": "glossary:r_9f5a5b365fa659d4",
+      "refs": [
+        "0x84db6c",
+        "0x84dbd8"
+      ]
+    },
+    {
+      "source_va": "0x6ec3b8",
+      "message_id": "glossary:r_3674465fc9f687ed",
+      "refs": [
+        "0x84db70"
+      ]
+    },
+    {
+      "source_va": "0x6ec788",
+      "message_id": "glossary:r_7c77cf4b45bbeeb8",
+      "refs": [
+        "0x84db74"
+      ]
+    },
+    {
+      "source_va": "0x6ec790",
+      "message_id": "enemy_names:r_58fdd750786317a2",
+      "refs": [
+        "0x84db78",
+        "0x84e4d0",
+        "0x84e4d4",
+        "0x84e4d8",
+        "0x84e4dc",
+        "0x84e4e0",
+        "0x84e4e4",
+        "0x84e5f4",
+        "0x84e5f8"
+      ]
+    },
+    {
+      "source_va": "0x6ec7a0",
+      "message_id": "glossary:mission_term_4",
+      "refs": [
+        "0x84db7c",
+        "0x84db80",
+        "0x84db84",
+        "0x84db88",
+        "0x84db8c",
+        "0x84dbdc",
+        "0x84dbe0",
+        "0x84dbe4",
+        "0x84dbe8"
+      ]
+    },
+    {
+      "source_va": "0x6ec7b0",
+      "message_id": "glossary:r_dc48afbba4dfdf98",
+      "refs": [
+        "0x84db90"
+      ]
+    },
+    {
+      "source_va": "0x6ec7c0",
+      "message_id": "glossary:r_e652bb94052dca92",
+      "refs": [
+        "0x84db94"
+      ]
+    },
+    {
+      "source_va": "0x6ec7d0",
+      "message_id": "glossary:r_ba665cae80b5fbf8",
+      "refs": [
+        "0x84db98"
+      ]
+    },
+    {
+      "source_va": "0x6ec7d8",
+      "message_id": "glossary:r_45cb9c25f5f59ebe",
+      "refs": [
+        "0x84db9c"
+      ]
+    },
+    {
+      "source_va": "0x6ec7e8",
+      "message_id": "glossary:r_ea90f4fe3cfd5101",
+      "refs": [
+        "0x84dba0"
+      ]
+    },
+    {
+      "source_va": "0x6ec7f8",
+      "message_id": "enemy_names:r_3e22edb5ee1d50f2",
+      "refs": [
+        "0x84dba4",
+        "0x84dba8"
+      ]
+    },
+    {
+      "source_va": "0x6ec808",
+      "message_id": "glossary:r_70e60a8b3a1229b2",
+      "refs": [
+        "0x84dbf4",
+        "0x84dbf8",
+        "0x84dc18",
+        "0x84dc1c",
+        "0x84dc20"
+      ]
+    },
+    {
+      "source_va": "0x6ec810",
+      "message_id": "glossary:r_c8e91ebd6cffdc17",
+      "refs": [
+        "0x84dbfc",
+        "0x84dc24"
+      ]
+    },
+    {
+      "source_va": "0x6ec818",
+      "message_id": "glossary:r_5f01c8f6fda5293c",
+      "refs": [
+        "0x84dc00",
+        "0x84dc28"
+      ]
+    },
+    {
+      "source_va": "0x6ec820",
+      "message_id": "glossary:r_c80e9c2d2b34271f",
+      "refs": [
+        "0x84dc04",
+        "0x84dc2c"
+      ]
+    },
+    {
+      "source_va": "0x6ec828",
+      "message_id": "glossary:r_fb94b9b9ff26b915",
+      "refs": [
+        "0x84dc08",
+        "0x84dc30"
+      ]
+    },
+    {
+      "source_va": "0x6ec830",
+      "message_id": "glossary:r_e9ab4efe50d1f8fc",
+      "refs": [
+        "0x84dc0c",
+        "0x84dc34"
+      ]
+    },
+    {
+      "source_va": "0x6ec838",
+      "message_id": "glossary:r_afca96bfc6ba8802",
+      "refs": [
+        "0x84dc10",
+        "0x84dc14"
+      ]
+    },
+    {
+      "source_va": "0x6ec850",
+      "message_id": "glossary:r_5346bcb12a363c55",
+      "refs": [
+        "0x84dc40",
+        "0x84dd00"
+      ]
+    },
+    {
+      "source_va": "0x6ec858",
+      "message_id": "glossary:r_612bca13d04bcc1e",
+      "refs": [
+        "0x84dc44",
+        "0x84dd04"
+      ]
+    },
+    {
+      "source_va": "0x6ec868",
+      "message_id": "glossary:r_a8d6e283051862ab",
+      "refs": [
+        "0x84dc48",
+        "0x84dc54",
+        "0x84dd08"
+      ]
+    },
+    {
+      "source_va": "0x6ec870",
+      "message_id": "glossary:r_eb9bdbbd2be71e98",
+      "refs": [
+        "0x84dc4c",
+        "0x84dc58",
+        "0x84dd0c"
+      ]
+    },
+    {
+      "source_va": "0x6ec878",
+      "message_id": "glossary:r_e57431476f7306e8",
+      "refs": [
+        "0x84dc50",
+        "0x84dc5c",
+        "0x84dd10"
+      ]
+    },
+    {
+      "source_va": "0x6ec888",
+      "message_id": "glossary:r_4df1f99ebb4ee1d4",
+      "refs": [
+        "0x84dc70"
+      ]
+    },
+    {
+      "source_va": "0x6ec898",
+      "message_id": "glossary:r_043f2a705c7d72f3",
+      "refs": [
+        "0x84dc74"
+      ]
+    },
+    {
+      "source_va": "0x6ec8a0",
+      "message_id": "glossary:r_7b22587f8c2fa404",
+      "refs": [
+        "0x84dc78"
+      ]
+    },
+    {
+      "source_va": "0x6ec8b0",
+      "message_id": "glossary:r_2f4de4c91e757fee",
+      "refs": [
+        "0x84dc7c"
+      ]
+    },
+    {
+      "source_va": "0x6ec8c0",
+      "message_id": "glossary:r_b6c79a68d0e496e0",
+      "refs": [
+        "0x84dc80"
+      ]
+    },
+    {
+      "source_va": "0x6ec8d0",
+      "message_id": "glossary:r_dd0247b38d99c21f",
+      "refs": [
+        "0x84dc84"
+      ]
+    },
+    {
+      "source_va": "0x6ec8e0",
+      "message_id": "glossary:r_f96ce7d76eba73a7",
+      "refs": [
+        "0x84dc88",
+        "0x84dd14"
+      ]
+    },
+    {
+      "source_va": "0x6ec8e8",
+      "message_id": "glossary:r_c718de1960bc0266",
+      "refs": [
+        "0x84dc8c",
+        "0x84dd18"
+      ]
+    },
+    {
+      "source_va": "0x6ec8f8",
+      "message_id": "glossary:r_f46179ece2b0c099",
+      "refs": [
+        "0x84dc90",
+        "0x84dd1c"
+      ]
+    },
+    {
+      "source_va": "0x6ec900",
+      "message_id": "glossary:r_f9bc90d24fa59a4d",
+      "refs": [
+        "0x84dc94",
+        "0x84dd20"
+      ]
+    },
+    {
+      "source_va": "0x6ec910",
+      "message_id": "glossary:r_ef489028421bfa6b",
+      "refs": [
+        "0x84dc98",
+        "0x84dd24"
+      ]
+    },
+    {
+      "source_va": "0x6ec918",
+      "message_id": "glossary:r_a066ae2d8cad2d89",
+      "refs": [
+        "0x84dc9c"
+      ]
+    },
+    {
+      "source_va": "0x6ec928",
+      "message_id": "enemy_names:r_490050322be52a53",
+      "refs": [
+        "0x84dca0"
+      ]
+    },
+    {
+      "source_va": "0x6ec930",
+      "message_id": "glossary:r_b34aa0fcf32ba658",
+      "refs": [
+        "0x84dca4"
+      ]
+    },
+    {
+      "source_va": "0x6ec940",
+      "message_id": "glossary:r_7ab03103c3a84485",
+      "refs": [
+        "0x84dca8"
+      ]
+    },
+    {
+      "source_va": "0x6ec950",
+      "message_id": "glossary:r_4090600b94b89657",
+      "refs": [
+        "0x84dcac"
+      ]
+    },
+    {
+      "source_va": "0x6ec960",
+      "message_id": "glossary:r_3948d1c9eae608da",
+      "refs": [
+        "0x84dcb0"
+      ]
+    },
+    {
+      "source_va": "0x6ec970",
+      "message_id": "enemy_names:r_636b23d8d204acd7",
+      "refs": [
+        "0x84dcb4"
+      ]
+    },
+    {
+      "source_va": "0x6ec980",
+      "message_id": "glossary:r_76dcfd3b0187bbb3",
+      "refs": [
+        "0x84dcb8",
+        "0x84dcbc",
+        "0x84dd28"
+      ]
+    },
+    {
+      "source_va": "0x6ec990",
+      "message_id": "glossary:r_84b1088c8cb21d5e",
+      "refs": [
+        "0x84dcc0",
+        "0x84dd2c"
+      ]
+    },
+    {
+      "source_va": "0x6ec9a0",
+      "message_id": "glossary:r_34c8e57a6ae89351",
+      "refs": [
+        "0x84dcc4",
+        "0x84dd30"
+      ]
+    },
+    {
+      "source_va": "0x6ec9b0",
+      "message_id": "glossary:mission_term_10",
+      "refs": [
+        "0x84dccc",
+        "0x84dcd0"
+      ]
+    },
+    {
+      "source_va": "0x6ec9c0",
+      "message_id": "glossary:r_f75c2fc4caa83040",
+      "refs": [
+        "0x84dcd4",
+        "0x84dcd8",
+        "0x84dcdc",
+        "0x84dce0",
+        "0x84dce4",
+        "0x84dce8"
+      ]
+    },
+    {
+      "source_va": "0x6ec9d0",
+      "message_id": "enemy_names:r_51f94720bca4ee27",
+      "refs": [
+        "0x84dcec",
+        "0x84dcf0",
+        "0x84dd34",
+        "0x84dd38"
+      ]
+    },
+    {
+      "source_va": "0x6ec9e0",
+      "message_id": "enemy_names:r_748b65b79a45a9ea",
+      "refs": [
+        "0x84dcf4",
+        "0x84dcf8",
+        "0x84dcfc",
+        "0x84e550",
+        "0x84e554",
+        "0x84e558",
+        "0x84e55c",
+        "0x84e560",
+        "0x84e564"
+      ]
+    },
+    {
+      "source_va": "0x6ec9e8",
+      "message_id": "glossary:r_fd17803e9f24e346",
+      "refs": [
+        "0x84dd48",
+        "0x84dda4"
+      ]
+    },
+    {
+      "source_va": "0x6ec9f0",
+      "message_id": "glossary:r_61578b5675e05c30",
+      "refs": [
+        "0x84dd4c",
+        "0x84dda8"
+      ]
+    },
+    {
+      "source_va": "0x6eca00",
+      "message_id": "glossary:r_65e7d271c3124c93",
+      "refs": [
+        "0x84dd50",
+        "0x84ddac"
+      ]
+    },
+    {
+      "source_va": "0x6eca08",
+      "message_id": "glossary:r_3e27915d37d3311c",
+      "refs": [
+        "0x84dd54",
+        "0x84ddb0"
+      ]
+    },
+    {
+      "source_va": "0x6eca10",
+      "message_id": "glossary:r_e28845b4637afdae",
+      "refs": [
+        "0x84dd58",
+        "0x84ddb4"
+      ]
+    },
+    {
+      "source_va": "0x6eca18",
+      "message_id": "glossary:r_58643ba5c1595a6d",
+      "refs": [
+        "0x84dd5c",
+        "0x84ddb8"
+      ]
+    },
+    {
+      "source_va": "0x6eca20",
+      "message_id": "glossary:r_5e77c15f8f6808d2",
+      "refs": [
+        "0x84dd60",
+        "0x84ddbc"
+      ]
+    },
+    {
+      "source_va": "0x6eca28",
+      "message_id": "glossary:r_35af7e7fe39d2f56",
+      "refs": [
+        "0x84dd64",
+        "0x84ddc0"
+      ]
+    },
+    {
+      "source_va": "0x6eca30",
+      "message_id": "glossary:r_db6efc9aa771a67a",
+      "refs": [
+        "0x84dd68",
+        "0x84ddc4"
+      ]
+    },
+    {
+      "source_va": "0x6eca38",
+      "message_id": "glossary:r_4028c575d08782fe",
+      "refs": [
+        "0x84dd6c",
+        "0x84ddc8"
+      ]
+    },
+    {
+      "source_va": "0x6eca40",
+      "message_id": "glossary:r_10096c518ccb0d8f",
+      "refs": [
+        "0x84dd70",
+        "0x84ddcc"
+      ]
+    },
+    {
+      "source_va": "0x6eca48",
+      "message_id": "glossary:r_341730c955fb8ed4",
+      "refs": [
+        "0x84dd74",
+        "0x84ddd0"
+      ]
+    },
+    {
+      "source_va": "0x6eca50",
+      "message_id": "glossary:r_f5b66e33d58cab37",
+      "refs": [
+        "0x84dd78",
+        "0x84ddd4"
+      ]
+    },
+    {
+      "source_va": "0x6eca60",
+      "message_id": "glossary:r_78f3c8de701b64cb",
+      "refs": [
+        "0x84dd7c",
+        "0x84ddd8"
+      ]
+    },
+    {
+      "source_va": "0x6eca70",
+      "message_id": "glossary:r_402ce608e4dfa4f1",
+      "refs": [
+        "0x84dd80",
+        "0x84dddc"
+      ]
+    },
+    {
+      "source_va": "0x6eca78",
+      "message_id": "glossary:r_1c7b5a04696493d4",
+      "refs": [
+        "0x84dd84"
+      ]
+    },
+    {
+      "source_va": "0x6eca88",
+      "message_id": "glossary:r_e14e15096abe3848",
+      "refs": [
+        "0x84dd88"
+      ]
+    },
+    {
+      "source_va": "0x6eca90",
+      "message_id": "glossary:r_1a1bacc05b2adf51",
+      "refs": [
+        "0x84dd8c",
+        "0x84dde0"
+      ]
+    },
+    {
+      "source_va": "0x6eca98",
+      "message_id": "glossary:r_2ea38223c8079cb9",
+      "refs": [
+        "0x84dd90",
+        "0x84dde4"
+      ]
+    },
+    {
+      "source_va": "0x6ecaa0",
+      "message_id": "glossary:r_d771982521b3c45a",
+      "refs": [
+        "0x84dd98"
+      ]
+    },
+    {
+      "source_va": "0x6ecaa8",
+      "message_id": "glossary:r_1b9cd858cdf5b712",
+      "refs": [
+        "0x84dd9c",
+        "0x84dda0",
+        "0x84dde8"
+      ]
+    },
+    {
+      "source_va": "0x6ecac0",
+      "message_id": "glossary:r_8e9cb303de9fe073",
+      "refs": [
+        "0x84ddf4",
+        "0x84ddf8",
+        "0x84ddfc",
+        "0x84de34"
+      ]
+    },
+    {
+      "source_va": "0x6ecad0",
+      "message_id": "glossary:r_2fa502f0be9d6893",
+      "refs": [
+        "0x84de04"
+      ]
+    },
+    {
+      "source_va": "0x6ecae0",
+      "message_id": "glossary:r_e9b1c721af98123f",
+      "refs": [
+        "0x84de08"
+      ]
+    },
+    {
+      "source_va": "0x6ecaf0",
+      "message_id": "glossary:r_9ed66d4367e80e03",
+      "refs": [
+        "0x84de0c",
+        "0x84de10"
+      ]
+    },
+    {
+      "source_va": "0x6ecb00",
+      "message_id": "glossary:r_18f80cec6ca46a35",
+      "refs": [
+        "0x84de14"
+      ]
+    },
+    {
+      "source_va": "0x6ecb10",
+      "message_id": "glossary:r_a90afbe161a40812",
+      "refs": [
+        "0x84de1c",
+        "0x84de3c"
+      ]
+    },
+    {
+      "source_va": "0x6ecb20",
+      "message_id": "glossary:r_bc889d11c4455199",
+      "refs": [
+        "0x84de20",
+        "0x84de40"
+      ]
+    },
+    {
+      "source_va": "0x6ecb30",
+      "message_id": "glossary:r_54292366b7c9dd79",
+      "refs": [
+        "0x84de24"
+      ]
+    },
+    {
+      "source_va": "0x6ecb38",
+      "message_id": "glossary:r_f8dabcc67e1b4cc7",
+      "refs": [
+        "0x84de28"
+      ]
+    },
+    {
+      "source_va": "0x6ecb48",
+      "message_id": "enemy_names:r_a525390ad3259ed7",
+      "refs": [
+        "0x84de2c"
+      ]
+    },
+    {
+      "source_va": "0x6ecb58",
+      "message_id": "enemy_names:r_6ccee0acff8a8ba7",
+      "refs": [
+        "0x84de30",
+        "0x84de44",
+        "0x84de48"
+      ]
+    },
+    {
+      "source_va": "0x6ecb68",
+      "message_id": "glossary:r_f55c895b6406f05c",
+      "refs": [
+        "0x84de54",
+        "0x84de58",
+        "0x84de5c",
+        "0x84de60",
+        "0x84de64",
+        "0x84df98",
+        "0x84df9c"
+      ]
+    },
+    {
+      "source_va": "0x6ecb70",
+      "message_id": "glossary:r_12237f37f9611c99",
+      "refs": [
+        "0x84de68",
+        "0x84deec",
+        "0x84def0",
+        "0x84dfa0"
+      ]
+    },
+    {
+      "source_va": "0x6ecb80",
+      "message_id": "glossary:r_a449b574b40c69ce",
+      "refs": [
+        "0x84de6c",
+        "0x84dfa4"
+      ]
+    },
+    {
+      "source_va": "0x6ecb88",
+      "message_id": "glossary:r_c3a694708e8d1708",
+      "refs": [
+        "0x84de70",
+        "0x84dfa8",
+        "0x84dfac"
+      ]
+    },
+    {
+      "source_va": "0x6ecb90",
+      "message_id": "glossary:r_ee1caf541344c4a3",
+      "refs": [
+        "0x84de74",
+        "0x84de78",
+        "0x84dfb0",
+        "0x84dfb4"
+      ]
+    },
+    {
+      "source_va": "0x6ecba0",
+      "message_id": "glossary:r_1f7890501c337510",
+      "refs": [
+        "0x84de7c",
+        "0x84de80",
+        "0x84de84",
+        "0x84dfb8"
+      ]
+    },
+    {
+      "source_va": "0x6ecbb0",
+      "message_id": "glossary:r_8e72356475dc7e38",
+      "refs": [
+        "0x84de88",
+        "0x84de8c",
+        "0x84dfbc",
+        "0x84dfc0"
+      ]
+    },
+    {
+      "source_va": "0x6ecbc0",
+      "message_id": "glossary:r_9e14b4fa0d125ed4",
+      "refs": [
+        "0x84de90",
+        "0x84dfc4"
+      ]
+    },
+    {
+      "source_va": "0x6ecbd8",
+      "message_id": "glossary:r_43d7362171753ecf",
+      "refs": [
+        "0x84de94"
+      ]
+    },
+    {
+      "source_va": "0x6ecbe8",
+      "message_id": "glossary:r_32465dc2024bb3ed",
+      "refs": [
+        "0x84de98",
+        "0x84dfc8"
+      ]
+    },
+    {
+      "source_va": "0x6ecbf8",
+      "message_id": "glossary:r_8bc203a0ee3d6f5d",
+      "refs": [
+        "0x84de9c"
+      ]
+    },
+    {
+      "source_va": "0x6ecc08",
+      "message_id": "enemy_names:r_3556a07e9185f541",
+      "refs": [
+        "0x84dea0",
+        "0x84e504",
+        "0x84e508",
+        "0x84e50c"
+      ]
+    },
+    {
+      "source_va": "0x6ecc10",
+      "message_id": "glossary:r_8335afa0edff50a8",
+      "refs": [
+        "0x84dea4"
+      ]
+    },
+    {
+      "source_va": "0x6ecc20",
+      "message_id": "glossary:r_879673305c190735",
+      "refs": [
+        "0x84dea8"
+      ]
+    },
+    {
+      "source_va": "0x6ecc30",
+      "message_id": "glossary:r_21d8ccde415e2c10",
+      "refs": [
+        "0x84deac"
+      ]
+    },
+    {
+      "source_va": "0x6ecc40",
+      "message_id": "glossary:r_06e2181502d6bec0",
+      "refs": [
+        "0x84deb4"
+      ]
+    },
+    {
+      "source_va": "0x6ecc50",
+      "message_id": "glossary:r_9c60747a702be364",
+      "refs": [
+        "0x84deb8",
+        "0x84debc",
+        "0x84dfcc"
+      ]
+    },
+    {
+      "source_va": "0x6ecc60",
+      "message_id": "glossary:r_eb82e5a3dc22cd88",
+      "refs": [
+        "0x84dec0",
+        "0x84dec4",
+        "0x84dfd0"
+      ]
+    },
+    {
+      "source_va": "0x6ecc70",
+      "message_id": "glossary:r_2c3845c70996f834",
+      "refs": [
+        "0x84dec8"
+      ]
+    },
+    {
+      "source_va": "0x6ecc80",
+      "message_id": "glossary:r_e3f9c18f6874ab91",
+      "refs": [
+        "0x84decc"
+      ]
+    },
+    {
+      "source_va": "0x6ecc90",
+      "message_id": "glossary:r_880a22e7472dd7b4",
+      "refs": [
+        "0x84ded0"
+      ]
+    },
+    {
+      "source_va": "0x6ecc98",
+      "message_id": "glossary:r_c920f2ec2c95a842",
+      "refs": [
+        "0x84ded4"
+      ]
+    },
+    {
+      "source_va": "0x6ecca0",
+      "message_id": "glossary:r_334c42a3d73e4d1d",
+      "refs": [
+        "0x84ded8",
+        "0x84dfd4"
+      ]
+    },
+    {
+      "source_va": "0x6eccb0",
+      "message_id": "glossary:r_d2a6b5cfa56056da",
+      "refs": [
+        "0x84dedc",
+        "0x84dee0"
+      ]
+    },
+    {
+      "source_va": "0x6eccc0",
+      "message_id": "glossary:r_26d824ebe19d50a2",
+      "refs": [
+        "0x84dee4",
+        "0x84dee8"
+      ]
+    },
+    {
+      "source_va": "0x6eccd0",
+      "message_id": "glossary:r_989580ee4b9a347c",
+      "refs": [
+        "0x84def4",
+        "0x84def8",
+        "0x84dfd8",
+        "0x84dfdc"
+      ]
+    },
+    {
+      "source_va": "0x6ecce0",
+      "message_id": "glossary:r_80e9b4392d58e22a",
+      "refs": [
+        "0x84defc"
+      ]
+    },
+    {
+      "source_va": "0x6eccf0",
+      "message_id": "glossary:r_60ab24f156cf05d0",
+      "refs": [
+        "0x84df00"
+      ]
+    },
+    {
+      "source_va": "0x6eccf8",
+      "message_id": "glossary:r_e417126d5875f985",
+      "refs": [
+        "0x84df04"
+      ]
+    },
+    {
+      "source_va": "0x6ecd00",
+      "message_id": "glossary:r_97aff62415fdf594",
+      "refs": [
+        "0x84df08"
+      ]
+    },
+    {
+      "source_va": "0x6ecd08",
+      "message_id": "glossary:r_a8284328b39ce37b",
+      "refs": [
+        "0x84df0c"
+      ]
+    },
+    {
+      "source_va": "0x6ecd10",
+      "message_id": "glossary:r_6147f65137368831",
+      "refs": [
+        "0x84df10"
+      ]
+    },
+    {
+      "source_va": "0x6ecd18",
+      "message_id": "glossary:r_684626dc4e57bc06",
+      "refs": [
+        "0x84df14"
+      ]
+    },
+    {
+      "source_va": "0x6ecd20",
+      "message_id": "glossary:r_4dd69dd6592b8982",
+      "refs": [
+        "0x84df18"
+      ]
+    },
+    {
+      "source_va": "0x6ecd28",
+      "message_id": "glossary:r_d3ce9f852a414d48",
+      "refs": [
+        "0x84df1c"
+      ]
+    },
+    {
+      "source_va": "0x6ecd30",
+      "message_id": "glossary:r_68c7c92c670ed330",
+      "refs": [
+        "0x84df20"
+      ]
+    },
+    {
+      "source_va": "0x6ecd40",
+      "message_id": "glossary:r_9fe22fd1e575873e",
+      "refs": [
+        "0x84df24"
+      ]
+    },
+    {
+      "source_va": "0x6ecd50",
+      "message_id": "glossary:r_ec25fbc4d7db976a",
+      "refs": [
+        "0x84df28"
+      ]
+    },
+    {
+      "source_va": "0x6ecd60",
+      "message_id": "glossary:r_4fe3628125984b13",
+      "refs": [
+        "0x84df2c"
+      ]
+    },
+    {
+      "source_va": "0x6ecd68",
+      "message_id": "glossary:r_d2f17cf031cee3b7",
+      "refs": [
+        "0x84df30"
+      ]
+    },
+    {
+      "source_va": "0x6ecd70",
+      "message_id": "glossary:r_90cd04f8c1ded62b",
+      "refs": [
+        "0x84df34"
+      ]
+    },
+    {
+      "source_va": "0x6ecd78",
+      "message_id": "glossary:r_05651cea0a708dbe",
+      "refs": [
+        "0x84df38"
+      ]
+    },
+    {
+      "source_va": "0x6ecd88",
+      "message_id": "glossary:r_0c434e4be7ab0c82",
+      "refs": [
+        "0x84df3c"
+      ]
+    },
+    {
+      "source_va": "0x6ecd90",
+      "message_id": "command_swap_labels:a21",
+      "refs": [
+        "0x84df40",
+        "0x84df44",
+        "0x84df48",
+        "0x84df4c",
+        "0x84df50"
+      ]
+    },
+    {
+      "source_va": "0x6ecda0",
+      "message_id": "enemy_names:r_2bb07736dab2bb46",
+      "refs": [
+        "0x84df54",
+        "0x84df58",
+        "0x84df5c",
+        "0x84df60",
+        "0x84dfe0",
+        "0x84dfe4",
+        "0x84dfe8"
+      ]
+    },
+    {
+      "source_va": "0x6ecda8",
+      "message_id": "enemy_names:r_f30b4fc7c781d242",
+      "refs": [
+        "0x84df64",
+        "0x84df68",
+        "0x84df6c",
+        "0x84df70",
+        "0x84dfec",
+        "0x84dff0",
+        "0x84dff4",
+        "0x84dff8"
+      ]
+    },
+    {
+      "source_va": "0x6ecdb8",
+      "message_id": "enemy_names:r_9d1e81c489407e90",
+      "refs": [
+        "0x84df74",
+        "0x84df78",
+        "0x84df7c",
+        "0x84e4c8",
+        "0x84e4cc"
+      ]
+    },
+    {
+      "source_va": "0x6ecdc0",
+      "message_id": "enemy_names:r_8b90717e1d0a4588",
+      "refs": [
+        "0x84df80",
+        "0x84df84"
+      ]
+    },
+    {
+      "source_va": "0x6ecdd0",
+      "message_id": "enemy_names:r_878908678607b2e3",
+      "refs": [
+        "0x84df88"
+      ]
+    },
+    {
+      "source_va": "0x6ecde8",
+      "message_id": "glossary:r_9ae173a420abc9ce",
+      "refs": [
+        "0x84df8c"
+      ]
+    },
+    {
+      "source_va": "0x6ecdf8",
+      "message_id": "glossary:r_d984ed69e1da2b82",
+      "refs": [
+        "0x84df90"
+      ]
+    },
+    {
+      "source_va": "0x6ece08",
+      "message_id": "glossary:r_f201d2542726286a",
+      "refs": [
+        "0x84df94"
+      ]
+    },
+    {
+      "source_va": "0x6ece18",
+      "message_id": "glossary:r_56b0bcd725b85964",
+      "refs": [
+        "0x84e014",
+        "0x84e018",
+        "0x84e058",
+        "0x84e05c"
+      ]
+    },
+    {
+      "source_va": "0x6ece20",
+      "message_id": "glossary:r_3d2c35ed11b2aca3",
+      "refs": [
+        "0x84e01c",
+        "0x84e020",
+        "0x84e060",
+        "0x84e064"
+      ]
+    },
+    {
+      "source_va": "0x6ece30",
+      "message_id": "glossary:r_f7661bb0b6b45c5e",
+      "refs": [
+        "0x84e024",
+        "0x84e028",
+        "0x84e068",
+        "0x84e06c"
+      ]
+    },
+    {
+      "source_va": "0x6ece38",
+      "message_id": "glossary:r_baa47a5191bc09fb",
+      "refs": [
+        "0x84e02c",
+        "0x84e030",
+        "0x84e070",
+        "0x84e074"
+      ]
+    },
+    {
+      "source_va": "0x6ece48",
+      "message_id": "glossary:r_0803e0c68dc857dd",
+      "refs": [
+        "0x84e034",
+        "0x84e038",
+        "0x84e078",
+        "0x84e07c"
+      ]
+    },
+    {
+      "source_va": "0x6ece58",
+      "message_id": "glossary:r_1e71960f09925abf",
+      "refs": [
+        "0x84e03c",
+        "0x84e080"
+      ]
+    },
+    {
+      "source_va": "0x6ece68",
+      "message_id": "glossary:r_c1022288dcebcde2",
+      "refs": [
+        "0x84e040",
+        "0x84e084"
+      ]
+    },
+    {
+      "source_va": "0x6ece78",
+      "message_id": "glossary:r_24c090ee7a8a9c7f",
+      "refs": [
+        "0x84e044",
+        "0x84e088"
+      ]
+    },
+    {
+      "source_va": "0x6ece88",
+      "message_id": "glossary:r_2b73efdceb3c4ac8",
+      "refs": [
+        "0x84e048"
+      ]
+    },
+    {
+      "source_va": "0x6ece90",
+      "message_id": "glossary:r_40a1e9d9a504b515",
+      "refs": [
+        "0x84e04c"
+      ]
+    },
+    {
+      "source_va": "0x6ecea0",
+      "message_id": "glossary:r_8cb1de68f7be8f4b",
+      "refs": [
+        "0x84e050"
+      ]
+    },
+    {
+      "source_va": "0x6eceb8",
+      "message_id": "glossary:r_3b8e92703acd130e",
+      "refs": [
+        "0x84e054"
+      ]
+    },
+    {
+      "source_va": "0x6ecec8",
+      "message_id": "glossary:r_ff9708c40f4cf52d",
+      "refs": [
+        "0x84e094",
+        "0x84e098",
+        "0x84e09c",
+        "0x84e0a0",
+        "0x84e0a4",
+        "0x84e114",
+        "0x84e118",
+        "0x84e11c",
+        "0x84e120"
+      ]
+    },
+    {
+      "source_va": "0x6eced8",
+      "message_id": "glossary:r_8554c2e530745026",
+      "refs": [
+        "0x84e0a8",
+        "0x84e124"
+      ]
+    },
+    {
+      "source_va": "0x6ecee8",
+      "message_id": "glossary:r_7d453ca7ae2cf032",
+      "refs": [
+        "0x84e0ac",
+        "0x84e128"
+      ]
+    },
+    {
+      "source_va": "0x6ecef8",
+      "message_id": "glossary:r_34e922935c83e0ff",
+      "refs": [
+        "0x84e0b4"
+      ]
+    },
+    {
+      "source_va": "0x6ecf00",
+      "message_id": "glossary:r_b7547738d32fbd39",
+      "refs": [
+        "0x84e0b8",
+        "0x84e12c"
+      ]
+    },
+    {
+      "source_va": "0x6ecf10",
+      "message_id": "glossary:r_99d087b29a046dfd",
+      "refs": [
+        "0x84e0bc",
+        "0x84e130"
+      ]
+    },
+    {
+      "source_va": "0x6ecf20",
+      "message_id": "glossary:r_365b8187876ce721",
+      "refs": [
+        "0x84e0c0",
+        "0x84e134"
+      ]
+    },
+    {
+      "source_va": "0x6ecf30",
+      "message_id": "glossary:r_f228e58ef09c266d",
+      "refs": [
+        "0x84e0c4",
+        "0x84e138"
+      ]
+    },
+    {
+      "source_va": "0x6ecf40",
+      "message_id": "glossary:r_15425df2fb1667cb",
+      "refs": [
+        "0x84e0c8",
+        "0x84e13c"
+      ]
+    },
+    {
+      "source_va": "0x6ecf50",
+      "message_id": "glossary:r_88f8323e904ac600",
+      "refs": [
+        "0x84e0cc",
+        "0x84e0d0",
+        "0x84e140"
+      ]
+    },
+    {
+      "source_va": "0x6ecf68",
+      "message_id": "glossary:r_94fde7ffcd4f1426",
+      "refs": [
+        "0x84e0d4"
+      ]
+    },
+    {
+      "source_va": "0x6ecf80",
+      "message_id": "glossary:r_431191be68a1438c",
+      "refs": [
+        "0x84e0d8"
+      ]
+    },
+    {
+      "source_va": "0x6ecf90",
+      "message_id": "glossary:r_954b8654ea2cd5e0",
+      "refs": [
+        "0x84e0dc"
+      ]
+    },
+    {
+      "source_va": "0x6ecfa0",
+      "message_id": "glossary:r_1f507414eccb3ab6",
+      "refs": [
+        "0x84e0e0"
+      ]
+    },
+    {
+      "source_va": "0x6ecfb0",
+      "message_id": "glossary:r_ad997c0c7c7e7f6b",
+      "refs": [
+        "0x84e0e4"
+      ]
+    },
+    {
+      "source_va": "0x6ecfc0",
+      "message_id": "glossary:r_df49353d49a78f3a",
+      "refs": [
+        "0x84e0e8"
+      ]
+    },
+    {
+      "source_va": "0x6ecfd0",
+      "message_id": "glossary:r_01cf974a77bb676e",
+      "refs": [
+        "0x84e0ec"
+      ]
+    },
+    {
+      "source_va": "0x6ecfe0",
+      "message_id": "glossary:r_ec8e13097424f361",
+      "refs": [
+        "0x84e0f0"
+      ]
+    },
+    {
+      "source_va": "0x6ecff0",
+      "message_id": "glossary:r_1713d6e782a5fca2",
+      "refs": [
+        "0x84e0f4"
+      ]
+    },
+    {
+      "source_va": "0x6ed000",
+      "message_id": "glossary:r_828b31638548ac94",
+      "refs": [
+        "0x84e0f8"
+      ]
+    },
+    {
+      "source_va": "0x6ed010",
+      "message_id": "glossary:r_c8c95b3ef7461701",
+      "refs": [
+        "0x84e0fc"
+      ]
+    },
+    {
+      "source_va": "0x6ed020",
+      "message_id": "glossary:r_f4a97210772ad117",
+      "refs": [
+        "0x84e100"
+      ]
+    },
+    {
+      "source_va": "0x6ed030",
+      "message_id": "glossary:r_9d87770a01b236e5",
+      "refs": [
+        "0x84e104"
+      ]
+    },
+    {
+      "source_va": "0x6ed050",
+      "message_id": "command_swap_labels:asi",
+      "refs": [
+        "0x84e108",
+        "0x84e144"
+      ]
+    },
+    {
+      "source_va": "0x6ed060",
+      "message_id": "enemy_names:r_1d16f45685dbc8cb",
+      "refs": [
+        "0x84e10c",
+        "0x84e110"
+      ]
+    },
+    {
+      "source_va": "0x6ed068",
+      "message_id": "glossary:r_0d2b095a91c6a67c",
+      "refs": [
+        "0x84e158",
+        "0x84e15c",
+        "0x84e160",
+        "0x84e164",
+        "0x84e168",
+        "0x84e1fc",
+        "0x84e200",
+        "0x84e204"
+      ]
+    },
+    {
+      "source_va": "0x6ec6c8",
+      "message_id": "glossary:r_0b108edfda335f8d",
+      "refs": [
+        "0x84e16c",
+        "0x84e170",
+        "0x84e174",
+        "0x84e208",
+        "0x84e20c",
+        "0x84e210"
+      ]
+    },
+    {
+      "source_va": "0x6ed078",
+      "message_id": "glossary:r_8e59ca36fc1d02c3",
+      "refs": [
+        "0x84e178",
+        "0x84e17c",
+        "0x84e180",
+        "0x84e214",
+        "0x84e218",
+        "0x84e21c"
+      ]
+    },
+    {
+      "source_va": "0x6ed088",
+      "message_id": "glossary:r_d6833b1f1e06567e",
+      "refs": [
+        "0x84e184",
+        "0x84e188",
+        "0x84e220"
+      ]
+    },
+    {
+      "source_va": "0x6ed090",
+      "message_id": "glossary:r_bb5d440e312db945",
+      "refs": [
+        "0x84e190",
+        "0x84e194",
+        "0x84e224",
+        "0x84e228"
+      ]
+    },
+    {
+      "source_va": "0x6ed0a0",
+      "message_id": "glossary:r_1dc198c5770d2f52",
+      "refs": [
+        "0x84e198"
+      ]
+    },
+    {
+      "source_va": "0x6ed0b0",
+      "message_id": "glossary:r_60678b5b34a04974",
+      "refs": [
+        "0x84e19c"
+      ]
+    },
+    {
+      "source_va": "0x6ed0c0",
+      "message_id": "glossary:r_2053da745194ab42",
+      "refs": [
+        "0x84e1a0"
+      ]
+    },
+    {
+      "source_va": "0x6ed0c8",
+      "message_id": "glossary:r_9ec00c9c9688b56b",
+      "refs": [
+        "0x84e1a4"
+      ]
+    },
+    {
+      "source_va": "0x6ed0d0",
+      "message_id": "glossary:r_b6d23cfed5c68cbe",
+      "refs": [
+        "0x84e1a8"
+      ]
+    },
+    {
+      "source_va": "0x6ed0e0",
+      "message_id": "glossary:r_8f6a8fff44ab7b5c",
+      "refs": [
+        "0x84e1ac"
+      ]
+    },
+    {
+      "source_va": "0x6ed0f0",
+      "message_id": "glossary:r_99971b0b2b58a0f4",
+      "refs": [
+        "0x84e1b0"
+      ]
+    },
+    {
+      "source_va": "0x6ed0f8",
+      "message_id": "glossary:r_d8fca64743c5b4e3",
+      "refs": [
+        "0x84e1b4",
+        "0x84e1b8",
+        "0x84e1bc"
+      ]
+    },
+    {
+      "source_va": "0x6ed108",
+      "message_id": "glossary:r_c1a5e3d4bf3e6f80",
+      "refs": [
+        "0x84e1c4"
+      ]
+    },
+    {
+      "source_va": "0x6ed118",
+      "message_id": "glossary:r_0de2d941a5560480",
+      "refs": [
+        "0x84e1c8"
+      ]
+    },
+    {
+      "source_va": "0x6ed128",
+      "message_id": "glossary:r_248b6866d68f743c",
+      "refs": [
+        "0x84e1cc"
+      ]
+    },
+    {
+      "source_va": "0x6ed138",
+      "message_id": "glossary:r_aacc2a0ef9cb08db",
+      "refs": [
+        "0x84e1d0"
+      ]
+    },
+    {
+      "source_va": "0x6ed148",
+      "message_id": "glossary:r_0fe000ecc2682de4",
+      "refs": [
+        "0x84e1d4"
+      ]
+    },
+    {
+      "source_va": "0x6ed158",
+      "message_id": "glossary:r_9a11a5d706ecc46e",
+      "refs": [
+        "0x84e1d8"
+      ]
+    },
+    {
+      "source_va": "0x6ed160",
+      "message_id": "enemy_names:r_11d0c516e4a45c21",
+      "refs": [
+        "0x84e1dc"
+      ]
+    },
+    {
+      "source_va": "0x6ed178",
+      "message_id": "enemy_names:r_c53c21b6e2b2880d",
+      "refs": [
+        "0x84e1e0"
+      ]
+    },
+    {
+      "source_va": "0x6ed190",
+      "message_id": "glossary:r_113f2c9a6485442c",
+      "refs": [
+        "0x84e1e4",
+        "0x84e22c"
+      ]
+    },
+    {
+      "source_va": "0x6ed1a0",
+      "message_id": "glossary:r_2250d43c1994baf6",
+      "refs": [
+        "0x84e1e8",
+        "0x84e230"
+      ]
+    },
+    {
+      "source_va": "0x6ed1b0",
+      "message_id": "glossary:r_f3b33d4623088ae7",
+      "refs": [
+        "0x84e1ec",
+        "0x84e234"
+      ]
+    },
+    {
+      "source_va": "0x6ed1c0",
+      "message_id": "glossary:r_2e3a141ce96a9586",
+      "refs": [
+        "0x84e1f0",
+        "0x84e238"
+      ]
+    },
+    {
+      "source_va": "0x6ed1d0",
+      "message_id": "enemy_names:r_c2cfdc7d002c6b1f",
+      "refs": [
+        "0x84e1f4"
+      ]
+    },
+    {
+      "source_va": "0x6ed1e0",
+      "message_id": "glossary:r_22bb1d66679fa9c9",
+      "refs": [
+        "0x84e1f8"
+      ]
+    },
+    {
+      "source_va": "0x6ed1f0",
+      "message_id": "glossary:r_bec1cae3bf741246",
+      "refs": [
+        "0x84e24c",
+        "0x84e250",
+        "0x84e2a0"
+      ]
+    },
+    {
+      "source_va": "0x6ed200",
+      "message_id": "glossary:r_87981d17fcd2b02b",
+      "refs": [
+        "0x84e254",
+        "0x84e258",
+        "0x84e2a4"
+      ]
+    },
+    {
+      "source_va": "0x6ed208",
+      "message_id": "glossary:r_ae819a2bae6d1b9f",
+      "refs": [
+        "0x84e25c",
+        "0x84e260",
+        "0x84e264",
+        "0x84e268",
+        "0x84e2a8",
+        "0x84e2ac"
+      ]
+    },
+    {
+      "source_va": "0x6ed218",
+      "message_id": "glossary:r_699f662ab4c9cf1c",
+      "refs": [
+        "0x84e26c",
+        "0x84e2b0"
+      ]
+    },
+    {
+      "source_va": "0x6ed228",
+      "message_id": "glossary:r_4c5dce51bd664662",
+      "refs": [
+        "0x84e270",
+        "0x84e2b4"
+      ]
+    },
+    {
+      "source_va": "0x6ed238",
+      "message_id": "glossary:r_bc0c12d38a48f345",
+      "refs": [
+        "0x84e274"
+      ]
+    },
+    {
+      "source_va": "0x6ed240",
+      "message_id": "glossary:r_3973c2b1df16c1b4",
+      "refs": [
+        "0x84e278",
+        "0x84e2b8"
+      ]
+    },
+    {
+      "source_va": "0x6ed250",
+      "message_id": "glossary:r_afc61f2f452d97b5",
+      "refs": [
+        "0x84e27c",
+        "0x84e2bc"
+      ]
+    },
+    {
+      "source_va": "0x6ed260",
+      "message_id": "glossary:r_5fb4bad5dfba44b8",
+      "refs": [
+        "0x84e288"
+      ]
+    },
+    {
+      "source_va": "0x6ed268",
+      "message_id": "glossary:r_bebf7ba20daf59a1",
+      "refs": [
+        "0x84e28c"
+      ]
+    },
+    {
+      "source_va": "0x6ed278",
+      "message_id": "glossary:r_bf5b96116735fd7d",
+      "refs": [
+        "0x84e290"
+      ]
+    },
+    {
+      "source_va": "0x6ed280",
+      "message_id": "glossary:r_9f22a3859e7f02c2",
+      "refs": [
+        "0x84e298"
+      ]
+    },
+    {
+      "source_va": "0x6ed298",
+      "message_id": "glossary:r_e5c25f4b261a391a",
+      "refs": [
+        "0x84e29c",
+        "0x84e2c0"
+      ]
+    },
+    {
+      "source_va": "0x6ed2a8",
+      "message_id": "enemy_names:r_c348efc26174b46e",
+      "refs": [
+        "0x84e2c4"
+      ]
+    },
+    {
+      "source_va": "0x6ed2c0",
+      "message_id": "glossary:r_d6e32700d159d1f8",
+      "refs": [
+        "0x84e2d0",
+        "0x84e2d4",
+        "0x84e2d8",
+        "0x84e2dc",
+        "0x84e2e0",
+        "0x84e3cc",
+        "0x84e3d0",
+        "0x84e3d4"
+      ]
+    },
+    {
+      "source_va": "0x6ed2d0",
+      "message_id": "glossary:r_422c553670160743",
+      "refs": [
+        "0x84e2e4",
+        "0x84e2e8",
+        "0x84e2ec",
+        "0x84e2f0",
+        "0x84e3e4",
+        "0x84e3e8",
+        "0x84e3ec"
+      ]
+    },
+    {
+      "source_va": "0x6ed2e0",
+      "message_id": "glossary:r_3838bc2686e2aaf2",
+      "refs": [
+        "0x84e2f4",
+        "0x84e3f0"
+      ]
+    },
+    {
+      "source_va": "0x6ed2f0",
+      "message_id": "glossary:r_971b4a7b665a8eb0",
+      "refs": [
+        "0x84e2f8",
+        "0x84e2fc",
+        "0x84e300",
+        "0x84e304",
+        "0x84e3d8",
+        "0x84e3dc",
+        "0x84e3e0"
+      ]
+    },
+    {
+      "source_va": "0x6ed300",
+      "message_id": "glossary:r_9e434e8a07ba74da",
+      "refs": [
+        "0x84e308",
+        "0x84e3f4"
+      ]
+    },
+    {
+      "source_va": "0x6ed310",
+      "message_id": "glossary:r_a4a25bf5b1fcb4d6",
+      "refs": [
+        "0x84e30c",
+        "0x84e310",
+        "0x84e3f8",
+        "0x84e3fc"
+      ]
+    },
+    {
+      "source_va": "0x6ed320",
+      "message_id": "glossary:r_dbc77ab9642227f2",
+      "refs": [
+        "0x84e314",
+        "0x84e400"
+      ]
+    },
+    {
+      "source_va": "0x6ed330",
+      "message_id": "glossary:r_d89785300be12d67",
+      "refs": [
+        "0x84e318",
+        "0x84e31c",
+        "0x84e320",
+        "0x84e404",
+        "0x84e408"
+      ]
+    },
+    {
+      "source_va": "0x6ed340",
+      "message_id": "glossary:r_32b1eb5ac14d47ad",
+      "refs": [
+        "0x84e328"
+      ]
+    },
+    {
+      "source_va": "0x6ed350",
+      "message_id": "glossary:r_8c9ae51c423f7aba",
+      "refs": [
+        "0x84e32c",
+        "0x84e330",
+        "0x84e334",
+        "0x84e40c"
+      ]
+    },
+    {
+      "source_va": "0x6ed360",
+      "message_id": "glossary:r_93d55b4a41d3d154",
+      "refs": [
+        "0x84e338",
+        "0x84e410"
+      ]
+    },
+    {
+      "source_va": "0x6ed370",
+      "message_id": "glossary:r_1cd048177b245900",
+      "refs": [
+        "0x84e33c",
+        "0x84e414"
+      ]
+    },
+    {
+      "source_va": "0x6ed380",
+      "message_id": "glossary:r_b3e0a1b769129180",
+      "refs": [
+        "0x84e340",
+        "0x84e344",
+        "0x84e348",
+        "0x84e34c",
+        "0x84e418",
+        "0x84e41c"
+      ]
+    },
+    {
+      "source_va": "0x6ed390",
+      "message_id": "glossary:r_e3c3adc3c71bba1a",
+      "refs": [
+        "0x84e350",
+        "0x84e354",
+        "0x84e358",
+        "0x84e420"
+      ]
+    },
+    {
+      "source_va": "0x6ed398",
+      "message_id": "glossary:r_ea498d4c106d6c2c",
+      "refs": [
+        "0x84e35c"
+      ]
+    },
+    {
+      "source_va": "0x6ed3a8",
+      "message_id": "glossary:r_9c9afd3507999826",
+      "refs": [
+        "0x84e360",
+        "0x84e42c"
+      ]
+    },
+    {
+      "source_va": "0x6ed3b0",
+      "message_id": "glossary:r_b07ad898db9d4b92",
+      "refs": [
+        "0x84e364"
+      ]
+    },
+    {
+      "source_va": "0x6ed3c0",
+      "message_id": "glossary:r_67d017db042d8001",
+      "refs": [
+        "0x84e368"
+      ]
+    },
+    {
+      "source_va": "0x6ed3d0",
+      "message_id": "glossary:r_30b7a9920d15048f",
+      "refs": [
+        "0x84e36c"
+      ]
+    },
+    {
+      "source_va": "0x6ed3e0",
+      "message_id": "glossary:r_8d1c6fd87b938a36",
+      "refs": [
+        "0x84e370",
+        "0x84e374",
+        "0x84e424"
+      ]
+    },
+    {
+      "source_va": "0x6ed3f0",
+      "message_id": "glossary:r_20e6a40fdb75a8a3",
+      "refs": [
+        "0x84e378",
+        "0x84e428"
+      ]
+    },
+    {
+      "source_va": "0x6ed400",
+      "message_id": "glossary:r_9441b9c6604968b7",
+      "refs": [
+        "0x84e37c"
+      ]
+    },
+    {
+      "source_va": "0x6ed410",
+      "message_id": "glossary:r_492cddf5e71f2355",
+      "refs": [
+        "0x84e380"
+      ]
+    },
+    {
+      "source_va": "0x6ed420",
+      "message_id": "glossary:r_25fab82effe3187c",
+      "refs": [
+        "0x84e384"
+      ]
+    },
+    {
+      "source_va": "0x6ed430",
+      "message_id": "enemy_names:r_25957df2aa1318c7",
+      "refs": [
+        "0x84e390",
+        "0x84e394",
+        "0x84e398",
+        "0x84e39c",
+        "0x84e3a0",
+        "0x84e3a4",
+        "0x84e3a8",
+        "0x84e3ac",
+        "0x84e3b0",
+        "0x84e3b4",
+        "0x84e3b8",
+        "0x84e3bc",
+        "0x84e430",
+        "0x84e434",
+        "0x84e438",
+        "0x84e43c",
+        "0x84e440",
+        "0x84e444"
+      ]
+    },
+    {
+      "source_va": "0x6ed440",
+      "message_id": "glossary:r_f2425bc711bb0aa8",
+      "refs": [
+        "0x84e3c0",
+        "0x84e448"
+      ]
+    },
+    {
+      "source_va": "0x6ed450",
+      "message_id": "glossary:r_9256cc31e02cbd34",
+      "refs": [
+        "0x84e3c4",
+        "0x84e3c8",
+        "0x84e44c"
+      ]
+    },
+    {
+      "source_va": "0x6ed468",
+      "message_id": "glossary:r_72a7a95df84eeaa4",
+      "refs": [
+        "0x84e45c",
+        "0x84e460",
+        "0x84e464",
+        "0x84e468",
+        "0x84e46c",
+        "0x84e598",
+        "0x84e59c"
+      ]
+    },
+    {
+      "source_va": "0x6ed478",
+      "message_id": "glossary:r_3adba4567f80fa86",
+      "refs": [
+        "0x84e470",
+        "0x84e474",
+        "0x84e478",
+        "0x84e47c",
+        "0x84e5a0",
+        "0x84e5a4",
+        "0x84e5a8"
+      ]
+    },
+    {
+      "source_va": "0x6ed488",
+      "message_id": "glossary:r_fb64b168f3b69937",
+      "refs": [
+        "0x84e480",
+        "0x84e484",
+        "0x84e5ac"
+      ]
+    },
+    {
+      "source_va": "0x6ed490",
+      "message_id": "glossary:r_c819206d92a10178",
+      "refs": [
+        "0x84e488",
+        "0x84e48c",
+        "0x84e490",
+        "0x84e5b0",
+        "0x84e5b4"
+      ]
+    },
+    {
+      "source_va": "0x6ed4a0",
+      "message_id": "glossary:r_ad9d7384262ba1cf",
+      "refs": [
+        "0x84e494",
+        "0x84e498",
+        "0x84e49c",
+        "0x84e4a0",
+        "0x84e5b8",
+        "0x84e5bc"
+      ]
+    },
+    {
+      "source_va": "0x6ed4b8",
+      "message_id": "glossary:r_e0a82f4c650e0c15",
+      "refs": [
+        "0x84e4a8",
+        "0x84e5c0"
+      ]
+    },
+    {
+      "source_va": "0x6ed4c0",
+      "message_id": "glossary:r_0460f9ae8fcddb06",
+      "refs": [
+        "0x84e4b0",
+        "0x84e5c4"
+      ]
+    },
+    {
+      "source_va": "0x6ed4d8",
+      "message_id": "glossary:r_36646b37ec43f2c3",
+      "refs": [
+        "0x84e4b4"
+      ]
+    },
+    {
+      "source_va": "0x6ed4e8",
+      "message_id": "glossary:mission_term_7",
+      "refs": [
+        "0x84e4b8",
+        "0x84e4bc",
+        "0x84e4c0",
+        "0x84e4c4",
+        "0x84e5c8",
+        "0x84e5cc",
+        "0x84e5e4",
+        "0x84e5e8",
+        "0x84e5ec",
+        "0x84e5f0"
+      ]
+    },
+    {
+      "source_va": "0x6ed4f8",
+      "message_id": "enemy_names:r_dfb0c793e039f4bd",
+      "refs": [
+        "0x84e4e8"
+      ]
+    },
+    {
+      "source_va": "0x6ed508",
+      "message_id": "enemy_names:r_01b5de5926290a2c",
+      "refs": [
+        "0x84e4ec",
+        "0x84e4f0",
+        "0x84e4f4",
+        "0x84e4f8",
+        "0x84e4fc",
+        "0x84e500",
+        "0x84e5fc",
+        "0x84e600",
+        "0x84e604",
+        "0x84e608",
+        "0x84e60c",
+        "0x84e610"
+      ]
+    },
+    {
+      "source_va": "0x6ed518",
+      "message_id": "glossary:r_4c82e708a7316630",
+      "refs": [
+        "0x84e510"
+      ]
+    },
+    {
+      "source_va": "0x6ed528",
+      "message_id": "glossary:r_ba86449ae511eb68",
+      "refs": [
+        "0x84e514"
+      ]
+    },
+    {
+      "source_va": "0x6ed538",
+      "message_id": "enemy_names:r_0a0e1f5ebd807e0e",
+      "refs": [
+        "0x84e518"
+      ]
+    },
+    {
+      "source_va": "0x6ed548",
+      "message_id": "enemy_names:r_e71e9eb0d03975de",
+      "refs": [
+        "0x84e51c"
+      ]
+    },
+    {
+      "source_va": "0x6ed558",
+      "message_id": "glossary:r_5ab5147fafd97fb7",
+      "refs": [
+        "0x84e520"
+      ]
+    },
+    {
+      "source_va": "0x6ed568",
+      "message_id": "glossary:r_6690b3935cd4789c",
+      "refs": [
+        "0x84e524"
+      ]
+    },
+    {
+      "source_va": "0x6ed578",
+      "message_id": "glossary:r_594ed5b7d3f2f058",
+      "refs": [
+        "0x84e528"
+      ]
+    },
+    {
+      "source_va": "0x6ed580",
+      "message_id": "enemy_names:r_f2875d71a5c44b88",
+      "refs": [
+        "0x84e52c",
+        "0x84e530"
+      ]
+    },
+    {
+      "source_va": "0x6ed588",
+      "message_id": "enemy_names:r_f0cb9e845b305bae",
+      "refs": [
+        "0x84e534"
+      ]
+    },
+    {
+      "source_va": "0x6ed590",
+      "message_id": "enemy_names:r_5fc77f5e17459e21",
+      "refs": [
+        "0x84e538"
+      ]
+    },
+    {
+      "source_va": "0x6ed5a0",
+      "message_id": "glossary:r_d8c37f097d05906c",
+      "refs": [
+        "0x84e53c"
+      ]
+    },
+    {
+      "source_va": "0x6ed5b0",
+      "message_id": "glossary:r_5c8b382b2a3266ba",
+      "refs": [
+        "0x84e540"
+      ]
+    },
+    {
+      "source_va": "0x6ed5c0",
+      "message_id": "glossary:r_09f008e5eebc8b1d",
+      "refs": [
+        "0x84e544"
+      ]
+    },
+    {
+      "source_va": "0x6ed5d0",
+      "message_id": "glossary:r_6d61bb6c48180483",
+      "refs": [
+        "0x84e548"
+      ]
+    },
+    {
+      "source_va": "0x6ed5f0",
+      "message_id": "glossary:r_fff4ae1bf0a9181b",
+      "refs": [
+        "0x84e54c"
+      ]
+    },
+    {
+      "source_va": "0x6ed600",
+      "message_id": "enemy_names:r_a2f2db7593bde094",
+      "refs": [
+        "0x84e57c"
+      ]
+    },
+    {
+      "source_va": "0x6ed610",
+      "message_id": "enemy_names:r_1b7d64e77f63a7d7",
+      "refs": [
+        "0x84e580"
+      ]
+    },
+    {
+      "source_va": "0x6ed620",
+      "message_id": "command_swap_labels:ai",
+      "refs": [
+        "0x84e584",
+        "0x84e588",
+        "0x84e58c",
+        "0x84e590",
+        "0x84e594"
+      ]
+    },
+    {
+      "source_va": "0x6ed628",
+      "message_id": "enemy_names:r_911b3cf33c3772af",
+      "refs": [
+        "0x84e5d0"
+      ]
+    },
+    {
+      "source_va": "0x6ed638",
+      "message_id": "enemy_names:r_286cf1995e995d3a",
+      "refs": [
+        "0x84e5d4"
+      ]
+    },
+    {
+      "source_va": "0x6ed648",
+      "message_id": "enemy_names:r_e431f5ae1f6cd8c3",
+      "refs": [
+        "0x84e5d8"
+      ]
+    },
+    {
+      "source_va": "0x6ed658",
+      "message_id": "enemy_names:r_6e30726570a2a0cd",
+      "refs": [
+        "0x84e5dc",
+        "0x84e5e0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0069_04:r_caaab7bad760e16d": {
+      "text": "$$メラン$$\n「Invaders will be within visual range in one minute」",
+      "status": "imported"
+    },
+    "stage0069_04:r_99b162aa6aa286a2": {
+      "text": "$$ブライト$$\n「So they've come after us, is that it?」",
+      "status": "imported"
+    },
+    "stage0069_04:r_58fb02434a1c40b2": {
+      "text": "$$アムロ$$\n「...To think we'd end up fighting alongside you...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_1c0f94acd5a8a143": {
+      "text": "$$シャア$$\n「$$バアル$$ is our common enemy.\n　There's nothing so strange about that」",
+      "status": "imported"
+    },
+    "stage0069_04:r_1263541f4071624e": {
+      "text": "$$アムロ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0069_04:r_3bc300bbdc277d82": {
+      "text": "$$シャア$$\n「What is it?」",
+      "status": "imported"
+    },
+    "stage0069_04:r_38762a09460d8b6b": {
+      "text": "$$アムロ$$\n「I don't understand what kind of man you are anymore」",
+      "status": "imported"
+    },
+    "stage0069_04:r_7ab28e70b4d4f641": {
+      "text": "$$シャア$$\n「Neither do I, about myself」",
+      "status": "imported"
+    },
+    "stage0069_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$ギュネイ$$\n「That $$アムロ・レイ$$... what's he telling the Colonel...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_ec335e69f984b8b3": {
+      "text": "$$クェス$$\n「Planning something sneaky like eavesdropping?」",
+      "status": "imported"
+    },
+    "stage0069_04:r_0abcaf0c31978670": {
+      "text": "$$ギュネイ$$\n「There's no way that's true...!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_1d6bc48b7f246730": {
+      "text": "$$ギュネイ$$\n「This is a good opportunity.\n　Not just for the Colonel, but in front of\n　$$アムロ$$ and $$カミーユ$$ too, I'll show my strength」",
+      "status": "imported"
+    },
+    "stage0069_04:r_1af20fccc3c53cfc": {
+      "text": "$$バナージ$$\n「That $$ギュネイ$$ person...\n　He's awfully conscious of $$カミーユ$$, isn't he」",
+      "status": "imported"
+    },
+    "stage0069_04:r_f951916061232dcd": {
+      "text": "$$カミーユ$$\n「But he's an ally now.\n　Isn't that reassuring?」",
+      "status": "imported"
+    },
+    "stage0069_04:r_4d863c3fb88a4c39": {
+      "text": "$$シン$$\n「Well, maybe, but...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_44f4742c3dcce39a": {
+      "text": "$$キラ$$\n「Jealous?」",
+      "status": "imported"
+    },
+    "stage0069_04:r_9e701cdeb3842c21": {
+      "text": "$$シン$$\n「It's not like that!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_6fd81f4abebe60c5": {
+      "text": "$$マリーダ$$\n「I didn't notice when they were enemies,\n　but this seems like quite a lively unit」",
+      "status": "imported"
+    },
+    "stage0069_04:r_da2132b5038ec737": {
+      "text": "$$ハマーン$$\n「You may be unhurt, but you were just shot down.\n　Don't push yourself, $$マリーダ$$」",
+      "status": "imported"
+    },
+    "stage0069_04:r_495d61d3ec7e16f2": {
+      "text": "$$マリーダ$$\n「Thank you.\n　But this is my duty」",
+      "status": "imported"
+    },
+    "stage0069_04:r_5cd353758cfe474d": {
+      "text": "$$ハマーン$$\n「Don't force yourself into a mold.\n　Living that way will only make it harder」",
+      "status": "imported"
+    },
+    "stage0069_04:r_a653c8dec4c0f06f": {
+      "text": "$$ハマーン$$\n（Not that I'm one to say that）",
+      "status": "imported"
+    },
+    "stage0069_04:r_86d493e37a9799a7": {
+      "text": "$$メラン$$\n「Invaders, incoming!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_09d0fcc600cdd3df": {
+      "text": "$$竜馬$$\n「They're swarming in like vermin!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_182faded068c15ed": {
+      "text": "$$シモン$$\n「I'll pass on the $$エタニティ・フラット$$ too,\n　but I refuse to be wiped out by things like these!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_9c206d19bfda4bd5": {
+      "text": "$$アルト$$\n「If they're going to try to devour us,\n　I'll resist with everything I've got!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_6e558bc69acf5bf3": {
+      "text": "$$赤木$$\n「Let's do this!\n　I won't lose to the likes of $$バアル$$!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_d60d0818e965232f": {
+      "text": "$$シンジ$$\n「Right!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_5b23687574286204": {
+      "text": "$$シャア$$\n「You all never change...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_6fd86c96891ea942": {
+      "text": "$$ヒイロ$$\n「If you're that nostalgic, just come back」",
+      "status": "imported"
+    },
+    "stage0069_04:r_43e4e548c0b28376": {
+      "text": "$$刹那$$\n「You should be able to do that」",
+      "status": "imported"
+    },
+    "stage0069_04:r_d80a9688790ed583": {
+      "text": "$$シャア$$\n「It's not that simple.\n　...All units, move out!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_708bea61e3c43ada": {
+      "text": "$$カミーユ$$\n「Understood!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_7b6f159eeaf4de0f": {
+      "text": "$n\n（Strange...\n　They're the enemy, but their presence feels right...）",
+      "status": "imported"
+    },
+    "stage0069_04:r_0827963cfd706e8d": {
+      "text": "$$ルカ$$\n「Confirmed dimensional boundary distortion...!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$ノリコ$$\n「Be careful, everyone!\n　They're coming!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_3f4035fd9db81258": {
+      "text": "$$タケル$$\n「Space monsters!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_567b361a454c4b73": {
+      "text": "$$葵$$\n「Invaders and space monsters...\n　Being popular with $$バアル$$ isn't a thrill though」",
+      "status": "imported"
+    },
+    "stage0069_04:r_d22851aaafbbf8fc": {
+      "text": "$$隼人$$\n「But why...\n　Are you saying $$バアル$$, driven by\n　destructive impulse, has us as its target...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_352534f64413d954": {
+      "text": "$$ティエリア$$\n「This might be the key to understanding their biology」",
+      "status": "imported"
+    },
+    "stage0069_04:r_79f2664edb1af798": {
+      "text": "$$正太郎$$\n「If they've come, I'll just have to face them!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$ワッ太$$\n「We're close to Earth here!\n　If we lose, Earth will be devoured by them!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_1c5aa0d15ae24846": {
+      "text": "$$甲児$$\n「That's right!\n　I won't let things like these run wild on Earth!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_53bb64ee17750ee2": {
+      "text": "$$ブライト$$\n「All units, engage the Invaders and space monsters!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_7a7add80fde475ba": {
+      "text": "$$ゼロ$$\n「Don't forget that Earth is behind us!!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_b2befefdbed1393d": {
+      "text": "$$トライア$$\n「Not bad.\n　A collab between $c and the Red Comet, no less」",
+      "status": "imported"
+    },
+    "stage0069_04:r_2103f6df2ea2e447": {
+      "text": "$$トライア$$\n「Even Crowe's cheering you on from beyond the grave」",
+      "status": "imported"
+    },
+    "stage0069_04:r_a12e3e130d896ff7": {
+      "text": "$$ロックオン$$\n「Don't just go killing him off without asking...!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_b6f7b219eb4bd64b": {
+      "text": "$$デュオ$$\n「Still exaggerating as usual,\n　that Doctor Fox is...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_91bf33c27ad39f0a": {
+      "text": "$$アルト$$\n「Does rejecting the $$エタニティ・フラット$$ mean\n　fighting those space monsters and Invaders...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_ee220318b96ab538": {
+      "text": "$$ノリコ$$\n「But even if we accept the $$エタニティ・フラット$$,\n　all that awaits is despair」",
+      "status": "imported"
+    },
+    "stage0069_04:r_ce1b55e526b6277a": {
+      "text": "$$カレン$$\n「$$ノリコ$$'s right」",
+      "status": "imported"
+    },
+    "stage0069_04:r_c304df6888eb78f7": {
+      "text": "$$宗介$$\n「Then the answer's already decided」",
+      "status": "imported"
+    },
+    "stage0069_04:r_c26958634526e597": {
+      "text": "$n\n「Yeah...\n　We're moving forward, into the future」",
+      "status": "imported"
+    },
+    "stage0069_04:r_cdb750c9d380881a": {
+      "text": "$$トライア$$\n（Reassuring, isn't it.\n　Now then, Red Comet... what will you do?）",
+      "status": "imported"
+    },
+    "stage0069_04:r_95fda74613c97b39": {
+      "text": "$$シャア$$\n「It's over, is it...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_1956994937f8171e": {
+      "text": "$$アムロ$$\n「Are you leaving?」",
+      "status": "imported"
+    },
+    "stage0069_04:r_48f49f6728c15612": {
+      "text": "$$シャア$$\n「I have things I must do.\n　The same goes for you as well」",
+      "status": "imported"
+    },
+    "stage0069_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$アムロ$$\n「$$シャア$$...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_f02c37d91387d0ad": {
+      "text": "$$シャア$$\n「Fighting alongside you like this isn't so bad...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$アムロ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0069_04:r_9796b3efa401a303": {
+      "text": "$$シャア$$\n「$$ギュネイ$$, $$クェス$$...\n　You two will remain with $c as liaisons」",
+      "status": "imported"
+    },
+    "stage0069_04:r_643b6eebfc0186b3": {
+      "text": "$$ギュネイ$$\n「Wait, Colonel!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_291280e5f7eb9d70": {
+      "text": "$$シャア$$\n「This is an order.\n　I'm leaving $$クェス$$ to you, $$ギュネイ$$」",
+      "status": "imported"
+    },
+    "stage0069_04:r_32eb462c1b4999cb": {
+      "text": "$$ギュネイ$$\n「Understood」",
+      "status": "imported"
+    },
+    "stage0069_04:r_1f4337d6d393fc37": {
+      "text": "$$マリーダ$$\n「Her Excellency $$ハマーン$$...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_4740e748fae085ee": {
+      "text": "$$ハマーン$$\n「You don't need to say it.\n　You want to stay too, don't you, $$マリーダ$$?」",
+      "status": "imported"
+    },
+    "stage0069_04:r_b76524cd840e1d37": {
+      "text": "$$マリーダ$$\n「$$バナージ・リンクス$$ learned the Zeon\n　spirit at Palau.\n　Next it's my turn to learn the world」",
+      "status": "imported"
+    },
+    "stage0069_04:r_730ffe18400abfc2": {
+      "text": "$$バナージ$$\n「$$マリーダ$$...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_ffe0fca26da5cd38": {
+      "text": "$$ハマーン$$\n「Very well, $$マリーダ・クルス$$.\n　I'll grant your wish」",
+      "status": "imported"
+    },
+    "stage0069_04:r_bfb27f9eb2f7073e": {
+      "text": "$$マリーダ$$\n「Thank you, Your Excellency」",
+      "status": "imported"
+    },
+    "stage0069_04:r_859dfa27bcaafe30": {
+      "text": "$$ハマーン$$\n（Her... I'm counting on you for Lady $$ミネバ$$）",
+      "status": "imported"
+    },
+    "stage0069_04:r_71ebf05996a4b0fd": {
+      "text": "$$カミーユ$$\n「$$ハマーン・カーン$$...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_6214c11b1bca811e": {
+      "text": "$$ハマーン$$\n「Good chance to say this, $$カミーユ・ビダン$$.\n　I don't intend to forgive that incident」",
+      "status": "imported"
+    },
+    "stage0069_04:r_8eaf6f3098ffed12": {
+      "text": "$$ハマーン$$\n「But you and that Unicorn pilot,\n　I'll allow myself to expect something」",
+      "status": "imported"
+    },
+    "stage0069_04:r_cf507214fe955d75": {
+      "text": "$$バナージ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_2113dcbabdfc758a": {
+      "text": "$$シャア$$\n「Let's go, $$ハマーン$$」",
+      "status": "imported"
+    },
+    "stage0069_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ハマーン$$\n「Heh... alone with you, all the way to the $$レウルーラ$$」",
+      "status": "imported"
+    },
+    "stage0069_04:r_6a74519e1fc29c4b": {
+      "text": "$$スズネ$$\n「$$シャア・アズナブル$$ and $$ハマーン・カーン$$...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_5b992878fee054b5": {
+      "text": "$n\n「What a strange feeling...\n　There's no doubt they're the enemy, and yet...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$アムロ$$\n（$$シャア$$...）",
+      "status": "imported"
+    },
+    "stage0069_04:r_4a14ec0c511c7f0d": {
+      "text": "$$アムロ$$\n（The next time we meet,\n　what will have become of the world, and of us...）",
+      "status": "imported"
+    },
+    "stage0069_04:r_20cf167c0ec0d4d5": {
+      "text": "$$アムロ$$\n「Not bad」",
+      "status": "imported"
+    },
+    "stage0069_04:r_b591d812c96c6c99": {
+      "text": "$$シャア$$\n「I happen to be a pilot as well」",
+      "status": "imported"
+    },
+    "stage0069_04:r_e350fa099c1ab072": {
+      "text": "$$シン$$\n「As first-rate as ever」",
+      "status": "imported"
+    },
+    "stage0069_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ゼクス$$\n「No... he's grown stronger than before」",
+      "status": "imported"
+    },
+    "stage0069_04:r_c33bd700553abf91": {
+      "text": "$$ヒイロ$$\n（$$シャア・アズナブル$$...\n　Did $$ゼロ$$'s vision erase your doubts...?）",
+      "status": "imported"
+    },
+    "stage0069_04:r_feee5c91826230e1": {
+      "text": "$$カミーユ$$\n「Strong...\n　As expected, $$ハマーン$$」",
+      "status": "imported"
+    },
+    "stage0069_04:r_bccc48e1964ad22d": {
+      "text": "$$ハマーン$$\n「This much is only natural.\n　Nothing to be surprised at」",
+      "status": "imported"
+    },
+    "stage0069_04:r_f8736aaaa216c766": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0069_04:r_d1ec2522c87c361d": {
+      "text": "$$アスカ$$\n「What is it, Daddy's Boy?\n　Are you gawking at that person?」",
+      "status": "imported"
+    },
+    "stage0069_04:r_3599f0a4343fd95c": {
+      "text": "$$シンジ$$\n「Uh... yeah...\n　That $$ハマーン$$ person reminds me of Shikinami...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_3bc7834a5bf3ee76": {
+      "text": "$$アスカ$$\n「What are you talking about!\n　You idiot!?」",
+      "status": "imported"
+    },
+    "stage0069_04:r_366814efdc8b5800": {
+      "text": "$$ハマーン$$\n「Heh... you two get along well」",
+      "status": "imported"
+    },
+    "stage0069_04:r_9be1a4c10bb62515": {
+      "text": "$$ミサト$$\n（$$シンジ$$-chan's guess... might be spot on）",
+      "status": "imported"
+    },
+    "stage0069_04:r_94a88c90e557e16e": {
+      "text": "$$ハサウェイ$$\n「Alright... I did it!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_1c208ca0cbf26f28": {
+      "text": "$$クェス$$\n「Aha!　Not bad, Has!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_5b7ee307a700171a": {
+      "text": "$$ハサウェイ$$\n「I got stronger to bring you back」",
+      "status": "imported"
+    },
+    "stage0069_04:r_8d8f065c932da30a": {
+      "text": "$$クェス$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_f5432119677514f7": {
+      "text": "$$カツ$$\n（Nice, Has!\n　Keep it up!）",
+      "status": "imported"
+    },
+    "stage0069_04:r_4e5c8e989c4a7691": {
+      "text": "$$ギュネイ$$\n（Damn...!\n　There was someone else besides $$カミーユ$$ to watch...!）",
+      "status": "imported"
+    },
+    "stage0069_04:r_adec86483b13599a": {
+      "text": "$$アムロ$$\n（Strange, isn't it.\n　We're supposed to be archenemies, yet fighting\n　together like this, we're in sync...）",
+      "status": "imported"
+    },
+    "stage0069_04:r_2cf701bbcde3ec13": {
+      "text": "$$アムロ$$\n（Are we changing... him and me both...）",
+      "status": "imported"
+    },
+    "stage0069_04:r_c17c58fdba72005e": {
+      "text": "$$シャア$$\n（$$ララァ$$...）",
+      "status": "imported"
+    },
+    "stage0069_04:r_1fe8564d2b959317": {
+      "text": "$$シャア$$\n（Can I... can humanity move forward...）",
+      "status": "imported"
+    },
+    "stage0069_04:r_f527e012803f7f1c": {
+      "text": "$$ハマーン$$\n（$$シャア$$... what are you carrying alone...\n　Where do you intend to lead Neo Zeon...\n　lead the world...）",
+      "status": "imported"
+    },
+    "stage0069_04:r_4b1247bd3ca4905d": {
+      "text": "$$ハマーン$$\n（Answer wrong, and I'll have to strike you down...!）",
+      "status": "imported"
+    },
+    "stage0069_04:r_00c55e25f87b71d0": {
+      "text": "$$マリーダ$$\n（The atmosphere of $c that Lady $$ミネバ$$ senses...）",
+      "status": "imported"
+    },
+    "stage0069_04:r_338f3b27e51dcc41": {
+      "text": "$$マリーダ$$\n（What draws her in so much...\n　Does it surpass even the light of Zeon...）",
+      "status": "imported"
+    },
+    "stage0069_04:r_d91d4bc2d52b61c4": {
+      "text": "$$ギュネイ$$\n「$$クェス$$!\n　Don't leave my side!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_0c8ea89b07432421": {
+      "text": "$$クェス$$\n「I'm already a grown-up, you know!\n　I don't need you playing guardian, $$ギュネイ$$!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_4dbfba00ba7744ee": {
+      "text": "$$ギュネイ$$\n「That's not really what I meant...」",
+      "status": "imported"
+    },
+    "stage0069_04:r_be100a32b731708d": {
+      "text": "$$クェス$$\n「I get it!\n　It's not guardian, it's boyfriend you're playing!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_702f82442fcec8a9": {
+      "text": "$$ギュネイ$$\n「Is that so bad?」",
+      "status": "imported"
+    },
+    "stage0069_04:r_b1e38da4e8775ffe": {
+      "text": "$$クェス$$\n「When you're stronger than the Colonel, I'll think about it」",
+      "status": "imported"
+    },
+    "stage0069_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ギュネイ$$\n「Don't forget you said that!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$甲児$$\n（Why were there Invaders\n　beneath the Mycenae ruins...）",
+      "status": "imported"
+    },
+    "stage0069_04:r_3dad695c99e9e052": {
+      "text": "$$甲児$$\n（Does Mycenae have some link to the Invaders...?\n　Is the fight with $$あしゅら$$ not over yet...）",
+      "status": "imported"
+    },
+    "stage0069_04:r_66d4ae3a21caf881": {
+      "text": "$$宗介$$\n「Our first space battle in a while.\n　I leave the adjustments to you, $$アル$$」",
+      "status": "imported"
+    },
+    "stage0069_04:r_0c18da7b3a37825d": {
+      "text": "$$アル$$\n「Then I'll opt to return.\n　AS maneuvering in space is still in development」",
+      "status": "imported"
+    },
+    "stage0069_04:r_63249745ffae61b6": {
+      "text": "$$宗介$$\n「You're not funny」",
+      "status": "imported"
+    },
+    "stage0069_04:r_abdb034ae8509702": {
+      "text": "$$アル$$\n「Just being able to joke beats you, Sergeant」",
+      "status": "imported"
+    },
+    "stage0069_04:r_3ff2e21207d1d1d3": {
+      "text": "$$宗介$$\n「Playtime's over.\n　Let's do this, partner...!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_e51ecf6d6aa42e75": {
+      "text": "$$アル$$\n「Roger」",
+      "status": "imported"
+    },
+    "stage0069_04:r_47ddabb7b60131c2": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$ is watching!\n　I have to show her what I can do!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_b025267f22788233": {
+      "text": "$$ハサウェイ$$\n「If I get stronger, $$クェス$$ will choose\n　me instead of $$シャア$$!」",
+      "status": "imported"
+    },
+    "stage0069_04:r_ec1a06a7023bf72c": {
+      "text": "$$カミーユ$$\n（She's here...\n　Just knowing that puts me at ease like this...）",
+      "status": "imported"
+    },
+    "stage0069_04:r_8805f96e52aaa462": {
+      "text": "$$カミーユ$$\n（In the end, maybe I still rely on her...）",
+      "status": "imported"
+    },
+    "stage0069_04:r_124591cb154fae64": {
+      "text": "$$バナージ$$\n（$$マリーダ$$'s words...\n　I mustn't forget them...）",
+      "status": "imported"
+    },
+    "stage0069_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$バナージ$$\n（For now, let's fight...!\n　To protect the future... the possibilities...!）",
+      "status": "imported"
+    },
+    "stage0069_04:r_4bf9b05b5f948170": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

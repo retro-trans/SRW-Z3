@@ -1,0 +1,286 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "skills:r_2cc25fec2291c17b": {
+      "text": "Double Act",
+      "status": "imported"
+    },
+    "skills:r_8c038a3970c9799f": {
+      "text": "Triple Act",
+      "status": "imported"
+    },
+    "skills:r_ff324468e51f131d": {
+      "text": "B-Save",
+      "status": "imported"
+    },
+    "skills:r_fec6ae57bcc0f89e": {
+      "text": "E-Save",
+      "status": "imported"
+    },
+    "skills:r_717cf05e154b4ce7": {
+      "text": "SP Up",
+      "status": "imported"
+    },
+    "skills:r_1c0b0be02b38d5c4": {
+      "text": "SP Regen",
+      "status": "imported"
+    },
+    "skills:r_ddc4a00ab4d607f2": {
+      "text": "Innovator",
+      "status": "imported"
+    },
+    "skills:r_1b4442844e01f905": {
+      "text": "Element Pow",
+      "status": "imported"
+    },
+    "skills:r_cdfcfb3775cdf11a": {
+      "text": "Counter",
+      "status": "imported"
+    },
+    "skills:r_b8ea4565315d2d7d": {
+      "text": "Guard",
+      "status": "imported"
+    },
+    "skills:r_bd4314bcd6c1ae87": {
+      "text": "Geass Curse",
+      "status": "imported"
+    },
+    "skills:r_48991dd5d12f08ee": {
+      "text": "Ignore Size",
+      "status": "imported"
+    },
+    "skills:r_dbb14d7880b70932": {
+      "text": "Assist Atk",
+      "status": "imported"
+    },
+    "skills:r_eebc172092ae8e14": {
+      "text": "Salaryman",
+      "status": "imported"
+    },
+    "skills:r_72b9bcdfa95ca3eb": {
+      "text": "Dash",
+      "status": "imported"
+    },
+    "skills:r_39945144174c0812": {
+      "text": "Teleport",
+      "status": "imported"
+    },
+    "skills:r_ad50b976e69a4a08": {
+      "text": "Newtype",
+      "status": "imported"
+    },
+    "skills:r_2dc9c384aca410e1": {
+      "text": "Negotiator",
+      "status": "imported"
+    },
+    "skills:r_35aaa22f6746c5cc": {
+      "text": "Half Cut",
+      "status": "imported"
+    },
+    "skills:r_22bd0d85856b89f3": {
+      "text": "Part Supply",
+      "status": "imported"
+    },
+    "skills:r_daceee9929cc302e": {
+      "text": "Hit & Away",
+      "status": "imported"
+    },
+    "skills:r_482d932ee5c4e36c": {
+      "text": "Multi-Tgt",
+      "status": "imported"
+    },
+    "skills:r_cb597a2c4bf02fad": {
+      "text": "Survivor",
+      "status": "imported"
+    },
+    "skills:r_03052b44279beb7e": {
+      "text": "Support Atk",
+      "status": "imported"
+    },
+    "skills:r_da3f70f5e041f809": {
+      "text": "Support Def",
+      "status": "imported"
+    },
+    "skills:r_e97e25c45575df5f": {
+      "text": "Foc+ Dmg",
+      "status": "imported"
+    },
+    "skills:r_f61f8384a666442a": {
+      "text": "Foc+ Evd",
+      "status": "imported"
+    },
+    "skills:r_6de2bcffe86c8bc9": {
+      "text": "Foc+ KO",
+      "status": "imported"
+    },
+    "skills:r_15e10aaea91baa2f": {
+      "text": "Foc+ Hit",
+      "status": "imported"
+    },
+    "skills:r_053a5fcd93a2a6ee": {
+      "text": "Foc Bonus",
+      "status": "imported"
+    },
+    "skills:r_2d27c25b59290f45": {
+      "text": "Limit Break",
+      "status": "imported"
+    },
+    "skills:r_2345303df8b6759d": {
+      "text": "Inverted",
+      "status": "imported"
+    },
+    "skills:r_f4c654733f092fc3": {
+      "text": "Inverted 1",
+      "status": "imported"
+    },
+    "skills:r_0ffda1f4d9b08dfe": {
+      "text": "Inverted 2",
+      "status": "imported"
+    },
+    "skills:r_2b20b858fbb01c4f": {
+      "text": "Lucky",
+      "status": "imported"
+    },
+    "skills:r_a37cd4228ee65b56": {
+      "text": "Enhanced",
+      "status": "imported"
+    },
+    "skills:r_94267e669594d334": {
+      "text": "Extreme",
+      "status": "imported"
+    },
+    "skills:r_3236da09f5b1f004": {
+      "text": "Space Fill",
+      "status": "imported"
+    },
+    "skills:r_0fa13a27abf55b0e": {
+      "text": "Linking",
+      "status": "imported"
+    },
+    "skills:r_802cbf952bbffdb0": {
+      "text": "Digging",
+      "status": "imported"
+    },
+    "skills:r_9dfb11823b511ee1": {
+      "text": "Prevail",
+      "status": "imported"
+    },
+    "skills:r_ec776f0c7166e625": {
+      "text": "Opt. Camo",
+      "status": "imported"
+    },
+    "skills:r_2b75f8923c098c78": {
+      "text": "Re-Attack",
+      "status": "imported"
+    },
+    "skills:r_aaf7b8b678af523b": {
+      "text": "Commander",
+      "status": "imported"
+    },
+    "skills:r_194d647ac13f3667": {
+      "text": "President",
+      "status": "imported"
+    },
+    "skills:r_130e636e07dbb46d": {
+      "text": "Repair",
+      "status": "imported"
+    },
+    "skills:r_668fe65ceb4b60dc": {
+      "text": "Grav Field",
+      "status": "imported"
+    },
+    "skills:r_b477ee0c10938a6f": {
+      "text": "Grav Fld 1",
+      "status": "imported"
+    },
+    "skills:r_d15d0d7d8f7e7f0d": {
+      "text": "Grav Fld 2",
+      "status": "imported"
+    },
+    "skills:r_24ac9f097718bb3c": {
+      "text": "Impact",
+      "status": "imported"
+    },
+    "skills:r_9f33455fa822ad43": {
+      "text": "Spirit Song",
+      "status": "imported"
+    },
+    "skills:r_c8ad503e1fe35e6a": {
+      "text": "Mind Resist",
+      "status": "imported"
+    },
+    "skills:r_e89571cb5a3fcbcb": {
+      "text": "Precise Atk",
+      "status": "imported"
+    },
+    "skills:r_2324c29dde9f9b57": {
+      "text": "Fragile",
+      "status": "imported"
+    },
+    "skills:r_7d766916a3662c81": {
+      "text": "Despair Sen",
+      "status": "imported"
+    },
+    "skills:r_f2400a8c6a1dd246": {
+      "text": "Fighting Sp",
+      "status": "imported"
+    },
+    "skills:r_8adf5755e2d5a435": {
+      "text": "Tactic Cmd",
+      "status": "imported"
+    },
+    "skills:r_b915f985b187b337": {
+      "text": "Combat Prog",
+      "status": "imported"
+    },
+    "skills:r_de3829e418a8561c": {
+      "text": "Severing",
+      "status": "imported"
+    },
+    "skills:r_d58574150701db4c": {
+      "text": "Super ESP",
+      "status": "imported"
+    },
+    "skills:r_e96ea7a71933920e": {
+      "text": "ESP",
+      "status": "imported"
+    },
+    "skills:r_4a7a9aec12b7654f": {
+      "text": "Potential",
+      "status": "imported"
+    },
+    "skills:r_be5ecaf9c790b189": {
+      "text": "Genius",
+      "status": "imported"
+    },
+    "skills:r_f5b214e1ec8569ef": {
+      "text": "Instinct",
+      "status": "imported"
+    },
+    "skills:r_b5f1d777683067b6": {
+      "text": "Telekinesis",
+      "status": "imported"
+    },
+    "skills:r_5aa48965d020d03f": {
+      "text": "Corrosion",
+      "status": "imported"
+    },
+    "skills:r_cf3c9b370e914a63": {
+      "text": "Resupply",
+      "status": "imported"
+    },
+    "skills:r_671a3037d9a84efd": {
+      "text": "Feral",
+      "status": "imported"
+    },
+    "skills:r_68b7c7f6a035aca7": {
+      "text": "Spiral Pow",
+      "status": "imported"
+    },
+    "skills:r_15759a06c5f400a8": {
+      "text": "Spiral MAX",
+      "status": "imported"
+    }
+  }
+}

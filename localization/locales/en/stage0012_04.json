@@ -1,0 +1,542 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0012_04:r_caaab7bad760e16d": {
+      "text": "Firebug Trooper\n「What are you doing!?\n　Get out of here, now!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_99b162aa6aa286a2": {
+      "text": "Firebug Trooper\n「S-sorry!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_58fb02434a1c40b2": {
+      "text": "$$ヴィラル$$\n「Tch!\n　So those guys were terrorists!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_1c0f94acd5a8a143": {
+      "text": "$$竜馬$$\n「$$甲児$$!\n　We'll get the rugby team out!\n　You lot evacuate too!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_1263541f4071624e": {
+      "text": "$$甲児$$\n「Got it!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_3bc300bbdc277d82": {
+      "text": "$$かなめ$$\n「H-huh...?\n　Sousuke's not here...」",
+      "status": "imported"
+    },
+    "stage0012_04:r_38762a09460d8b6b": {
+      "text": "$n\n「Now that you mention it...!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_7ab28e70b4d4f641": {
+      "text": "$$かなめ$$\n「Geez!\n　Why does he vanish at the worst times!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_b05f6a6e8f3d9b24": {
+      "text": "Firebug Trooper\n「!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_ec335e69f984b8b3": {
+      "text": "Firebug Trooper\n「!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_0abcaf0c31978670": {
+      "text": "Firebug Trooper\n「Did you hear that?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_1d6bc48b7f246730": {
+      "text": "Firebug Trooper\n「Y-yeah...!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_1af20fccc3c53cfc": {
+      "text": "Firebug Trooper\n「That voice...that force of will...」",
+      "status": "imported"
+    },
+    "stage0012_04:r_f951916061232dcd": {
+      "text": "Firebug Trooper\n「That kid could become the second 《$$姫$$》!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_4d863c3fb88a4c39": {
+      "text": "$$かなめ$$\n「It's coming this way...!?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_44f4742c3dcce39a": {
+      "text": "$$スズネ$$\n「Run, Chidori!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_9e701cdeb3842c21": {
+      "text": "$n\n「Boost!!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_6fd81f4abebe60c5": {
+      "text": "Firebug Trooper\n「What's with that speed!?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_da2132b5038ec737": {
+      "text": "$n\n「Are you hurt, Chidori!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_495d61d3ec7e16f2": {
+      "text": "$$かなめ$$\n「R-right...!\n　Thanks, $n!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_5cd353758cfe474d": {
+      "text": "$$スズネ$$\n「$n!\n　Call out $$ジェニオン$$!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_a653c8dec4c0f06f": {
+      "text": "$n\n「Ngh...」",
+      "status": "imported"
+    },
+    "stage0012_04:r_86d493e37a9799a7": {
+      "text": "$$スズネ$$\n「What's wrong!?\n　Are you feeling sick!?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_09d0fcc600cdd3df": {
+      "text": "$n\n「Sorry, teacher...\n　Right after using $$ブーストアップ$$,\n　I can't seem to call out $$ジェニオン$$.」",
+      "status": "imported"
+    },
+    "stage0012_04:r_182faded068c15ed": {
+      "text": "$$アルト$$\n「This is bad!\n　At this rate...!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_9c206d19bfda4bd5": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo!!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_6e558bc69acf5bf3": {
+      "text": "$$かなめ$$\n「$$ボン太くん#robot$$!?\n　And he's got a gun!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_d60d0818e965232f": {
+      "text": "$$スズネ$$\n「Wh-what...!?\n　$$ボン太くん#robot$$'s fighting the terrorists!?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_5b23687574286204": {
+      "text": "$$ボス$$\n「Even for a bear, that's pushing it!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_6fd86c96891ea942": {
+      "text": "$$ヌケ$$\n「Look closer, $$ボス$$!\n　That's a mouse!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_43e4e548c0b28376": {
+      "text": "$$ムチャ$$\n「What are you talking about!\n　That's a koala!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_d80a9688790ed583": {
+      "text": "$$クラン$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0012_04:r_708bea61e3c43ada": {
+      "text": "$$ミシェル$$\n「What's wrong, $$クラン$$!?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_7b6f159eeaf4de0f": {
+      "text": "$$クラン$$\n「$$ボン太くん#robot$$...so cute...」",
+      "status": "imported"
+    },
+    "stage0012_04:r_0827963cfd706e8d": {
+      "text": "$$ミシェル$$\n「This is no time for that!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$アルト$$\n「I-I don't really get it, but,\n　if that Bonta thing says it'll fight,\n　let's leave this to it!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_3f4035fd9db81258": {
+      "text": "$$クラン$$\n「Don't get it wrong, $$アルト$$!\n　That's $$ボン太くん#robot$$!\n　Say 'kun', you forehead dummy!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_567b361a454c4b73": {
+      "text": "$$アルト$$\n「Y-yes!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_d22851aaafbbf8fc": {
+      "text": "$$スズネ$$\n「The Quarter will be here soon!\n　Let's evacuate too!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_352534f64413d954": {
+      "text": "$$かなめ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0012_04:r_79f2664edb1af798": {
+      "text": "$$さやか$$\n「Let's go, $$かなめ$$!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$かなめ$$\n「R-right...!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_1c5aa0d15ae24846": {
+      "text": "$$かなめ$$\n（Don't tell me, that $$ボン太くん#robot$$ is...）",
+      "status": "imported"
+    },
+    "stage0012_04:r_53bb64ee17750ee2": {
+      "text": "Firebug Trooper\n「What is this thing!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_7a7add80fde475ba": {
+      "text": "Firebug Trooper\n「It's fluffy and cute!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_b2befefdbed1393d": {
+      "text": "$$ボン太くん#pilot$$\n「Fumof! Fumomo, fumofumo!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_2103f6df2ea2e447": {
+      "text": "Firebug Trooper\n「...Get it?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_a12e3e130d896ff7": {
+      "text": "Firebug Trooper\n「Not a clue!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ボン太くん#pilot$$\n「Fumofumo! Fumoffu! Fumof!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_91bf33c27ad39f0a": {
+      "text": "Firebug Trooper\n「I don't get it,\n　but it's ready to throw down with us.」",
+      "status": "imported"
+    },
+    "stage0012_04:r_ee220318b96ab538": {
+      "text": "Firebug Trooper\n「So that's the answer it settled on...!\n　Then we'll take it on!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_ce1b55e526b6277a": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffu!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_c304df6888eb78f7": {
+      "text": "$$竜馬$$\n「Kept you waiting, huh!\n　This time I'll take you on with my machine!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_c26958634526e597": {
+      "text": "$$竜馬$$\n「So what are you supposed to be?\n　A bear? A mouse?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_cdb750c9d380881a": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_95fda74613c97b39": {
+      "text": "$$竜馬$$\n「Fine, whatever!\n　At least I know you're not an enemy!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_1956994937f8171e": {
+      "text": "$$竜馬$$\n「Here I come, you terrorists!\n　You'll be the finale of my training journey!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_48f49f6728c15612": {
+      "text": "$$竜馬$$\n「Not bad, Fumo-suke!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_f02c37d91387d0ad": {
+      "text": "Firebug Trooper\n「Damn it...!\n　At this rate, we'll let them get cocky!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_6bbd5a3c5afb87e0": {
+      "text": "Firebug Trooper\n「That does it, deploy the whole unit!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_9796b3efa401a303": {
+      "text": "$$ボン太くん#pilot$$\n「Fumof?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_643b6eebfc0186b3": {
+      "text": "$$竜馬$$\n「So they're throwing numbers at us.」",
+      "status": "imported"
+    },
+    "stage0012_04:r_291280e5f7eb9d70": {
+      "text": "$$ボン太くん#pilot$$\n「Fumofumo!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_32eb462c1b4999cb": {
+      "text": "$$竜馬$$\n「Yeah, looks like our reinforcements are here too.」",
+      "status": "imported"
+    },
+    "stage0012_04:r_1f4337d6d393fc37": {
+      "text": "$$甲児$$\n「Are you all right, $$竜馬$$!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_4740e748fae085ee": {
+      "text": "$$竜馬$$\n「You think I'd lose to guys like that?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_b76524cd840e1d37": {
+      "text": "$$甲児$$\n「Guess I worried for nothing.」",
+      "status": "imported"
+    },
+    "stage0012_04:r_730ffe18400abfc2": {
+      "text": "$n\n「So that man from before\n　is piloting that black Getter Robo.」",
+      "status": "imported"
+    },
+    "stage0012_04:r_ffe0fca26da5cd38": {
+      "text": "$$スズネ$$\n「But I heard Getter Robo needs three pilots...」",
+      "status": "imported"
+    },
+    "stage0012_04:r_bfb27f9eb2f7073e": {
+      "text": "$$甲児$$\n「Now that you mention it, $$竜馬$$...\n　where are $$隼人$$, $$弁慶$$, and $$號$$?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_859dfa27bcaafe30": {
+      "text": "$$竜馬$$\n「No idea.」",
+      "status": "imported"
+    },
+    "stage0012_04:r_71ebf05996a4b0fd": {
+      "text": "$$甲児$$\n「Wha...!?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_6214c11b1bca811e": {
+      "text": "$$竜馬$$\n「I'm in the middle of a training journey.\n　What happens to the others isn't my concern.」",
+      "status": "imported"
+    },
+    "stage0012_04:r_8eaf6f3098ffed12": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_cf507214fe955d75": {
+      "text": "$$竜馬$$\n「I know, I know!\n　Let's finish these guys off quick!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_2113dcbabdfc758a": {
+      "text": "$$竜馬$$\n「Let's go, Fumo-suke!\n　We'll crush them!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffu!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_6a74519e1fc29c4b": {
+      "text": "$$カミーユ$$\n「$$竜馬$$...can you understand that animal?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_5b992878fee054b5": {
+      "text": "$$葵$$\n「Not that I'm one to talk, but,\n　call it wild instinct?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$オットー$$\n「Anyway!\n　Beat them down and Tokyo gets a little quieter!\n　Signal attack orders to all units!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ミヒロ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0012_04:r_20cf167c0ec0d4d5": {
+      "text": "$$レイアム$$\n「Ensign $$ミヒロ$$, where's your readback!?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_b591d812c96c6c99": {
+      "text": "$$ミヒロ$$\n「S-sorry!\n　I got distracted staring at $$ボン太くん#robot$$!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_e350fa099c1ab072": {
+      "text": "$$レイアム$$\n「...Seems the Quarter's bridge is the same...」",
+      "status": "imported"
+    },
+    "stage0012_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffu!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_c33bd700553abf91": {
+      "text": "$$モニカ$$\n「Confirmed, all enemies destroyed.」",
+      "status": "imported"
+    },
+    "stage0012_04:r_feee5c91826230e1": {
+      "text": "$$ジェフリー$$\n「This should take care of the terrorists\n　who had their sights on Tokyo.」",
+      "status": "imported"
+    },
+    "stage0012_04:r_bccc48e1964ad22d": {
+      "text": "$$キャシー$$\n「Ah...$$ボン太くん#robot$$'s leaving!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_f8736aaaa216c766": {
+      "text": "$$ミーナ#120$$\n「$$モニカ$$, did you get photos of $$ボン太くん#robot$$!?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_d1ec2522c87c361d": {
+      "text": "$$モニカ$$\n「Of course!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_3599f0a4343fd95c": {
+      "text": "$$ラム$$\n「Print them out for us later, okay!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_3bc7834a5bf3ee76": {
+      "text": "$$ボビー$$\n「Don't forget mine either!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_366814efdc8b5800": {
+      "text": "$$ジェフリー$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0012_04:r_9be1a4c10bb62515": {
+      "text": "$$ジェフリー$$\n「...Every now and then, this isn't so bad...」",
+      "status": "imported"
+    },
+    "stage0012_04:r_94a88c90e557e16e": {
+      "text": "???\n「Heh heh heh...$$兜甲児$$.\n　Don't think this is over.」",
+      "status": "imported"
+    },
+    "stage0012_04:r_1c208ca0cbf26f28": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffu! Fumo, fumof!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_5b7ee307a700171a": {
+      "text": "$$ボン太くん#pilot$$\n「Fumomo, fumof! Fumomo, mofumo!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_8d8f065c932da30a": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo! Fumofumo, fumomo, mofu!\n　Fumoffu!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_f5432119677514f7": {
+      "text": "$$竜馬$$\n「No matter how times or worlds change,\n　annoying guys like you never change!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_4e5c8e989c4a7691": {
+      "text": "$$竜馬$$\n「But I've got too much fight in me too!\n　I'll take you on, no problem!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_adec86483b13599a": {
+      "text": "$$竜馬$$\n「Let's go, Fumo-suke!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_2cf701bbcde3ec13": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_c17c58fdba72005e": {
+      "text": "$$竜馬$$\n「Heh...you're really fired up!\n　We could make a good team, you and me!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_1fe8564d2b959317": {
+      "text": "$$甲児$$\n「You've got some nerve, ruining our training camp!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_f527e012803f7f1c": {
+      "text": "$$甲児$$\n「In place of the rugby team,\n　I'll finish you off myself!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_4b1247bd3ca4905d": {
+      "text": "$$アルト$$\n「We don't have time to waste on you!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_00c55e25f87b71d0": {
+      "text": "$$アルト$$\n「Let's wrap this up quick,\n　and get back to the camp!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_338f3b27e51dcc41": {
+      "text": "$$正太郎$$\n「Finally cornered you, terrorists!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_d91d4bc2d52b61c4": {
+      "text": "$$正太郎$$\n「Let's go, $$鉄人$$!\n　We'll beat them and protect Tokyo!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_0c8ea89b07432421": {
+      "text": "$$ワッ太$$\n「I've gotta beat you fast and get back to school,\n　or Ms. $$美重子$$ will scold me again!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_4dbfba00ba7744ee": {
+      "text": "$$ワッ太$$\n「Here I come, villains!\n　I'll take out all my make-up-class stress on you!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_be100a32b731708d": {
+      "text": "$$カミーユ$$\n「Still, that odd animal costume...\n　Modified as it may be, it's quite the fighter.」",
+      "status": "imported"
+    },
+    "stage0012_04:r_702f82442fcec8a9": {
+      "text": "$$カミーユ$$\n「...Don't tell me, whoever's wearing that is...」",
+      "status": "imported"
+    },
+    "stage0012_04:r_b1e38da4e8775ffe": {
+      "text": "$$葵$$\n「Guess a new world doesn't get rid of guys like this...\n　Kinda like cockroaches, huh?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$葵$$\n「Then let's do some pest control!\n　Whoever's ready, bring it on!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$キリコ$$\n（That animal...\n　Get fooled by looks and you'll pay for it...）",
+      "status": "imported"
+    },
+    "stage0012_04:r_3dad695c99e9e052": {
+      "text": "$$キリコ$$\n（That thing's basically a small AS now.）",
+      "status": "imported"
+    },
+    "stage0012_04:r_66d4ae3a21caf881": {
+      "text": "$$クルツ$$\n「Boss...!\n　What's inside that costume...」",
+      "status": "imported"
+    },
+    "stage0012_04:r_0c18da7b3a37825d": {
+      "text": "$$マオ$$\n「Yeah, probably him...」",
+      "status": "imported"
+    },
+    "stage0012_04:r_63249745ffae61b6": {
+      "text": "$$クルツ$$\n「Geez, that gloomy sergeant of ours\n　sure pulls off the unimaginable!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_abdb034ae8509702": {
+      "text": "$$スズネ$$\n「...Ah...it flew...\n　It bounced, it tumbled...」",
+      "status": "imported"
+    },
+    "stage0012_04:r_3ff2e21207d1d1d3": {
+      "text": "$$スズネ$$\n「...So cute...」",
+      "status": "imported"
+    },
+    "stage0012_04:r_e51ecf6d6aa42e75": {
+      "text": "$n\n「Miss $$スズネ$$...?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_47ddabb7b60131c2": {
+      "text": "$$スズネ$$\n「I-I wasn't watching $$ボン太くん#robot$$ at all!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_b025267f22788233": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0012_04:r_ec1a06a7023bf72c": {
+      "text": "$$スズネ$$\n「W-what is it, $n?」",
+      "status": "imported"
+    },
+    "stage0012_04:r_8805f96e52aaa462": {
+      "text": "$n\n「Nah...just realized you're a woman too, teacher...」",
+      "status": "imported"
+    },
+    "stage0012_04:r_124591cb154fae64": {
+      "text": "$$スズネ$$\n「Honestly! Quit teasing adults\n　and focus on the battle!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$カツ$$\n「Raaargh, charge!\n　Gung ho! Gung ho! Gung ho!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_4bf9b05b5f948170": {
+      "text": "$$エマ$$\n「K-$$カツ$$...you...」",
+      "status": "imported"
+    },
+    "stage0012_04:r_eaa52d152f444bfd": {
+      "text": "$$マオ$$\n「Sorry, Lieutenant $$エマ$$.\n　Guess he got a little carried away.」",
+      "status": "imported"
+    },
+    "stage0012_04:r_b4bc9e9435b58e6f": {
+      "text": "$$カツ$$\n「You bastards!\n　Show me your guts, all of you!!」",
+      "status": "imported"
+    },
+    "stage0012_04:r_a9227573166977a9": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

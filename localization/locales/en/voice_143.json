@@ -1,0 +1,786 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_143:r_479b340ccc6c572b": {
+      "text": "Let us begin.",
+      "status": "imported"
+    },
+    "voice_143:r_77949221bf58f862": {
+      "text": "Now, how will you respond...?",
+      "status": "imported"
+    },
+    "voice_143:r_70b9c4b9f1f37eff": {
+      "text": "Let's see what you can do...!",
+      "status": "imported"
+    },
+    "voice_143:r_9fcb3754cb1773c7": {
+      "text": "I'll use any means necessary...!",
+      "status": "imported"
+    },
+    "voice_143:r_3559d2fad32c2435": {
+      "text": "There you are!",
+      "status": "imported"
+    },
+    "voice_143:r_f7570547e9f80a64": {
+      "text": "Will this work?!",
+      "status": "imported"
+    },
+    "voice_143:r_cbab0f4720e1fcf1": {
+      "text": "I won't allow it!",
+      "status": "imported"
+    },
+    "voice_143:r_0bbe0b4f5364e732": {
+      "text": "Time to say farewell!",
+      "status": "imported"
+    },
+    "voice_143:r_5dda5198137cb02a": {
+      "text": "I'll shoot you down!",
+      "status": "imported"
+    },
+    "voice_143:r_83ec59afbecdec14": {
+      "text": "Too slow to respond!",
+      "status": "imported"
+    },
+    "voice_143:r_e20bfd42ad95a3c9": {
+      "text": "Sorry, but I can't hold back!",
+      "status": "imported"
+    },
+    "voice_143:r_0f58a8822381e57f": {
+      "text": "I'll grant you a painless death!",
+      "status": "imported"
+    },
+    "voice_143:r_6dbcc507fb61b51d": {
+      "text": "I'll end this in one stroke!",
+      "status": "imported"
+    },
+    "voice_143:r_b42ab697149a7c8a": {
+      "text": "Time for you to leave!",
+      "status": "imported"
+    },
+    "voice_143:r_4de4fcf3b440baf4": {
+      "text": "Neither of us need hold back!",
+      "status": "imported"
+    },
+    "voice_143:r_0121a166c715cdff": {
+      "text": "Read two, three moves ahead!",
+      "status": "imported"
+    },
+    "voice_143:r_30fad37a42bd3ad3": {
+      "text": "Axis, go!\\nTake cursed memories too!",
+      "status": "imported"
+    },
+    "voice_143:r_80a0b2a84e05d81a": {
+      "text": "Axis must fall!",
+      "status": "imported"
+    },
+    "voice_143:r_4a9ac1dff86506d9": {
+      "text": "This will create a just world...!",
+      "status": "imported"
+    },
+    "voice_143:r_bc8538e6af3d2577": {
+      "text": "Hit the mark!",
+      "status": "imported"
+    },
+    "voice_143:r_924516c8de2b5342": {
+      "text": "Dodging won't save you!",
+      "status": "imported"
+    },
+    "voice_143:r_da1174533722333f": {
+      "text": "I don't even need to aim!",
+      "status": "imported"
+    },
+    "voice_143:r_fdeb8162976e72c1": {
+      "text": "Allow me to fire!",
+      "status": "imported"
+    },
+    "voice_143:r_0fadb5c26df92b42": {
+      "text": "You are close...!",
+      "status": "imported"
+    },
+    "voice_143:r_6b15af9a0057cdc8": {
+      "text": "That approach was far too careless!",
+      "status": "imported"
+    },
+    "voice_143:r_15b4a90140e8a33a": {
+      "text": "Your guard is wide open!",
+      "status": "imported"
+    },
+    "voice_143:r_af884a6b11dff121": {
+      "text": "I'll finish you for certain!",
+      "status": "imported"
+    },
+    "voice_143:r_77ca87eacd17ad52": {
+      "text": "Hit!",
+      "status": "imported"
+    },
+    "voice_143:r_aabfb21c9d069ce7": {
+      "text": "Hah!",
+      "status": "imported"
+    },
+    "voice_143:r_a2df00f91a9b0a9e": {
+      "text": "There!",
+      "status": "imported"
+    },
+    "voice_143:r_8927e6fb681aa809": {
+      "text": "Go!",
+      "status": "imported"
+    },
+    "voice_143:r_a571eec59b258d11": {
+      "text": "Tch!",
+      "status": "imported"
+    },
+    "voice_143:r_faae935cca0edc72": {
+      "text": "That's the spot!",
+      "status": "imported"
+    },
+    "voice_143:r_6ff1323b355593e0": {
+      "text": "Here I go!",
+      "status": "imported"
+    },
+    "voice_143:r_719e897304ec42d4": {
+      "text": "Too naive!",
+      "status": "imported"
+    },
+    "voice_143:r_9e6cf4f389dae55c": {
+      "text": "The Red Comet name is no mere boast!",
+      "status": "imported"
+    },
+    "voice_143:r_9e0c80ac7e33b459": {
+      "text": "It's not over yet!",
+      "status": "imported"
+    },
+    "voice_143:r_7432ef43ed3471dc": {
+      "text": "Let's see\\nthis Gundam's power...!",
+      "status": "imported"
+    },
+    "voice_143:r_065443f6ddfcf0d7": {
+      "text": "So we are enemies again, Gundam!",
+      "status": "imported"
+    },
+    "voice_143:r_47d52a2839c71715": {
+      "text": "Hand over Laplace's Box!",
+      "status": "imported"
+    },
+    "voice_143:r_847f82e7f3eef651": {
+      "text": "Unicorn...\\nGundam, key to the Box!",
+      "status": "imported"
+    },
+    "voice_143:r_eb7ae28b53dc033c": {
+      "text": "Unicorn Gundam!\\nShow me that power!",
+      "status": "imported"
+    },
+    "voice_143:r_857c4a52ce8df0fd": {
+      "text": "I need you to do\\nsomething...!",
+      "status": "imported"
+    },
+    "voice_143:r_55417493fce1d347": {
+      "text": "Banagher!\\nYou will become my ally!",
+      "status": "imported"
+    },
+    "voice_143:r_8fdf5910927c9591": {
+      "text": "So you come, Banagher Links...!",
+      "status": "imported"
+    },
+    "voice_143:r_7d724dbcc4451e10": {
+      "text": "The system consumed you, Banagher!",
+      "status": "imported"
+    },
+    "voice_143:r_93e25418a203cb8f": {
+      "text": "Newtype killer.\\nNT-D has activated!",
+      "status": "imported"
+    },
+    "voice_143:r_adeb0a29274d3d9b": {
+      "text": "Fate binds us, Amuro Ray...!",
+      "status": "imported"
+    },
+    "voice_143:r_24cf161287ef9d5c": {
+      "text": "Again you oppose me, Amuro Ray...!",
+      "status": "imported"
+    },
+    "voice_143:r_8f60f6fc86db3107": {
+      "text": "Heart's light...\\nIt starts it all!",
+      "status": "imported"
+    },
+    "voice_143:r_b1de76a75a253c13": {
+      "text": "I cannot dismiss you, Londo Bell...!",
+      "status": "imported"
+    },
+    "voice_143:r_128c35bf3e0e394c": {
+      "text": "Stand down quietly, Londo Bell!",
+      "status": "imported"
+    },
+    "voice_143:r_5213c17e13b23de0": {
+      "text": "You fake White Base...!",
+      "status": "imported"
+    },
+    "voice_143:r_38fdff9483e9245c": {
+      "text": "Even Kamille Bidan cannot stop me!",
+      "status": "imported"
+    },
+    "voice_143:r_620fedec67706d7d": {
+      "text": "There need only be one Red Comet...!",
+      "status": "imported"
+    },
+    "voice_143:r_9680dcd0fddcfcc7": {
+      "text": "If I erase Char Aznable,\\nthen I...!",
+      "status": "imported"
+    },
+    "voice_143:r_2a00f1044ad5cbaa": {
+      "text": "This outcome was inevitable...!",
+      "status": "imported"
+    },
+    "voice_143:r_3dbeead1bd3164ef": {
+      "text": "Mercy for an old ally... One blow!",
+      "status": "imported"
+    },
+    "voice_143:r_98d15b8cc09bc915": {
+      "text": "An aimless Gundam\\nis beneath me...!",
+      "status": "imported"
+    },
+    "voice_143:r_cdbd128a5b4127cc": {
+      "text": "Other origin, still Gundam.\\nAgain?",
+      "status": "imported"
+    },
+    "voice_143:r_a007f9ab9cf048b3": {
+      "text": "World reformer...\\nReduced to this?",
+      "status": "imported"
+    },
+    "voice_143:r_ddafde4b065ced49": {
+      "text": "So young, yet rushing to death...?",
+      "status": "imported"
+    },
+    "voice_143:r_de1213040856c089": {
+      "text": "I see... A fine young man has grown.",
+      "status": "imported"
+    },
+    "voice_143:r_3304412ac41f47a6": {
+      "text": "This feeling, this pressure...!",
+      "status": "imported"
+    },
+    "voice_143:r_0c0775e051211840": {
+      "text": "That armor is tough, but beatable!",
+      "status": "imported"
+    },
+    "voice_143:r_a2afffe1c396f0b3": {
+      "text": "Read the path,\\nand speed is useless!",
+      "status": "imported"
+    },
+    "voice_143:r_13c25fbdfddc8a24": {
+      "text": "I won't take a minor foe lightly...!",
+      "status": "imported"
+    },
+    "voice_143:r_42ba1ecb310b4bd7": {
+      "text": "A battle between commanders, then!",
+      "status": "imported"
+    },
+    "voice_143:r_d692f1d420460a47": {
+      "text": "I'll crush your tactical core...!",
+      "status": "imported"
+    },
+    "voice_143:r_a5643cec86b18bd2": {
+      "text": "I'll sink your mothership first!",
+      "status": "imported"
+    },
+    "voice_143:r_68f2dfab20a4a30e": {
+      "text": "Anti-ship combat is my specialty...!",
+      "status": "imported"
+    },
+    "voice_143:r_9cedad8237480563": {
+      "text": "I regret this, but...!",
+      "status": "imported"
+    },
+    "voice_143:r_a03fabecba1508ca": {
+      "text": "I'll end this here!",
+      "status": "imported"
+    },
+    "voice_143:r_5391b24a71eb10ae": {
+      "text": "Fall!",
+      "status": "imported"
+    },
+    "voice_143:r_a554ceef5c87b972": {
+      "text": "Unlucky for you to encounter me...!",
+      "status": "imported"
+    },
+    "voice_143:r_546c3d5937fbb7ee": {
+      "text": "I, too, am called the Red Comet...!",
+      "status": "imported"
+    },
+    "voice_143:r_1568ff6298b12b96": {
+      "text": "I shall do it!",
+      "status": "imported"
+    },
+    "voice_143:r_2c9d94ba13c5fc50": {
+      "text": "This is... the end!",
+      "status": "imported"
+    },
+    "voice_143:r_a77f4913375098d2": {
+      "text": "Curse the misfortune of your birth.",
+      "status": "imported"
+    },
+    "voice_143:r_eb643f8bf737a0ca": {
+      "text": "Next, I attack!",
+      "status": "imported"
+    },
+    "voice_143:r_0a3fccb71ec6cf2a": {
+      "text": "Then allow me to counterattack!",
+      "status": "imported"
+    },
+    "voice_143:r_9b63cf1f3e0207ef": {
+      "text": "I cannot let that pass!",
+      "status": "imported"
+    },
+    "voice_143:r_8356f4e3dcdff938": {
+      "text": "Retreat too late, and this happens!",
+      "status": "imported"
+    },
+    "voice_143:r_1d6d784036ae0bd7": {
+      "text": "You've revealed your position...!",
+      "status": "imported"
+    },
+    "voice_143:r_625664af02183c17": {
+      "text": "You attacked, so I'll repay in kind!",
+      "status": "imported"
+    },
+    "voice_143:r_3701cba361f80ea5": {
+      "text": "I can't allow more interference!",
+      "status": "imported"
+    },
+    "voice_143:r_63f429c5c68c0863": {
+      "text": "This is what impatience gets you!",
+      "status": "imported"
+    },
+    "voice_143:r_38e4a434c91d8ef0": {
+      "text": "Allow me to provide support!",
+      "status": "imported"
+    },
+    "voice_143:r_98ed411352a3a6ac": {
+      "text": "This is another way to do it!",
+      "status": "imported"
+    },
+    "voice_143:r_4824bea6bab3af67": {
+      "text": "Don't call it meddling, Angelo.",
+      "status": "imported"
+    },
+    "voice_143:r_862b92e63adb9734": {
+      "text": "I've seen the Guard's handiwork.",
+      "status": "imported"
+    },
+    "voice_143:r_cb306ef55e49d107": {
+      "text": "Garencieres team, I'll take over.",
+      "status": "imported"
+    },
+    "voice_143:r_57b2bd2de8a1408d": {
+      "text": "Witness the Red Comet team-up...!",
+      "status": "imported"
+    },
+    "voice_143:r_76f080a4881e8ab5": {
+      "text": "Commander, leave the rest to me.",
+      "status": "imported"
+    },
+    "voice_143:r_288133bc5b573dae": {
+      "text": "As expected of you, Haman Karn.",
+      "status": "imported"
+    },
+    "voice_143:r_6f95653e548f8fcf": {
+      "text": "This too is my duty...!",
+      "status": "imported"
+    },
+    "voice_143:r_d249d68bada91ab9": {
+      "text": "Looks like I must take the lead!",
+      "status": "imported"
+    },
+    "voice_143:r_e9b3307e9eb69f11": {
+      "text": "This isn't like you, Angelo!",
+      "status": "imported"
+    },
+    "voice_143:r_03cdac73042343ee": {
+      "text": "Personal Guard, fall back!",
+      "status": "imported"
+    },
+    "voice_143:r_6026da5acbda7c69": {
+      "text": "You all\\nstill have work to do...!",
+      "status": "imported"
+    },
+    "voice_143:r_981f8fedd5414fe5": {
+      "text": "Char Aznable...! Even so...!",
+      "status": "imported"
+    },
+    "voice_143:r_96bb0dcde0c8c44a": {
+      "text": "This is the role I must play...!",
+      "status": "imported"
+    },
+    "voice_143:r_641550a2f54cb456": {
+      "text": "Haman Karn! Fall back!",
+      "status": "imported"
+    },
+    "voice_143:r_a0f2074af8debbfa": {
+      "text": "Not good... I missed my counter.",
+      "status": "imported"
+    },
+    "voice_143:r_b5f5a97ed82acb0b": {
+      "text": "How could I be outmaneuvered so...!",
+      "status": "imported"
+    },
+    "voice_143:r_d9cd2e4ded064396": {
+      "text": "Quite cunning...! A formidable foe!",
+      "status": "imported"
+    },
+    "voice_143:r_99e6349431aaf23b": {
+      "text": "Have they read my every move...?",
+      "status": "imported"
+    },
+    "voice_143:r_ec1081caf845f56a": {
+      "text": "Did I push the Sinanju too hard...?",
+      "status": "imported"
+    },
+    "voice_143:r_2c5b7ee872c1ed7f": {
+      "text": "That won't be enough to catch me!",
+      "status": "imported"
+    },
+    "voice_143:r_76d1e51c8b494a60": {
+      "text": "This much takes no conscious effort!",
+      "status": "imported"
+    },
+    "voice_143:r_eb5f687fcd372ae7": {
+      "text": "Your bloodlust is too obvious...!",
+      "status": "imported"
+    },
+    "voice_143:r_2329428a6871d9fa": {
+      "text": "That attack will never hit me!",
+      "status": "imported"
+    },
+    "voice_143:r_0e7466971bec4cc4": {
+      "text": "I must show them how it's done...!",
+      "status": "imported"
+    },
+    "voice_143:r_efa71f7a4cc33ff3": {
+      "text": "Your windup is far too obvious!",
+      "status": "imported"
+    },
+    "voice_143:r_3fc2e1186557e7a0": {
+      "text": "I must answer\\ntheir hopes...!",
+      "status": "imported"
+    },
+    "voice_143:r_fa6930340a545054": {
+      "text": "I also have to set an example!",
+      "status": "imported"
+    },
+    "voice_143:r_2332b9d56461d7ab": {
+      "text": "Called Red Comet.\\nI won't be hit!",
+      "status": "imported"
+    },
+    "voice_143:r_854aa0a91a3c80d1": {
+      "text": "You can hardly call that a Gundam.",
+      "status": "imported"
+    },
+    "voice_143:r_0bc8ae32a406ceab": {
+      "text": "No more falling\\nbehind a Gundam!",
+      "status": "imported"
+    },
+    "voice_143:r_82c09f011d703b2c": {
+      "text": "Laplace's Box... Almost in my grasp.",
+      "status": "imported"
+    },
+    "voice_143:r_2b4d8818c77b6dca": {
+      "text": "Banagher, resist me a little more.",
+      "status": "imported"
+    },
+    "voice_143:r_087354f2db0a31e6": {
+      "text": "Know the power gap,\\nBanagher Links.",
+      "status": "imported"
+    },
+    "voice_143:r_db02a2dec93dd263": {
+      "text": "The system\\nwill not kill me!",
+      "status": "imported"
+    },
+    "voice_143:r_d520c6d5298a848d": {
+      "text": "You mean to test me, Amuro Ray...!",
+      "status": "imported"
+    },
+    "voice_143:r_099e2458cabf796f": {
+      "text": "Now even Amuro Ray\\nis beneath me...!",
+      "status": "imported"
+    },
+    "voice_143:r_fd910d714be70870": {
+      "text": "How far Londo Bell has fallen...!",
+      "status": "imported"
+    },
+    "voice_143:r_9736f29b11344ec3": {
+      "text": "That pressure...\\nA disappointment!",
+      "status": "imported"
+    },
+    "voice_143:r_fcd05582aa5c6068": {
+      "text": "I shall inherit the name Red Comet.",
+      "status": "imported"
+    },
+    "voice_143:r_bece29562818acba": {
+      "text": "Is that all, Char Aznable...!",
+      "status": "imported"
+    },
+    "voice_143:r_494b5da92ed24ecb": {
+      "text": "When true to your heart,\\nI liked you",
+      "status": "imported"
+    },
+    "voice_143:r_a4a5a96f4bd58920": {
+      "text": "Heavy armor has made you sloppy.",
+      "status": "imported"
+    },
+    "voice_143:r_b57d2d74233f889a": {
+      "text": "Speed alone cannot catch up to me!",
+      "status": "imported"
+    },
+    "voice_143:r_cd06d0820d82524b": {
+      "text": "Less agile,\\nbut superior overall...!",
+      "status": "imported"
+    },
+    "voice_143:r_c7f4280cde4605b3": {
+      "text": "That won't work on me!",
+      "status": "imported"
+    },
+    "voice_143:r_ec349c8ea9511a18": {
+      "text": "You can't break through my field.",
+      "status": "imported"
+    },
+    "voice_143:r_689d0b123de71ae0": {
+      "text": "A shield has its uses...!",
+      "status": "imported"
+    },
+    "voice_143:r_84883aa95f63ce32": {
+      "text": "I don't intend to rely on a shield!",
+      "status": "imported"
+    },
+    "voice_143:r_25493e978ce8ff16": {
+      "text": "Oh, well done!",
+      "status": "imported"
+    },
+    "voice_143:r_7316666150e42960": {
+      "text": "It only grazed me!",
+      "status": "imported"
+    },
+    "voice_143:r_c4f11aa93dc5b668": {
+      "text": "You actually hit me!",
+      "status": "imported"
+    },
+    "voice_143:r_ce1a22dfe3a4d339": {
+      "text": "Was I too slow to evade...!",
+      "status": "imported"
+    },
+    "voice_143:r_240651adab81e145": {
+      "text": "They took the initiative...!",
+      "status": "imported"
+    },
+    "voice_143:r_cff0deaae73c2858": {
+      "text": "Did they sense my hesitation...!",
+      "status": "imported"
+    },
+    "voice_143:r_dca67f68a573fab7": {
+      "text": "Too simple, and thus\\nunreadable...!",
+      "status": "imported"
+    },
+    "voice_143:r_a6630215fefaf294": {
+      "text": "No time\\nto deal with just you...!",
+      "status": "imported"
+    },
+    "voice_143:r_6f94566ad37f8ff8": {
+      "text": "Angelo may weep to see this!",
+      "status": "imported"
+    },
+    "voice_143:r_942ca03c9de80143": {
+      "text": "A direct hit?! Impressive!",
+      "status": "imported"
+    },
+    "voice_143:r_d8c669c70659e18a": {
+      "text": "Was this outcome my mistake...?!",
+      "status": "imported"
+    },
+    "voice_143:r_8f5bade7ac2db78e": {
+      "text": "You read one move beyond me...?!",
+      "status": "imported"
+    },
+    "voice_143:r_05ea490d2f522520": {
+      "text": "You are remarkably persistent...!",
+      "status": "imported"
+    },
+    "voice_143:r_f5658c702d91db7a": {
+      "text": "Those are no ordinary movements...!",
+      "status": "imported"
+    },
+    "voice_143:r_686df329b50f195b": {
+      "text": "Ngh! Are you my equal, or even...!",
+      "status": "imported"
+    },
+    "voice_143:r_25f0ab0fa3cf690c": {
+      "text": "Such skill...!\\nBeyond my Guard...?",
+      "status": "imported"
+    },
+    "voice_143:r_b708a1d959013dbf": {
+      "text": "Red Comet's name\\nwill bear no stain!",
+      "status": "imported"
+    },
+    "voice_143:r_59fca03e929366c1": {
+      "text": "Are you in my way again, Gundam...?",
+      "status": "imported"
+    },
+    "voice_143:r_0d65eb631dcb7514": {
+      "text": "Gundam...! Forever in my way...!",
+      "status": "imported"
+    },
+    "voice_143:r_d03018a31e23f1e9": {
+      "text": "Beyond fate, you bar me,\\nGundam...!",
+      "status": "imported"
+    },
+    "voice_143:r_279da5f732aa8847": {
+      "text": "Unicorn Gundam...!\\nSo powerful...!",
+      "status": "imported"
+    },
+    "voice_143:r_97f82e3cb6f70110": {
+      "text": "Banagher!\\nBeyond what I expected!",
+      "status": "imported"
+    },
+    "voice_143:r_c5611d8dd6def96b": {
+      "text": "I underestimated Banagher Links...?!",
+      "status": "imported"
+    },
+    "voice_143:r_6f12cc8ed2732eb5": {
+      "text": "Ngh...! This is\\nNewtype Destroyer!",
+      "status": "imported"
+    },
+    "voice_143:r_7abfc55f8fb62ba7": {
+      "text": "Amuro Ray...! I cannot lose to you!",
+      "status": "imported"
+    },
+    "voice_143:r_99e7a66c650b5892": {
+      "text": "I'll stop you here, Amuro Ray!",
+      "status": "imported"
+    },
+    "voice_143:r_5b2247b5cfbcd7b2": {
+      "text": "As expected of Londo Bell! But...!",
+      "status": "imported"
+    },
+    "voice_143:r_2d7a9c06347582d9": {
+      "text": "Me, overwhelmed\\nby pressure...?!",
+      "status": "imported"
+    },
+    "voice_143:r_bf953d64c3c7d9b7": {
+      "text": "Now that is the Red Comet...! But!",
+      "status": "imported"
+    },
+    "voice_143:r_e09b933e3e706779": {
+      "text": "Char Aznable!\\nI too must not lose!",
+      "status": "imported"
+    },
+    "voice_143:r_66236eb99b676e5b": {
+      "text": "You're stronger than before...?!",
+      "status": "imported"
+    },
+    "voice_143:r_9639a2dbcd2f58ed": {
+      "text": "Vast power...!\\nAnd its pilot!",
+      "status": "imported"
+    },
+    "voice_143:r_aeea0893acb93d35": {
+      "text": "Maneuvers beyond my predictions...!",
+      "status": "imported"
+    },
+    "voice_143:r_b31568654e53487b": {
+      "text": "I never took you for a weakling...!",
+      "status": "imported"
+    },
+    "voice_143:r_5508a7bfa9074eb9": {
+      "text": "Tch...! You went this far...!",
+      "status": "imported"
+    },
+    "voice_143:r_09a003e91f0d5dc7": {
+      "text": "Is the machine nearing its limit...?",
+      "status": "imported"
+    },
+    "voice_143:r_192447448ebd7bb5": {
+      "text": "No time to assess the damage...!",
+      "status": "imported"
+    },
+    "voice_143:r_e92920ba4b301b9f": {
+      "text": "A foe who can corner even me...?",
+      "status": "imported"
+    },
+    "voice_143:r_207b256d613bb896": {
+      "text": "The next move will decide this...!",
+      "status": "imported"
+    },
+    "voice_143:r_a6fd676d8146501b": {
+      "text": "I have my standing...!\\nNo disgrace!",
+      "status": "imported"
+    },
+    "voice_143:r_94d35e5fa8e3a198": {
+      "text": "One Beam hit\\ncould turn the tide...!",
+      "status": "imported"
+    },
+    "voice_143:r_b686510e636673f3": {
+      "text": "The Red Comet\\nwill not fall easily!",
+      "status": "imported"
+    },
+    "voice_143:r_59369bad143d4272": {
+      "text": "This shames the Red Comet's name...",
+      "status": "imported"
+    },
+    "voice_143:r_25f9b1e39dd8d366": {
+      "text": "The monitor is dead...!",
+      "status": "imported"
+    },
+    "voice_143:r_307477bedd148060": {
+      "text": "A disgrace...! I have to withdraw!",
+      "status": "imported"
+    },
+    "voice_143:r_09a780acca0eb4b0": {
+      "text": "Full Frontal, this is unlike you...!",
+      "status": "imported"
+    },
+    "voice_143:r_af62f2ee466b5c8c": {
+      "text": "Well fought. Your foe salutes you.",
+      "status": "imported"
+    },
+    "voice_143:r_20cfb719db02fafd": {
+      "text": "No praise from a mortal foe, then?",
+      "status": "imported"
+    },
+    "voice_143:r_570c1fdf72edb283": {
+      "text": "Good reflexes, but also reckless.",
+      "status": "imported"
+    },
+    "voice_143:r_23f0d87a5a6cfca1": {
+      "text": "I await our map duel, worthy rival.",
+      "status": "imported"
+    },
+    "voice_143:r_60c94ea4eb7f7404": {
+      "text": "By then, you'll know my true intent.",
+      "status": "imported"
+    },
+    "voice_143:r_727b2ee0277f9159": {
+      "text": "Axis, go!\\nTake cursed memories too!",
+      "status": "imported"
+    },
+    "voice_143:r_f4ff463b2fda1b86": {
+      "text": "I must show I can do it...!",
+      "status": "imported"
+    },
+    "voice_143:r_4e63c037d3cb8a3d": {
+      "text": "Allow me to clear the way...!",
+      "status": "imported"
+    },
+    "voice_143:r_9ca8d188ae805e3a": {
+      "text": "We'll tackle this together!",
+      "status": "imported"
+    },
+    "voice_143:r_795ed21f3e28e1f5": {
+      "text": "You will face me!",
+      "status": "imported"
+    },
+    "voice_143:r_141415c1def5ab2d": {
+      "text": "One unit is easily dealt with!",
+      "status": "imported"
+    },
+    "voice_143:r_c894e35becf35a03": {
+      "text": "I will live up to expectations!",
+      "status": "imported"
+    }
+  }
+}

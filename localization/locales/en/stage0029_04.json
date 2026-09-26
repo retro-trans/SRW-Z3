@@ -1,0 +1,946 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0029_04:r_caaab7bad760e16d": {
+      "text": "$$オズマ$$\n「That's the Nerima Red Dragon」",
+      "status": "imported"
+    },
+    "stage0029_04:r_99b162aa6aa286a2": {
+      "text": "$$マオ$$\n「They seem well trained.\n　No gaps in how the units coordinate」",
+      "status": "imported"
+    },
+    "stage0029_04:r_58fb02434a1c40b2": {
+      "text": "$$クルツ$$\n「Oh! Their captain,\n　is about to give a speech!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_1c0f94acd5a8a143": {
+      "text": "Akagi\n「Hello, everyone who's come out today.\n　I'm $$赤城龍之介$$, captain of the Nerima Red Dragon!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_1263541f4071624e": {
+      "text": "$$赤城$$\n「Now, I'll show you all\n　the Nerima Red Dragon's\n　magnificent tactics」",
+      "status": "imported"
+    },
+    "stage0029_04:r_3bc300bbdc277d82": {
+      "text": "$$赤城$$\n「Battle means always reading two or three moves ahead.\n　And a difference in machine spec\n　isn't what decides the fight」",
+      "status": "imported"
+    },
+    "stage0029_04:r_38762a09460d8b6b": {
+      "text": "$$アムロ$$\n「Hm?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_7ab28e70b4d4f641": {
+      "text": "$$赤城$$\n「When the reckless fool who challenges us\n　asks the reason for their own defeat, I'll answer like this」",
+      "status": "imported"
+    },
+    "stage0029_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$赤城$$\n「Because he's just a kid, I'll say!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_ec335e69f984b8b3": {
+      "text": "$$リディ$$\n「That's a weird speech somehow」",
+      "status": "imported"
+    },
+    "stage0029_04:r_0abcaf0c31978670": {
+      "text": "$$エマ$$\n「Sounds like he's forcing his lines together,\n　into something that barely passes for a speech」",
+      "status": "imported"
+    },
+    "stage0029_04:r_1d6bc48b7f246730": {
+      "text": "$$オードリー$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0029_04:r_1af20fccc3c53cfc": {
+      "text": "$$カミーユ$$\n「$$アムロ$$... could that be him...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_f951916061232dcd": {
+      "text": "$$アムロ$$\n「Don't say it...!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_4d863c3fb88a4c39": {
+      "text": "$$カミーユ$$\n「But...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_44f4742c3dcce39a": {
+      "text": "$$アムロ$$\n「Don't say anything...!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_9e701cdeb3842c21": {
+      "text": "$$カミーユ$$\n「Haah...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_6fd81f4abebe60c5": {
+      "text": "$$赤城$$\n「Seems our opponents have arrived!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_da2132b5038ec737": {
+      "text": "$$谷川$$\n「Get him, $$赤木$$!\n　Show them $$２１世紀警備保障$$'s pride!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_495d61d3ec7e16f2": {
+      "text": "$$中原$$\n「Go, $$いぶき$$! You too, $$青山$$!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_5cd353758cfe474d": {
+      "text": "$$佐伯$$\n「It's all right, $$赤木$$!\n　Follow my instructions and we're sure to win!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_a653c8dec4c0f06f": {
+      "text": "$$ミサト$$\n「Come on, $$シンジ$$!\n　You have to cheer for $$赤木$$!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_86d493e37a9799a7": {
+      "text": "$$シンジ$$\n「Y, yes!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_09d0fcc600cdd3df": {
+      "text": "$$赤城$$\n「So you've come, Akaten!\n　Is that M6 your wingman!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_182faded068c15ed": {
+      "text": "$$赤木$$\n「Ah, ah...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_9c206d19bfda4bd5": {
+      "text": "$$いぶき$$\n（Is $$宗介$$'s side really all right?）",
+      "status": "imported"
+    },
+    "stage0029_04:r_6e558bc69acf5bf3": {
+      "text": "$$青山$$\n（It's a battle with dummy rounds,\n　so there shouldn't be any danger）",
+      "status": "imported"
+    },
+    "stage0029_04:r_d60d0818e965232f": {
+      "text": "$$かなめ$$\n（W, wait, Sousuke...!\n　Are you serious!?）",
+      "status": "imported"
+    },
+    "stage0029_04:r_5b23687574286204": {
+      "text": "$$宗介$$\n（No problem.\n　This M6 is Far East branch spec: it has two seats）",
+      "status": "imported"
+    },
+    "stage0029_04:r_6fd86c96891ea942": {
+      "text": "$$かなめ$$\n（That's not what I meant...!）",
+      "status": "imported"
+    },
+    "stage0029_04:r_43e4e548c0b28376": {
+      "text": "$$宗介$$\n（You doubted my skill as a professional.\n　So you have a duty to see the truth yourself）",
+      "status": "imported"
+    },
+    "stage0029_04:r_d80a9688790ed583": {
+      "text": "$$かなめ$$\n（F, fine, I get it）",
+      "status": "imported"
+    },
+    "stage0029_04:r_708bea61e3c43ada": {
+      "text": "$$かなめ$$\n（But if we're doing this, we're winning for sure!\n　For $$風間$$'s sake too!）",
+      "status": "imported"
+    },
+    "stage0029_04:r_7b6f159eeaf4de0f": {
+      "text": "$$宗介$$\n（Understood）",
+      "status": "imported"
+    },
+    "stage0029_04:r_0827963cfd706e8d": {
+      "text": "$$ミサト$$\n「The big showdown, $$赤木$$ vs $$赤木$$!\n　If I'd called our $$リツコ$$ too,\n　it'd have been a three way brawl, what a shame!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$シンジ$$\n「$$ミサト$$... you're drunk again, aren't you」",
+      "status": "imported"
+    },
+    "stage0029_04:r_3f4035fd9db81258": {
+      "text": "$$ミサト$$\n「It's a festival, after all.\n　Not drinking would be a waste」",
+      "status": "imported"
+    },
+    "stage0029_04:r_567b361a454c4b73": {
+      "text": "$$シンジ$$\n「Sigh...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_d22851aaafbbf8fc": {
+      "text": "$$バナージ$$\n「Sorry, $$オードリー$$...!\n　I'm late!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_352534f64413d954": {
+      "text": "$$アマタ$$\n「The crepe stand was packed,\n　so I got this instead」",
+      "status": "imported"
+    },
+    "stage0029_04:r_79f2664edb1af798": {
+      "text": "$$オードリー$$\n「What is this?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$バナージ$$\n「They're called takoyaki.\n　Apparently a traditional Japanese soul food」",
+      "status": "imported"
+    },
+    "stage0029_04:r_1c5aa0d15ae24846": {
+      "text": "$$オードリー$$\n「Takoyaki...!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_53bb64ee17750ee2": {
+      "text": "$$飯塚$$\n「Now then, I'll explain the rules.\n　Each side's territory has a point set」",
+      "status": "imported"
+    },
+    "stage0029_04:r_7a7add80fde475ba": {
+      "text": "$$飯塚$$\n「Whoever seizes the enemy's point,\n　or disables 50% of their force first, wins」",
+      "status": "imported"
+    },
+    "stage0029_04:r_b2befefdbed1393d": {
+      "text": "$$甲児$$\n「50%, huh. So for us, that means\n　if either one goes down, we lose!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_2103f6df2ea2e447": {
+      "text": "$$竜馬$$\n「This oughta be good.\n　So what'll it be, $$赤木$$, $$宗介$$?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_a12e3e130d896ff7": {
+      "text": "$$いぶき$$\n「Hold on!\n　Those terms are unfair to us!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_b6f7b219eb4bd64b": {
+      "text": "$$赤木$$\n「It's fine, $$いぶき$$!\n　Neither me nor $$宗介$$ will ever lose!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_91bf33c27ad39f0a": {
+      "text": "$$青山$$\n「Easy for you to say, but if we lose,\n　it drags the company's name through the mud」",
+      "status": "imported"
+    },
+    "stage0029_04:r_ee220318b96ab538": {
+      "text": "$$いぶき$$\n「And then a pay cut is guaranteed!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_ce1b55e526b6277a": {
+      "text": "$$赤木$$\n「Guh...!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_c304df6888eb78f7": {
+      "text": "$$赤城$$\n「Too late for regrets, Akaten!\n　You civilians should've just stayed quiet!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_c26958634526e597": {
+      "text": "$$赤木$$\n「Who says I'm regretting anything!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_cdb750c9d380881a": {
+      "text": "$$赤木$$\n「Here we go, Nerima radish!\n　I'll show you that even\n　a salaryman can protect the peace!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_95fda74613c97b39": {
+      "text": "$$赤城$$\n「Impossible!\n　The Nerima Red Dragon, defeated!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_1956994937f8171e": {
+      "text": "$$赤城$$\n「Damn it!\n　Is $$２１世紀警備保障$$'s robot a monster!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_48f49f6728c15612": {
+      "text": "$$赤木$$\n「See that, Red Dragon!\n　Lose to Akaten and you're the one who flunks!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$赤城$$\n「...I don't want to admit it...\n　that this is a mistake born of my own youth...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_f02c37d91387d0ad": {
+      "text": "$$カミーユ$$\n「That line, too...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$アムロ$$\n「Don't say it!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_9796b3efa401a303": {
+      "text": "$$赤城$$\n「Impossible!\n　This Red Dragon, defeated!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_643b6eebfc0186b3": {
+      "text": "$$赤城$$\n「Damn it!\n　Is $$２１世紀警備保障$$'s robot a monster!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_291280e5f7eb9d70": {
+      "text": "$$赤木$$\n「See that, Red Dragon!\n　Lose to Akaten and you're the one who flunks!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_32eb462c1b4999cb": {
+      "text": "$$赤城$$\n「...I don't want to admit it...\n　that this is a mistake born of my own youth...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_1f4337d6d393fc37": {
+      "text": "$$カミーユ$$\n「That line, too...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_4740e748fae085ee": {
+      "text": "$$アムロ$$\n「Don't say it!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_b76524cd840e1d37": {
+      "text": "$$赤木$$\n「All right!\n　I've taken the point!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_730ffe18400abfc2": {
+      "text": "$$赤城$$\n「Impossible!\n　This Red Dragon, defeated!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_ffe0fca26da5cd38": {
+      "text": "$$赤城$$\n「Damn it!\n　Is $$２１世紀警備保障$$'s robot a monster!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_bfb27f9eb2f7073e": {
+      "text": "$$赤木$$\n「See that, Red Dragon!\n　Lose to Akaten and you're the one who flunks!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_859dfa27bcaafe30": {
+      "text": "$$赤城$$\n「...I don't want to admit it...\n　that this is a mistake born of my own youth...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_71ebf05996a4b0fd": {
+      "text": "$$カミーユ$$\n「That line, too...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_6214c11b1bca811e": {
+      "text": "$$アムロ$$\n「Don't say it!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_8eaf6f3098ffed12": {
+      "text": "$$かなめ$$\n「Kyaa!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_cf507214fe955d75": {
+      "text": "$$青山$$\n「These are live rounds!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_2113dcbabdfc758a": {
+      "text": "$$いぶき$$\n「Look at that!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$桂$$\n「That black Axio!\n　Is that the 《$$ファイヤバグ$$》!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_6a74519e1fc29c4b": {
+      "text": "$$クルツ$$\n「This is bad!\n　That Balarant's got $$ＰＳ$$ too!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_5b992878fee054b5": {
+      "text": "Firebug Trooper\n「Good, we're in combat range.\n　All units, your targets are clear?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$カン・ユー$$\n「Damn it... why do I have to\n　help out with a kidnapping...!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_4a14ec0c511c7f0d": {
+      "text": "Firebug Trooper\n「You've no right to complain.\n　Don't forget the debt for being picked up, $$カン・ユー$$」",
+      "status": "imported"
+    },
+    "stage0029_04:r_20cf167c0ec0d4d5": {
+      "text": "$$カン・ユー$$\n「I know that!\n　With this $$エクルビス$$, taken from Balarant\n　as severance pay, I'll show my true skill!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_b591d812c96c6c99": {
+      "text": "$$カレン$$\n「Is that $$カン・ユー$$ piloting that AT!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_e350fa099c1ab072": {
+      "text": "$$Ｃ．Ｃ．$$\n「Seems he's still after $$キリコ$$, even now」",
+      "status": "imported"
+    },
+    "stage0029_04:r_fb05d8e5f1ee93e5": {
+      "text": "Firebug Trooper\n「Now then, there's only one target...!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_c33bd700553abf91": {
+      "text": "Firebug Trooper\n「We already looked into it!\n　That girl is our new $$姫$$!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_feee5c91826230e1": {
+      "text": "$$クラン$$\n「Looks like the enemy's after the M6!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_bccc48e1964ad22d": {
+      "text": "$$アルト$$\n「They mean to kidnap $$かなめ$$!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_f8736aaaa216c766": {
+      "text": "$$宗介$$\n「Damn terrorists...!\n　To strike at a time like this...!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_d1ec2522c87c361d": {
+      "text": "$$かなめ$$\n「S, Sousuke!\n　You're a professional, right!\n　You can beat guys like that easy, right!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_3599f0a4343fd95c": {
+      "text": "$$宗介$$\n「I am indeed a professional,\n　but I'm no war movie hero.\n　Protecting you and winning unscathed is impossible」",
+      "status": "imported"
+    },
+    "stage0029_04:r_3bc7834a5bf3ee76": {
+      "text": "$$かなめ$$\n「I, I'll be fine, so don't worry!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_366814efdc8b5800": {
+      "text": "$$宗介$$\n「No, Chidori.\n　I fight in order to protect you.\n　I can't do anything that puts you in danger」",
+      "status": "imported"
+    },
+    "stage0029_04:r_9be1a4c10bb62515": {
+      "text": "$$かなめ$$\n「$$宗介$$...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_94a88c90e557e16e": {
+      "text": "$$青山$$\n「This is bad!\n　Even $$宗介$$ can't fight in an AS\n　loaded with only dummy rounds!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_1c208ca0cbf26f28": {
+      "text": "$$赤木$$\n「But if we can't draw their eyes away somehow,\n　we can't even withdraw!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_5b7ee307a700171a": {
+      "text": "Narashino Base Trooper\n「All units, begin the attack!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_8d8f065c932da30a": {
+      "text": "$$赤城$$\n「That's...!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_f5432119677514f7": {
+      "text": "$$風間$$\n「It's Narashino Base's AS unit!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_4e5c8e989c4a7691": {
+      "text": "Narashino Base Trooper\n「We'll hold the enemy back!\n　Nerima Red Dragon, fall back!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_adec86483b13599a": {
+      "text": "$$赤城$$\n「Not yet, this isn't over!\n　I can still fight with only dummy rounds!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_2cf701bbcde3ec13": {
+      "text": "Narashino Base Trooper\n「Don't lose sight of a soldier's duty!\n　I won't allow a suicide charge before civilians!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_c17c58fdba72005e": {
+      "text": "$$赤城$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_1fe8564d2b959317": {
+      "text": "$$赤木$$\n「Red Dragon!\n　Even without fighting, there's still something to do!\n　So go and do it!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_f527e012803f7f1c": {
+      "text": "$$赤城$$\n「I... let myself drown in combat skill,\n　and lost sight of a soldier's duty...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_4b1247bd3ca4905d": {
+      "text": "$$赤城$$\n「My thanks to Narashino Base's AS unit\n　and to Mr. $$赤木駿介$$ for showing me that!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_00c55e25f87b71d0": {
+      "text": "$$赤城$$\n「Nerima Red Dragon, fall back!\n　We'll guide the civilians to evacuate!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_338f3b27e51dcc41": {
+      "text": "$$青山$$\n「$$宗介$$! Fall back too while you still can!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_d91d4bc2d52b61c4": {
+      "text": "$$宗介$$\n「Understood」",
+      "status": "imported"
+    },
+    "stage0029_04:r_0c8ea89b07432421": {
+      "text": "Firebug Trooper\n「Let the new $$姫$$ get away!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_4dbfba00ba7744ee": {
+      "text": "$$赤木$$\n「This is bad!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_be100a32b731708d": {
+      "text": "$$宗介$$\n「Pilot $$赤木$$!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_702f82442fcec8a9": {
+      "text": "$$赤木$$\n「I'm fine here!\n　Hurry up and fall back!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_b1e38da4e8775ffe": {
+      "text": "$$宗介$$\n「But, in a situation like this...!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$かなめ$$\n「Wait, Sousuke!\n　Something's coming!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_3dad695c99e9e052": {
+      "text": "$$かなめ$$\n「It's $$ボン太くん#robot$$!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_66d4ae3a21caf881": {
+      "text": "$$宗介$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_0c18da7b3a37825d": {
+      "text": "$$ボン太くん#pilot$$\n「Mofu...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_63249745ffae61b6": {
+      "text": "$$宗介$$\n「This $$ボン太くん#robot$$ is the one I prepared...!\n　Who's inside it!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_abdb034ae8509702": {
+      "text": "$$キリコ$$\n「It's me.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_3ff2e21207d1d1d3": {
+      "text": "$$宗介$$\n「!!!!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_e51ecf6d6aa42e75": {
+      "text": "$$キリコ$$\n「I knew you'd brought this AS along.\n　This should let you fight.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_47ddabb7b60131c2": {
+      "text": "$$宗介$$\n「Th-that helps...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_b025267f22788233": {
+      "text": "$$キリコ$$\n「I owe you for backup at $$マーティアル$$.\n　I'll get that woman clear.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_ec1a06a7023bf72c": {
+      "text": "$$かなめ$$\n（Ugh... an even bigger stone-face than Sousuke...）",
+      "status": "imported"
+    },
+    "stage0029_04:r_8805f96e52aaa462": {
+      "text": "$$キリコ$$\n「Let's go.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_124591cb154fae64": {
+      "text": "$$かなめ$$\n「W-wait a second!\n　I'm not ready yet...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$キリコ$$\n「The enemy won't wait.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_4bf9b05b5f948170": {
+      "text": "$$かなめ$$\n「Gyaaaah!!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_eaa52d152f444bfd": {
+      "text": "$$いぶき$$\n「Well, that was quite a sight...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_b4bc9e9435b58e6f": {
+      "text": "$$青山$$\n「$$キリコ$$, out of a mascot suit...\n　That'd traumatize any kid who saw it...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_a9227573166977a9": {
+      "text": "$$赤木$$\n「$$宗介$$!\n　Can you do this!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_b0600ab9a9e8559d": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_7cbc63dad295f862": {
+      "text": "$$いぶき$$\n「That's not $$宗介$$ anymore...\n　That's $$ボン太くん#robot$$.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_07f53c816e0a51f5": {
+      "text": "$$赤木$$\n「All right, $$ボン太くん#robot$$!\n　The others will be here soon!\n　Until then, we hold them off ourselves!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_2d09c6f6a2d990ea": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffu!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_3c5fcfc484a51913": {
+      "text": "$$赤木$$\n「Everyone at Narashino Base!\n　We'll hold them off!\n　Please focus on defending the base!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_0476ffd10c764b0e": {
+      "text": "$$飯塚$$\n「Roger, Akaten!\n　I'm counting on you!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_48c6c1ecfea6fe4a": {
+      "text": "Firebug Trooper\n「Ha...!\n　That rat's entrance left me stunned!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_2b3479c4cf0680f4": {
+      "text": "Firebug Trooper\n「Wrong!\n　That's a weasel!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_e370696b8936b08c": {
+      "text": "$$カン・ユー$$\n「What are you talking about!\n　That's obviously the invincible honey badger!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_9d7b02c5e728b7aa": {
+      "text": "Firebug Trooper\n「Who cares!\n　Let's finish off that Fumoffu bastard\n　and the salaryman who got in our way!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_9af213fc64e0afec": {
+      "text": "$$ボン太くん#pilot$$\n「Fumof! Mofufumo, fumomofumo!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_d7f1c506e78e55ff": {
+      "text": "$$赤木$$\n「I don't get what he's saying,\n　but that's some serious confidence!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_0c705091f748360e": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffuuu!!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_9eb8599304125b2f": {
+      "text": "$$アルト$$\n「Sorry to keep you waiting, Bonta!\n　I'll save you now!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_a072aa25e5f521e0": {
+      "text": "$$クラン$$\n「I told you to say 'kun', $$アルト$$!\n　You forehead dummy!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_24e1a808a1609a1a": {
+      "text": "$$アルト$$\n「S-sorry, Captain $$クラン$$!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_53128ce8f154fd06": {
+      "text": "$$サザンカ$$\n「W-what is that!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_03b5db9ce98fb8d6": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_3915fb4102f1c1dd": {
+      "text": "$$ＭＩＸ$$\n「S-so cute!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_817b2773b4ed563e": {
+      "text": "$$オードリー$$\n（What is this, my heart's racing...）",
+      "status": "imported"
+    },
+    "stage0029_04:r_1cc233cbc8c80af7": {
+      "text": "$$ノイン$$\n（Heh... I may dream like a girl again tonight）",
+      "status": "imported"
+    },
+    "stage0029_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$Ｃ．Ｃ．$$\n「Hey, $$カレン$$...\n　How many raffle tickets do I need for that?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_e180b22d18f48d38": {
+      "text": "$$カレン$$\n「I don't know!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_e598c2a0b27e7f50": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0029_04:r_4d2a9066c4e7b27f": {
+      "text": "$$シンジ$$\n「Ayanami...?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_10340119af3ed6db": {
+      "text": "$$レイ#333$$\n（I want to pet something fluffy...）",
+      "status": "imported"
+    },
+    "stage0029_04:r_23a9c7ab620ab112": {
+      "text": "$$スズネ$$\n「As always, $$ボン太くん#robot$$'s a big hit.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_4f0aca6deda07883": {
+      "text": "$n\n「That's only until you learn who's inside, though.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_8fe40600ce62dfbc": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0029_04:r_ff4ce5f3cf96b617": {
+      "text": "$$カレン$$\n「Um... $$キリコ$$, it suited you too...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_d73c21f119847e35": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0029_04:r_89766f5ffaa912d4": {
+      "text": "$$クルツ$$\n「No use looking shocked now!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$ゼクス$$\n「A-anyway, wiping out the terrorists comes first.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_451f726d4299ea35": {
+      "text": "$$ヒイロ$$\n「M-mission... understood.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_e3d111e8bb190cb1": {
+      "text": "$$デュオ$$\n「Guess even you two are shaken up.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffu!!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_ab97c2b2418ea732": {
+      "text": "$$モニカ$$\n「Confirmed, all enemies destroyed.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_2ddff5064af78db4": {
+      "text": "$$キャシー$$\n「I wonder if $$ファイヤバグ$$ is still\n　targeting $$千鳥かなめ$$...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_050d0532c4b24bfe": {
+      "text": "$$ジェフリー$$\n「That's likely true, but\n　their goal seems different from before.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_d583fcea31bdad2e": {
+      "text": "$$ラム$$\n「All the civilians who came to the base are\n　safe, thanks to Nerima Red Dragon and\n　$$２１世紀警備保障$$'s guidance.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_475f7653621a91b5": {
+      "text": "$$ボビー$$\n「This ought to remind that Nerima\n　radish boy what a soldier's duty is.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_f228ae702350849b": {
+      "text": "$$モニカ$$\n「By the way, what should we do...?\n　The now-safe civilians are about to\n　swarm $$ボン太くん#robot$$...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_d69dc027cba3003f": {
+      "text": "$$ジェフリー$$\n「No good...!\n　We must never let the civilians\n　learn what's inside that thing!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_3c3735172a480b72": {
+      "text": "$$ジェフリー$$\n「All units, withdraw at once!\n　Guard $$ボン太くん#robot$$ from every side as you go!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_1f418b5594cea300": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffu!!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_f87fb889124bfaef": {
+      "text": "$$赤木$$\n「Damn it!\n　We've been breached!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_79c90de32a79212d": {
+      "text": "$$赤城$$\n「See that, Akaten!\n　This is my ultimate Red Stream Attack!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_33f7fd55913419e8": {
+      "text": "$$赤木$$\n「Daaamn it!\n　At this rate, it's Akaten again!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_473d9a88b4ca96e7": {
+      "text": "$$カン・ユー$$\n「Argh, what an unwieldy machine!\n　This is why I hate Balarant ATs!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_4de6ac85c63bac12": {
+      "text": "$$カン・ユー$$\n「Remember this, $$キリコ$$!\n　The day I master this machine\n　will be your death day!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_4c92652c9b1adf6f": {
+      "text": "$$カレン$$\n「That guy hasn't changed either...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_ce90563a934d49fb": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0029_04:r_4fb296e63cb1fb46": {
+      "text": "$$Ｃ．Ｃ．$$\n「Neither has this man's reaction.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$赤城$$\n「Akaten!\n　I've always wanted a fight like this!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_9dc59affd40f32fc": {
+      "text": "$$赤木$$\n「What in the world for!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_0cea115be526a319": {
+      "text": "$$赤城$$\n「Instructor $$飯塚$$ told me this!\n　My combat skills may surpass yours,\n　but you have something I lack!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_d36072babd12aeb4": {
+      "text": "$$赤木$$\n「I don't know what you're talking about,\n　but once I've decided, I go all out!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_09ee921a85025fd3": {
+      "text": "$$赤城$$\n「This is no joke!\n　Don't think a civilian can beat a soldier!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_fae689f2a1057b61": {
+      "text": "$$赤木$$\n「Civilian or soldier makes no difference\n　to protecting peace! I won't let $$ダイ・ガード$$\n　lose to a mere technique polisher!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_91c6d0bb53854ecc": {
+      "text": "$$赤城$$\n「This fighting spirit...!\n　So this is youth!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_42a3149105314ab8": {
+      "text": "$$赤城$$\n「Not bad, mystery intruder!\n　Matching this Red Dragon blow for blow!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_62ecd978c667bd29": {
+      "text": "$$かなめ$$\n「Go, Sousuke!\n　Charm that stuck-up Nerima radish down to size!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_d441e6cc908ac01b": {
+      "text": "$$宗介$$\n「Understood.\n　I'll show you my skill as a professional!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_b2aab8873350ea1f": {
+      "text": "$$宗介$$\n「Chidori... if you feel sick or scared,\n　don't hesitate to tell me.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_2c7af4c55d8ac938": {
+      "text": "$$かなめ$$\n「I'm fine.\n　A mock battle's basically like airsoft, right?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_653b741d07545dff": {
+      "text": "$$かなめ$$\n「More importantly, since you talked big,\n　you'd better show me the goods!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_d584d4b5af55b1cf": {
+      "text": "$$宗介$$\n「No problem.\n　I'll just do things as I always do.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_db0ee69ece206fcd": {
+      "text": "$$かなめ$$\n（I know it's half play, but it's still scary...）",
+      "status": "imported"
+    },
+    "stage0029_04:r_f97e6925c9e37332": {
+      "text": "$$かなめ$$\n（So Sousuke and the others usually fight\n　feeling even more scared than this...）",
+      "status": "imported"
+    },
+    "stage0029_04:r_422861e0b8d77d0c": {
+      "text": "$$ミサト$$\n「Can you hear me, Elements?\n　Supreme Commander $$不動$$'s left the\n　Element Change timing up to you.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_ef16bcaa2b0e0c45": {
+      "text": "$$ミサト$$\n「Change Elements as the situation\n　demands, and fight!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_2b93cca10f1c36a8": {
+      "text": "$$アマタ$$\n「Understood!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_7980fd37141d88d0": {
+      "text": "$$アマタ$$\n（I still don't get this world well,\n　but if people need our strength,\n　we'll fight with Aquarion...!）",
+      "status": "imported"
+    },
+    "stage0029_04:r_ac21212c36d2b9ad": {
+      "text": "$$ボン太くん#pilot$$\n「Fumomofu, mofufu, fumofumo!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_a26e2108358af7a4": {
+      "text": "$$ボン太くん#pilot$$\n「Mofu! Fumomo, fumomofumo!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_a8118b2e37aa1382": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffuuu!!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_017a56991b7b8ca4": {
+      "text": "$$アルト$$\n「I have no idea what you're saying!!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_ad3e1db3419665fb": {
+      "text": "$$カン・ユー$$\n「You sure took care of me at $$ア・コバ$$,\n　$$キリコ$$! But today, I'm different!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_0149e3a5f2e5ef78": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0029_04:r_3ad10e705167a3fa": {
+      "text": "$$カン・ユー$$\n「You...!\n　Not gonna say a word, huh!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_bdc546b199c80996": {
+      "text": "$$キリコ$$\n「I'm done with weird sounds coming out\n　if I open my mouth wrong.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_22c8caf8c08c5119": {
+      "text": "$$カン・ユー$$\n「Don't tell me, that honey badger earlier was...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_9c13714b3efbc7a8": {
+      "text": "$$キリコ$$\n「...Don't say another word.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_96f156e19b53fc09": {
+      "text": "$$カン・ユー$$\n「It's been a while, $$カレン$$!\n　I've got plenty of grudges against you!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_feb0390bba7fe1fb": {
+      "text": "$$カレン$$\n「You're persistent too!\n　Still sore about 《$$クメン$$》!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_8a78bcec22029401": {
+      "text": "$$カン・ユー$$\n「That's not all!\n　That time, and that time, and that\n　time, you turned against me!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_f42017dfce31dea9": {
+      "text": "$$カン・ユー$$\n「If you won't kneel and apologize\n　for that, I'll crush you right here!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_ef7426919f628d8a": {
+      "text": "$$カレン$$\n「If you're bringing up old grudges,\n　I've got something to say too!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_9e994a4b926d9906": {
+      "text": "$$カレン$$\n「How dare you send me out as a\n　bunny girl back at $$クメン$$!\n　That was sexual harassment, plain!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_ffae76d2a77abf5a": {
+      "text": "$$カン・ユー$$\n「That was an emergency, so...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_3ac462d37e5893ff": {
+      "text": "$$カレン$$\n「Shut up!\n　I still remember that lecherous\n　look in your eyes, even now!!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_fd6bdf7910d7d925": {
+      "text": "$$シンジ$$\n「I... I have to fight a machine\n　with a person inside it...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_d38be46e6cd7a5e5": {
+      "text": "$$ミサト$$\n「$$シンジ$$, remember your training.\n　You can do it.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_3fe2078328753c16": {
+      "text": "$$シンジ$$\n「Are you telling me to kill someone!?」",
+      "status": "imported"
+    },
+    "stage0029_04:r_c66844158d1ce600": {
+      "text": "$$ミサト$$\n「That's not it.\n　There must be plenty of ways to disable them.」",
+      "status": "imported"
+    },
+    "stage0029_04:r_d037ecbc1e348dc9": {
+      "text": "$$ミサト$$\n「Center the target, then switch...\n　Center the target, then switch...\n　Use that to aim for its weak spot!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_bcd53d14c4785426": {
+      "text": "$$シンジ$$\n「Center the target, then switch...」",
+      "status": "imported"
+    },
+    "stage0029_04:r_9ca55ea7feca954a": {
+      "text": "$$ミサト$$\n「That's it!\n　That training was for a time like this!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_554ae12c4c170253": {
+      "text": "$$ミサト$$\n「Find your own way, with your own hands!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_fa59c6df081e6ae4": {
+      "text": "$$シンジ$$\n「Understood, $$ミサト$$...!\n　I'll give it a try!」",
+      "status": "imported"
+    },
+    "stage0029_04:r_ca3edf3b8b52aedf": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

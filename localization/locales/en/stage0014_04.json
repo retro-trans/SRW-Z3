@@ -1,0 +1,666 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0014_04:r_caaab7bad760e16d": {
+      "text": "$$シン$$\n「Unidentified mobile suit over there...\n　respond to us!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_99b162aa6aa286a2": {
+      "text": "$$ギルボア$$\n「Guess we got spotted...\n　That's a $$プラント$$ patrol squad, huh.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_58fb02434a1c40b2": {
+      "text": "$$シン$$\n「That unit... Neo Zeon, huh!\n　But hiding out in a place like this,\n　they must've been planning a terror attack!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_1c0f94acd5a8a143": {
+      "text": "$$シン$$\n「All units, prepare to attack!\n　Capture them, and pry out their whole plan!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_1263541f4071624e": {
+      "text": "$$シン$$\n「Was that attack a Dragoon, or a Fang...!?\n　No, a Funnel!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_3bc300bbdc277d82": {
+      "text": "$$シン$$\n「So it was them who wiped out our squad!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_38762a09460d8b6b": {
+      "text": "$$ギルボア$$\n「Nice moves, $$マリーダ$$.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_7ab28e70b4d4f641": {
+      "text": "$$マリーダ$$\n「The surprise attack thinned their forces.\n　Now we just finish off the last one.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$ギルボア$$\n「But that one is...」",
+      "status": "imported"
+    },
+    "stage0014_04:r_ec335e69f984b8b3": {
+      "text": "$$マリーダ$$\n「I know.\n　That's... a Gundam.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_0abcaf0c31978670": {
+      "text": "$$シン$$\n「Damn it!\n　Looks like I'll have to do this alone!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_1d6bc48b7f246730": {
+      "text": "$$シン$$\n「Here I come, terrorists!\n　I don't care if you're Neo Zeon or not!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_1af20fccc3c53cfc": {
+      "text": "$$シン$$\n「If war's the only path you'll take,\n　then I'll be your opponent!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_f951916061232dcd": {
+      "text": "$$マリーダ$$\n（Master... how are things on your end...）",
+      "status": "imported"
+    },
+    "stage0014_04:r_4d863c3fb88a4c39": {
+      "text": "$$マリーダ$$\n「This is bad, $$ギルボア$$...!\n　The Federation's here!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_44f4742c3dcce39a": {
+      "text": "$$ギルボア$$\n「Tch...!\n　So the L3 crew failed to hold them off!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_9e701cdeb3842c21": {
+      "text": "$$カミーユ$$\n「Destiny!\n　Is that $$シン$$?!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_6fd81f4abebe60c5": {
+      "text": "$$シン$$\n「Been a while, $$カミーユ$$!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_da2132b5038ec737": {
+      "text": "$$シン$$\n「No time to celebrate, huh!\n　Lend a hand taking down these terrorists!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_495d61d3ec7e16f2": {
+      "text": "$$リディ$$\n「So that's $$カミーユ$$'s friend, the 《$$赤服$$》.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_5cd353758cfe474d": {
+      "text": "$$カミーユ$$\n「His name is $$シン・アスカ$$.\n　He pilots $$ザフト$$'s Gundam, the Destiny.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_a653c8dec4c0f06f": {
+      "text": "$n\n「That Neo Zeon mobile suit...\n　is it trying to seize the colony?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_86d493e37a9799a7": {
+      "text": "$$スズネ$$\n「Doesn't look that way to me...」",
+      "status": "imported"
+    },
+    "stage0014_04:r_09d0fcc600cdd3df": {
+      "text": "$$デュオ$$\n「Well, one thing's for sure...\n　this is what $$トロワ$$ was trying to warn us about.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_182faded068c15ed": {
+      "text": "$$レイアム$$\n「What are your orders, Captain?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_9c206d19bfda4bd5": {
+      "text": "$$オットー$$\n「Crushing terrorists is our mission.\n　Order all units to attack.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_6e558bc69acf5bf3": {
+      "text": "$$レイアム$$\n「And what about Mr. $$アルベルト$$?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_d60d0818e965232f": {
+      "text": "$$オットー$$\n「He's the one who wanted to go to Industrial 7.\n　Lt. Colonel $$ダグザ$$ is with him, so just leave it be.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_5b23687574286204": {
+      "text": "$$オットー$$\n「Still, that man... roping in Echoes, huh...」",
+      "status": "imported"
+    },
+    "stage0014_04:r_6fd86c96891ea942": {
+      "text": "$$ギルボア$$\n「That ship... looks like it's Londo Bell.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_43e4e548c0b28376": {
+      "text": "$$マリーダ$$\n「An independent unit, said to be handpicked elites.\n　We can't afford to underestimate them.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_d80a9688790ed583": {
+      "text": "$$マリーダ$$\n「But until Master gets his hands on the Box,\n　there's no retreat for us...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_708bea61e3c43ada": {
+      "text": "$$カミーユ$$\n「Ugh...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ファ$$\n「$$カミーユ$$...!?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_0827963cfd706e8d": {
+      "text": "$$カミーユ$$\n「Everyone, watch out...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$マリーダ$$\n「That's...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_3f4035fd9db81258": {
+      "text": "$$カミーユ$$\n「The $$キュベレイ$$...!\n　$$ハマーン・カーン$$'s come herself!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_567b361a454c4b73": {
+      "text": "$$デュオ$$\n「The Iron Lady's sortieing herself!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_d22851aaafbbf8fc": {
+      "text": "$n\n「Still, for Neo Zeon's leader\n　to come out onto the battlefield alone...」",
+      "status": "imported"
+    },
+    "stage0014_04:r_352534f64413d954": {
+      "text": "$$シン$$\n「Just what for...!?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_79f2664edb1af798": {
+      "text": "$$マリーダ$$\n「Your Excellency...」",
+      "status": "imported"
+    },
+    "stage0014_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$ハマーン$$\n「Don't let it trouble you, $$マリーダ$$.\n　Keeping that one's whims in check\n　is my job, isn't it?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_1c5aa0d15ae24846": {
+      "text": "$$マリーダ$$\n「Then, allow me to accompany you.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_53bb64ee17750ee2": {
+      "text": "$$ハマーン$$\n「I'll be expecting much, $$マリーダ・クルス$$.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_7a7add80fde475ba": {
+      "text": "$$リディ$$\n「If we bring down $$ハマーン$$ here,\n　we can curb Neo Zeon's anti-Federation drive...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_b2befefdbed1393d": {
+      "text": "$$オットー$$\n「I-in a chance encounter like this,\n　the world's future gets decided...!?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_2103f6df2ea2e447": {
+      "text": "$$カミーユ$$\n「$$ハマーン$$...!\n　Just what are you thinking...!?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_a12e3e130d896ff7": {
+      "text": "$$ハマーン$$\n「Heh... once that man learns of the Princess's\n　desperate resolve, he may see his own failings.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_b6f7b219eb4bd64b": {
+      "text": "$$マリーダ$$\n「What is that machine...!?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_91bf33c27ad39f0a": {
+      "text": "$$バナージ$$\n「Get out...!\n　Get ouuuut of heeere!!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_ee220318b96ab538": {
+      "text": "$$マリーダ$$\n「This machine... what power...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_ce1b55e526b6277a": {
+      "text": "$$ハマーン$$\n「Get some distance, $$マリーダ$$!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_c304df6888eb78f7": {
+      "text": "$$マリーダ$$\n「Yes!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_c26958634526e597": {
+      "text": "$$デュオ$$\n「What is that mobile suit?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_cdb750c9d380881a": {
+      "text": "$$リディ$$\n「The design's Federation issue, but...」",
+      "status": "imported"
+    },
+    "stage0014_04:r_95fda74613c97b39": {
+      "text": "$$ミヒロ$$\n「No matching unit on record!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_1956994937f8171e": {
+      "text": "$$レイアム$$\n「But it does seem to have the will\n　to fight Neo Zeon, at least.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_48f49f6728c15612": {
+      "text": "$$シン$$\n「But those movements... they're like an amateur's!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$カミーユ$$\n「This feeling... it's the same as on Earth...」",
+      "status": "imported"
+    },
+    "stage0014_04:r_f02c37d91387d0ad": {
+      "text": "$$カミーユ$$\n「$$シン$$! Cover that machine for me!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$シン$$\n「Got it!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_9796b3efa401a303": {
+      "text": "Shinn\n「Pilot of the white mobile suit, can you hear me!\n　I'm $$シン・アスカ$$, I'll be covering you!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_643b6eebfc0186b3": {
+      "text": "$$バナージ$$\n「I have to do this...!\n　There's no choice but to do it...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_291280e5f7eb9d70": {
+      "text": "$$シン$$\n「This guy...!\n　Isn't listening to a word I say...!?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_32eb462c1b4999cb": {
+      "text": "$$マリーダ$$\n「What will you do, Your Excellency?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_1f4337d6d393fc37": {
+      "text": "$$ハマーン$$\n「Drag this fight out more, and it'll cause trouble.\n　We withdraw in 6 minutes.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_4740e748fae085ee": {
+      "text": "$$ハマーン$$\n「The Princess is $$ジンネマン$$'s charge.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_b76524cd840e1d37": {
+      "text": "$$マリーダ$$\n「Understood.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_730ffe18400abfc2": {
+      "text": "$$マリーダ$$\n「What will you do, Your Excellency?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_ffe0fca26da5cd38": {
+      "text": "$$ハマーン$$\n「Drag this fight out more, and it'll cause trouble.\n　We withdraw in 5 minutes.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_bfb27f9eb2f7073e": {
+      "text": "$$ハマーン$$\n「The Princess is $$ジンネマン$$'s charge.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_859dfa27bcaafe30": {
+      "text": "$$マリーダ$$\n「Understood.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_71ebf05996a4b0fd": {
+      "text": "$$マリーダ$$\n「What will you do, Your Excellency?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_6214c11b1bca811e": {
+      "text": "$$ハマーン$$\n「Drag this fight out more, and it'll cause trouble.\n　We withdraw in 4 minutes.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_8eaf6f3098ffed12": {
+      "text": "$$ハマーン$$\n「The Princess is $$ジンネマン$$'s charge.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_cf507214fe955d75": {
+      "text": "$$マリーダ$$\n「Understood.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_2113dcbabdfc758a": {
+      "text": "$$マリーダ$$\n「What will you do, Your Excellency?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ハマーン$$\n「Drag this fight out more, and it'll cause trouble.\n　We withdraw in 3 minutes.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_6a74519e1fc29c4b": {
+      "text": "$$ハマーン$$\n「The Princess is $$ジンネマン$$'s charge.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_5b992878fee054b5": {
+      "text": "$$マリーダ$$\n「Understood.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$オットー$$\n「Confirming the situation comes later!\n　First, we get through this!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_4a14ec0c511c7f0d": {
+      "text": "$$オットー$$\n「All units, protect the white mobile suit\n　while striking down Neo Zeon!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_20cf167c0ec0d4d5": {
+      "text": "$$シン$$\n「Here we go, you...!\n　You ready!?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_b591d812c96c6c99": {
+      "text": "$$バナージ$$\n（$$オードリー$$...!）",
+      "status": "imported"
+    },
+    "stage0014_04:r_e350fa099c1ab072": {
+      "text": "$$マリーダ$$\n「Grr...!\n　At least confirm where the Princess is...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$マリーダ$$\n「Out of time...!\n　But at least confirm where the Princess is...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_c33bd700553abf91": {
+      "text": "$$シン$$\n「That guy...!\n　Is he trying to breach the colony!?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_feee5c91826230e1": {
+      "text": "$$バナージ$$\n「I won't let you do that...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_bccc48e1964ad22d": {
+      "text": "$$シン$$\n「Hey, you...!?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_f8736aaaa216c766": {
+      "text": "$$マリーダ$$\n「This guy...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_d1ec2522c87c361d": {
+      "text": "$$バナージ$$\n「Raaaaaaugh!!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_3599f0a4343fd95c": {
+      "text": "$$マリーダ$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_3bc7834a5bf3ee76": {
+      "text": "$$バナージ$$\n「Waaaaaaah!!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_366814efdc8b5800": {
+      "text": "Marida\n「This is as far as I go...!\n　$$マリーダ・クルス$$, falling back!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_9be1a4c10bb62515": {
+      "text": "$$ハマーン$$\n「That white mobile suit...!\n　A new Gundam...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_94a88c90e557e16e": {
+      "text": "$$ハマーン$$\n（But what is this...?\n　This ominous air he's giving off...）",
+      "status": "imported"
+    },
+    "stage0014_04:r_1c208ca0cbf26f28": {
+      "text": "$$デュオ$$\n「The one-horned mystery unit shifted... no, morphed!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_5b7ee307a700171a": {
+      "text": "$$ヒイロ$$\n「That's a Gundam too...」",
+      "status": "imported"
+    },
+    "stage0014_04:r_8d8f065c932da30a": {
+      "text": "$$リディ$$\n「A new Gundam...」",
+      "status": "imported"
+    },
+    "stage0014_04:r_f5432119677514f7": {
+      "text": "$$シン$$\n「Just what are you...」",
+      "status": "imported"
+    },
+    "stage0014_04:r_4e5c8e989c4a7691": {
+      "text": "$$バナージ$$\n「Guh... unh...」",
+      "status": "imported"
+    },
+    "stage0014_04:r_adec86483b13599a": {
+      "text": "$$シン$$\n「The horn closed up...」",
+      "status": "imported"
+    },
+    "stage0014_04:r_2cf701bbcde3ec13": {
+      "text": "$$カミーユ$$\n「$$シン$$! The pilot's out cold!\n　Recover that Gundam!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_c17c58fdba72005e": {
+      "text": "$$シン$$\n「Y-yeah...」",
+      "status": "imported"
+    },
+    "stage0014_04:r_1fe8564d2b959317": {
+      "text": "$$オットー$$\n「...Damn it, what's going on here...」",
+      "status": "imported"
+    },
+    "stage0014_04:r_f527e012803f7f1c": {
+      "text": "$$レイアム$$\n「Captain, Mr. $$アルベルト$$ has requested recovery.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_4b1247bd3ca4905d": {
+      "text": "$$オットー$$\n「That man...!\n　Only turns to us at times like this...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_00c55e25f87b71d0": {
+      "text": "$$レイアム$$\n「What are your orders?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_338f3b27e51dcc41": {
+      "text": "$$オットー$$\n「Send someone suitable to recover it!\n　The rest, check Industrial 7's damage!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_d91d4bc2d52b61c4": {
+      "text": "$$オットー$$\n「Hurry it up!\n　If we're not careful, Neo Zeon's pursuit force\n　will come after us!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_0c8ea89b07432421": {
+      "text": "$$オットー$$\n「Once we've done the bare minimum,\n　we're pulling out of here at once!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_4dbfba00ba7744ee": {
+      "text": "$$レイアム$$\n「Understood.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_be100a32b731708d": {
+      "text": "$$ハマーン$$\n「...How pathetic.\n　Is this all born of the doubt in me?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_702f82442fcec8a9": {
+      "text": "$$マリーダ$$\n「Your Excellency, let me handle the rest...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_b1e38da4e8775ffe": {
+      "text": "$$ハマーン$$\n「Sorry, $$マリーダ$$.\n　I leave the rest to you.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$カミーユ$$\n「$$ハマーン・カーン$$...\n　Do you want to drag the Earth Sphere into war...?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$カミーユ$$\n（But I don't understand...\n　Why did $$ハマーン$$ bother sortieing herself...）",
+      "status": "imported"
+    },
+    "stage0014_04:r_3dad695c99e9e052": {
+      "text": "$$カミーユ$$\n（This battle... does it really mean that much...）",
+      "status": "imported"
+    },
+    "stage0014_04:r_66d4ae3a21caf881": {
+      "text": "$$ギルボア$$\n「Tch...! Screwed up, did I!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_0c18da7b3a37825d": {
+      "text": "$$マリーダ$$\n「Fall back, $$ギルボア$$!\n　I'll take it from here!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_63249745ffae61b6": {
+      "text": "$$ギルボア$$\n「Sorry, $$マリーダ$$!\n　Don't push yourself too hard either!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_abdb034ae8509702": {
+      "text": "$$シン$$\n「Damn it...!\n　Why is Neo Zeon trying to start a war!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_3ff2e21207d1d1d3": {
+      "text": "$$シン$$\n「At this rate, it's war all over again!\n　Do you people even understand that!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_e51ecf6d6aa42e75": {
+      "text": "$$マリーダ$$\n「A $$ザフト$$ Gundam...!\n　Get in our way, and I show no mercy!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_47ddabb7b60131c2": {
+      "text": "$$シン$$\n「What are you talking about!\n　You're the ones standing in peace's way!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_b025267f22788233": {
+      "text": "$$シン$$\n「I've had enough of war!\n　If you won't see that, I'll stop you myself!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_ec1a06a7023bf72c": {
+      "text": "$$ハマーン$$\n「I remember you.\n　The boy who stayed loyal to Gilbert 《$$デュランダル$$》\n　and fought at his side to the end.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_8805f96e52aaa462": {
+      "text": "$$シン$$\n「I'm not who I was back then!\n　I've learned to think and decide what's right myself!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_124591cb154fae64": {
+      "text": "$$ハマーン$$\n「Then answer me this.\n　Is fighting us now the right thing to do?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$シン$$\n「My fight is to put an end to fighting!\n　If you're the ones starting this war,\n　then stopping you is the fight I've chosen!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_4bf9b05b5f948170": {
+      "text": "$$ハマーン$$\n「Very well, boy.\n　For that purity, I'll face you myself!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_eaa52d152f444bfd": {
+      "text": "$$カミーユ$$\n「This feeling...!\n　The pilot's an Enhanced Human!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_b4bc9e9435b58e6f": {
+      "text": "$$マリーダ$$\n「You can sense me...!\n　But that's as far as you go!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_a9227573166977a9": {
+      "text": "$$カミーユ$$\n「Not just him, now another Enhanced Human too...!\n　Is Neo Zeon turning people into tools of war!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_b0600ab9a9e8559d": {
+      "text": "$$カミーユ$$\n「Do you still not understand\n　how much sorrow that creates!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_7cbc63dad295f862": {
+      "text": "$$カミーユ$$\n「$$ハマーン・カーン$$!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_07f53c816e0a51f5": {
+      "text": "$$ハマーン$$\n「I remember you, boy.\n　To think we'd meet on the battlefield again.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_2d09c6f6a2d990ea": {
+      "text": "$$カミーユ$$\n「Is Neo Zeon challenging the Federation to war!?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_3c5fcfc484a51913": {
+      "text": "$$ハマーン$$\n「That isn't mine to decide.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_0476ffd10c764b0e": {
+      "text": "$$カミーユ$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$ハマーン$$\n「I can feel your doubt as clear as day...!\n　It seems you and I are alike in some way!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_2b3479c4cf0680f4": {
+      "text": "$$カミーユ$$\n「Like I'd fall for that taunt...!\n　I'll shoot you down and stop this war!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_e370696b8936b08c": {
+      "text": "$$スズネ$$\n「Charging in blindly won't cut it, $n!\n　They've read our movements completely!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_9d7b02c5e728b7aa": {
+      "text": "$n\n「But there's nothing else I can do right now...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_9af213fc64e0afec": {
+      "text": "$$マリーダ$$\n「You amateur...!\n　This is what happens when a novice shows up...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_d7f1c506e78e55ff": {
+      "text": "$n\n「Novice or not, amateur or not, I won't die!\n　Whatever it takes, I'll survive!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_0c705091f748360e": {
+      "text": "$$ハマーン$$\n「It seems a fine unit,\n　but the pilot in it is far too green.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_9eb8599304125b2f": {
+      "text": "$$スズネ$$\n「That's $$ハマーン・カーン$$...!\n　Neo Zeon's leader!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_a072aa25e5f521e0": {
+      "text": "$n\n「If I bring her down,\n　there won't be a war between Earth and the colonies...!\n　Then I'll fight like my life depends on it!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_24e1a808a1609a1a": {
+      "text": "$$ハマーン$$\n「Heh... the battlefield isn't kind enough\n　to be won on passion alone, boy...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_53128ce8f154fd06": {
+      "text": "$$マリーダ$$\n「You think a unit like that\n　can match my $$クシャトリヤ$$!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_03b5db9ce98fb8d6": {
+      "text": "$$ヒイロ$$\n「A machine's spec doesn't decide a battle.\n　Not knowing that, you can't beat me.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_3915fb4102f1c1dd": {
+      "text": "$$ハマーン$$\n「Matching my $$キュベレイ$$ in that machine\n　is quite the feat.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_817b2773b4ed563e": {
+      "text": "$$ヒイロ$$\n「I don't intend to settle for even.」",
+      "status": "imported"
+    },
+    "stage0014_04:r_1cc233cbc8c80af7": {
+      "text": "$$ハマーン$$\n「Heh... beneath that machine-like calm,\n　I sense a strong will...\n　You're quite the pilot, boy...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$バナージ$$\n「Why...!\n　Why does anyone fight a war like this!?」",
+      "status": "imported"
+    },
+    "stage0014_04:r_e180b22d18f48d38": {
+      "text": "$$バナージ$$\n「Get out of here, all of you!\n　Nobody wants a war like this!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_e598c2a0b27e7f50": {
+      "text": "$$バナージ$$\n（That four-winged mobile suit...!\n　Is it the core of their force!）",
+      "status": "imported"
+    },
+    "stage0014_04:r_4d2a9066c4e7b27f": {
+      "text": "$$マリーダ$$\n（What is this feeling...!\n　Am I being overwhelmed\n　by that pilot's pressure...!?）",
+      "status": "imported"
+    },
+    "stage0014_04:r_10340119af3ed6db": {
+      "text": "$$ハマーン$$\n「That mobile suit's presence...!\n　Something in me says it's dangerous...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_23a9c7ab620ab112": {
+      "text": "$$バナージ$$\n「Even I can tell...!\n　That mobile suit's strength is on another level...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_4f0aca6deda07883": {
+      "text": "$$ハマーン$$\n「An amateur's piloting it...!\n　Then I'll strike now while I can!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_8fe40600ce62dfbc": {
+      "text": "$$バナージ$$\n「Am I going down...!?\n　No, I didn't come out here to lose!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_ff4ce5f3cf96b617": {
+      "text": "$$バナージ$$\n「I have to do this...!\n　With this power entrusted to me...!」",
+      "status": "imported"
+    },
+    "stage0014_04:r_d73c21f119847e35": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

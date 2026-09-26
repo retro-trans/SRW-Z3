@@ -1,0 +1,4686 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "glossary:mission_term_1": {
+      "text": "Abductors",
+      "status": "translated"
+    },
+    "glossary:mission_term_2": {
+      "text": "Altair",
+      "status": "translated"
+    },
+    "glossary:mission_term_3": {
+      "text": "Mycenae",
+      "status": "translated"
+    },
+    "glossary:mission_term_4": {
+      "text": "Vajra",
+      "status": "translated"
+    },
+    "glossary:mission_term_5": {
+      "text": "Takeo GC",
+      "status": "translated"
+    },
+    "glossary:mission_term_6": {
+      "text": "Codarl-i",
+      "status": "translated"
+    },
+    "glossary:mission_term_7": {
+      "text": "Geminis",
+      "status": "translated"
+    },
+    "glossary:mission_term_8": {
+      "text": "Jindai High School",
+      "status": "translated"
+    },
+    "glossary:mission_term_9": {
+      "text": "Palau",
+      "status": "translated"
+    },
+    "glossary:mission_term_10": {
+      "text": "Mechanical Beast",
+      "status": "translated"
+    },
+    "glossary:mission_term_11": {
+      "text": "Peace Memorial Hall",
+      "status": "translated"
+    },
+    "glossary:mission_term_12": {
+      "text": "Zy-98",
+      "status": "translated"
+    },
+    "glossary:r_c6d8f38cf3e312c9": {
+      "text": "Aquarion EVOL",
+      "status": "imported"
+    },
+    "glossary:r_00b1df61810373c5": {
+      "text": "Original",
+      "status": "imported"
+    },
+    "glossary:r_cc4b6d9a5835b064": {
+      "text": "Code Geass: Lelouch of the Rebellion R2",
+      "status": "imported"
+    },
+    "glossary:r_9ebe897072995f53": {
+      "text": "Aim for the Top! Gunbuster",
+      "status": "imported"
+    },
+    "glossary:r_8b2191cfd1f9e3f5": {
+      "text": "Full Metal Panic!",
+      "status": "imported"
+    },
+    "glossary:r_621dc208226c722d": {
+      "text": "Full Metal Panic! The Second Raid",
+      "status": "imported"
+    },
+    "glossary:r_55d9b899c53cfacb": {
+      "text": "Full Metal Panic? Fumoffu",
+      "status": "imported"
+    },
+    "glossary:r_23cd0e744e3769b5": {
+      "text": "Macross Dynamite 7",
+      "status": "imported"
+    },
+    "glossary:r_26d5de1194a7448b": {
+      "text": "Macross 7",
+      "status": "imported"
+    },
+    "glossary:r_054ad5e444212ad8": {
+      "text": "Evangelion 1.0: You Are (Not) Alone",
+      "status": "imported"
+    },
+    "glossary:r_0c18a8f681e32d8a": {
+      "text": "Evangelion 1.0: You Are (Not) Alone",
+      "status": "imported"
+    },
+    "glossary:r_b0190b3116860796": {
+      "text": "Evangelion 2.0: You Can (Not) Advance",
+      "status": "imported"
+    },
+    "glossary:r_9e48cfa2bcb27737": {
+      "text": "Six God Combination Godmars",
+      "status": "imported"
+    },
+    "glossary:r_7d822857a2c5b9da": {
+      "text": "Gurren Lagann the Movie: The Lights in the Sky Are Stars",
+      "status": "imported"
+    },
+    "glossary:r_33232fad44b41ea8": {
+      "text": "Mobile Suit Gundam 00 The Movie: A Wakening of The Trailblazer",
+      "status": "imported"
+    },
+    "glossary:r_1b90eaad6d57183f": {
+      "text": "Macross Frontier The Movie: The False Songstress",
+      "status": "imported"
+    },
+    "glossary:r_b67838e24b490289": {
+      "text": "Macross Frontier The Movie: The Wings of Goodbye",
+      "status": "imported"
+    },
+    "glossary:r_36dddc5a6af05e66": {
+      "text": "Terrestrial Defense Corporation Dai-Guard",
+      "status": "imported"
+    },
+    "glossary:r_85e7706f124685c8": {
+      "text": "Tengen Toppa Gurren Lagann",
+      "status": "imported"
+    },
+    "glossary:r_2824459a9912fac2": {
+      "text": "Messenger of the Sun: Tetsujin-28 Go",
+      "status": "imported"
+    },
+    "glossary:r_f1fb3797442a9d3d": {
+      "text": "Mobile Suit Gundam Wing: Endless Waltz",
+      "status": "imported"
+    },
+    "glossary:r_490a4c8e08ac5dc2": {
+      "text": "Mobile Suit Gundam: Char's Counterattack",
+      "status": "imported"
+    },
+    "glossary:r_4fac3d25759d0157": {
+      "text": "Mobile Suit Gundam SEED Destiny",
+      "status": "imported"
+    },
+    "glossary:r_35de22c2f00d27b2": {
+      "text": "Mobile Suit Gundam Unicorn",
+      "status": "imported"
+    },
+    "glossary:r_9c0d8db220493bf6": {
+      "text": "Mobile Suit Zeta Gundam",
+      "status": "imported"
+    },
+    "glossary:r_587e4f404bcab3f1": {
+      "text": "Invincible Robot Trider G7",
+      "status": "imported"
+    },
+    "glossary:r_71bb80483700299f": {
+      "text": "Beast Machine Attack Dancouga Nova",
+      "status": "imported"
+    },
+    "glossary:r_5985d999d6d6d61e": {
+      "text": "Mazinger Edition Z: The Impact!",
+      "status": "imported"
+    },
+    "glossary:r_2000eabda61a68d5": {
+      "text": "Getter Robo Armageddon",
+      "status": "imported"
+    },
+    "glossary:r_1ef41b0a1976c194": {
+      "text": "Armored Trooper VOTOMS",
+      "status": "imported"
+    },
+    "glossary:r_6416b2cf6f67cf93": {
+      "text": "Armored Trooper VOTOMS: Big Battle",
+      "status": "imported"
+    },
+    "glossary:r_7a6d86924265b86a": {
+      "text": "Armored Trooper VOTOMS: Shining Heresy",
+      "status": "imported"
+    },
+    "glossary:r_5c9cc4c5310b12c6": {
+      "text": "Super Dimension Century Orguss",
+      "status": "imported"
+    },
+    "glossary:r_319e6c286eaaf722": {
+      "text": "The Big O",
+      "status": "imported"
+    },
+    "glossary:r_d75e2099e9ee06b0": {
+      "text": "Skies of Aquaria",
+      "status": "imported"
+    },
+    "glossary:r_05c85897e66f2fef": {
+      "text": "Fallen Wing",
+      "status": "imported"
+    },
+    "glossary:r_71a8de131958c7c4": {
+      "text": "Head Wing",
+      "status": "imported"
+    },
+    "glossary:r_bd20d9ec67ba2e39": {
+      "text": "Aim",
+      "status": "imported"
+    },
+    "glossary:r_57f7975cb793bf55": {
+      "text": "Akashic Record",
+      "status": "imported"
+    },
+    "glossary:r_63d9995d5a3bfb53": {
+      "text": "Abyss",
+      "status": "imported"
+    },
+    "glossary:r_b177b5e8d67eca46": {
+      "text": "Ambrone Zius",
+      "status": "imported"
+    },
+    "glossary:r_e688a7b00af0ec47": {
+      "text": "Insaraum",
+      "status": "imported"
+    },
+    "glossary:r_19d3f33e35003367": {
+      "text": "Esther",
+      "status": "imported"
+    },
+    "glossary:r_d94c1ef2a4f0af67": {
+      "text": "Eternity Flat",
+      "status": "imported"
+    },
+    "glossary:r_c9543ba6001f06fb": {
+      "text": "Elgan Roddick",
+      "status": "imported"
+    },
+    "glossary:r_6d61bb6c48180483": {
+      "text": "Occult Forum",
+      "status": "imported"
+    },
+    "glossary:r_c7054a1f41ed99aa": {
+      "text": "Origin Law",
+      "status": "imported"
+    },
+    "glossary:r_7ad379c39f1e7cf1": {
+      "text": "Carlos",
+      "status": "imported"
+    },
+    "glossary:r_6856b90cb42725aa": {
+      "text": "Gaiou",
+      "status": "imported"
+    },
+    "glossary:r_67196317631c07be": {
+      "text": "Copernicus Conference",
+      "status": "imported"
+    },
+    "glossary:r_4f8f364677cc756f": {
+      "text": "The Edel Bernal",
+      "status": "imported"
+    },
+    "glossary:r_25050bf77f5f1ccc": {
+      "text": "Sphere",
+      "status": "imported"
+    },
+    "glossary:r_6c18379baa1a1a8e": {
+      "text": "Sphere Backlash",
+      "status": "imported"
+    },
+    "glossary:r_2297bea0b0809529": {
+      "text": "Sphere Reactor",
+      "status": "imported"
+    },
+    "glossary:r_06572fa9361e3ab4": {
+      "text": "Dullahan",
+      "status": "imported"
+    },
+    "glossary:r_8898fa8d916480bc": {
+      "text": "Twinkle Project",
+      "status": "imported"
+    },
+    "glossary:r_746c0abb777dd5bc": {
+      "text": "Neo Planets",
+      "status": "imported"
+    },
+    "glossary:r_f1329182803ddf82": {
+      "text": "Baal",
+      "status": "imported"
+    },
+    "glossary:r_3d67c8805caf9e73": {
+      "text": "Beast Hunter",
+      "status": "imported"
+    },
+    "glossary:r_4423a7146d53e76d": {
+      "text": "Firebug",
+      "status": "imported"
+    },
+    "glossary:r_f88d77151fa65919": {
+      "text": "Britannia Union",
+      "status": "imported"
+    },
+    "glossary:r_89f67985ac9a88b2": {
+      "text": "Boost Up",
+      "status": "imported"
+    },
+    "glossary:r_e93ec7f7812509c5": {
+      "text": "Marguerite",
+      "status": "imported"
+    },
+    "glossary:r_47ca0c51f435e8f8": {
+      "text": "Mail",
+      "status": "imported"
+    },
+    "glossary:r_06643bfb354a2e35": {
+      "text": "Uther",
+      "status": "imported"
+    },
+    "glossary:r_f0bb176e2e49c48c": {
+      "text": "Regeneration War",
+      "status": "imported"
+    },
+    "glossary:r_f9f8ef7b13ddbb67": {
+      "text": "Multiverse War",
+      "status": "imported"
+    },
+    "glossary:r_43569da1590b5da1": {
+      "text": "Great Spacequake",
+      "status": "imported"
+    },
+    "glossary:r_47a7960e7579c15f": {
+      "text": "Princess",
+      "status": "imported"
+    },
+    "glossary:r_88ec1480b02df3c7": {
+      "text": "Neo Spacequake",
+      "status": "imported"
+    },
+    "glossary:r_e9e7331efdf9a796": {
+      "text": "New World Continent",
+      "status": "imported"
+    },
+    "glossary:r_cee43871f5f4e73b": {
+      "text": "New Empire Imperium",
+      "status": "imported"
+    },
+    "glossary:r_b3290d499e30ff46": {
+      "text": "New Japan",
+      "status": "imported"
+    },
+    "glossary:r_1bd616d747fe4760": {
+      "text": "Spacetime Repair",
+      "status": "imported"
+    },
+    "glossary:r_226c4ddb38eeb829": {
+      "text": "Spacequake",
+      "status": "imported"
+    },
+    "glossary:r_e142d0e591dba3d2": {
+      "text": "Dark Continent",
+      "status": "imported"
+    },
+    "glossary:r_d7489c53b545af62": {
+      "text": "Dimensional Power",
+      "status": "imported"
+    },
+    "glossary:r_189acffa10bfc05f": {
+      "text": "Dimensional Beast",
+      "status": "imported"
+    },
+    "glossary:r_0ce109de36b621b9": {
+      "text": "Stigma",
+      "status": "imported"
+    },
+    "glossary:r_f2c8a19a3fdc2862": {
+      "text": "Special Student Teacher",
+      "status": "imported"
+    },
+    "glossary:r_50be2bc2ccc097cd": {
+      "text": "Destruction Incident",
+      "status": "imported"
+    },
+    "glossary:r_fd885d82be251cbb": {
+      "text": "Neo Tokyo-2",
+      "status": "imported"
+    },
+    "glossary:r_faba9db0eb1e7448": {
+      "text": "Black Charisma",
+      "status": "imported"
+    },
+    "glossary:r_4e9ac46a6ef67a51": {
+      "text": "Black Wisdom",
+      "status": "imported"
+    },
+    "glossary:r_6461ef1062e05f95": {
+      "text": "ADW",
+      "status": "imported"
+    },
+    "glossary:r_fef0c09a4668974b": {
+      "text": "DEC",
+      "status": "imported"
+    },
+    "glossary:r_cb2a7fddd73571a3": {
+      "text": "DEM",
+      "status": "imported"
+    },
+    "glossary:r_dc39969a070dc72c": {
+      "text": "DG",
+      "status": "imported"
+    },
+    "glossary:r_437bd918aaf0b6e1": {
+      "text": "UCW",
+      "status": "imported"
+    },
+    "glossary:r_bf1525b9085bde22": {
+      "text": "UN",
+      "status": "imported"
+    },
+    "glossary:r_3d89e1d855eeaf37": {
+      "text": "ZEUTH",
+      "status": "imported"
+    },
+    "glossary:r_34adcb8365a647bf": {
+      "text": "ZEXIS",
+      "status": "imported"
+    },
+    "glossary:r_73e5178e7594adc9": {
+      "text": "ZONE",
+      "status": "imported"
+    },
+    "glossary:r_026f702484a9af57": {
+      "text": "Ashford Academy",
+      "status": "imported"
+    },
+    "glossary:r_36535025520977f4": {
+      "text": "Sword of Akasha",
+      "status": "imported"
+    },
+    "glossary:r_0fbaa303a139f99d": {
+      "text": "Area 11",
+      "status": "imported"
+    },
+    "glossary:r_533b92c2f2991e76": {
+      "text": "Geass",
+      "status": "imported"
+    },
+    "glossary:r_ebc2a558f3d74c8a": {
+      "text": "Geass Order",
+      "status": "imported"
+    },
+    "glossary:r_1dd659c738ca856a": {
+      "text": "Emperor Lelouch",
+      "status": "imported"
+    },
+    "glossary:r_df3a428824f3c3ff": {
+      "text": "Collective Unconscious",
+      "status": "imported"
+    },
+    "glossary:r_327befbfa3c7e40e": {
+      "text": "Chamber of Twilight",
+      "status": "imported"
+    },
+    "glossary:r_7517473cd9836a11": {
+      "text": "STMC",
+      "status": "imported"
+    },
+    "glossary:r_c6d2a1d94e6f87e1": {
+      "text": "Fumofumo Land",
+      "status": "imported"
+    },
+    "glossary:r_3e269d9912af7fc6": {
+      "text": "Whispered",
+      "status": "imported"
+    },
+    "glossary:r_980e63382da29ab5": {
+      "text": "Mithril",
+      "status": "imported"
+    },
+    "glossary:r_a98afc9adf9320cd": {
+      "text": "Merida Island",
+      "status": "imported"
+    },
+    "glossary:r_5ca4e58ef1ce0165": {
+      "text": "ECS",
+      "status": "imported"
+    },
+    "glossary:r_5401eb39d34c7034": {
+      "text": "SRT",
+      "status": "imported"
+    },
+    "glossary:r_a174a4648ff8c2e2": {
+      "text": "Anima Spiritia",
+      "status": "imported"
+    },
+    "glossary:r_5c68e1f171387daa": {
+      "text": "Gepelnitch",
+      "status": "imported"
+    },
+    "glossary:r_c7ff924409ff5df6": {
+      "text": "Lynn Minmay",
+      "status": "imported"
+    },
+    "glossary:r_6a5cab2ee5b2983c": {
+      "text": "Second Impact",
+      "status": "imported"
+    },
+    "glossary:r_503ab75ae35781ce": {
+      "text": "Lilith",
+      "status": "imported"
+    },
+    "glossary:r_02c3fb73916a655a": {
+      "text": "Zul",
+      "status": "imported"
+    },
+    "glossary:r_11bd8a24244d18e5": {
+      "text": "Marg",
+      "status": "imported"
+    },
+    "glossary:r_06770c43cf772cb7": {
+      "text": "A-Laws",
+      "status": "imported"
+    },
+    "glossary:r_a3f1531bea50ce76": {
+      "text": "Innovade",
+      "status": "imported"
+    },
+    "glossary:r_8a216998a5f36416": {
+      "text": "Krugis",
+      "status": "imported"
+    },
+    "glossary:r_4c98035bd627252b": {
+      "text": "Veda",
+      "status": "imported"
+    },
+    "glossary:r_d93dc1e606695627": {
+      "text": "Human Reform League",
+      "status": "imported"
+    },
+    "glossary:r_7dd93900197a48bf": {
+      "text": "Celestial Being (mothership)",
+      "status": "imported"
+    },
+    "glossary:r_8ae394ba0ed6729b": {
+      "text": "The Film 'Celestial Being'",
+      "status": "imported"
+    },
+    "glossary:r_3f0636b5dfe65de8": {
+      "text": "Quantum Brainwaves",
+      "status": "imported"
+    },
+    "glossary:r_83a12d6ee23b6c43": {
+      "text": "KPSA",
+      "status": "imported"
+    },
+    "glossary:r_f92884ca33a6fcfb": {
+      "text": "Grace",
+      "status": "imported"
+    },
+    "glossary:r_69c9ca1aaa3ca6d1": {
+      "text": "Kiichiro Tokugawa",
+      "status": "imported"
+    },
+    "glossary:r_61e87189b773ec68": {
+      "text": "S.M.S.",
+      "status": "imported"
+    },
+    "glossary:r_1b9cd858cdf5b712": {
+      "text": "Heterodyne",
+      "status": "imported"
+    },
+    "glossary:r_cf82e816a8bb33b9": {
+      "text": "Eijiro Sakurada",
+      "status": "imported"
+    },
+    "glossary:r_f5ceb077dd97d8cd": {
+      "text": "Boundary Quake",
+      "status": "imported"
+    },
+    "glossary:r_2b0053dec680f9cf": {
+      "text": "21st Century Security",
+      "status": "imported"
+    },
+    "glossary:r_9d87770a01b236e5": {
+      "text": "Anti-Spiral",
+      "status": "imported"
+    },
+    "glossary:r_83c2fe97d7bfa463": {
+      "text": "Yomako",
+      "status": "imported"
+    },
+    "glossary:r_0c3d09fcf3b50dbc": {
+      "text": "Rigor Gun",
+      "status": "imported"
+    },
+    "glossary:r_37119c77b86a39c8": {
+      "text": "ICPO",
+      "status": "imported"
+    },
+    "glossary:r_a135fbe5e3380039": {
+      "text": "Operation Meteor",
+      "status": "imported"
+    },
+    "glossary:r_9c0776ca399a17ea": {
+      "text": "Treize",
+      "status": "imported"
+    },
+    "glossary:r_148c1bf70fd868dc": {
+      "text": "Preventer",
+      "status": "imported"
+    },
+    "glossary:r_d240e3f8c5b1560d": {
+      "text": "White Fang",
+      "status": "imported"
+    },
+    "glossary:r_ed6b08e8d2bebccf": {
+      "text": "Sweetwater",
+      "status": "imported"
+    },
+    "glossary:r_b491c854d4a3def1": {
+      "text": "ZAFT",
+      "status": "imported"
+    },
+    "glossary:r_33fb22b64c0a9738": {
+      "text": "Durandal",
+      "status": "imported"
+    },
+    "glossary:r_3a684beef30122d5": {
+      "text": "Patrick Zala",
+      "status": "imported"
+    },
+    "glossary:r_f8f511009f4b2024": {
+      "text": "Blue Cosmos",
+      "status": "imported"
+    },
+    "glossary:r_fd26b743d5bde449": {
+      "text": "PLANT",
+      "status": "imported"
+    },
+    "glossary:r_499577879a78bb36": {
+      "text": "Meer Campbell",
+      "status": "imported"
+    },
+    "glossary:r_990609fe35d4c6cf": {
+      "text": "Junius Seven",
+      "status": "imported"
+    },
+    "glossary:r_9e9487a3754ae34e": {
+      "text": "Logos",
+      "status": "imported"
+    },
+    "glossary:r_b322845e1ac67a4c": {
+      "text": "Earth Alliance",
+      "status": "imported"
+    },
+    "glossary:r_4a28a2ca1845b00c": {
+      "text": "Red Coat",
+      "status": "imported"
+    },
+    "glossary:r_3cd839fed609961c": {
+      "text": "FAITH",
+      "status": "imported"
+    },
+    "glossary:r_6058017dc67e6898": {
+      "text": "Snail",
+      "status": "imported"
+    },
+    "glossary:r_e9d7b480468b8d1b": {
+      "text": "Toro-Hachi",
+      "status": "imported"
+    },
+    "glossary:r_ff926ba5e0ffbb94": {
+      "text": "Axis",
+      "status": "imported"
+    },
+    "glossary:r_8c97f51f405e26a4": {
+      "text": "AEUG",
+      "status": "imported"
+    },
+    "glossary:r_7c35d6fb8c73cf9b": {
+      "text": "Karaba",
+      "status": "imported"
+    },
+    "glossary:r_5f3e7aa9b5f92877": {
+      "text": "Titans",
+      "status": "imported"
+    },
+    "glossary:r_6266f4467d6edbea": {
+      "text": "One Year War",
+      "status": "imported"
+    },
+    "glossary:r_10cc0a299e3151ff": {
+      "text": "Universal Century",
+      "status": "imported"
+    },
+    "glossary:r_08cdf5e07e533979": {
+      "text": "Gabarnium",
+      "status": "imported"
+    },
+    "glossary:r_5e556a166219c4a6": {
+      "text": "Kurogane-ya",
+      "status": "imported"
+    },
+    "glossary:r_afca96bfc6ba8802": {
+      "text": "Invader",
+      "status": "imported"
+    },
+    "glossary:r_c680a91e3be71909": {
+      "text": "Nextant",
+      "status": "imported"
+    },
+    "glossary:r_e0915e3949f9b882": {
+      "text": "Martial",
+      "status": "imported"
+    },
+    "glossary:r_1195b29c4e464d44": {
+      "text": "Astragius",
+      "status": "imported"
+    },
+    "glossary:r_423ae0f4201a33bd": {
+      "text": "Kummen",
+      "status": "imported"
+    },
+    "glossary:r_f76074c1fd1665ed": {
+      "text": "Mission Disc",
+      "status": "imported"
+    },
+    "glossary:r_239a0052a5a0e411": {
+      "text": "Real Battle",
+      "status": "imported"
+    },
+    "glossary:r_5a197529d6feaca2": {
+      "text": "Red Shoulder",
+      "status": "imported"
+    },
+    "glossary:r_f3249632c31a29ac": {
+      "text": "Abnormal Survivor",
+      "status": "imported"
+    },
+    "glossary:r_6817ebd9508bd7a4": {
+      "text": "Secret Society",
+      "status": "imported"
+    },
+    "glossary:r_fbbabca6c4936857": {
+      "text": "PS",
+      "status": "imported"
+    },
+    "glossary:r_4cbec1b589efaacd": {
+      "text": "Factory",
+      "status": "imported"
+    },
+    "glossary:r_a440033e5525b166": {
+      "text": "Spacequake Bomb",
+      "status": "imported"
+    },
+    "glossary:r_94dba5f02124bceb": {
+      "text": "Metropolis",
+      "status": "imported"
+    },
+    "glossary:r_492cddf5e71f2355": {
+      "text": "Apollon",
+      "status": "imported"
+    },
+    "glossary:r_d6e32700d159d1f8": {
+      "text": "Amata",
+      "status": "imported"
+    },
+    "glossary:r_7f1b8bb82a93f8ed": {
+      "text": "Amata Sora",
+      "status": "imported"
+    },
+    "glossary:r_9441b9c6604968b7": {
+      "text": "Alicia",
+      "status": "imported"
+    },
+    "glossary:r_9e434e8a07ba74da": {
+      "text": "Andy",
+      "status": "imported"
+    },
+    "glossary:r_7b0233db1aed7446": {
+      "text": "Andy W. Hole",
+      "status": "imported"
+    },
+    "glossary:r_20e6a40fdb75a8a3": {
+      "text": "Izumo",
+      "status": "imported"
+    },
+    "glossary:r_f7c02705781badf7": {
+      "text": "Izumo Kamurogi",
+      "status": "imported"
+    },
+    "glossary:r_3838bc2686e2aaf2": {
+      "text": "Cayenne",
+      "status": "imported"
+    },
+    "glossary:r_375f2ae0a346af1a": {
+      "text": "Cayenne Suzushiro",
+      "status": "imported"
+    },
+    "glossary:r_b3e0a1b769129180": {
+      "text": "Kagura",
+      "status": "imported"
+    },
+    "glossary:r_325cb97b85dbd731": {
+      "text": "Kagura Demuri",
+      "status": "imported"
+    },
+    "glossary:r_1cd048177b245900": {
+      "text": "Crea",
+      "status": "imported"
+    },
+    "glossary:r_f518426e538d3e39": {
+      "text": "Crea Dolosera",
+      "status": "imported"
+    },
+    "glossary:r_93d55b4a41d3d154": {
+      "text": "Sazanka",
+      "status": "imported"
+    },
+    "glossary:r_f06314764d836ef9": {
+      "text": "Sazanke Bianca",
+      "status": "imported"
+    },
+    "glossary:r_ea498d4c106d6c2c": {
+      "text": "Shushu",
+      "status": "imported"
+    },
+    "glossary:r_a4a25bf5b1fcb4d6": {
+      "text": "Shrade",
+      "status": "imported"
+    },
+    "glossary:r_5f35c4ed501b5214": {
+      "text": "Shrade Elan",
+      "status": "imported"
+    },
+    "glossary:r_25fab82effe3187c": {
+      "text": "Sylphy",
+      "status": "imported"
+    },
+    "glossary:r_e3c3adc3c71bba1a": {
+      "text": "Jin",
+      "status": "imported"
+    },
+    "glossary:r_2cfd01c5295a2c8c": {
+      "text": "Jin Muso",
+      "status": "imported"
+    },
+    "glossary:r_30b7a9920d15048f": {
+      "text": "Suomi",
+      "status": "imported"
+    },
+    "glossary:r_e2e8ab51febef10d": {
+      "text": "Suomi Konepi",
+      "status": "imported"
+    },
+    "glossary:r_422c553670160743": {
+      "text": "Zessica",
+      "status": "imported"
+    },
+    "glossary:r_e4f8e6a824a1d955": {
+      "text": "Zessica Wong",
+      "status": "imported"
+    },
+    "glossary:r_bb62b5920edf777e": {
+      "text": "Mikage Towano",
+      "status": "imported"
+    },
+    "glossary:r_67d017db042d8001": {
+      "text": "Donar",
+      "status": "imported"
+    },
+    "glossary:r_e3b4679c30d57919": {
+      "text": "Donar Dantes",
+      "status": "imported"
+    },
+    "glossary:r_8d1c6fd87b938a36": {
+      "text": "Mikage",
+      "status": "imported"
+    },
+    "glossary:r_971b4a7b665a8eb0": {
+      "text": "Mikono",
+      "status": "imported"
+    },
+    "glossary:r_60ff8c65bdd68756": {
+      "text": "Mikono Suzushiro",
+      "status": "imported"
+    },
+    "glossary:r_dbc77ab9642227f2": {
+      "text": "Malloy",
+      "status": "imported"
+    },
+    "glossary:r_f956d624e6737cbf": {
+      "text": "Malloy Direzza",
+      "status": "imported"
+    },
+    "glossary:r_8c9ae51c423f7aba": {
+      "text": "Yunoha",
+      "status": "imported"
+    },
+    "glossary:r_c15f6b7685bba6eb": {
+      "text": "Yunoha Thrul",
+      "status": "imported"
+    },
+    "glossary:r_9c9afd3507999826": {
+      "text": "Fudou",
+      "status": "imported"
+    },
+    "glossary:r_d8fbfc72a16289ec": {
+      "text": "Zen Fudou",
+      "status": "imported"
+    },
+    "glossary:r_b07ad898db9d4b92": {
+      "text": "The Principal",
+      "status": "imported"
+    },
+    "glossary:r_d89785300be12d67": {
+      "text": "MIX",
+      "status": "imported"
+    },
+    "glossary:r_32b1eb5ac14d47ad": {
+      "text": "MIXY",
+      "status": "imported"
+    },
+    "glossary:r_fff4ae1bf0a9181b": {
+      "text": "Asakim",
+      "status": "imported"
+    },
+    "glossary:r_a7233cc2e8ef9996": {
+      "text": "Asakim Dowin",
+      "status": "imported"
+    },
+    "glossary:r_0460f9ae8fcddb06": {
+      "text": "Advent",
+      "status": "imported"
+    },
+    "glossary:r_ad9d7384262ba1cf": {
+      "text": "Annalotta",
+      "status": "imported"
+    },
+    "glossary:r_935ec42ba5b1e64d": {
+      "text": "Annalotta Stohls",
+      "status": "imported"
+    },
+    "glossary:r_c819206d92a10178": {
+      "text": "Gadlight",
+      "status": "imported"
+    },
+    "glossary:r_4c0339c88832bd13": {
+      "text": "Gadlight Meonsam",
+      "status": "imported"
+    },
+    "glossary:r_4c82e708a7316630": {
+      "text": "King",
+      "status": "imported"
+    },
+    "glossary:r_ba86449ae511eb68": {
+      "text": "Queen",
+      "status": "imported"
+    },
+    "glossary:r_36646b37ec43f2c3": {
+      "text": "Saigus",
+      "status": "imported"
+    },
+    "glossary:r_d0cbfc7328cf2ae3": {
+      "text": "Saigus Eirony",
+      "status": "imported"
+    },
+    "glossary:r_5c8b382b2a3266ba": {
+      "text": "Cielo",
+      "status": "imported"
+    },
+    "glossary:r_02906423874bcf79": {
+      "text": "Cielo Beater",
+      "status": "imported"
+    },
+    "glossary:r_5ab5147fafd97fb7": {
+      "text": "Shinya",
+      "status": "imported"
+    },
+    "glossary:r_3adba4567f80fa86": {
+      "text": "Suzune",
+      "status": "imported"
+    },
+    "glossary:r_09f008e5eebc8b1d": {
+      "text": "Xenity",
+      "status": "imported"
+    },
+    "glossary:r_d7be337f95ad5fa0": {
+      "text": "Xenity Masse",
+      "status": "imported"
+    },
+    "glossary:r_d8c37f097d05906c": {
+      "text": "Traia",
+      "status": "imported"
+    },
+    "glossary:r_ec0cdbe340d243d8": {
+      "text": "Traia Scott",
+      "status": "imported"
+    },
+    "glossary:r_72a7a95df84eeaa4": {
+      "text": "Hibiki",
+      "status": "imported"
+    },
+    "glossary:r_79c0bb072c5f6a8e": {
+      "text": "Hibiki Kamishiro",
+      "status": "imported"
+    },
+    "glossary:r_594ed5b7d3f2f058": {
+      "text": "Maki",
+      "status": "imported"
+    },
+    "glossary:r_6690b3935cd4789c": {
+      "text": "Misako",
+      "status": "imported"
+    },
+    "glossary:r_4f9386df0d83af49": {
+      "text": "Shinya Ohara",
+      "status": "imported"
+    },
+    "glossary:r_e0a82f4c650e0c15": {
+      "text": "Shikuu",
+      "status": "imported"
+    },
+    "glossary:r_e8191a83fc5a051a": {
+      "text": "Maki Kashiwaba",
+      "status": "imported"
+    },
+    "glossary:r_07a3c460a7154b3a": {
+      "text": "Misako Shirai",
+      "status": "imported"
+    },
+    "glossary:r_b73e2ab3c40a3ac5": {
+      "text": "Suzune Saijou",
+      "status": "imported"
+    },
+    "glossary:r_fb64b168f3b69937": {
+      "text": "AG",
+      "status": "imported"
+    },
+    "glossary:r_bebf7ba20daf59a1": {
+      "text": "Anya",
+      "status": "imported"
+    },
+    "glossary:r_ff1045ca1796feae": {
+      "text": "Anya Alstreim",
+      "status": "imported"
+    },
+    "glossary:r_699f662ab4c9cf1c": {
+      "text": "Kallen",
+      "status": "imported"
+    },
+    "glossary:r_3973c2b1df16c1b4": {
+      "text": "Jeremiah",
+      "status": "imported"
+    },
+    "glossary:r_6adb3489dd21285e": {
+      "text": "Jeremiah Gottwald",
+      "status": "imported"
+    },
+    "glossary:r_5fb4bad5dfba44b8": {
+      "text": "Gino",
+      "status": "imported"
+    },
+    "glossary:r_3cd8128178034443": {
+      "text": "Gino Weinberg",
+      "status": "imported"
+    },
+    "glossary:r_ae819a2bae6d1b9f": {
+      "text": "Suzaku",
+      "status": "imported"
+    },
+    "glossary:r_87981d17fcd2b02b": {
+      "text": "Zero",
+      "status": "imported"
+    },
+    "glossary:r_afc61f2f452d97b5": {
+      "text": "Nunnally",
+      "status": "imported"
+    },
+    "glossary:r_a51efefdefa105bc": {
+      "text": "Nunnally vi Britannia",
+      "status": "imported"
+    },
+    "glossary:r_9f22a3859e7f02c2": {
+      "text": "Rakshata",
+      "status": "imported"
+    },
+    "glossary:r_1f42a56ae73d96c5": {
+      "text": "Rakshata Chawla",
+      "status": "imported"
+    },
+    "glossary:r_bec1cae3bf741246": {
+      "text": "Lelouch",
+      "status": "imported"
+    },
+    "glossary:r_766c589b97b53b6c": {
+      "text": "Lelouch Lamperouge",
+      "status": "imported"
+    },
+    "glossary:r_e5c25f4b261a391a": {
+      "text": "Sayoko",
+      "status": "imported"
+    },
+    "glossary:r_bf5b96116735fd7d": {
+      "text": "Ohgi",
+      "status": "imported"
+    },
+    "glossary:r_e0647294f5978134": {
+      "text": "Kaname Ohgi",
+      "status": "imported"
+    },
+    "glossary:r_bc0c12d38a48f345": {
+      "text": "Xingke",
+      "status": "imported"
+    },
+    "glossary:r_f67216cacb7e69ec": {
+      "text": "Suzaku Kururugi",
+      "status": "imported"
+    },
+    "glossary:r_56cf742e1db80aaf": {
+      "text": "Sayoko Shinozaki",
+      "status": "imported"
+    },
+    "glossary:r_cee619179da7e81a": {
+      "text": "Kallen Kozuki",
+      "status": "imported"
+    },
+    "glossary:r_6382482b07f2c375": {
+      "text": "Li Xingke",
+      "status": "imported"
+    },
+    "glossary:r_4c5dce51bd664662": {
+      "text": "C.C.",
+      "status": "imported"
+    },
+    "glossary:r_da0da50116647cdb": {
+      "text": "Kazumi Amano",
+      "status": "imported"
+    },
+    "glossary:r_cdae4f4103ca90c8": {
+      "text": "Kazumi",
+      "status": "imported"
+    },
+    "glossary:r_d7a0af8f70dcbb39": {
+      "text": "Noriko Takaya",
+      "status": "imported"
+    },
+    "glossary:r_401d94ebe0603676": {
+      "text": "Noriko",
+      "status": "imported"
+    },
+    "glossary:r_989580ee4b9a347c": {
+      "text": "Kaname",
+      "status": "imported"
+    },
+    "glossary:r_c94e72eb364b20c7": {
+      "text": "Andrei Sergeivich Kalinin",
+      "status": "imported"
+    },
+    "glossary:r_32465dc2024bb3ed": {
+      "text": "Kalinin",
+      "status": "imported"
+    },
+    "glossary:r_9c60747a702be364": {
+      "text": "Gauron",
+      "status": "imported"
+    },
+    "glossary:r_910c0bffbeef33d7": {
+      "text": "Takuma Kugayama",
+      "status": "imported"
+    },
+    "glossary:r_ee1caf541344c4a3": {
+      "text": "Kurz",
+      "status": "imported"
+    },
+    "glossary:r_8eaf8b29cbe143fe": {
+      "text": "Kurz Weber",
+      "status": "imported"
+    },
+    "glossary:r_2c3845c70996f834": {
+      "text": "Nguyen",
+      "status": "imported"
+    },
+    "glossary:r_ddf71201979a9b45": {
+      "text": "Guen Bien Bo",
+      "status": "imported"
+    },
+    "glossary:r_688d0ae082a881d8": {
+      "text": "Gail McAllen",
+      "status": "imported"
+    },
+    "glossary:r_26d824ebe19d50a2": {
+      "text": "Zaied",
+      "status": "imported"
+    },
+    "glossary:r_c00960a7b5b6d32d": {
+      "text": "John Howard Danigan",
+      "status": "imported"
+    },
+    "glossary:r_d2a6b5cfa56056da": {
+      "text": "Seina",
+      "status": "imported"
+    },
+    "glossary:r_334c42a3d73e4d1d": {
+      "text": "Takuma",
+      "status": "imported"
+    },
+    "glossary:r_e3f9c18f6874ab91": {
+      "text": "Danigan",
+      "status": "imported"
+    },
+    "glossary:r_43d7362171753ecf": {
+      "text": "Dana",
+      "status": "imported"
+    },
+    "glossary:r_8e72356475dc7e38": {
+      "text": "Tessa",
+      "status": "imported"
+    },
+    "glossary:r_7e423dfb689eda19": {
+      "text": "Teletha Testarossa",
+      "status": "imported"
+    },
+    "glossary:r_c3a694708e8d1708": {
+      "text": "Mao",
+      "status": "imported"
+    },
+    "glossary:r_8bc203a0ee3d6f5d": {
+      "text": "McAllen",
+      "status": "imported"
+    },
+    "glossary:r_9e14b4fa0d125ed4": {
+      "text": "Mardukas",
+      "status": "imported"
+    },
+    "glossary:r_c2ed236b902843f3": {
+      "text": "Melissa Mao",
+      "status": "imported"
+    },
+    "glossary:r_f0c9a25d7157ffa6": {
+      "text": "Richard Henry Mardukas",
+      "status": "imported"
+    },
+    "glossary:r_dcf93590896351fe": {
+      "text": "Kaname Chidori",
+      "status": "imported"
+    },
+    "glossary:r_f55c895b6406f05c": {
+      "text": "Sousuke",
+      "status": "imported"
+    },
+    "glossary:r_1d8223eda87d280e": {
+      "text": "Kotorou Onodera",
+      "status": "imported"
+    },
+    "glossary:r_80e9b4392d58e22a": {
+      "text": "Ono D",
+      "status": "imported"
+    },
+    "glossary:r_520c7764620170aa": {
+      "text": "Shiori Kudou",
+      "status": "imported"
+    },
+    "glossary:r_d8f3961639a202b2": {
+      "text": "Kyoko Tokiwa",
+      "status": "imported"
+    },
+    "glossary:r_e417126d5875f985": {
+      "text": "Kyoko",
+      "status": "imported"
+    },
+    "glossary:r_4fe3628125984b13": {
+      "text": "Eri",
+      "status": "imported"
+    },
+    "glossary:r_cdf6d7a116d9f138": {
+      "text": "Sousuke Sagara",
+      "status": "imported"
+    },
+    "glossary:r_5172e249e9ca1c5d": {
+      "text": "Eri Kagurazaka",
+      "status": "imported"
+    },
+    "glossary:r_97aff62415fdf594": {
+      "text": "Shiori",
+      "status": "imported"
+    },
+    "glossary:r_0c434e4be7ab0c82": {
+      "text": "Akagi",
+      "status": "imported"
+    },
+    "glossary:r_168e6195a97915f3": {
+      "text": "Ryunosuke Akagi",
+      "status": "imported"
+    },
+    "glossary:r_60ab24f156cf05d0": {
+      "text": "Kazama",
+      "status": "imported"
+    },
+    "glossary:r_7ea7e85c8b4d0440": {
+      "text": "Shinji Kazama",
+      "status": "imported"
+    },
+    "glossary:r_9ae173a420abc9ce": {
+      "text": "Amit",
+      "status": "imported"
+    },
+    "glossary:r_06e2181502d6bec0": {
+      "text": "Alastor",
+      "status": "imported"
+    },
+    "glossary:r_a449b574b40c69ce": {
+      "text": "Al",
+      "status": "imported"
+    },
+    "glossary:r_dc2fec73d3d83d51": {
+      "text": "Gavin Hunter",
+      "status": "imported"
+    },
+    "glossary:r_1f7890501c337510": {
+      "text": "Clouseau",
+      "status": "imported"
+    },
+    "glossary:r_eb82e5a3dc22cd88": {
+      "text": "Gates",
+      "status": "imported"
+    },
+    "glossary:r_1e00cfb0069c0d8c": {
+      "text": "Jerome Borda",
+      "status": "imported"
+    },
+    "glossary:r_8335afa0edff50a8": {
+      "text": "Hunter",
+      "status": "imported"
+    },
+    "glossary:r_98f96756f5c42a23": {
+      "text": "Belfangan Clouseau",
+      "status": "imported"
+    },
+    "glossary:r_f201d2542726286a": {
+      "text": "Borda",
+      "status": "imported"
+    },
+    "glossary:r_d984ed69e1da2b82": {
+      "text": "Mallory",
+      "status": "imported"
+    },
+    "glossary:r_f4136ce82d1a2bb4": {
+      "text": "Mayer Amit",
+      "status": "imported"
+    },
+    "glossary:r_879673305c190735": {
+      "text": "Wraith",
+      "status": "imported"
+    },
+    "glossary:r_21d8ccde415e2c10": {
+      "text": "Leonard",
+      "status": "imported"
+    },
+    "glossary:r_4ff3ac6d7ad7f4b1": {
+      "text": "Leonard Testarossa",
+      "status": "imported"
+    },
+    "glossary:r_037181665e886d7b": {
+      "text": "Xia Yu Fan",
+      "status": "imported"
+    },
+    "glossary:r_ae1e3b0ed02f5193": {
+      "text": "Xia Yu Lan",
+      "status": "imported"
+    },
+    "glossary:r_880a22e7472dd7b4": {
+      "text": "Yu Fan",
+      "status": "imported"
+    },
+    "glossary:r_c920f2ec2c95a842": {
+      "text": "Yu Lan",
+      "status": "imported"
+    },
+    "glossary:r_05651cea0a708dbe": {
+      "text": "Pony Man",
+      "status": "imported"
+    },
+    "glossary:r_ec25fbc4d7db976a": {
+      "text": "Chocolat",
+      "status": "imported"
+    },
+    "glossary:r_12237f37f9611c99": {
+      "text": "Bonta-kun",
+      "status": "imported"
+    },
+    "glossary:r_68c7c92c670ed330": {
+      "text": "Maron",
+      "status": "imported"
+    },
+    "glossary:r_9fe22fd1e575873e": {
+      "text": "Waffle",
+      "status": "imported"
+    },
+    "glossary:r_684626dc4e57bc06": {
+      "text": "Issei",
+      "status": "imported"
+    },
+    "glossary:r_d2f17cf031cee3b7": {
+      "text": "Oonuki",
+      "status": "imported"
+    },
+    "glossary:r_97aa72bac241ea1f": {
+      "text": "Zenji Oonuki",
+      "status": "imported"
+    },
+    "glossary:r_a8284328b39ce37b": {
+      "text": "Hayashimizu",
+      "status": "imported"
+    },
+    "glossary:r_4068bf054ddbdd3d": {
+      "text": "Atsunobu Hayashimizu",
+      "status": "imported"
+    },
+    "glossary:r_ba719fca67c69c12": {
+      "text": "Issei Tsubaki",
+      "status": "imported"
+    },
+    "glossary:r_d3ce9f852a414d48": {
+      "text": "Ishihara",
+      "status": "imported"
+    },
+    "glossary:r_bb058eeeda9dafcb": {
+      "text": "Ren Mikihara",
+      "status": "imported"
+    },
+    "glossary:r_6e89d1b1133a838a": {
+      "text": "Youko Wakana",
+      "status": "imported"
+    },
+    "glossary:r_6147f65137368831": {
+      "text": "Ren",
+      "status": "imported"
+    },
+    "glossary:r_4dd69dd6592b8982": {
+      "text": "Gouda",
+      "status": "imported"
+    },
+    "glossary:r_dc3c6c31e4a2f2b1": {
+      "text": "Yuu Gouda",
+      "status": "imported"
+    },
+    "glossary:r_90cd04f8c1ded62b": {
+      "text": "Youko",
+      "status": "imported"
+    },
+    "glossary:r_e6d21dd1f11cc553": {
+      "text": "Gamlin",
+      "status": "imported"
+    },
+    "glossary:r_b355a19fae926fa9": {
+      "text": "Gamlin Kizaki",
+      "status": "imported"
+    },
+    "glossary:r_823806f41a7bf51f": {
+      "text": "Basara",
+      "status": "imported"
+    },
+    "glossary:r_266558c8c80582a1": {
+      "text": "Veffidas",
+      "status": "imported"
+    },
+    "glossary:r_34e031227b87f372": {
+      "text": "Veffidas Feaze",
+      "status": "imported"
+    },
+    "glossary:r_57cc7760c48aed47": {
+      "text": "Mylene",
+      "status": "imported"
+    },
+    "glossary:r_c59c07a3df9a03ed": {
+      "text": "Mylene Flare Jenius",
+      "status": "imported"
+    },
+    "glossary:r_d94e5f8d44b10c8a": {
+      "text": "Ray",
+      "status": "imported"
+    },
+    "glossary:r_92b7a0025e472eb1": {
+      "text": "Ray Lovelock",
+      "status": "imported"
+    },
+    "glossary:r_d00b59eb9a036e44": {
+      "text": "Basara Nekki",
+      "status": "imported"
+    },
+    "glossary:r_8e59ca36fc1d02c3": {
+      "text": "Asuka",
+      "status": "imported"
+    },
+    "glossary:r_c1a5e3d4bf3e6f80": {
+      "text": "Kaworu",
+      "status": "imported"
+    },
+    "glossary:r_248b6866d68f743c": {
+      "text": "Kensuke",
+      "status": "imported"
+    },
+    "glossary:r_60678b5b34a04974": {
+      "text": "Gendo",
+      "status": "imported"
+    },
+    "glossary:r_8f6a8fff44ab7b5c": {
+      "text": "Shigeru",
+      "status": "imported"
+    },
+    "glossary:r_0d2b095a91c6a67c": {
+      "text": "Shinji",
+      "status": "imported"
+    },
+    "glossary:r_0de2d941a5560480": {
+      "text": "Toji",
+      "status": "imported"
+    },
+    "glossary:r_aacc2a0ef9cb08db": {
+      "text": "Hikari",
+      "status": "imported"
+    },
+    "glossary:r_0fe000ecc2682de4": {
+      "text": "Pen Pen",
+      "status": "imported"
+    },
+    "glossary:r_b6d23cfed5c68cbe": {
+      "text": "Makoto",
+      "status": "imported"
+    },
+    "glossary:r_9ec00c9c9688b56b": {
+      "text": "Maya",
+      "status": "imported"
+    },
+    "glossary:r_d6833b1f1e06567e": {
+      "text": "Mari",
+      "status": "imported"
+    },
+    "glossary:r_bb5d440e312db945": {
+      "text": "Misato",
+      "status": "imported"
+    },
+    "glossary:r_1dc198c5770d2f52": {
+      "text": "Ritsuko",
+      "status": "imported"
+    },
+    "glossary:r_bfe3d44d15ecba96": {
+      "text": "Maya Ibuki",
+      "status": "imported"
+    },
+    "glossary:r_2053da745194ab42": {
+      "text": "Fuyutsuki",
+      "status": "imported"
+    },
+    "glossary:r_acd1176782154fc1": {
+      "text": "Kozo Fuyutsuki",
+      "status": "imported"
+    },
+    "glossary:r_99971b0b2b58a0f4": {
+      "text": "Kaji",
+      "status": "imported"
+    },
+    "glossary:r_0d412764bc855eaf": {
+      "text": "Ryoji Kaji",
+      "status": "imported"
+    },
+    "glossary:r_30db61fb935ccaf9": {
+      "text": "Asuka Langley Shikinami",
+      "status": "imported"
+    },
+    "glossary:r_9a11a5d706ecc46e": {
+      "text": "Teacher",
+      "status": "imported"
+    },
+    "glossary:r_67d64dbda5319c48": {
+      "text": "Makoto Hyuga",
+      "status": "imported"
+    },
+    "glossary:r_cef37faab269db9c": {
+      "text": "Hikari Horaki",
+      "status": "imported"
+    },
+    "glossary:r_3f660fbc6e1a8e70": {
+      "text": "Kaworu Nagisa",
+      "status": "imported"
+    },
+    "glossary:r_efd308c45b9278ab": {
+      "text": "Kensuke Aida",
+      "status": "imported"
+    },
+    "glossary:r_6de183ac6a6c284d": {
+      "text": "Mari Illustrious Makinami",
+      "status": "imported"
+    },
+    "glossary:r_82febfaeddd4a1f8": {
+      "text": "Gendo Ikari",
+      "status": "imported"
+    },
+    "glossary:r_8c9bfbe38bb57574": {
+      "text": "Shinji Ikari",
+      "status": "imported"
+    },
+    "glossary:r_0f1dfb1f1b8b9875": {
+      "text": "Rei Ayanami",
+      "status": "imported"
+    },
+    "glossary:r_11292494f5221a30": {
+      "text": "Misato Katsuragi",
+      "status": "imported"
+    },
+    "glossary:r_c0ed6e1dd9db59af": {
+      "text": "Ritsuko Akagi",
+      "status": "imported"
+    },
+    "glossary:r_aec711081ef425e5": {
+      "text": "Toji Suzuhara",
+      "status": "imported"
+    },
+    "glossary:r_cec713e57c11099d": {
+      "text": "Shigeru Aoba",
+      "status": "imported"
+    },
+    "glossary:r_d8fca64743c5b4e3": {
+      "text": "Seele",
+      "status": "imported"
+    },
+    "glossary:r_2b7ce66269db94ed": {
+      "text": "Akira",
+      "status": "imported"
+    },
+    "glossary:r_7dd1e56bd24631d1": {
+      "text": "Kenji",
+      "status": "imported"
+    },
+    "glossary:r_3b739ba696db92af": {
+      "text": "Takeru",
+      "status": "imported"
+    },
+    "glossary:r_a2c9847e9a3bc834": {
+      "text": "Naoto",
+      "status": "imported"
+    },
+    "glossary:r_4904386149b61b1e": {
+      "text": "Namida",
+      "status": "imported"
+    },
+    "glossary:r_53b717d9672423fa": {
+      "text": "Marg",
+      "status": "imported"
+    },
+    "glossary:r_353a3e76c280b652": {
+      "text": "Mika",
+      "status": "imported"
+    },
+    "glossary:r_57ef5ce7e3bd0e38": {
+      "text": "Roze",
+      "status": "imported"
+    },
+    "glossary:r_44af58e79648687d": {
+      "text": "Naoto Ijuin",
+      "status": "imported"
+    },
+    "glossary:r_31ef15afa5997973": {
+      "text": "Otsuka",
+      "status": "imported"
+    },
+    "glossary:r_620b3c3e7df3447f": {
+      "text": "Shigeru Otsuka",
+      "status": "imported"
+    },
+    "glossary:r_48a7291da4b20e5e": {
+      "text": "Mika Hyuga",
+      "status": "imported"
+    },
+    "glossary:r_422be3440e33abbc": {
+      "text": "Namida Akashi",
+      "status": "imported"
+    },
+    "glossary:r_1b3e4a85ead2067e": {
+      "text": "Takeru Myojin",
+      "status": "imported"
+    },
+    "glossary:r_56e6a7f0d66189ad": {
+      "text": "Shizuka Myojin",
+      "status": "imported"
+    },
+    "glossary:r_7f44d8b37f151806": {
+      "text": "Akira Kiso",
+      "status": "imported"
+    },
+    "glossary:r_c5f40627ee74f7fe": {
+      "text": "Shizuka",
+      "status": "imported"
+    },
+    "glossary:r_bc52efbbd7ad991a": {
+      "text": "Kenji Asuka",
+      "status": "imported"
+    },
+    "glossary:r_395792874f4c03ac": {
+      "text": "Anti-Spiral",
+      "status": "imported"
+    },
+    "glossary:r_828b31638548ac94": {
+      "text": "Anne",
+      "status": "imported"
+    },
+    "glossary:r_579e445f3180a704": {
+      "text": "Anne Littner",
+      "status": "imported"
+    },
+    "glossary:r_94fde7ffcd4f1426": {
+      "text": "Attenborough",
+      "status": "imported"
+    },
+    "glossary:r_508796fe99fd43b2": {
+      "text": "Attenborough Cortich",
+      "status": "imported"
+    },
+    "glossary:r_c8c95b3ef7461701": {
+      "text": "Kamina",
+      "status": "imported"
+    },
+    "glossary:r_431191be68a1438c": {
+      "text": "Gabal",
+      "status": "imported"
+    },
+    "glossary:r_750d71df76031b8c": {
+      "text": "Gabal Docker",
+      "status": "imported"
+    },
+    "glossary:r_365b8187876ce721": {
+      "text": "Kittan",
+      "status": "imported"
+    },
+    "glossary:r_3987eba57d118dc9": {
+      "text": "Kittan Bachika",
+      "status": "imported"
+    },
+    "glossary:r_1713d6e782a5fca2": {
+      "text": "Kinon",
+      "status": "imported"
+    },
+    "glossary:r_c338c275f4116ffe": {
+      "text": "Kinon Bachika",
+      "status": "imported"
+    },
+    "glossary:r_01cf974a77bb676e": {
+      "text": "Kiyal",
+      "status": "imported"
+    },
+    "glossary:r_b6325ae510eb2f85": {
+      "text": "Kiyal Bachika",
+      "status": "imported"
+    },
+    "glossary:r_ec8e13097424f361": {
+      "text": "Kiyoh",
+      "status": "imported"
+    },
+    "glossary:r_93a9a1670c2b8957": {
+      "text": "Kiyoh Littner",
+      "status": "imported"
+    },
+    "glossary:r_b7547738d32fbd39": {
+      "text": "Gimmy",
+      "status": "imported"
+    },
+    "glossary:r_732ed6e30d6dee2a": {
+      "text": "Gimmy Adai",
+      "status": "imported"
+    },
+    "glossary:r_ad997c0c7c7e7f6b": {
+      "text": "Guinble",
+      "status": "imported"
+    },
+    "glossary:r_8266e820f7378f18": {
+      "text": "Guinble Kaito",
+      "status": "imported"
+    },
+    "glossary:r_df49353d49a78f3a": {
+      "text": "Cybela",
+      "status": "imported"
+    },
+    "glossary:r_ef08d67e8116b857": {
+      "text": "Cybela Kuto",
+      "status": "imported"
+    },
+    "glossary:r_ff9708c40f4cf52d": {
+      "text": "Simon",
+      "status": "imported"
+    },
+    "glossary:r_f228e58ef09c266d": {
+      "text": "Dayakka",
+      "status": "imported"
+    },
+    "glossary:r_8a0a3ce1e0ebdf4c": {
+      "text": "Dayakka Littner",
+      "status": "imported"
+    },
+    "glossary:r_99d087b29a046dfd": {
+      "text": "Darry",
+      "status": "imported"
+    },
+    "glossary:r_ed16e5e853f6afd3": {
+      "text": "Darry Adai",
+      "status": "imported"
+    },
+    "glossary:r_954b8654ea2cd5e0": {
+      "text": "Tetsukan",
+      "status": "imported"
+    },
+    "glossary:r_b85ca76ca1e573a2": {
+      "text": "Tetsukan Littner",
+      "status": "imported"
+    },
+    "glossary:r_34e922935c83e0ff": {
+      "text": "Nia",
+      "status": "imported"
+    },
+    "glossary:r_91703c50562eca01": {
+      "text": "Nia Teppelin",
+      "status": "imported"
+    },
+    "glossary:r_f4a97210772ad117": {
+      "text": "Boota",
+      "status": "imported"
+    },
+    "glossary:r_7d453ca7ae2cf032": {
+      "text": "Yoko",
+      "status": "imported"
+    },
+    "glossary:r_15425df2fb1667cb": {
+      "text": "Leeron",
+      "status": "imported"
+    },
+    "glossary:r_687dc8538968c605": {
+      "text": "Leeron Littner",
+      "status": "imported"
+    },
+    "glossary:r_1f507414eccb3ab6": {
+      "text": "Rossiu",
+      "status": "imported"
+    },
+    "glossary:r_ec8b10a3f81f5c5e": {
+      "text": "Rossiu Adai",
+      "status": "imported"
+    },
+    "glossary:r_88f8323e904ac600": {
+      "text": "Lordgenome",
+      "status": "imported"
+    },
+    "glossary:r_f7e9e887d008f623": {
+      "text": "Lordgenome Head",
+      "status": "imported"
+    },
+    "glossary:r_8554c2e530745026": {
+      "text": "Viral",
+      "status": "imported"
+    },
+    "glossary:r_15447e20464af54f": {
+      "text": "Alejandro",
+      "status": "imported"
+    },
+    "glossary:r_ce759ea02e6db9d3": {
+      "text": "Alejandro Corner",
+      "status": "imported"
+    },
+    "glossary:r_9bbdb84c5b51de57": {
+      "text": "Allelujah",
+      "status": "imported"
+    },
+    "glossary:r_630f001de8c7b480": {
+      "text": "Allelujah Haptism",
+      "status": "imported"
+    },
+    "glossary:r_62950946ead4a821": {
+      "text": "Andrei",
+      "status": "imported"
+    },
+    "glossary:r_f7075003b32dab63": {
+      "text": "Andrei Smirnov",
+      "status": "imported"
+    },
+    "glossary:r_a47f1c18f7a1be27": {
+      "text": "Ian",
+      "status": "imported"
+    },
+    "glossary:r_291c8b7ca25750c9": {
+      "text": "Ian Vashti",
+      "status": "imported"
+    },
+    "glossary:r_4733e4717da7b9a1": {
+      "text": "Warren",
+      "status": "imported"
+    },
+    "glossary:r_e3452ea38974dd16": {
+      "text": "Kati",
+      "status": "imported"
+    },
+    "glossary:r_4c7d30323a0f1df9": {
+      "text": "Kati Mannequin",
+      "status": "imported"
+    },
+    "glossary:r_b6f94fbeb44ba64c": {
+      "text": "Klaus",
+      "status": "imported"
+    },
+    "glossary:r_904c1ca4d435f07a": {
+      "text": "Klaus Grad",
+      "status": "imported"
+    },
+    "glossary:r_a4c7619e6818065e": {
+      "text": "Graham",
+      "status": "imported"
+    },
+    "glossary:r_54c308a851af7622": {
+      "text": "Graham Aker",
+      "status": "imported"
+    },
+    "glossary:r_d29803de09e29f34": {
+      "text": "Colasour",
+      "status": "imported"
+    },
+    "glossary:r_7cb90d98501d0fc2": {
+      "text": "Shirin",
+      "status": "imported"
+    },
+    "glossary:r_b86013cb8d39083f": {
+      "text": "Shirin Bakhtiar",
+      "status": "imported"
+    },
+    "glossary:r_66e3b4583ccdf3cd": {
+      "text": "Jennifer",
+      "status": "imported"
+    },
+    "glossary:r_c10b10668169ad47": {
+      "text": "Sumeragi",
+      "status": "imported"
+    },
+    "glossary:r_c4874055545db712": {
+      "text": "Sumeragi Lee Noriega",
+      "status": "imported"
+    },
+    "glossary:r_236a15b49fcf96d8": {
+      "text": "Soma Peries",
+      "status": "imported"
+    },
+    "glossary:r_da7d6ab1b0a6cc24": {
+      "text": "Tieria",
+      "status": "imported"
+    },
+    "glossary:r_f2fc0b0d3e414a0c": {
+      "text": "Tieria Erde",
+      "status": "imported"
+    },
+    "glossary:r_d328f243257701fc": {
+      "text": "Hallelujah",
+      "status": "imported"
+    },
+    "glossary:r_c84e96fdb20b0a59": {
+      "text": "Haro",
+      "status": "imported"
+    },
+    "glossary:r_1794eeed95c2c7e0": {
+      "text": "Patrick Mannequin",
+      "status": "imported"
+    },
+    "glossary:r_c87bda41a0a54586": {
+      "text": "Billy",
+      "status": "imported"
+    },
+    "glossary:r_66d6d57e1c6ffad3": {
+      "text": "Billy Katagiri",
+      "status": "imported"
+    },
+    "glossary:r_5eabdc71f48e0742": {
+      "text": "Peries",
+      "status": "imported"
+    },
+    "glossary:r_e595aae8c5882bb4": {
+      "text": "Feldt",
+      "status": "imported"
+    },
+    "glossary:r_f66319a3e41c4b5b": {
+      "text": "Feldt Grace",
+      "status": "imported"
+    },
+    "glossary:r_dda40b1996466445": {
+      "text": "Michael",
+      "status": "imported"
+    },
+    "glossary:r_d7e84349a2c6bbd2": {
+      "text": "Michael Chan",
+      "status": "imported"
+    },
+    "glossary:r_3b3d429fec806e6a": {
+      "text": "Marina",
+      "status": "imported"
+    },
+    "glossary:r_22f27cc0dedd3d06": {
+      "text": "Marina Ismail",
+      "status": "imported"
+    },
+    "glossary:r_048ba872e7e0de9a": {
+      "text": "Marie",
+      "status": "imported"
+    },
+    "glossary:r_227895bed64030f1": {
+      "text": "Marie Parfacy",
+      "status": "imported"
+    },
+    "glossary:r_257c37c0429fa650": {
+      "text": "Mileina",
+      "status": "imported"
+    },
+    "glossary:r_4e2c7237c8a9ad75": {
+      "text": "Mileina Vashti",
+      "status": "imported"
+    },
+    "glossary:r_6e9850c754ce9d7d": {
+      "text": "Mehna",
+      "status": "imported"
+    },
+    "glossary:r_de4915b7c17737ff": {
+      "text": "Mehna Carmine",
+      "status": "imported"
+    },
+    "glossary:r_b3e3fa31c0163f66": {
+      "text": "Lasse",
+      "status": "imported"
+    },
+    "glossary:r_ae269387ba08ddb7": {
+      "text": "Lasse Aeon",
+      "status": "imported"
+    },
+    "glossary:r_27095a6daeaccda7": {
+      "text": "Louise",
+      "status": "imported"
+    },
+    "glossary:r_e10ca9365fff35df": {
+      "text": "Louise Halevy",
+      "status": "imported"
+    },
+    "glossary:r_63f5fa81f8f1bc16": {
+      "text": "Lockon",
+      "status": "imported"
+    },
+    "glossary:r_2e1489c770c0a305": {
+      "text": "Lockon Stratos",
+      "status": "imported"
+    },
+    "glossary:r_992c1700970404c3": {
+      "text": "Setsuna",
+      "status": "imported"
+    },
+    "glossary:r_8ac22fa72830507d": {
+      "text": "Setsuna F. Seiei",
+      "status": "imported"
+    },
+    "glossary:r_fc4af722062d55b0": {
+      "text": "President",
+      "status": "imported"
+    },
+    "glossary:r_c1abe0427f3bfbff": {
+      "text": "Saji",
+      "status": "imported"
+    },
+    "glossary:r_1cfc964642347a89": {
+      "text": "Saji Crossroad",
+      "status": "imported"
+    },
+    "glossary:r_64f1e1290023106c": {
+      "text": "Blue Haro",
+      "status": "imported"
+    },
+    "glossary:r_ed0dd0fe3dee5d0c": {
+      "text": "Alto",
+      "status": "imported"
+    },
+    "glossary:r_45cb9c25f5f59ebe": {
+      "text": "Elmo",
+      "status": "imported"
+    },
+    "glossary:r_363d2325fe6c3b94": {
+      "text": "Elmo Kridanik",
+      "status": "imported"
+    },
+    "glossary:r_8c6131656197104d": {
+      "text": "Ozma",
+      "status": "imported"
+    },
+    "glossary:r_7f89d107c204c74b": {
+      "text": "Ozma Lee",
+      "status": "imported"
+    },
+    "glossary:r_6d95451a8d0fd9e9": {
+      "text": "Canaria",
+      "status": "imported"
+    },
+    "glossary:r_0b77d9b4931d8e8b": {
+      "text": "Canaria Bernstein",
+      "status": "imported"
+    },
+    "glossary:r_bfddf9b384e9caec": {
+      "text": "Catherine Glass",
+      "status": "imported"
+    },
+    "glossary:r_4aefb4dcfed1a212": {
+      "text": "Cathy",
+      "status": "imported"
+    },
+    "glossary:r_46275ecbd39c9833": {
+      "text": "Klan",
+      "status": "imported"
+    },
+    "glossary:r_84390fe88b51984b": {
+      "text": "Klan Klang",
+      "status": "imported"
+    },
+    "glossary:r_e652bb94052dca92": {
+      "text": "Sheryl",
+      "status": "imported"
+    },
+    "glossary:r_a5e397c54f821389": {
+      "text": "Sheryl Nome",
+      "status": "imported"
+    },
+    "glossary:r_c947f9677206c70f": {
+      "text": "Jeffrey",
+      "status": "imported"
+    },
+    "glossary:r_c6d1f40640c0a4a3": {
+      "text": "Jeffrey Wilder",
+      "status": "imported"
+    },
+    "glossary:r_d02d730e44473525": {
+      "text": "Bobby",
+      "status": "imported"
+    },
+    "glossary:r_7ff44abbff55ab1a": {
+      "text": "Bobby Margot",
+      "status": "imported"
+    },
+    "glossary:r_f2aad22e60ce5e1b": {
+      "text": "Michel",
+      "status": "imported"
+    },
+    "glossary:r_4816c956eb3b332a": {
+      "text": "Michel Blanc",
+      "status": "imported"
+    },
+    "glossary:r_2c689e7a2b7397c2": {
+      "text": "Mina Roshan",
+      "status": "imported"
+    },
+    "glossary:r_9f5a5b365fa659d4": {
+      "text": "Monica",
+      "status": "imported"
+    },
+    "glossary:r_7ac05688dee95f5a": {
+      "text": "Monica Lange",
+      "status": "imported"
+    },
+    "glossary:r_7c77cf4b45bbeeb8": {
+      "text": "Ram",
+      "status": "imported"
+    },
+    "glossary:r_cb7dbdf06660fbeb": {
+      "text": "Ram Hoa",
+      "status": "imported"
+    },
+    "glossary:r_dc48afbba4dfdf98": {
+      "text": "Ranka",
+      "status": "imported"
+    },
+    "glossary:r_f8aa34829151c247": {
+      "text": "Ranka Lee",
+      "status": "imported"
+    },
+    "glossary:r_714ed1f583437e94": {
+      "text": "Luca",
+      "status": "imported"
+    },
+    "glossary:r_9348f77888678cf1": {
+      "text": "Luca Angelloni",
+      "status": "imported"
+    },
+    "glossary:r_7e3693762774d22e": {
+      "text": "Leon Mishima",
+      "status": "imported"
+    },
+    "glossary:r_ba665cae80b5fbf8": {
+      "text": "Mishima",
+      "status": "imported"
+    },
+    "glossary:r_946984300e6de4c9": {
+      "text": "Alto Saotome",
+      "status": "imported"
+    },
+    "glossary:r_6fd0929dd191c4d0": {
+      "text": "Yasaburou Saotome",
+      "status": "imported"
+    },
+    "glossary:r_ea90f4fe3cfd5101": {
+      "text": "Yasaburou",
+      "status": "imported"
+    },
+    "glossary:r_61578b5675e05c30": {
+      "text": "Ibuki",
+      "status": "imported"
+    },
+    "glossary:r_35af7e7fe39d2f56": {
+      "text": "Nakahara",
+      "status": "imported"
+    },
+    "glossary:r_2b754491e5eaac33": {
+      "text": "Chiaki Nakahara",
+      "status": "imported"
+    },
+    "glossary:r_f5b66e33d58cab37": {
+      "text": "Ijuin",
+      "status": "imported"
+    },
+    "glossary:r_3e8cceebd2f0a242": {
+      "text": "Hirotaka Ijuuin",
+      "status": "imported"
+    },
+    "glossary:r_2ea38223c8079cb9": {
+      "text": "Saeki",
+      "status": "imported"
+    },
+    "glossary:r_967de76527802a81": {
+      "text": "Toru Saeki",
+      "status": "imported"
+    },
+    "glossary:r_58643ba5c1595a6d": {
+      "text": "Irie",
+      "status": "imported"
+    },
+    "glossary:r_7ee3825459831fbb": {
+      "text": "Shizuka Irie",
+      "status": "imported"
+    },
+    "glossary:r_1a1bacc05b2adf51": {
+      "text": "Shirota",
+      "status": "imported"
+    },
+    "glossary:r_944039688ee4e6d3": {
+      "text": "Shirou Shirota",
+      "status": "imported"
+    },
+    "glossary:r_402ce608e4dfa4f1": {
+      "text": "Sumida",
+      "status": "imported"
+    },
+    "glossary:r_d2e6cee91448f8a0": {
+      "text": "Yousuke Sumida",
+      "status": "imported"
+    },
+    "glossary:r_e28845b4637afdae": {
+      "text": "Ooyama",
+      "status": "imported"
+    },
+    "glossary:r_ec36b413ad010793": {
+      "text": "Noriko Ooyama",
+      "status": "imported"
+    },
+    "glossary:r_db6efc9aa771a67a": {
+      "text": "Oosugi",
+      "status": "imported"
+    },
+    "glossary:r_557777fc7006bc3c": {
+      "text": "Haruo Oosugi",
+      "status": "imported"
+    },
+    "glossary:r_1c7b5a04696493d4": {
+      "text": "Ookouchi",
+      "status": "imported"
+    },
+    "glossary:r_28c863f9880414d0": {
+      "text": "Denjirou Ookouchi",
+      "status": "imported"
+    },
+    "glossary:r_d771982521b3c45a": {
+      "text": "Momoi",
+      "status": "imported"
+    },
+    "glossary:r_f867bac798f7f4d0": {
+      "text": "Ibuki Momoi",
+      "status": "imported"
+    },
+    "glossary:r_4028c575d08782fe": {
+      "text": "Yokozawa",
+      "status": "imported"
+    },
+    "glossary:r_72c070b0716a7973": {
+      "text": "Shinya Yokozawa",
+      "status": "imported"
+    },
+    "glossary:r_341730c955fb8ed4": {
+      "text": "Taguchi",
+      "status": "imported"
+    },
+    "glossary:r_8e40abe849f946eb": {
+      "text": "Tomorou Taguchi",
+      "status": "imported"
+    },
+    "glossary:r_78f3c8de701b64cb": {
+      "text": "Domeki",
+      "status": "imported"
+    },
+    "glossary:r_caedf5ad4b9d9e35": {
+      "text": "Rika Domeki",
+      "status": "imported"
+    },
+    "glossary:r_10096c518ccb0d8f": {
+      "text": "Ishizuka",
+      "status": "imported"
+    },
+    "glossary:r_6a053fcc67e881c7": {
+      "text": "Tomoyoshi Ishizuka",
+      "status": "imported"
+    },
+    "glossary:r_e14e15096abe3848": {
+      "text": "Kaminura",
+      "status": "imported"
+    },
+    "glossary:r_a03ba2a6b49362b5": {
+      "text": "Megumi Kaminura",
+      "status": "imported"
+    },
+    "glossary:r_5e77c15f8f6808d2": {
+      "text": "Tanigawa",
+      "status": "imported"
+    },
+    "glossary:r_5819c737ddc8b86c": {
+      "text": "Fuuka Tanigawa",
+      "status": "imported"
+    },
+    "glossary:r_fd17803e9f24e346": {
+      "text": "Akagi",
+      "status": "imported"
+    },
+    "glossary:r_b70dc1d9649bf663": {
+      "text": "Shunsuke Akagi",
+      "status": "imported"
+    },
+    "glossary:r_65e7d271c3124c93": {
+      "text": "Aoyama",
+      "status": "imported"
+    },
+    "glossary:r_06729bd50e0ce287": {
+      "text": "Keiichirou Aoyama",
+      "status": "imported"
+    },
+    "glossary:r_3e27915d37d3311c": {
+      "text": "Iizuka",
+      "status": "imported"
+    },
+    "glossary:r_b47522ec22d5230b": {
+      "text": "Gura",
+      "status": "imported"
+    },
+    "glossary:r_a5409289b0f42356": {
+      "text": "Gura King Jr.",
+      "status": "imported"
+    },
+    "glossary:r_9705def214c6c945": {
+      "text": "Duncan",
+      "status": "imported"
+    },
+    "glossary:r_a1306abf4874525c": {
+      "text": "General Duncan",
+      "status": "imported"
+    },
+    "glossary:r_dab1c8724790b0d3": {
+      "text": "Black Ox",
+      "status": "imported"
+    },
+    "glossary:r_367b8f632cdcff76": {
+      "text": "Makki",
+      "status": "imported"
+    },
+    "glossary:r_bf894ea276f843a8": {
+      "text": "Robby",
+      "status": "imported"
+    },
+    "glossary:r_1139a9a7eaa1d0a7": {
+      "text": "Space Demon King",
+      "status": "imported"
+    },
+    "glossary:r_889a2c4a3d13a49d": {
+      "text": "Shikishima",
+      "status": "imported"
+    },
+    "glossary:r_ae7778d9bb0de516": {
+      "text": "Daijiro Shikishima",
+      "status": "imported"
+    },
+    "glossary:r_97145ad2152d4979": {
+      "text": "Makiko Shikishima",
+      "status": "imported"
+    },
+    "glossary:r_5d1e064ebc5763ba": {
+      "text": "Shotaro",
+      "status": "imported"
+    },
+    "glossary:r_9d7560e9842ebbf5": {
+      "text": "Shotaro Kaneda",
+      "status": "imported"
+    },
+    "glossary:r_33d597bb4a2bdf96": {
+      "text": "Tetsujin",
+      "status": "imported"
+    },
+    "glossary:r_0dd90ff8d56bf115": {
+      "text": "Tetsujin No. 28",
+      "status": "imported"
+    },
+    "glossary:r_f5855e4199d1218e": {
+      "text": "08",
+      "status": "imported"
+    },
+    "glossary:r_adb4b537df6468af": {
+      "text": "Quatre",
+      "status": "imported"
+    },
+    "glossary:r_aa226195349df51f": {
+      "text": "Quatre Raberba Winner",
+      "status": "imported"
+    },
+    "glossary:r_e036fb71de01904a": {
+      "text": "Sally",
+      "status": "imported"
+    },
+    "glossary:r_b9b141c034129e9d": {
+      "text": "Sally Po",
+      "status": "imported"
+    },
+    "glossary:r_b028f4545552de9c": {
+      "text": "Zechs",
+      "status": "imported"
+    },
+    "glossary:r_3395f81a822c5f6b": {
+      "text": "Zechs Marquise",
+      "status": "imported"
+    },
+    "glossary:r_8bde02aa66c4097b": {
+      "text": "Dekim",
+      "status": "imported"
+    },
+    "glossary:r_a0c40dd561e5911c": {
+      "text": "Dekim Barton",
+      "status": "imported"
+    },
+    "glossary:r_aa358a7b1304b069": {
+      "text": "Duo",
+      "status": "imported"
+    },
+    "glossary:r_a0794a8e992842b4": {
+      "text": "Duo Maxwell",
+      "status": "imported"
+    },
+    "glossary:r_860e06f700de7d06": {
+      "text": "Trowa",
+      "status": "imported"
+    },
+    "glossary:r_7e7b381aca9da4bd": {
+      "text": "Trowa Barton",
+      "status": "imported"
+    },
+    "glossary:r_5ba3355eee088ace": {
+      "text": "Dorothy",
+      "status": "imported"
+    },
+    "glossary:r_29a5563a534ef150": {
+      "text": "Dorothy Catalonia",
+      "status": "imported"
+    },
+    "glossary:r_111fa5593840d200": {
+      "text": "Noin",
+      "status": "imported"
+    },
+    "glossary:r_6205d1746123d399": {
+      "text": "Heero",
+      "status": "imported"
+    },
+    "glossary:r_f7c24770c0412a2a": {
+      "text": "Heero Yui",
+      "status": "imported"
+    },
+    "glossary:r_989c325febc9e107": {
+      "text": "Hilde",
+      "status": "imported"
+    },
+    "glossary:r_94c2a0c1f414ed06": {
+      "text": "Hilde Schubaker",
+      "status": "imported"
+    },
+    "glossary:r_a8c83479fc2fe534": {
+      "text": "Mariemaia",
+      "status": "imported"
+    },
+    "glossary:r_7385c99066676053": {
+      "text": "Mariemaia Khushrenada",
+      "status": "imported"
+    },
+    "glossary:r_9f532e426a80900d": {
+      "text": "Relena",
+      "status": "imported"
+    },
+    "glossary:r_ede3952f977c830a": {
+      "text": "Relena Darlian",
+      "status": "imported"
+    },
+    "glossary:r_57df8de072dfc9ce": {
+      "text": "Lucrezia Noin",
+      "status": "imported"
+    },
+    "glossary:r_9a4004b878db9549": {
+      "text": "Lady",
+      "status": "imported"
+    },
+    "glossary:r_eb1809764c881d6b": {
+      "text": "Lady Une",
+      "status": "imported"
+    },
+    "glossary:r_cbfde6829be86994": {
+      "text": "Wufei",
+      "status": "imported"
+    },
+    "glossary:r_aaa38f6993662ff0": {
+      "text": "Wufei Chang",
+      "status": "imported"
+    },
+    "glossary:r_ba8d8232e1c22fe3": {
+      "text": "Astonaige",
+      "status": "imported"
+    },
+    "glossary:r_1d8466f21e8d8390": {
+      "text": "Astonaige Medoz",
+      "status": "imported"
+    },
+    "glossary:r_57f1ba73bc2a45c2": {
+      "text": "Adenauer",
+      "status": "imported"
+    },
+    "glossary:r_db36e4d6fe379e76": {
+      "text": "Adenauer Paraya",
+      "status": "imported"
+    },
+    "glossary:r_188e4bb6075373e1": {
+      "text": "Kaises",
+      "status": "imported"
+    },
+    "glossary:r_0d43592230bae465": {
+      "text": "Kaises M. Buyer",
+      "status": "imported"
+    },
+    "glossary:r_b52afe52c0b1e85c": {
+      "text": "Gyunei",
+      "status": "imported"
+    },
+    "glossary:r_3493005f42676508": {
+      "text": "Gyunei Guss",
+      "status": "imported"
+    },
+    "glossary:r_340a97ae3dbd09e9": {
+      "text": "Quess",
+      "status": "imported"
+    },
+    "glossary:r_d1e8853e0a73d3ce": {
+      "text": "Quess Paraya",
+      "status": "imported"
+    },
+    "glossary:r_84d59d0eda010024": {
+      "text": "Char",
+      "status": "imported"
+    },
+    "glossary:r_e7a8ec2d1e5fc393": {
+      "text": "Char Aznable",
+      "status": "imported"
+    },
+    "glossary:r_41f8fec405ca6837": {
+      "text": "Chan",
+      "status": "imported"
+    },
+    "glossary:r_3e325f2c89d3b4d3": {
+      "text": "Chan Agi",
+      "status": "imported"
+    },
+    "glossary:r_09fbf6b53ec28a0c": {
+      "text": "Nanai",
+      "status": "imported"
+    },
+    "glossary:r_0a4667b00b3d48ab": {
+      "text": "Nanai Miguel",
+      "status": "imported"
+    },
+    "glossary:r_664a07214b085250": {
+      "text": "Hathaway",
+      "status": "imported"
+    },
+    "glossary:r_5916ff6cb7bc6cd4": {
+      "text": "Hathaway Noa",
+      "status": "imported"
+    },
+    "glossary:r_e95693a2f8c5341a": {
+      "text": "Lalah",
+      "status": "imported"
+    },
+    "glossary:r_5f6931e05ddafdee": {
+      "text": "Lalah Sune",
+      "status": "imported"
+    },
+    "glossary:r_15c8ecbccae02800": {
+      "text": "Rezin",
+      "status": "imported"
+    },
+    "glossary:r_565ca85d5b0e8c6a": {
+      "text": "Rezin Schnyder",
+      "status": "imported"
+    },
+    "glossary:r_23d6aa77ff9a8b3d": {
+      "text": "Athrun",
+      "status": "imported"
+    },
+    "glossary:r_9dcd3d78aa640ede": {
+      "text": "Athrun Zala",
+      "status": "imported"
+    },
+    "glossary:r_f2418d5203e17b07": {
+      "text": "Andrew Waltfeld",
+      "status": "imported"
+    },
+    "glossary:r_05f127446ae5d965": {
+      "text": "Yzak",
+      "status": "imported"
+    },
+    "glossary:r_e7647d64f9c7bdf6": {
+      "text": "Yzak Joule",
+      "status": "imported"
+    },
+    "glossary:r_b8a29cbaa3515458": {
+      "text": "Cagalli",
+      "status": "imported"
+    },
+    "glossary:r_8d5f23ec1f4d1138": {
+      "text": "Cagalli Yula Athha",
+      "status": "imported"
+    },
+    "glossary:r_9ffe50084b826004": {
+      "text": "Kisaka",
+      "status": "imported"
+    },
+    "glossary:r_69fa7ce16daaacbc": {
+      "text": "Kira",
+      "status": "imported"
+    },
+    "glossary:r_897b45844af1cd2d": {
+      "text": "Kira Yamato",
+      "status": "imported"
+    },
+    "glossary:r_bd959365bf0b967a": {
+      "text": "Shinn",
+      "status": "imported"
+    },
+    "glossary:r_81b8621d720622c0": {
+      "text": "Shinn Asuka",
+      "status": "imported"
+    },
+    "glossary:r_c4a44502e50a2d85": {
+      "text": "Dearka",
+      "status": "imported"
+    },
+    "glossary:r_1e593cbfb0846341": {
+      "text": "Dearka Elsman",
+      "status": "imported"
+    },
+    "glossary:r_7a4108bccd2b1c3f": {
+      "text": "Waltfeld",
+      "status": "imported"
+    },
+    "glossary:r_6e908e0e56d7e5ec": {
+      "text": "Meyrin",
+      "status": "imported"
+    },
+    "glossary:r_e86b583dc19af5a0": {
+      "text": "Meyrin Hawke",
+      "status": "imported"
+    },
+    "glossary:r_73e0947df087ae39": {
+      "text": "Lacus",
+      "status": "imported"
+    },
+    "glossary:r_15a2e243bb477813": {
+      "text": "Lacus Clyne",
+      "status": "imported"
+    },
+    "glossary:r_1ad04c7ebe6e434f": {
+      "text": "Lunamaria",
+      "status": "imported"
+    },
+    "glossary:r_bbc34ae9ce8c4c81": {
+      "text": "Lunamaria Hawke",
+      "status": "imported"
+    },
+    "glossary:r_6f13e3230fd87bc4": {
+      "text": "Ledonir Kisaka",
+      "status": "imported"
+    },
+    "glossary:r_6273f809f48745b1": {
+      "text": "Alberto",
+      "status": "imported"
+    },
+    "glossary:r_b5eaed09787cf73e": {
+      "text": "Alberto Vist",
+      "status": "imported"
+    },
+    "glossary:r_febd518fa06d7318": {
+      "text": "Alec",
+      "status": "imported"
+    },
+    "glossary:r_d22dbf5f2bf8566c": {
+      "text": "Angelo",
+      "status": "imported"
+    },
+    "glossary:r_9a92800d2104d8e0": {
+      "text": "Angelo Sauper",
+      "status": "imported"
+    },
+    "glossary:r_a76da0faca832225": {
+      "text": "Otto",
+      "status": "imported"
+    },
+    "glossary:r_0333018e7d706c72": {
+      "text": "Otto Mitas",
+      "status": "imported"
+    },
+    "glossary:r_db4c5c5784f3c1f2": {
+      "text": "Audrey",
+      "status": "imported"
+    },
+    "glossary:r_df44da924f3b3c62": {
+      "text": "Audrey Burne",
+      "status": "imported"
+    },
+    "glossary:r_7c4ac0be88d741b7": {
+      "text": "Kirks",
+      "status": "imported"
+    },
+    "glossary:r_094ff384a0e0dec2": {
+      "text": "Cardeas",
+      "status": "imported"
+    },
+    "glossary:r_366673f58d824e44": {
+      "text": "Cardeas Vist",
+      "status": "imported"
+    },
+    "glossary:r_633cc3bb5f5dc4cb": {
+      "text": "Gael",
+      "status": "imported"
+    },
+    "glossary:r_ad1e6d40cfd1cb8a": {
+      "text": "Gael Chan",
+      "status": "imported"
+    },
+    "glossary:r_113fca40dfa39c57": {
+      "text": "Gilboa",
+      "status": "imported"
+    },
+    "glossary:r_86fddaeb787d9d2d": {
+      "text": "Gilboa Sant",
+      "status": "imported"
+    },
+    "glossary:r_671b694df29fa14b": {
+      "text": "Conroy",
+      "status": "imported"
+    },
+    "glossary:r_bb17dc66edaee4cc": {
+      "text": "Conroy Haagensen",
+      "status": "imported"
+    },
+    "glossary:r_4b1694dda9bd0c57": {
+      "text": "Zinnerman",
+      "status": "imported"
+    },
+    "glossary:r_59afc55934c452a2": {
+      "text": "Suberoa Zinnerman",
+      "status": "imported"
+    },
+    "glossary:r_f29ae2eb4f6fce4a": {
+      "text": "Takuya",
+      "status": "imported"
+    },
+    "glossary:r_41d0d23513df7973": {
+      "text": "Takuya Irei",
+      "status": "imported"
+    },
+    "glossary:r_fbfb550babc7cf59": {
+      "text": "Daguza",
+      "status": "imported"
+    },
+    "glossary:r_d6190a8de1f5752d": {
+      "text": "Daguza Mackle",
+      "status": "imported"
+    },
+    "glossary:r_1ac252b4672f0023": {
+      "text": "Tomura",
+      "status": "imported"
+    },
+    "glossary:r_5df6601feedeb955": {
+      "text": "Hasan",
+      "status": "imported"
+    },
+    "glossary:r_f5be24c4c4e28609": {
+      "text": "Banagher",
+      "status": "imported"
+    },
+    "glossary:r_c456359c07aeb664": {
+      "text": "Banagher Links",
+      "status": "imported"
+    },
+    "glossary:r_ef9b37024b502a25": {
+      "text": "Hill",
+      "status": "imported"
+    },
+    "glossary:r_370dab4171b51938": {
+      "text": "Hill Dawson",
+      "status": "imported"
+    },
+    "glossary:r_df8da162846b55e7": {
+      "text": "Flaste",
+      "status": "imported"
+    },
+    "glossary:r_2f0e4e61c6a78c8e": {
+      "text": "Flaste Schole",
+      "status": "imported"
+    },
+    "glossary:r_9e8729ff4223bb16": {
+      "text": "Full Frontal",
+      "status": "imported"
+    },
+    "glossary:r_62fed54071db5128": {
+      "text": "Frontal",
+      "status": "imported"
+    },
+    "glossary:r_a2d717d9da03b37f": {
+      "text": "Bright",
+      "status": "imported"
+    },
+    "glossary:r_4eb129c6c09fc5f3": {
+      "text": "Bright Noa",
+      "status": "imported"
+    },
+    "glossary:r_876ee7d06a29d816": {
+      "text": "Besson",
+      "status": "imported"
+    },
+    "glossary:r_e0cc0d6b21fd2d55": {
+      "text": "Marida",
+      "status": "imported"
+    },
+    "glossary:r_0293e2a9c3d6bd03": {
+      "text": "Marida Cruz",
+      "status": "imported"
+    },
+    "glossary:r_80e7801604d75012": {
+      "text": "Martha",
+      "status": "imported"
+    },
+    "glossary:r_424bbf7ae53a94ee": {
+      "text": "Martha Vist Carbine",
+      "status": "imported"
+    },
+    "glossary:r_f2724c71af3b6eb1": {
+      "text": "Micott",
+      "status": "imported"
+    },
+    "glossary:r_c5f4a1223016e8da": {
+      "text": "Micott Bartsch",
+      "status": "imported"
+    },
+    "glossary:r_674c4dbd233730a6": {
+      "text": "Mineva",
+      "status": "imported"
+    },
+    "glossary:r_8f23314ea724de46": {
+      "text": "Mineva Lao Zabi",
+      "status": "imported"
+    },
+    "glossary:r_9601c49f9d668cb0": {
+      "text": "Mihiro",
+      "status": "imported"
+    },
+    "glossary:r_eb92de34a03f99a7": {
+      "text": "Mihiro Oiwakken",
+      "status": "imported"
+    },
+    "glossary:r_2dc5e1b24d3fa4f1": {
+      "text": "Meran",
+      "status": "imported"
+    },
+    "glossary:r_2adfa4b680dae916": {
+      "text": "Yonem Kirks",
+      "status": "imported"
+    },
+    "glossary:r_06a5266a08cfcdcb": {
+      "text": "Riddhe",
+      "status": "imported"
+    },
+    "glossary:r_f9644072249dd887": {
+      "text": "Riddhe Marcenas",
+      "status": "imported"
+    },
+    "glossary:r_ec179ceb11ff8da0": {
+      "text": "Liam",
+      "status": "imported"
+    },
+    "glossary:r_c404cc5b310ae92c": {
+      "text": "Liam Borrinea",
+      "status": "imported"
+    },
+    "glossary:r_5c19fdcf9ca0cdeb": {
+      "text": "Loni",
+      "status": "imported"
+    },
+    "glossary:r_2c8e73f8decbeb96": {
+      "text": "Loni Garvey",
+      "status": "imported"
+    },
+    "glossary:r_f709f7e014d90ff6": {
+      "text": "Ronan",
+      "status": "imported"
+    },
+    "glossary:r_06a739163d892a0f": {
+      "text": "Ronan Marcenas",
+      "status": "imported"
+    },
+    "glossary:r_bbd46542c501ed26": {
+      "text": "Apolly",
+      "status": "imported"
+    },
+    "glossary:r_cb709f66123532e4": {
+      "text": "Apolly Bay",
+      "status": "imported"
+    },
+    "glossary:r_5de21d0d8cd0dbc8": {
+      "text": "Amuro",
+      "status": "imported"
+    },
+    "glossary:r_88be9dc0265afd90": {
+      "text": "Amuro Ray",
+      "status": "imported"
+    },
+    "glossary:r_f490b89a04c6b55d": {
+      "text": "Emma",
+      "status": "imported"
+    },
+    "glossary:r_7692272e9e4d49db": {
+      "text": "Emma Sheen",
+      "status": "imported"
+    },
+    "glossary:r_68fd37aa66290b00": {
+      "text": "Katz",
+      "status": "imported"
+    },
+    "glossary:r_cd63fb0ae21ae3f0": {
+      "text": "Katz Kobayashi",
+      "status": "imported"
+    },
+    "glossary:r_e61be53ab65b5aee": {
+      "text": "Kamille",
+      "status": "imported"
+    },
+    "glossary:r_4298e20d5d33ebcd": {
+      "text": "Kamille Bidan",
+      "status": "imported"
+    },
+    "glossary:r_b0facd476265a5fd": {
+      "text": "Quattro",
+      "status": "imported"
+    },
+    "glossary:r_84582f88ffc4a2a3": {
+      "text": "Quattro Bajeena",
+      "status": "imported"
+    },
+    "glossary:r_e5acfe90c625ee60": {
+      "text": "Scirocco",
+      "status": "imported"
+    },
+    "glossary:r_cfea7dd256a4a1d3": {
+      "text": "Haman",
+      "status": "imported"
+    },
+    "glossary:r_4edd827e69bc9fe5": {
+      "text": "Haman Karn",
+      "status": "imported"
+    },
+    "glossary:r_6e02dbd1d93a4ade": {
+      "text": "Paptimus Scirocco",
+      "status": "imported"
+    },
+    "glossary:r_c2b0003048f93378": {
+      "text": "Fa",
+      "status": "imported"
+    },
+    "glossary:r_c2a1a5a28acf65d5": {
+      "text": "Fa Yuiri",
+      "status": "imported"
+    },
+    "glossary:r_a7d7db4de4a34a56": {
+      "text": "Four",
+      "status": "imported"
+    },
+    "glossary:r_44c932a0a1aebb87": {
+      "text": "Four Murasame",
+      "status": "imported"
+    },
+    "glossary:r_8ec1522b7a1b6878": {
+      "text": "Beltorchika",
+      "status": "imported"
+    },
+    "glossary:r_8e925ed926256ffe": {
+      "text": "Beltorchika Irma",
+      "status": "imported"
+    },
+    "glossary:r_12826ad9029ce84e": {
+      "text": "Kaoru",
+      "status": "imported"
+    },
+    "glossary:r_e99517d1e25e058a": {
+      "text": "Shigeru",
+      "status": "imported"
+    },
+    "glossary:r_b774ac707ce5b015": {
+      "text": "Sachiko",
+      "status": "imported"
+    },
+    "glossary:r_08a6b9f1ed3afc3e": {
+      "text": "Jonathan",
+      "status": "imported"
+    },
+    "glossary:r_1cc17beda628b0f5": {
+      "text": "Watta",
+      "status": "imported"
+    },
+    "glossary:r_6305b932f56312b5": {
+      "text": "Kayo",
+      "status": "imported"
+    },
+    "glossary:r_1a264657fe2b3e61": {
+      "text": "Atsui",
+      "status": "imported"
+    },
+    "glossary:r_f2128fcc85f63708": {
+      "text": "Tetsuo Atsui",
+      "status": "imported"
+    },
+    "glossary:r_d99da66246c08641": {
+      "text": "Daimon",
+      "status": "imported"
+    },
+    "glossary:r_1ad1240f2fa5c6af": {
+      "text": "Kinoshita",
+      "status": "imported"
+    },
+    "glossary:r_8c968a2dc625d480": {
+      "text": "Touhachirou Kinoshita",
+      "status": "imported"
+    },
+    "glossary:r_cfbe7ba5c0ad567e": {
+      "text": "Kakikouji",
+      "status": "imported"
+    },
+    "glossary:r_b03dd75bf2b29b90": {
+      "text": "Umemaro Kakikouji",
+      "status": "imported"
+    },
+    "glossary:r_71d9f865239b2562": {
+      "text": "Kaoru Taki",
+      "status": "imported"
+    },
+    "glossary:r_2331dbfce1b9081f": {
+      "text": "Ikue Sunabara",
+      "status": "imported"
+    },
+    "glossary:r_1e943f8ac8e09593": {
+      "text": "Shigeru Takeo",
+      "status": "imported"
+    },
+    "glossary:r_6c3799d08aba0cbd": {
+      "text": "Sachiko Takeo",
+      "status": "imported"
+    },
+    "glossary:r_9b7aa72a4133af57": {
+      "text": "Watta Takeo",
+      "status": "imported"
+    },
+    "glossary:r_9748c9aec0f5f3e7": {
+      "text": "Kayo Takeo",
+      "status": "imported"
+    },
+    "glossary:r_68bccc95a086c9e4": {
+      "text": "Mieko",
+      "status": "imported"
+    },
+    "glossary:r_d67c7132215afd2a": {
+      "text": "Ikue",
+      "status": "imported"
+    },
+    "glossary:r_18509ed50e130c05": {
+      "text": "Mieko Suzuki",
+      "status": "imported"
+    },
+    "glossary:r_3d2c35ed11b2aca3": {
+      "text": "Kurara",
+      "status": "imported"
+    },
+    "glossary:r_3b8e92703acd130e": {
+      "text": "Isabelle",
+      "status": "imported"
+    },
+    "glossary:r_071697f94323d5be": {
+      "text": "Isabelle Cronkite",
+      "status": "imported"
+    },
+    "glossary:r_8cb1de68f7be8f4b": {
+      "text": "Vladimir",
+      "status": "imported"
+    },
+    "glossary:r_0803e0c68dc857dd": {
+      "text": "Eida",
+      "status": "imported"
+    },
+    "glossary:r_f974dffadf02f8e4": {
+      "text": "Eida Rossa",
+      "status": "imported"
+    },
+    "glossary:r_baa47a5191bc09fb": {
+      "text": "Johnny",
+      "status": "imported"
+    },
+    "glossary:r_999d525baf03d542": {
+      "text": "Johnny Burnette",
+      "status": "imported"
+    },
+    "glossary:r_40a1e9d9a504b515": {
+      "text": "Sammy",
+      "status": "imported"
+    },
+    "glossary:r_2b73efdceb3c4ac8": {
+      "text": "Ruu",
+      "status": "imported"
+    },
+    "glossary:r_30be9a437f966813": {
+      "text": "Ruu Riruri",
+      "status": "imported"
+    },
+    "glossary:r_06dad3e706ad18b8": {
+      "text": "Sakuya Kamon",
+      "status": "imported"
+    },
+    "glossary:r_f7661bb0b6b45c5e": {
+      "text": "Sakuya",
+      "status": "imported"
+    },
+    "glossary:r_c1022288dcebcde2": {
+      "text": "Commander Tanaka",
+      "status": "imported"
+    },
+    "glossary:r_56b0bcd725b85964": {
+      "text": "Aoi",
+      "status": "imported"
+    },
+    "glossary:r_e432ac72abdd6479": {
+      "text": "Aoi Hidaka",
+      "status": "imported"
+    },
+    "glossary:r_e82e6334f8948fcc": {
+      "text": "Kurara Tachibana",
+      "status": "imported"
+    },
+    "glossary:r_1e71960f09925abf": {
+      "text": "F.S.",
+      "status": "imported"
+    },
+    "glossary:r_24c090ee7a8a9c7f": {
+      "text": "WILL",
+      "status": "imported"
+    },
+    "glossary:r_4090600b94b89657": {
+      "text": "Ashura",
+      "status": "imported"
+    },
+    "glossary:r_5248fa72b3bb1749": {
+      "text": "Baron Ashura",
+      "status": "imported"
+    },
+    "glossary:r_ef489028421bfa6b": {
+      "text": "Okiku",
+      "status": "imported"
+    },
+    "glossary:r_612bca13d04bcc1e": {
+      "text": "Sayaka",
+      "status": "imported"
+    },
+    "glossary:r_b6c79a68d0e496e0": {
+      "text": "Sewashi",
+      "status": "imported"
+    },
+    "glossary:r_dd0247b38d99c21f": {
+      "text": "Tsubasa",
+      "status": "imported"
+    },
+    "glossary:r_2f4de4c91e757fee": {
+      "text": "Nossori",
+      "status": "imported"
+    },
+    "glossary:r_7b22587f8c2fa404": {
+      "text": "Morimori",
+      "status": "imported"
+    },
+    "glossary:r_7ab03103c3a84485": {
+      "text": "Gamia Q",
+      "status": "imported"
+    },
+    "glossary:r_34c8e57a6ae89351": {
+      "text": "Garadabura",
+      "status": "imported"
+    },
+    "glossary:r_c718de1960bc0266": {
+      "text": "Cross",
+      "status": "imported"
+    },
+    "glossary:r_4df1f99ebb4ee1d4": {
+      "text": "Shiro",
+      "status": "imported"
+    },
+    "glossary:r_f9bc90d24fa59a4d": {
+      "text": "Django",
+      "status": "imported"
+    },
+    "glossary:r_76dcfd3b0187bbb3": {
+      "text": "Zeus",
+      "status": "imported"
+    },
+    "glossary:r_ade47d39f21afa61": {
+      "text": "Zeus",
+      "status": "imported"
+    },
+    "glossary:r_eb9bdbbd2be71e98": {
+      "text": "Nuke",
+      "status": "imported"
+    },
+    "glossary:r_84b1088c8cb21d5e": {
+      "text": "Hades",
+      "status": "imported"
+    },
+    "glossary:r_c119ed0932b0efc2": {
+      "text": "Hades",
+      "status": "imported"
+    },
+    "glossary:r_3948d1c9eae608da": {
+      "text": "Brocken",
+      "status": "imported"
+    },
+    "glossary:r_1af1aebf915714eb": {
+      "text": "Count Brocken",
+      "status": "imported"
+    },
+    "glossary:r_a8d6e283051862ab": {
+      "text": "Boss",
+      "status": "imported"
+    },
+    "glossary:r_e57431476f7306e8": {
+      "text": "Mucha",
+      "status": "imported"
+    },
+    "glossary:r_a066ae2d8cad2d89": {
+      "text": "Lorelei",
+      "status": "imported"
+    },
+    "glossary:r_d1e23df7e6aba12f": {
+      "text": "Lorelei Heinrich",
+      "status": "imported"
+    },
+    "glossary:r_f46179ece2b0c099": {
+      "text": "Sensei",
+      "status": "imported"
+    },
+    "glossary:r_866b4960872a53e3": {
+      "text": "Shiro Kabuto",
+      "status": "imported"
+    },
+    "glossary:r_f125caef0f4090cc": {
+      "text": "Kouji Kabuto",
+      "status": "imported"
+    },
+    "glossary:r_daa4e4eee24f1ece": {
+      "text": "Hero Garadoublas",
+      "status": "imported"
+    },
+    "glossary:r_f96ce7d76eba73a7": {
+      "text": "An",
+      "status": "imported"
+    },
+    "glossary:r_043f2a705c7d72f3": {
+      "text": "Yumi",
+      "status": "imported"
+    },
+    "glossary:r_1b7e0922dcda3191": {
+      "text": "Sayaka Yumi",
+      "status": "imported"
+    },
+    "glossary:r_939bd66c2bd417c0": {
+      "text": "Yanosuke Yumi",
+      "status": "imported"
+    },
+    "glossary:r_b34aa0fcf32ba658": {
+      "text": "Ankokuji",
+      "status": "imported"
+    },
+    "glossary:r_27e93c75041bed38": {
+      "text": "Yamitaro Ankokuji",
+      "status": "imported"
+    },
+    "glossary:r_5346bcb12a363c55": {
+      "text": "Kouji",
+      "status": "imported"
+    },
+    "glossary:r_198898e2eb9b7127": {
+      "text": "Kikunosuke",
+      "status": "imported"
+    },
+    "glossary:r_4028f7117709fb9b": {
+      "text": "Tsubasa Nishikiori",
+      "status": "imported"
+    },
+    "glossary:r_e9ab4efe50d1f8fc": {
+      "text": "Gai",
+      "status": "imported"
+    },
+    "glossary:r_5f01c8f6fda5293c": {
+      "text": "Benkei",
+      "status": "imported"
+    },
+    "glossary:r_4ea91bde6de9afc3": {
+      "text": "Ryouma Nagare",
+      "status": "imported"
+    },
+    "glossary:r_fb94b9b9ff26b915": {
+      "text": "Kei",
+      "status": "imported"
+    },
+    "glossary:r_c39d100360a329aa": {
+      "text": "Hayato Jin",
+      "status": "imported"
+    },
+    "glossary:r_70e60a8b3a1229b2": {
+      "text": "Ryouma",
+      "status": "imported"
+    },
+    "glossary:r_c80e9c2d2b34271f": {
+      "text": "Gou",
+      "status": "imported"
+    },
+    "glossary:r_71a2aab517c29677": {
+      "text": "Benkei Kurama",
+      "status": "imported"
+    },
+    "glossary:r_c8e91ebd6cffdc17": {
+      "text": "Hayato",
+      "status": "imported"
+    },
+    "glossary:r_ccb2c4c71616f03c": {
+      "text": "Kan Yu",
+      "status": "imported"
+    },
+    "glossary:r_9a6d04cce32b96d6": {
+      "text": "Chirico",
+      "status": "imported"
+    },
+    "glossary:r_9b902f5c982f78d4": {
+      "text": "Chirico Cuvie",
+      "status": "imported"
+    },
+    "glossary:r_f5465fb6799bd694": {
+      "text": "Coconna",
+      "status": "imported"
+    },
+    "glossary:r_2bedd0c5160ac0a2": {
+      "text": "Gotho",
+      "status": "imported"
+    },
+    "glossary:r_704ec44dd463900d": {
+      "text": "Shako",
+      "status": "imported"
+    },
+    "glossary:r_f06cd75f02c07686": {
+      "text": "Jean Paul Rochina",
+      "status": "imported"
+    },
+    "glossary:r_e16711ccbc62b04b": {
+      "text": "Vanilla",
+      "status": "imported"
+    },
+    "glossary:r_8c4d815b1041d355": {
+      "text": "Vanilla Vartla",
+      "status": "imported"
+    },
+    "glossary:r_2dafc0a6c181cb47": {
+      "text": "Fyana",
+      "status": "imported"
+    },
+    "glossary:r_0b1445d8ae52ba3c": {
+      "text": "Bolouze Gotho",
+      "status": "imported"
+    },
+    "glossary:r_db39244da8a7c02b": {
+      "text": "Ru Shako",
+      "status": "imported"
+    },
+    "glossary:r_4da11ac4124ed581": {
+      "text": "Rochina",
+      "status": "imported"
+    },
+    "glossary:r_26ead36c9bd21400": {
+      "text": "Carlman Thomas",
+      "status": "imported"
+    },
+    "glossary:r_fdbd16ef54bc559f": {
+      "text": "Jell Borson",
+      "status": "imported"
+    },
+    "glossary:r_81c98f91c094bde2": {
+      "text": "Cherokee",
+      "status": "imported"
+    },
+    "glossary:r_a0242ee44413cbb2": {
+      "text": "Cherokee Chief",
+      "status": "imported"
+    },
+    "glossary:r_3c1554dcd1221526": {
+      "text": "Thomas",
+      "status": "imported"
+    },
+    "glossary:r_bfb1beb67c9586d5": {
+      "text": "Niva",
+      "status": "imported"
+    },
+    "glossary:r_72e39b7851452ba8": {
+      "text": "Borson",
+      "status": "imported"
+    },
+    "glossary:r_17664805c05422ab": {
+      "text": "Radaa Niva",
+      "status": "imported"
+    },
+    "glossary:r_7a30d7442dd45135": {
+      "text": "Ilin Noskowitz",
+      "status": "imported"
+    },
+    "glossary:r_9267af85d23d9a13": {
+      "text": "Guno",
+      "status": "imported"
+    },
+    "glossary:r_1e2ca3ad65f8801b": {
+      "text": "Teitania",
+      "status": "imported"
+    },
+    "glossary:r_7e4d0e27794441d7": {
+      "text": "Teitania da Montewells",
+      "status": "imported"
+    },
+    "glossary:r_7e89b0eed4a015e7": {
+      "text": "Noskowitz",
+      "status": "imported"
+    },
+    "glossary:r_7986592a80c7b9a3": {
+      "text": "Montewells",
+      "status": "imported"
+    },
+    "glossary:r_be4ccc619e011ba6": {
+      "text": "Viachevlav da Montewells",
+      "status": "imported"
+    },
+    "glossary:r_3add69782bb0cfc6": {
+      "text": "Pope",
+      "status": "imported"
+    },
+    "glossary:r_aee2df04ce43bcbd": {
+      "text": "Pope Theo VIII",
+      "status": "imported"
+    },
+    "glossary:r_2912af8a2963c729": {
+      "text": "Olson",
+      "status": "imported"
+    },
+    "glossary:r_5896da280d495ddd": {
+      "text": "Olson D. Verne",
+      "status": "imported"
+    },
+    "glossary:r_96e6074d9081e56b": {
+      "text": "Mome",
+      "status": "imported"
+    },
+    "glossary:r_59fefe2214ccc196": {
+      "text": "Kei",
+      "status": "imported"
+    },
+    "glossary:r_e805847049577a70": {
+      "text": "Kei Katsuragi",
+      "status": "imported"
+    },
+    "glossary:r_9ed66d4367e80e03": {
+      "text": "Angel",
+      "status": "imported"
+    },
+    "glossary:r_18f80cec6ca46a35": {
+      "text": "Gordon",
+      "status": "imported"
+    },
+    "glossary:r_5d3fda44e3537116": {
+      "text": "Gordon Rosewater",
+      "status": "imported"
+    },
+    "glossary:r_a90afbe161a40812": {
+      "text": "Schwarz",
+      "status": "imported"
+    },
+    "glossary:r_4a2e2eec2676dd12": {
+      "text": "Schwarzwald",
+      "status": "imported"
+    },
+    "glossary:r_2cc895da0e5256ad": {
+      "text": "Jason Beck",
+      "status": "imported"
+    },
+    "glossary:r_e9b1c721af98123f": {
+      "text": "Daston",
+      "status": "imported"
+    },
+    "glossary:r_728a756baedbccc9": {
+      "text": "Dan Daston",
+      "status": "imported"
+    },
+    "glossary:r_54292366b7c9dd79": {
+      "text": "Dove",
+      "status": "imported"
+    },
+    "glossary:r_2fa502f0be9d6893": {
+      "text": "Norman",
+      "status": "imported"
+    },
+    "glossary:r_8bc69be29deb3714": {
+      "text": "Norman Burg",
+      "status": "imported"
+    },
+    "glossary:r_bc889d11c4455199": {
+      "text": "Beck",
+      "status": "imported"
+    },
+    "glossary:r_8e9cb303de9fe073": {
+      "text": "Roger",
+      "status": "imported"
+    },
+    "glossary:r_02b7e843a868076b": {
+      "text": "Roger Smith",
+      "status": "imported"
+    },
+    "glossary:r_64936b1b9d242b7b": {
+      "text": "R. Dorothy Waynewright",
+      "status": "imported"
+    },
+    "glossary:r_f8dabcc67e1b4cc7": {
+      "text": "T-Bone",
+      "status": "imported"
+    },
+    "glossary:r_23accc993932fa0e": {
+      "text": "Aquarion Gepard",
+      "status": "imported"
+    },
+    "glossary:r_c3c611f656a4074e": {
+      "text": "Aquarion Spada",
+      "status": "imported"
+    },
+    "glossary:r_314acde9118a6dc7": {
+      "text": "Aquarion EVOL",
+      "status": "imported"
+    },
+    "glossary:r_19173787f3a11da8": {
+      "text": "Ahura Gnis",
+      "status": "imported"
+    },
+    "glossary:r_8915432b1ff7a92f": {
+      "text": "Ancient AQ",
+      "status": "imported"
+    },
+    "glossary:r_f2425bc711bb0aa8": {
+      "text": "Cherubim Soldier",
+      "status": "imported"
+    },
+    "glossary:r_c67f425537f37ebd": {
+      "text": "Common Gnis",
+      "status": "imported"
+    },
+    "glossary:r_a53d7fcfd7df47b3": {
+      "text": "Solar Aquarion",
+      "status": "imported"
+    },
+    "glossary:r_23e101bd3950097e": {
+      "text": "Mixy Gnis",
+      "status": "imported"
+    },
+    "glossary:r_967525aa5cac1f9d": {
+      "text": "Mithra Gnis",
+      "status": "imported"
+    },
+    "glossary:r_aba91ed033d35845": {
+      "text": "Radius Gnis",
+      "status": "imported"
+    },
+    "glossary:r_9256cc31e02cbd34": {
+      "text": "Rho Gnis",
+      "status": "imported"
+    },
+    "glossary:r_75173f078775277e": {
+      "text": "Axio Burglar",
+      "status": "imported"
+    },
+    "glossary:r_cd22211eaede9668": {
+      "text": "Asclepus",
+      "status": "imported"
+    },
+    "glossary:r_243e0311c6570acf": {
+      "text": "Angeloi",
+      "status": "imported"
+    },
+    "glossary:r_89cfc7361281e395": {
+      "text": "Angeloi GEM",
+      "status": "imported"
+    },
+    "glossary:r_611b5b84401424ca": {
+      "text": "Genion",
+      "status": "imported"
+    },
+    "glossary:r_7f7a8ab9db14e827": {
+      "text": "Genion GAI",
+      "status": "imported"
+    },
+    "glossary:r_290564e8ef5925b8": {
+      "text": "Geminia",
+      "status": "imported"
+    },
+    "glossary:r_c413511665f14ab7": {
+      "text": "Diosc",
+      "status": "imported"
+    },
+    "glossary:r_38e1d57ff79a5b81": {
+      "text": "Diosc A",
+      "status": "imported"
+    },
+    "glossary:r_ef93dfbce42931db": {
+      "text": "Daimon",
+      "status": "imported"
+    },
+    "glossary:r_fd5cc7c8f23957a3": {
+      "text": "Shiseiten",
+      "status": "imported"
+    },
+    "glossary:r_b4c346e3ba139c71": {
+      "text": "Lancelot Albion",
+      "status": "imported"
+    },
+    "glossary:r_4364941e47f49389": {
+      "text": "Lancelot Frontier",
+      "status": "imported"
+    },
+    "glossary:r_7b82b7f6a8bda5d5": {
+      "text": "Guren S.E.I.T.E.N. Eight Elements",
+      "status": "imported"
+    },
+    "glossary:r_14cb2a026df9b7b7": {
+      "text": "Shinkiro",
+      "status": "imported"
+    },
+    "glossary:r_db4b4cdb6d68d9a8": {
+      "text": "Gunbuster",
+      "status": "imported"
+    },
+    "glossary:r_722908ecf0b10ecf": {
+      "text": "Landing Boat Space Monster",
+      "status": "imported"
+    },
+    "glossary:r_a6e60102e434f8d8": {
+      "text": "Soldier Space Monster",
+      "status": "imported"
+    },
+    "glossary:r_70c8f642cecb2576": {
+      "text": "Cruiser-class Space Monster",
+      "status": "imported"
+    },
+    "glossary:r_a0eb0df9c12c537a": {
+      "text": "Tuatha de Danaan",
+      "status": "imported"
+    },
+    "glossary:r_e4211ec3871e4730": {
+      "text": "Plan 1056 Codarl",
+      "status": "imported"
+    },
+    "glossary:r_d3e77675cf6c5d77": {
+      "text": "Plan 1056 Codarl-i",
+      "status": "imported"
+    },
+    "glossary:r_e740c8caf1899be4": {
+      "text": "Behemoth",
+      "status": "imported"
+    },
+    "glossary:r_0d169243e3c7516a": {
+      "text": "ARX-7 Arbalest",
+      "status": "imported"
+    },
+    "glossary:r_b55606e01e45e92e": {
+      "text": "C3-5 Mistral II",
+      "status": "imported"
+    },
+    "glossary:r_ceffec5871796648": {
+      "text": "M6 Bushnell",
+      "status": "imported"
+    },
+    "glossary:r_d73f6f40a8f547b7": {
+      "text": "M6 Bushnell",
+      "status": "imported"
+    },
+    "glossary:r_7a257442448a9025": {
+      "text": "M9 Gernsback",
+      "status": "imported"
+    },
+    "glossary:r_b3c44f76ac45b45c": {
+      "text": "Rk-92 Savage",
+      "status": "imported"
+    },
+    "glossary:r_3ce4bdad052fc142": {
+      "text": "Rk-92 Savage",
+      "status": "imported"
+    },
+    "glossary:r_05bd8784857e3c32": {
+      "text": "Zy-98 Shadow",
+      "status": "imported"
+    },
+    "glossary:r_6eaf4783b3dceeae": {
+      "text": "Plan 1059 Codarl-c",
+      "status": "imported"
+    },
+    "glossary:r_a64f09339dad7af4": {
+      "text": "Plan 1059 Codarl-m",
+      "status": "imported"
+    },
+    "glossary:r_ae36edafa8ea3adc": {
+      "text": "M9D Falke",
+      "status": "imported"
+    },
+    "glossary:r_275c7af75700e660": {
+      "text": "Bonta-kun",
+      "status": "imported"
+    },
+    "glossary:r_cfea2b99caa18834": {
+      "text": "VF-22S Sturmvogel II B",
+      "status": "imported"
+    },
+    "glossary:r_1a479421b082f0c3": {
+      "text": "VF-22S Sturmvogel II F",
+      "status": "imported"
+    },
+    "glossary:r_a8a348f6d1c64034": {
+      "text": "VF-22S Sturmvogel II Battroid Mode",
+      "status": "imported"
+    },
+    "glossary:r_ce90e0c9103d90a6": {
+      "text": "VF-22S Sturmvogel II Fighter Mode",
+      "status": "imported"
+    },
+    "glossary:r_cce47f596d198c87": {
+      "text": "VF-19 Kai Fire Valkyrie",
+      "status": "imported"
+    },
+    "glossary:r_5dec92efcdb882cd": {
+      "text": "VF-19 Kai Fire Valkyrie",
+      "status": "imported"
+    },
+    "glossary:r_d5c1a7e5ed3125bd": {
+      "text": "Evangelion Unit-01",
+      "status": "imported"
+    },
+    "glossary:r_babe8fb5dac128b0": {
+      "text": "Evangelion Unit-00",
+      "status": "imported"
+    },
+    "glossary:r_0ff084d900268313": {
+      "text": "General-Purpose Humanoid Decisive Battle Weapon, Artificial Human Evangelion, Prototype Unit-00",
+      "status": "imported"
+    },
+    "glossary:r_f1d7620ad99aa2c8": {
+      "text": "General-Purpose Humanoid Decisive Battle Weapon, Artificial Human Evangelion, Test Type Unit-01",
+      "status": "imported"
+    },
+    "glossary:r_113f2c9a6485442c": {
+      "text": "the Fourth Angel",
+      "status": "imported"
+    },
+    "glossary:r_2250d43c1994baf6": {
+      "text": "the Fifth Angel",
+      "status": "imported"
+    },
+    "glossary:r_f3b33d4623088ae7": {
+      "text": "the Sixth Angel",
+      "status": "imported"
+    },
+    "glossary:r_0f2cb908e5650051": {
+      "text": "Evangelion Unit-00 (Kai)",
+      "status": "imported"
+    },
+    "glossary:r_6d153a5b8952dd93": {
+      "text": "Evangelion Unit-02",
+      "status": "imported"
+    },
+    "glossary:r_7627a9c8c502d8c7": {
+      "text": "General-Purpose Humanoid Decisive Battle Weapon, Artificial Human Evangelion, Production Model Unit-02 (Pre-Production Unit)",
+      "status": "imported"
+    },
+    "glossary:r_cf8085c739f913af": {
+      "text": "General-Purpose Humanoid Decisive Battle Weapon, Artificial Human Evangelion, Prototype Unit-00 (Kai)",
+      "status": "imported"
+    },
+    "glossary:r_2e3a141ce96a9586": {
+      "text": "the Seventh Angel",
+      "status": "imported"
+    },
+    "glossary:r_22bb1d66679fa9c9": {
+      "text": "the Ninth Angel",
+      "status": "imported"
+    },
+    "glossary:r_8927f78c064840dc": {
+      "text": "Cosmo Crusher",
+      "status": "imported"
+    },
+    "glossary:r_464a9155d09a3cca": {
+      "text": "Godmars",
+      "status": "imported"
+    },
+    "glossary:r_8242ecf241f1d048": {
+      "text": "Zedfiner",
+      "status": "imported"
+    },
+    "glossary:r_3c0f1c76eb20f73e": {
+      "text": "Daedalos",
+      "status": "imported"
+    },
+    "glossary:r_fffbe47d99049659": {
+      "text": "Buffle",
+      "status": "imported"
+    },
+    "glossary:r_8aaf92cfc34b35e1": {
+      "text": "Blizzarm",
+      "status": "imported"
+    },
+    "glossary:r_61af6f7f163661bf": {
+      "text": "Ashtanga-class",
+      "status": "imported"
+    },
+    "glossary:r_0f0a9bf642fe052c": {
+      "text": "Granzeboma",
+      "status": "imported"
+    },
+    "glossary:r_cd4fb7e2d050a491": {
+      "text": "Space Gunmarl",
+      "status": "imported"
+    },
+    "glossary:r_b05fa6fa8179f138": {
+      "text": "Space King Kittan",
+      "status": "imported"
+    },
+    "glossary:r_d57102a6ac1757d3": {
+      "text": "Space Yoko W-Tank",
+      "status": "imported"
+    },
+    "glossary:r_1078a9d9473d1ca8": {
+      "text": "Hastagry-class",
+      "status": "imported"
+    },
+    "glossary:r_c403f352b4ad063c": {
+      "text": "Pada-class",
+      "status": "imported"
+    },
+    "glossary:r_3c10fd6bb0cc16c1": {
+      "text": "Mugann",
+      "status": "imported"
+    },
+    "glossary:r_e86c1dd6f5eda243": {
+      "text": "Advanced Mugann",
+      "status": "imported"
+    },
+    "glossary:r_4bcdd0acad10e37a": {
+      "text": "Tengen Toppa Gurren Lagann",
+      "status": "imported"
+    },
+    "glossary:r_f148d239bd479c51": {
+      "text": "Space Galaxy Gurren Lagann",
+      "status": "imported"
+    },
+    "glossary:r_4b534f26b4998098": {
+      "text": "Space Galaxy Dai-Gurren",
+      "status": "imported"
+    },
+    "glossary:r_fcb0e7c8d909fe06": {
+      "text": "Gundam Zanbanya",
+      "status": "imported"
+    },
+    "glossary:r_3fd049f32840f07d": {
+      "text": "Gundam Harute",
+      "status": "imported"
+    },
+    "glossary:r_d1acee31a4663b15": {
+      "text": "00 Qan[T]",
+      "status": "imported"
+    },
+    "glossary:r_3b2fc6348cd14728": {
+      "text": "00 Raiser",
+      "status": "imported"
+    },
+    "glossary:r_c5075b9adc4b2e8a": {
+      "text": "00 Raiser (Particle Storage Tank Type)",
+      "status": "imported"
+    },
+    "glossary:r_b8a2c64aee39a81f": {
+      "text": "Brave",
+      "status": "imported"
+    },
+    "glossary:r_1ce490e630097ad2": {
+      "text": "Brave Commander Test Type",
+      "status": "imported"
+    },
+    "glossary:r_0df2c681c27d5c98": {
+      "text": "Ptolemaios 2 Kai",
+      "status": "imported"
+    },
+    "glossary:r_85e279bbab120335": {
+      "text": "Union Flag",
+      "status": "imported"
+    },
+    "glossary:r_6b24837610a947ae": {
+      "text": "Raphael Gundam",
+      "status": "imported"
+    },
+    "glossary:r_24b9d39e74f06214": {
+      "text": "GN-X III",
+      "status": "imported"
+    },
+    "glossary:r_0b8500bb210b21b7": {
+      "text": "GN-X IV",
+      "status": "imported"
+    },
+    "glossary:r_2ac36c5d208fc962": {
+      "text": "Queadluun-Rhea",
+      "status": "imported"
+    },
+    "glossary:r_e733a4b72aa8e931": {
+      "text": "Ghost V9",
+      "status": "imported"
+    },
+    "glossary:r_aa3a81ac25eb3fc5": {
+      "text": "Macross Quarter, Assault Type",
+      "status": "imported"
+    },
+    "glossary:r_365bcd3d42e2168a": {
+      "text": "Macross Quarter, Fortress Ship Type",
+      "status": "imported"
+    },
+    "glossary:r_40657d72ea53d498": {
+      "text": "Macross Quarter (Assault Type)",
+      "status": "imported"
+    },
+    "glossary:r_c0516cbe20611a1f": {
+      "text": "Macross Quarter (Fortress Ship Type)",
+      "status": "imported"
+    },
+    "glossary:r_b6ee494e336ff947": {
+      "text": "Mobile Soldier Vajra",
+      "status": "imported"
+    },
+    "glossary:r_e2477763293f94bd": {
+      "text": "Heavy Soldier Vajra",
+      "status": "imported"
+    },
+    "glossary:r_8eaa322e26f6aea9": {
+      "text": "Heavy Battleship Vajra",
+      "status": "imported"
+    },
+    "glossary:r_336847d3b6b23f36": {
+      "text": "Mobile Heavy Soldier Vajra",
+      "status": "imported"
+    },
+    "glossary:r_1b3f0e14b9d2470f": {
+      "text": "Destroyer Vajra",
+      "status": "imported"
+    },
+    "glossary:r_bc82befaf6205726": {
+      "text": "AIF-9V",
+      "status": "imported"
+    },
+    "glossary:r_59c2da4791038082": {
+      "text": "RVF-25 Messiah Battroid Mode",
+      "status": "imported"
+    },
+    "glossary:r_9ebce60360c666ce": {
+      "text": "RVF-25 Messiah, Battroid Mode, Super Pack Equipped",
+      "status": "imported"
+    },
+    "glossary:r_1efae39c84e3f047": {
+      "text": "RVF-25 Messiah Fighter Mode",
+      "status": "imported"
+    },
+    "glossary:r_1550826e1db3c7b1": {
+      "text": "RVF-25 Messiah Fighter Mode, Super Pack Equipped",
+      "status": "imported"
+    },
+    "glossary:r_e0910474fad9c0b2": {
+      "text": "RVF-25 Messiah B",
+      "status": "imported"
+    },
+    "glossary:r_60a8a107e5b82e3b": {
+      "text": "RVF-25 Messiah B.SP",
+      "status": "imported"
+    },
+    "glossary:r_8f1c026799c66695": {
+      "text": "RVF-25 Messiah F",
+      "status": "imported"
+    },
+    "glossary:r_1875fb41f9b5d094": {
+      "text": "RVF-25 Messiah F/SP",
+      "status": "imported"
+    },
+    "glossary:r_0d4a450c6fe2e786": {
+      "text": "VB-6 Koenig Monster, Shuttle Mode",
+      "status": "imported"
+    },
+    "glossary:r_98f3b76b05bf2035": {
+      "text": "VB-6 Koenig Monster S",
+      "status": "imported"
+    },
+    "glossary:r_de78706a9a480e5d": {
+      "text": "VF-25F Messiah Battroid Mode, Tornado Pack Equipped (Atmospheric Type)",
+      "status": "imported"
+    },
+    "glossary:r_c9d5566ba64fd0d7": {
+      "text": "VF-25F Messiah Battroid Mode, Tornado Pack Equipped (Exo-atmospheric Type)",
+      "status": "imported"
+    },
+    "glossary:r_29ef4debe0b4a559": {
+      "text": "VF-25F Messiah Fighter Mode, Tornado Pack Equipped (Atmospheric Type)",
+      "status": "imported"
+    },
+    "glossary:r_b2ef2afdd26e1b40": {
+      "text": "VF-25F Messiah Fighter Mode, Tornado Pack Equipped (Exo-atmospheric Type)",
+      "status": "imported"
+    },
+    "glossary:r_16cc4e0ceada5b76": {
+      "text": "VF-25F Messiah B/TP",
+      "status": "imported"
+    },
+    "glossary:r_00fb0e04a197817c": {
+      "text": "VF-25F Messiah F/TP",
+      "status": "imported"
+    },
+    "glossary:r_0842905cd5e523ab": {
+      "text": "VF-25G Messiah Battroid Mode, Tornado Pack Equipped (Atmospheric Type)",
+      "status": "imported"
+    },
+    "glossary:r_a8c8dc05e45190c1": {
+      "text": "VF-25G Messiah Battroid Mode, Tornado Pack Equipped (Exo-atmospheric Type)",
+      "status": "imported"
+    },
+    "glossary:r_ff1b9c3282818621": {
+      "text": "VF-25G Messiah Fighter Mode, Tornado Pack Equipped (Atmospheric Type)",
+      "status": "imported"
+    },
+    "glossary:r_51f8c70753288cb7": {
+      "text": "VF-25G Messiah Fighter Mode, Tornado Pack Equipped (Exo-atmospheric Type)",
+      "status": "imported"
+    },
+    "glossary:r_2aa93b72077db13b": {
+      "text": "VF-25G Messiah B/TP",
+      "status": "imported"
+    },
+    "glossary:r_9abd6dbe6a9a6173": {
+      "text": "VF-25G Messiah F/TP",
+      "status": "imported"
+    },
+    "glossary:r_7a5e7a18615bc81d": {
+      "text": "VF-25S Messiah, Battroid Mode, Tornado Pack Equipped (Atmospheric Type)",
+      "status": "imported"
+    },
+    "glossary:r_1787924162fe4c9e": {
+      "text": "VF-25S Messiah, Battroid Mode, Tornado Pack Equipped (Space Type)",
+      "status": "imported"
+    },
+    "glossary:r_b62a149a31ed02ab": {
+      "text": "VF-25S Messiah, Fighter Mode, Tornado Pack Equipped (Atmospheric Type)",
+      "status": "imported"
+    },
+    "glossary:r_f677ffa9887d9303": {
+      "text": "VF-25S Messiah, Fighter Mode, Tornado Pack Equipped (Space Type)",
+      "status": "imported"
+    },
+    "glossary:r_41de94fab121a374": {
+      "text": "VF-25S Messiah B.TP",
+      "status": "imported"
+    },
+    "glossary:r_7d80d6350f9f780d": {
+      "text": "VF-25S Messiah F.TP",
+      "status": "imported"
+    },
+    "glossary:r_2c929a384405498a": {
+      "text": "YF-29 Durandal, Battroid Mode, Super Pack Equipped (Atmospheric Type)",
+      "status": "imported"
+    },
+    "glossary:r_336411b6c7efc8eb": {
+      "text": "YF-29 Durandal, Battroid Mode, Super Pack Equipped (Space Type)",
+      "status": "imported"
+    },
+    "glossary:r_dc2195c832ed7ff2": {
+      "text": "YF-29 Durandal, Fighter Mode, Super Pack Equipped (Atmospheric Type)",
+      "status": "imported"
+    },
+    "glossary:r_b7c75eab24f3b3eb": {
+      "text": "YF-29 Durandal, Fighter Mode, Super Pack Equipped (Space Type)",
+      "status": "imported"
+    },
+    "glossary:r_cded5a7470a62849": {
+      "text": "YF-29 Durandal B.SP",
+      "status": "imported"
+    },
+    "glossary:r_abe1545d7d44ef99": {
+      "text": "YF-29 Durandal F.SP",
+      "status": "imported"
+    },
+    "glossary:r_4c25b1cedd2a8118": {
+      "text": "Dai-Guard",
+      "status": "imported"
+    },
+    "glossary:r_861541213aed3716": {
+      "text": "Framework",
+      "status": "imported"
+    },
+    "glossary:r_f1c75896bb1b22dd": {
+      "text": "Heterodyne Compages",
+      "status": "imported"
+    },
+    "glossary:r_d0a20c9abe25d9d8": {
+      "text": "Gurren Lagann",
+      "status": "imported"
+    },
+    "glossary:r_d8811f7505de3dde": {
+      "text": "Mezu",
+      "status": "imported"
+    },
+    "glossary:r_67a78c38ec11cdee": {
+      "text": "Space Robo No. 1",
+      "status": "imported"
+    },
+    "glossary:r_7af745e5d51bb8ab": {
+      "text": "Space Robo No. 2",
+      "status": "imported"
+    },
+    "glossary:r_7ec227f66839c0a3": {
+      "text": "Space Robo No. 3",
+      "status": "imported"
+    },
+    "glossary:r_a3be75b371e41cfc": {
+      "text": "Space Robo No. 5",
+      "status": "imported"
+    },
+    "glossary:r_e71f9b489436d204": {
+      "text": "Space Robo No. 7",
+      "status": "imported"
+    },
+    "glossary:r_265710ec352138ab": {
+      "text": "Black Ox",
+      "status": "imported"
+    },
+    "glossary:r_7e31134fcbaab50e": {
+      "text": "Branch Robo No. 2",
+      "status": "imported"
+    },
+    "glossary:r_b88ed1ea4953888a": {
+      "text": "Space Demon King",
+      "status": "imported"
+    },
+    "glossary:r_8bd5e1ed1319eb82": {
+      "text": "Small Saucer",
+      "status": "imported"
+    },
+    "glossary:r_1a5fb657c8900d64": {
+      "text": "Giant Saucer",
+      "status": "imported"
+    },
+    "glossary:r_f9c313bb53e3607c": {
+      "text": "Tetsujin No. 28",
+      "status": "imported"
+    },
+    "glossary:r_e1e5f03ce7b4bfa3": {
+      "text": "Altron Gundam",
+      "status": "imported"
+    },
+    "glossary:r_0fc1b75828acf462": {
+      "text": "Wing Gundam Zero",
+      "status": "imported"
+    },
+    "glossary:r_bae022aefe5f5ffa": {
+      "text": "Gundam Sandrock Custom",
+      "status": "imported"
+    },
+    "glossary:r_d5fcc551d7c61e85": {
+      "text": "Gundam Deathscythe Hell",
+      "status": "imported"
+    },
+    "glossary:r_1c70fa09b2386460": {
+      "text": "Gundam Heavyarms Custom",
+      "status": "imported"
+    },
+    "glossary:r_e6cc98d2b489fa65": {
+      "text": "Serpent",
+      "status": "imported"
+    },
+    "glossary:r_48241baf5251e96e": {
+      "text": "Taurus",
+      "status": "imported"
+    },
+    "glossary:r_a519e9c6d678d964": {
+      "text": "Taurus (MA)",
+      "status": "imported"
+    },
+    "glossary:r_0b63d635e38ff114": {
+      "text": "Tallgeese III",
+      "status": "imported"
+    },
+    "glossary:r_aafbd7550b61e1df": {
+      "text": "Leo",
+      "status": "imported"
+    },
+    "glossary:r_281881b41cf9a5f1": {
+      "text": "Alpha Azieru",
+      "status": "imported"
+    },
+    "glossary:r_7dc699981a1ab1b2": {
+      "text": "Nu Gundam",
+      "status": "imported"
+    },
+    "glossary:r_545e7822411bc7e1": {
+      "text": "Geara Doga",
+      "status": "imported"
+    },
+    "glossary:r_1ecc6106b5752ea5": {
+      "text": "Sazabi",
+      "status": "imported"
+    },
+    "glossary:r_5ee09fe66b881df5": {
+      "text": "Jegan",
+      "status": "imported"
+    },
+    "glossary:r_bb6b11a62af83a59": {
+      "text": "Musaka",
+      "status": "imported"
+    },
+    "glossary:r_5dc8ab18bdb05ee3": {
+      "text": "Jagd Doga",
+      "status": "imported"
+    },
+    "glossary:r_f5969cf0d57c7e03": {
+      "text": "Ra Cailum",
+      "status": "imported"
+    },
+    "glossary:r_09bdfcb0f6feefb1": {
+      "text": "Re-GZ",
+      "status": "imported"
+    },
+    "glossary:r_4ed31f5dd8443aab": {
+      "text": "Re-GZ (BWS)",
+      "status": "imported"
+    },
+    "glossary:r_923356e863624e34": {
+      "text": "Rewloola",
+      "status": "imported"
+    },
+    "glossary:r_11e77051283c2bd3": {
+      "text": "Strike Freedom Gundam",
+      "status": "imported"
+    },
+    "glossary:r_73b97422e87c7694": {
+      "text": "Destiny Gundam",
+      "status": "imported"
+    },
+    "glossary:r_411269d7873a9123": {
+      "text": "Garencieres",
+      "status": "imported"
+    },
+    "glossary:r_a27828a7023a16bb": {
+      "text": "Gallus-K",
+      "status": "imported"
+    },
+    "glossary:r_f287dd8a2429235d": {
+      "text": "Geara Zulu",
+      "status": "imported"
+    },
+    "glossary:r_ec42b642d83d423b": {
+      "text": "Kshatriya",
+      "status": "imported"
+    },
+    "glossary:r_1694e185e532510f": {
+      "text": "Zaku I Sniper Type",
+      "status": "imported"
+    },
+    "glossary:r_a4508f0fb30ceeb1": {
+      "text": "Sinanju",
+      "status": "imported"
+    },
+    "glossary:r_77f78c4cac06681f": {
+      "text": "Shambro",
+      "status": "imported"
+    },
+    "glossary:r_7bc1f9221e0fcc30": {
+      "text": "Juaggu",
+      "status": "imported"
+    },
+    "glossary:r_9aeaef76709f9229": {
+      "text": "Z'Gok",
+      "status": "imported"
+    },
+    "glossary:r_293c89856529ce29": {
+      "text": "Delta Plus",
+      "status": "imported"
+    },
+    "glossary:r_cf83c26f13df009d": {
+      "text": "Delta Plus (WR)",
+      "status": "imported"
+    },
+    "glossary:r_92879f04eca945af": {
+      "text": "Dreissen",
+      "status": "imported"
+    },
+    "glossary:r_1deadbd316f15a84": {
+      "text": "Dra-C",
+      "status": "imported"
+    },
+    "glossary:r_91095f6bac745591": {
+      "text": "Dwadge",
+      "status": "imported"
+    },
+    "glossary:r_5c7d3f3cc18bf5a5": {
+      "text": "Nahel Argama",
+      "status": "imported"
+    },
+    "glossary:r_4c7e3aed7ba1ec2a": {
+      "text": "Byarlant Custom",
+      "status": "imported"
+    },
+    "glossary:r_119f6c8ea312abd4": {
+      "text": "Unicorn Gundam",
+      "status": "imported"
+    },
+    "glossary:r_d17419480f23060b": {
+      "text": "Unicorn Gundam (Destroy Mode)",
+      "status": "imported"
+    },
+    "glossary:r_a21cc5c76a100044": {
+      "text": "Unicorn Gundam (Unicorn Mode)",
+      "status": "imported"
+    },
+    "glossary:r_a8503991e72ad379": {
+      "text": "Rezel",
+      "status": "imported"
+    },
+    "glossary:r_1a5a2cc7b1a9bc87": {
+      "text": "Rezel (MA)",
+      "status": "imported"
+    },
+    "glossary:r_194bad78f3f19bdc": {
+      "text": "Loto",
+      "status": "imported"
+    },
+    "glossary:r_a1fd0e0f9f6038c8": {
+      "text": "Wave Rider",
+      "status": "imported"
+    },
+    "glossary:r_0bcecccaf62e5238": {
+      "text": "Gaza C",
+      "status": "imported"
+    },
+    "glossary:r_430be2352d3edb1d": {
+      "text": "Gundam Mk-II",
+      "status": "imported"
+    },
+    "glossary:r_427e2fcd4c0dba29": {
+      "text": "Qubeley",
+      "status": "imported"
+    },
+    "glossary:r_562ce69462e84ef6": {
+      "text": "Methuss",
+      "status": "imported"
+    },
+    "glossary:r_70b3f2a315082548": {
+      "text": "Methuss (MA)",
+      "status": "imported"
+    },
+    "glossary:r_624ad1adf245bcf6": {
+      "text": "Zeta Gundam",
+      "status": "imported"
+    },
+    "glossary:r_f7af4a9b1e109efb": {
+      "text": "Shuttle",
+      "status": "imported"
+    },
+    "glossary:r_6a05b23915201acd": {
+      "text": "Trider G7",
+      "status": "imported"
+    },
+    "glossary:r_47fd44a8f9db6a18": {
+      "text": "Dancouga Nova Max God",
+      "status": "imported"
+    },
+    "glossary:r_3b105578a35753a4": {
+      "text": "Dragon's Hive",
+      "status": "imported"
+    },
+    "glossary:r_aaed828108517e57": {
+      "text": "Garada K7",
+      "status": "imported"
+    },
+    "glossary:r_7aeeced75e489e9f": {
+      "text": "Grogos G5",
+      "status": "imported"
+    },
+    "glossary:r_8a088e2b5ea1d2a8": {
+      "text": "Gokyun U5",
+      "status": "imported"
+    },
+    "glossary:r_955aae7a026ae9f3": {
+      "text": "Ghostfire v9",
+      "status": "imported"
+    },
+    "glossary:r_aa3b9fb03fbc6489": {
+      "text": "Jeyser J1",
+      "status": "imported"
+    },
+    "glossary:r_1f71718abdb7da76": {
+      "text": "Zeus",
+      "status": "imported"
+    },
+    "glossary:r_e9afd6f888697e0c": {
+      "text": "Talos Statue",
+      "status": "imported"
+    },
+    "glossary:r_a9df62184aabac30": {
+      "text": "Doublas M2",
+      "status": "imported"
+    },
+    "glossary:r_768731ce489bf9c4": {
+      "text": "Hades",
+      "status": "imported"
+    },
+    "glossary:r_7e6fd3d7a620a1cc": {
+      "text": "Bazin B6",
+      "status": "imported"
+    },
+    "glossary:r_289629fffc691957": {
+      "text": "Belgas V5",
+      "status": "imported"
+    },
+    "glossary:r_c5a4f549d31ca9b3": {
+      "text": "Venus A",
+      "status": "imported"
+    },
+    "glossary:r_d6e8d6cac55127f0": {
+      "text": "Boss Borot",
+      "status": "imported"
+    },
+    "glossary:r_86e73239b10ce8cf": {
+      "text": "Mazinger Z",
+      "status": "imported"
+    },
+    "glossary:r_f75c2fc4caa83040": {
+      "text": "Mycenaean God",
+      "status": "imported"
+    },
+    "glossary:r_2fdcdbcc57ffa452": {
+      "text": "Hero Garadoublas",
+      "status": "imported"
+    },
+    "glossary:r_46400cb45867d569": {
+      "text": "Flying Fortress Ghoul",
+      "status": "imported"
+    },
+    "glossary:r_6d9d1e1b184664f2": {
+      "text": "Invader",
+      "status": "imported"
+    },
+    "glossary:r_fa7a4bdf7bf4f3b1": {
+      "text": "Black Getter",
+      "status": "imported"
+    },
+    "glossary:r_c978725f4969f0ed": {
+      "text": "Shin Getter Dragon",
+      "status": "imported"
+    },
+    "glossary:r_17b451b30062964d": {
+      "text": "Shin Getter 1",
+      "status": "imported"
+    },
+    "glossary:r_3acb9d5a933be264": {
+      "text": "Shin Getter 2",
+      "status": "imported"
+    },
+    "glossary:r_babc213f040228d4": {
+      "text": "Shin Getter 3",
+      "status": "imported"
+    },
+    "glossary:r_4dba12baba130f47": {
+      "text": "Scarab",
+      "status": "imported"
+    },
+    "glossary:r_797a9f2f16e30e46": {
+      "text": "Scopedog",
+      "status": "imported"
+    },
+    "glossary:r_f31999faad14700b": {
+      "text": "Scopedog (Round Mover Equipped)",
+      "status": "imported"
+    },
+    "glossary:r_1e9016d13745bac7": {
+      "text": "Scopedog RM",
+      "status": "imported"
+    },
+    "glossary:r_d3c755e4b9376390": {
+      "text": "Balarant Army General-Purpose Fighter",
+      "status": "imported"
+    },
+    "glossary:r_1c5b55076a27a20f": {
+      "text": "Fatty",
+      "status": "imported"
+    },
+    "glossary:r_dbd9a88c0fcccadf": {
+      "text": "Berserga DT",
+      "status": "imported"
+    },
+    "glossary:r_fff522219054ae2e": {
+      "text": "General-Purpose Fighter",
+      "status": "imported"
+    },
+    "glossary:r_f68697e0ef0e2bb9": {
+      "text": "Eklubis",
+      "status": "imported"
+    },
+    "glossary:r_e9119558f966324a": {
+      "text": "Light Scopedog",
+      "status": "imported"
+    },
+    "glossary:r_e7f0c1f480bfcece": {
+      "text": "Land Battleship",
+      "status": "imported"
+    },
+    "glossary:r_7e2b4ad8d5e1ba33": {
+      "text": "Eldospine",
+      "status": "imported"
+    },
+    "glossary:r_b2443e04d49c959c": {
+      "text": "Order Buckler",
+      "status": "imported"
+    },
+    "glossary:r_82d49723e820101f": {
+      "text": "Burglarydog",
+      "status": "imported"
+    },
+    "glossary:r_925cd5046a378ad7": {
+      "text": "Orguss",
+      "status": "imported"
+    },
+    "glossary:r_dc893d42b4a6f66a": {
+      "text": "Big O",
+      "status": "imported"
+    },
+    "glossary:r_08a895497adf6c98": {
+      "text": "Big Duo",
+      "status": "imported"
+    },
+    "glossary:r_e8b9df8f516caf15": {
+      "text": "Big Fau",
+      "status": "imported"
+    },
+    "glossary:r_571fff4c47a51a02": {
+      "text": "Big Venus",
+      "status": "imported"
+    },
+    "glossary:r_30fef38a4711097b": {
+      "text": "Beck Victory Deluxe",
+      "status": "imported"
+    },
+    "glossary:r_0b108edfda335f8d": {
+      "text": "Rei",
+      "status": "imported"
+    },
+    "glossary:r_f28487e6555adbc8": {
+      "text": "Dorothy",
+      "status": "imported"
+    },
+    "glossary:r_3674465fc9f687ed": {
+      "text": "Mina",
+      "status": "imported"
+    },
+    "glossary:r_987332b414843832": {
+      "text": "Olson",
+      "status": "imported"
+    },
+    "glossary:r_2b1ce1e405e4635a": {
+      "text": "Gepard",
+      "status": "imported"
+    },
+    "glossary:r_87be93543da04e82": {
+      "text": "Spada",
+      "status": "imported"
+    },
+    "glossary:r_a5791439fba2c775": {
+      "text": "Ox",
+      "status": "imported"
+    },
+    "glossary:r_a0ac0c137121e125": {
+      "text": "Space Robo",
+      "status": "imported"
+    },
+    "glossary:r_9becdabb6152ffb7": {
+      "text": "Tokyo-3",
+      "status": "imported"
+    },
+    "glossary:r_625829a3143b1b46": {
+      "text": "Aquaria City",
+      "status": "imported"
+    },
+    "glossary:r_1f1512e046c1faf9": {
+      "text": "Holy Angel Academy",
+      "status": "imported"
+    },
+    "glossary:r_a718e8524ec1469d": {
+      "text": "Ah Koba",
+      "status": "imported"
+    },
+    "glossary:r_e84838af8a6d1b54": {
+      "text": "Allegium",
+      "status": "imported"
+    },
+    "glossary:r_0a67f2c911abc52f": {
+      "text": "Helmajistan",
+      "status": "imported"
+    },
+    "glossary:r_18f51cb558184649": {
+      "text": "Kamina City",
+      "status": "imported"
+    },
+    "glossary:r_af08a8c697e38ed3": {
+      "text": "Barueyoruzuru",
+      "status": "imported"
+    },
+    "glossary:r_277baf6135745cba": {
+      "text": "Urzu",
+      "status": "imported"
+    },
+    "glossary:r_4a84123c67717858": {
+      "text": "Quent",
+      "status": "imported"
+    },
+    "glossary:r_35d72a769be1ac45": {
+      "text": "Battling",
+      "status": "imported"
+    },
+    "glossary:rare_igura": {
+      "text": "Rare Igura",
+      "status": "translated"
+    },
+    "glossary:igura": {
+      "text": "Igura",
+      "status": "translated"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "trader_upgrade_text:uns_name": {
+      "text": "System UNS",
+      "status": "translated"
+    },
+    "trader_upgrade_text:uns_lore": {
+      "text": "Universal-Network Scouting System.\nUses UN data, analysis and inference\nto reveal enemy unit information.",
+      "status": "translated"
+    },
+    "trader_upgrade_text:uns_effect": {
+      "text": "All enemy units start with\nScan applied.",
+      "status": "translated"
+    },
+    "trader_upgrade_text:zci_name": {
+      "text": "System ZCI",
+      "status": "translated"
+    },
+    "trader_upgrade_text:zci_lore": {
+      "text": "Z-Chip Interchange System.\nExtends $$ジェニオン$$'s Z-Chip collection across\nthe battlefield, though efficiency is low.",
+      "status": "translated"
+    },
+    "trader_upgrade_text:zci_effect": {
+      "text": "At stage clear, gain 5 Z Chips\nper enemy unit shot down.",
+      "status": "translated"
+    },
+    "trader_upgrade_text:dme_name": {
+      "text": "System DME",
+      "status": "translated"
+    },
+    "trader_upgrade_text:dme_lore": {
+      "text": "Damage Meter Exchange System.\nDimensionally recycles attack energy;\nfunds from its sale are collected automatically.",
+      "status": "translated"
+    },
+    "trader_upgrade_text:dme_effect": {
+      "text": "On clear: funds = damage dealt\nto enemies this stage / 20.",
+      "status": "translated"
+    },
+    "trader_upgrade_text:teu_name": {
+      "text": "System TEU",
+      "status": "translated"
+    },
+    "trader_upgrade_text:teu_lore": {
+      "text": "Tension Energy Up System.\nHangar sounds, scents and sights lift spirits.\nRelaxation tech repurposed for battle.",
+      "status": "translated"
+    },
+    "trader_upgrade_text:teu_effect": {
+      "text": "On deployment: teams +1 Tag\nTension; allied pilots +5 Focus.",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_00": {
+      "text": "Completed: Use Maximum Break",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_02": {
+      "text": "Completed: Earn over 2000 total Z Chips",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_03": {
+      "text": "Completed: Max out the Tactical Combo gauge",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_04": {
+      "text": "Completed: Learn Commander Level 4",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_05": {
+      "text": "Completed: Obtain a Repair Kit, Propellant Tank and Cartridge",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_07": {
+      "text": "Completed: Earn over 3000000 total funds",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_08": {
+      "text": "Completed: Raise an Ace Pilot",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_09": {
+      "text": "Completed: Deal over 15000 damage in one battle",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_10": {
+      "text": "Completed: Destroy 5+ enemy units with one MAP attack",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_11": {
+      "text": "Completed: Earn Custom Bonuses for 5 mechs",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_12": {
+      "text": "Completed: Raise a pilot with 500+ total PP earned",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_13": {
+      "text": "Completed: Raise a pilot with 100+ SP",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_14": {
+      "text": "Completed: Use Drive",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_15": {
+      "text": "Completed: Use Valor",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_16": {
+      "text": "Completed: Earn any emblem",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_17": {
+      "text": "Completed: Raise 3 Ace Pilots",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_18": {
+      "text": "Completed: Raise a pilot with 100+ kills",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_19": {
+      "text": "Completed: Raise a pilot with 1000+ total PP earned",
+      "status": "translated"
+    },
+    "trader_upgrade_text:completed_20": {
+      "text": "Completed: Earn over 10000000 total funds",
+      "status": "translated"
+    }
+  }
+}

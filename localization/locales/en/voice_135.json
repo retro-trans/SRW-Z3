@@ -1,0 +1,426 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_135:r_479b340ccc6c572b": {
+      "text": "Prepare for anti-air combat!",
+      "status": "imported"
+    },
+    "voice_135:r_77949221bf58f862": {
+      "text": "Maintain strict anti-air watch!",
+      "status": "imported"
+    },
+    "voice_135:r_70b9c4b9f1f37eff": {
+      "text": "Stand by to fire!",
+      "status": "imported"
+    },
+    "voice_135:r_9fcb3754cb1773c7": {
+      "text": "All batteries, stand by to fire!",
+      "status": "imported"
+    },
+    "voice_135:r_3559d2fad32c2435": {
+      "text": "Get friendlies off the firing line!",
+      "status": "imported"
+    },
+    "voice_135:r_f7570547e9f80a64": {
+      "text": "This ship will now commence attack!",
+      "status": "imported"
+    },
+    "voice_135:r_cbab0f4720e1fcf1": {
+      "text": "We've stopped it! Now's our chance!",
+      "status": "imported"
+    },
+    "voice_135:r_0bbe0b4f5364e732": {
+      "text": "The enemy's reeling! Keep attacking!",
+      "status": "imported"
+    },
+    "voice_135:r_5dda5198137cb02a": {
+      "text": "We're taking down the Gundam!",
+      "status": "imported"
+    },
+    "voice_135:r_83ec59afbecdec14": {
+      "text": "Gundam type...\\nWe can't leave it be!",
+      "status": "imported"
+    },
+    "voice_135:r_e20bfd42ad95a3c9": {
+      "text": "A fake Gundam's coming for us...!",
+      "status": "imported"
+    },
+    "voice_135:r_0f58a8822381e57f": {
+      "text": "Could that be the key to the war...?",
+      "status": "imported"
+    },
+    "voice_135:r_6dbcc507fb61b51d": {
+      "text": "That Gundam's here...! Stay sharp!",
+      "status": "imported"
+    },
+    "voice_135:r_b42ab697149a7c8a": {
+      "text": "Target Londo Bell's flagship!",
+      "status": "imported"
+    },
+    "voice_135:r_4de4fcf3b440baf4": {
+      "text": "Its firepower is trouble! Watch out!",
+      "status": "imported"
+    },
+    "voice_135:r_0121a166c715cdff": {
+      "text": "We'll sink Londo Bell's ship!",
+      "status": "imported"
+    },
+    "voice_135:r_80a0b2a84e05d81a": {
+      "text": "Londo Bell's mobile suits, huh...!",
+      "status": "imported"
+    },
+    "voice_135:r_4a9ac1dff86506d9": {
+      "text": "Mobile suit combat!\\nAll hands ready!",
+      "status": "imported"
+    },
+    "voice_135:r_bc8538e6af3d2577": {
+      "text": "Celestial Being!\\nWith the Feds?!",
+      "status": "imported"
+    },
+    "voice_135:r_924516c8de2b5342": {
+      "text": "Colony Gundam...\\nSo we fight it...!",
+      "status": "imported"
+    },
+    "voice_135:r_fdeb8162976e72c1": {
+      "text": "It's not that fast!\\nTake steady aim!",
+      "status": "imported"
+    },
+    "voice_135:r_0fadb5c26df92b42": {
+      "text": "Our guns can beat\\nthat heavy armor!",
+      "status": "imported"
+    },
+    "voice_135:r_6b15af9a0057cdc8": {
+      "text": "All guns, aim well! The foe is fast!",
+      "status": "imported"
+    },
+    "voice_135:r_15b4a90140e8a33a": {
+      "text": "Small unit! One hit will drop it!",
+      "status": "imported"
+    },
+    "voice_135:r_af884a6b11dff121": {
+      "text": "Target the enemy commander!",
+      "status": "imported"
+    },
+    "voice_135:r_ac6fe7838e95647b": {
+      "text": "Engage in anti-ship combat!",
+      "status": "imported"
+    },
+    "voice_135:r_77ca87eacd17ad52": {
+      "text": "Hit their ship! Crush their morale!",
+      "status": "imported"
+    },
+    "voice_135:r_bf3244994760e535": {
+      "text": "All batteries, intercept them!",
+      "status": "imported"
+    },
+    "voice_135:r_aabfb21c9d069ce7": {
+      "text": "Anti-Air Machine Gun! Aim carefully!",
+      "status": "imported"
+    },
+    "voice_135:r_02479dc8fe989560": {
+      "text": "Open fire once they're in range!",
+      "status": "imported"
+    },
+    "voice_135:r_a2df00f91a9b0a9e": {
+      "text": "Missile, launch!",
+      "status": "imported"
+    },
+    "voice_135:r_48b60d6c48b9b142": {
+      "text": "Fire the Missile!",
+      "status": "imported"
+    },
+    "voice_135:r_8927e6fb681aa809": {
+      "text": "Missile, launch in rapid succession!",
+      "status": "imported"
+    },
+    "voice_135:r_665f01666859013b": {
+      "text": "Mega Particle Cannon, fire!",
+      "status": "imported"
+    },
+    "voice_135:r_a571eec59b258d11": {
+      "text": "Fire the Mega Particle Cannon!",
+      "status": "imported"
+    },
+    "voice_135:r_ddbe581c5ea9183d": {
+      "text": "Main gun, fire!",
+      "status": "imported"
+    },
+    "voice_135:r_faae935cca0edc72": {
+      "text": "Guns, fire at 3-second intervals!",
+      "status": "imported"
+    },
+    "voice_135:r_d4430bf362340b32": {
+      "text": "Main guns one through three! Fire!",
+      "status": "imported"
+    },
+    "voice_135:r_55417493fce1d347": {
+      "text": "Counterattack! Hurry!",
+      "status": "imported"
+    },
+    "voice_135:r_8fdf5910927c9591": {
+      "text": "Return fire! Don't let them escape!",
+      "status": "imported"
+    },
+    "voice_135:r_7d724dbcc4451e10": {
+      "text": "Shoot down the units breaking away!",
+      "status": "imported"
+    },
+    "voice_135:r_93e25418a203cb8f": {
+      "text": "They're coming right to us!",
+      "status": "imported"
+    },
+    "voice_135:r_adeb0a29274d3d9b": {
+      "text": "Take out the closest enemy first!",
+      "status": "imported"
+    },
+    "voice_135:r_24cf161287ef9d5c": {
+      "text": "Fire before they can start evading!",
+      "status": "imported"
+    },
+    "voice_135:r_8f60f6fc86db3107": {
+      "text": "Attack right behind our allies...!",
+      "status": "imported"
+    },
+    "voice_135:r_b1de76a75a253c13": {
+      "text": "We'll add our own barrage!",
+      "status": "imported"
+    },
+    "voice_135:r_128c35bf3e0e394c": {
+      "text": "Cover the Supreme Commander!",
+      "status": "imported"
+    },
+    "voice_135:r_5213c17e13b23de0": {
+      "text": "Don't get in the Colonel's way!",
+      "status": "imported"
+    },
+    "voice_135:r_38fdff9483e9245c": {
+      "text": "Give that hothead some cover!",
+      "status": "imported"
+    },
+    "voice_135:r_620fedec67706d7d": {
+      "text": "Give the Guard a hand!",
+      "status": "imported"
+    },
+    "voice_135:r_9680dcd0fddcfcc7": {
+      "text": "Move Rewloola to the front!",
+      "status": "imported"
+    },
+    "voice_135:r_2a00f1044ad5cbaa": {
+      "text": "This ship should be able to stop it!",
+      "status": "imported"
+    },
+    "voice_135:r_3dbeead1bd3164ef": {
+      "text": "Protect the Supreme Commander!",
+      "status": "imported"
+    },
+    "voice_135:r_98d15b8cc09bc915": {
+      "text": "Colonel, fall back!",
+      "status": "imported"
+    },
+    "voice_135:r_46e86d000250e137": {
+      "text": "Empty bravado disgraces the Guard!",
+      "status": "imported"
+    },
+    "voice_135:r_ac341e7976e88f0b": {
+      "text": "Move out ahead of the Guard!",
+      "status": "imported"
+    },
+    "voice_135:r_cdbd128a5b4127cc": {
+      "text": "Pathetic! We can't do a thing...!",
+      "status": "imported"
+    },
+    "voice_135:r_cfccaa1fbeda124c": {
+      "text": "Can't counter...!?\\nWhat's going on?!",
+      "status": "imported"
+    },
+    "voice_135:r_b1f8ec192b9c083a": {
+      "text": "Our losses exceed projections...!",
+      "status": "imported"
+    },
+    "voice_135:r_a007f9ab9cf048b3": {
+      "text": "Max speed! Defend!\\nMove to counter!",
+      "status": "imported"
+    },
+    "voice_135:r_ddafde4b065ced49": {
+      "text": "Damn...! Was our positioning wrong?",
+      "status": "imported"
+    },
+    "voice_135:r_de1213040856c089": {
+      "text": "That was close.",
+      "status": "imported"
+    },
+    "voice_135:r_3304412ac41f47a6": {
+      "text": "Just as we predicted.",
+      "status": "imported"
+    },
+    "voice_135:r_0c0775e051211840": {
+      "text": "We can't allow this ship to sink.",
+      "status": "imported"
+    },
+    "voice_135:r_a2afffe1c396f0b3": {
+      "text": "Good...! Keep pressing forward!",
+      "status": "imported"
+    },
+    "voice_135:r_13c25fbdfddc8a24": {
+      "text": "Another's coming! Stay sharp!",
+      "status": "imported"
+    },
+    "voice_135:r_42ba1ecb310b4bd7": {
+      "text": "You misjudged Rewloola's agility!",
+      "status": "imported"
+    },
+    "voice_135:r_d692f1d420460a47": {
+      "text": "Too soft, Gundam!",
+      "status": "imported"
+    },
+    "voice_135:r_a5643cec86b18bd2": {
+      "text": "Gundam or not,\\nit's a mobile suit!",
+      "status": "imported"
+    },
+    "voice_135:r_68f2dfab20a4a30e": {
+      "text": "Looks like an amateur's piloting...!",
+      "status": "imported"
+    },
+    "voice_135:r_9cedad8237480563": {
+      "text": "Don't let the Unicorn come near!",
+      "status": "imported"
+    },
+    "voice_135:r_a03fabecba1508ca": {
+      "text": "Londo Bell's just\\na paper tiger...!",
+      "status": "imported"
+    },
+    "voice_135:r_5391b24a71eb10ae": {
+      "text": "So much for your vaunted power...!",
+      "status": "imported"
+    },
+    "voice_135:r_a554ceef5c87b972": {
+      "text": "This isn't even a diversion...!",
+      "status": "imported"
+    },
+    "voice_135:r_546c3d5937fbb7ee": {
+      "text": "Pesky thing, buzzing around us...!",
+      "status": "imported"
+    },
+    "voice_135:r_69dfa1659715e2fa": {
+      "text": "Rewloola has gear like this too!",
+      "status": "imported"
+    },
+    "voice_135:r_d996fd6d4ef5b329": {
+      "text": "Such an attack won't work on us...!",
+      "status": "imported"
+    },
+    "voice_135:r_8ab47a28f99ef565": {
+      "text": "You didn't think this through.",
+      "status": "imported"
+    },
+    "voice_135:r_546de3fb6db156ea": {
+      "text": "Is that the best attack you've got?",
+      "status": "imported"
+    },
+    "voice_135:r_ca85f87cee5e31f7": {
+      "text": "That much won't sink Rewloola.",
+      "status": "imported"
+    },
+    "voice_135:r_9072ea7bc71df136": {
+      "text": "Our damage control is flawless.",
+      "status": "imported"
+    },
+    "voice_135:r_04e815a8d425827d": {
+      "text": "Damage this minor was anticipated!",
+      "status": "imported"
+    },
+    "voice_135:r_d89011fe3e5d082a": {
+      "text": "Neo Zeon flagship...\\nDon't mock us!",
+      "status": "imported"
+    },
+    "voice_135:r_3c5b0c2ac812d5de": {
+      "text": "They're focusing all fire on us...!",
+      "status": "imported"
+    },
+    "voice_135:r_5b9e8897190892eb": {
+      "text": "Damage control, report status!",
+      "status": "imported"
+    },
+    "voice_135:r_7bea3023abbf8a94": {
+      "text": "No panic!\\nNow is the time for calm!",
+      "status": "imported"
+    },
+    "voice_135:r_dd01a4c0d1b36a8d": {
+      "text": "That shock...!\\nDirect hit somewhere?",
+      "status": "imported"
+    },
+    "voice_135:r_20920ad2eb3542db": {
+      "text": "Seal bulkheads! Douse fires first!",
+      "status": "imported"
+    },
+    "voice_135:r_0ab7914877fd48ed": {
+      "text": "Fire crews, to the mobile suit deck!",
+      "status": "imported"
+    },
+    "voice_135:r_cb846feec748c2e3": {
+      "text": "Gundam...!\\nOne unit is this deadly!",
+      "status": "imported"
+    },
+    "voice_135:r_c958860b0676b1f5": {
+      "text": "Gundam!\\nIt's Zeon's very devil!",
+      "status": "imported"
+    },
+    "voice_135:r_5e2669b82ef75ce3": {
+      "text": "Like this,\\nforget the Box's key...!",
+      "status": "imported"
+    },
+    "voice_135:r_7847e0ed7dc9282d": {
+      "text": "Damn fake Gundam...! How vexing!",
+      "status": "imported"
+    },
+    "voice_135:r_e42b52c7a987b906": {
+      "text": "Londo Bell!\\nFed elite indeed...!",
+      "status": "imported"
+    },
+    "voice_135:r_6825fd1ff907bd22": {
+      "text": "No way...!\\nIs that a Newtype...!?",
+      "status": "imported"
+    },
+    "voice_135:r_607f666f1563bc0d": {
+      "text": "That power...! It's off the charts!",
+      "status": "imported"
+    },
+    "voice_135:r_97b7431eeb81e6b6": {
+      "text": "Damn!\\nIs it too fast to intercept?!",
+      "status": "imported"
+    },
+    "voice_135:r_132f605d02975e71": {
+      "text": "Small but deadly! Don't dismiss it!",
+      "status": "imported"
+    },
+    "voice_135:r_fa944da4b6519006": {
+      "text": "Ngh...! Tougher than expected!",
+      "status": "imported"
+    },
+    "voice_135:r_95d047bcc17fccc6": {
+      "text": "Without Rewloola, Neo Zeon will...!",
+      "status": "imported"
+    },
+    "voice_135:r_640327a12a559b31": {
+      "text": "Neo Zeon's flagship!\\nNever forget!",
+      "status": "imported"
+    },
+    "voice_135:r_bdd38c584fa313d0": {
+      "text": "We cannot lose...! All hands, rally!",
+      "status": "imported"
+    },
+    "voice_135:r_3fd86c1027f317c8": {
+      "text": "Hold on! This is where it counts!",
+      "status": "imported"
+    },
+    "voice_135:r_d0372a183d2007ad": {
+      "text": "At the limit. Pull the ship back!",
+      "status": "imported"
+    },
+    "voice_135:r_217aa5e1d545b44d": {
+      "text": "Time to go! Rewloola, fall back!",
+      "status": "imported"
+    }
+  }
+}

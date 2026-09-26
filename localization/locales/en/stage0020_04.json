@@ -1,0 +1,682 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0020_04:r_caaab7bad760e16d": {
+      "text": "$$ミサト$$\n「Unit-01, launch!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_99b162aa6aa286a2": {
+      "text": "$$ミサト$$\n「Listen, $$シンジ$$?\n　With the Crusher Team gone,\n　you're the only one who can fight.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_58fb02434a1c40b2": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0020_04:r_1c0f94acd5a8a143": {
+      "text": "$$ミサト$$\n「Are you listening!?」",
+      "status": "imported"
+    },
+    "stage0020_04:r_1263541f4071624e": {
+      "text": "$$シンジ$$\n「You don't have to yell, I can hear you.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_3bc300bbdc277d82": {
+      "text": "$$ミサト$$\n「Then answer me.\n　You move under my command.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_38762a09460d8b6b": {
+      "text": "$$シンジ$$\n「Yes...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_7ab28e70b4d4f641": {
+      "text": "$$リツコ$$\n（Looks like he's in the worst state of mind.）",
+      "status": "imported"
+    },
+    "stage0020_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$赤木$$\n「$$シンジ$$...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_ec335e69f984b8b3": {
+      "text": "$$ミサト$$\n「Attack target, $$第５の使徒$$...!\n　$$エヴァンゲリオン初号機$$, commence attack!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_0abcaf0c31978670": {
+      "text": "$$シンジ$$\n（I fought before, thinking I could do something...\n　but even fighting, some people I can't protect...）",
+      "status": "imported"
+    },
+    "stage0020_04:r_1d6bc48b7f246730": {
+      "text": "$$シンジ$$\n（Those people surely won't forgive me...\n　Then what am I even fighting for...\n　if it means being hated...）",
+      "status": "imported"
+    },
+    "stage0020_04:r_1af20fccc3c53cfc": {
+      "text": "$$ケンスケ$$\n「Amazing!\n　Sneaking out of the shelter to watch was\n　so worth it!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_f951916061232dcd": {
+      "text": "$$トウジ$$\n「But you're a weirdo too.\n　Wanting to see the fight live and all.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_4d863c3fb88a4c39": {
+      "text": "$$ケンスケ$$\n「If I miss this chance,\n　I might never get another.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_44f4742c3dcce39a": {
+      "text": "$$トウジ$$\n「Guess it can't be helped...\n　You're really honest about what you want, huh.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_9e701cdeb3842c21": {
+      "text": "$$赤木$$\n「Hey, you two!\n　What are you doing in a place like this!?」",
+      "status": "imported"
+    },
+    "stage0020_04:r_6fd81f4abebe60c5": {
+      "text": "$$ケンスケ$$\n「W-well, what do you mean...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_da2132b5038ec737": {
+      "text": "$$赤木$$\n「This place is dangerous!\n　Evacuate, now!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_495d61d3ec7e16f2": {
+      "text": "$$ケンスケ$$\n「Ah!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_5cd353758cfe474d": {
+      "text": "$$シンジ$$\n「Waaaugh!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_a653c8dec4c0f06f": {
+      "text": "$$トウジ$$\n「I, it's coming this way!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_86d493e37a9799a7": {
+      "text": "$$赤木$$\n「$$シンジ$$!\n　Are you all right, $$シンジ$$!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_09d0fcc600cdd3df": {
+      "text": "$$シンジ$$\n「A, $$赤木$$...\n　And that is...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_182faded068c15ed": {
+      "text": "$$ケンスケ$$\n「A, ahh...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_9c206d19bfda4bd5": {
+      "text": "$$ミサト$$\n「$$シンジ$$'s classmates!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_6e558bc69acf5bf3": {
+      "text": "$$リツコ$$\n「Why are they over there!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_d60d0818e965232f": {
+      "text": "$$赤木$$\n「Can you hear me, $$シンジ$$!\n　Protect these two!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_5b23687574286204": {
+      "text": "$$シンジ$$\n「B, but...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_6fd86c96891ea942": {
+      "text": "$$赤木$$\n「You have the power to do it!\n　Just try!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_43e4e548c0b28376": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0020_04:r_d80a9688790ed583": {
+      "text": "$$ミサト$$\n「$$シンジ$$, get those two into the cockpit!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_708bea61e3c43ada": {
+      "text": "$$シンジ$$\n「Eh...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ミサト$$\n「That's the only way right now!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_0827963cfd706e8d": {
+      "text": "$$シンジ$$\n「Understood...!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$赤木$$\n「Come on, you two!\n　Get in the EVA!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_3f4035fd9db81258": {
+      "text": "$$トウジ$$\n「What about you, old man!?」",
+      "status": "imported"
+    },
+    "stage0020_04:r_567b361a454c4b73": {
+      "text": "$$赤木$$\n「I've survived plenty of tight spots before!\n　I'll make it out alive, guaranteed!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_d22851aaafbbf8fc": {
+      "text": "$$ミサト$$\n「You two, hurry up!\n　The Angel's coming!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_352534f64413d954": {
+      "text": "$$トウジ$$\n「W, waaaugh!!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_79f2664edb1af798": {
+      "text": "$$トウジ$$\n「T, transfer student!\n　You...!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$シンジ$$\n「Stay quiet!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_1c5aa0d15ae24846": {
+      "text": "$$シンジ$$\n「I have... no choice but to do it!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_53bb64ee17750ee2": {
+      "text": "$$トウジ$$\n「You...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_7a7add80fde475ba": {
+      "text": "$$マコト$$\n「Confirmed approach of an unidentified unit!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_b2befefdbed1393d": {
+      "text": "$$マヤ$$\n「Target identified!\n　This... is the unit that appeared before!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_2103f6df2ea2e447": {
+      "text": "$$ミサト$$\n「A Mechanical Beast Army!\n　At a time like this...!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_a12e3e130d896ff7": {
+      "text": "$$ブロッケン$$\n「$$兜甲児$$ hasn't arrived yet.\n　Then let's sit back here and enjoy watching\n　the world meet its end.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ブロッケン$$\n「W, what's going on!?」",
+      "status": "imported"
+    },
+    "stage0020_04:r_91bf33c27ad39f0a": {
+      "text": "$$ミサト$$\n「The Crusher Team came to help!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_ee220318b96ab538": {
+      "text": "$$ゲンドウ$$\n「That's not it.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_ce1b55e526b6277a": {
+      "text": "$$ミサト$$\n「That unit is...!?」",
+      "status": "imported"
+    },
+    "stage0020_04:r_c304df6888eb78f7": {
+      "text": "$$マコト$$\n「Querying the Earth Federation Forces database!\n　It's an Unknown, likely thrown here by a\n　dimensional tremor, with only one sighting so far!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_c26958634526e597": {
+      "text": "$$ブロッケン$$\n「Nnngh!\n　Why are you attacking us!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_cdb750c9d380881a": {
+      "text": "$$ブロッケン$$\n「Blast it, retreat!\n　We can't fight without our pawns!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_95fda74613c97b39": {
+      "text": "$$リツコ$$\n「That unit... it helped us...?」",
+      "status": "imported"
+    },
+    "stage0020_04:r_1956994937f8171e": {
+      "text": "$$シゲル$$\n「The unknown appears to be attacking the Angel.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_48f49f6728c15612": {
+      "text": "$$ミサト$$\n「So it's an ally, then...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ゲンドウ$$\n「Wrong.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_f02c37d91387d0ad": {
+      "text": "$$ミサト$$\n「Commander Ikari...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$ゲンドウ$$\n「Launch Unit-00.\n　We will annihilate the Angel and the Unknown.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_9796b3efa401a303": {
+      "text": "$$ミサト$$\n「But...!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_643b6eebfc0186b3": {
+      "text": "$$ゲンドウ$$\n「They're both our enemies.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_291280e5f7eb9d70": {
+      "text": "$$ミサト$$\n「...Understood.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_32eb462c1b4999cb": {
+      "text": "$$リツコ$$\n「$$レイ#333$$ is ready.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_1f4337d6d393fc37": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0020_04:r_4740e748fae085ee": {
+      "text": "$$ケンスケ$$\n「What's going on, transfer student!\n　Is that bat thing an enemy too!?」",
+      "status": "imported"
+    },
+    "stage0020_04:r_b76524cd840e1d37": {
+      "text": "$$シンジ$$\n「I don't know...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_730ffe18400abfc2": {
+      "text": "$$トウジ$$\n「Idiot!\n　Not knowing won't cut it!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_ffe0fca26da5cd38": {
+      "text": "$$シンジ$$\n「If I don't know, I don't know!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_bfb27f9eb2f7073e": {
+      "text": "$$ケンスケ$$\n「Another EVA showed up!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_859dfa27bcaafe30": {
+      "text": "$$シンジ$$\n「Ayanami... is that you?」",
+      "status": "imported"
+    },
+    "stage0020_04:r_71ebf05996a4b0fd": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0020_04:r_6214c11b1bca811e": {
+      "text": "$$ミサト$$\n「$$シンジ$$, change of plan.\n　Team up with $$レイ#333$$ against the Angel and the Unknown.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_8eaf6f3098ffed12": {
+      "text": "$$シンジ$$\n「No way...!\n　We're outnumbered by too much!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_cf507214fe955d75": {
+      "text": "$$ミサト$$\n「...!\n　Dodge, $$シンジ$$!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_2113dcbabdfc758a": {
+      "text": "$$第５の使徒$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0020_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$シンジ$$\n「Whoa!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_6a74519e1fc29c4b": {
+      "text": "$$シゲル$$\n「Umbilical cable severed!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_5b992878fee054b5": {
+      "text": "$$マコト$$\n「EVA has switched to internal power!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$マヤ$$\n「Six minutes until operational limit!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ミサト$$\n「You heard that, $$シンジ$$!\n　With only six minutes left, prioritize the Angel!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_20cf167c0ec0d4d5": {
+      "text": "$$ミサト$$\n「$$レイ#333$$!\n　Your Unit-00 has a repair unit installed!\n　Back up $$シンジ$$!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_b591d812c96c6c99": {
+      "text": "$$レイ#333$$\n「Understood.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_e350fa099c1ab072": {
+      "text": "$$ミサト$$\n「The priority target's still the Angel,\n　but watch out for the Unknown too!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ミサト$$\n「Are you listening, $$シンジ$$!?」",
+      "status": "imported"
+    },
+    "stage0020_04:r_c33bd700553abf91": {
+      "text": "$$シンジ$$\n「I have to... I have no choice...\n　If I don't, these two here too...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_feee5c91826230e1": {
+      "text": "$$ミサト$$\n「$$シンジ$$...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_bccc48e1964ad22d": {
+      "text": "$$赤木$$\n「You held on well, $$シンジ$$!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_f8736aaaa216c766": {
+      "text": "$$シンジ$$\n「$$赤木$$, you're all right!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_d1ec2522c87c361d": {
+      "text": "$$赤木$$\n「Of course!\n　If the hero of justice goes and dies,\n　he can't protect everyone, right!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_3599f0a4343fd95c": {
+      "text": "$$正太郎$$\n「$n, that's...!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_3bc7834a5bf3ee76": {
+      "text": "$n\n「That's a bat that showed up with the $$ジェニオン$$!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_366814efdc8b5800": {
+      "text": "$$スズネ$$\n「But wasn't it just an accident that brought\n　that thing here in a dimensional tremor...!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_9be1a4c10bb62515": {
+      "text": "$$葵$$\n「That Unknown,\n　looks like it means to hit both us and the Angel.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_94a88c90e557e16e": {
+      "text": "$$竜馬$$\n「Then we'll just crush them both!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_1c208ca0cbf26f28": {
+      "text": "$$佐伯$$\n「Lt. Col. Katsuragi,\n　will that be all right?」",
+      "status": "imported"
+    },
+    "stage0020_04:r_5b7ee307a700171a": {
+      "text": "$$ミサト$$\n「The Unknown appears to be unmanned.\n　We have no choice but to fight back.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_8d8f065c932da30a": {
+      "text": "$$ミサト$$\n「The EVA's time limit is approaching.\n　Please help us clear the obstacle quickly.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_f5432119677514f7": {
+      "text": "$$Ｆ．Ｓ．$$\n「Just as you heard.\n　Our targets are the Angel and the Unknown...\n　We will annihilate them both.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_4e5c8e989c4a7691": {
+      "text": "$$ミサト$$\n「$$レイ#333$$, back up $$シンジ$$!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_adec86483b13599a": {
+      "text": "$$レイ#333$$\n「Understood.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_2cf701bbcde3ec13": {
+      "text": "$$シンジ$$\n「Ayanami...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_c17c58fdba72005e": {
+      "text": "$$レイ#333$$\n「Because this is my duty.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_1fe8564d2b959317": {
+      "text": "$$シンジ$$\n（Duty... the role I'm meant to play...\n　I...）",
+      "status": "imported"
+    },
+    "stage0020_04:r_f527e012803f7f1c": {
+      "text": "$$赤木$$\n「You did it, $$シンジ$$!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_4b1247bd3ca4905d": {
+      "text": "$$シンジ$$\n「Yes...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_00c55e25f87b71d0": {
+      "text": "$$シゲル$$\n「The target has completely lost its form.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_338f3b27e51dcc41": {
+      "text": "$$ミサト$$\n「Guess we pulled it off...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_d91d4bc2d52b61c4": {
+      "text": "$$マコト$$\n「Target regenerating!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_0c8ea89b07432421": {
+      "text": "$$ミサト$$\n「$$シンジ$$!\n　Force open the Angel's A.T. Field in close combat,\n　and destroy its core!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_4dbfba00ba7744ee": {
+      "text": "$$シンジ$$\n「But...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_be100a32b731708d": {
+      "text": "$$甲児$$\n「Go, $$シンジ$$!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_702f82442fcec8a9": {
+      "text": "$$赤木$$\n「You too bear everyone's lives on your back!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_b1e38da4e8775ffe": {
+      "text": "$$シンジ$$\n「Ngh...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$シンジ$$\n「Aaaaaaargh!!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$シゲル$$\n「The target has completely lost its form.」",
+      "status": "imported"
+    },
+    "stage0020_04:r_3dad695c99e9e052": {
+      "text": "$$ミサト$$\n「Guess we pulled it off...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_66d4ae3a21caf881": {
+      "text": "$n\n「They're pulling back too...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_0c18da7b3a37825d": {
+      "text": "$$タケル$$\n「What was that, just now...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_63249745ffae61b6": {
+      "text": "$$甲児$$\n「$$ブロッケン$$, who got to $$第３新東京市$$ before us,\n　apparently got driven off by those guys...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_abdb034ae8509702": {
+      "text": "$$シンジ$$\n「Haah... haah... haah...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_3ff2e21207d1d1d3": {
+      "text": "$$赤木$$\n「Well done, $$シンジ$$!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_e51ecf6d6aa42e75": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0020_04:r_47ddabb7b60131c2": {
+      "text": "$$トウジ$$\n「H-hey... transfer student...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_b025267f22788233": {
+      "text": "$$シンジ$$\n「...I.........」",
+      "status": "imported"
+    },
+    "stage0020_04:r_ec1a06a7023bf72c": {
+      "text": "$$マヤ$$\n「3 minutes until Unit-01 reaches its time limit!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_8805f96e52aaa462": {
+      "text": "$$ミサト$$\n（Hurry, $$シンジ$$.\n　$$レイ#333$$ alone can't stop the Angel.）",
+      "status": "imported"
+    },
+    "stage0020_04:r_124591cb154fae64": {
+      "text": "$$マヤ$$\n「2 minutes until the time limit!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$ミサト$$\n「Hurry, $$シンジ$$!\n　Focus your attacks on the Angel!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_4bf9b05b5f948170": {
+      "text": "$$マヤ$$\n「Under a minute to the time limit!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_eaa52d152f444bfd": {
+      "text": "$$リツコ$$\n「Lt. Col. Katsuragi! Recover Unit-01!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_b4bc9e9435b58e6f": {
+      "text": "$$ミサト$$\n「Unit-00 alone can't stop the Angel!\n　We're betting on Unit-01 to the very last second!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_a9227573166977a9": {
+      "text": "$$ミサト$$\n「$$シンジ$$, decide it in this one minute!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_b0600ab9a9e8559d": {
+      "text": "$$マヤ$$\n「Unit-01 has reached its time limit!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_7cbc63dad295f862": {
+      "text": "$$ミサト$$\n「To think it would end here...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_07f53c816e0a51f5": {
+      "text": "$$シンジ$$\n「Move...! Move, damn it!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_2d09c6f6a2d990ea": {
+      "text": "$$シンジ$$\n「If you don't move, this is over!\n　Why won't you move!!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_3c5fcfc484a51913": {
+      "text": "$n\n「Are the Unknowns taken care of?」",
+      "status": "imported"
+    },
+    "stage0020_04:r_0476ffd10c764b0e": {
+      "text": "$$タケル$$\n「What were those things...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$甲児$$\n「$$ブロッケン$$, who got to $$第３新東京市$$ before us,\n　apparently got driven off by those guys...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_2b3479c4cf0680f4": {
+      "text": "$$赤木$$\n「Think about it later!\n　Right now, beating that Angel comes first!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_e370696b8936b08c": {
+      "text": "$$シンジ$$\n「I...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_9d7b02c5e728b7aa": {
+      "text": "$$シンジ$$\n「If I have no choice but to fight...」",
+      "status": "imported"
+    },
+    "stage0020_04:r_9af213fc64e0afec": {
+      "text": "$$ケンスケ$$\n「W-wait, transfer student!\n　Just wait a second!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_d7f1c506e78e55ff": {
+      "text": "$$トウジ$$\n「N-no way! Absolutely not!\n　You'll die for sure like this!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_0c705091f748360e": {
+      "text": "$$シンジ$$\n「If you don't want to die, then shut up!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_9eb8599304125b2f": {
+      "text": "$$シンジ$$\n「I don't want to either...!\n　I don't want anyone to die, and I don't want to die!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_a072aa25e5f521e0": {
+      "text": "$$甲児$$\n「Creepier than ever, this guy!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_24e1a808a1609a1a": {
+      "text": "$$甲児$$\n「Get ready!\n　Now that me and Mazinger are here,\n　you're not taking one step further!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_53128ce8f154fd06": {
+      "text": "$$正太郎$$\n「This thing has that A.T. Field\n　too!?」",
+      "status": "imported"
+    },
+    "stage0020_04:r_03b5db9ce98fb8d6": {
+      "text": "$$正太郎$$\n「Charge, $$鉄人$$!\n　Break the Field and go for the core!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_3915fb4102f1c1dd": {
+      "text": "$$ワッ太$$\n「Every single Angel's got a totally different shape!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_817b2773b4ed563e": {
+      "text": "$$ワッ太$$\n「But if it's the enemy, no mercy!\n　Me and Trider will beat it down!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_1cc233cbc8c80af7": {
+      "text": "$$竜馬$$\n「Looks like you're after the EVA,\n　but I won't let that happen!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$竜馬$$\n「If that thing goes Berserk,\n　nothing good's gonna come of it!\n　I'll settle this before that happens!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_e180b22d18f48d38": {
+      "text": "$$葵$$\n「If a different type had to show up,\n　I wish it were something more charming...!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_e598c2a0b27e7f50": {
+      "text": "$$葵$$\n「Sorry, but I guess you and I\n　just aren't gonna get along after all!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_4d2a9066c4e7b27f": {
+      "text": "$n\n「If we can just break the Field, we have a chance...!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_10340119af3ed6db": {
+      "text": "$$スズネ$$\n「$n!\n　Charging in head-on is reckless!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_23a9c7ab620ab112": {
+      "text": "$n\n「Reckless or not, I'm doing it!\n　If we let it run loose, the world ends!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_4f0aca6deda07883": {
+      "text": "$$赤木$$\n「This is the city $$シンジ$$ fought to protect!\n　I won't let his effort go to waste!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_8fe40600ce62dfbc": {
+      "text": "$$赤木$$\n「Focus all attacks on one point, same as\n　a $$ヘテロダイン$$! I'll show you how it's done!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_ff4ce5f3cf96b617": {
+      "text": "$$タケル$$\n「This unease I've felt since back then...!\n　What is this creature called an Angel...!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_d73c21f119847e35": {
+      "text": "$$タケル$$\n「The nightmare I saw,\n　could these things really be connected to it!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_89766f5ffaa912d4": {
+      "text": "$n\n「What are these things...!?\n　Are they backing up the Angel...!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$スズネ$$\n「$n!\n　Focus on beating the enemy right now!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_451f726d4299ea35": {
+      "text": "$n\n「Don't tell me these things...\n　have established a route to invade this world!」",
+      "status": "imported"
+    },
+    "stage0020_04:r_e3d111e8bb190cb1": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

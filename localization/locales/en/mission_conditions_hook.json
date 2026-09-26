@@ -1,0 +1,170 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "mission_conditions_hook:r_479b340ccc6c572b": {
+      "text": "Shoot down $$アルトロンガンダム$$.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_ca4acbac57a2a35e": {
+      "text": "Reduce $$アンナロッタ$$'s $$アンゲロイＧＥＭ$$ to 8000 HP or less.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_77949221bf58f862": {
+      "text": "Shoot down $$エクルビス$$.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_70b9c4b9f1f37eff": {
+      "text": "Reduce $$エクルビス$$'s HP to 10000 or less.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_9fcb3754cb1773c7": {
+      "text": "Shoot down Ghoul.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_3559d2fad32c2435": {
+      "text": "Shoot down $$ニーバ$$'s $$地上戦艦$$.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_f7570547e9f80a64": {
+      "text": "Shoot down the Giant Saucer.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_cbab0f4720e1fcf1": {
+      "text": "Shoot down 6 or more enemies.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_0bbe0b4f5364e732": {
+      "text": "Reach the opposing side's point.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_5dda5198137cb02a": {
+      "text": "Shoot down the Fourth Angel.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_83ec59afbecdec14": {
+      "text": "Shoot down the Fifth Angel.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_e20bfd42ad95a3c9": {
+      "text": "Shoot down Akagi's M6 Bushnell.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_0f58a8822381e57f": {
+      "text": "$$アマタ$$ or $$桂$$ is shot down.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_6dbcc507fb61b51d": {
+      "text": "$$アマタ$$ is shot down.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_b42ab697149a7c8a": {
+      "text": "$$キリコ$$ or Hibiki is shot down.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_4de4fcf3b440baf4": {
+      "text": "$$シンジ$$ or Rei is shot down.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_0121a166c715cdff": {
+      "text": "$$シンジ$$ is shot down.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_30fad37a42bd3ad3": {
+      "text": "$$ヒイロ$$ or Hibiki is shot down.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_80a0b2a84e05d81a": {
+      "text": "Hibiki or $$カレン$$ is shot down.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_4a9ac1dff86506d9": {
+      "text": "Hibiki or $$ボン太くん#pilot$$ is shot down.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_bc8538e6af3d2577": {
+      "text": "A Heterodyne enters the village.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_924516c8de2b5342": {
+      "text": "The Fourth Angel reaches the point.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_da1174533722333f": {
+      "text": "Nerima RD reaches your side's point.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_fdeb8162976e72c1": {
+      "text": "Akagi or $$ボン太くん#pilot$$ is shot down.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_0fadb5c26df92b42": {
+      "text": "Akagi is shot down.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_6b15af9a0057cdc8": {
+      "text": "6 turns pass after Unit-00 appears.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_15b4a90140e8a33a": {
+      "text": "Within 3 turns of Evangelion Unit-01's arrival,\nshoot down the Fourth Angel.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_af884a6b11dff121": {
+      "text": "Shoot down all other enemies before the Angel.\nIf the Angel shoots down even one ??? unit,\nyou will not earn the SR Point.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_ac6fe7838e95647b": {
+      "text": "Before the allied NPC Black Ox is shot down,\nshoot down the Giant Saucer.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_77ca87eacd17ad52": {
+      "text": "Shoot down every Federation and Neo Zeon unit.\nIf either faction shoots down a unit of the other,\nyou will not earn the SR Point.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_bf3244994760e535": {
+      "text": "Shoot down $$ミスラ・グニス$$ within 3 turns.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_aabfb21c9d069ce7": {
+      "text": "Shoot down Ghoul within 4 turns.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_02479dc8fe989560": {
+      "text": "Within 4 turns, shoot down $$カン・ユー$$'s Fatty,\nthen shoot down $$エクルビス$$.\n$$エクルビス$$ retreats at 10000 HP or less.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_a2df00f91a9b0a9e": {
+      "text": "Clear the map within 4 turns.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_48b60d6c48b9b142": {
+      "text": "Within 4 turns, shoot down 5 enemies,\nthen shoot down Akagi.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_8927e6fb681aa809": {
+      "text": "Within 4 turns, wipe out at least 8 enemy teams\nand shoot down $$ニーバ$$'s $$地上戦艦$$.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_665f01666859013b": {
+      "text": "Wipe out 10+ enemy teams by turn 4's Player Phase.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_a571eec59b258d11": {
+      "text": "Within 5 turns, shoot down the Plan 1056 Codarl\nor $$オーデルバックラー$$.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_ddbe581c5ea9183d": {
+      "text": "Shoot down the Plan 1056 Codarl within 5 turns.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_faae935cca0edc72": {
+      "text": "Destroy all enemies within 5 turns.\nHave one allied pilot shoot down at least 6 enemies.",
+      "status": "imported"
+    },
+    "mission_conditions_hook:r_d4430bf362340b32": {
+      "text": "Within 5 turns, shoot down $$ミスラ・グニス$$ and\n$$ラディウス・グニス$$ in the same turn.",
+      "status": "imported"
+    }
+  }
+}

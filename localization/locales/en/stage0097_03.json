@@ -1,0 +1,566 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0097_03:r_caaab7bad760e16d": {
+      "text": "Gradient",
+      "status": "translated"
+    },
+    "stage0097_03:r_99b162aa6aa286a2": {
+      "text": "Gradient",
+      "status": "translated"
+    },
+    "stage0097_03:r_58fb02434a1c40b2": {
+      "text": "Gradient",
+      "status": "translated"
+    },
+    "stage0097_03:r_1c0f94acd5a8a143": {
+      "text": "$$キング$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0097_03:r_1263541f4071624e": {
+      "text": "$$クィーン$$\n「Are you dissatisfied with this outcome?」",
+      "status": "translated"
+    },
+    "stage0097_03:r_3bc300bbdc277d82": {
+      "text": "$$キング$$\n「.........」",
+      "status": "translated"
+    },
+    "stage0097_03:r_38762a09460d8b6b": {
+      "text": "$$クィーン$$\n「The future mankind chose...\n　It certainly does run against Chrono's doctrine.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_7ab28e70b4d4f641": {
+      "text": "$$キング$$\n「It's the reformists who deserve our hatred...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$キング$$\n「To think that behind $c's existence,\n　they were helping prepare for $$時空修復$$...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_ec335e69f984b8b3": {
+      "text": "$$クィーン$$\n「We too bear some responsibility\n　for failing to see through that.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_0abcaf0c31978670": {
+      "text": "$$キング$$\n「...But that will bring about\n　the worst possible outcome for mankind.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_1d6bc48b7f246730": {
+      "text": "$$クィーン$$\n「This is beyond even our ability to interfere.\n　Let's leave the rest to that one, our proxy.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_1af20fccc3c53cfc": {
+      "text": "$$キング$$\n「$$ガドライト$$ and $$アドヴェント$$...\n　Which one will win...?」",
+      "status": "translated"
+    },
+    "stage0097_03:r_f951916061232dcd": {
+      "text": "Quarter Hangar",
+      "status": "translated"
+    },
+    "stage0097_03:r_4d863c3fb88a4c39": {
+      "text": "Quarter Hangar",
+      "status": "translated"
+    },
+    "stage0097_03:r_44f4742c3dcce39a": {
+      "text": "Quarter Hangar",
+      "status": "translated"
+    },
+    "stage0097_03:r_9e701cdeb3842c21": {
+      "text": "　\n　　\n　　　　　　～ Macross Quarter Hangar ～",
+      "status": "translated"
+    },
+    "stage0097_03:r_6fd81f4abebe60c5": {
+      "text": "$n\n「.........」",
+      "status": "translated"
+    },
+    "stage0097_03:r_da2132b5038ec737": {
+      "text": "$$アルト$$\n「$n!」",
+      "status": "translated"
+    },
+    "stage0097_03:r_495d61d3ec7e16f2": {
+      "text": "$$宗介$$\n「We did it.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_5cd353758cfe474d": {
+      "text": "$n\n「...It's thanks to all of you.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_a653c8dec4c0f06f": {
+      "text": "$$カレン$$\n「What are you talking about?\n　$$ガドライト$$ was our enemy too,\n　so of course we'd back you up.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_86d493e37a9799a7": {
+      "text": "$n\n「...That's not all.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_09d0fcc600cdd3df": {
+      "text": "$$甲児$$\n「You...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_182faded068c15ed": {
+      "text": "$n\n「The reason I've been able to fight\n　until today is thanks to everyone.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_9c206d19bfda4bd5": {
+      "text": "$n\n「If I'd been alone, I'm sure I'd have lost\n　to fear and sunk into the same despair he did...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_6e558bc69acf5bf3": {
+      "text": "$$アマタ$$\n「$n...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_d60d0818e965232f": {
+      "text": "$n\n「If I hadn't joined $c...\n　No... if I hadn't transferred to Jindai High,\n　I wouldn't be who I am today...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_5b23687574286204": {
+      "text": "$$かなめ$$\n「Hearing you say that,\n　pushing $$宗介$$ onto you wasn't a mistake after all.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_6fd86c96891ea942": {
+      "text": "$$宗介$$\n「I was... the one pushed on him...?」",
+      "status": "translated"
+    },
+    "stage0097_03:r_43e4e548c0b28376": {
+      "text": "$$かなめ$$\n「Uh... uhehe...\n　It's just a figure of speech.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_d80a9688790ed583": {
+      "text": "$n\n「Pfft...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_708bea61e3c43ada": {
+      "text": "$n\n「I knew it! So that's how it was!」",
+      "status": "translated"
+    },
+    "stage0097_03:r_7b6f159eeaf4de0f": {
+      "text": "$$かなめ$$\n「Wha...! Sorry, $n!\n　For dumping something troublesome on you!」",
+      "status": "translated"
+    },
+    "stage0097_03:r_0827963cfd706e8d": {
+      "text": "$$カミーユ$$\n「Guess that's what they call a blessing in disguise.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$シン$$\n「Even if you call it an 'injury,' I'd say that's more like a severe one.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_3f4035fd9db81258": {
+      "text": "$$かなめ$$\n「Well, it's fine, isn't it!\n　All's well that ends well!」",
+      "status": "translated"
+    },
+    "stage0097_03:r_567b361a454c4b73": {
+      "text": "$$カレン$$\n「That's not a line you get to say, when you're the one who caused it!」",
+      "status": "translated"
+    },
+    "stage0097_03:r_d22851aaafbbf8fc": {
+      "text": "$$スズネ$$\n「All right, all right, that's enough of this topic.\n　$$宗介$$ seems pretty hurt by it too.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_352534f64413d954": {
+      "text": "$$宗介$$\n「I'm... a nuisance... a hindrance... dead weight... an unwanted child...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_79f2664edb1af798": {
+      "text": "$$シンジ$$\n（It's true...）",
+      "status": "translated"
+    },
+    "stage0097_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$ワッ太$$\n（I don't think that's really surprising at this point.）",
+      "status": "translated"
+    },
+    "stage0097_03:r_1c5aa0d15ae24846": {
+      "text": "$$正太郎$$\n（That's... definitely something you shouldn't say.）",
+      "status": "translated"
+    },
+    "stage0097_03:r_53bb64ee17750ee2": {
+      "text": "$$宗介$$\n「I'm... a broken needle bound for the heart... a giant dud bomb...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_7a7add80fde475ba": {
+      "text": "$n\n「Don't worry about it, $$宗介$$.\n　I'm glad I got to be your friend.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_b2befefdbed1393d": {
+      "text": "$$宗介$$\n「Really...!?」",
+      "status": "translated"
+    },
+    "stage0097_03:r_2103f6df2ea2e447": {
+      "text": "$n\n「Really.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_a12e3e130d896ff7": {
+      "text": "$$宗介$$\n「I see!」",
+      "status": "translated"
+    },
+    "stage0097_03:r_b6f7b219eb4bd64b": {
+      "text": "$n\n「Not just you.\n　Meeting everyone in the Volunteer Club,\n　and everyone in $c too.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_91bf33c27ad39f0a": {
+      "text": "$$スズネ$$\n「Um, ahem.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_ee220318b96ab538": {
+      "text": "$n\n「Of course, that includes you too, Miss $$スズネ$$.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_ce1b55e526b6277a": {
+      "text": "$$スズネ$$\n「Good!」",
+      "status": "translated"
+    },
+    "stage0097_03:r_c304df6888eb78f7": {
+      "text": "$n\n「Thank you, everyone.\n　I look forward to more of the same.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_c26958634526e597": {
+      "text": "$$甲児$$\n「Likewise.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_cdb750c9d380881a": {
+      "text": "$$桂$$\n「Still, the road ahead's a rough one.\n　After all, you've been marked by the $$スフィア$$.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_95fda74613c97b39": {
+      "text": "$$キラ$$\n「I knew that defeating the owner\n　lets you take the $$スフィア$$, but I didn't\n　know that applied even without a Reactor...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_1956994937f8171e": {
+      "text": "$$ロジャー$$\n「What's more, this time, the $$スフィア$$\n　moved before the Reactor was even defeated.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_48f49f6728c15612": {
+      "text": "$$カミーユ$$\n「I wonder if it's because $$ジェニオン$$\n　is modeled after $$ジェミニア$$, after all?」",
+      "status": "translated"
+    },
+    "stage0097_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$桂$$\n「Can't think of any other explanation.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_f02c37d91387d0ad": {
+      "text": "$$ロジャー$$\n（A mobile weapon built to steal $$スフィア$$s...\n　Reminds me of $$アサキム$$'s Shurouga...）",
+      "status": "translated"
+    },
+    "stage0097_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$キラ$$\n「$n, you're going to keep fighting in $$ジェニオン$$, right?」",
+      "status": "translated"
+    },
+    "stage0097_03:r_9796b3efa401a303": {
+      "text": "$n\n「That's my new fight.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_643b6eebfc0186b3": {
+      "text": "$$ロジャー$$\n「I've heard your resolve.\n　Once things settle down, ask Dr. $$トライア$$\n　about the $$スフィア$$'s properties.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_291280e5f7eb9d70": {
+      "text": "$n\n「Understood.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_32eb462c1b4999cb": {
+      "text": "$$桂$$\n（Well... as for 《$$スフィアの反作用$$》,\n　there's no point talking about it now.）",
+      "status": "translated"
+    },
+    "stage0097_03:r_1f4337d6d393fc37": {
+      "text": "$$ロジャー$$\n（For now, let's have those of us\n　around him keep watch over that.）",
+      "status": "translated"
+    },
+    "stage0097_03:r_4740e748fae085ee": {
+      "text": "$$スズネ$$\n（$n...\n　Your revenge is over now, isn't it...）",
+      "status": "translated"
+    },
+    "stage0097_03:r_b76524cd840e1d37": {
+      "text": "$$スズネ$$\n（But, $$ガドライト$$'s final words were...）",
+      "status": "translated"
+    },
+    "stage0097_03:r_730ffe18400abfc2": {
+      "text": "$n\n「Miss $$スズネ$$...?」",
+      "status": "translated"
+    },
+    "stage0097_03:r_ffe0fca26da5cd38": {
+      "text": "$$スズネ$$\n「...$n.\n　If you're going to keep fighting, don't you think\n　your partner deserves a word about it?」",
+      "status": "translated"
+    },
+    "stage0097_03:r_bfb27f9eb2f7073e": {
+      "text": "$n\n「Miss $$スズネ$$... I look forward to working with you.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_859dfa27bcaafe30": {
+      "text": "$$スズネ$$\n「Let's do our best, $n.\n　So everyone can get back to Jindai High together.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_71ebf05996a4b0fd": {
+      "text": "$n\n「Yes...!」",
+      "status": "translated"
+    },
+    "stage0097_03:r_6214c11b1bca811e": {
+      "text": "Night Sky",
+      "status": "translated"
+    },
+    "stage0097_03:r_8eaf6f3098ffed12": {
+      "text": "Night Sky",
+      "status": "translated"
+    },
+    "stage0097_03:r_cf507214fe955d75": {
+      "text": "Night Sky",
+      "status": "translated"
+    },
+    "stage0097_03:r_2113dcbabdfc758a": {
+      "text": "$$アンナロッタ$$\n（$$ガドライト$$...）",
+      "status": "translated"
+    },
+    "stage0097_03:r_4b0e43ba6a5f2f5b": {
+      "text": "Geminis\n「Major $$アンナロッタ$$...\n　What should we do now?」",
+      "status": "translated"
+    },
+    "stage0097_03:r_6a74519e1fc29c4b": {
+      "text": "$$アンナロッタ$$\n「The captain left us orders\n　to retreat, in case something happened.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_5b992878fee054b5": {
+      "text": "$$アンナロッタ$$\n「We'll gather our remaining forces and withdraw from Earth.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_95a3dd16c2c4cc3e": {
+      "text": "Geminis\n「But where are we even supposed to go...!?」",
+      "status": "translated"
+    },
+    "stage0097_03:r_4a14ec0c511c7f0d": {
+      "text": "Geminis\n「We don't even have a home planet to return to anymore...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_20cf167c0ec0d4d5": {
+      "text": "$$アンナロッタ$$\n「Even so, we must survive.\n　If only to preserve the Geminaid bloodline.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_b591d812c96c6c99": {
+      "text": "???\n「...That won't happen.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_e350fa099c1ab072": {
+      "text": "Geminis\n「Who are you!?」",
+      "status": "translated"
+    },
+    "stage0097_03:r_fb05d8e5f1ee93e5": {
+      "text": "Geminis\n「Major $$アンナロッタ$$!\n　We'll hold them off here!\n　Fall back, quickly!」",
+      "status": "translated"
+    },
+    "stage0097_03:r_c33bd700553abf91": {
+      "text": "???\n「Useless.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_feee5c91826230e1": {
+      "text": "Geminis\n「Wha...!」",
+      "status": "translated"
+    },
+    "stage0097_03:r_bccc48e1964ad22d": {
+      "text": "Geminis\n「Impo...ssible......」",
+      "status": "translated"
+    },
+    "stage0097_03:r_f8736aaaa216c766": {
+      "text": "???\n「So, this is as far as you go.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_d1ec2522c87c361d": {
+      "text": "$$アンナロッタ$$\n「Geminis, in one hit...!」",
+      "status": "translated"
+    },
+    "stage0097_03:r_3599f0a4343fd95c": {
+      "text": "???\n「I haven't killed them.\n　My mission is only the execution\n　of you, $$アンナロッタ・ストールス$$.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_3bc7834a5bf3ee76": {
+      "text": "$$アンナロッタ$$\n「You...!」",
+      "status": "translated"
+    },
+    "stage0097_03:r_366814efdc8b5800": {
+      "text": "???\n「The Geminaid, a race of pure matrilineal inheritance...\n　The last surviving woman of that line...\n　Execute you, and that bloodline ends.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_9be1a4c10bb62515": {
+      "text": "???\n「This is the fate of those who defied heaven's will.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_94a88c90e557e16e": {
+      "text": "$$アンナロッタ$$\n「!」",
+      "status": "translated"
+    },
+    "stage0097_03:r_1c208ca0cbf26f28": {
+      "text": "$$アンナロッタ$$\n「Gad...light......」",
+      "status": "translated"
+    },
+    "stage0097_03:r_5b7ee307a700171a": {
+      "text": "???\n「...Now then...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_8d8f065c932da30a": {
+      "text": "???\n「When the time comes, I'll carry out my other mission...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_f5432119677514f7": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0097_03:r_4e5c8e989c4a7691": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0097_03:r_adec86483b13599a": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0097_03:r_2cf701bbcde3ec13": {
+      "text": "$$ＡＧ$$\n「Master $$ブライト$$...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_c17c58fdba72005e": {
+      "text": "$$ブライト$$\n「What is it, $$ＡＧ$$?\n　Calling me out here specially...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_1fe8564d2b959317": {
+      "text": "$$ＡＧ$$\n「No... I just thought I'd offer a word of congratulations.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_f527e012803f7f1c": {
+      "text": "$$ブライト$$\n「That's premature.\n　We've only overcome one threat, nothing more.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_4b1247bd3ca4905d": {
+      "text": "$$ブライト$$\n「But I do appreciate the thought.\n　Thank you, $$ＡＧ$$.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_00c55e25f87b71d0": {
+      "text": "$$ＡＧ$$\n「Ah...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_338f3b27e51dcc41": {
+      "text": "$$ＡＧ$$\n「Well... no need to say anything unnecessary.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_d91d4bc2d52b61c4": {
+      "text": "$$ＡＧ$$\n「But I'm glad. With Master $$ハサウェイ$$\n　getting Master $$クェス$$ back,\n　even the worst future for Master $$ブライト$$ was avoided...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_0c8ea89b07432421": {
+      "text": "$$ＡＧ$$\n「For now, I'll add the 200 Z-Chips\n　from Master $$ハサウェイ$$'s joy to the squad's stock.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_4dbfba00ba7744ee": {
+      "text": "$$ＡＧ$$\n「Now then, straying from the 'correct history'\n　that $$フル・フロンタル$$ spoke of,\n　where will the world head next, I wonder...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_be100a32b731708d": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0097_03:r_702f82442fcec8a9": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0097_03:r_b1e38da4e8775ffe": {
+      "text": "D-Trader",
+      "status": "translated"
+    },
+    "stage0097_03:r_d2f1bf5ab2f0e41a": {
+      "text": "　\n　　\n　　　　　　　　　　　～ D-Trader ～",
+      "status": "translated"
+    },
+    "stage0097_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$ＡＧ$$\n「You did it, $n.\n　By absorbing that thing called the $$スフィア$$,\n　$$ジェニオン$$ is complete.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_3dad695c99e9e052": {
+      "text": "$n\n「Complete?」",
+      "status": "translated"
+    },
+    "stage0097_03:r_66d4ae3a21caf881": {
+      "text": "$$ＡＧ$$\n「Yes.\n　It seems $$ジェニオン$$'s GAI Mode\n　was its true form all along.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_0c18da7b3a37825d": {
+      "text": "$$ＡＧ$$\n「But since extracting $$次元力$$ was unstable,\n　a limiter like that one was necessary.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_63249745ffae61b6": {
+      "text": "$n\n「An engine that generates vast $$次元力$$, the $$スフィア$$...\n　So this makes $$ジェニオン・ガイ$$'s operating time infinite now.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_abdb034ae8509702": {
+      "text": "$$ＡＧ$$\n「The $$スフィア$$'s operation is affected by the pilot's mental state.\n　So, GAI Mode should still be used\n　only when it truly counts.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_3ff2e21207d1d1d3": {
+      "text": "$n\n「Understood.\n　The true $$ジェニオン$$... I'll master it, no matter what.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_e51ecf6d6aa42e75": {
+      "text": "$$ＡＧ$$\n「Leave the maintenance to me!\n　I'll analyze that $$スフィア$$\n　as far as I possibly can too.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_47ddabb7b60131c2": {
+      "text": "$n\n「I'm counting on you, $$ＡＧ$$.\n　And...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_b025267f22788233": {
+      "text": "$n\n「Thank you.\n　Thanks to you, I've been able to fight until today.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_ec1a06a7023bf72c": {
+      "text": "$$ＡＧ$$\n「$n...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_8805f96e52aaa462": {
+      "text": "$$ダリー$$\n「That's great, $$ＡＧ$$.\n　You've been working hard right alongside $n\n　this whole time too.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_124591cb154fae64": {
+      "text": "$$ＡＧ$$\n「Yes!\n　That it has...!」",
+      "status": "translated"
+    },
+    "stage0097_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$ギミー$$\n「But hey, that $$スフィア$$'s name, 'Bickering Twins',\n　can't something be done about that?」",
+      "status": "translated"
+    },
+    "stage0097_03:r_4bf9b05b5f948170": {
+      "text": "$$ダリー$$\n「It is a bit bothersome, isn't it...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_eaa52d152f444bfd": {
+      "text": "$$ＡＧ$$\n「You two are such a close pair of twins, after all.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_b4bc9e9435b58e6f": {
+      "text": "$$ギミー$$\n「We fight a lot, though.」",
+      "status": "translated"
+    },
+    "stage0097_03:r_a9227573166977a9": {
+      "text": "$$ＡＧ$$\n「...Things too alike repel each other...\n　And so it was with Mars and $$マーグ#pilot$$...」",
+      "status": "translated"
+    },
+    "stage0097_03:r_b0600ab9a9e8559d": {
+      "text": "$$ダリー$$\n「$$ＡＧ$$?」",
+      "status": "translated"
+    },
+    "stage0097_03:r_7cbc63dad295f862": {
+      "text": "$$ＡＧ$$\n「...For now, let's see to the task at hand.\n　Are you ready, Master $$ギミー$$, Master $$ダリー$$?」",
+      "status": "translated"
+    },
+    "stage0097_03:r_07f53c816e0a51f5": {
+      "text": "$$ギミー$$\n「OK!」",
+      "status": "translated"
+    },
+    "stage0097_03:r_2d09c6f6a2d990ea": {
+      "text": "$$ＡＧ$$\n「Well then, let's give it our all today too!」",
+      "status": "translated"
+    },
+    "stage0097_03:r_3c5fcfc484a51913": {
+      "text": "$$ギミー$$\n「Business!」",
+      "status": "translated"
+    },
+    "stage0097_03:r_0476ffd10c764b0e": {
+      "text": "$$ダリー$$\n「Business!」",
+      "status": "translated"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ui.search_list_headers:map_results_back": {
+      "text": ": Back to Results",
+      "status": "translated"
+    },
+    "ui.search_list_headers:r_0ea619af31c0a4bc": {
+      "text": "Uses\n",
+      "status": "imported"
+    },
+    "ui.search_list_headers:r_0f01041fe7997827": {
+      "text": "SP Cost\n",
+      "status": "imported"
+    },
+    "ui.search_list_headers:r_7cc540f65f4d3eec": {
+      "text": "+Eff.",
+      "status": "imported"
+    },
+    "ui.search_list_headers:r_c769ed448ac2ddde": {
+      "text": "SP Cost\n",
+      "status": "imported"
+    },
+    "ui.search_list_headers:r_e96afa13f4c5fa9c": {
+      "text": "+Eff.",
+      "status": "imported"
+    }
+  }
+}

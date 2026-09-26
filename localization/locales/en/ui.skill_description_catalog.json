@@ -1,0 +1,278 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ui.skill_description_catalog:r_36f268db006f5e6b": {
+      "text": "Support Attack an adjacent team once per skill level each turn. Assist Attack damage +5% per available support use.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_f565890c7cfc843a": {
+      "text": "If your Skill stat exceeds the enemy's by 20 or more, perform a self-Support Attack after their counterattack.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_7a76682e43b328c2": {
+      "text": "Support Attacks always score critical hits. Does not apply to $$再攻撃$$.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_d770ccafdd37bcab": {
+      "text": "Defend a unit on your team or the main unit of an adjacent team. Uses per turn equal the skill level.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_e4535d212e04428e": {
+      "text": "Maximum SP +5 per skill level, up to level 9.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_75e9258a05902206": {
+      "text": "Starting Focus +10 when deployed.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_b9cbdea23f228e9d": {
+      "text": "Gain 3 Focus each turn, starting on the first deployed turn.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_4831f6bda2d91be1": {
+      "text": "Gain 1 extra Focus whenever you dodge an attack.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_2eb2159ac1f40688": {
+      "text": "Gain 1 extra Focus whenever your attack hits an enemy.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_58856809015e781e": {
+      "text": "Gain 1 extra Focus whenever an enemy attack damages you.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_5078c0cfad836bf9": {
+      "text": "Gain 1 extra Focus whenever an ally destroys an enemy team.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_ccb004029a060033": {
+      "text": "Raises maximum Focus to 170.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_09f8ea93026ef625": {
+      "text": "As HP falls, hit rate, evasion, critical rate and defense increase. Higher skill levels grant stronger bonuses, up to level 9.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_77f038e1486eff06": {
+      "text": "May attack before the enemy when counterattacking. Chance depends on skill level and Skill stat difference. No effect as a team's sub-unit.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_c90803a34d9641fa": {
+      "text": "Weapon EN costs are reduced by 20%. Learnable only if the pilot can use a unit with EN-consuming weapons.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_efcf42a6a46e51ae": {
+      "text": "Weapon ammo x1.5, rounded up. Learnable only if the pilot can use a unit with ammo-consuming weapons.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_8320cc893386038d": {
+      "text": "At Focus 130+: final hit rate, evasion and critical rate +10%.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_1d0996e1703c951c": {
+      "text": "At Focus 130+: final damage taken is reduced by 20%.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_6c74c95b4d9551ab": {
+      "text": "When an ALL weapon targets two units, the damage penalty falls from 25% to 10%.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_d1141c8d1b990207": {
+      "text": "Ignores size-based damage penalties for one size category per skill level.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_f257d8d4ca5f8b2a": {
+      "text": "Blocks stat-halving, action-stop, Focus-down and SP-down effects. $$脱力$$ cannot lower Focus below 100. No effect for sub-pilots.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_ad3bbd061562e864": {
+      "text": "If you attack without moving first, you can move after the attack.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_3d70f54b4bf189d4": {
+      "text": "Movement +1. At Focus 130 or higher, the bonus becomes +2.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_f4c8b1f5732acc65": {
+      "text": "Repair restores 50% more HP and can reach 1 space farther.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_ca9388f8c71461cf": {
+      "text": "Allows a unit with the Resupply ability to resupply after moving.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_a4584e80743b2361": {
+      "text": "Use consumable parts on units in your own team or an adjacent team.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_b772a55a4d2ad3d8": {
+      "text": "Recovers 10 extra SP each turn. With normal recovery, this restores 15 SP per turn.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_ee5f9d9a893cdeb5": {
+      "text": "Gain 1 extra Focus when you dodge, hit an enemy or take damage, or when an ally destroys an enemy team.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_a8b0fda29297cbef": {
+      "text": "At Focus 130+: final hit rate, evasion and critical rate +30%.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_c1143f122f6e6911": {
+      "text": "Allows 2 actions per phase.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_bf5e34977f793d2d": {
+      "text": "Earn 20% more funds when shooting down an enemy unit.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_14f11b83115e42cd": {
+      "text": "Hit rate, evasion and critical rate +20%.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_d4f638629c7e71c5": {
+      "text": "Raises nearby allies' final hit and evade rates. The bonus depends on skill level and distance from the commander.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_5ba3a5be21bccfe9": {
+      "text": "Enables Tactics: choose Attack, Defense or Special to change affected allied pilots' stats for 1 turn.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_ff6f847015c4739e": {
+      "text": "When a stage is cleared, every deployed pilot gains 5 PP.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_412e12562f8d8816": {
+      "text": "Gain 3 PP on level-up, every 10 kills, and when a stage is cleared while deployed.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_7d10124253095ae9": {
+      "text": "Final hit rate, evasion and critical rate +15%.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_7a4ca4cfa801523f": {
+      "text": "Raises hit and evade rates and extends certain weapons' range. Bonuses increase with skill level.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_65672f7339d81e42": {
+      "text": "Raises hit and evade rates and extends certain weapons' range. Bonuses increase with skill level.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_8c60929d97072275": {
+      "text": "At Focus 130+: final hit and evade rates +20%; critical rate +40%.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_4a1e2f1bbebb42b3": {
+      "text": "At Focus 140+: Accuracy, Evasion and Skill stats +20; recover 5 SP each turn.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_0038bef8ce1318e1": {
+      "text": "At Focus 130+: final damage dealt +10% and the effects of $$底力$$ Lv9.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_0361e29217adb6e5": {
+      "text": "Raises hit and evade rates. Bonuses increase with skill level.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_3db8f5bb948746a5": {
+      "text": "Grants $$超能力$$ Lv9 and restores 10 SP each turn.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_6c2e2df3f7db702a": {
+      "text": "Raises hit rate and reduces final damage taken. Bonuses increase with skill level.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_1e0b4caa82fc27bd": {
+      "text": "Grants $$螺旋力$$ Lv9. At Focus 130 or higher, PP earned increases by 20%.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_3e053a42ac9c98ae": {
+      "text": "At Focus 130+: critical rate +30% and final damage dealt +10%.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_4b9eda7c977afa32": {
+      "text": "Hitting an enemy lowers their Focus by 3. If this pilot remains on the map at stage end, all repair costs are waived.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_c48f03831752b289": {
+      "text": "Critical hits deal 1.5 times normal damage.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_578e466c84163346": {
+      "text": "At 10% HP or less, Accuracy, Evasion, Melee, Ranged, Defense and Skill stats increase by 20.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_a802bcd0cb41e098": {
+      "text": "At Focus 130+: grants flight, gives all weapons Air terrain rank A, and adds 1 Movement.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_5068123850c4843f": {
+      "text": "At Focus 130+: grants flight, gives all weapons Air terrain rank S, and adds 1 Movement.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_a17adb76f3c76023": {
+      "text": "At Focus 130+: your team's main pilot recovers 5 SP at the start of each player phase.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_61eac4b3336b8176": {
+      "text": "At Focus 130+: damage dealt increases by 5%.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_85f17425264930c5": {
+      "text": "At Focus 130+: $$カウンター$$ activates with 100% success.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_5cb4f498002d6f4e": {
+      "text": "At Focus 130+: $$カウンター$$ activation chance increases by 50%.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_e4d4cc62efc3bfe6": {
+      "text": "At Focus 130+: activates Barrier Field.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_a8e8f4f34d26ec0e": {
+      "text": "At Focus 130+: pilot stats +5 for your team and adjacent allied teams.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_8a70fdfb3a62ddf8": {
+      "text": "At Focus 130+: final hit rate, evasion and critical rate +15%.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_9734ad080cbd44c7": {
+      "text": "At Focus 130+: grants underground movement and lets all weapons pierce barriers.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_b11c0a9995792e9e": {
+      "text": "At Focus 130+: activates HP Regen (S) and EN Regen (S).",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_4e5c36b902efeace": {
+      "text": "At Focus 130+: enemies within 5 spaces lose 2 Focus at the start of each player phase.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_5838b602af77e84c": {
+      "text": "At Focus 130+: gains Double Image, a 50% chance to dodge automatically.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_1769fe2ef94d9d9c": {
+      "text": "At Focus 130+: all weapons inflict Armor Down.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_cec9a68b699c8494": {
+      "text": "At Focus 130+: Movement +1; your team ignores terrain movement costs.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_fca1efae838c90de": {
+      "text": "Halves damage taken if the attack hits despite having a hit chance of 30% or less.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_72dcb76a9e28041a": {
+      "text": "Allows 3 actions per phase.",
+      "status": "imported"
+    },
+    "ui.skill_description_catalog:r_9dddeffa080f4c56": {
+      "text": "Raises hit rate, evasion and critical rate. Bonuses increase with skill level.",
+      "status": "imported"
+    }
+  }
+}

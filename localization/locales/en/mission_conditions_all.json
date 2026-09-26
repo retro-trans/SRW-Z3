@@ -1,0 +1,726 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "mission_conditions_all:r_a521a74cb8574dca": {
+      "text": "There is no SR Point in this scenario.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_a5490b8f5da50e41": {
+      "text": "Move $$アクエリオンスパーダ$$ to the designated point.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_2ea3983da1fafa04": {
+      "text": "$$アドヴェント$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_629ce041c300f17e": {
+      "text": "Shoot down $$アフラ・グニス$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_66acb5c74b06fc4c": {
+      "text": "Shoot down $$アフラ・グニス$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_4fa0e842968c747c": {
+      "text": "Reach player phase 4 turns after the $$アブダクター$$ appear.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_1795569a80e10466": {
+      "text": "$$アマタ$$ or $$アルト$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_938a05bb85329d34": {
+      "text": "$$アマタ$$ or $$シンジ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_85313674d93688fe": {
+      "text": "$$アマタ$$ or $$バサラ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_6a0aacbdecfea78b": {
+      "text": "$$アマタ$$ or $$ヒビキ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_b0d68f1dd9ec554c": {
+      "text": "$$アマタ$$, $$アルト$$ or $$バサラ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_f46758df31f4464e": {
+      "text": "$$アマタ$$, $$ヒビキ$$ or $$アドヴェント$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_df502248bd853193": {
+      "text": "$$アムロ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_87521b7883003a59": {
+      "text": "$$アムロ$$ or $$シャア$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_300a7356b50a0763": {
+      "text": "$$アムロ$$, $$シャア$$, $$ギュネイ$$, $$クェス$$, $$ハマーン$$\nor $$マリーダ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_96fa17da89b5eabe": {
+      "text": "Don't let $$アルテア$$ or $$ミケーネ$$ down any of the other's units.\nClear the map.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_673a7830e391aeb3": {
+      "text": "Within 3 turns after $$イズモ$$ reveals his name,\nreduce $$アフラ・グニス$$'s HP to 15,000 or less.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_0ad3b6045d408b07": {
+      "text": "Reach the turn 4 turns after $$イズモ$$ reveals his name.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_dad450cd49c3b4ad": {
+      "text": "Shoot down $$エンシェントＡＱ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_b13f9545002f9b56": {
+      "text": "$$カミーユ$$ or $$バナージ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_ebfb7918543a2314": {
+      "text": "$$カミーユ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_fe683d70884f73ca": {
+      "text": "Shoot down $$キュベレイ$$ or $$シナンジュ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_037b500975d9d95f": {
+      "text": "Shoot down $$キュベレイ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_31ec53ffc3561220": {
+      "text": "Have $$キリコ$$ cross the line.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_7dd306afc6bd359f": {
+      "text": "Shoot down $$ギラ・ズール$$ ($$アンジェロ$$) and $$ギラ・ドーガ$$ ($$レズン$$),\nthen shoot down every $$ドライセン$$.\n$$ドライセン$$ retreat when they reach the bottom map edge.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_e69151590406fa2c": {
+      "text": "Shoot down $$グランゼボーマ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_a339fd489f62ea07": {
+      "text": "Destroy all enemies within 5 turns of the cable being cut.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_284d2b700216807c": {
+      "text": "Player phase arrives 5 turns after the cable is cut.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_0b9abaa277459e93": {
+      "text": "Shoot down $$コダールｉ$$ ($$ガウルン$$), $$コダールｉ$$ ($$ゲイツ$$), $$エクルビス$$\nand $$ベック・ビクトリー・デラックス$$ in the same turn.\n$$コダールｉ$$ ($$ゲイツ$$), $$エクルビス$$ and $$ベック・ビクトリー・デラックス$$\nretreat at 10,000 HP or less.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_76722ff3613665ac": {
+      "text": "Shoot down $$サザビー$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_0281b660d7b571ba": {
+      "text": "Reach the player phase 3 turns after $$サザビー$$ appears.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_6e5ed6be22579c02": {
+      "text": "Shoot down $$ザクⅠ・スナイパータイプ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_da9e4875abcb8f23": {
+      "text": "Shoot down $$シナンジュ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_c899d54dcf958b75": {
+      "text": "$$シモン$$ or $$グーラ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_a990138636041f73": {
+      "text": "$$シモン$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_67be5dfef3cea260": {
+      "text": "Shoot down $$シャンブロ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_6de842d3a7479820": {
+      "text": "$$シャンブロ$$ enters the assembly building.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_cfc717dbfeb5bcd7": {
+      "text": "$$シュレード$$ or $$アルト$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_797ab9f806cd8877": {
+      "text": "$$シン$$ or $$キラ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_92cb076007df13b3": {
+      "text": "$$シンジ$$ or $$アマタ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_ac35d15b8bc21c1c": {
+      "text": "$$シンジ$$ or $$マリ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_92b540c823f830ef": {
+      "text": "$$シンジ$$, $$アスカ$$, $$レイ#333$$ or $$アドヴェント$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_e062a72612c2abc1": {
+      "text": "$$シンジ$$, $$レイ#333$$ or $$アスカ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_10fe67b445e44ce3": {
+      "text": "$$シンジ$$, $$レイ#333$$, $$アマタ$$ or $$ヒビキ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_bd7f970a3b59eeee": {
+      "text": "Shoot down $$ジェミニア$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_d4013ad1426284c0": {
+      "text": "Reduce $$ジェミニア$$'s HP to 40,000 or less.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_dd047f2387291631": {
+      "text": "Shoot down $$スペースロボ７号$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_e5aa53a41597e5cb": {
+      "text": "Shoot down $$ソーラーアクエリオン$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_66e34b3023fb7359": {
+      "text": "$$ダグザ$$ or $$カミーユ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_c45bf6820942524a": {
+      "text": "Shoot down $$テイタニア$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_344fa087ac8e3f5b": {
+      "text": "Shoot down $$ディオスクＡ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_53adfbc5de2e7752": {
+      "text": "Move $$トゥアハー・デ・ダナン$$ to the designated point.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_c40c84e437bdd6f0": {
+      "text": "$$トゥアハー・デ・ダナン$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_c503694cee456532": {
+      "text": "All allied units except $$トゥアハー・デ・ダナン$$ are destroyed.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_882ed3ff4a90d02c": {
+      "text": "$$ノリコ$$ or $$ヒビキ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_e5ed9d3709e4f1de": {
+      "text": "Shoot down $$ハーデス$$ and $$エンシェントＡＱ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_89227a84a9efea0e": {
+      "text": "Shoot down $$ハーデス$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_5e194791873d0a5b": {
+      "text": "Reduce $$ハーデス$$'s HP to 20,000 or less.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_d43d88e5a1be1eb7": {
+      "text": "$$バサラ$$ or $$ガムリン$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_68f61d3b7aaa356f": {
+      "text": "Make at least 8 $$バジュラ$$ retreat with $$バサラ$$'s songs.\n$$バサラ$$'s songs lower the $$バジュラ$$'s Focus.\n$$バジュラ$$ retreat at 120 Focus or less (a song kill).",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_d5ed94fa88f9bca9": {
+      "text": "$$バナージ$$ or $$カミーユ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_444e21e343358f07": {
+      "text": "$$バナージ$$ or $$ダグザ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_2bf4c77148efd88e": {
+      "text": "$$ヒイロ$$, $$カレン$$, $$カトル$$ or $$トロワ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_f4ec7aa05eb48d76": {
+      "text": "$$ヒビキ$$ or $$アドヴェント$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_69a35e46ff79e43b": {
+      "text": "$$ヒビキ$$ or $$シモン$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_11377fe94806ac92": {
+      "text": "$$ヒビキ$$, $$刹那$$, $$ヒイロ$$, $$アマタ$$ or $$アルト$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_548c6cf17c2276f0": {
+      "text": "$$ヒビキ$$, $$刹那$$, $$ヒイロ$$, $$アマタ$$, $$アルト$$\nor $$アドヴェント$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_c279f3671f815ced": {
+      "text": "Shoot down $$ビッグヴィヌス$$.\nExcept $$ロジャー$$, units that battle $$ビッグヴィヌス$$ leave the map\nunless they shoot it down. MAP attacks are exempt.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_a59c54e6466b2891": {
+      "text": "Shoot down $$プラン１０５６　コダールｉ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_e712b348665a8be4": {
+      "text": "Shoot down $$プラン１０５９　コダールｍ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_ec8264db68d8bfe4": {
+      "text": "Shoot down $$ベック・ビクトリー・デラックス$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_ea7fae3afdd95403": {
+      "text": "Shoot down $$ベヘモス$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_92b3269769127e97": {
+      "text": "Shoot down $$ボスボロット$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_0982b6c9df84d751": {
+      "text": "$$ボン太くん#pilot$$ or $$アンナロッタ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_12112bfd22b63d51": {
+      "text": "$$ボン太くん#pilot$$, $$ボス$$ or $$アンナロッタ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_d496a5ea815cffae": {
+      "text": "Team $$竹尾ＧＣ$$ must earn 30,000 funds from enemy kills\nbefore clearing the map.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_c790a26d6db219e2": {
+      "text": "Shoot down $$ミクシィ・グニス$$ and $$ミスラ・グニス$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_435b316dddf36da5": {
+      "text": "Down $$第９の使徒$$ within 4 turns of $$ミケーネ$$'s arrival",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_e90cdfb8153e5623": {
+      "text": "The turn 4 turns after $$ミケーネ$$ appears is reached.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_bd8bf2ce839f1ef4": {
+      "text": "Reach PP 2 turns after the $$ミケーネ神$$ appears.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_89debeff40604fc9": {
+      "text": "Shoot down $$ミスラ・グニス$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_42b7b94ac73894d5": {
+      "text": "Shoot down $$ヤクト・ドーガ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_97a1fcaccb2ef766": {
+      "text": "Move $$ユニコーンガンダム$$ next to $$ネェル・アーガマ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_15d65947461240ed": {
+      "text": "Shoot down $$ユニコーンガンダム$$ and $$ミスラ・グニス$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_a87a6edee984f5e0": {
+      "text": "Shoot down $$ユニコーンガンダム$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_4d2578ab607cd326": {
+      "text": "$$ロジャー$$ or $$ヒビキ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_ec5f05b68fe3c4d3": {
+      "text": "$$ロジャー$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_5fa361df0c881166": {
+      "text": "Without $$ドラゴンズハイヴ$$ taking any damage,\nDestroy all enemies within 3 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_cb789d35dcfaf3e8": {
+      "text": "Shoot down $$五飛$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_836b19e2e15a5df9": {
+      "text": "Clear all other foes; then down $$ディオスクＡ$$ within 4 turns\nusing Maximum Break.\nSupport Attack and Attack Again may also be combined.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_2037e0397ecc64b6": {
+      "text": "Within 3 turns of the new goal, down $$プラン１０５６　コダールｉ$$\nusing Maximum Break.\nSupport Attack and Attack Again may also be combined.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_900d9d8b90d624bc": {
+      "text": "$$エヴァンゲリオン初号機$$ is shot down by Angels or $$ミケーネ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_0df09a393efcaa4c": {
+      "text": "Shoot down $$エヴァンゲリオン初号機$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_40768fcd9981d856": {
+      "text": "Shoot down $$勇者ガラダブラ#robot$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_44405016a509db1f": {
+      "text": "Win with every enemy on the map shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_6e3bae52b677c9e4": {
+      "text": "Shoot down $$プラン１０５６　コダールｉ$$, $$エクルビス$$ and\n$$ベック・ビクトリー・デラックス$$ in the same turn.\nEach retreats when its HP drops to 8,000 or below.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_11e48fa8c2f10412": {
+      "text": "Shoot down $$宇宙魔王#robot$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_f58869c618678911": {
+      "text": "$$宗介$$ or $$クルツ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_d1b5c936951ef5d5": {
+      "text": "$$宗介$$ or $$ティエリア$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_3f28b2f71b6fb723": {
+      "text": "$$宗介$$ or $$ヒイロ$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_16fd022f80958705": {
+      "text": "Shoot down $$尸逝天$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_e90e9cabf6d12952": {
+      "text": "The number of enemy units reaches 100 or more.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_dc1df0ccbf4e1c3d": {
+      "text": "Destroy all enemies, then have $$キリコ$$\ncross the line within 3 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_306e0097a780cb5c": {
+      "text": "Shoot down at least 10 enemies within 4 turns\nwithout letting a single enemy cross the line.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_bda6b6ed7ec280f5": {
+      "text": "Shoot down at least 30 enemies and have\n$$トゥアハー・デ・ダナン$$ reach the point within 6 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_1e665c531925a4ee": {
+      "text": "An enemy unit enters the official residence.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_6e6f398d6e4f92db": {
+      "text": "An enemy unit enters $$陣代高校$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_102bf75033029816": {
+      "text": "Destroy all enemies (including $$ユニコーンガンダム$$).",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_8d76fe7f6a2135ad": {
+      "text": "Reach the next turn's player phase.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_197536e1ebbc6185": {
+      "text": "$$正太郎$$ or $$タケル$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_784b5d353b9ff710": {
+      "text": "$$正太郎$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_2d1f0a4ddf2f94ad": {
+      "text": "$$甲児$$ or $$ゼウス$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_bbd9f16b3d434934": {
+      "text": "$$甲児$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_33403a9f8666ab01": {
+      "text": "$$甲児$$, $$アマタ$$ or $$アルト$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_02994e2d936dd919": {
+      "text": "$$甲児$$, $$アマタ$$, $$アルト$$ or $$ゼウス$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_c73423375f54fbf1": {
+      "text": "Within 2 turns of arrival, shoot down any 2: $$クシャトリヤ$$,\n$$ヤクト・ドーガ$$ ($$ギュネイ$$) and $$ヤクト・ドーガ$$ ($$クェス$$).",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_53f57115ba091655": {
+      "text": "$$竜馬$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_ee9ca8481a733d0a": {
+      "text": "Shoot down $$第６の使徒$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_3af7c7023d90eb91": {
+      "text": "Destroy all enemies except $$第６の使徒$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_8bb32660d634a75d": {
+      "text": "The point is reached by $$第７の使徒$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_c3caefa23e8b4a75": {
+      "text": "Shoot down $$第７の使徒$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_fdac0a0928981604": {
+      "text": "Shoot down $$第７の使徒$$, then $$ミスラ・グニス$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_982631d0fb08e699": {
+      "text": "Shoot down $$第９の使徒$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_7ef82e92e3dc235a": {
+      "text": "$$赤木$$ or $$カレン$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_d89f18985755320d": {
+      "text": "$$鉄人２８号#robot$$ is shot down.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_7c9cc909a29b5946": {
+      "text": "Shoot down $$飛行要塞グール$$ ($$ブロッケン$$).",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_8d8f1e86849206e7": {
+      "text": "Reduce $$ディオスクＡ$$'s HP to 10,000 or below within 1 turn.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_9ac87769d30132f1": {
+      "text": "Shoot down $$ビッグデュオ$$ ($$シュバルツ$$) in a single attack.\nDefending or evading when $$シュバルツ$$ attacks\ndoes not count as an attack.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_0c29eefd6f73fd42": {
+      "text": "Reduce $$ジェミニア$$'s HP to 40,000 or below within 3 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_71edc149a4b841a2": {
+      "text": "Within 3 turns, with $$ドラゴンズハイヴ$$ taking no damage,\nDestroy all enemies.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_a62ec867d1b378ae": {
+      "text": "Clear the map within 3 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_66e14fb7854eef56": {
+      "text": "Within 3 turns: shoot down $$ミクシィ・グニス$$ and $$ミスラ・グニス$$.\nShoot down $$アフラ・グニス$$.\n$$アフラ・グニス$$ must be defeated last.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_7c8cb837a3c97702": {
+      "text": "Shoot down all $$ムサカ$$s and $$ヤクト・ドーガ$$ within 3 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_141a4002aa9cd1aa": {
+      "text": "Within 3 turns, destroy all other enemies,\nthen shoot down $$キュベレイ$$.\n$$ネェル・アーガマ$$ must not take any damage.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_cf621c18f54aaade": {
+      "text": "Within 3 turns, shoot down all other enemies,\nthen shoot down $$プラン１０５９　コダールｍ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_0cfae64771afbc59": {
+      "text": "Within 3 turns, shoot down all other enemies,\nthen shoot down $$スペースロボ７号$$ last.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_2f1e6da76f3f9d21": {
+      "text": "Shoot down at least 16 enemies within 3 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_8412f093ccffefc3": {
+      "text": "Within 3 turns, shoot down at least 20 enemies,\nthen shoot down $$ミスラ・グニス$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_be34d8c806d425de": {
+      "text": "Shoot down at least 22 enemies within 3 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_1928294b88158d75": {
+      "text": "Shoot down at least 24 enemies within 3 turns,\nor reduce $$ハーデス$$' HP to 50,000 or below within 3 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_aa0803f0b7d6d45e": {
+      "text": "Shoot down at least 40 enemies within 3 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_d07e1bc6ee52e309": {
+      "text": "Shoot down $$第７の使徒$$ within 3 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_95c1090c3627d150": {
+      "text": "Destroy all enemies by the end of turn 3's player phase.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_47176ff7b764e8b3": {
+      "text": "Defeat all 3 $$宇宙魔王#robot$$s in the same turn.\n(If any remain at the start of the next turn,\nthe defeated ones will also revive.)",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_2767f87cd9ee8a24": {
+      "text": "Within 4 turns, shoot down at least 80 enemies,\nthen shoot down $$ソーラーアクエリオン$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_247eea1de512d298": {
+      "text": "Within 4 turns, destroy all enemies except $$クシャトリヤ$$,\nthen shoot down $$クシャトリヤ$$ last.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_3cc0a2597e134060": {
+      "text": "Lower $$グランゼボーマ$$'s HP to 99,999 or less in 4 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_e32aa7b1e618bcb0": {
+      "text": "Within 4 turns, shoot down any 1 of: $$シナンジュ$$,\n$$ヤクト・ドーガ$$ ($$ギュネイ$$), $$ヤクト・ドーガ$$ ($$クェス$$),\n$$ギラ・ズール$$ ($$アンジェロ$$) and $$クシャトリヤ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_28ba23eb7c5c0528": {
+      "text": "Have $$ネェル・アーガマ$$ reach the point within 4 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_30b2808259da7ee9": {
+      "text": "Within 4 turns, have $$ネェル・アーガマ$$ reach the nearer point\nand $$ダグザ$$ and $$カミーユ$$ reach the point at $$パラオ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_f32f2502567b67c6": {
+      "text": "Clear the map within 4 turns.\nBy then, every deployed pilot (except $$アドヴェント$$)\nmust have shot down at least 1 enemy.\nOnly one of $$竜馬$$, $$隼人$$ or $$弁慶$$ needs a kill.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_11e44c660914f0be": {
+      "text": "Shoot down $$ミスラ・グニス$$ within 4 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_83583071ae2d032e": {
+      "text": "Within 4 turns, shoot down all other enemies,\nthen shoot down $$ソーラーアクエリオン$$ last.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_d203741a435b5b75": {
+      "text": "Within 4 turns, destroy all other enemies\nand shoot down $$プラン１０５６　コダールｉ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_d87e92385913923d": {
+      "text": "Within 4 turns, shoot down all $$スペースロボ５号$$s,\nall $$巨大円盤$$s and $$スペースロボ５号$$ ($$グーラ$$).",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_a1dc951f7b0a48a8": {
+      "text": "Within 4 turns, shoot down all $$機械獣$$s\nand also $$ガラダブラ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_4a0921d4adcabd48": {
+      "text": "Destroy all enemies within 4 turns.\nHave any one allied pilot shoot down at least 5 enemies.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_7ea8ff9a39512084": {
+      "text": "Within 4 turns, shoot down at least 45 enemies\nand also $$ディオスクＡ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_b02698e195199b0f": {
+      "text": "Lower $$第６の使徒$$'s HP to 20,000 or less in 4 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_bfc4cd7da9d5f088": {
+      "text": "Within 4 turns, shoot down all of these in the same turn:\n$$ヤクト・ドーガ$$ ($$ギュネイ$$), $$ギラ・ズール$$ ($$アンジェロ$$),\n$$クシャトリヤ$$ ($$マリーダ$$) and $$ヤクト・ドーガ$$ ($$クェス$$).",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_76b3c4eceada7957": {
+      "text": "Turn 4 begins.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_f02350950758a7dc": {
+      "text": "In 5 turns, shoot down all foes but $$キュベレイ$$ and $$シナンジュ$$,\nthen shoot down either $$キュベレイ$$ or $$シナンジュ$$ last.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_13eee379dbe95ed1": {
+      "text": "Shoot down all $$サーペント$$s within 5 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_a345013fb96d0e5a": {
+      "text": "Move $$ヒイロ$$ to the $$平和記念館$$ within 5 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_149e3ecbc2046ff9": {
+      "text": "Clear the map within 5 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_45025990f3ee4a8c": {
+      "text": "Within 5 turns, shoot down $$ミクシィ・グニス$$ and $$ミスラ・グニス$$\nsimultaneously with a MAP weapon.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_b41de01098179464": {
+      "text": "Destroy all enemies within 5 turns.\nDo not let $$マーティアル$$ or $$ジェミニス$$ shoot down\neven a single unit belonging to the other side.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_13d7416f377abafd": {
+      "text": "In 5 turns, move $$エヴァンゲリオン初号機$$ to north (top) point,\n$$エヴァンゲリオン零号機$$ to the east (right) point, and\n$$エヴァンゲリオン２号機$$ to the west (left) point.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_dee7f4184182c37e": {
+      "text": "Turn 5 begins.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_03828c2857dee600": {
+      "text": "Clear the map within 6 turns.\nDo not let $$ミケーネ$$'s forces or $$ミカゲ$$'s forces\nshoot down any units belonging to the other side.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_a31da0144108fa74": {
+      "text": "Within 6 turns, shoot down all other enemies,\nthen shoot down $$飛行要塞グール$$ ($$ブロッケン$$) last.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_2373b41a054e3c21": {
+      "text": "Within 6 turns, shoot down all other enemy units,\nthen shoot down $$シナンジュ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_7d64977d36e6f32c": {
+      "text": "Shoot down all enemies within 6 turns.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_9fe13cfb978412f9": {
+      "text": "Shoot down all enemies within 6 turns.\nDo not let $$ミケーネ$$ or the $$アンチスパイラル#keyword$$ shoot down\neven a single unit belonging to the other side.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_6245a1b3748cdfb0": {
+      "text": "Turn 6 Player Phase begins.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_d68956220ffae71e": {
+      "text": "Turn 6 begins.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_5f7b3f24f6606ba8": {
+      "text": "Turn 9 begins.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_7a61b7dc74de06ed": {
+      "text": "Shoot down $$Ｍ９Ｄ　ファルケ$$.",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_a17ec68999df3f11": {
+      "text": "Shoot down $$Ｚｙ－９８$$ ($$ザイード$$).",
+      "status": "translated"
+    },
+    "mission_conditions_all:r_0ccb129d614e7263": {
+      "text": "Shoot down both $$Ｚｙ－９８$$s ($$玉芳$$ and $$玉蘭$$) in one turn.\nEach retreats when its HP falls to 8,000 or less.",
+      "status": "translated"
+    }
+  }
+}

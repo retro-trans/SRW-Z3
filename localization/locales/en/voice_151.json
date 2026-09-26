@@ -1,0 +1,726 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_151:r_479b340ccc6c572b": {
+      "text": "All right, work, work!",
+      "status": "imported"
+    },
+    "voice_151:r_ca4acbac57a2a35e": {
+      "text": "Well, look who's here...!",
+      "status": "imported"
+    },
+    "voice_151:r_77949221bf58f862": {
+      "text": "Time to say hello!",
+      "status": "imported"
+    },
+    "voice_151:r_70b9c4b9f1f37eff": {
+      "text": "There you are!",
+      "status": "imported"
+    },
+    "voice_151:r_9fcb3754cb1773c7": {
+      "text": "This'll do it!",
+      "status": "imported"
+    },
+    "voice_151:r_3559d2fad32c2435": {
+      "text": "Go down!",
+      "status": "imported"
+    },
+    "voice_151:r_f7570547e9f80a64": {
+      "text": "I'm going in!",
+      "status": "imported"
+    },
+    "voice_151:r_cbab0f4720e1fcf1": {
+      "text": "Got you!",
+      "status": "imported"
+    },
+    "voice_151:r_0bbe0b4f5364e732": {
+      "text": "Prepare yourself!",
+      "status": "imported"
+    },
+    "voice_151:r_5dda5198137cb02a": {
+      "text": "The fun's just getting started!",
+      "status": "imported"
+    },
+    "voice_151:r_83ec59afbecdec14": {
+      "text": "And that's the end of that!",
+      "status": "imported"
+    },
+    "voice_151:r_e20bfd42ad95a3c9": {
+      "text": "Have another one!",
+      "status": "imported"
+    },
+    "voice_151:r_0f58a8822381e57f": {
+      "text": "Looks like my prey's in the net!",
+      "status": "imported"
+    },
+    "voice_151:r_6dbcc507fb61b51d": {
+      "text": "Friday, power level to maximum!",
+      "status": "imported"
+    },
+    "voice_151:r_b42ab697149a7c8a": {
+      "text": "I'll show you plenty of affection!",
+      "status": "imported"
+    },
+    "voice_151:r_4de4fcf3b440baf4": {
+      "text": "Urzu 2, commencing attack!",
+      "status": "imported"
+    },
+    "voice_151:r_0121a166c715cdff": {
+      "text": "All right, let's wrap this up fast!",
+      "status": "imported"
+    },
+    "voice_151:r_30fad37a42bd3ad3": {
+      "text": "All right! Let's go, Friday!",
+      "status": "imported"
+    },
+    "voice_151:r_80a0b2a84e05d81a": {
+      "text": "Time to let 'em have it!",
+      "status": "imported"
+    },
+    "voice_151:r_4a9ac1dff86506d9": {
+      "text": "Damn it, quit darting around...!",
+      "status": "imported"
+    },
+    "voice_151:r_bc8538e6af3d2577": {
+      "text": "I'm not quite Kurz, though!",
+      "status": "imported"
+    },
+    "voice_151:r_924516c8de2b5342": {
+      "text": "Just stay right where you are...!",
+      "status": "imported"
+    },
+    "voice_151:r_da1174533722333f": {
+      "text": "Let's settle this up close!",
+      "status": "imported"
+    },
+    "voice_151:r_fdeb8162976e72c1": {
+      "text": "I'll tear you to pieces!",
+      "status": "imported"
+    },
+    "voice_151:r_0fadb5c26df92b42": {
+      "text": "That's it! I'm punching you out!",
+      "status": "imported"
+    },
+    "voice_151:r_6b15af9a0057cdc8": {
+      "text": "Big sis gets scary when she's mad!",
+      "status": "imported"
+    },
+    "voice_151:r_15b4a90140e8a33a": {
+      "text": "Hrah!",
+      "status": "imported"
+    },
+    "voice_151:r_af884a6b11dff121": {
+      "text": "Tch!",
+      "status": "imported"
+    },
+    "voice_151:r_ac6fe7838e95647b": {
+      "text": "Come on, come on!",
+      "status": "imported"
+    },
+    "voice_151:r_77ca87eacd17ad52": {
+      "text": "This finishes it!!",
+      "status": "imported"
+    },
+    "voice_151:r_bf3244994760e535": {
+      "text": "That's what looking away gets you!",
+      "status": "imported"
+    },
+    "voice_151:r_aabfb21c9d069ce7": {
+      "text": "I'll drive you back in one go!",
+      "status": "imported"
+    },
+    "voice_151:r_02479dc8fe989560": {
+      "text": "They say you're real bad news...!",
+      "status": "imported"
+    },
+    "voice_151:r_a2df00f91a9b0a9e": {
+      "text": "Damn it, you're so damn persistent!",
+      "status": "imported"
+    },
+    "voice_151:r_48b60d6c48b9b142": {
+      "text": "So you won't go down easily... huh!",
+      "status": "imported"
+    },
+    "voice_151:r_8927e6fb681aa809": {
+      "text": "Nothing at all... Total despair...!",
+      "status": "imported"
+    },
+    "voice_151:r_a571eec59b258d11": {
+      "text": "A unit with a Lambda Driver...!",
+      "status": "imported"
+    },
+    "voice_151:r_ddbe581c5ea9183d": {
+      "text": "So what if it's a Lambda Driver!",
+      "status": "imported"
+    },
+    "voice_151:r_faae935cca0edc72": {
+      "text": "They mass-produced those giants...!",
+      "status": "imported"
+    },
+    "voice_151:r_d4430bf362340b32": {
+      "text": "Faster than I thought...! Still!",
+      "status": "imported"
+    },
+    "voice_151:r_6ff1323b355593e0": {
+      "text": "Kid, let's see you try!",
+      "status": "imported"
+    },
+    "voice_151:r_920740a0219c5085": {
+      "text": "I'm no sweet big sis!\\nGot that!",
+      "status": "imported"
+    },
+    "voice_151:r_3633df5b7b8f47fa": {
+      "text": "Those moves...\\nIrredeemable scum!",
+      "status": "imported"
+    },
+    "voice_151:r_52dfc56b14b93551": {
+      "text": "Damn it,\\nthis is no time for this!",
+      "status": "imported"
+    },
+    "voice_151:r_1b9b2aab5cb104da": {
+      "text": "You're getting me fired up!",
+      "status": "imported"
+    },
+    "voice_151:r_342044c706a2340f": {
+      "text": "Think I'll help myself to the feast!",
+      "status": "imported"
+    },
+    "voice_151:r_cf41e8828a90cbdb": {
+      "text": "Lowlife fraud,\\nget off the stage!",
+      "status": "imported"
+    },
+    "voice_151:r_719e897304ec42d4": {
+      "text": "Scum like you\\nneed a hard lesson!",
+      "status": "imported"
+    },
+    "voice_151:r_d5e0a2317c40d322": {
+      "text": "You're battle-hardened too, huh...!",
+      "status": "imported"
+    },
+    "voice_151:r_ec2ea17765052401": {
+      "text": "What are those inhuman moves...!",
+      "status": "imported"
+    },
+    "voice_151:r_dc8701f6bcb9904f": {
+      "text": "You must pay\\nfor starting this war!",
+      "status": "imported"
+    },
+    "voice_151:r_d6bdd730f24f66eb": {
+      "text": "You people take everything too far!",
+      "status": "imported"
+    },
+    "voice_151:r_41997412868c48c4": {
+      "text": "You use your charisma\\nall wrong!",
+      "status": "imported"
+    },
+    "voice_151:r_9e6cf4f389dae55c": {
+      "text": "Dragging a kid into this...!",
+      "status": "imported"
+    },
+    "voice_151:r_9e0c80ac7e33b459": {
+      "text": "Even scum like you came to Earth!",
+      "status": "imported"
+    },
+    "voice_151:r_7432ef43ed3471dc": {
+      "text": "Monsters like you belong in hell...!",
+      "status": "imported"
+    },
+    "voice_151:r_065443f6ddfcf0d7": {
+      "text": "Mao's not scared by appearances!",
+      "status": "imported"
+    },
+    "voice_151:r_47d52a2839c71715": {
+      "text": "No way you're here to make friends!",
+      "status": "imported"
+    },
+    "voice_151:r_847f82e7f3eef651": {
+      "text": "You look nothing like a god!",
+      "status": "imported"
+    },
+    "voice_151:r_eb7ae28b53dc033c": {
+      "text": "You kidnappers! Enemies of women!",
+      "status": "imported"
+    },
+    "voice_151:r_857c4a52ce8df0fd": {
+      "text": "Jealous tantrums?\\nHow petty...!",
+      "status": "imported"
+    },
+    "voice_151:r_55417493fce1d347": {
+      "text": "You spineless, despairing bastard!",
+      "status": "imported"
+    },
+    "voice_151:r_8fdf5910927c9591": {
+      "text": "For our fallen comrades\\ntoo...!",
+      "status": "imported"
+    },
+    "voice_151:r_7d724dbcc4451e10": {
+      "text": "I'll take the tastiest prey!",
+      "status": "imported"
+    },
+    "voice_151:r_93e25418a203cb8f": {
+      "text": "First dibs on the main course!",
+      "status": "imported"
+    },
+    "voice_151:r_adeb0a29274d3d9b": {
+      "text": "Brace yourself, baby...!",
+      "status": "imported"
+    },
+    "voice_151:r_24cf161287ef9d5c": {
+      "text": "I do feel sorry for you...!",
+      "status": "imported"
+    },
+    "voice_151:r_8f60f6fc86db3107": {
+      "text": "A naked lap around base... Can you?",
+      "status": "imported"
+    },
+    "voice_151:r_b1de76a75a253c13": {
+      "text": "Honestly, you're such a child...!",
+      "status": "imported"
+    },
+    "voice_151:r_128c35bf3e0e394c": {
+      "text": "Well, well...\\nTessa's instructor!",
+      "status": "imported"
+    },
+    "voice_151:r_5213c17e13b23de0": {
+      "text": "Good chance!\\nI'll retrain you too!",
+      "status": "imported"
+    },
+    "voice_151:r_38fdff9483e9245c": {
+      "text": "You unidentified pieces of scum!",
+      "status": "imported"
+    },
+    "voice_151:r_620fedec67706d7d": {
+      "text": "I'll teach you\\nhow cowards end!",
+      "status": "imported"
+    },
+    "voice_151:r_9680dcd0fddcfcc7": {
+      "text": "World ends,\\nno more beer for me!",
+      "status": "imported"
+    },
+    "voice_151:r_edd7a13ab8f06a14": {
+      "text": "How about I pay you back tenfold?",
+      "status": "imported"
+    },
+    "voice_151:r_8165e5b41f0124c4": {
+      "text": "Too bad! Now it's my turn!",
+      "status": "imported"
+    },
+    "voice_151:r_4e05581b7432cce8": {
+      "text": "I'll repay you in full!",
+      "status": "imported"
+    },
+    "voice_151:r_a60b107ea3c36a86": {
+      "text": "There! Don't move!",
+      "status": "imported"
+    },
+    "voice_151:r_e33693e5ba4665b0": {
+      "text": "You're not getting away!",
+      "status": "imported"
+    },
+    "voice_151:r_72a21a1a489af001": {
+      "text": "I won't just stand and see you off!",
+      "status": "imported"
+    },
+    "voice_151:r_eb643f8bf737a0ca": {
+      "text": "Enough already! Just give up!",
+      "status": "imported"
+    },
+    "voice_151:r_0a3fccb71ec6cf2a": {
+      "text": "Leaving you be means trouble...!",
+      "status": "imported"
+    },
+    "voice_151:r_9b63cf1f3e0207ef": {
+      "text": "Urzu 2! Moving in to support!",
+      "status": "imported"
+    },
+    "voice_151:r_8356f4e3dcdff938": {
+      "text": "I'll help myself to what's left!",
+      "status": "imported"
+    },
+    "voice_151:r_1d6d784036ae0bd7": {
+      "text": "Supporting TDD-1!",
+      "status": "imported"
+    },
+    "voice_151:r_625664af02183c17": {
+      "text": "Following Urzu 1!",
+      "status": "imported"
+    },
+    "voice_151:r_3701cba361f80ea5": {
+      "text": "Leave the rest to Big Sis Mao!",
+      "status": "imported"
+    },
+    "voice_151:r_38e4a434c91d8ef0": {
+      "text": "Let's show 'em our perfect teamwork!",
+      "status": "imported"
+    },
+    "voice_151:r_4824bea6bab3af67": {
+      "text": "You'll have to yield this one, Kurz!",
+      "status": "imported"
+    },
+    "voice_151:r_862b92e63adb9734": {
+      "text": "Good work, Sousuke! Leave it to me!",
+      "status": "imported"
+    },
+    "voice_151:r_cb306ef55e49d107": {
+      "text": "Recruiting you was the right call!",
+      "status": "imported"
+    },
+    "voice_151:r_57b2bd2de8a1408d": {
+      "text": "This is Urzu 2! Moving to support!",
+      "status": "imported"
+    },
+    "voice_151:r_76f080a4881e8ab5": {
+      "text": "Fall back and regroup!",
+      "status": "imported"
+    },
+    "voice_151:r_288133bc5b573dae": {
+      "text": "TDD-1, fall back!",
+      "status": "imported"
+    },
+    "voice_151:r_6f95653e548f8fcf": {
+      "text": "Ben, get out of here!",
+      "status": "imported"
+    },
+    "voice_151:r_d249d68bada91ab9": {
+      "text": "Can't just abandon my subordinates!",
+      "status": "imported"
+    },
+    "voice_151:r_03cdac73042343ee": {
+      "text": "Wipe your own damn ass!",
+      "status": "imported"
+    },
+    "voice_151:r_981f8fedd5414fe5": {
+      "text": "Jeez! I can't watch this anymore!",
+      "status": "imported"
+    },
+    "voice_151:r_96bb0dcde0c8c44a": {
+      "text": "Don't overdo it, Sousuke!",
+      "status": "imported"
+    },
+    "voice_151:r_641550a2f54cb456": {
+      "text": "Chirico's always doing crazy things!",
+      "status": "imported"
+    },
+    "voice_151:r_a0f2074af8debbfa": {
+      "text": "Jeez! You've gotta be kidding me!",
+      "status": "imported"
+    },
+    "voice_151:r_b5f5a97ed82acb0b": {
+      "text": "No chance to counter? I'm impressed!",
+      "status": "imported"
+    },
+    "voice_151:r_d9cd2e4ded064396": {
+      "text": "What?! All weapons disabled?!",
+      "status": "imported"
+    },
+    "voice_151:r_99e6349431aaf23b": {
+      "text": "Rookie mistake at a time like this!",
+      "status": "imported"
+    },
+    "voice_151:r_ec1081caf845f56a": {
+      "text": "Remember...!\\nI'll repay it tenfold!",
+      "status": "imported"
+    },
+    "voice_151:r_2c5b7ee872c1ed7f": {
+      "text": "Where'd that bastard go?!",
+      "status": "imported"
+    },
+    "voice_151:r_76d1e51c8b494a60": {
+      "text": "Looks like a boring opponent.",
+      "status": "imported"
+    },
+    "voice_151:r_eb5f687fcd372ae7": {
+      "text": "Good grief.",
+      "status": "imported"
+    },
+    "voice_151:r_2329428a6871d9fa": {
+      "text": "I got all fired up for nothing.",
+      "status": "imported"
+    },
+    "voice_151:r_0e7466971bec4cc4": {
+      "text": "Huh? What are you trying to pull?",
+      "status": "imported"
+    },
+    "voice_151:r_efa71f7a4cc33ff3": {
+      "text": "No misbehaving now.",
+      "status": "imported"
+    },
+    "voice_151:r_3fc2e1186557e7a0": {
+      "text": "What a lame attack!",
+      "status": "imported"
+    },
+    "voice_151:r_fa6930340a545054": {
+      "text": "Big Sis Mao won't get hit by that!",
+      "status": "imported"
+    },
+    "voice_151:r_2332b9d56461d7ab": {
+      "text": "I can see everything you're doing!",
+      "status": "imported"
+    },
+    "voice_151:r_854aa0a91a3c80d1": {
+      "text": "Too bad! I've already analyzed that!",
+      "status": "imported"
+    },
+    "voice_151:r_0bc8ae32a406ceab": {
+      "text": "So your reputation was all hype...!",
+      "status": "imported"
+    },
+    "voice_151:r_2b4d8818c77b6dca": {
+      "text": "Don't underestimate Mithril!",
+      "status": "imported"
+    },
+    "voice_151:r_099e2458cabf796f": {
+      "text": "Are you about ready to cry?",
+      "status": "imported"
+    },
+    "voice_151:r_fd910d714be70870": {
+      "text": "Jeez, what a stupid kid...",
+      "status": "imported"
+    },
+    "voice_151:r_9736f29b11344ec3": {
+      "text": "You get uptight over nothing...!",
+      "status": "imported"
+    },
+    "voice_151:r_fcd05582aa5c6068": {
+      "text": "Jeez, you're hopeless, Sousuke!",
+      "status": "imported"
+    },
+    "voice_151:r_bece29562818acba": {
+      "text": "I know all your habits inside out!",
+      "status": "imported"
+    },
+    "voice_151:r_96b21e3a028dd074": {
+      "text": "What a pointless attack...!",
+      "status": "imported"
+    },
+    "voice_151:r_ce140b5d8e6b7310": {
+      "text": "Oh, what a shame!",
+      "status": "imported"
+    },
+    "voice_151:r_772c8bc40ab6cb61": {
+      "text": "I've got tricks like this too!",
+      "status": "imported"
+    },
+    "voice_151:r_58dd2826a199ef51": {
+      "text": "Always be prepared, as they say!",
+      "status": "imported"
+    },
+    "voice_151:r_aadc0b2442adb93b": {
+      "text": "Tch...!",
+      "status": "imported"
+    },
+    "voice_151:r_e7a8cd8ed5bc2d1b": {
+      "text": "Is this supposed to test me?",
+      "status": "imported"
+    },
+    "voice_151:r_041dd920da4a7c17": {
+      "text": "All show and no substance. Pathetic.",
+      "status": "imported"
+    },
+    "voice_151:r_c7f4280cde4605b3": {
+      "text": "Points for effort. Not for results.",
+      "status": "imported"
+    },
+    "voice_151:r_ec349c8ea9511a18": {
+      "text": "Way to let me down!",
+      "status": "imported"
+    },
+    "voice_151:r_33236ffa3ea95b68": {
+      "text": "Don't get cocky, damn you!",
+      "status": "imported"
+    },
+    "voice_151:r_689d0b123de71ae0": {
+      "text": "Damn! How can I face Kurz now?!",
+      "status": "imported"
+    },
+    "voice_151:r_84883aa95f63ce32": {
+      "text": "Whoa,\\ncan't believe that hit me...!",
+      "status": "imported"
+    },
+    "voice_151:r_25493e978ce8ff16": {
+      "text": "Hmph...! Bring it on!",
+      "status": "imported"
+    },
+    "voice_151:r_7316666150e42960": {
+      "text": "Ugh... This is the worst...!",
+      "status": "imported"
+    },
+    "voice_151:r_c4f11aa93dc5b668": {
+      "text": "God, this pisses me off!",
+      "status": "imported"
+    },
+    "voice_151:r_ce1a22dfe3a4d339": {
+      "text": "This is getting a little dicey...!",
+      "status": "imported"
+    },
+    "voice_151:r_240651adab81e145": {
+      "text": "Jeez, you've gotta be kidding!",
+      "status": "imported"
+    },
+    "voice_151:r_cff0deaae73c2858": {
+      "text": "This debt\\nwill be repaid in full...!",
+      "status": "imported"
+    },
+    "voice_151:r_dca67f68a573fab7": {
+      "text": "Damn it! You wrecked my machine!",
+      "status": "imported"
+    },
+    "voice_151:r_a6630215fefaf294": {
+      "text": "Uh-oh...!\\nI hear the techs nagging!",
+      "status": "imported"
+    },
+    "voice_151:r_6f94566ad37f8ff8": {
+      "text": "You must've trained a lot...!",
+      "status": "imported"
+    },
+    "voice_151:r_942ca03c9de80143": {
+      "text": "Skill aside, you read me well...",
+      "status": "imported"
+    },
+    "voice_151:r_d8c669c70659e18a": {
+      "text": "That's seriously impressive. But...!",
+      "status": "imported"
+    },
+    "voice_151:r_8f5bade7ac2db78e": {
+      "text": "Oh, come on...! You stupid kid!",
+      "status": "imported"
+    },
+    "voice_151:r_05ea490d2f522520": {
+      "text": "So this is their full strength...?!",
+      "status": "imported"
+    },
+    "voice_151:r_f5658c702d91db7a": {
+      "text": "I have pride too!\\nI won't lose!",
+      "status": "imported"
+    },
+    "voice_151:r_686df329b50f195b": {
+      "text": "They really have incredible skill!",
+      "status": "imported"
+    },
+    "voice_151:r_b708a1d959013dbf": {
+      "text": "Your fight with Mithril\\nis no bluff!",
+      "status": "imported"
+    },
+    "voice_151:r_279da5f732aa8847": {
+      "text": "Relying on some bogus device...!",
+      "status": "imported"
+    },
+    "voice_151:r_97f82e3cb6f70110": {
+      "text": "So they used that device...!",
+      "status": "imported"
+    },
+    "voice_151:r_fa07d90fca62f593": {
+      "text": "What kind of joke is this...?!",
+      "status": "imported"
+    },
+    "voice_151:r_a25bf2676ecf9d83": {
+      "text": "So I'm completely cornered...!",
+      "status": "imported"
+    },
+    "voice_151:r_237a0288b42dce20": {
+      "text": "Shit! This is seriously bad!",
+      "status": "imported"
+    },
+    "voice_151:r_0556e8a22779ea8e": {
+      "text": "Damn, you just keep hounding me...!",
+      "status": "imported"
+    },
+    "voice_151:r_09d377101a48d92a": {
+      "text": "Fine! The real fight starts now!",
+      "status": "imported"
+    },
+    "voice_151:r_11517cc7b0494dbf": {
+      "text": "Sensors, links out!\\nAt this rate...!",
+      "status": "imported"
+    },
+    "voice_151:r_b5864501463db244": {
+      "text": "Tch! I'll have to nurse it along!",
+      "status": "imported"
+    },
+    "voice_151:r_a88939ea84b4474d": {
+      "text": "Ngh! I lost the flow of battle...!",
+      "status": "imported"
+    },
+    "voice_151:r_a870d0cf7cc11ec6": {
+      "text": "Aaaaaagh!!",
+      "status": "imported"
+    },
+    "voice_151:r_03f6158ef83964f3": {
+      "text": "Damn it all...! Is this the end?!",
+      "status": "imported"
+    },
+    "voice_151:r_2970a83693cdcc25": {
+      "text": "Sorry! Urzu 2 is falling back!",
+      "status": "imported"
+    },
+    "voice_151:r_be661448b85d0009": {
+      "text": "Huh...?! No way! I lost?!",
+      "status": "imported"
+    },
+    "voice_151:r_958a56c1151cab9e": {
+      "text": "Sousuke! I'll pay you back later!",
+      "status": "imported"
+    },
+    "voice_151:r_8b18aa4cc69547df": {
+      "text": "Done, done! Huh? Sousuke, what now?",
+      "status": "imported"
+    },
+    "voice_151:r_3e87f6fc3ea65aef": {
+      "text": "Student players, don't copy Sousuke!",
+      "status": "imported"
+    },
+    "voice_151:r_5508a7bfa9074eb9": {
+      "text": "See you later!",
+      "status": "imported"
+    },
+    "voice_151:r_09a003e91f0d5dc7": {
+      "text": "Whoa! Look awful. Rest with player?",
+      "status": "imported"
+    },
+    "voice_151:r_192447448ebd7bb5": {
+      "text": "That's it! Frowns aren't cute.",
+      "status": "imported"
+    },
+    "voice_151:r_e92920ba4b301b9f": {
+      "text": "Good! See you later too, player!",
+      "status": "imported"
+    },
+    "voice_151:r_207b256d613bb896": {
+      "text": "ECS activated, invisible mode.",
+      "status": "imported"
+    },
+    "voice_151:r_a6fd676d8146501b": {
+      "text": "OK, I'll draw the enemy in!",
+      "status": "imported"
+    },
+    "voice_151:r_94d35e5fa8e3a198": {
+      "text": "I'll provide support from here!",
+      "status": "imported"
+    },
+    "voice_151:r_b686510e636673f3": {
+      "text": "I just need to stop them, right?!",
+      "status": "imported"
+    },
+    "voice_151:r_59369bad143d4272": {
+      "text": "Initiating suppressive fire!",
+      "status": "imported"
+    },
+    "voice_151:r_25f9b1e39dd8d366": {
+      "text": "You're a pretty lame dance partner!",
+      "status": "imported"
+    },
+    "voice_151:r_307477bedd148060": {
+      "text": "So that's who I'm up against...!",
+      "status": "imported"
+    },
+    "voice_151:r_09a780acca0eb4b0": {
+      "text": "I'll handle this my way!",
+      "status": "imported"
+    },
+    "voice_151:r_af62f2ee466b5c8c": {
+      "text": "Splitting the enemy forces!",
+      "status": "imported"
+    }
+  }
+}

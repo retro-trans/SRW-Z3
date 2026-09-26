@@ -1,0 +1,418 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0200_02:r_caaab7bad760e16d": {
+      "text": "Macross Quarter Hangar",
+      "status": "imported"
+    },
+    "stage0200_02:r_99b162aa6aa286a2": {
+      "text": "Macross Quarter Hangar",
+      "status": "imported"
+    },
+    "stage0200_02:r_58fb02434a1c40b2": {
+      "text": "Macross Quarter Hangar",
+      "status": "imported"
+    },
+    "stage0200_02:r_1c0f94acd5a8a143": {
+      "text": "　\n　　\n　　　　　　～ Macross Quarter Hangar ～",
+      "status": "imported"
+    },
+    "stage0200_02:r_1263541f4071624e": {
+      "text": "$$ルカ$$\n「Good work, $n.\n　The simulator session is complete.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_3bc300bbdc277d82": {
+      "text": "$n\n「The results?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_38762a09460d8b6b": {
+      "text": "$$ミシェル$$\n「Destruction rate: 72.3 percent.\n　Not a bad score.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_7ab28e70b4d4f641": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0200_02:r_b05f6a6e8f3d9b24": {
+      "text": "$$ルカ$$\n「You have not been fighting for long, yet\n　few people could score this well.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_ec335e69f984b8b3": {
+      "text": "$n\n「...I appreciate the encouragement, but\n　give me your honest assessment.\n　For example, how do I compare with the others...?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_0abcaf0c31978670": {
+      "text": "$$ミシェル$$\n「...$$アルト$$, one week after joining $$Ｓ．Ｍ．Ｓ$$,\n　would have scored over 98 percent\n　on a simulator at this difficulty level.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_1d6bc48b7f246730": {
+      "text": "$n\n「I see...」",
+      "status": "imported"
+    },
+    "stage0200_02:r_1af20fccc3c53cfc": {
+      "text": "$$ミシェル$$\n「That guy is a kind of genius.\n　There is no point comparing yourself to him.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_f951916061232dcd": {
+      "text": "$$ミシェル$$\n「Just keep moving forward in your own way.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_4d863c3fb88a4c39": {
+      "text": "$n\n「...I'll run the simulation a little longer.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_44f4742c3dcce39a": {
+      "text": "$$ミシェル$$\n「Got it.\n　But there is no way we can keep up with you,\n　so I'll set it to auto.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_9e701cdeb3842c21": {
+      "text": "$$ルカ$$\n「Rest is important too, $n.\n　Push yourself too hard and it will affect\n　your condition.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_6fd81f4abebe60c5": {
+      "text": "$n\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0200_02:r_da2132b5038ec737": {
+      "text": "$$ミシェル$$\n「See you.\n　Top 95 percent and I'll move you up a grade.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_495d61d3ec7e16f2": {
+      "text": "$$ルカ$$\n「Good luck, then.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_5cd353758cfe474d": {
+      "text": "$n\n「...I have no choice but to do this...」",
+      "status": "imported"
+    },
+    "stage0200_02:r_a653c8dec4c0f06f": {
+      "text": "$$スズネ$$\n「$n...」",
+      "status": "imported"
+    },
+    "stage0200_02:r_86d493e37a9799a7": {
+      "text": "$n\n「...Why aren't you using my last name?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_09d0fcc600cdd3df": {
+      "text": "$$スズネ$$\n「At school, I'll call you $l.\n　Even if we're partners who face life and death,\n　we must keep our public and private lives separate.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_182faded068c15ed": {
+      "text": "$$スズネ$$\n「Or would you prefer 'Knight'?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_9c206d19bfda4bd5": {
+      "text": "$n\n「...Call me whatever you like.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_6e558bc69acf5bf3": {
+      "text": "$$スズネ$$\n「One more thing... Can I ask you something?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_d60d0818e965232f": {
+      "text": "$n\n「What is it?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_5b23687574286204": {
+      "text": "$$スズネ$$\n「You regularly post on the $$オカルトフォーラム$$ about\n　'a survivor of a $$時空震動$$'...\n　Is it tied to your father and sister's accident?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_6fd86c96891ea942": {
+      "text": "$n\n「...I don't want to answer.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_43e4e548c0b28376": {
+      "text": "$$スズネ$$\n「Oh, that's fine, then!」",
+      "status": "imported"
+    },
+    "stage0200_02:r_d80a9688790ed583": {
+      "text": "$n\n「Well... I'm going to run simulations now...」",
+      "status": "imported"
+    },
+    "stage0200_02:r_708bea61e3c43ada": {
+      "text": "$$スズネ$$\n「Then I'll join you...」",
+      "status": "imported"
+    },
+    "stage0200_02:r_7b6f159eeaf4de0f": {
+      "text": "$n\n「This is for one person.\n　For help with the $$ジェニオン$$'s navigation,\n　please ask $$ＡＧ$$.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_0827963cfd706e8d": {
+      "text": "$n\n「Excuse me, then.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_ff6f8bdca2dd2bc9": {
+      "text": "$$スズネ$$\n「$n...」",
+      "status": "imported"
+    },
+    "stage0200_02:r_3f4035fd9db81258": {
+      "text": "Classroom",
+      "status": "imported"
+    },
+    "stage0200_02:r_567b361a454c4b73": {
+      "text": "Classroom",
+      "status": "imported"
+    },
+    "stage0200_02:r_d22851aaafbbf8fc": {
+      "text": "Classroom",
+      "status": "imported"
+    },
+    "stage0200_02:r_352534f64413d954": {
+      "text": "　\n　\n　　　　　　～ Jindai High, Class 2-4 ～",
+      "status": "imported"
+    },
+    "stage0200_02:r_79f2664edb1af798": {
+      "text": "$$アルト$$\n「...What's the target doing?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_a62c4e7f3c09f7ed": {
+      "text": "$$ミシェル$$\n「Today is softball practice.\n　$$さやか$$ joined provisionally and is fielding balls,\n　while $$クラン$$ is sticking close as a coach.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_1c5aa0d15ae24846": {
+      "text": "$$ミシェル$$\n「For all her complaints,\n　$$クラン$$ seems to enjoy life as a high school girl.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_53bb64ee17750ee2": {
+      "text": "$$甲児$$\n「Where's $$宗介$$?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_7a7add80fde475ba": {
+      "text": "$$アルト$$\n「You know him.\n　He's guarding $$千鳥かなめ$$ from somewhere.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_b2befefdbed1393d": {
+      "text": "$$ミシェル$$\n「If anything happens, the commotion he makes\n　will tell us whether we like it or not.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_2103f6df2ea2e447": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0200_02:r_a12e3e130d896ff7": {
+      "text": "$$アルト$$\n「Where are you going, $n?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_b6f7b219eb4bd64b": {
+      "text": "$n\n「I'll run simulations on the Quarter.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_91bf33c27ad39f0a": {
+      "text": "$$ボス$$\n「You're overdoing it!\n　At this rate you'll wear out before we sortie!」",
+      "status": "imported"
+    },
+    "stage0200_02:r_ee220318b96ab538": {
+      "text": "$$甲児$$\n「Being dedicated is fine,\n　but if you don't unwind, you'll burn out.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_ce1b55e526b6277a": {
+      "text": "$n\n「But...」",
+      "status": "imported"
+    },
+    "stage0200_02:r_c304df6888eb78f7": {
+      "text": "$$甲児$$\n「Take a break once in a while.\n　Leave guarding the target to $$宗介$$,\n　and let's go get some ramen.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_c26958634526e597": {
+      "text": "$$アルト$$\n「Come to think of it, I heard a 'Nyan Nyan' branch\n　is in this city too.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_cdb750c9d380881a": {
+      "text": "$n\n「'Nyan Nyan'?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_95fda74613c97b39": {
+      "text": "$$アルト$$\n「It's a famous Chinese place in the Frontier fleet.\n　Their Galaxy Ramen is superb.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_1956994937f8171e": {
+      "text": "$$甲児$$\n「All right, settled!\n　We'll eat that while we hold\n　our strategy meeting.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_48f49f6728c15612": {
+      "text": "$n\n「Still...」",
+      "status": "imported"
+    },
+    "stage0200_02:r_0ebc5a6f1e0f81bf": {
+      "text": "$$アルト$$\n「We're not going out to have fun.\n　This is a strategy meeting.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_f02c37d91387d0ad": {
+      "text": "$n\n「...All right.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_6bbd5a3c5afb87e0": {
+      "text": "$$ミシェル$$\n「Speaking of breaks, what about the upcoming hike...?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_9796b3efa401a303": {
+      "text": "$$アルト$$\n「A joint recreational event for the local schools...\n　Just what you'd expect in a research campus city.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_643b6eebfc0186b3": {
+      "text": "$$甲児$$\n「So we'll meet $$ワッ太$$ and $$正太郎$$ there too.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_291280e5f7eb9d70": {
+      "text": "$$アルト$$\n「Then leave guarding $$千鳥かなめ$$\n　to $$宗介$$, $$正太郎$$, and the others.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_32eb462c1b4999cb": {
+      "text": "$$アルト$$\n「Meanwhile, we'll remain here\n　as the Academy Defense Force.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_1f4337d6d393fc37": {
+      "text": "$$ミシェル$$\n「So you're just skipping because it's a drag?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_4740e748fae085ee": {
+      "text": "$$アルト$$\n「Pretty much.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_b76524cd840e1d37": {
+      "text": "$$ミシェル$$\n「I agree.\n　Hiking in the mountains isn't my thing.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_730ffe18400abfc2": {
+      "text": "$$甲児$$\n「Miss $$スズネ$$ will lecture us if she finds out.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_ffe0fca26da5cd38": {
+      "text": "$$ボス$$\n「But... at our age,\n　we can't be going on a hike.\n　Right, $n?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_bfb27f9eb2f7073e": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0200_02:r_859dfa27bcaafe30": {
+      "text": "$n\n「Go hiking」\n「Don't go hiking」",
+      "status": "imported"
+    },
+    "stage0200_02:r_71ebf05996a4b0fd": {
+      "text": "$n\n「...No, I think I'll go.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_6214c11b1bca811e": {
+      "text": "$$ミシェル$$\n「Never saw that answer coming...!」",
+      "status": "imported"
+    },
+    "stage0200_02:r_8eaf6f3098ffed12": {
+      "text": "$$ボス$$\n「What's with you, $n!\n　Are you really that scared of Miss $$スズネ$$?!」",
+      "status": "imported"
+    },
+    "stage0200_02:r_cf507214fe955d75": {
+      "text": "$n\n「Like you said, I need a break too, don't I?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_2113dcbabdfc758a": {
+      "text": "$$ボス$$\n「Well, that's true, but...」",
+      "status": "imported"
+    },
+    "stage0200_02:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ボス$$\n「I just can't picture you hiking\n　through all that greenery.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_6a74519e1fc29c4b": {
+      "text": "$n\n「...Sorry to disappoint.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_5b992878fee054b5": {
+      "text": "$$甲児$$\n「That's how it is, $$アルト$$.\n　If $n is going and we don't,\n　we'll have no excuse for Miss $$スズネ$$.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_95a3dd16c2c4cc3e": {
+      "text": "$$アルト$$\n「Fine.\n　I'll go. Happy now?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_4a14ec0c511c7f0d": {
+      "text": "$$ミシェル$$\n「Guess we have no choice.\n　But if we're going, let's make it a fun hike.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_20cf167c0ec0d4d5": {
+      "text": "$n\n「Who knows...\n　As long as that guy is there, I smell trouble...」",
+      "status": "imported"
+    },
+    "stage0200_02:r_b591d812c96c6c99": {
+      "text": "$n\n「Yeah...\n　Meanwhile, we can carry out our own mission.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_e350fa099c1ab072": {
+      "text": "$$アルト$$\n「Then it's settled.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_fb05d8e5f1ee93e5": {
+      "text": "$$ミシェル$$\n「You handle our excuse to Miss $$スズネ$$, $n.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_c33bd700553abf91": {
+      "text": "$n\n「I have to do it?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_feee5c91826230e1": {
+      "text": "$$甲児$$\n「Of course.\n　You two are partners, after all.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_bccc48e1964ad22d": {
+      "text": "$$ボス$$\n「Grrr, I'm seriously jealous!」",
+      "status": "imported"
+    },
+    "stage0200_02:r_f8736aaaa216c766": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0200_02:r_d1ec2522c87c361d": {
+      "text": "$$アルト$$\n「We'll let $$宗介$$ and the others handle the hike.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_3599f0a4343fd95c": {
+      "text": "$$甲児$$\n「Over there, though,\n　I smell trouble as long as $$宗介$$'s around.」",
+      "status": "imported"
+    },
+    "stage0200_02:r_3bc7834a5bf3ee76": {
+      "text": "$n\n（I wonder if Chidori will call me again...）",
+      "status": "imported"
+    },
+    "stage0200_02:r_366814efdc8b5800": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0200_02:r_9be1a4c10bb62515": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0200_02:r_94a88c90e557e16e": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0200_02:r_1c208ca0cbf26f28": {
+      "text": "　\n　　\n　　　　　　　　　　　～ D-Trader ～",
+      "status": "imported"
+    },
+    "stage0200_02:r_5b7ee307a700171a": {
+      "text": "$$ＡＧ$$\n「Well, well. It seems $n and the others\n　have decided to go hiking...」",
+      "status": "imported"
+    },
+    "stage0200_02:r_8d8f065c932da30a": {
+      "text": "$$ＡＧ$$\n「But was that choice truly the right one?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_f5432119677514f7": {
+      "text": "$$ＡＧ$$\n「Just thought I'd stir up a little doubt.\n　Now, let's get to it... business, business!」",
+      "status": "imported"
+    },
+    "stage0200_02:r_4e5c8e989c4a7691": {
+      "text": "$$ＡＧ$$\n「Well, well, it seems $n and the others\n　have decided to skip the hike...」",
+      "status": "imported"
+    },
+    "stage0200_02:r_adec86483b13599a": {
+      "text": "$$ＡＧ$$\n「But was that choice truly the right one?」",
+      "status": "imported"
+    },
+    "stage0200_02:r_2cf701bbcde3ec13": {
+      "text": "$$ＡＧ$$\n「Just thought I'd stir up a little doubt.\n　Now, let's get to it... business, business!」",
+      "status": "imported"
+    }
+  }
+}

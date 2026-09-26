@@ -1,0 +1,910 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_210:r_479b340ccc6c572b": {
+      "text": "Stay out of my way.",
+      "status": "imported"
+    },
+    "voice_210:r_ca4acbac57a2a35e": {
+      "text": "Too late.",
+      "status": "imported"
+    },
+    "voice_210:r_77949221bf58f862": {
+      "text": "Now...!",
+      "status": "imported"
+    },
+    "voice_210:r_70b9c4b9f1f37eff": {
+      "text": "They're coming...! They're coming!",
+      "status": "imported"
+    },
+    "voice_210:r_9fcb3754cb1773c7": {
+      "text": "This is my mission...!",
+      "status": "imported"
+    },
+    "voice_210:r_3559d2fad32c2435": {
+      "text": "I can see it...!",
+      "status": "imported"
+    },
+    "voice_210:r_f7570547e9f80a64": {
+      "text": "I can feel it...!",
+      "status": "imported"
+    },
+    "voice_210:r_cbab0f4720e1fcf1": {
+      "text": "There you are...!",
+      "status": "imported"
+    },
+    "voice_210:r_0bbe0b4f5364e732": {
+      "text": "I can feel you, Shin Dragon...!",
+      "status": "imported"
+    },
+    "voice_210:r_5dda5198137cb02a": {
+      "text": "I'm becoming one with Shin Dragon!",
+      "status": "imported"
+    },
+    "voice_210:r_83ec59afbecdec14": {
+      "text": "To protect Kei and this planet...!",
+      "status": "imported"
+    },
+    "voice_210:r_e20bfd42ad95a3c9": {
+      "text": "I'm counting on you, Gou!",
+      "status": "imported"
+    },
+    "voice_210:r_0f58a8822381e57f": {
+      "text": "Gou! The enemy's coming!",
+      "status": "imported"
+    },
+    "voice_210:r_6dbcc507fb61b51d": {
+      "text": "Let's make our move, Getter!",
+      "status": "imported"
+    },
+    "voice_210:r_b42ab697149a7c8a": {
+      "text": "I'll make the first move.",
+      "status": "imported"
+    },
+    "voice_210:r_4de4fcf3b440baf4": {
+      "text": "I'm counting on you, Gou! Do it!",
+      "status": "imported"
+    },
+    "voice_210:r_0121a166c715cdff": {
+      "text": "Take 'em down, Gou!",
+      "status": "imported"
+    },
+    "voice_210:r_30fad37a42bd3ad3": {
+      "text": "Leave it to me...!",
+      "status": "imported"
+    },
+    "voice_210:r_80a0b2a84e05d81a": {
+      "text": "Gou! I'm ready when you are!",
+      "status": "imported"
+    },
+    "voice_210:r_4a9ac1dff86506d9": {
+      "text": "Our lives are in your hands, Gou!",
+      "status": "imported"
+    },
+    "voice_210:r_bc8538e6af3d2577": {
+      "text": "Let's go, Kei, Gai! Getter!",
+      "status": "imported"
+    },
+    "voice_210:r_924516c8de2b5342": {
+      "text": "Kei, Gai...\\nBecome one with Getter!",
+      "status": "imported"
+    },
+    "voice_210:r_da1174533722333f": {
+      "text": "Yeah!",
+      "status": "imported"
+    },
+    "voice_210:r_fdeb8162976e72c1": {
+      "text": "It's not over...!",
+      "status": "imported"
+    },
+    "voice_210:r_0fadb5c26df92b42": {
+      "text": "Drawn here by the Getter Rays...!",
+      "status": "imported"
+    },
+    "voice_210:r_6b15af9a0057cdc8": {
+      "text": "Earth is not yours. I'll make sure.",
+      "status": "imported"
+    },
+    "voice_210:r_15b4a90140e8a33a": {
+      "text": "We have the advantage in the air.",
+      "status": "imported"
+    },
+    "voice_210:r_af884a6b11dff121": {
+      "text": "Gou! Their speed is off the charts!",
+      "status": "imported"
+    },
+    "voice_210:r_ac6fe7838e95647b": {
+      "text": "No problem.",
+      "status": "imported"
+    },
+    "voice_210:r_77ca87eacd17ad52": {
+      "text": "So the enemy boss finally shows...!",
+      "status": "imported"
+    },
+    "voice_210:r_bf3244994760e535": {
+      "text": "Get fired up, Gai! You too, Gou!",
+      "status": "imported"
+    },
+    "voice_210:r_aabfb21c9d069ce7": {
+      "text": "Yeah...!",
+      "status": "imported"
+    },
+    "voice_210:r_02479dc8fe989560": {
+      "text": "We'll settle this battle ourselves!",
+      "status": "imported"
+    },
+    "voice_210:r_48b60d6c48b9b142": {
+      "text": "Getter Beeeeeeam!",
+      "status": "imported"
+    },
+    "voice_210:r_8927e6fb681aa809": {
+      "text": "Uooooooooogh!",
+      "status": "imported"
+    },
+    "voice_210:r_665f01666859013b": {
+      "text": "Getteeeer Beeeeeeam!",
+      "status": "imported"
+    },
+    "voice_210:r_a571eec59b258d11": {
+      "text": "Uwaaaaaagh!",
+      "status": "imported"
+    },
+    "voice_210:r_ddbe581c5ea9183d": {
+      "text": "Double! Tomahooooawk!",
+      "status": "imported"
+    },
+    "voice_210:r_faae935cca0edc72": {
+      "text": "Boooooomerang!",
+      "status": "imported"
+    },
+    "voice_210:r_d4430bf362340b32": {
+      "text": "I'll take you on!",
+      "status": "imported"
+    },
+    "voice_210:r_6ff1323b355593e0": {
+      "text": "Change, Shin Liger!",
+      "status": "imported"
+    },
+    "voice_210:r_b7b5625d7cd4282f": {
+      "text": "Drill Missile!",
+      "status": "imported"
+    },
+    "voice_210:r_36133ad73a73ef98": {
+      "text": "Uooooooogh!",
+      "status": "imported"
+    },
+    "voice_210:r_920740a0219c5085": {
+      "text": "I can't afford to screw this up...!",
+      "status": "imported"
+    },
+    "voice_210:r_a8451712c57c1a72": {
+      "text": "Chaaaaange, Shin Poseidon!",
+      "status": "imported"
+    },
+    "voice_210:r_3633df5b7b8f47fa": {
+      "text": "Getter Eleki!",
+      "status": "imported"
+    },
+    "voice_210:r_52dfc56b14b93551": {
+      "text": "Amazing!\\nWhat power, Shin Poseidon!",
+      "status": "imported"
+    },
+    "voice_210:r_2a00f1044ad5cbaa": {
+      "text": "Time to counter...!",
+      "status": "imported"
+    },
+    "voice_210:r_3dbeead1bd3164ef": {
+      "text": "You won't get away...!",
+      "status": "imported"
+    },
+    "voice_210:r_98d15b8cc09bc915": {
+      "text": "This ends here...!",
+      "status": "imported"
+    },
+    "voice_210:r_46e86d000250e137": {
+      "text": "Leave this to me.",
+      "status": "imported"
+    },
+    "voice_210:r_ac341e7976e88f0b": {
+      "text": "I'm right behind you.",
+      "status": "imported"
+    },
+    "voice_210:r_cdbd128a5b4127cc": {
+      "text": "Impressive, Ryoma.",
+      "status": "imported"
+    },
+    "voice_210:r_cfccaa1fbeda124c": {
+      "text": "I'll cover you...!",
+      "status": "imported"
+    },
+    "voice_210:r_b1f8ec192b9c083a": {
+      "text": "Fall back.",
+      "status": "imported"
+    },
+    "voice_210:r_a007f9ab9cf048b3": {
+      "text": "No... You can't stay there.",
+      "status": "imported"
+    },
+    "voice_210:r_ddafde4b065ced49": {
+      "text": "What are you doing, Ryoma?",
+      "status": "imported"
+    },
+    "voice_210:r_de1213040856c089": {
+      "text": "I'll protect my comrades...!",
+      "status": "imported"
+    },
+    "voice_210:r_3304412ac41f47a6": {
+      "text": "Can't counterattack...",
+      "status": "imported"
+    },
+    "voice_210:r_0c0775e051211840": {
+      "text": "I shouldn't move yet.",
+      "status": "imported"
+    },
+    "voice_210:r_a2afffe1c396f0b3": {
+      "text": "Not enough output...",
+      "status": "imported"
+    },
+    "voice_210:r_13c25fbdfddc8a24": {
+      "text": "I'm at a disadvantage this close...!",
+      "status": "imported"
+    },
+    "voice_210:r_42ba1ecb310b4bd7": {
+      "text": "That's useless...!",
+      "status": "imported"
+    },
+    "voice_210:r_d692f1d420460a47": {
+      "text": "Too slow...!",
+      "status": "imported"
+    },
+    "voice_210:r_a5643cec86b18bd2": {
+      "text": "I see you...!",
+      "status": "imported"
+    },
+    "voice_210:r_68f2dfab20a4a30e": {
+      "text": "I have no intention of getting hit.",
+      "status": "imported"
+    },
+    "voice_210:r_9cedad8237480563": {
+      "text": "I know what you're aiming for.",
+      "status": "imported"
+    },
+    "voice_210:r_a03fabecba1508ca": {
+      "text": "Did I shake them...",
+      "status": "imported"
+    },
+    "voice_210:r_5391b24a71eb10ae": {
+      "text": "Nice! That didn't even graze us!",
+      "status": "imported"
+    },
+    "voice_210:r_a554ceef5c87b972": {
+      "text": "Impressive! Not bad, Gou!",
+      "status": "imported"
+    },
+    "voice_210:r_546c3d5937fbb7ee": {
+      "text": "Hmph...",
+      "status": "imported"
+    },
+    "voice_210:r_1568ff6298b12b96": {
+      "text": "Incredible...! Not one wasted move!",
+      "status": "imported"
+    },
+    "voice_210:r_2c9d94ba13c5fc50": {
+      "text": "I've read the enemy's movements.",
+      "status": "imported"
+    },
+    "voice_210:r_a77f4913375098d2": {
+      "text": "Good reflexes.",
+      "status": "imported"
+    },
+    "voice_210:r_428c2116ac3071b1": {
+      "text": "See? This is the greatest machine!",
+      "status": "imported"
+    },
+    "voice_210:r_84c116267b79f540": {
+      "text": "I didn't take any damage.",
+      "status": "imported"
+    },
+    "voice_210:r_dad38ee29af2df3a": {
+      "text": "What a pointless attack.",
+      "status": "imported"
+    },
+    "voice_210:r_69dfa1659715e2fa": {
+      "text": "Ngh...",
+      "status": "imported"
+    },
+    "voice_210:r_d996fd6d4ef5b329": {
+      "text": "That just grazed me.",
+      "status": "imported"
+    },
+    "voice_210:r_8ab47a28f99ef565": {
+      "text": "Further combat is pointless.",
+      "status": "imported"
+    },
+    "voice_210:r_546de3fb6db156ea": {
+      "text": "I failed to evade.",
+      "status": "imported"
+    },
+    "voice_210:r_ca85f87cee5e31f7": {
+      "text": "That won't work on Getter.",
+      "status": "imported"
+    },
+    "voice_210:r_9072ea7bc71df136": {
+      "text": "I'm fine!\\nI barely took any damage!",
+      "status": "imported"
+    },
+    "voice_210:r_04e815a8d425827d": {
+      "text": "Got it.",
+      "status": "imported"
+    },
+    "voice_210:r_d89011fe3e5d082a": {
+      "text": "Are you all right, Kei?",
+      "status": "imported"
+    },
+    "voice_210:r_3c5b0c2ac812d5de": {
+      "text": "This little damage is nothing!",
+      "status": "imported"
+    },
+    "voice_210:r_5b9e8897190892eb": {
+      "text": "Damn it! Getter's been damaged!",
+      "status": "imported"
+    },
+    "voice_210:r_7bea3023abbf8a94": {
+      "text": "Next time, I'll evade.",
+      "status": "imported"
+    },
+    "voice_210:r_dd01a4c0d1b36a8d": {
+      "text": "So they hit me.",
+      "status": "imported"
+    },
+    "voice_210:r_20920ad2eb3542db": {
+      "text": "What?! I'd have taken that head-on!",
+      "status": "imported"
+    },
+    "voice_210:r_0ab7914877fd48ed": {
+      "text": "I can still fight...!",
+      "status": "imported"
+    },
+    "voice_210:r_cb846feec748c2e3": {
+      "text": "So that's your move.",
+      "status": "imported"
+    },
+    "voice_210:r_c958860b0676b1f5": {
+      "text": "You can take it, Getter.",
+      "status": "imported"
+    },
+    "voice_210:r_5e2669b82ef75ce3": {
+      "text": "What?!",
+      "status": "imported"
+    },
+    "voice_210:r_7847e0ed7dc9282d": {
+      "text": "What's wrong, Getter...?!",
+      "status": "imported"
+    },
+    "voice_210:r_e42b52c7a987b906": {
+      "text": "They caught up...!",
+      "status": "imported"
+    },
+    "voice_210:r_6825fd1ff907bd22": {
+      "text": "Gou! Want me to switch in?!",
+      "status": "imported"
+    },
+    "voice_210:r_607f666f1563bc0d": {
+      "text": "G-Gou, are you okay?!",
+      "status": "imported"
+    },
+    "voice_210:r_97b7431eeb81e6b6": {
+      "text": "Getter and I will protect you...!",
+      "status": "imported"
+    },
+    "voice_210:r_132f605d02975e71": {
+      "text": "Getter's taking damage...!",
+      "status": "imported"
+    },
+    "voice_210:r_9b9726b1872759d6": {
+      "text": "Don't worry! I'll repair it later!",
+      "status": "imported"
+    },
+    "voice_210:r_1252db29683fefe0": {
+      "text": "Gou, can't you do something?!",
+      "status": "imported"
+    },
+    "voice_210:r_ad3d538f1e909184": {
+      "text": "The real fight starts now...!",
+      "status": "imported"
+    },
+    "voice_210:r_8c61c59a1c0aebbf": {
+      "text": "Oaaaaagh!",
+      "status": "imported"
+    },
+    "voice_210:r_aba6a7662129d8ce": {
+      "text": "I can't afford to fall...!",
+      "status": "imported"
+    },
+    "voice_210:r_b84afafb8a33ec60": {
+      "text": "I... Getter...!",
+      "status": "imported"
+    },
+    "voice_210:r_c8c59db85bf875e6": {
+      "text": "It can't end here...!",
+      "status": "imported"
+    },
+    "voice_210:r_391aa56435d9dd6e": {
+      "text": "Getter's power won't increase...!",
+      "status": "imported"
+    },
+    "voice_210:r_7c796ba53bd7ea03": {
+      "text": "Gou! We're just getting pummeled!",
+      "status": "imported"
+    },
+    "voice_210:r_fa944da4b6519006": {
+      "text": "Getter's reacting more slowly...!",
+      "status": "imported"
+    },
+    "voice_210:r_95d047bcc17fccc6": {
+      "text": "Kyaaaaaaa!",
+      "status": "imported"
+    },
+    "voice_210:r_640327a12a559b31": {
+      "text": "I'll... I'll protect Kei!",
+      "status": "imported"
+    },
+    "voice_210:r_bdd38c584fa313d0": {
+      "text": "Ngh...! I'm losing control!",
+      "status": "imported"
+    },
+    "voice_210:r_3fd86c1027f317c8": {
+      "text": "Gou, this is bad!\\nGetter won't last!",
+      "status": "imported"
+    },
+    "voice_210:r_d0372a183d2007ad": {
+      "text": "Getter...! Getteeeeeer!!",
+      "status": "imported"
+    },
+    "voice_210:r_217aa5e1d545b44d": {
+      "text": "What's wrong, Gou?! Stay with me!",
+      "status": "imported"
+    },
+    "voice_210:r_381992c5d8224937": {
+      "text": "Is this as far as we go...?!",
+      "status": "imported"
+    },
+    "voice_210:r_f1e7ed9e5874aba5": {
+      "text": "I... couldn't protect Kei...!",
+      "status": "imported"
+    },
+    "voice_210:r_5aeeb4917340c42d": {
+      "text": "Chaaaaaange! Shin Liger!",
+      "status": "imported"
+    },
+    "voice_210:r_b765659981b6516d": {
+      "text": "Drill Missiiiiile!",
+      "status": "imported"
+    },
+    "voice_210:r_0c427458bc00eb95": {
+      "text": "Gooooooo!",
+      "status": "imported"
+    },
+    "voice_210:r_774a9ab4d8fd5351": {
+      "text": "This will settle it!",
+      "status": "imported"
+    },
+    "voice_210:r_7d2617c809fead70": {
+      "text": "Getteeeer! Elekiiiii!",
+      "status": "imported"
+    },
+    "voice_210:r_ceb935ccbf830724": {
+      "text": "This is Getter's ultimate evolution!",
+      "status": "imported"
+    },
+    "voice_210:r_e33693e5ba4665b0": {
+      "text": "I'll take you down...!",
+      "status": "imported"
+    },
+    "voice_210:r_72a21a1a489af001": {
+      "text": "Underwater! Can you do it, Gou?!",
+      "status": "imported"
+    },
+    "voice_210:r_eb643f8bf737a0ca": {
+      "text": "No problem.",
+      "status": "imported"
+    },
+    "voice_210:r_63f429c5c68c0863": {
+      "text": "Found you...!",
+      "status": "imported"
+    },
+    "voice_210:r_38e4a434c91d8ef0": {
+      "text": "No more...!",
+      "status": "imported"
+    },
+    "voice_210:r_98ed411352a3a6ac": {
+      "text": "What is this...?!",
+      "status": "imported"
+    },
+    "voice_210:r_4824bea6bab3af67": {
+      "text": "No problem.",
+      "status": "imported"
+    },
+    "voice_210:r_862b92e63adb9734": {
+      "text": "I won't let you.",
+      "status": "imported"
+    },
+    "voice_210:r_cb306ef55e49d107": {
+      "text": "An enemy...?!",
+      "status": "imported"
+    },
+    "voice_210:r_57b2bd2de8a1408d": {
+      "text": "So you've come...!",
+      "status": "imported"
+    },
+    "voice_210:r_76f080a4881e8ab5": {
+      "text": "I... will fight!",
+      "status": "imported"
+    },
+    "voice_210:r_288133bc5b573dae": {
+      "text": "Take this...!",
+      "status": "imported"
+    },
+    "voice_210:r_6f95653e548f8fcf": {
+      "text": "There's nowhere to run...!",
+      "status": "imported"
+    },
+    "voice_210:r_d249d68bada91ab9": {
+      "text": "Lend me your power, Shin Dragon...!",
+      "status": "imported"
+    },
+    "voice_210:r_e9b3307e9eb69f11": {
+      "text": "We're going all out on this!",
+      "status": "imported"
+    },
+    "voice_210:r_03cdac73042343ee": {
+      "text": "Let's go, Kei, Gai!",
+      "status": "imported"
+    },
+    "voice_210:r_6026da5acbda7c69": {
+      "text": "Every machine has its own habits!",
+      "status": "imported"
+    },
+    "voice_210:r_981f8fedd5414fe5": {
+      "text": "Yeah. I can sense that.",
+      "status": "imported"
+    },
+    "voice_210:r_96bb0dcde0c8c44a": {
+      "text": "Then we'll just have to wing it!",
+      "status": "imported"
+    },
+    "voice_210:r_641550a2f54cb456": {
+      "text": "I've got your back!",
+      "status": "imported"
+    },
+    "voice_210:r_a0f2074af8debbfa": {
+      "text": "We'll finish this...! Kei, Gai!",
+      "status": "imported"
+    },
+    "voice_210:r_b5f5a97ed82acb0b": {
+      "text": "Shin Dragon and us...\\nSync as one!",
+      "status": "imported"
+    },
+    "voice_210:r_d9cd2e4ded064396": {
+      "text": "Got it! We're with you!",
+      "status": "imported"
+    },
+    "voice_210:r_ec1081caf845f56a": {
+      "text": "You're in the perfect spot!",
+      "status": "imported"
+    },
+    "voice_210:r_2c5b7ee872c1ed7f": {
+      "text": "We'll finish it here...!",
+      "status": "imported"
+    },
+    "voice_210:r_494b5da92ed24ecb": {
+      "text": "One more time...!",
+      "status": "imported"
+    },
+    "voice_210:r_a4a5a96f4bd58920": {
+      "text": "You can't grasp what evolution is!",
+      "status": "imported"
+    },
+    "voice_210:r_b57d2d74233f889a": {
+      "text": "You came back, so I'll crush you...!",
+      "status": "imported"
+    },
+    "voice_210:r_cd06d0820d82524b": {
+      "text": "I see... You too...!",
+      "status": "imported"
+    },
+    "voice_210:r_c94c6d04be583774": {
+      "text": "I'll destroy machines built for war!",
+      "status": "imported"
+    },
+    "voice_210:r_e54e2c99ef8297af": {
+      "text": "We shouldn't fight each other...!",
+      "status": "imported"
+    },
+    "voice_210:r_f16a3eb0bcaac082": {
+      "text": "Don't let malice lead you astray...!",
+      "status": "imported"
+    },
+    "voice_210:r_10a408809e512df1": {
+      "text": "I'll take you on, Gundam...!",
+      "status": "imported"
+    },
+    "voice_210:r_bc7b9e308b879dd4": {
+      "text": "Destruction itself... I'll stop you!",
+      "status": "imported"
+    },
+    "voice_210:r_98902fd3143c393e": {
+      "text": "Primordial Calamity...! Baal!",
+      "status": "imported"
+    },
+    "voice_210:r_d907fbd7bc1c4298": {
+      "text": "Another path evolution may take...!",
+      "status": "imported"
+    },
+    "voice_210:r_96b21e3a028dd074": {
+      "text": "I won't let the world end...!",
+      "status": "imported"
+    },
+    "voice_210:r_ce140b5d8e6b7310": {
+      "text": "We'll protect Earth...!",
+      "status": "imported"
+    },
+    "voice_210:r_0e0335789c5396d7": {
+      "text": "You forget your duty in your pride!",
+      "status": "imported"
+    },
+    "voice_210:r_a8e85bd950696403": {
+      "text": "You're false gods!",
+      "status": "imported"
+    },
+    "voice_210:r_772c8bc40ab6cb61": {
+      "text": "Face me, King of the Underworld!",
+      "status": "imported"
+    },
+    "voice_210:r_58dd2826a199ef51": {
+      "text": "No evolution means no future...!",
+      "status": "imported"
+    },
+    "voice_210:r_aadc0b2442adb93b": {
+      "text": "Don't reject the future...!",
+      "status": "imported"
+    },
+    "voice_210:r_e7a8cd8ed5bc2d1b": {
+      "text": "No... We must not fight...!",
+      "status": "imported"
+    },
+    "voice_210:r_041dd920da4a7c17": {
+      "text": "I'll free your captive heart now...!",
+      "status": "imported"
+    },
+    "voice_210:r_c7f4280cde4605b3": {
+      "text": "The future isn't yours to decide...!",
+      "status": "imported"
+    },
+    "voice_210:r_ec349c8ea9511a18": {
+      "text": "No one gets the world's future!",
+      "status": "imported"
+    },
+    "voice_210:r_33236ffa3ea95b68": {
+      "text": "You're an enemy I must defeat...!",
+      "status": "imported"
+    },
+    "voice_210:r_689d0b123de71ae0": {
+      "text": "Human rage and sorrow fuel our blow!",
+      "status": "imported"
+    },
+    "voice_210:r_84883aa95f63ce32": {
+      "text": "We'll sever the root of all malice!",
+      "status": "imported"
+    },
+    "voice_210:r_25493e978ce8ff16": {
+      "text": "You won't lead the world astray...!",
+      "status": "imported"
+    },
+    "voice_210:r_5b2247b5cfbcd7b2": {
+      "text": "Counterattack...!",
+      "status": "imported"
+    },
+    "voice_210:r_2d7a9c06347582d9": {
+      "text": "I won't let you!",
+      "status": "imported"
+    },
+    "voice_210:r_bf953d64c3c7d9b7": {
+      "text": "Let's intercept them, Getter!",
+      "status": "imported"
+    },
+    "voice_210:r_e09b933e3e706779": {
+      "text": "To live is to resist...!",
+      "status": "imported"
+    },
+    "voice_210:r_66236eb99b676e5b": {
+      "text": "We'll follow too...!",
+      "status": "imported"
+    },
+    "voice_210:r_9639a2dbcd2f58ed": {
+      "text": "Ryoma, let's coordinate!",
+      "status": "imported"
+    },
+    "voice_210:r_aeea0893acb93d35": {
+      "text": "I'll lend a hand, Koji!",
+      "status": "imported"
+    },
+    "voice_210:r_b31568654e53487b": {
+      "text": "I'll draw them off.",
+      "status": "imported"
+    },
+    "voice_210:r_2502132569141ea3": {
+      "text": "Don't overdo it, Ryoma.",
+      "status": "imported"
+    },
+    "voice_210:r_1ff312798a52c8eb": {
+      "text": "Look out, Koji!",
+      "status": "imported"
+    },
+    "voice_210:r_fa07d90fca62f593": {
+      "text": "That's it, Getter...!",
+      "status": "imported"
+    },
+    "voice_210:r_a25bf2676ecf9d83": {
+      "text": "I feel it... their hostility...!",
+      "status": "imported"
+    },
+    "voice_210:r_237a0288b42dce20": {
+      "text": "Looks like they missed...",
+      "status": "imported"
+    },
+    "voice_210:r_0556e8a22779ea8e": {
+      "text": "Where were they aiming...?",
+      "status": "imported"
+    },
+    "voice_210:r_09d377101a48d92a": {
+      "text": "Shin Dragon can handle it.",
+      "status": "imported"
+    },
+    "voice_210:r_11517cc7b0494dbf": {
+      "text": "I kept the damage to a minimum.",
+      "status": "imported"
+    },
+    "voice_210:r_b5864501463db244": {
+      "text": "This damage isn't worth concern.",
+      "status": "imported"
+    },
+    "voice_210:r_a88939ea84b4474d": {
+      "text": "This won't be enough to beat us!",
+      "status": "imported"
+    },
+    "voice_210:r_a870d0cf7cc11ec6": {
+      "text": "The armor stopped it.",
+      "status": "imported"
+    },
+    "voice_210:r_03f6158ef83964f3": {
+      "text": "At this rate, we won't need repairs.",
+      "status": "imported"
+    },
+    "voice_210:r_2970a83693cdcc25": {
+      "text": "They're tough...",
+      "status": "imported"
+    },
+    "voice_210:r_be661448b85d0009": {
+      "text": "Getter's being pushed back...?!",
+      "status": "imported"
+    },
+    "voice_210:r_958a56c1151cab9e": {
+      "text": "Did that hit us head-on...?!",
+      "status": "imported"
+    },
+    "voice_210:r_8b18aa4cc69547df": {
+      "text": "You...! How dare you do that!",
+      "status": "imported"
+    },
+    "voice_210:r_3e87f6fc3ea65aef": {
+      "text": "This one...! They're strong!",
+      "status": "imported"
+    },
+    "voice_210:r_5508a7bfa9074eb9": {
+      "text": "Right. We can't drop our guard...!",
+      "status": "imported"
+    },
+    "voice_210:r_09a003e91f0d5dc7": {
+      "text": "Even Getter... Next time...!",
+      "status": "imported"
+    },
+    "voice_210:r_192447448ebd7bb5": {
+      "text": "I feel it, Getter...!\\nYour pain...!",
+      "status": "imported"
+    },
+    "voice_210:r_e92920ba4b301b9f": {
+      "text": "I won't quit...!\\nTo the very end!",
+      "status": "imported"
+    },
+    "voice_210:r_207b256d613bb896": {
+      "text": "Yeah, we can still fight...!",
+      "status": "imported"
+    },
+    "voice_210:r_a6fd676d8146501b": {
+      "text": "Whoa!\\nAt this rate, we're done for!",
+      "status": "imported"
+    },
+    "voice_210:r_94d35e5fa8e3a198": {
+      "text": "Don't quit!\\nThere's still a chance!",
+      "status": "imported"
+    },
+    "voice_210:r_b686510e636673f3": {
+      "text": "Sorry, Getter...!",
+      "status": "imported"
+    },
+    "voice_210:r_59369bad143d4272": {
+      "text": "Kei, Gai...! At least you two...!",
+      "status": "imported"
+    },
+    "voice_210:r_25f9b1e39dd8d366": {
+      "text": "So this is the end...",
+      "status": "imported"
+    },
+    "voice_210:r_307477bedd148060": {
+      "text": "I...",
+      "status": "imported"
+    },
+    "voice_210:r_09a780acca0eb4b0": {
+      "text": "I... believe you'll come back...",
+      "status": "imported"
+    },
+    "voice_210:r_af62f2ee466b5c8c": {
+      "text": "Understood...",
+      "status": "imported"
+    },
+    "voice_210:r_20cfb719db02fafd": {
+      "text": "Invaders bring endless doom to Earth",
+      "status": "imported"
+    },
+    "voice_210:r_570c1fdf72edb283": {
+      "text": "Can they reclaim tomorrow?! Z3 next!",
+      "status": "imported"
+    },
+    "voice_210:r_23f0d87a5a6cfca1": {
+      "text": "Can they reclaim tomorrow?!",
+      "status": "imported"
+    },
+    "voice_210:r_60c94ea4eb7f7404": {
+      "text": "Z3: Purgatory! Endless War! Watch!",
+      "status": "imported"
+    },
+    "voice_210:r_79e0d542fe12bcf7": {
+      "text": "Drill Missile! Pierce right through!",
+      "status": "imported"
+    },
+    "voice_210:r_eff747ba39a55393": {
+      "text": "Finishing bloooooow!",
+      "status": "imported"
+    },
+    "voice_210:r_b2dc77aa6dd77e69": {
+      "text": "Change, Getter 1!",
+      "status": "imported"
+    },
+    "voice_210:r_445d40d8b5d7092b": {
+      "text": "You're persistent, Invader!",
+      "status": "imported"
+    },
+    "voice_210:r_bbb633cb5e8e6daf": {
+      "text": "Plasma Drill! Hurricane!",
+      "status": "imported"
+    },
+    "voice_210:r_0abd8b6c713ccdac": {
+      "text": "Change, Getter 2!",
+      "status": "imported"
+    },
+    "voice_210:r_f4ff463b2fda1b86": {
+      "text": "I'll crush you, Invader!",
+      "status": "imported"
+    },
+    "voice_210:r_4e63c037d3cb8a3d": {
+      "text": "Daisetsuzan Oroshiiiiii!!",
+      "status": "imported"
+    },
+    "voice_210:r_9ca8d188ae805e3a": {
+      "text": "Change, Getter 3!",
+      "status": "imported"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ui.menu_followup:r_a209ef038897b8a1": {
+      "text": "Select the parts to sell.",
+      "status": "imported"
+    },
+    "ui.menu_followup:r_ff8a431ff23e80a8": {
+      "text": "Select the quantity to sell.",
+      "status": "imported"
+    },
+    "ui.menu_followup:r_a0c4b4f4f7276f95": {
+      "text": "Select the parts to carry over.",
+      "status": "imported"
+    },
+    "ui.menu_followup:r_02fa8ef00aabcdd5": {
+      "text": "Select the quantity to carry over.",
+      "status": "imported"
+    }
+  }
+}

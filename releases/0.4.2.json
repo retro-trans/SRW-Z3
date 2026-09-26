@@ -1,0 +1,54 @@
+{
+ "version": "0.4.2",
+ "note": "COMMAND menu, screen labels, spirits/skills/abilities, terrain words",
+ "files": {
+  "AIDDATAPACK.CPK": {
+   "bytes": 10382500,
+   "sha1": "7596814e493b1470bd4a1850ed5cd6a04db7d05d"
+  },
+  "EBOOT.BIN": {
+   "bytes": 8847360,
+   "sha1": "25daef85c01cccdba431be8b63f3472fc013289f"
+  },
+  "MTV_ALL_KEYWORD_DEF.CPK": {
+   "bytes": 180995,
+   "sha1": "3e7f157c21418882494d9345dd769a813997efb1"
+  },
+  "MTZKN_KW.CPK": {
+   "bytes": 317225,
+   "sha1": "04aa401624c61eddf1052e44726408019f216b13"
+  },
+  "MTZKN_PT.CPK": {
+   "bytes": 1277958,
+   "sha1": "ee2b5b63cc6143e9de63c41116f8e678332ee3d0"
+  },
+  "MTZKN_RT.CPK": {
+   "bytes": 728702,
+   "sha1": "56e243efd9246226077fa12fbc9ad419b978664c"
+  },
+  "RPW_DATA.CPK": {
+   "bytes": 539388,
+   "sha1": "7d22ad431769a98b6d6d90fe32a3176e1b8af064"
+  },
+  "SRVC.BIN": {
+   "bytes": 2192672,
+   "sha1": "1ae43179b0a264e474291a6ee4625d47ea395929"
+  },
+  "STG0001A.SDAT": {
+   "bytes": 34128,
+   "sha1": "0fe02fc554014ecf2f9f247cda7f9eb96b781f28"
+  },
+  "STG0001B.SDAT": {
+   "bytes": 96608,
+   "sha1": "21023f113a2b3107de86983ec5bfacb71f84e16a"
+  },
+  "STG0002.SDAT": {
+   "bytes": 173120,
+   "sha1": "2f03950ca969b7f2f1bca3f29bbd45277d2d8b50"
+  },
+  "TPACKPS3.CPK": {
+   "bytes": 27024984,
+   "sha1": "9f06d538cc32bdcc834dfc6a3599aa9b0fc77f77"
+  }
+ }
+}

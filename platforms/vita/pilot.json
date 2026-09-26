@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "platform": "vita",
+  "title_id": "PCSG00264",
+  "app_version": "01.00",
+  "status": "opening_stage_install_zip_built_runtime_unverified",
+  "members": [
+    {"archive": "DATA/STAGE/STG0001a.cpk", "candidate_member_id": 4, "translation": "translation/stage0001a.json"},
+    {"archive": "DATA/STAGE/STG0001b.cpk", "candidate_member_id": 3, "translation": "translation/stage0001b_03.json"},
+    {"archive": "DATA/STAGE/STG0001b.cpk", "candidate_member_id": 4, "translation": "translation/stage0001b_04.json"}
+  ]
+}

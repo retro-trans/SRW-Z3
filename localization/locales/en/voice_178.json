@@ -1,0 +1,442 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_178:r_479b340ccc6c572b": {
+      "text": "Now!",
+      "status": "imported"
+    },
+    "voice_178:r_77949221bf58f862": {
+      "text": "There!",
+      "status": "imported"
+    },
+    "voice_178:r_70b9c4b9f1f37eff": {
+      "text": "Begone!",
+      "status": "imported"
+    },
+    "voice_178:r_9fcb3754cb1773c7": {
+      "text": "Fall!",
+      "status": "imported"
+    },
+    "voice_178:r_3559d2fad32c2435": {
+      "text": "Initiating attack.",
+      "status": "imported"
+    },
+    "voice_178:r_f7570547e9f80a64": {
+      "text": "Destroying target.",
+      "status": "imported"
+    },
+    "voice_178:r_cbab0f4720e1fcf1": {
+      "text": "Shooting target down.",
+      "status": "imported"
+    },
+    "voice_178:r_0bbe0b4f5364e732": {
+      "text": "I'll knock you out of the sky!",
+      "status": "imported"
+    },
+    "voice_178:r_5dda5198137cb02a": {
+      "text": "Commence attack!",
+      "status": "imported"
+    },
+    "voice_178:r_83ec59afbecdec14": {
+      "text": "Target acquired.",
+      "status": "imported"
+    },
+    "voice_178:r_e20bfd42ad95a3c9": {
+      "text": "Enemy unit detected.",
+      "status": "imported"
+    },
+    "voice_178:r_0f58a8822381e57f": {
+      "text": "Eliminate all enemies.",
+      "status": "imported"
+    },
+    "voice_178:r_6dbcc507fb61b51d": {
+      "text": "Just as planned.",
+      "status": "imported"
+    },
+    "voice_178:r_b42ab697149a7c8a": {
+      "text": "Carrying out the operation.",
+      "status": "imported"
+    },
+    "voice_178:r_4de4fcf3b440baf4": {
+      "text": "For the Space Demon King!",
+      "status": "imported"
+    },
+    "voice_178:r_0121a166c715cdff": {
+      "text": "As the Space Demon King commands!",
+      "status": "imported"
+    },
+    "voice_178:r_30fad37a42bd3ad3": {
+      "text": "Target: Tetsujin No. 28.",
+      "status": "imported"
+    },
+    "voice_178:r_80a0b2a84e05d81a": {
+      "text": "Tetsujin No. 28 is our enemy.",
+      "status": "imported"
+    },
+    "voice_178:r_4a9ac1dff86506d9": {
+      "text": "Destroy Black Ox!",
+      "status": "imported"
+    },
+    "voice_178:r_bc8538e6af3d2577": {
+      "text": "Mars cannot be allowed to survive!",
+      "status": "imported"
+    },
+    "voice_178:r_924516c8de2b5342": {
+      "text": "Earth's Super Robots are dangerous!",
+      "status": "imported"
+    },
+    "voice_178:r_da1174533722333f": {
+      "text": "Destroy every Super Robot!",
+      "status": "imported"
+    },
+    "voice_178:r_fdeb8162976e72c1": {
+      "text": "Attack target: Mobile Suit.",
+      "status": "imported"
+    },
+    "voice_178:r_0fadb5c26df92b42": {
+      "text": "Attack target: Gundam.",
+      "status": "imported"
+    },
+    "voice_178:r_6b15af9a0057cdc8": {
+      "text": "Attack target: Variable Fighter.",
+      "status": "imported"
+    },
+    "voice_178:r_15b4a90140e8a33a": {
+      "text": "Attack target: AT.",
+      "status": "imported"
+    },
+    "voice_178:r_af884a6b11dff121": {
+      "text": "Attack target: AS.",
+      "status": "imported"
+    },
+    "voice_178:r_ac6fe7838e95647b": {
+      "text": "Attack target: KMF.",
+      "status": "imported"
+    },
+    "voice_178:r_77ca87eacd17ad52": {
+      "text": "Attack target: android.",
+      "status": "imported"
+    },
+    "voice_178:r_bf3244994760e535": {
+      "text": "Attack target: enemy battleship.",
+      "status": "imported"
+    },
+    "voice_178:r_aabfb21c9d069ce7": {
+      "text": "Attempt to capture Prince Gura!",
+      "status": "imported"
+    },
+    "voice_178:r_02479dc8fe989560": {
+      "text": "Erase Gura King Jr.!",
+      "status": "imported"
+    },
+    "voice_178:r_847f82e7f3eef651": {
+      "text": "Commence counterattack!",
+      "status": "imported"
+    },
+    "voice_178:r_eb7ae28b53dc033c": {
+      "text": "You won't escape!",
+      "status": "imported"
+    },
+    "voice_178:r_857c4a52ce8df0fd": {
+      "text": "Initiating countermeasures.",
+      "status": "imported"
+    },
+    "voice_178:r_55417493fce1d347": {
+      "text": "Commencing counterattack.",
+      "status": "imported"
+    },
+    "voice_178:r_8fdf5910927c9591": {
+      "text": "Counterattacking immediately.",
+      "status": "imported"
+    },
+    "voice_178:r_7d724dbcc4451e10": {
+      "text": "I'll shoot you down before you flee!",
+      "status": "imported"
+    },
+    "voice_178:r_93e25418a203cb8f": {
+      "text": "Preventing the enemy's escape.",
+      "status": "imported"
+    },
+    "voice_178:r_adeb0a29274d3d9b": {
+      "text": "Enemy unit remains within range.",
+      "status": "imported"
+    },
+    "voice_178:r_24cf161287ef9d5c": {
+      "text": "Moving in to provide support.",
+      "status": "imported"
+    },
+    "voice_178:r_8f60f6fc86db3107": {
+      "text": "Attacking in coordination.",
+      "status": "imported"
+    },
+    "voice_178:r_b1de76a75a253c13": {
+      "text": "Launching another attack.",
+      "status": "imported"
+    },
+    "voice_178:r_128c35bf3e0e394c": {
+      "text": "Attack chance! Attack chance!",
+      "status": "imported"
+    },
+    "voice_178:r_5213c17e13b23de0": {
+      "text": "Combat disabled! Combat disabled!",
+      "status": "imported"
+    },
+    "voice_178:r_38fdff9483e9245c": {
+      "text": "Retreat! Retreat! Aaaagh!",
+      "status": "imported"
+    },
+    "voice_178:r_620fedec67706d7d": {
+      "text": "Can't operate! Retreat at once!",
+      "status": "imported"
+    },
+    "voice_178:r_9680dcd0fddcfcc7": {
+      "text": "No control! This unit will explode!",
+      "status": "imported"
+    },
+    "voice_178:r_2a00f1044ad5cbaa": {
+      "text": "Damage over limit! Controls lost!",
+      "status": "imported"
+    },
+    "voice_178:r_3dbeead1bd3164ef": {
+      "text": "Power core runaway! Abandon unit!",
+      "status": "imported"
+    },
+    "voice_178:r_98d15b8cc09bc915": {
+      "text": "Tetsujin No. 28 is fearsome...!",
+      "status": "imported"
+    },
+    "voice_178:r_46e86d000250e137": {
+      "text": "Warning! Black Ox is dangerous!",
+      "status": "imported"
+    },
+    "voice_178:r_ac341e7976e88f0b": {
+      "text": "Mars's psychic power can't be read!",
+      "status": "imported"
+    },
+    "voice_178:r_cdbd128a5b4127cc": {
+      "text": "Earth robot attack power unreadable!",
+      "status": "imported"
+    },
+    "voice_178:r_cfccaa1fbeda124c": {
+      "text": "Critical damage! Critical damage!",
+      "status": "imported"
+    },
+    "voice_178:r_b1f8ec192b9c083a": {
+      "text": "Direct core hit! Direct core hit!",
+      "status": "imported"
+    },
+    "voice_178:r_a007f9ab9cf048b3": {
+      "text": "Severe damage! Request plan change!",
+      "status": "imported"
+    },
+    "voice_178:r_ddafde4b065ced49": {
+      "text": "Request plan change! Order retreat!",
+      "status": "imported"
+    },
+    "voice_178:r_de1213040856c089": {
+      "text": "Systems damaged! At this rate...!",
+      "status": "imported"
+    },
+    "voice_178:r_3304412ac41f47a6": {
+      "text": "Output falling! Operations impaired!",
+      "status": "imported"
+    },
+    "voice_178:r_0c0775e051211840": {
+      "text": "Damage has reached critical levels!",
+      "status": "imported"
+    },
+    "voice_178:r_a2afffe1c396f0b3": {
+      "text": "We'll be shot down before long!",
+      "status": "imported"
+    },
+    "voice_178:r_13c25fbdfddc8a24": {
+      "text": "Review tactics!\\nMaybe self-destruct!",
+      "status": "imported"
+    },
+    "voice_178:r_42ba1ecb310b4bd7": {
+      "text": "Damage detected.",
+      "status": "imported"
+    },
+    "voice_178:r_d692f1d420460a47": {
+      "text": "Direct hit sustained.",
+      "status": "imported"
+    },
+    "voice_178:r_a5643cec86b18bd2": {
+      "text": "Moderate damage. Can keep fighting.",
+      "status": "imported"
+    },
+    "voice_178:r_68f2dfab20a4a30e": {
+      "text": "Armor damaged. Internal damage too.",
+      "status": "imported"
+    },
+    "voice_178:r_9cedad8237480563": {
+      "text": "Enemy attack cannot be analyzed.",
+      "status": "imported"
+    },
+    "voice_178:r_a03fabecba1508ca": {
+      "text": "Operational performance affected.",
+      "status": "imported"
+    },
+    "voice_178:r_5391b24a71eb10ae": {
+      "text": "Reassessing evasion pattern.",
+      "status": "imported"
+    },
+    "voice_178:r_a554ceef5c87b972": {
+      "text": "Reanalyzing enemy attack pattern.",
+      "status": "imported"
+    },
+    "voice_178:r_546c3d5937fbb7ee": {
+      "text": "Requesting tactical pattern review.",
+      "status": "imported"
+    },
+    "voice_178:r_84c116267b79f540": {
+      "text": "Tetsujin No. 28's attack predicted.",
+      "status": "imported"
+    },
+    "voice_178:r_dad38ee29af2df3a": {
+      "text": "Remove Black Ox from threat list.",
+      "status": "imported"
+    },
+    "voice_178:r_3d32e86f8dc80909": {
+      "text": "Downgrading Mars's data.",
+      "status": "imported"
+    },
+    "voice_178:r_70451ffbabe2f876": {
+      "text": "Earth robot data analysis complete.",
+      "status": "imported"
+    },
+    "voice_178:r_69dfa1659715e2fa": {
+      "text": "Minor damage.",
+      "status": "imported"
+    },
+    "voice_178:r_d996fd6d4ef5b329": {
+      "text": "Some armor damaged.",
+      "status": "imported"
+    },
+    "voice_178:r_8ab47a28f99ef565": {
+      "text": "Light damage. Combat can continue.",
+      "status": "imported"
+    },
+    "voice_178:r_546de3fb6db156ea": {
+      "text": "No impact on combat operations.",
+      "status": "imported"
+    },
+    "voice_178:r_ca85f87cee5e31f7": {
+      "text": "Enemy intimidation ineffective.",
+      "status": "imported"
+    },
+    "voice_178:r_9072ea7bc71df136": {
+      "text": "No interference with operations.",
+      "status": "imported"
+    },
+    "voice_178:r_04e815a8d425827d": {
+      "text": "Stop this futile resistance!",
+      "status": "imported"
+    },
+    "voice_178:r_d89011fe3e5d082a": {
+      "text": "That attack has no effect.",
+      "status": "imported"
+    },
+    "voice_178:r_3c5b0c2ac812d5de": {
+      "text": "It seems you're all show.",
+      "status": "imported"
+    },
+    "voice_178:r_5b9e8897190892eb": {
+      "text": "Evasion successful.",
+      "status": "imported"
+    },
+    "voice_178:r_7bea3023abbf8a94": {
+      "text": "Enemy unit's attack failed.",
+      "status": "imported"
+    },
+    "voice_178:r_dd01a4c0d1b36a8d": {
+      "text": "We sustained zero damage.",
+      "status": "imported"
+    },
+    "voice_178:r_20920ad2eb3542db": {
+      "text": "No flaws in the evasion pattern.",
+      "status": "imported"
+    },
+    "voice_178:r_0ab7914877fd48ed": {
+      "text": "Attack pattern already analyzed.",
+      "status": "imported"
+    },
+    "voice_178:r_cb846feec748c2e3": {
+      "text": "Proceeding to next action.",
+      "status": "imported"
+    },
+    "voice_178:r_6825fd1ff907bd22": {
+      "text": "Attack successfully nullified.",
+      "status": "imported"
+    },
+    "voice_178:r_607f666f1563bc0d": {
+      "text": "Barrier activated.",
+      "status": "imported"
+    },
+    "voice_178:r_132f605d02975e71": {
+      "text": "Unable to counterattack.",
+      "status": "imported"
+    },
+    "voice_178:r_9b9726b1872759d6": {
+      "text": "Requesting a change of plan.",
+      "status": "imported"
+    },
+    "voice_178:r_1252db29683fefe0": {
+      "text": "Lost track of enemy unit.",
+      "status": "imported"
+    },
+    "voice_178:r_ad3d538f1e909184": {
+      "text": "Attack target is outside our range.",
+      "status": "imported"
+    },
+    "voice_178:r_8c61c59a1c0aebbf": {
+      "text": "Our weapons can't counter that unit.",
+      "status": "imported"
+    },
+    "voice_178:r_aba6a7662129d8ce": {
+      "text": "Energy reserves nearly depleted.",
+      "status": "imported"
+    },
+    "voice_178:r_b84afafb8a33ec60": {
+      "text": "Moving this unit to the front.",
+      "status": "imported"
+    },
+    "voice_178:r_c8c59db85bf875e6": {
+      "text": "We'll block the attack.",
+      "status": "imported"
+    },
+    "voice_178:r_391aa56435d9dd6e": {
+      "text": "Concentrating fire.",
+      "status": "imported"
+    },
+    "voice_178:r_7c796ba53bd7ea03": {
+      "text": "We'll hold them off.",
+      "status": "imported"
+    },
+    "voice_178:r_fa944da4b6519006": {
+      "text": "We'll attack first.",
+      "status": "imported"
+    },
+    "voice_178:r_95d047bcc17fccc6": {
+      "text": "Assisting the attack.",
+      "status": "imported"
+    },
+    "voice_178:r_640327a12a559b31": {
+      "text": "Target acknowledged.",
+      "status": "imported"
+    },
+    "voice_178:r_bdd38c584fa313d0": {
+      "text": "Target confirmed.",
+      "status": "imported"
+    },
+    "voice_178:r_3fd86c1027f317c8": {
+      "text": "Destroy enemies one by one.",
+      "status": "imported"
+    },
+    "voice_178:r_d0372a183d2007ad": {
+      "text": "We're holding the line as well.",
+      "status": "imported"
+    }
+  }
+}

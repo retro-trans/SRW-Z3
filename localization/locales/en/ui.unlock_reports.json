@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ui.unlock_reports:r_d76261811e4fff23": {
+      "text": "Completed: Clear Stage 4",
+      "status": "imported"
+    },
+    "ui.unlock_reports:r_31906a70be92473c": {
+      "text": "Completed: An ally's HP fell to 20% or below.",
+      "status": "imported"
+    },
+    "ui.unlock_reports:r_002540f3e595b95e": {
+      "text": "Unlocked ",
+      "status": "translated"
+    }
+  }
+}

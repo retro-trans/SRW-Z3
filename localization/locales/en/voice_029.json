@@ -1,0 +1,658 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_029:r_479b340ccc6c572b": {
+      "text": "I grace the Colonel's battlefield!",
+      "status": "imported"
+    },
+    "voice_029:r_ca4acbac57a2a35e": {
+      "text": "I'll clear the Colonel's path!",
+      "status": "imported"
+    },
+    "voice_029:r_77949221bf58f862": {
+      "text": "Behold the Personal Guard's pride!",
+      "status": "imported"
+    },
+    "voice_029:r_70b9c4b9f1f37eff": {
+      "text": "Witness the Personal Guard's might!",
+      "status": "imported"
+    },
+    "voice_029:r_9fcb3754cb1773c7": {
+      "text": "Fall!",
+      "status": "imported"
+    },
+    "voice_029:r_3559d2fad32c2435": {
+      "text": "Vanish!",
+      "status": "imported"
+    },
+    "voice_029:r_f7570547e9f80a64": {
+      "text": "Out of my way!",
+      "status": "imported"
+    },
+    "voice_029:r_cbab0f4720e1fcf1": {
+      "text": "You're an eyesore!",
+      "status": "imported"
+    },
+    "voice_029:r_0bbe0b4f5364e732": {
+      "text": "I'll finish you in one strike!",
+      "status": "imported"
+    },
+    "voice_029:r_5dda5198137cb02a": {
+      "text": "Repent in the afterlife!",
+      "status": "imported"
+    },
+    "voice_029:r_83ec59afbecdec14": {
+      "text": "That position's in my way!",
+      "status": "imported"
+    },
+    "voice_029:r_e20bfd42ad95a3c9": {
+      "text": "Come on, try to dodge this!",
+      "status": "imported"
+    },
+    "voice_029:r_0f58a8822381e57f": {
+      "text": "Dance, and disgrace yourself!",
+      "status": "imported"
+    },
+    "voice_029:r_6dbcc507fb61b51d": {
+      "text": "This is a Personal Guard battle!",
+      "status": "imported"
+    },
+    "voice_029:r_b42ab697149a7c8a": {
+      "text": "Everything for the Colonel!",
+      "status": "imported"
+    },
+    "voice_029:r_4de4fcf3b440baf4": {
+      "text": "A worm like you is no match for me!",
+      "status": "imported"
+    },
+    "voice_029:r_0121a166c715cdff": {
+      "text": "Locked on... Die!",
+      "status": "imported"
+    },
+    "voice_029:r_30fad37a42bd3ad3": {
+      "text": "You'd make a fine target!",
+      "status": "imported"
+    },
+    "voice_029:r_80a0b2a84e05d81a": {
+      "text": "I've had you in my sights for ages!",
+      "status": "imported"
+    },
+    "voice_029:r_4a9ac1dff86506d9": {
+      "text": "Don't expect me to miss!",
+      "status": "imported"
+    },
+    "voice_029:r_bc8538e6af3d2577": {
+      "text": "I'll slice you apart!",
+      "status": "imported"
+    },
+    "voice_029:r_924516c8de2b5342": {
+      "text": "Tch! Close-quarters combat?!",
+      "status": "imported"
+    },
+    "voice_029:r_da1174533722333f": {
+      "text": "Near or far, it doesn't matter!",
+      "status": "imported"
+    },
+    "voice_029:r_fdeb8162976e72c1": {
+      "text": "Your guard's wide open!",
+      "status": "imported"
+    },
+    "voice_029:r_0fadb5c26df92b42": {
+      "text": "This ends now!",
+      "status": "imported"
+    },
+    "voice_029:r_6b15af9a0057cdc8": {
+      "text": "Vanish!",
+      "status": "imported"
+    },
+    "voice_029:r_15b4a90140e8a33a": {
+      "text": "Time to say goodbye!",
+      "status": "imported"
+    },
+    "voice_029:r_af884a6b11dff121": {
+      "text": "Hahahahaha! Flee, you small fry!",
+      "status": "imported"
+    },
+    "voice_029:r_ac6fe7838e95647b": {
+      "text": "Not even close!",
+      "status": "imported"
+    },
+    "voice_029:r_77ca87eacd17ad52": {
+      "text": "I'll pound you into the ground!",
+      "status": "imported"
+    },
+    "voice_029:r_bf3244994760e535": {
+      "text": "Gundam! You'll be my target!",
+      "status": "imported"
+    },
+    "voice_029:r_aabfb21c9d069ce7": {
+      "text": "You're an eyesore, Gundam!",
+      "status": "imported"
+    },
+    "voice_029:r_02479dc8fe989560": {
+      "text": "A Gundam...! You'll do nicely!",
+      "status": "imported"
+    },
+    "voice_029:r_a2df00f91a9b0a9e": {
+      "text": "A Celestial Being Gundam...!",
+      "status": "imported"
+    },
+    "voice_029:r_48b60d6c48b9b142": {
+      "text": "A colony Gundam helps the Feds?!",
+      "status": "imported"
+    },
+    "voice_029:r_665f01666859013b": {
+      "text": "So, a fake Gundam has appeared!",
+      "status": "imported"
+    },
+    "voice_029:r_a571eec59b258d11": {
+      "text": "Hand over Laplace's Box!",
+      "status": "imported"
+    },
+    "voice_029:r_ddbe581c5ea9183d": {
+      "text": "You'll work for the Colonel too...!",
+      "status": "imported"
+    },
+    "voice_029:r_faae935cca0edc72": {
+      "text": "Answer for insulting the Colonel!",
+      "status": "imported"
+    },
+    "voice_029:r_d4430bf362340b32": {
+      "text": "A worm like you is the Box's key?!",
+      "status": "imported"
+    },
+    "voice_029:r_6ff1323b355593e0": {
+      "text": "What in the world is this thing...?!",
+      "status": "imported"
+    },
+    "voice_029:r_b7b5625d7cd4282f": {
+      "text": "You monster...!",
+      "status": "imported"
+    },
+    "voice_029:r_36133ad73a73ef98": {
+      "text": "Small fry like you, hunting me?!",
+      "status": "imported"
+    },
+    "voice_029:r_920740a0219c5085": {
+      "text": "Londo Bell's ace?!\\nA worthy foe!",
+      "status": "imported"
+    },
+    "voice_029:r_a8451712c57c1a72": {
+      "text": "Amuro Ray!\\nZeon's very devil!",
+      "status": "imported"
+    },
+    "voice_029:r_3633df5b7b8f47fa": {
+      "text": "Londo Bell is no match for me!",
+      "status": "imported"
+    },
+    "voice_029:r_52dfc56b14b93551": {
+      "text": "Die in disgrace, Federation dogs!",
+      "status": "imported"
+    },
+    "voice_029:r_1b9b2aab5cb104da": {
+      "text": "You'll receive a traitor's due!",
+      "status": "imported"
+    },
+    "voice_029:r_cf41e8828a90cbdb": {
+      "text": "The Colonel alone is the Red Comet!",
+      "status": "imported"
+    },
+    "voice_029:r_719e897304ec42d4": {
+      "text": "The Commander told me about you!",
+      "status": "imported"
+    },
+    "voice_029:r_ec2ea17765052401": {
+      "text": "You, a Newtype?\\nIs that your claim?!",
+      "status": "imported"
+    },
+    "voice_029:r_f2d4255f1c2f7542": {
+      "text": "A Newtype betraying\\nSpacenoids...!",
+      "status": "imported"
+    },
+    "voice_029:r_5d08ad19e2da125b": {
+      "text": "A blockhead who relies on power...!",
+      "status": "imported"
+    },
+    "voice_029:r_a7246b52782a877e": {
+      "text": "Just a one-off toy, after all...!",
+      "status": "imported"
+    },
+    "voice_029:r_dc8701f6bcb9904f": {
+      "text": "Stop buzzing around me!",
+      "status": "imported"
+    },
+    "voice_029:r_d6bdd730f24f66eb": {
+      "text": "An AT is no threat to me!",
+      "status": "imported"
+    },
+    "voice_029:r_41997412868c48c4": {
+      "text": "Black Knights' day\\nis long over!",
+      "status": "imported"
+    },
+    "voice_029:r_9e6cf4f389dae55c": {
+      "text": "Take out the leader - a rule of war!",
+      "status": "imported"
+    },
+    "voice_029:r_9e0c80ac7e33b459": {
+      "text": "No home,\\nno will to resist!",
+      "status": "imported"
+    },
+    "voice_029:r_7432ef43ed3471dc": {
+      "text": "A fine voice, but this is your end!",
+      "status": "imported"
+    },
+    "voice_029:r_065443f6ddfcf0d7": {
+      "text": "A drill? In a place like this...?!",
+      "status": "imported"
+    },
+    "voice_029:r_5391b24a71eb10ae": {
+      "text": "Pay for getting in my way!",
+      "status": "imported"
+    },
+    "voice_029:r_a554ceef5c87b972": {
+      "text": "You think I'll let you escape?!",
+      "status": "imported"
+    },
+    "voice_029:r_546c3d5937fbb7ee": {
+      "text": "Too slow to disengage!",
+      "status": "imported"
+    },
+    "voice_029:r_1568ff6298b12b96": {
+      "text": "Now I don't have to search!",
+      "status": "imported"
+    },
+    "voice_029:r_2c9d94ba13c5fc50": {
+      "text": "Pay for defying the Personal Guard!",
+      "status": "imported"
+    },
+    "voice_029:r_a77f4913375098d2": {
+      "text": "Don't say you forgot\\nI'd counter!",
+      "status": "imported"
+    },
+    "voice_029:r_428c2116ac3071b1": {
+      "text": "Now you'll take my attack too!",
+      "status": "imported"
+    },
+    "voice_029:r_84c116267b79f540": {
+      "text": "I won't only attack from the front!",
+      "status": "imported"
+    },
+    "voice_029:r_dad38ee29af2df3a": {
+      "text": "Work worthy of the Personal Guard!",
+      "status": "imported"
+    },
+    "voice_029:r_3d32e86f8dc80909": {
+      "text": "Colonel! I'll take it from here!",
+      "status": "imported"
+    },
+    "voice_029:r_70451ffbabe2f876": {
+      "text": "You dare take the Colonel's blow?!",
+      "status": "imported"
+    },
+    "voice_029:r_69dfa1659715e2fa": {
+      "text": "Garencieres scum,\\nI expect nothing!",
+      "status": "imported"
+    },
+    "voice_029:r_d996fd6d4ef5b329": {
+      "text": "I'll follow the Commander here!",
+      "status": "imported"
+    },
+    "voice_029:r_8ab47a28f99ef565": {
+      "text": "Gyunei Guss!\\nThis is how to attack!",
+      "status": "imported"
+    },
+    "voice_029:r_546de3fb6db156ea": {
+      "text": "You're in my way, little girl!",
+      "status": "imported"
+    },
+    "voice_029:r_ca85f87cee5e31f7": {
+      "text": "I won't let you!",
+      "status": "imported"
+    },
+    "voice_029:r_9072ea7bc71df136": {
+      "text": "Your opponent is me!",
+      "status": "imported"
+    },
+    "voice_029:r_04e815a8d425827d": {
+      "text": "You disgrace the Personal Guard!",
+      "status": "imported"
+    },
+    "voice_029:r_d89011fe3e5d082a": {
+      "text": "How dare you attack the Colonel!",
+      "status": "imported"
+    },
+    "voice_029:r_3c5b0c2ac812d5de": {
+      "text": "I won't let you touch the Colonel!",
+      "status": "imported"
+    },
+    "voice_029:r_5b9e8897190892eb": {
+      "text": "What're you doing!\\nGarencieres scum!",
+      "status": "imported"
+    },
+    "voice_029:r_7bea3023abbf8a94": {
+      "text": "Commander, withdraw!",
+      "status": "imported"
+    },
+    "voice_029:r_dd01a4c0d1b36a8d": {
+      "text": "Just as weak as ever, Gyunei Guss!",
+      "status": "imported"
+    },
+    "voice_029:r_20920ad2eb3542db": {
+      "text": "Stay back, little girl!",
+      "status": "imported"
+    },
+    "voice_029:r_0ab7914877fd48ed": {
+      "text": "Damn! You're only good at running!",
+      "status": "imported"
+    },
+    "voice_029:r_cb846feec748c2e3": {
+      "text": "You dared slight me...? How vile!",
+      "status": "imported"
+    },
+    "voice_029:r_c958860b0676b1f5": {
+      "text": "Damn...! Did I stay too long...?",
+      "status": "imported"
+    },
+    "voice_029:r_5e2669b82ef75ce3": {
+      "text": "Think you saw through my range?!",
+      "status": "imported"
+    },
+    "voice_029:r_7847e0ed7dc9282d": {
+      "text": "Tch! They took a nasty position!",
+      "status": "imported"
+    },
+    "voice_029:r_e42b52c7a987b906": {
+      "text": "You thought you had me pinned down?",
+      "status": "imported"
+    },
+    "voice_029:r_6825fd1ff907bd22": {
+      "text": "Fast, isn't it? My Geara Zulu!",
+      "status": "imported"
+    },
+    "voice_029:r_607f666f1563bc0d": {
+      "text": "An attack like that won't hit me!",
+      "status": "imported"
+    },
+    "voice_029:r_97b7431eeb81e6b6": {
+      "text": "This much is child's play!",
+      "status": "imported"
+    },
+    "voice_029:r_132f605d02975e71": {
+      "text": "I see through everything you do!",
+      "status": "imported"
+    },
+    "voice_029:r_9b9726b1872759d6": {
+      "text": "Never scorn the Personal Guard!",
+      "status": "imported"
+    },
+    "voice_029:r_1252db29683fefe0": {
+      "text": "I lead the Guard.\\nThis is nothing!",
+      "status": "imported"
+    },
+    "voice_029:r_ad3d538f1e909184": {
+      "text": "I won't shame the Colonel's name!",
+      "status": "imported"
+    },
+    "voice_029:r_8c61c59a1c0aebbf": {
+      "text": "Just being a Gundam\\nwon't beat me!",
+      "status": "imported"
+    },
+    "voice_029:r_aba6a7662129d8ce": {
+      "text": "The legend of Gundam\\nends with me!",
+      "status": "imported"
+    },
+    "voice_029:r_b84afafb8a33ec60": {
+      "text": "Where's the Box? Talk!\\nThen vanish!",
+      "status": "imported"
+    },
+    "voice_029:r_c8c59db85bf875e6": {
+      "text": "Just an amateur! As I predicted!",
+      "status": "imported"
+    },
+    "voice_029:r_391aa56435d9dd6e": {
+      "text": "I can barely hold out...? Me?!",
+      "status": "imported"
+    },
+    "voice_029:r_7c796ba53bd7ea03": {
+      "text": "Londo Bell's ace can't match me!",
+      "status": "imported"
+    },
+    "voice_029:r_fa944da4b6519006": {
+      "text": "That's all, Newtype?!",
+      "status": "imported"
+    },
+    "voice_029:r_95d047bcc17fccc6": {
+      "text": "Spineless to the bone, traitor!",
+      "status": "imported"
+    },
+    "voice_029:r_bdd38c584fa313d0": {
+      "text": "And you call that\\nthe Red Comet?!",
+      "status": "imported"
+    },
+    "voice_029:r_3fd86c1027f317c8": {
+      "text": "Blockhead!\\nNothing but a showpiece!",
+      "status": "imported"
+    },
+    "voice_029:r_d0372a183d2007ad": {
+      "text": "All that flitting, and look at you!",
+      "status": "imported"
+    },
+    "voice_029:r_217aa5e1d545b44d": {
+      "text": "This is no place for small fry!",
+      "status": "imported"
+    },
+    "voice_029:r_26e5efec03c03d78": {
+      "text": "You thought that would work?!",
+      "status": "imported"
+    },
+    "voice_029:r_4ad81e88c7557a8b": {
+      "text": "Struggle all you like! It's futile!",
+      "status": "imported"
+    },
+    "voice_029:r_1f65a7af190e4674": {
+      "text": "I've got a barrier!",
+      "status": "imported"
+    },
+    "voice_029:r_cf7dbf49e96a5755": {
+      "text": "So I had to use my shield...!",
+      "status": "imported"
+    },
+    "voice_029:r_fa96676cc65bb509": {
+      "text": "You made me deploy my shield...!",
+      "status": "imported"
+    },
+    "voice_029:r_4e37f92e7d2fc62e": {
+      "text": "So, what's your point?",
+      "status": "imported"
+    },
+    "voice_029:r_66ab4cfe1557909d": {
+      "text": "You grazed me...!",
+      "status": "imported"
+    },
+    "voice_029:r_0bad405ee6ca63ba": {
+      "text": "Take pride in landing a hit on me!",
+      "status": "imported"
+    },
+    "voice_029:r_2072eaf71a260ae7": {
+      "text": "You're skilled at cheap tricks!",
+      "status": "imported"
+    },
+    "voice_029:r_6c13bbfd27a7799e": {
+      "text": "Taking the Personal Guard lightly?!",
+      "status": "imported"
+    },
+    "voice_029:r_06f88dcbd3c9e738": {
+      "text": "You'd mock the Personal Guard...?!",
+      "status": "imported"
+    },
+    "voice_029:r_b28faf9f71bc3598": {
+      "text": "I took such a simple attack...!",
+      "status": "imported"
+    },
+    "voice_029:r_8a29278549f8e07a": {
+      "text": "Tch!\\nI'm no Colonel, but still...!",
+      "status": "imported"
+    },
+    "voice_029:r_7e6c573c26177f98": {
+      "text": "A direct hit?! Damn you!",
+      "status": "imported"
+    },
+    "voice_029:r_45abf84f7757d6eb": {
+      "text": "Tch! Did I read too far ahead?!",
+      "status": "imported"
+    },
+    "voice_029:r_edd7a13ab8f06a14": {
+      "text": "Damn! I'll grant you're persistent!",
+      "status": "imported"
+    },
+    "voice_029:r_8165e5b41f0124c4": {
+      "text": "Don't think this makes you my equal!",
+      "status": "imported"
+    },
+    "voice_029:r_4e05581b7432cce8": {
+      "text": "No more.\\nHands off my machine...!",
+      "status": "imported"
+    },
+    "voice_029:r_a60b107ea3c36a86": {
+      "text": "You dare come at me...!",
+      "status": "imported"
+    },
+    "voice_029:r_e33693e5ba4665b0": {
+      "text": "Don't belittle the Personal Guard!",
+      "status": "imported"
+    },
+    "voice_029:r_72a21a1a489af001": {
+      "text": "Not yet! I can't betray his trust!",
+      "status": "imported"
+    },
+    "voice_029:r_eb643f8bf737a0ca": {
+      "text": "Tch!\\nA Gundam earns its name...!",
+      "status": "imported"
+    },
+    "voice_029:r_0a3fccb71ec6cf2a": {
+      "text": "Gundam! I won't lose to you!",
+      "status": "imported"
+    },
+    "voice_029:r_9b63cf1f3e0207ef": {
+      "text": "I held back for the Box's key...!",
+      "status": "imported"
+    },
+    "voice_029:r_8356f4e3dcdff938": {
+      "text": "An amateur did this to me...?!",
+      "status": "imported"
+    },
+    "voice_029:r_1d6d784036ae0bd7": {
+      "text": "You insulted both of us!\\nNever!",
+      "status": "imported"
+    },
+    "voice_029:r_625664af02183c17": {
+      "text": "You monster...! Enough is enough!",
+      "status": "imported"
+    },
+    "voice_029:r_3701cba361f80ea5": {
+      "text": "Th-this is Amuro Ray...?!",
+      "status": "imported"
+    },
+    "voice_029:r_63f429c5c68c0863": {
+      "text": "Londo Bell...!\\nNo easy foe!",
+      "status": "imported"
+    },
+    "voice_029:r_38e4a434c91d8ef0": {
+      "text": "So this is a Newtype...!\\nEven so!",
+      "status": "imported"
+    },
+    "voice_029:r_98ed411352a3a6ac": {
+      "text": "Won't lose!\\nLose to a traitor? No!",
+      "status": "imported"
+    },
+    "voice_029:r_862b92e63adb9734": {
+      "text": "You must fall...!\\nFor the Colonel!",
+      "status": "imported"
+    },
+    "voice_029:r_cb306ef55e49d107": {
+      "text": "Damn! So you're more than a name...!",
+      "status": "imported"
+    },
+    "voice_029:r_57b2bd2de8a1408d": {
+      "text": "You hollow fake!\\nYou mocked me...?!",
+      "status": "imported"
+    },
+    "voice_029:r_76f080a4881e8ab5": {
+      "text": "Cheap trick...!\\nI'll shoot you down!",
+      "status": "imported"
+    },
+    "voice_029:r_288133bc5b573dae": {
+      "text": "This small fry\\nis pushing me back?!",
+      "status": "imported"
+    },
+    "voice_029:r_2329428a6871d9fa": {
+      "text": "I may neither escape nor retreat...!",
+      "status": "imported"
+    },
+    "voice_029:r_0e7466971bec4cc4": {
+      "text": "My machine will not explode...!",
+      "status": "imported"
+    },
+    "voice_029:r_efa71f7a4cc33ff3": {
+      "text": "Forget damage!\\nI just need you down!",
+      "status": "imported"
+    },
+    "voice_029:r_3fc2e1186557e7a0": {
+      "text": "Damage is past 70 percent?!\\nHow?!",
+      "status": "imported"
+    },
+    "voice_029:r_fa6930340a545054": {
+      "text": "Impressive so far...!\\nBut I'll win!",
+      "status": "imported"
+    },
+    "voice_029:r_2332b9d56461d7ab": {
+      "text": "I can't shame the Personal Guard...!",
+      "status": "imported"
+    },
+    "voice_029:r_854aa0a91a3c80d1": {
+      "text": "The Guard won't lose...! Can't lose!",
+      "status": "imported"
+    },
+    "voice_029:r_0bc8ae32a406ceab": {
+      "text": "Colonel...! I promise you victory!",
+      "status": "imported"
+    },
+    "voice_029:r_82c09f011d703b2c": {
+      "text": "No...!\\nMe, a Personal Guard...?!",
+      "status": "imported"
+    },
+    "voice_029:r_2b4d8818c77b6dca": {
+      "text": "Damn it...! Daaaaamn it!!",
+      "status": "imported"
+    },
+    "voice_029:r_087354f2db0a31e6": {
+      "text": "Forgive me, Colonel...! I...!",
+      "status": "imported"
+    },
+    "voice_029:r_db02a2dec93dd263": {
+      "text": "Focus!",
+      "status": "imported"
+    },
+    "voice_029:r_d520c6d5298a848d": {
+      "text": "Only one target!",
+      "status": "imported"
+    },
+    "voice_029:r_099e2458cabf796f": {
+      "text": "I'll stop you cold - and for good!",
+      "status": "imported"
+    },
+    "voice_029:r_fd910d714be70870": {
+      "text": "I won't botch this!",
+      "status": "imported"
+    },
+    "voice_029:r_9736f29b11344ec3": {
+      "text": "Only one unit?!",
+      "status": "imported"
+    },
+    "voice_029:r_fcd05582aa5c6068": {
+      "text": "One-on-one, superior skill wins!",
+      "status": "imported"
+    }
+  }
+}

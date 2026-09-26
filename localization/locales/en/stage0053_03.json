@@ -1,0 +1,998 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0053_03:r_caaab7bad760e16d": {
+      "text": "A European-Style Town",
+      "status": "imported"
+    },
+    "stage0053_03:r_99b162aa6aa286a2": {
+      "text": "A European-Style Town",
+      "status": "imported"
+    },
+    "stage0053_03:r_58fb02434a1c40b2": {
+      "text": "A European-Style Town",
+      "status": "imported"
+    },
+    "stage0053_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　　\n　　　　　　～ Streets of $$バルエヨルズル$$ ～",
+      "status": "imported"
+    },
+    "stage0053_03:r_1263541f4071624e": {
+      "text": "$$トライア$$\n「...What's the situation?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_3bc300bbdc277d82": {
+      "text": "Researcher\n「Same as Case 3.\n　All the city's residents have symptoms.」",
+      "status": "imported"
+    },
+    "stage0053_03:r_38762a09460d8b6b": {
+      "text": "Citizen\n「Wh...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_7ab28e70b4d4f641": {
+      "text": "Citizen\n「...at's... hap...pen...ing...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_b05f6a6e8f3d9b24": {
+      "text": "Citizen\n「Wh...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_ec335e69f984b8b3": {
+      "text": "Citizen\n「...at... are... you... peo...ple...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_0abcaf0c31978670": {
+      "text": "$$トライア$$\n「...What's the reading?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_1d6bc48b7f246730": {
+      "text": "Researcher\n「The average is 48.3%.」",
+      "status": "imported"
+    },
+    "stage0053_03:r_1af20fccc3c53cfc": {
+      "text": "$$トライア$$\n「So they're 50% behind absolute time...\n　I thought the delay rate was 2.2%...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_f951916061232dcd": {
+      "text": "Researcher\n「Yes.\n　The time delay for $$バルエヨルズル$$'s\n　citizens is off the charts.」",
+      "status": "imported"
+    },
+    "stage0053_03:r_4d863c3fb88a4c39": {
+      "text": "$$トライア$$\n「Just like Case 1's Limonesia and Case 2's\n　Audis, this city's people are already\n　feeling the Prison of Time's effects...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_44f4742c3dcce39a": {
+      "text": "$$トライア$$\n（So it's the same as that kid...）",
+      "status": "imported"
+    },
+    "stage0053_03:r_9e701cdeb3842c21": {
+      "text": "Researcher\n「Why has this happened...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_6fd81f4abebe60c5": {
+      "text": "$$トライア$$\n「...It's probably the dimensional distortion.」",
+      "status": "imported"
+    },
+    "stage0053_03:r_da2132b5038ec737": {
+      "text": "Researcher\n「A distortion...?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_495d61d3ec7e16f2": {
+      "text": "$$トライア$$\n「A few factors overlapped, so this city\n　is likely feeling the $$新世時空震動$$'s effects」",
+      "status": "imported"
+    },
+    "stage0053_03:r_5cd353758cfe474d": {
+      "text": "$$トライア$$\n「So there's a gap in how time passes for us\n　versus them, and that's why we get this」",
+      "status": "imported"
+    },
+    "stage0053_03:r_a653c8dec4c0f06f": {
+      "text": "Researcher\n「I can't believe that could happen...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_86d493e37a9799a7": {
+      "text": "$$トライア$$\n「The locals wouldn't notice anything odd\n　among themselves, but to us unaffected\n　ones, they must look like we move at warp speed...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_09d0fcc600cdd3df": {
+      "text": "$$トライア$$\n「And if we stay in this area too long,\n　we'll end up affected too」",
+      "status": "imported"
+    },
+    "stage0053_03:r_182faded068c15ed": {
+      "text": "???\n「...That's right.\n　But no need to worry, though」",
+      "status": "imported"
+    },
+    "stage0053_03:r_9c206d19bfda4bd5": {
+      "text": "$$ガドライト$$\n「In three months, everyone in the world\n　gets cut off from absolute time for good anyway」",
+      "status": "imported"
+    },
+    "stage0053_03:r_6e558bc69acf5bf3": {
+      "text": "Researcher\n「Who are you...!?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_d60d0818e965232f": {
+      "text": "$$ガドライト$$\n「Not worth introducin' myself.」",
+      "status": "imported"
+    },
+    "stage0053_03:r_5b23687574286204": {
+      "text": "$$トライア$$\n「...So you're $$ガドライト・メオンサム$$?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_6fd86c96891ea942": {
+      "text": "$$ガドライト$$\n「Sharp, lady.\n　No surprise, from the foremost authority\n　in hyperspace physics, Dr. $$トライア・スコート$$」",
+      "status": "imported"
+    },
+    "stage0053_03:r_43e4e548c0b28376": {
+      "text": "$$ガドライト$$\n「Came to check how the dimensional cage\n　turned out, and ran into someone fun」",
+      "status": "imported"
+    },
+    "stage0053_03:r_d80a9688790ed583": {
+      "text": "$$トライア$$\n「...Here to finish me off, since I'm in your plan's way?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_708bea61e3c43ada": {
+      "text": "$$ガドライト$$\n「Hahahaha!\n　Now that's a good one!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_7b6f159eeaf4de0f": {
+      "text": "$$ガドライト$$\n「Don't get cocky, lady.\n　However hard you struggle, you lot can't\n　break the Prison of Time. No way」",
+      "status": "imported"
+    },
+    "stage0053_03:r_0827963cfd706e8d": {
+      "text": "$$トライア$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0053_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$ガドライト$$\n「Sorry, but I've got somewhere to be too.\n　I'll say my goodbyes here」",
+      "status": "imported"
+    },
+    "stage0053_03:r_3f4035fd9db81258": {
+      "text": "$$ガドライト$$\n「See ya, Doctor.\n　Good luck with all that」",
+      "status": "imported"
+    },
+    "stage0053_03:r_567b361a454c4b73": {
+      "text": "$$トライア$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0053_03:r_d22851aaafbbf8fc": {
+      "text": "Researcher\n「Chief...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_352534f64413d954": {
+      "text": "$$トライア$$\n「$$ガドライト・メオンサム$$...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_79f2664edb1af798": {
+      "text": "$$トライア$$\n「I'll make him regret looking down on me...\n　on all of humanity.」",
+      "status": "imported"
+    },
+    "stage0053_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$ドラゴンズハイヴ$$ Salon",
+      "status": "imported"
+    },
+    "stage0053_03:r_1c5aa0d15ae24846": {
+      "text": "$$ドラゴンズハイヴ$$ Salon",
+      "status": "imported"
+    },
+    "stage0053_03:r_53bb64ee17750ee2": {
+      "text": "$$ドラゴンズハイヴ$$ Salon",
+      "status": "imported"
+    },
+    "stage0053_03:r_7a7add80fde475ba": {
+      "text": "　\n　　\n　　　　　　　　～ $$ドラゴンズハイヴ$$ Salon ～",
+      "status": "imported"
+    },
+    "stage0053_03:r_b2befefdbed1393d": {
+      "text": "$$リディ$$\n「...What are you up to, $$バナージ$$?\n　Meeting with the volunteer club about ship cleanup?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_2103f6df2ea2e447": {
+      "text": "$$バナージ$$\n「Ah... Ensign $$リディ$$」",
+      "status": "imported"
+    },
+    "stage0053_03:r_a12e3e130d896ff7": {
+      "text": "$$アルト$$\n「For the record, it's not like we're\n　always out here picking up trash」",
+      "status": "imported"
+    },
+    "stage0053_03:r_b6f7b219eb4bd64b": {
+      "text": "$$リディ$$\n「Joking, just joking.\n　Sorry if that rubbed you wrong」",
+      "status": "imported"
+    },
+    "stage0053_03:r_91bf33c27ad39f0a": {
+      "text": "$$リディ$$\n「So, what's this meeting about, anyway?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_ee220318b96ab538": {
+      "text": "$$オードリー$$\n「It's about Miss $$スズネ$$」",
+      "status": "imported"
+    },
+    "stage0053_03:r_ce1b55e526b6277a": {
+      "text": "$$エマ$$\n「Something wrong with her?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_c304df6888eb78f7": {
+      "text": "$$カツ$$\n「Haven't you noticed?\n　Miss $$スズネ$$'s been acting strange lately...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_c26958634526e597": {
+      "text": "$$ハサウェイ$$\n「Yesterday she crashed the drinking party\n　with $$ミサト$$, $$スメラギ$$ and $$マオ$$, and went wild」",
+      "status": "imported"
+    },
+    "stage0053_03:r_cdb750c9d380881a": {
+      "text": "$$エマ$$\n「Just joining that group in the first place\n　is already strange enough」",
+      "status": "imported"
+    },
+    "stage0053_03:r_95fda74613c97b39": {
+      "text": "$$オードリー$$\n「Plenty of others have witnessed her acting\n　more roughly than ever before, too」",
+      "status": "imported"
+    },
+    "stage0053_03:r_1956994937f8171e": {
+      "text": "$$リディ$$\n「Hard to imagine...\n　Miss $$スズネ$$, of all people...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_48f49f6728c15612": {
+      "text": "$$ゼシカ$$\n「You really have no idea, $n?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ＭＩＸ$$\n「Isn't it that Miss $$スズネ$$ finally got\n　fed up with your spineless behavior?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_f02c37d91387d0ad": {
+      "text": "$n\n「Ngh...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$ミコノ$$\n「Come on, you two, cut it out.\n　It's because they don't know that $n\n　came to us for advice」",
+      "status": "imported"
+    },
+    "stage0053_03:r_9796b3efa401a303": {
+      "text": "$$バナージ$$\n「You're closer to her age, any idea, Ensign $$リディ$$?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_643b6eebfc0186b3": {
+      "text": "$$リディ$$\n「Hmm... guess it's probably stress...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_291280e5f7eb9d70": {
+      "text": "$n\n「Stress?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_32eb462c1b4999cb": {
+      "text": "$$リディ$$\n「She's riding in the $$ジェニオン$$ with you\n　out of a sense of responsibility.\n　In other words, she's not fighting by choice」",
+      "status": "imported"
+    },
+    "stage0053_03:r_1f4337d6d393fc37": {
+      "text": "$$エマ$$\n「Even without that, there's been a lot\n　of shocking stuff lately, starting with\n　$$エタニティ・フラット$$...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_4740e748fae085ee": {
+      "text": "$$リディ$$\n「That stress might be pushing her to the edge」",
+      "status": "imported"
+    },
+    "stage0053_03:r_b76524cd840e1d37": {
+      "text": "$$バサラ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0053_03:r_730ffe18400abfc2": {
+      "text": "$$アルト$$\n「$$バサラ$$...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_ffe0fca26da5cd38": {
+      "text": "$$バサラ$$\n「Who cares about stress!\n　Liiisten to my song!!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_bfb27f9eb2f7073e": {
+      "text": "$$アマタ$$\n「Yeah, figured it'd come to this...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_859dfa27bcaafe30": {
+      "text": "$$カイエン$$\n「Once he shows up, there's no talking sense.」",
+      "status": "imported"
+    },
+    "stage0053_03:r_71ebf05996a4b0fd": {
+      "text": "$$シュレード$$\n「Don't get so worked up, my friend.\n　Open your heart to his passionate melody\n　and try setting yourself free」",
+      "status": "imported"
+    },
+    "stage0053_03:r_6214c11b1bca811e": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0053_03:r_8eaf6f3098ffed12": {
+      "text": "$$シュレード$$\n「What's wrong, $$シンジ$$?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_cf507214fe955d75": {
+      "text": "$$シンジ$$\n「No... I just thought... that's surprising...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_2113dcbabdfc758a": {
+      "text": "$$シュレード$$\n「That I'm fond of Fire Bomber's\n　melodies?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$アスカ$$\n「Wouldn't that sound like noise to a classical\n　player like you?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_6a74519e1fc29c4b": {
+      "text": "$$シュレード$$\n「Form means nothing before the sound itself.\n　Just surrender honestly to the melody as it is」",
+      "status": "imported"
+    },
+    "stage0053_03:r_5b992878fee054b5": {
+      "text": "$$シュレード$$\n「Maybe if you honestly accept Miss $$スズネ$$'s\n　change too, it'll turn out to be nothing」",
+      "status": "imported"
+    },
+    "stage0053_03:r_95a3dd16c2c4cc3e": {
+      "text": "$n\n「What do you mean?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_4a14ec0c511c7f0d": {
+      "text": "$$シュレード$$\n「In short, who she is right now\n　is her true self」",
+      "status": "imported"
+    },
+    "stage0053_03:r_20cf167c0ec0d4d5": {
+      "text": "$$アマタ$$\n「Eh!?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_b591d812c96c6c99": {
+      "text": "$$アンディ$$\n「Objection! Big objection!\n　Miss $$スズネ$$'s our Madonna!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_e350fa099c1ab072": {
+      "text": "$n\n「So that's Miss $$スズネ$$'s true nature...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$かなめ$$\n「$n... looks like quite a shock, huh...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_c33bd700553abf91": {
+      "text": "$$宗介$$\n「Buck up, $n.\n　$$ヒイロ$$ said not to fear change, too」",
+      "status": "imported"
+    },
+    "stage0053_03:r_feee5c91826230e1": {
+      "text": "$$かなめ$$\n「Think about your timing for that line!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_bccc48e1964ad22d": {
+      "text": "$n\n（Before even worrying about her true self,\n　I... don't know anything about Miss $$スズネ$$ at all...）",
+      "status": "imported"
+    },
+    "stage0053_03:r_f8736aaaa216c766": {
+      "text": "$$ミレーヌ$$\n「That's enough, $$バサラ$$!\n　Think about $n's feelings too!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_d1ec2522c87c361d": {
+      "text": "$$バサラ$$\n「What... you're no fun...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_3599f0a4343fd95c": {
+      "text": "$$ガムリン$$\n「Oh, right, $n...\n　Did you hear the analysis on that frozen robot?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_3bc7834a5bf3ee76": {
+      "text": "$n\n「No...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_366814efdc8b5800": {
+      "text": "$$ミレーヌ$$\n（Way to go, $$ガムリン$$!\n　Nice topic change!）",
+      "status": "imported"
+    },
+    "stage0053_03:r_9be1a4c10bb62515": {
+      "text": "$$アルト$$\n（Seriously, he's got it together.\n　Can't imagine supporting $$バサラ$$\n　without that kind of patience）",
+      "status": "imported"
+    },
+    "stage0053_03:r_94a88c90e557e16e": {
+      "text": "$$ガムリン$$\n「That robot's got heavy damage all over,\n　so it likely went through quite a battle」",
+      "status": "imported"
+    },
+    "stage0053_03:r_1c208ca0cbf26f28": {
+      "text": "$$カツ$$\n「A 200-meter giant robot's fierce battle, huh...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_5b7ee307a700171a": {
+      "text": "$$ハサウェイ$$\n「Must have been intense...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_8d8f065c932da30a": {
+      "text": "$$ミレーヌ$$\n「What happened to the girl piloting it?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_f5432119677514f7": {
+      "text": "$$ガムリン$$\n「She's still unconscious, from what I hear.\n　If she wakes up, we might learn a bit\n　about where that robot came from」",
+      "status": "imported"
+    },
+    "stage0053_03:r_4e5c8e989c4a7691": {
+      "text": "$$エマ$$\n「She's supposedly around 17 or 18...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_adec86483b13599a": {
+      "text": "$$リディ$$\n「Wonder how much fighting she's been through at that age...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_2cf701bbcde3ec13": {
+      "text": "$$ガムリン$$\n「$c's heading back to Earth\n　to report on the $$インベーダー#keyword$$ matter」",
+      "status": "imported"
+    },
+    "stage0053_03:r_c17c58fdba72005e": {
+      "text": "$$ガムリン$$\n「Once she gets treated at a proper\n　medical facility, she'll wake up eventually」",
+      "status": "imported"
+    },
+    "stage0053_03:r_1fe8564d2b959317": {
+      "text": "$$アルト$$\n「What we need to think about now\n　is $$エタニティ・フラット$$ and $$バアル$$...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_f527e012803f7f1c": {
+      "text": "$$かなめ$$\n（$$エタニティ・フラット$$... the Prison of Time...\n　A limited rewrite of law within an isolated dimension...）",
+      "status": "imported"
+    },
+    "stage0053_03:r_4b1247bd3ca4905d": {
+      "text": "$$かなめ$$\n（This too is a product of the $$時空震動$$...\n　If so, there's only one way\n　to reset it...）",
+      "status": "imported"
+    },
+    "stage0053_03:r_00c55e25f87b71d0": {
+      "text": "$$かなめ$$\n（But without knowing what makes up this world,\n　pinning down the multiverse's origin is impossible...）",
+      "status": "imported"
+    },
+    "stage0053_03:r_338f3b27e51dcc41": {
+      "text": "$$宗介$$\n「Chidori...?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_d91d4bc2d52b61c4": {
+      "text": "$$かなめ$$\n「Eh... ah...?\n　Guess I zoned out for a second」",
+      "status": "imported"
+    },
+    "stage0053_03:r_0c8ea89b07432421": {
+      "text": "$$オードリー$$\n「There's also the matter of Miss $$スズネ$$.\n　Please take care of yourself too, $$かなめ$$」",
+      "status": "imported"
+    },
+    "stage0053_03:r_4dbfba00ba7744ee": {
+      "text": "$$かなめ$$\n「Thanks, $$オードリー$$」",
+      "status": "imported"
+    },
+    "stage0053_03:r_be100a32b731708d": {
+      "text": "$$カツ$$\n「Warning alarm...!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_702f82442fcec8a9": {
+      "text": "$$田中司令$$\n「Er, everyone... sorry to interrupt\n　your relaxation, but a Neo Zeon force\n　has been spotted on $c's course」",
+      "status": "imported"
+    },
+    "stage0053_03:r_b1e38da4e8775ffe": {
+      "text": "$$オードリー$$\n「!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$田中司令$$\n「We've kept a policy of staying out of\n　the war with Neo Zeon,\n　but that's on our end...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$田中司令$$\n「From their side, it seems they can't\n　leave a Federation officer like $c alone.\n　Ah well... tough being popular」",
+      "status": "imported"
+    },
+    "stage0053_03:r_3dad695c99e9e052": {
+      "text": "$$リディ$$\n「Is now really the time to be so laid-back!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_66d4ae3a21caf881": {
+      "text": "$$ガムリン$$\n「If they're coming at us, we fight back...!\n　Everyone, let's go!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_0c18da7b3a37825d": {
+      "text": "$$バサラ$$\n「War's such a waste of time...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_63249745ffae61b6": {
+      "text": "$$ミレーヌ$$\n「Geez!\n　Say that to Captain $$クワトロ$$!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_abdb034ae8509702": {
+      "text": "Quarter Hangar",
+      "status": "imported"
+    },
+    "stage0053_03:r_3ff2e21207d1d1d3": {
+      "text": "Quarter Hangar",
+      "status": "imported"
+    },
+    "stage0053_03:r_e51ecf6d6aa42e75": {
+      "text": "Quarter Hangar",
+      "status": "imported"
+    },
+    "stage0053_03:r_47ddabb7b60131c2": {
+      "text": "　\n　　\n　　　　　　～ Macross Quarter Hangar ～",
+      "status": "imported"
+    },
+    "stage0053_03:r_b025267f22788233": {
+      "text": "$$カレン$$\n「$$ゼロ$$!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_ec1a06a7023bf72c": {
+      "text": "$$ゼロ$$\n「It's been a while, $$カレン$$.\n　Even I've heard tell of $c's feats」",
+      "status": "imported"
+    },
+    "stage0053_03:r_8805f96e52aaa462": {
+      "text": "$$デュオ$$\n「So you two have been chasing Geminis\n　all this time, huh」",
+      "status": "imported"
+    },
+    "stage0053_03:r_124591cb154fae64": {
+      "text": "$$スザク$$\n「$$シャア・アズナブル$$ asked us to」",
+      "status": "imported"
+    },
+    "stage0053_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$カミーユ$$\n「What...!?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_4bf9b05b5f948170": {
+      "text": "$$ゼロ$$\n「$$スザク$$ and I once sheltered with\n　Neo Zeon. There, he had us investigate\n　Geminis, the foe then called UG」",
+      "status": "imported"
+    },
+    "stage0053_03:r_eaa52d152f444bfd": {
+      "text": "$$アムロ$$\n「What are you after, $$ゼロ$$?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_b4bc9e9435b58e6f": {
+      "text": "$$ゼロ$$\n「Just as you suspected, Captain $$アムロ$$.\n　I wanted to confirm $$シャア・アズナブル$$'s true intent」",
+      "status": "imported"
+    },
+    "stage0053_03:r_a9227573166977a9": {
+      "text": "$$ゼロ$$\n「I'll be blunt with you as well.\n　With firm resolve and determination,\n　he now calls himself Neo Zeon's Supreme Commander」",
+      "status": "imported"
+    },
+    "stage0053_03:r_b0600ab9a9e8559d": {
+      "text": "$$アムロ$$\n「I see...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_7cbc63dad295f862": {
+      "text": "$$ゼロ$$\n「Unfortunately, words from someone\n　like me couldn't shake that resolve」",
+      "status": "imported"
+    },
+    "stage0053_03:r_07f53c816e0a51f5": {
+      "text": "$$Ｃ．Ｃ．$$\n「So, what will you do?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_2d09c6f6a2d990ea": {
+      "text": "$$スザク$$\n「What we must do is already decided」",
+      "status": "imported"
+    },
+    "stage0053_03:r_3c5fcfc484a51913": {
+      "text": "$$ゼロ$$\n「If $$シャア・アズナブル$$ wants to fight,\n　stopping him is $$スザク$$'s and my duty」",
+      "status": "imported"
+    },
+    "stage0053_03:r_0476ffd10c764b0e": {
+      "text": "$$アムロ$$\n「You mean...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$ゼロ$$\n「Yes... the same as you and $c」",
+      "status": "imported"
+    },
+    "stage0053_03:r_2b3479c4cf0680f4": {
+      "text": "$$シモン$$\n「$$ゼロ$$, $$スザク$$... welcome aboard」",
+      "status": "imported"
+    },
+    "stage0053_03:r_e370696b8936b08c": {
+      "text": "$$スザク$$\n「Good to be working with you again」",
+      "status": "imported"
+    },
+    "stage0053_03:r_9d7b02c5e728b7aa": {
+      "text": "$$ヒイロ$$\n「But the situation is tougher than ever」",
+      "status": "imported"
+    },
+    "stage0053_03:r_9af213fc64e0afec": {
+      "text": "$$ゼロ$$\n「$$エタニティ・フラット$$... and $$バアル$$, is it...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_d7f1c506e78e55ff": {
+      "text": "$$ノリコ$$\n「But hope still remains」",
+      "status": "imported"
+    },
+    "stage0053_03:r_0c705091f748360e": {
+      "text": "$$アムロ$$\n「You are...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_9eb8599304125b2f": {
+      "text": "$$ジェフリー$$\n「Allow me to introduce her properly.\n　$$ガンバスター$$'s pilot, $$タカヤ・ノリコ$$」",
+      "status": "imported"
+    },
+    "stage0053_03:r_a072aa25e5f521e0": {
+      "text": "$$ノリコ$$\n「I'm $$タカヤ・ノリコ$$.\n　Pleased to be working with you」",
+      "status": "imported"
+    },
+    "stage0053_03:r_24e1a808a1609a1a": {
+      "text": "$$カレン$$\n「'Pleased to be working with you'...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_53128ce8f154fd06": {
+      "text": "$$ジェフリー$$\n「As of today, she's a member of $c too」",
+      "status": "imported"
+    },
+    "stage0053_03:r_03b5db9ce98fb8d6": {
+      "text": "$$デュオ$$\n「Is that really okay...!\n　Deciding that easily!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_3915fb4102f1c1dd": {
+      "text": "$$アムロ$$\n「Coming here via a $$時空震動$$ means\n　you're from another world, right?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_817b2773b4ed563e": {
+      "text": "$$ノリコ$$\n「It's fine.\n　This is what I wanted」",
+      "status": "imported"
+    },
+    "stage0053_03:r_1cc233cbc8c80af7": {
+      "text": "$$ノリコ$$\n「I trust my own intuition.\n　Even if this is a different world,\n　I believe you protect Earth, same as me」",
+      "status": "imported"
+    },
+    "stage0053_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$$オズマ$$\n「So you really came from a world unlike ours...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_e180b22d18f48d38": {
+      "text": "$$キャシー$$\n「Going by what she says, that's a fair guess」",
+      "status": "imported"
+    },
+    "stage0053_03:r_e598c2a0b27e7f50": {
+      "text": "$$ジェフリー$$\n「And apparently, their world\n　was under assault by those space beasts」",
+      "status": "imported"
+    },
+    "stage0053_03:r_4d2a9066c4e7b27f": {
+      "text": "$$ノリコ$$\n「It was a long, hard fight...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_10340119af3ed6db": {
+      "text": "$$ノリコ$$\n「But we fought on, centered on $$ガンバスター$$,\n　and carried out a final operation to\n　destroy the beast nest at the galaxy's core」",
+      "status": "imported"
+    },
+    "stage0053_03:r_23a9c7ab620ab112": {
+      "text": "$$カレン$$\n「So, what became of them...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_4f0aca6deda07883": {
+      "text": "$$ノリコ$$\n「That operation succeeded, but the\n　$$ガンバスター$$ Big Sis and I were riding\n　was swallowed by a black hole at the end」",
+      "status": "imported"
+    },
+    "stage0053_03:r_8fe40600ce62dfbc": {
+      "text": "$$シモン$$\n「Who's this 'Big Sis'?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_ff4ce5f3cf96b617": {
+      "text": "$$ノリコ$$\n「Someone who piloted $$ガンバスター$$\n　together with me. She's precious to me」",
+      "status": "imported"
+    },
+    "stage0053_03:r_d73c21f119847e35": {
+      "text": "$$ノリコ$$\n「It seems we got separated\n　when we came to this world, though...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_89766f5ffaa912d4": {
+      "text": "$$アムロ$$\n「So that robot's normally two-seat...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$竜馬$$\n「And you got spat out of that black hole\n　and thrown into this world, huh」",
+      "status": "imported"
+    },
+    "stage0053_03:r_451f726d4299ea35": {
+      "text": "$$ノリコ$$\n「My $$ガンバスター$$ is a Buster Machine\n　developed to fight the space beasts」",
+      "status": "imported"
+    },
+    "stage0053_03:r_e3d111e8bb190cb1": {
+      "text": "$$ノリコ$$\n「The data stored inside it should\n　prove useful in this world too」",
+      "status": "imported"
+    },
+    "stage0053_03:r_7c0d3c51f9a11ca0": {
+      "text": "$$ヒイロ$$\n「What are those space beasts?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_ab97c2b2418ea732": {
+      "text": "$$ノリコ$$\n「《$$ＳＴＭＣ$$》... commonly called space beasts,\n　exist to destroy human civilization...\n　In short, they're humanity's natural enemy」",
+      "status": "imported"
+    },
+    "stage0053_03:r_2ddff5064af78db4": {
+      "text": "$$ノリコ$$\n「Much about their biology's unknown,\n　but it's been kill or be killed between\n　us, with both species' survival at stake」",
+      "status": "imported"
+    },
+    "stage0053_03:r_050d0532c4b24bfe": {
+      "text": "$$隼人$$\n「Humanity's natural enemy...\n　So that's $$バアル$$, then」",
+      "status": "imported"
+    },
+    "stage0053_03:r_d583fcea31bdad2e": {
+      "text": "$$弁慶$$\n「Kill or be killed, huh...\n　Same as with the $$インベーダー#keyword$$」",
+      "status": "imported"
+    },
+    "stage0053_03:r_475f7653621a91b5": {
+      "text": "$$ノリコ$$\n「Whether the space beast we fought\n　today is a survivor of our world,\n　or something born in this one, I don't know」",
+      "status": "imported"
+    },
+    "stage0053_03:r_f228ae702350849b": {
+      "text": "$$ノリコ$$\n「But since one appeared like that,\n　I think it's likely more will target Earth」",
+      "status": "imported"
+    },
+    "stage0053_03:r_d69dc027cba3003f": {
+      "text": "$$デュオ$$\n「First the $$インベーダー#keyword$$, now stuff\n　like that shows up too...\n　Just thinking about it's depressing」",
+      "status": "imported"
+    },
+    "stage0053_03:r_3c3735172a480b72": {
+      "text": "$n\n「Even so, we fight」",
+      "status": "imported"
+    },
+    "stage0053_03:r_1f418b5594cea300": {
+      "text": "$$甲児$$\n「$n...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_f87fb889124bfaef": {
+      "text": "$$アルト$$\n「You... are you all right?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_79c90de32a79212d": {
+      "text": "$n\n「What do you mean?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_33f7fd55913419e8": {
+      "text": "$$カレン$$\n「Well...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_473d9a88b4ca96e7": {
+      "text": "$$宗介$$\n「It concerns the $$ジェニオン$$ you wanted,\n　and $$ガドライト$$'s $$ジェミニア$$」",
+      "status": "imported"
+    },
+    "stage0053_03:r_4de6ac85c63bac12": {
+      "text": "$n\n「...I have nothing but $$ジェニオン$$」",
+      "status": "imported"
+    },
+    "stage0053_03:r_4c92652c9b1adf6f": {
+      "text": "$n\n「Even if $$ジェニオン$$ is an imitation\n　of his machine, my fight doesn't change」",
+      "status": "imported"
+    },
+    "stage0053_03:r_ce90563a934d49fb": {
+      "text": "$$アルト$$\n「Your fight isn't just yours anymore」",
+      "status": "imported"
+    },
+    "stage0053_03:r_4fb296e63cb1fb46": {
+      "text": "$$カミーユ$$\n「$$ガドライト・メオンサム$$ and Geminis are\n　enemies of us all, of the whole world」",
+      "status": "imported"
+    },
+    "stage0053_03:r_6d77e72dbbcd7dfe": {
+      "text": "$n\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_9dc59affd40f32fc": {
+      "text": "$$ノリコ$$\n「I don't fully get it, but if they're\n　everyone's enemy, they're mine too」",
+      "status": "imported"
+    },
+    "stage0053_03:r_0cea115be526a319": {
+      "text": "$n\n「Thanks, Ms. Takaya.\n　We won because of you」",
+      "status": "imported"
+    },
+    "stage0053_03:r_d36072babd12aeb4": {
+      "text": "$$ノリコ$$\n「We're close in age, just call me $$ノリコ$$.\n　We're comrades from today, after all」",
+      "status": "imported"
+    },
+    "stage0053_03:r_09ee921a85025fd3": {
+      "text": "$$シモン$$\n「New enemies, new comrades...\n　Despair came, but so did hope」",
+      "status": "imported"
+    },
+    "stage0053_03:r_fae689f2a1057b61": {
+      "text": "$$竜馬$$\n「My mind's made up.\n　All we can do now is move forward」",
+      "status": "imported"
+    },
+    "stage0053_03:r_91c6d0bb53854ecc": {
+      "text": "$$スザク$$\n「$c...\n　They'll become the world's hope, won't they」",
+      "status": "imported"
+    },
+    "stage0053_03:r_42a3149105314ab8": {
+      "text": "$$ゼロ$$\n「We'll fight as part of that too」",
+      "status": "imported"
+    },
+    "stage0053_03:r_62ecd978c667bd29": {
+      "text": "$$刹那$$\n「$$ゼロ$$...\n　After you split from us, did you\n　and $$スザク$$ chase Geminis on your own?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_d441e6cc908ac01b": {
+      "text": "$$スザク$$\n「We were looking into who's behind Geminis」",
+      "status": "imported"
+    },
+    "stage0053_03:r_b2aab8873350ea1f": {
+      "text": "$$ロックオン$$\n「That Amalgam outfit?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_2c7af4c55d8ac938": {
+      "text": "$$ゼロ$$\n「Not only that.\n　On Earth, besides Amalgam,\n　they have other collaborators too」",
+      "status": "imported"
+    },
+    "stage0053_03:r_653b741d07545dff": {
+      "text": "$$アムロ$$\n「Which is...?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_d584d4b5af55b1cf": {
+      "text": "$$スザク$$\n「We only know their name so far, but...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_db0ee69ece206fcd": {
+      "text": "$$ゼロ$$\n「That organization is called Chrono」",
+      "status": "imported"
+    },
+    "stage0053_03:r_f97e6925c9e37332": {
+      "text": "$$カレン$$\n「Chrono!?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_422861e0b8d77d0c": {
+      "text": "$$シモン$$\n「That's... those $$アドヴェント$$ people, isn't it...!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_ef16bcaa2b0e0c45": {
+      "text": "$$アルト$$\n「So $$アドヴェント$$'s... a Geminis collaborator...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_2b93cca10f1c36a8": {
+      "text": "$$甲児$$\n「Then that guy...\n　was deceiving us after all!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_7980fd37141d88d0": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0053_03:r_ac21212c36d2b9ad": {
+      "text": "$$スズネ$$\n「$n...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_a26e2108358af7a4": {
+      "text": "$n\n「...I don't think that man\n　was lying to us...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_a8118b2e37aa1382": {
+      "text": "$$アルト$$\n「But...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_017a56991b7b8ca4": {
+      "text": "$$スズネ$$\n「Let's leave it there.\n　This is too heavy an issue for guesswork」",
+      "status": "imported"
+    },
+    "stage0053_03:r_ad3e1db3419665fb": {
+      "text": "$$カレン$$\n「...Understood, Miss $$スズネ$$」",
+      "status": "imported"
+    },
+    "stage0053_03:r_0149e3a5f2e5ef78": {
+      "text": "$n\n「Geminis and Chrono...\n　$$ガドライト$$ and $$アドヴェント$$...\n　just what connects them all...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_3ad10e705167a3fa": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0053_03:r_bdc546b199c80996": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0053_03:r_22c8caf8c08c5119": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0053_03:r_9c13714b3efbc7a8": {
+      "text": "　\n　　\n　　　　　　～ D-Trader ～",
+      "status": "imported"
+    },
+    "stage0053_03:r_96f156e19b53fc09": {
+      "text": "$$ＡＧ$$\n「...Hey... $$ジェニオン$$...\n　We go back a fair while, you and I,\n　but I never understood you at all...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_feb0390bba7fe1fb": {
+      "text": "$$ＡＧ$$\n「Just what's your connection\n　to that $$ジェミニア$$ unit...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_8a78bcec22029401": {
+      "text": "$n\n「$$ＡＧ$$...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_f42017dfce31dea9": {
+      "text": "$$ＡＧ$$\n「Wh, why, $n...!\n　You've seen me at my most pathetic」",
+      "status": "imported"
+    },
+    "stage0053_03:r_ef7426919f628d8a": {
+      "text": "$n\n「There's nothing pathetic about it」",
+      "status": "imported"
+    },
+    "stage0053_03:r_9e994a4b926d9906": {
+      "text": "$$ＡＧ$$\n「$n...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_ffae76d2a77abf5a": {
+      "text": "$n\n「We've got nothing but $$ジェニオン$$.\n　And unless we beat that $$ジェミニア$$,\n　it'll keep being called an imitation」",
+      "status": "imported"
+    },
+    "stage0053_03:r_3ac462d37e5893ff": {
+      "text": "$$ＡＧ$$\n「Yes...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_fd6bdf7910d7d925": {
+      "text": "$n\n「Let's do this, $$ＡＧ$$.\n　I will beat him with $$ジェニオン$$...\n　$$ガドライト$$ and his $$ジェミニア$$, for sure」",
+      "status": "imported"
+    },
+    "stage0053_03:r_d38be46e6cd7a5e5": {
+      "text": "$$ＡＧ$$\n「Understood, $n.\n　Naturally, as a $$ＤＥＭ$$ agent, I too\n　will support you with all I have」",
+      "status": "imported"
+    },
+    "stage0053_03:r_3fe2078328753c16": {
+      "text": "$$ＡＧ$$\n「Luckily, today's battle let us work out\n　the conditions for activating $$ジェニオン・ガイ$$」",
+      "status": "imported"
+    },
+    "stage0053_03:r_c66844158d1ce600": {
+      "text": "$$ＡＧ$$\n「From now on, I'll display information\n　whenever activation becomes possible」",
+      "status": "imported"
+    },
+    "stage0053_03:r_d037ecbc1e348dc9": {
+      "text": "$$ＡＧ$$\n「After that, please activate GAI Mode\n　at your own discretion, $n」",
+      "status": "imported"
+    },
+    "stage0053_03:r_bcd53d14c4785426": {
+      "text": "$n\n「Understood」",
+      "status": "imported"
+    },
+    "stage0053_03:r_9ca55ea7feca954a": {
+      "text": "$$ＡＧ$$\n「But please be careful」",
+      "status": "imported"
+    },
+    "stage0053_03:r_554ae12c4c170253": {
+      "text": "$$ＡＧ$$\n「$$ジェニオン・ガイ$$'s energy drain is severe,\n　so it hits its limit in one minute now,\n　after which the mode forcibly cancels」",
+      "status": "imported"
+    },
+    "stage0053_03:r_fa59c6df081e6ae4": {
+      "text": "$$ＡＧ$$\n「And in a single sortie, GAI Mode\n　can only be activated once」",
+      "status": "imported"
+    },
+    "stage0053_03:r_ca3edf3b8b52aedf": {
+      "text": "$n\n「Just one minute, once per sortie...\n　I'll have to settle it in that time」",
+      "status": "imported"
+    },
+    "stage0053_03:r_aa5d235c78ebe19f": {
+      "text": "$n\n「But I'll pull it off.\n　That's my fight」",
+      "status": "imported"
+    },
+    "stage0053_03:r_0b3b19cddb871f90": {
+      "text": "$$スズネ$$\n「Our fight, you mean?」",
+      "status": "imported"
+    },
+    "stage0053_03:r_304e98dac43c9333": {
+      "text": "$n\n「Miss $$スズネ$$...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_b740d817a14afd3a": {
+      "text": "$$スズネ$$\n「What's wrong?\n　You look so surprised...」",
+      "status": "imported"
+    },
+    "stage0053_03:r_40e4c010d1b35b4c": {
+      "text": "$$ＡＧ$$\n（Seems it's the usual Miss $$スズネ$$, after all）",
+      "status": "imported"
+    },
+    "stage0053_03:r_c33abf00683a32bc": {
+      "text": "$n\n（I don't quite get it, but the stress\n　doesn't seem to be affecting her）",
+      "status": "imported"
+    },
+    "stage0053_03:r_3036adce91d1f4a8": {
+      "text": "$$スズネ$$\n「A secret chat, you two?\n　Seems you've gotten close somehow」",
+      "status": "imported"
+    },
+    "stage0053_03:r_019293cb83599509": {
+      "text": "$$ＡＧ$$\n「No, no...!\n　$n and I have been\n　best buds for ages!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_9b949b9281aaeef1": {
+      "text": "$$ＡＧ$$\n「We're perfectly in sync, too.\n　Proof being, look, all fired up today...!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_b39a1dd705fe6cbf": {
+      "text": "$n\n「...Sorry.\n　That's the one thing I can't get into」",
+      "status": "imported"
+    },
+    "stage0053_03:r_c9016e3ab05470b0": {
+      "text": "$$スズネ$$\n「Then I'll take your place...\n　All fired up today too...!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_a684e6cea428e518": {
+      "text": "$$ＡＧ$$\n「Business is business!」",
+      "status": "imported"
+    },
+    "stage0053_03:r_cf907a4d5de8b5c9": {
+      "text": "$n\n（Good...\n　That's the usual Miss $$スズネ$$...）",
+      "status": "imported"
+    }
+  }
+}

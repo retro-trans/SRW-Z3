@@ -1,0 +1,686 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_021:r_479b340ccc6c572b": {
+      "text": "With this attack...!",
+      "status": "imported"
+    },
+    "voice_021:r_77949221bf58f862": {
+      "text": "I've got you!",
+      "status": "imported"
+    },
+    "voice_021:r_70b9c4b9f1f37eff": {
+      "text": "Go down...! Go down!",
+      "status": "imported"
+    },
+    "voice_021:r_9fcb3754cb1773c7": {
+      "text": "Trying to run is useless!",
+      "status": "imported"
+    },
+    "voice_021:r_3559d2fad32c2435": {
+      "text": "I have no choice but to fight!",
+      "status": "imported"
+    },
+    "voice_021:r_f7570547e9f80a64": {
+      "text": "We are the chosen warriors!",
+      "status": "imported"
+    },
+    "voice_021:r_cbab0f4720e1fcf1": {
+      "text": "Behold the pride of Altair!",
+      "status": "imported"
+    },
+    "voice_021:r_0bbe0b4f5364e732": {
+      "text": "Everything for Altair!",
+      "status": "imported"
+    },
+    "voice_021:r_5dda5198137cb02a": {
+      "text": "I'll secure the $$レア・イグラー$$!",
+      "status": "translated"
+    },
+    "voice_021:r_83ec59afbecdec14": {
+      "text": "I'll carry out my mission swiftly!",
+      "status": "imported"
+    },
+    "voice_021:r_e20bfd42ad95a3c9": {
+      "text": "We have a reason to fight!",
+      "status": "imported"
+    },
+    "voice_021:r_0f58a8822381e57f": {
+      "text": "For Altair's future!\\nNo hesitation!",
+      "status": "imported"
+    },
+    "voice_021:r_6dbcc507fb61b51d": {
+      "text": "Our resolve is unshakable!",
+      "status": "imported"
+    },
+    "voice_021:r_b42ab697149a7c8a": {
+      "text": "No one can stop us!",
+      "status": "imported"
+    },
+    "voice_021:r_4de4fcf3b440baf4": {
+      "text": "Until we obtain the true Eve...!",
+      "status": "imported"
+    },
+    "voice_021:r_0121a166c715cdff": {
+      "text": "Invaders from Vega?!",
+      "status": "imported"
+    },
+    "voice_021:r_30fad37a42bd3ad3": {
+      "text": "Damn you, people of Vega!",
+      "status": "imported"
+    },
+    "voice_021:r_80a0b2a84e05d81a": {
+      "text": "They're invading Altair...!",
+      "status": "imported"
+    },
+    "voice_021:r_4a9ac1dff86506d9": {
+      "text": "Foolish to leave yourself open!",
+      "status": "imported"
+    },
+    "voice_021:r_bc8538e6af3d2577": {
+      "text": "This time, I'll finish you!",
+      "status": "imported"
+    },
+    "voice_021:r_924516c8de2b5342": {
+      "text": "Mechanical Angel...!",
+      "status": "imported"
+    },
+    "voice_021:r_da1174533722333f": {
+      "text": "You defy us, Mechanical Angel!",
+      "status": "imported"
+    },
+    "voice_021:r_fdeb8162976e72c1": {
+      "text": "I'll end this legend myself!",
+      "status": "imported"
+    },
+    "voice_021:r_0fadb5c26df92b42": {
+      "text": "The fabled Wings of the Sun...?!",
+      "status": "imported"
+    },
+    "voice_021:r_6b15af9a0057cdc8": {
+      "text": "A new Mechanical Angel form...!",
+      "status": "imported"
+    },
+    "voice_021:r_af884a6b11dff121": {
+      "text": "A long-range Mechanical Angel?!",
+      "status": "imported"
+    },
+    "voice_021:r_ac6fe7838e95647b": {
+      "text": "It seems built for close combat!",
+      "status": "imported"
+    },
+    "voice_021:r_77ca87eacd17ad52": {
+      "text": "$$レア・イグラー$$ signal!",
+      "status": "translated"
+    },
+    "voice_021:r_bf3244994760e535": {
+      "text": "We'll capture the $$レア・イグラー$$!",
+      "status": "translated"
+    },
+    "voice_021:r_aabfb21c9d069ce7": {
+      "text": "It may well be the true Eve...!",
+      "status": "imported"
+    },
+    "voice_021:r_02479dc8fe989560": {
+      "text": "This signal...!\\nA $$レア・イグラー$$?!",
+      "status": "translated"
+    },
+    "voice_021:r_48b60d6c48b9b142": {
+      "text": "We have no use for men!",
+      "status": "imported"
+    },
+    "voice_021:r_8927e6fb681aa809": {
+      "text": "I'll crush the $$レア・イグラー$$'s guards!",
+      "status": "translated"
+    },
+    "voice_021:r_665f01666859013b": {
+      "text": "Is that Vega's vaunted\\nSuper Robot?!",
+      "status": "imported"
+    },
+    "voice_021:r_a571eec59b258d11": {
+      "text": "Strong and armored,\\nbut fast?!",
+      "status": "imported"
+    },
+    "voice_021:r_ddbe581c5ea9183d": {
+      "text": "Vega's giants\\ncan't beat a Gunis!",
+      "status": "imported"
+    },
+    "voice_021:r_faae935cca0edc72": {
+      "text": "That tiny machine\\ndares face me...?!",
+      "status": "imported"
+    },
+    "voice_021:r_d4430bf362340b32": {
+      "text": "Small, but no easy opponent...!",
+      "status": "imported"
+    },
+    "voice_021:r_6ff1323b355593e0": {
+      "text": "Gundam is known\\neven on Altair!",
+      "status": "imported"
+    },
+    "voice_021:r_b7b5625d7cd4282f": {
+      "text": "Show me that power, Gundam!",
+      "status": "imported"
+    },
+    "voice_021:r_36133ad73a73ef98": {
+      "text": "That ferocity reminds me of Kagura!",
+      "status": "imported"
+    },
+    "voice_021:r_920740a0219c5085": {
+      "text": "A beast...?!",
+      "status": "imported"
+    },
+    "voice_021:r_a8451712c57c1a72": {
+      "text": "What is that...?! A demon god?!",
+      "status": "imported"
+    },
+    "voice_021:r_3633df5b7b8f47fa": {
+      "text": "That song is stirring my soul...?!",
+      "status": "imported"
+    },
+    "voice_021:r_52dfc56b14b93551": {
+      "text": "What is that?!\\nBeyond comprehension!",
+      "status": "imported"
+    },
+    "voice_021:r_1b9b2aab5cb104da": {
+      "text": "However fast, I'll read your moves!",
+      "status": "imported"
+    },
+    "voice_021:r_342044c706a2340f": {
+      "text": "What is that?! It's impossibly huge!",
+      "status": "imported"
+    },
+    "voice_021:r_cf41e8828a90cbdb": {
+      "text": "A Vega ace! Now, face me!",
+      "status": "imported"
+    },
+    "voice_021:r_719e897304ec42d4": {
+      "text": "I'll target the commander first!",
+      "status": "imported"
+    },
+    "voice_021:r_d5e0a2317c40d322": {
+      "text": "Taking you down will turn the tide!",
+      "status": "imported"
+    },
+    "voice_021:r_ec2ea17765052401": {
+      "text": "I'm attacking the enemy ship!",
+      "status": "imported"
+    },
+    "voice_021:r_f2d4255f1c2f7542": {
+      "text": "I'll sink the battleship myself!",
+      "status": "imported"
+    },
+    "voice_021:r_5d08ad19e2da125b": {
+      "text": "Capture target confirmed! Execute!",
+      "status": "imported"
+    },
+    "voice_021:r_dc8701f6bcb9904f": {
+      "text": "Destroy it and capture the pilot!",
+      "status": "imported"
+    },
+    "voice_021:r_41997412868c48c4": {
+      "text": "I'll take you back to Altair!",
+      "status": "imported"
+    },
+    "voice_021:r_9e0c80ac7e33b459": {
+      "text": "Target acquired!",
+      "status": "imported"
+    },
+    "voice_021:r_7432ef43ed3471dc": {
+      "text": "Perfect range!",
+      "status": "imported"
+    },
+    "voice_021:r_065443f6ddfcf0d7": {
+      "text": "This will hit dead on!",
+      "status": "imported"
+    },
+    "voice_021:r_47d52a2839c71715": {
+      "text": "I'll shoot straight through!",
+      "status": "imported"
+    },
+    "voice_021:r_847f82e7f3eef651": {
+      "text": "Missile, fire!",
+      "status": "imported"
+    },
+    "voice_021:r_eb7ae28b53dc033c": {
+      "text": "Missile, full salvo!",
+      "status": "imported"
+    },
+    "voice_021:r_857c4a52ce8df0fd": {
+      "text": "I'll make every shot hit!",
+      "status": "imported"
+    },
+    "voice_021:r_55417493fce1d347": {
+      "text": "If this hits dead on...!",
+      "status": "imported"
+    },
+    "voice_021:r_8fdf5910927c9591": {
+      "text": "I'll finish you with Volley Fire!",
+      "status": "imported"
+    },
+    "voice_021:r_7d724dbcc4451e10": {
+      "text": "I'll hit you with all my power!",
+      "status": "imported"
+    },
+    "voice_021:r_93e25418a203cb8f": {
+      "text": "Now face our power!",
+      "status": "imported"
+    },
+    "voice_021:r_adeb0a29274d3d9b": {
+      "text": "This is the power of Altair!",
+      "status": "imported"
+    },
+    "voice_021:r_e42b52c7a987b906": {
+      "text": "Now I'll counterattack!",
+      "status": "imported"
+    },
+    "voice_021:r_6825fd1ff907bd22": {
+      "text": "Thanks for revealing your position!",
+      "status": "imported"
+    },
+    "voice_021:r_607f666f1563bc0d": {
+      "text": "You won't escape!",
+      "status": "imported"
+    },
+    "voice_021:r_97b7431eeb81e6b6": {
+      "text": "Don't expect to make it home alive!",
+      "status": "imported"
+    },
+    "voice_021:r_132f605d02975e71": {
+      "text": "If you're still within range...!",
+      "status": "imported"
+    },
+    "voice_021:r_9b9726b1872759d6": {
+      "text": "Now it's our turn!",
+      "status": "imported"
+    },
+    "voice_021:r_1252db29683fefe0": {
+      "text": "You failed to finish me. Your loss!",
+      "status": "imported"
+    },
+    "voice_021:r_ad3d538f1e909184": {
+      "text": "I won't let you withdraw!",
+      "status": "imported"
+    },
+    "voice_021:r_8c61c59a1c0aebbf": {
+      "text": "I'll finish you with this counter!",
+      "status": "imported"
+    },
+    "voice_021:r_aba6a7662129d8ce": {
+      "text": "Have some payback!",
+      "status": "imported"
+    },
+    "voice_021:r_b84afafb8a33ec60": {
+      "text": "My attack isn't over yet!",
+      "status": "imported"
+    },
+    "voice_021:r_c8c59db85bf875e6": {
+      "text": "I'm right behind you!",
+      "status": "imported"
+    },
+    "voice_021:r_391aa56435d9dd6e": {
+      "text": "For Izumo and Altair...!",
+      "status": "imported"
+    },
+    "voice_021:r_7c796ba53bd7ea03": {
+      "text": "Kagura, I'll cover you!",
+      "status": "imported"
+    },
+    "voice_021:r_fa944da4b6519006": {
+      "text": "I must support Jin...!",
+      "status": "imported"
+    },
+    "voice_021:r_95d047bcc17fccc6": {
+      "text": "I can't ignore a comrade in danger!",
+      "status": "imported"
+    },
+    "voice_021:r_640327a12a559b31": {
+      "text": "I'll be your shield!",
+      "status": "imported"
+    },
+    "voice_021:r_bdd38c584fa313d0": {
+      "text": "We cannot afford to lose Izumo!",
+      "status": "imported"
+    },
+    "voice_021:r_3fd86c1027f317c8": {
+      "text": "Kagura, please don't be reckless!",
+      "status": "imported"
+    },
+    "voice_021:r_d0372a183d2007ad": {
+      "text": "I won't let them take down Jin!",
+      "status": "imported"
+    },
+    "voice_021:r_217aa5e1d545b44d": {
+      "text": "Why can't I attack?!",
+      "status": "imported"
+    },
+    "voice_021:r_381992c5d8224937": {
+      "text": "I can't do a thing...!",
+      "status": "imported"
+    },
+    "voice_021:r_f1e7ed9e5874aba5": {
+      "text": "All weapons are disabled...?!",
+      "status": "imported"
+    },
+    "voice_021:r_fc25e66a86fc2c85": {
+      "text": "Is this machine too badly worn...?!",
+      "status": "imported"
+    },
+    "voice_021:r_5aeeb4917340c42d": {
+      "text": "Losing the enemy? What a disgrace!",
+      "status": "imported"
+    },
+    "voice_021:r_b765659981b6516d": {
+      "text": "Can't attack from this position...!",
+      "status": "imported"
+    },
+    "voice_021:r_0c427458bc00eb95": {
+      "text": "Too slow!",
+      "status": "imported"
+    },
+    "voice_021:r_774a9ab4d8fd5351": {
+      "text": "You haven't thought this through!",
+      "status": "imported"
+    },
+    "voice_021:r_d3f01de714c015bd": {
+      "text": "I won't let you!",
+      "status": "imported"
+    },
+    "voice_021:r_7d2617c809fead70": {
+      "text": "I cannot allow myself to be hit!",
+      "status": "imported"
+    },
+    "voice_021:r_ceb935ccbf830724": {
+      "text": "Hmph, just as I expected...!",
+      "status": "imported"
+    },
+    "voice_021:r_862ef7385bf2abd4": {
+      "text": "You're telegraphing every move!",
+      "status": "imported"
+    },
+    "voice_021:r_001cbec4d9a4283f": {
+      "text": "Your targeting seems inaccurate!",
+      "status": "imported"
+    },
+    "voice_021:r_8ad40afecd02b41e": {
+      "text": "This is the speed of a Gunis!",
+      "status": "imported"
+    },
+    "voice_021:r_26e5efec03c03d78": {
+      "text": "Mechanical Angel, is that all?!",
+      "status": "imported"
+    },
+    "voice_021:r_4ad81e88c7557a8b": {
+      "text": "Some Mechanical Angel you are!",
+      "status": "imported"
+    },
+    "voice_021:r_f2e18dfdfe0c89ea": {
+      "text": "That won't work on me!",
+      "status": "imported"
+    },
+    "voice_021:r_cf7dbf49e96a5755": {
+      "text": "What a waste of effort!",
+      "status": "imported"
+    },
+    "voice_021:r_66ab4cfe1557909d": {
+      "text": "I have a barrier!",
+      "status": "imported"
+    },
+    "voice_021:r_0bad405ee6ca63ba": {
+      "text": "Defense system, activate!",
+      "status": "imported"
+    },
+    "voice_021:r_2072eaf71a260ae7": {
+      "text": "Ghh! You...!",
+      "status": "imported"
+    },
+    "voice_021:r_6c13bbfd27a7799e": {
+      "text": "A few armor plates mean nothing!",
+      "status": "imported"
+    },
+    "voice_021:r_06f88dcbd3c9e738": {
+      "text": "So that's the best you can do...!",
+      "status": "imported"
+    },
+    "voice_021:r_b28faf9f71bc3598": {
+      "text": "You're all show, it seems!",
+      "status": "imported"
+    },
+    "voice_021:r_8a29278549f8e07a": {
+      "text": "This won't hinder me in battle...!",
+      "status": "imported"
+    },
+    "voice_021:r_7e6c573c26177f98": {
+      "text": "This is not enough to faze me!",
+      "status": "imported"
+    },
+    "voice_021:r_45abf84f7757d6eb": {
+      "text": "A Vega attack won't affect me!",
+      "status": "imported"
+    },
+    "voice_021:r_edd7a13ab8f06a14": {
+      "text": "You're no match for my Gunis!",
+      "status": "imported"
+    },
+    "voice_021:r_8165e5b41f0124c4": {
+      "text": "What...?!",
+      "status": "imported"
+    },
+    "voice_021:r_4e05581b7432cce8": {
+      "text": "Guh! A direct hit?!",
+      "status": "imported"
+    },
+    "voice_021:r_a60b107ea3c36a86": {
+      "text": "I can't dodge it...!",
+      "status": "imported"
+    },
+    "voice_021:r_e33693e5ba4665b0": {
+      "text": "That wasn't a fluke...?!",
+      "status": "imported"
+    },
+    "voice_021:r_72a21a1a489af001": {
+      "text": "Not bad, warrior of Vega...!",
+      "status": "imported"
+    },
+    "voice_021:r_eb643f8bf737a0ca": {
+      "text": "They hit my thrusters...?!",
+      "status": "imported"
+    },
+    "voice_021:r_0a3fccb71ec6cf2a": {
+      "text": "Damn! Some sensors are dead!",
+      "status": "imported"
+    },
+    "voice_021:r_9b63cf1f3e0207ef": {
+      "text": "Its power exceeds our data...!",
+      "status": "imported"
+    },
+    "voice_021:r_8356f4e3dcdff938": {
+      "text": "Vega's forces are formidable...!",
+      "status": "imported"
+    },
+    "voice_021:r_1d6d784036ae0bd7": {
+      "text": "They've completely read my moves...!",
+      "status": "imported"
+    },
+    "voice_021:r_625664af02183c17": {
+      "text": "Damn! This is just what they want!",
+      "status": "imported"
+    },
+    "voice_021:r_3701cba361f80ea5": {
+      "text": "Over this,\\nretreat in shame? Never!",
+      "status": "imported"
+    },
+    "voice_021:r_63f429c5c68c0863": {
+      "text": "A Mechanical Angel's true power...!",
+      "status": "imported"
+    },
+    "voice_021:r_38e4a434c91d8ef0": {
+      "text": "It lives up to the legend...!",
+      "status": "imported"
+    },
+    "voice_021:r_98ed411352a3a6ac": {
+      "text": "A demon bent on Altair's ruin...?!",
+      "status": "imported"
+    },
+    "voice_021:r_4824bea6bab3af67": {
+      "text": "The Wings of the Sun after all...?!",
+      "status": "imported"
+    },
+    "voice_021:r_862b92e63adb9734": {
+      "text": "This power...! A $$レア・イグラー$$ indeed!",
+      "status": "translated"
+    },
+    "voice_021:r_57b2bd2de8a1408d": {
+      "text": "Worthy of being the true Eve...!",
+      "status": "imported"
+    },
+    "voice_021:r_288133bc5b573dae": {
+      "text": "Such power!\\nWe need them on Altair!",
+      "status": "imported"
+    },
+    "voice_021:r_d249d68bada91ab9": {
+      "text": "This power\\nmay break Eve's curse...!",
+      "status": "imported"
+    },
+    "voice_021:r_03cdac73042343ee": {
+      "text": "Vega's giant!\\nWhat incredible power!",
+      "status": "imported"
+    },
+    "voice_021:r_6026da5acbda7c69": {
+      "text": "A Super Robot...\\nNow I see why!",
+      "status": "imported"
+    },
+    "voice_021:r_981f8fedd5414fe5": {
+      "text": "Gundam...! Stronger than I heard!",
+      "status": "imported"
+    },
+    "voice_021:r_96bb0dcde0c8c44a": {
+      "text": "Small, but a formidable foe...!",
+      "status": "imported"
+    },
+    "voice_021:r_641550a2f54cb456": {
+      "text": "Damn! I can't track that speed!",
+      "status": "imported"
+    },
+    "voice_021:r_2b4d8818c77b6dca": {
+      "text": "Gwaaah!",
+      "status": "imported"
+    },
+    "voice_021:r_087354f2db0a31e6": {
+      "text": "Strong...! Far too strong!",
+      "status": "imported"
+    },
+    "voice_021:r_db02a2dec93dd263": {
+      "text": "W-What?! What's happening?!",
+      "status": "imported"
+    },
+    "voice_021:r_d520c6d5298a848d": {
+      "text": "The machine can't take any more...!",
+      "status": "imported"
+    },
+    "voice_021:r_099e2458cabf796f": {
+      "text": "Backup! Stronger than expected!",
+      "status": "imported"
+    },
+    "voice_021:r_fd910d714be70870": {
+      "text": "Damage up!\\nLimit breach in minutes!",
+      "status": "imported"
+    },
+    "voice_021:r_9736f29b11344ec3": {
+      "text": "No!\\nThey'll tear this machine apart!",
+      "status": "imported"
+    },
+    "voice_021:r_fcd05582aa5c6068": {
+      "text": "Failures all over!\\nAt this rate...!",
+      "status": "imported"
+    },
+    "voice_021:r_bece29562818acba": {
+      "text": "Even if my machine is destroyed...!",
+      "status": "imported"
+    },
+    "voice_021:r_494b5da92ed24ecb": {
+      "text": "Our mission permits no retreat!",
+      "status": "imported"
+    },
+    "voice_021:r_a4a5a96f4bd58920": {
+      "text": "Not yet! The true Eve must be ours!",
+      "status": "imported"
+    },
+    "voice_021:r_b57d2d74233f889a": {
+      "text": "Can't lose!\\nFor Altair's future...!",
+      "status": "imported"
+    },
+    "voice_021:r_cd06d0820d82524b": {
+      "text": "U-Uwaaaaaah!",
+      "status": "imported"
+    },
+    "voice_021:r_c94c6d04be583774": {
+      "text": "All glory to Altair!",
+      "status": "imported"
+    },
+    "voice_021:r_e54e2c99ef8297af": {
+      "text": "N-No! It's going to explode!!",
+      "status": "imported"
+    },
+    "voice_021:r_f16a3eb0bcaac082": {
+      "text": "Forgive me, Izumo!",
+      "status": "imported"
+    },
+    "voice_021:r_10a408809e512df1": {
+      "text": "Mission failed! Repeat, mission...!",
+      "status": "imported"
+    },
+    "voice_021:r_bc7b9e308b879dd4": {
+      "text": "Eject! Abandon the machine!",
+      "status": "imported"
+    },
+    "voice_021:r_98902fd3143c393e": {
+      "text": "Damn it!\\nRare $$イグラー$$ slipped away...!",
+      "status": "translated"
+    },
+    "voice_021:r_d907fbd7bc1c4298": {
+      "text": "Seek the true Eve, comrades!\\nAaargh!",
+      "status": "imported"
+    },
+    "voice_021:r_96b21e3a028dd074": {
+      "text": "Danger!\\nPlease fall back, Izumo!",
+      "status": "imported"
+    },
+    "voice_021:r_ce140b5d8e6b7310": {
+      "text": "We'll take the lead!",
+      "status": "imported"
+    },
+    "voice_021:r_0e0335789c5396d7": {
+      "text": "Concentrate all fire!",
+      "status": "imported"
+    },
+    "voice_021:r_a8e85bd950696403": {
+      "text": "I'll draw the enemy's attention!",
+      "status": "imported"
+    },
+    "voice_021:r_772c8bc40ab6cb61": {
+      "text": "The finishing blow is yours!",
+      "status": "imported"
+    },
+    "voice_021:r_58dd2826a199ef51": {
+      "text": "So that's my target!",
+      "status": "imported"
+    },
+    "voice_021:r_aadc0b2442adb93b": {
+      "text": "If it's one-on-one...!",
+      "status": "imported"
+    },
+    "voice_021:r_e7a8cd8ed5bc2d1b": {
+      "text": "Separate them from their squad!",
+      "status": "imported"
+    },
+    "voice_021:r_041dd920da4a7c17": {
+      "text": "So it's one kill per soldier...!",
+      "status": "imported"
+    },
+    "voice_021:r_c7f4280cde4605b3": {
+      "text": "I must at least hold them back...!",
+      "status": "imported"
+    }
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0076_04:r_caaab7bad760e16d": {
+      "text": "$$テッサ$$\n「Reconfirm our current position.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_99b162aa6aa286a2": {
+      "text": "$$マデューカス$$\n「Aye, ma'am.\n　We're currently at S26-05, W23-08.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_58fb02434a1c40b2": {
+      "text": "$$テッサ$$\n「So far, everything's on schedule.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_1c0f94acd5a8a143": {
+      "text": "$$マデューカス$$\n「$$ラー・カイラム$$, $$ネェル・アーガマ$$, and\n　Ptolemaios 2 are moving as decoys, over\n　open water 100km north of here.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_1263541f4071624e": {
+      "text": "$$テッサ$$\n「Neo Zeon is wary of our movements.\n　With Japan's forces unable to move, it's\n　on us to defend Dakar.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_3bc300bbdc277d82": {
+      "text": "$$テッサ$$\n「This ship will carry $c's main force\n　onward and make for Dakar.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_38762a09460d8b6b": {
+      "text": "$$マデューカス$$\n「Still, it's odd.\n　Supreme Command hasn't moved any units\n　to Dakar, or so they say.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_7ab28e70b4d4f641": {
+      "text": "$$テッサ$$\n「...I received a report on that from\n　Commander $$レディ・アン$$. Unofficially, the\n　moderates, including the $$大統領$$, are gathering in Dakar.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$カリーニン$$\n「Then...」",
+      "status": "translated"
+    },
+    "stage0076_04:r_ec335e69f984b8b3": {
+      "text": "$$テッサ$$\n「Supreme Command must mean to let the\n　$$大統領$$ and the others die.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_0abcaf0c31978670": {
+      "text": "$$カリーニン$$\n「Can't the moderates' meeting be called off?」",
+      "status": "translated"
+    },
+    "stage0076_04:r_1d6bc48b7f246730": {
+      "text": "$$テッサ$$\n「Unfortunately, fleeing Dakar now would\n　only be more dangerous.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_1af20fccc3c53cfc": {
+      "text": "$$テッサ$$\n「To protect the $$大統領$$ and the others, we\n　must rush to Dakar and meet Neo Zeon\n　head-on.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_f951916061232dcd": {
+      "text": "$$マデューカス$$\n「Sonar contact...!\n　It seems the enemy has come!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_4d863c3fb88a4c39": {
+      "text": "$$テッサ$$\n「$$トゥアハー・デ・ダナン$$, shift to battle stations!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_44f4742c3dcce39a": {
+      "text": "$$マデューカス$$\n「Aye, ma'am!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_9e701cdeb3842c21": {
+      "text": "$$マデューカス$$\n「Zeon's amphibious mobile suit unit, is it.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_6fd81f4abebe60c5": {
+      "text": "$$テッサ$$\n「Order all units to launch.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_da2132b5038ec737": {
+      "text": "$$カリーニン$$\n「$c, all units.\n　This battle will be fought underwater.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_495d61d3ec7e16f2": {
+      "text": "$$カリーニン$$\n「Units unsuited to this need not force a\n　launch. Our objective is only to break\n　through this sea zone. Keep launches minimal.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_5cd353758cfe474d": {
+      "text": "$$テッサ$$\n「The plan is as $$カリーニン$$ explained.\n　Once the Danaan clears this sea zone,\n　the win is ours.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_a653c8dec4c0f06f": {
+      "text": "$$マデューカス$$\n「Sending target waypoints to all units.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_86d493e37a9799a7": {
+      "text": "$$テッサ$$\n「No unit needs to cover this ship.\n　If anything, if you sense danger, land\n　without hesitation.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_09d0fcc600cdd3df": {
+      "text": "$$カリーニン$$\n「Even more confident than usual, aren't you.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_182faded068c15ed": {
+      "text": "$$テッサ$$\n「Naturally.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_9c206d19bfda4bd5": {
+      "text": "$$テッサ$$\n「There's no way the $$トゥアハー・デ・ダナン$$,\n　built and commanded by me, would lose\n　in the sea to a Spacenoid-made mobile suit.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_6e558bc69acf5bf3": {
+      "text": "$$マデューカス$$\n「As you say, Captain.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_d60d0818e965232f": {
+      "text": "$$キラ$$\n「Such confidence...」",
+      "status": "translated"
+    },
+    "stage0076_04:r_5b23687574286204": {
+      "text": "$$カレン$$\n「As always, $$テッサ$$ becomes a different\n　person once the fighting starts.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_6fd86c96891ea942": {
+      "text": "$$マオ$$\n「Naturally.\n　After all, she's our commanding officer.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_43e4e548c0b28376": {
+      "text": "$$宗介$$\n「And the enemy will be made to learn the\n　meaning of the Captain's words, sick and\n　tired of it, within a few minutes.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_d80a9688790ed583": {
+      "text": "$n\n「We'd better be careful not to hold\n　everyone back...」",
+      "status": "translated"
+    },
+    "stage0076_04:r_708bea61e3c43ada": {
+      "text": "$$テッサ$$\n「$$トゥアハー・デ・ダナン$$, commence attack!\n　Teach them what a real sea battle is!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_7b6f159eeaf4de0f": {
+      "text": "$$マデューカス$$\n「Aye aye, ma'am!\n　Commencing attack!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_0827963cfd706e8d": {
+      "text": "$$マデューカス$$\n「A group of units, coming from another\n　direction!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$テッサ$$\n「Zeon reinforcements?」",
+      "status": "translated"
+    },
+    "stage0076_04:r_3f4035fd9db81258": {
+      "text": "$$マデューカス$$\n「No, these aren't mobile suits...!\n　This is...!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_567b361a454c4b73": {
+      "text": "$n\n「Geminis!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_d22851aaafbbf8fc": {
+      "text": "$$ティエリア$$\n「They mean to strike both us and Neo\n　Zeon at once...!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_352534f64413d954": {
+      "text": "$$刹那$$\n「No... it seems their target is only us.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_79f2664edb1af798": {
+      "text": "$$ロックオン$$\n「Now that's an honor!\n　So they figure we're the bigger threat,\n　is that it!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$アムロ$$\n（Amalgam has joined hands with Geminis.\n　And $$フル・フロンタル$$'s forces were\n　operating jointly with Amalgam...）",
+      "status": "translated"
+    },
+    "stage0076_04:r_1c5aa0d15ae24846": {
+      "text": "$$アムロ$$\n（Don't tell me, he's...）",
+      "status": "translated"
+    },
+    "stage0076_04:r_53bb64ee17750ee2": {
+      "text": "$$テッサ$$\n「All units, be careful.\n　Geminis is targeting only us.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_7a7add80fde475ba": {
+      "text": "$$テッサ$$\n「Our objective is only to break through\n　this sea zone. Don't forget that.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_b2befefdbed1393d": {
+      "text": "$$マデューカス$$\n「Confirmed all enemy units destroyed.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_2103f6df2ea2e447": {
+      "text": "$$テッサ$$\n「Let's hurry.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_a12e3e130d896ff7": {
+      "text": "$$マデューカス$$\n「We've reached the point.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_b6f7b219eb4bd64b": {
+      "text": "$$テッサ$$\n「The win is ours.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_91bf33c27ad39f0a": {
+      "text": "$$テッサ$$\n「We're breaking through this sea zone now!\n　All units, withdraw at once!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_ee220318b96ab538": {
+      "text": "$$ゼロ$$\n「Captain Testarossa...!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_ce1b55e526b6277a": {
+      "text": "$$テッサ$$\n「I understand what you want to say, $$ゼロ$$.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_c304df6888eb78f7": {
+      "text": "$$ゼロ$$\n「Heh... it seems even someone like me\n　has no role to play here.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_c26958634526e597": {
+      "text": "$$マデューカス$$\n「Confirmed all units have withdrawn.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_cdb750c9d380881a": {
+      "text": "$$テッサ$$\n「Then, let's withdraw the\n　$$トゥアハー・デ・ダナン$$ as well.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_95fda74613c97b39": {
+      "text": "$$マデューカス$$\n「A pursuit force is coming.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_1956994937f8171e": {
+      "text": "$$カリーニン$$\n「Geminis... still coming, are they.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_48f49f6728c15612": {
+      "text": "$$マデューカス$$\n「So it's that position after all.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$テッサ$$\n「They probably think they've outmaneuvered us.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_f02c37d91387d0ad": {
+      "text": "$$マデューカス$$\n「$$ゼロ$$, having read that coming, is quite\n　an impressive man.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$テッサ$$\n「Then, since I've made my bold claim to\n　him, let's handle this swiftly.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_9796b3efa401a303": {
+      "text": "$$テッサ$$\n「Though, since we'd already read their\n　position, this will be over in an instant.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_643b6eebfc0186b3": {
+      "text": "$$マデューカス$$\n「Then, your orders?」",
+      "status": "translated"
+    },
+    "stage0076_04:r_291280e5f7eb9d70": {
+      "text": "$$テッサ$$\n「Let's go all out.\n　Load torpedoes into every tube!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_32eb462c1b4999cb": {
+      "text": "$$マデューカス$$\n「Aye aye, ma'am,\n　loading torpedoes into tubes one through six.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_1f4337d6d393fc37": {
+      "text": "$$テッサ$$\n「Fire all torpedoes!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_4740e748fae085ee": {
+      "text": "$$マデューカス$$\n「Aye aye, ma'am, firing all torpedoes!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_b76524cd840e1d37": {
+      "text": "$$マデューカス$$\n「Well done.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_730ffe18400abfc2": {
+      "text": "$$テッサ$$\n「This should make even those despicable,\n　dim-witted fools understand who rules\n　the sea.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_ffe0fca26da5cd38": {
+      "text": "$$マデューカス$$\n「As you say.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_bfb27f9eb2f7073e": {
+      "text": "$$テッサ$$\n「This ship will withdraw from this sea\n　zone too. We'll recover $c's units at\n　the rendezvous point, then head for Dakar.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_859dfa27bcaafe30": {
+      "text": "$$マデューカス$$\n「Aye aye, ma'am!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_71ebf05996a4b0fd": {
+      "text": "$$テッサ$$\n「If we ever lose to some amphibious\n　jack-of-all-trades, I'll never sail again.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_6214c11b1bca811e": {
+      "text": "$$マデューカス$$\n「Of course. So will I.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_8eaf6f3098ffed12": {
+      "text": "$$テッサ$$\n「Never arrogant, never careless, if we\n　bring out the strength we've trained,\n　we have no equal in this sea.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_cf507214fe955d75": {
+      "text": "$$テッサ$$\n「It's time to show the pride of a\n　submariner. I expect everyone to rise\n　to the occasion.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_2113dcbabdfc758a": {
+      "text": "$$宗介$$\n「As expected of the Captain's leadership.\n　It gives us absolute peace of mind.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$アル$$\n「She has complete control over allied\n　forces unaccustomed to underwater combat.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_6a74519e1fc29c4b": {
+      "text": "$$宗介$$\n「If we faithfully carry out the Captain's\n　orders, we can win...! As long as the\n　$$トゥアハー・デ・ダナン$$ stands, we won't lose!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_5b992878fee054b5": {
+      "text": "$$マオ$$\n「You've got some skill, $$テッサ$$.\n　Well... search the whole world, and you\n　still won't find anyone who beats her in the water.」",
+      "status": "translated"
+    },
+    "stage0076_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$マオ$$\n「Guess us subordinates better get to\n　work too! Never thought we'd be doing\n　underwater combat in an AS, though!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_4a14ec0c511c7f0d": {
+      "text": "$$クルツ$$\n「Even underwater, my aim is dead on\n　every time!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_20cf167c0ec0d4d5": {
+      "text": "$$クルツ$$\n「A rare situation, this is!\n　I'll show off in front of $$テッサ$$!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_b591d812c96c6c99": {
+      "text": "$$クルーゾー$$\n「Never thought we'd end up doing\n　underwater combat in an AS...」",
+      "status": "translated"
+    },
+    "stage0076_04:r_e350fa099c1ab072": {
+      "text": "$$クルーゾー$$\n「But my skill doesn't care where I fight!\n　I'll show a battle worthy of the\n　$$ウルズ$$ 1 name!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_fb05d8e5f1ee93e5": {
+      "text": "$n\n「.........」",
+      "status": "translated"
+    },
+    "stage0076_04:r_c33bd700553abf91": {
+      "text": "$$スズネ$$\n「What's wrong, $n!?\n　We trained for underwater combat in\n　simulation, didn't we!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_feee5c91826230e1": {
+      "text": "$n\n「It's just... $$弁慶$$, who trained with\n　me for that, isn't here, and it's sad...」",
+      "status": "translated"
+    },
+    "stage0076_04:r_bccc48e1964ad22d": {
+      "text": "$n\n「Even though he always used to gripe\n　about never getting a chance for\n　underwater combat...」",
+      "status": "translated"
+    },
+    "stage0076_04:r_f8736aaaa216c766": {
+      "text": "$$スズネ$$\n「T-to repay $$弁慶$$ for that, too,\n　we have to do our best!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_d1ec2522c87c361d": {
+      "text": "$$ボン太くん#pilot$$\n「Bumomo, bumomo! Bumobbu!!」",
+      "status": "translated"
+    },
+    "stage0076_04:r_3599f0a4343fd95c": {
+      "text": "$$クルツ$$\n「Even so, this underwater thing's a\n　stretch...」",
+      "status": "translated"
+    },
+    "stage0076_04:r_3bc7834a5bf3ee76": {
+      "text": "$n\n「Ah!」",
+      "status": "translated"
+    }
+  }
+}

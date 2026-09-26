@@ -1,0 +1,54 @@
+{
+ "version": "0.4.0",
+ "note": "opening narration, weapon names, Genion voice, menu text",
+ "files": {
+  "AIDDATAPACK.CPK": {
+   "bytes": 10382500,
+   "sha1": "7596814e493b1470bd4a1850ed5cd6a04db7d05d"
+  },
+  "EBOOT.BIN": {
+   "bytes": 8774352,
+   "sha1": "5977400eba90d63220525ac11a6d50a82157f11d"
+  },
+  "MTV_ALL_KEYWORD_DEF.CPK": {
+   "bytes": 180995,
+   "sha1": "3e7f157c21418882494d9345dd769a813997efb1"
+  },
+  "MTZKN_KW.CPK": {
+   "bytes": 317225,
+   "sha1": "04aa401624c61eddf1052e44726408019f216b13"
+  },
+  "MTZKN_PT.CPK": {
+   "bytes": 1277958,
+   "sha1": "ee2b5b63cc6143e9de63c41116f8e678332ee3d0"
+  },
+  "MTZKN_RT.CPK": {
+   "bytes": 728702,
+   "sha1": "56e243efd9246226077fa12fbc9ad419b978664c"
+  },
+  "RPW_DATA.CPK": {
+   "bytes": 537253,
+   "sha1": "6d8023878515742a956ba3bf21d0fcfb5f2e348b"
+  },
+  "SRVC.BIN": {
+   "bytes": 2192672,
+   "sha1": "1ae43179b0a264e474291a6ee4625d47ea395929"
+  },
+  "STG0001A.SDAT": {
+   "bytes": 34128,
+   "sha1": "62fa4a48fc9723d42b131fc3d3848d2e783de572"
+  },
+  "STG0001B.SDAT": {
+   "bytes": 96608,
+   "sha1": "af6465dee84e6d6ef3f1b2a8fed391f331ee1625"
+  },
+  "STG0002.SDAT": {
+   "bytes": 173120,
+   "sha1": "c4763b1fff51fa0bab9a319b58287559e422f869"
+  },
+  "TPACKPS3.CPK": {
+   "bytes": 27024984,
+   "sha1": "0ea2726d44db72be8a658ad1d8330a179d7cd0d4"
+  }
+ }
+}

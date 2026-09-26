@@ -1,0 +1,1202 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0015_03:r_caaab7bad760e16d": {
+      "text": "$$ネェル・アーガマ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0015_03:r_99b162aa6aa286a2": {
+      "text": "$$ネェル・アーガマ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0015_03:r_58fb02434a1c40b2": {
+      "text": "$$ネェル・アーガマ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0015_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　　\n　　　　　　～ $$ネェル・アーガマ$$ Hangar ～",
+      "status": "imported"
+    },
+    "stage0015_03:r_1263541f4071624e": {
+      "text": "$$ダグザ$$\n「So, $$コンロイ$$?\n　Learn anything about this thing?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_3bc300bbdc277d82": {
+      "text": "$$コンロイ$$\n「I'm no specialist myself,\n　so I can't analyze it fully...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_38762a09460d8b6b": {
+      "text": "$$コンロイ$$\n「This white machine...\n　it's clearly no ordinary mobile suit.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_7ab28e70b4d4f641": {
+      "text": "$$ダグザ$$\n「Whatever you've got is fine.\n　Report what you found.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$コンロイ$$\n「This mobile suit's name is $$ユニコーンガンダム$$.\n　Built by Anaheim under the Vist Foundation,\n　it seems core to a project called the UC Plan.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_ec335e69f984b8b3": {
+      "text": "$$ダグザ$$\n「UC...\n　$$宇宙世紀$$, or short for Unicorn...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_0abcaf0c31978670": {
+      "text": "$$コンロイ$$\n「This unit uses a Psycoframe throughout its body,\n　which aids the psycommu so the pilot's brainwaves\n　feed directly into the drive system.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_1d6bc48b7f246730": {
+      "text": "$$ダグザ$$\n「Meaning it can be controlled\n　by thought alone...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_1af20fccc3c53cfc": {
+      "text": "$$コンロイ$$\n「Though only a registered pilot\n　can activate that function.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_f951916061232dcd": {
+      "text": "$$ダグザ$$\n「So only that unconscious boy, then...\n　What about the transformation system in the report?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_4d863c3fb88a4c39": {
+      "text": "$$コンロイ$$\n「That looks like a system called\n　the NT-D in an activated state.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_44f4742c3dcce39a": {
+      "text": "$$ダグザ$$\n「NT... Newtype, is it...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_9e701cdeb3842c21": {
+      "text": "$$コンロイ$$\n「I can't say for sure.\n　Its activation conditions are also locked behind\n　heavy protection, so it's unclear.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_6fd81f4abebe60c5": {
+      "text": "$$コンロイ$$\n「Either way, this unit is a mass of secrets.\n　That Anaheim bigwig's goal is almost\n　certainly this thing.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_da2132b5038ec737": {
+      "text": "$$ダグザ$$\n「Anaheim Electronics' board of directors\n　included Vist Foundation blood, didn't it...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_495d61d3ec7e16f2": {
+      "text": "$$コンロイ$$\n「Yes... $$マーサ・ビスト・カーバイン$$...\n　Younger sister of $$カーディアス$$, head of the Vists.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_5cd353758cfe474d": {
+      "text": "$$コンロイ$$\n「And that man $$アルベルト$$'s surname is Vist too.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_a653c8dec4c0f06f": {
+      "text": "$$ダグザ$$\n「And that Anaheim tried to seize this unit\n　from the Vist Foundation head by force...\n　This reeks worse and worse.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_86d493e37a9799a7": {
+      "text": "$$アルベルト$$\n「Commander $$ダグザ$$!\n　Do not touch that unit without permission!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_09d0fcc600cdd3df": {
+      "text": "$$ダグザ$$\n「...Mr. $$アルベルト$$, please face the facts.\n　Depending on how things go, this unit may\n　have to join the fighting too.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_182faded068c15ed": {
+      "text": "$$アルベルト$$\n「What did you say...!?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_9c206d19bfda4bd5": {
+      "text": "$$ダグザ$$\n「This ship is being chased by Neo Zeon.\n　More firepower to intercept them can't hurt.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_6e558bc69acf5bf3": {
+      "text": "$$アルベルト$$\n「Grrgh...\n　Fine, I'm going...!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_d60d0818e965232f": {
+      "text": "$$ダグザ$$\n「Going where?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_5b23687574286204": {
+      "text": "$$アルベルト$$\n「The infirmary!\n　The boy who piloted the Unicorn woke up!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_6fd86c96891ea942": {
+      "text": "Nahel Argama Infirmary",
+      "status": "imported"
+    },
+    "stage0015_03:r_43e4e548c0b28376": {
+      "text": "Nahel Argama Infirmary",
+      "status": "imported"
+    },
+    "stage0015_03:r_d80a9688790ed583": {
+      "text": "Nahel Argama Infirmary",
+      "status": "imported"
+    },
+    "stage0015_03:r_708bea61e3c43ada": {
+      "text": "　\n　　\n　　　　　　　　～ $$ネェル・アーガマ$$ Infirmary ～",
+      "status": "imported"
+    },
+    "stage0015_03:r_7b6f159eeaf4de0f": {
+      "text": "$$バナージ$$\n「Ugh...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_0827963cfd706e8d": {
+      "text": "$$シン$$\n「You're awake.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$カミーユ$$\n「Doctor $$ハサン$$, he's awake.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_3f4035fd9db81258": {
+      "text": "$$バナージ$$\n「Where...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_567b361a454c4b73": {
+      "text": "$$カミーユ$$\n「Aboard an Earth Federation warship.\n　You're safe, so don't worry.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_d22851aaafbbf8fc": {
+      "text": "$$ハサン$$\n「I'm $$ハサン$$, this ship's doctor.\n　I checked your belongings to confirm your identity.\n　...You're $$バナージ・リンクス$$, correct?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_352534f64413d954": {
+      "text": "$$バナージ$$\n「Yes...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_79f2664edb1af798": {
+      "text": "$$ハサン$$\n「Your life isn't in danger, at least.\n　You likely blacked out because your body\n　couldn't take that white suit's hard g's.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$シン$$\n「That was something...\n　You basically saved the colony out there.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_1c5aa0d15ae24846": {
+      "text": "$$バナージ$$\n「! What happened to Industrial 7!?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_53bb64ee17750ee2": {
+      "text": "$$カミーユ$$\n「It took real damage, it seems,\n　but it's somehow still running.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_7a7add80fde475ba": {
+      "text": "$$バナージ$$\n「...I'm going back.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_b2befefdbed1393d": {
+      "text": "$$シン$$\n「Wait a sec...!\n　We're already a good distance\n　away from Industrial 7!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_2103f6df2ea2e447": {
+      "text": "$$バナージ$$\n「How did that happen...!?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_a12e3e130d896ff7": {
+      "text": "$$シン$$\n「Why? Because we're being chased by Neo Zeon.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_b6f7b219eb4bd64b": {
+      "text": "$$バナージ$$\n「That's not fair...!\n　Bringing me here without asking me...!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_91bf33c27ad39f0a": {
+      "text": "$$カミーユ$$\n「I'm sorry about that.\n　But please understand it was an emergency.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_ee220318b96ab538": {
+      "text": "$$バナージ$$\n「...Understood.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_ce1b55e526b6277a": {
+      "text": "$$シン$$\n「Huh, that was easy...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_c304df6888eb78f7": {
+      "text": "$$バナージ$$\n「...I felt I could trust this person.\n　I'm not sure why, myself...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_c26958634526e597": {
+      "text": "Kamille\n「Thanks.\n　I'm $$カミーユ・ビダン$$.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_cdb750c9d380881a": {
+      "text": "$$カミーユ$$\n「And this one sulking over here\n　is $$シン・アスカ$$.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_95fda74613c97b39": {
+      "text": "$$シン$$\n「Just so you know, it was me\n　covering you out there.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_1956994937f8171e": {
+      "text": "$$バナージ$$\n「Oh... thank you.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_48f49f6728c15612": {
+      "text": "$$シン$$\n「Huh, you can be honest after all.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$バナージ$$\n「...Sorry.\n　But I have to get back\n　to Industrial 7.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_f02c37d91387d0ad": {
+      "text": "$$バナージ$$\n「There's someone I have to protect.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$カミーユ$$\n「Someone you have to protect...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_9796b3efa401a303": {
+      "text": "$$リディ$$\n「Excuse me.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_643b6eebfc0186b3": {
+      "text": "$$カミーユ$$\n「What is it, Ensign $$リディ$$?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_291280e5f7eb9d70": {
+      "text": "$$リディ$$\n「The civilian I rescued turned out to be\n　a student at the Anaheim tech school too,\n　same as your guy here. Brought her for an ID check.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_32eb462c1b4999cb": {
+      "text": "$$ミコット$$\n「$$バナージ$$!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_1f4337d6d393fc37": {
+      "text": "$$バナージ$$\n「$$ミコット$$... and $$タクヤ$$ too!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_4740e748fae085ee": {
+      "text": "$$タクヤ$$\n「I'm floored!\n　No way it was you piloting\n　that white mobile suit!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_b76524cd840e1d37": {
+      "text": "$$バナージ$$\n「...It just happened...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_730ffe18400abfc2": {
+      "text": "$$オードリー$$\n「But I'm glad you're safe...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_ffe0fca26da5cd38": {
+      "text": "$$バナージ$$\n「$$オードリー$$!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_bfb27f9eb2f7073e": {
+      "text": "$$ミコット$$\n「You know this girl, $$バナージ$$?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_859dfa27bcaafe30": {
+      "text": "$$バナージ$$\n「Oh, uh, yeah...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_71ebf05996a4b0fd": {
+      "text": "$$シン$$\n「Huh... so this is the one\n　you meant, the one you have to protect...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_6214c11b1bca811e": {
+      "text": "$$バナージ$$\n「Yes.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_8eaf6f3098ffed12": {
+      "text": "$$オードリー$$\n「$$バナージ$$...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_cf507214fe955d75": {
+      "text": "$$バナージ$$\n「The Unicorn was entrusted to me\n　for that very reason.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_2113dcbabdfc758a": {
+      "text": "$$カミーユ$$\n「Unicorn...\n　So that's the Gundam's name...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$オードリー$$\n（The mobile suit the Vist Foundation kept hidden...\n　That's the key to Laplace's Box...）",
+      "status": "imported"
+    },
+    "stage0015_03:r_6a74519e1fc29c4b": {
+      "text": "$$リディ$$\n「You seemed awfully concerned about\n　that mobile suit. Are you a student at\n　the Anaheim tech school too?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_5b992878fee054b5": {
+      "text": "$$オードリー$$\n「N-no...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_95a3dd16c2c4cc3e": {
+      "text": "Riddhe\n「Come to think of it, I never introduced myself.\n　I'm $$リディ・マーセナス$$... I'm a pilot.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_4a14ec0c511c7f0d": {
+      "text": "Audrey\n「I'm $$オードリー・バーン$$.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_20cf167c0ec0d4d5": {
+      "text": "$$タクヤ$$\n「Seriously, $$バナージ$$...\n　where'd you meet such a cute girl?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_b591d812c96c6c99": {
+      "text": "$$バナージ$$\n「...More importantly, $$カミーユ$$...\n　what happens to $$タクヤ$$ and the others now?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_e350fa099c1ab072": {
+      "text": "$$カミーユ$$\n「Once things settle down, I think they'll be\n　dropped off at some colony to head home\n　to Industrial 7.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$ダグザ$$\n「Excuse me.\n　You're the boy who piloted that mobile suit?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_c33bd700553abf91": {
+      "text": "$$カミーユ$$\n「Yes, Lt. Colonel $$ダグザ$$.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_feee5c91826230e1": {
+      "text": "$$ダグザ$$\n「I'll be questioning him now.\n　Everyone but Doctor $$ハサン$$, please step out.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_bccc48e1964ad22d": {
+      "text": "$$リディ$$\n「Understood.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_f8736aaaa216c766": {
+      "text": "$$シン$$\n（He's got some real presence, but who is he?）",
+      "status": "imported"
+    },
+    "stage0015_03:r_d1ec2522c87c361d": {
+      "text": "$$カミーユ$$\n（Commander of the special forces unit Echoes.\n　He's under the command of that Anaheim man now.）",
+      "status": "imported"
+    },
+    "stage0015_03:r_3599f0a4343fd95c": {
+      "text": "$$シン$$\n（That Anaheim guy... you mean that one...）",
+      "status": "imported"
+    },
+    "stage0015_03:r_3bc7834a5bf3ee76": {
+      "text": "$$アルベルト$$\n「That's the situation, gentlemen.\n　Kindly clear out at once.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_366814efdc8b5800": {
+      "text": "$$カミーユ$$\n「Is Mr. $$アルベルト$$ sitting in on the questioning too?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_9be1a4c10bb62515": {
+      "text": "$$アルベルト$$\n「Of course.\n　That mobile suit belongs to Anaheim.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_94a88c90e557e16e": {
+      "text": "$$リディ$$\n「All right, everyone... let's go.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_1c208ca0cbf26f28": {
+      "text": "$$オードリー$$\n「...Yes.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_5b7ee307a700171a": {
+      "text": "$$バナージ$$\n「$$オードリー$$...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_8d8f065c932da30a": {
+      "text": "$$ダグザ$$\n「First, let's hear your name.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_f5432119677514f7": {
+      "text": "Banagher\n「$$バナージ・リンクス$$.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_4e5c8e989c4a7691": {
+      "text": "$$ダグザ$$\n「I'll say this now: be ready for what comes.\n　As a civilian, you used a military\n　mobile suit and stepped into combat.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_adec86483b13599a": {
+      "text": "$$ダグザ$$\n「This is a grave crime, punishable even by death.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_2cf701bbcde3ec13": {
+      "text": "$$バナージ$$\n「But the Unicorn...\n　he's the one who entrusted it to me!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_c17c58fdba72005e": {
+      "text": "$$アルベルト$$\n「That person...!?\n　Don't tell me... $$カーディアス・ビスト$$!?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_1fe8564d2b959317": {
+      "text": "$$バナージ$$\n「Yes.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_f527e012803f7f1c": {
+      "text": "$$ダグザ$$\n「Hard to believe.\n　That $$カーディアス・ビスト$$ would entrust that\n　to a boy like you...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_4b1247bd3ca4905d": {
+      "text": "$$ダグザ$$\n「Did he leave any last words for you?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_00c55e25f87b71d0": {
+      "text": "$$バナージ$$\n「Save everyone...\n　That's all he said.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_338f3b27e51dcc41": {
+      "text": "$$ダグザ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0015_03:r_d91d4bc2d52b61c4": {
+      "text": "$$バナージ$$\n「...That person is my father.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_0c8ea89b07432421": {
+      "text": "$$アルベルト$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_4dbfba00ba7744ee": {
+      "text": "$$バナージ$$\n「...If I said so, would that convince you?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_be100a32b731708d": {
+      "text": "$$アルベルト$$\n「You...! Are you mocking me!?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_702f82442fcec8a9": {
+      "text": "$$ミヒロ$$\n「Attention, all hands.\n　Small craft detected on our course.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_b1e38da4e8775ffe": {
+      "text": "$$ミヒロ$$\n「As a precaution, man your posts\n　and prepare for an emergency.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$アルベルト$$\n「Did Neo Zeon get ahead of us...!?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$ネェル・アーガマ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0015_03:r_3dad695c99e9e052": {
+      "text": "$$ネェル・アーガマ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0015_03:r_66d4ae3a21caf881": {
+      "text": "$$ネェル・アーガマ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0015_03:r_0c18da7b3a37825d": {
+      "text": "　\n　　\n　　　　　　～ $$ネェル・アーガマ$$ Hangar ～",
+      "status": "imported"
+    },
+    "stage0015_03:r_63249745ffae61b6": {
+      "text": "$$アデナウアー$$\n「You saved us, Captain.\n　Our shuttle ran into some trouble.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_abdb034ae8509702": {
+      "text": "$$オットー$$\n「No, sir... Even if by chance,\n　it was fortunate you crossed our path.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_3ff2e21207d1d1d3": {
+      "text": "$$スズネ$$\n「Here I thought it was terrorists,\n　and it was just a shuttle in distress...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_e51ecf6d6aa42e75": {
+      "text": "$n\n「And I'm surprised that a Federation\n　official was aboard as well.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_47ddabb7b60131c2": {
+      "text": "$$エマ$$\n「That's Deputy Chief of Staff\n　$$アデナウアー・パラヤ$$. He was headed to a\n　military drill ceremony at an L3 colony.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_b025267f22788233": {
+      "text": "$$スズネ$$\n「Then why not just travel by warship?\n　Why take a civilian shuttle instead...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_ec1a06a7023bf72c": {
+      "text": "$$クェス$$\n「That's all... because of me.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_8805f96e52aaa462": {
+      "text": "$$カミーユ$$\n「You... a passenger on the shuttle?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_124591cb154fae64": {
+      "text": "Quess\n「That's right.\n　I'm $$クェス・パラヤ$$.\n　$$アデナウアー・パラヤ$$'s daughter, over there.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$ハサウェイ$$\n「Come on, $$クェス$$!\n　You can't just leave the room like that...!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_4bf9b05b5f948170": {
+      "text": "$$クェス$$\n「Ha ha, Has is such a serious one.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_eaa52d152f444bfd": {
+      "text": "$$カツ$$\n「Hathaway...!\n　You're $$ハサウェイ・ノア$$!?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_b4bc9e9435b58e6f": {
+      "text": "$$ハサウェイ$$\n「$$カツ$$...!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_a9227573166977a9": {
+      "text": "$$シン$$\n「You know him, $$カツ$$?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_b0600ab9a9e8559d": {
+      "text": "$$カミーユ$$\n「Did he say Noa...? Don't tell me...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_7cbc63dad295f862": {
+      "text": "$$カツ$$\n「Just what you're thinking.\n　This is Captain $$ブライト$$'s son.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_07f53c816e0a51f5": {
+      "text": "Hathaway\n「I'm $$ハサウェイ・ノア$$.\n　It sounds like my father's indebted to you.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_2d09c6f6a2d990ea": {
+      "text": "$$カツ$$\n「$$ハサウェイ$$ and I met a few times on Earth.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_3c5fcfc484a51913": {
+      "text": "$$シン$$\n「Huh... didn't know Captain $$ブライト$$\n　had a kid this grown up.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_0476ffd10c764b0e": {
+      "text": "$n\n「Captain $$ブライト$$, the Londo Bell commander?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$カミーユ$$\n「Yeah, that's him.\n　In the $$ＵＣＷ$$, we fought the $$多元戦争$$\n　under Captain $$ブライト$$'s command.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_2b3479c4cf0680f4": {
+      "text": "$$クェス$$\n「$$ハサウェイ$$ knows more people than I thought.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_e370696b8936b08c": {
+      "text": "$$ハサウェイ$$\n「It's just that my dad's amazing.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_9d7b02c5e728b7aa": {
+      "text": "$$クェス$$\n「But $$ハサウェイ$$'s dad sounds so cool.\n　Commanding people who get it like this.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_9af213fc64e0afec": {
+      "text": "$$カミーユ$$\n「People who 'get it'...?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_d7f1c506e78e55ff": {
+      "text": "$$クェス$$\n「The opposite of my own dad, I mean.\n　Sensitive, delicate, and strong people.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_0c705091f748360e": {
+      "text": "$$カツ$$\n「She's quite the free spirit...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_9eb8599304125b2f": {
+      "text": "$$ハサウェイ$$\n「Yeah...\n　Mr. $$アデナウアー$$ meant to bring $$クェス$$ along\n　and have her ride the warship, but...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_a072aa25e5f521e0": {
+      "text": "$$ハサウェイ$$\n「$$クェス$$ threw a fit at the last minute\n　and refused to go, so she ended up on a\n　civilian shuttle, that's where we met.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_24e1a808a1609a1a": {
+      "text": "$$カツ$$\n「Why were you on the shuttle, $$ハサウェイ$$?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_53128ce8f154fd06": {
+      "text": "$$ハサウェイ$$\n「My dad's taking part in the L3 drill,\n　so he invited me along.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_03b5db9ce98fb8d6": {
+      "text": "$$ハサウェイ$$\n「I think he wanted to bring me to space\n　before he gets too busy to.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_3915fb4102f1c1dd": {
+      "text": "$$カミーユ$$\n（Does Captain $$ブライト$$ sense too\n　that war can't be avoided...）",
+      "status": "imported"
+    },
+    "stage0015_03:r_817b2773b4ed563e": {
+      "text": "$$リディ$$\n「Captain $$オットー$$... please come to the bridge, now.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_1cc233cbc8c80af7": {
+      "text": "$$オットー$$\n「Don't tell me...!?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$$リディ$$\n「That's exactly it.\n　Recovering the shuttle seems to have\n　cost us some time.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_e180b22d18f48d38": {
+      "text": "$$アデナウアー$$\n「You are...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_e598c2a0b27e7f50": {
+      "text": "$$リディ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_4d2a9066c4e7b27f": {
+      "text": "$$アデナウアー$$\n「No mistake.\n　You're one of the Marcenas...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_10340119af3ed6db": {
+      "text": "$$リディ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0015_03:r_23a9c7ab620ab112": {
+      "text": "$$ネェル・アーガマ$$ Corridor",
+      "status": "imported"
+    },
+    "stage0015_03:r_4f0aca6deda07883": {
+      "text": "$$ネェル・アーガマ$$ Corridor",
+      "status": "imported"
+    },
+    "stage0015_03:r_8fe40600ce62dfbc": {
+      "text": "$$ネェル・アーガマ$$ Corridor",
+      "status": "imported"
+    },
+    "stage0015_03:r_ff4ce5f3cf96b617": {
+      "text": "　\n　　\n　　　　　　～ $$ネェル・アーガマ$$ Corridor ～",
+      "status": "imported"
+    },
+    "stage0015_03:r_d73c21f119847e35": {
+      "text": "$$バナージ$$\n「$$オードリー$$... you need to stay in your room!\n　There's a battle going on outside!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_89766f5ffaa912d4": {
+      "text": "$$オードリー$$\n（That man is out there...）",
+      "status": "imported"
+    },
+    "stage0015_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$バナージ$$\n「...Are you scared, $$オードリー$$...?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_451f726d4299ea35": {
+      "text": "$$オードリー$$\n「...Come with me, $$バナージ$$.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_e3d111e8bb190cb1": {
+      "text": "$$バナージ$$\n「Where are you planning to go?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_7c0d3c51f9a11ca0": {
+      "text": "$$オードリー$$\n「$$バナージ$$... that white mobile suit\n　has your biometric data registered...\n　only you can operate it, right?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_ab97c2b2418ea732": {
+      "text": "$$バナージ$$\n「Seems that way, but...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_2ddff5064af78db4": {
+      "text": "$$オードリー$$\n「Run away with me.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_050d0532c4b24bfe": {
+      "text": "$$バナージ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_d583fcea31bdad2e": {
+      "text": "$$オードリー$$\n「We can still get away now.\n　Go back to Industrial 7, get on a\n　cargo ship, and hide out in another side.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_475f7653621a91b5": {
+      "text": "$$オードリー$$\n「I'll figure out how to dispose of that unit.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_f228ae702350849b": {
+      "text": "$$バナージ$$\n「$$オードリー$$...?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_d69dc027cba3003f": {
+      "text": "$$オードリー$$\n「It has to be done...\n　That thing is dangerous.\n　It can't be handed over to anyone.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_3c3735172a480b72": {
+      "text": "$$バナージ$$\n「Wait a second!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_1f418b5594cea300": {
+      "text": "$$オードリー$$\n「I'll explain everything later!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_f87fb889124bfaef": {
+      "text": "$$バナージ$$\n「How can I decide anything if I'm told nothing!\n　It's unfair to make people obey like that!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_79c90de32a79212d": {
+      "text": "$$オードリー$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_33f7fd55913419e8": {
+      "text": "$$バナージ$$\n「...What do you want to do?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_473d9a88b4ca96e7": {
+      "text": "$$オードリー$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_4de6ac85c63bac12": {
+      "text": "$$バナージ$$\n「Not what you have to do, but what\n　you yourself want, tell me that!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_4c92652c9b1adf6f": {
+      "text": "$$オードリー$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0015_03:r_ce90563a934d49fb": {
+      "text": "$$クェス$$\n「See, Ensign $$リディ$$?\n　Just like I said.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_4fb296e63cb1fb46": {
+      "text": "$$リディ$$\n「Uh, yeah...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_6d77e72dbbcd7dfe": {
+      "text": "$$バナージ$$\n「We've been found...!?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_9dc59affd40f32fc": {
+      "text": "$$クェス$$\n「Heh... I just had a feeling, so I came.\n　Figured you two were up to something.」",
+      "status": "imported"
+    },
+    "stage0015_03:r_0cea115be526a319": {
+      "text": "$$オードリー$$\n「You are...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_d36072babd12aeb4": {
+      "text": "$$リディ$$\n「$$バナージ・リンクス$$.\n　You just asked her what she wants to do, but...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_09ee921a85025fd3": {
+      "text": "$$バナージ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0015_03:r_fae689f2a1057b61": {
+      "text": "$$リディ$$\n「Right now, isn't the one thing you\n　need to do protecting the $$ネェル・アーガマ$$?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_91c6d0bb53854ecc": {
+      "text": "$$バナージ$$\n「Protect... this ship...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_42a3149105314ab8": {
+      "text": "$$ガランシェール$$ Bridge",
+      "status": "imported"
+    },
+    "stage0015_03:r_62ecd978c667bd29": {
+      "text": "$$ガランシェール$$ Bridge",
+      "status": "imported"
+    },
+    "stage0015_03:r_d441e6cc908ac01b": {
+      "text": "$$ガランシェール$$ Bridge",
+      "status": "imported"
+    },
+    "stage0015_03:r_b2aab8873350ea1f": {
+      "text": "　\n　　\n　　　　　　～ $$ガランシェール$$ Bridge ～",
+      "status": "imported"
+    },
+    "stage0015_03:r_2c7af4c55d8ac938": {
+      "text": "$$ハマーン$$\n「Even with the Guard mobilized,\n　no notable results to show...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_653b741d07545dff": {
+      "text": "$$アンジェロ$$\n「I have no excuse to offer...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_d584d4b5af55b1cf": {
+      "text": "$$ジンネマン$$\n（Give me a look like that,\n　and you don't need to say what you mean）",
+      "status": "imported"
+    },
+    "stage0015_03:r_db0ee69ece206fcd": {
+      "text": "$$アンジェロ$$\n「But, $$ハマーン$$, Your Excellency...\n　the Colonel is certain that the Princess\n　is aboard that ship」",
+      "status": "imported"
+    },
+    "stage0015_03:r_f97e6925c9e37332": {
+      "text": "$$ハマーン$$\n「I see...\n　so that's why you couldn't corner\n　that ship, is what you're saying」",
+      "status": "imported"
+    },
+    "stage0015_03:r_422861e0b8d77d0c": {
+      "text": "$$アンジェロ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0015_03:r_ef16bcaa2b0e0c45": {
+      "text": "$$ハマーン$$\n「But if the key and the Princess are together,\n　the Sleeves' target is decided」",
+      "status": "imported"
+    },
+    "stage0015_03:r_2b93cca10f1c36a8": {
+      "text": "$$アンジェロ$$\n「The Colonel says he'll let that ship run free」",
+      "status": "imported"
+    },
+    "stage0015_03:r_7980fd37141d88d0": {
+      "text": "$$ハマーン$$\n「For what purpose?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_ac21212c36d2b9ad": {
+      "text": "$$アンジェロ$$\n「From documents the $$ガランシェール$$ unit seized,\n　it turns out that Gundam can only be moved\n　by one specific registered pilot」",
+      "status": "imported"
+    },
+    "stage0015_03:r_a26e2108358af7a4": {
+      "text": "$$アンジェロ$$\n「So he'll let the key and its pilot run free,\n　to confirm whether $$カーディアス・ビスト$$ truly\n　meant to hand the box over to us」",
+      "status": "imported"
+    },
+    "stage0015_03:r_a8118b2e37aa1382": {
+      "text": "$$ハマーン$$\n「Meanwhile... the Princess is in enemy hands」",
+      "status": "imported"
+    },
+    "stage0015_03:r_017a56991b7b8ca4": {
+      "text": "$$アンジェロ$$\n「At least, judging by that ship's movements,\n　they don't seem to know the Princess's identity」",
+      "status": "imported"
+    },
+    "stage0015_03:r_ad3e1db3419665fb": {
+      "text": "$$ハマーン$$\n「True enough...\n　if they knew, they'd surely have\n　taken the Princess hostage by now」",
+      "status": "imported"
+    },
+    "stage0015_03:r_0149e3a5f2e5ef78": {
+      "text": "$$ジンネマン$$\n「So, the reason you sent this transmission\n　is that you want the $$ガランシェール$$ unit\n　to mark that ship, is it?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_3ad10e705167a3fa": {
+      "text": "$$アンジェロ$$\n「That's right, Captain $$ジンネマン$$.\n　The rest I leave to you」",
+      "status": "imported"
+    },
+    "stage0015_03:r_bdc546b199c80996": {
+      "text": "$$アンジェロ$$\n「Use the chance to rescue the Princess,\n　and if possible, capture the key and its pilot」",
+      "status": "imported"
+    },
+    "stage0015_03:r_22c8caf8c08c5119": {
+      "text": "$$ジンネマン$$\n「Understood」",
+      "status": "imported"
+    },
+    "stage0015_03:r_9c13714b3efbc7a8": {
+      "text": "$$アンジェロ$$\n「Then, I wish you a good fight」",
+      "status": "imported"
+    },
+    "stage0015_03:r_96f156e19b53fc09": {
+      "text": "$$ジンネマン$$\n「Being wished luck with a look like that...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_feb0390bba7fe1fb": {
+      "text": "$$フラスト$$\n「The Personal Guard's attitude is nothing new,\n　but it still gets my blood boiling」",
+      "status": "imported"
+    },
+    "stage0015_03:r_8a78bcec22029401": {
+      "text": "$$ハマーン$$\n「Sorry, Captain.\n　The $$ガランシェール$$ unit gets stuck with the trouble」",
+      "status": "imported"
+    },
+    "stage0015_03:r_f42017dfce31dea9": {
+      "text": "$$ジンネマン$$\n「I'm used to that kind of role by now」",
+      "status": "imported"
+    },
+    "stage0015_03:r_ef7426919f628d8a": {
+      "text": "$$ハマーン$$\n「Then, let me ask you again, rescue the Princess」",
+      "status": "imported"
+    },
+    "stage0015_03:r_9e994a4b926d9906": {
+      "text": "$$ジンネマン$$\n「Understood」",
+      "status": "imported"
+    },
+    "stage0015_03:r_ffae76d2a77abf5a": {
+      "text": "$$ジンネマン$$\n「To you, who lent a hand to our revenge,\n　I feel personally indebted, Your Excellency.\n　I will see the Princess's rescue through」",
+      "status": "imported"
+    },
+    "stage0015_03:r_3ac462d37e5893ff": {
+      "text": "$$ハマーン$$\n「Then I'll expect great things」",
+      "status": "imported"
+    },
+    "stage0015_03:r_fd6bdf7910d7d925": {
+      "text": "$$ジンネマン$$\n「What will you do from here, Your Excellency?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_d38be46e6cd7a5e5": {
+      "text": "$$ハマーン$$\n「I'll go back to $$アクシズ$$.\n　Once he learns of this whole affair,\n　even the Commander will finally move」",
+      "status": "imported"
+    },
+    "stage0015_03:r_3fe2078328753c16": {
+      "text": "$$フラスト$$\n「If that happens, the Personal Guard will quiet down」",
+      "status": "imported"
+    },
+    "stage0015_03:r_c66844158d1ce600": {
+      "text": "$$ジンネマン$$\n「The Red Comet's return...\n　is that day finally here...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_d037ecbc1e348dc9": {
+      "text": "$$ハマーン$$\n「I'll make it happen.\n　For the Spacenoids' long-held wish too」",
+      "status": "imported"
+    },
+    "stage0015_03:r_bcd53d14c4785426": {
+      "text": "$$ハマーン$$\n（Yes... that is the Spacenoids' wish,\n　and it is my wish too...）",
+      "status": "imported"
+    },
+    "stage0015_03:r_9ca55ea7feca954a": {
+      "text": "$$ラー・カイラム$$ Hangar",
+      "status": "imported"
+    },
+    "stage0015_03:r_554ae12c4c170253": {
+      "text": "$$ラー・カイラム$$ Hangar",
+      "status": "imported"
+    },
+    "stage0015_03:r_fa59c6df081e6ae4": {
+      "text": "$$ラー・カイラム$$ Hangar",
+      "status": "imported"
+    },
+    "stage0015_03:r_ca3edf3b8b52aedf": {
+      "text": "　\n　\n　　　　　　～ $$ラー・カイラム$$ Hangar ～",
+      "status": "imported"
+    },
+    "stage0015_03:r_aa5d235c78ebe19f": {
+      "text": "$$アデナウアー$$\n「You saved us, Captain.\n　If the $$ラー・カイラム$$ had arrived even a bit later,\n　it would have been the end」",
+      "status": "imported"
+    },
+    "stage0015_03:r_0b3b19cddb871f90": {
+      "text": "$$ブライト$$\n「No need to worry about that, Deputy Chief.\n　The $$ネェル・アーガマ$$ would've beaten the enemy alone」",
+      "status": "imported"
+    },
+    "stage0015_03:r_304e98dac43c9333": {
+      "text": "$$オットー$$\n「Commander $$ブライト$$...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_b740d817a14afd3a": {
+      "text": "$$ブライト$$\n「Well done, Captain $$オットー$$.\n　I'll hear the full report later」",
+      "status": "imported"
+    },
+    "stage0015_03:r_40e4c010d1b35b4c": {
+      "text": "$$オットー$$\n「Yes, sir...!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_c33abf00683a32bc": {
+      "text": "$$ハサウェイ$$\n「Dad...!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_3036adce91d1f4a8": {
+      "text": "$$ブライト$$\n「$$ハサウェイ$$...!\n　Why are you here...!?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_019293cb83599509": {
+      "text": "$$アデナウアー$$\n「Your son was on the same shuttle as me.\n　He got along well with my daughter too」",
+      "status": "imported"
+    },
+    "stage0015_03:r_9b949b9281aaeef1": {
+      "text": "$$ブライト$$\n「So that's how it was...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_b39a1dd705fe6cbf": {
+      "text": "$$ハサウェイ$$\n「We were meant to meet again at L3,\n　but this surprised even me」",
+      "status": "imported"
+    },
+    "stage0015_03:r_c9016e3ab05470b0": {
+      "text": "$$オットー$$\n「Deputy Chief, the shuttle repairs are done,\n　but what would you like to do?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_a684e6cea428e518": {
+      "text": "$$アデナウアー$$\n「Our destination is the same.\n　$$クェス$$ and I will stay aboard the $$ラー・カイラム$$\n　and head for L3 as we are」",
+      "status": "imported"
+    },
+    "stage0015_03:r_cf907a4d5de8b5c9": {
+      "text": "$$アデナウアー$$\n「Your son should do the same, Commander」",
+      "status": "imported"
+    },
+    "stage0015_03:r_a5774604a0f00702": {
+      "text": "$$ブライト$$\n「But...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_b4fa30f33e84207f": {
+      "text": "$$アデナウアー$$\n「You two have finally been reunited.\n　Better to have even a little time together」",
+      "status": "imported"
+    },
+    "stage0015_03:r_9133b7e0b34de48f": {
+      "text": "$$アデナウアー$$\n「Besides, I have my daughter with me too.\n　She'll be glad to have him along as well」",
+      "status": "imported"
+    },
+    "stage0015_03:r_4ae9c4bd77494c4a": {
+      "text": "$$ブライト$$\n「...Understood.\n　I'll do just that」",
+      "status": "imported"
+    },
+    "stage0015_03:r_7313331f4077d255": {
+      "text": "$$オットー$$\n「Then, Commander $$ブライト$$...\n　the $$ネェル・アーガマ$$ will return to duty」",
+      "status": "imported"
+    },
+    "stage0015_03:r_a84ab0c3c1ba44d4": {
+      "text": "$$ブライト$$\n「About that, Captain $$オットー$$...\n　the $$ネェル・アーガマ$$ will also attend the L3 ceremony.\n　I already have Commander $$レディ・アン$$'s approval」",
+      "status": "imported"
+    },
+    "stage0015_03:r_414e6e90094d1413": {
+      "text": "$$ブライト$$\n「While the $$ネェル・アーガマ$$ was down on Earth,\n　our mobile suit forces here took heavy losses.\n　Your escort is partly meant to fill that gap...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_83a9e41e15444c69": {
+      "text": "$$オットー$$\n「You think something will happen\n　at Neo Zeon's joint exercise...?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_09227dec2bd6f4d8": {
+      "text": "$$ブライト$$\n「I hope it's needless worry,\n　but caution never hurts」",
+      "status": "imported"
+    },
+    "stage0015_03:r_7b3a37f5039eb1f6": {
+      "text": "$$オットー$$\n「Understood.\n　Then, once the shuttle launches, the $$ネェル・アーガマ$$\n　will escort the $$ラー・カイラム$$ and head for L3」",
+      "status": "imported"
+    },
+    "stage0015_03:r_cb6d9ee71c24b042": {
+      "text": "$$ブライト$$\n「I'll send unused units from the $$ラー・カイラム$$\n　over to the $$ネェル・アーガマ$$.\n　Have your own pilots operate them」",
+      "status": "imported"
+    },
+    "stage0015_03:r_ddd97a6ef823929a": {
+      "text": "$$ハサウェイ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0015_03:r_df349052cd9cdd0c": {
+      "text": "$$ブライト$$\n「What is it, $$ハサウェイ$$?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_a7ce9f908380694c": {
+      "text": "$$ハサウェイ$$\n「Now that I think about it, this is the first time\n　I've seen Dad at work... I was just thinking...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_de3cc1f733dcb073": {
+      "text": "$$ブライト$$\n「I never meant for you to see me\n　in the middle of an emergency like this...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_0835ec3fff318aff": {
+      "text": "Communications Room",
+      "status": "imported"
+    },
+    "stage0015_03:r_c32efc7394910997": {
+      "text": "Communications Room",
+      "status": "imported"
+    },
+    "stage0015_03:r_b01db8213417811e": {
+      "text": "Communications Room",
+      "status": "imported"
+    },
+    "stage0015_03:r_bc0273c6ae91c929": {
+      "text": "　\n　　\n　　　　　　～ $$ネェル・アーガマ$$ Communications Room ～",
+      "status": "imported"
+    },
+    "stage0015_03:r_8deea7c70d7a76e7": {
+      "text": "$$アルベルト$$\n「...So, I'm to stay here\n　and keep watching the Unicorn from the $$ネェル・アーガマ$$?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_660c72e627d873c7": {
+      "text": "$$マーサ$$\n「That's right」",
+      "status": "imported"
+    },
+    "stage0015_03:r_5d8b67b5bd8ce190": {
+      "text": "$$アルベルト$$\n「But...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_7cf3c91395139f5c": {
+      "text": "$$マーサ$$\n「Just tell Londo Bell you're continuing\n　the combat test. Since it's proving useful in battle,\n　that should suit them just fine too」",
+      "status": "imported"
+    },
+    "stage0015_03:r_6ccd85652ef4ccf1": {
+      "text": "$$アルベルト$$\n「I still think it'd be more certain\n　to analyze the unit at Von Braun...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_fbe7bf7d854012a7": {
+      "text": "$$マーサ$$\n「That's the safeguard $$カーディアス・ビスト$$ himself set up.\n　One careless move, and there's a real chance\n　all the data could be wiped clean」",
+      "status": "imported"
+    },
+    "stage0015_03:r_1f438885dbc1359e": {
+      "text": "$$マーサ$$\n「If that happens,\n　the box's location stays hidden forever」",
+      "status": "imported"
+    },
+    "stage0015_03:r_2e59226caa35f6e5": {
+      "text": "$$アルベルト$$\n「That's...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_5d7a3adb077ad934": {
+      "text": "$$マーサ$$\n「Then it's more certain to keep watch\n　on the boy that man chose as the key's pilot」",
+      "status": "imported"
+    },
+    "stage0015_03:r_78d3b2a75e38d6f7": {
+      "text": "$$マーサ$$\n「You'll stay aboard the ship as you are,\n　and keep watching the Unicorn」",
+      "status": "imported"
+    },
+    "stage0015_03:r_8d461de418389bf8": {
+      "text": "$$アルベルト$$\n「Then I'd like you to bring Londo Bell in too,\n　and set up a system of cooperation...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_5cb2acefa1e7c7fb": {
+      "text": "$$マーサ$$\n「The fewer people who know the secret, the better...\n　You have the Echoes under your command now,\n　so make good use of them」",
+      "status": "imported"
+    },
+    "stage0015_03:r_59ce7fd9524ec8be": {
+      "text": "$$アルベルト$$\n「Understood...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_33f67c683bda9203": {
+      "text": "$$マーサ$$\n「Heh... I'll be expecting good news」",
+      "status": "imported"
+    },
+    "stage0015_03:r_476fb20ab9d18957": {
+      "text": "$$アルベルト$$\n「What have I done... to end up like this...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_6be0d6139fac197c": {
+      "text": "$$アルベルト$$\n「$$バナージ・リンクス$$...\n　you...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_df899b8031b4ca06": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0015_03:r_c5d048c7db7cac75": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0015_03:r_308e8ac66b1141ef": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0015_03:r_64f25294d71a5d55": {
+      "text": "　\n　　\n　　　　　　　　　　　～ D-Trader ～",
+      "status": "imported"
+    },
+    "stage0015_03:r_b6ca80db4741a62c": {
+      "text": "$$ＡＧ$$\n「Good work out there, Master $$リディ$$.\n　You really shone this time」",
+      "status": "imported"
+    },
+    "stage0015_03:r_432a29155221625f": {
+      "text": "$$リディ$$\n「Cut it out, $$ＡＧ$$.\n　...Or are you just trying to console me?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_9f7c18d1ea1b55c9": {
+      "text": "$$ＡＧ$$\n「No, no...!\n　Using your own machine as a shield to protect\n　Master $$バナージ$$ isn't something just anyone can do!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_56688ad8e41b7b42": {
+      "text": "$$ＡＧ$$\n「Good news for you, Master $$リディ$$.\n　That new variable unit loaded on the $$ラー・カイラム$$...\n　It seems it'll be entrusted to you, Master $$リディ$$」",
+      "status": "imported"
+    },
+    "stage0015_03:r_34a510533cb8a9f5": {
+      "text": "$$リディ$$\n「New type... don't tell me, the $$デルタプラス$$...!?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_1afedc9fa466f321": {
+      "text": "$$ＡＧ$$\n「I believe that was the name, yes」",
+      "status": "imported"
+    },
+    "stage0015_03:r_9547b3241808695f": {
+      "text": "$$リディ$$\n「But if it's deployed,\n　I'd think $$カミーユ$$ or Captain $$アムロ$$ should fly it...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_32b2a8ce24deeb9f": {
+      "text": "$$ＡＧ$$\n「From what I heard,\n　both Master $$カミーユ$$ and Master $$アムロ$$\n　refused to pilot that unit」",
+      "status": "imported"
+    },
+    "stage0015_03:r_c7ef92060bb8199d": {
+      "text": "$$リディ$$\n「I don't quite get it, but this is a chance...!\n　If I'm given the $$デルタプラス$$,\n　I'll wipe out today's disgrace!」",
+      "status": "imported"
+    },
+    "stage0015_03:r_1be6d12f616f04e4": {
+      "text": "$$ＡＧ$$\n「...Not knowing can be a happy thing...」",
+      "status": "imported"
+    },
+    "stage0015_03:r_80f948aeaed93de8": {
+      "text": "$$リディ$$\n「Did you say something?」",
+      "status": "imported"
+    },
+    "stage0015_03:r_0d24e9726dcc79f9": {
+      "text": "$$ＡＧ$$\n「No, nothing...\n　I'll do my best too, so I don't lose\n　to Master $$リディ$$ today... Business, business!」",
+      "status": "imported"
+    }
+  }
+}

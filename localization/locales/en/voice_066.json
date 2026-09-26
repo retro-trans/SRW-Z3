@@ -1,0 +1,458 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_066:r_479b340ccc6c572b": {
+      "text": "Target confirmed!",
+      "status": "imported"
+    },
+    "voice_066:r_ca4acbac57a2a35e": {
+      "text": "All right, let's do this!",
+      "status": "imported"
+    },
+    "voice_066:r_77949221bf58f862": {
+      "text": "I'll make the first move!",
+      "status": "imported"
+    },
+    "voice_066:r_70b9c4b9f1f37eff": {
+      "text": "If they've spotted me, so be it!",
+      "status": "imported"
+    },
+    "voice_066:r_9fcb3754cb1773c7": {
+      "text": "I'll take that!",
+      "status": "imported"
+    },
+    "voice_066:r_3559d2fad32c2435": {
+      "text": "I've got you!",
+      "status": "imported"
+    },
+    "voice_066:r_f7570547e9f80a64": {
+      "text": "Time for you to go down!",
+      "status": "imported"
+    },
+    "voice_066:r_cbab0f4720e1fcf1": {
+      "text": "Commence attack!",
+      "status": "imported"
+    },
+    "voice_066:r_0bbe0b4f5364e732": {
+      "text": "You're too slow!",
+      "status": "imported"
+    },
+    "voice_066:r_5dda5198137cb02a": {
+      "text": "Out of my way!",
+      "status": "imported"
+    },
+    "voice_066:r_83ec59afbecdec14": {
+      "text": "This'll bring you down!",
+      "status": "imported"
+    },
+    "voice_066:r_e20bfd42ad95a3c9": {
+      "text": "I won't miss your weak point!",
+      "status": "imported"
+    },
+    "voice_066:r_0f58a8822381e57f": {
+      "text": "It's kill or be killed!",
+      "status": "imported"
+    },
+    "voice_066:r_6dbcc507fb61b51d": {
+      "text": "Let me take this shot!",
+      "status": "imported"
+    },
+    "voice_066:r_b42ab697149a7c8a": {
+      "text": "You'd better hit!",
+      "status": "imported"
+    },
+    "voice_066:r_4de4fcf3b440baf4": {
+      "text": "Direct hit... Got you!",
+      "status": "imported"
+    },
+    "voice_066:r_4a9ac1dff86506d9": {
+      "text": "I'll nail you at any range!",
+      "status": "imported"
+    },
+    "voice_066:r_bc8538e6af3d2577": {
+      "text": "At this range... I'll use this!",
+      "status": "imported"
+    },
+    "voice_066:r_924516c8de2b5342": {
+      "text": "Right there!!",
+      "status": "imported"
+    },
+    "voice_066:r_da1174533722333f": {
+      "text": "Hold still!",
+      "status": "imported"
+    },
+    "voice_066:r_fdeb8162976e72c1": {
+      "text": "From that position...!",
+      "status": "imported"
+    },
+    "voice_066:r_0fadb5c26df92b42": {
+      "text": "Close combat it is!",
+      "status": "imported"
+    },
+    "voice_066:r_77ca87eacd17ad52": {
+      "text": "Take this!",
+      "status": "imported"
+    },
+    "voice_066:r_aabfb21c9d069ce7": {
+      "text": "Damn you!",
+      "status": "imported"
+    },
+    "voice_066:r_a2df00f91a9b0a9e": {
+      "text": "Go!",
+      "status": "imported"
+    },
+    "voice_066:r_8927e6fb681aa809": {
+      "text": "You'd better connect!",
+      "status": "imported"
+    },
+    "voice_066:r_a571eec59b258d11": {
+      "text": "Eat this!",
+      "status": "imported"
+    },
+    "voice_066:r_faae935cca0edc72": {
+      "text": "With this!",
+      "status": "imported"
+    },
+    "voice_066:r_6ff1323b355593e0": {
+      "text": "This is the end!",
+      "status": "imported"
+    },
+    "voice_066:r_1b9b2aab5cb104da": {
+      "text": "Finishing blow!",
+      "status": "imported"
+    },
+    "voice_066:r_b1de76a75a253c13": {
+      "text": "So the Gundam's come out to play!",
+      "status": "imported"
+    },
+    "voice_066:r_128c35bf3e0e394c": {
+      "text": "I've got a grudge against Gundam...!",
+      "status": "imported"
+    },
+    "voice_066:r_5213c17e13b23de0": {
+      "text": "Here you are, Londo Bell...!",
+      "status": "imported"
+    },
+    "voice_066:r_38fdff9483e9245c": {
+      "text": "You betrayed the colony?!",
+      "status": "imported"
+    },
+    "voice_066:r_620fedec67706d7d": {
+      "text": "So that's the rumored new model...!",
+      "status": "imported"
+    },
+    "voice_066:r_9680dcd0fddcfcc7": {
+      "text": "Stay back, Banagher!",
+      "status": "imported"
+    },
+    "voice_066:r_2a00f1044ad5cbaa": {
+      "text": "A target that big can't be missed!",
+      "status": "imported"
+    },
+    "voice_066:r_3dbeead1bd3164ef": {
+      "text": "Must be hard in that little machine!",
+      "status": "imported"
+    },
+    "voice_066:r_98d15b8cc09bc915": {
+      "text": "I'll finish you before you can move!",
+      "status": "imported"
+    },
+    "voice_066:r_46e86d000250e137": {
+      "text": "I'll take that battleship...!",
+      "status": "imported"
+    },
+    "voice_066:r_a007f9ab9cf048b3": {
+      "text": "Now then, here's some payback!",
+      "status": "imported"
+    },
+    "voice_066:r_ddafde4b065ced49": {
+      "text": "Here's my thanks in return!",
+      "status": "imported"
+    },
+    "voice_066:r_de1213040856c089": {
+      "text": "You gave away your position...!",
+      "status": "imported"
+    },
+    "voice_066:r_3304412ac41f47a6": {
+      "text": "We're still in good shape here!",
+      "status": "imported"
+    },
+    "voice_066:r_0c0775e051211840": {
+      "text": "Whoa, I'm not letting you escape!",
+      "status": "imported"
+    },
+    "voice_066:r_a2afffe1c396f0b3": {
+      "text": "Counterattack... Can I make it?!",
+      "status": "imported"
+    },
+    "voice_066:r_13c25fbdfddc8a24": {
+      "text": "I'll strike from another angle!",
+      "status": "imported"
+    },
+    "voice_066:r_42ba1ecb310b4bd7": {
+      "text": "Let me lend you a hand!",
+      "status": "imported"
+    },
+    "voice_066:r_d692f1d420460a47": {
+      "text": "Captain, I'll back you up too!",
+      "status": "imported"
+    },
+    "voice_066:r_a5643cec86b18bd2": {
+      "text": "Nicely done, Marida!",
+      "status": "imported"
+    },
+    "voice_066:r_68f2dfab20a4a30e": {
+      "text": "I'll assist you, Colonel!",
+      "status": "imported"
+    },
+    "voice_066:r_9cedad8237480563": {
+      "text": "Like it or not, we're comrades...!",
+      "status": "imported"
+    },
+    "voice_066:r_a03fabecba1508ca": {
+      "text": "I'll stop them here!",
+      "status": "imported"
+    },
+    "voice_066:r_a554ceef5c87b972": {
+      "text": "Please let me make it in time...!",
+      "status": "imported"
+    },
+    "voice_066:r_546c3d5937fbb7ee": {
+      "text": "I won't let you harm Garencieres!",
+      "status": "imported"
+    },
+    "voice_066:r_1568ff6298b12b96": {
+      "text": "You won't lay a hand on Marida!",
+      "status": "imported"
+    },
+    "voice_066:r_2c9d94ba13c5fc50": {
+      "text": "I can't lose the Colonel...!",
+      "status": "imported"
+    },
+    "voice_066:r_428c2116ac3071b1": {
+      "text": "You disgrace the Personal Guard!",
+      "status": "imported"
+    },
+    "voice_066:r_84c116267b79f540": {
+      "text": "They control the whole fight...!",
+      "status": "imported"
+    },
+    "voice_066:r_dad38ee29af2df3a": {
+      "text": "I've got to deal with this one...!",
+      "status": "imported"
+    },
+    "voice_066:r_3d32e86f8dc80909": {
+      "text": "My output won't increase...?!",
+      "status": "imported"
+    },
+    "voice_066:r_70451ffbabe2f876": {
+      "text": "Move, now!\\nOr I'll be sniped...!",
+      "status": "imported"
+    },
+    "voice_066:r_69dfa1659715e2fa": {
+      "text": "You've read my fighting range?!",
+      "status": "imported"
+    },
+    "voice_066:r_d996fd6d4ef5b329": {
+      "text": "Whew, that was close...!",
+      "status": "imported"
+    },
+    "voice_066:r_8ab47a28f99ef565": {
+      "text": "Somehow, I got past that...!",
+      "status": "imported"
+    },
+    "voice_066:r_546de3fb6db156ea": {
+      "text": "I dodged that with room to spare!",
+      "status": "imported"
+    },
+    "voice_066:r_ca85f87cee5e31f7": {
+      "text": "Just give it up already!",
+      "status": "imported"
+    },
+    "voice_066:r_9072ea7bc71df136": {
+      "text": "Good, I'll keep them occupied!",
+      "status": "imported"
+    },
+    "voice_066:r_04e815a8d425827d": {
+      "text": "I can win if I keep my distance...!",
+      "status": "imported"
+    },
+    "voice_066:r_d89011fe3e5d082a": {
+      "text": "What's wrong, Gundam?!",
+      "status": "imported"
+    },
+    "voice_066:r_3c5b0c2ac812d5de": {
+      "text": "Looks like an amateur pilot...!",
+      "status": "imported"
+    },
+    "voice_066:r_5b9e8897190892eb": {
+      "text": "You're not dying here, Banagher!",
+      "status": "imported"
+    },
+    "voice_066:r_7bea3023abbf8a94": {
+      "text": "So this is all Londo Bell can do...!",
+      "status": "imported"
+    },
+    "voice_066:r_c958860b0676b1f5": {
+      "text": "That didn't do a thing!",
+      "status": "imported"
+    },
+    "voice_066:r_7847e0ed7dc9282d": {
+      "text": "Whew, my equipment saved me...",
+      "status": "imported"
+    },
+    "voice_066:r_e42b52c7a987b906": {
+      "text": "It hit the shield!",
+      "status": "imported"
+    },
+    "voice_066:r_6825fd1ff907bd22": {
+      "text": "You have to use a shield well...!",
+      "status": "imported"
+    },
+    "voice_066:r_607f666f1563bc0d": {
+      "text": "Did it just graze me?!",
+      "status": "imported"
+    },
+    "voice_066:r_97b7431eeb81e6b6": {
+      "text": "It only hit me...! It only hit me!",
+      "status": "imported"
+    },
+    "voice_066:r_132f605d02975e71": {
+      "text": "That attack was awfully weak!",
+      "status": "imported"
+    },
+    "voice_066:r_9b9726b1872759d6": {
+      "text": "Well, that's about what I expected!",
+      "status": "imported"
+    },
+    "voice_066:r_1252db29683fefe0": {
+      "text": "Testing me? Or was that a warning?!",
+      "status": "imported"
+    },
+    "voice_066:r_ad3d538f1e909184": {
+      "text": "Even small hits add up, huh?!",
+      "status": "imported"
+    },
+    "voice_066:r_8c61c59a1c0aebbf": {
+      "text": "They pierced my armor so easily...!",
+      "status": "imported"
+    },
+    "voice_066:r_aba6a7662129d8ce": {
+      "text": "I thought I'd dodged that...!",
+      "status": "imported"
+    },
+    "voice_066:r_b84afafb8a33ec60": {
+      "text": "This is giving me a bad feeling...!",
+      "status": "imported"
+    },
+    "voice_066:r_c8c59db85bf875e6": {
+      "text": "They're hitting me with precision!",
+      "status": "imported"
+    },
+    "voice_066:r_391aa56435d9dd6e": {
+      "text": "A direct hit's no joke!",
+      "status": "imported"
+    },
+    "voice_066:r_7c796ba53bd7ea03": {
+      "text": "I'll have to change tactics...!",
+      "status": "imported"
+    },
+    "voice_066:r_fa944da4b6519006": {
+      "text": "Gundam really is a cut above...!",
+      "status": "imported"
+    },
+    "voice_066:r_95d047bcc17fccc6": {
+      "text": "Gundam...!\\nYou'd swallow me too?!",
+      "status": "imported"
+    },
+    "voice_066:r_640327a12a559b31": {
+      "text": "A Gundam knockoff with this power?!",
+      "status": "imported"
+    },
+    "voice_066:r_bdd38c584fa313d0": {
+      "text": "This power...! A new model indeed!",
+      "status": "imported"
+    },
+    "voice_066:r_3fd86c1027f317c8": {
+      "text": "Enough, Banagher...!",
+      "status": "imported"
+    },
+    "voice_066:r_d0372a183d2007ad": {
+      "text": "So the tide's with Londo Bell...!",
+      "status": "imported"
+    },
+    "voice_066:r_217aa5e1d545b44d": {
+      "text": "Super Robots...\\nThey're this strong!",
+      "status": "imported"
+    },
+    "voice_066:r_381992c5d8224937": {
+      "text": "No good!\\nFaster than a Mobile Suit!",
+      "status": "imported"
+    },
+    "voice_066:r_f1e7ed9e5874aba5": {
+      "text": "Damn!\\nSize doesn't decide battles!",
+      "status": "imported"
+    },
+    "voice_066:r_001cbec4d9a4283f": {
+      "text": "I'll hold out as long as I can...!",
+      "status": "imported"
+    },
+    "voice_066:r_8ad40afecd02b41e": {
+      "text": "Gah! That hit somewhere vital...!",
+      "status": "imported"
+    },
+    "voice_066:r_26e5efec03c03d78": {
+      "text": "I'll make one final stand...!",
+      "status": "imported"
+    },
+    "voice_066:r_4ad81e88c7557a8b": {
+      "text": "I've got one move left...! Watch!",
+      "status": "imported"
+    },
+    "voice_066:r_1f65a7af190e4674": {
+      "text": "Can't end now!\\nI fought for nothing!",
+      "status": "imported"
+    },
+    "voice_066:r_40c5a9358ed5bf29": {
+      "text": "For my family,\\nI can't die yet...!",
+      "status": "imported"
+    },
+    "voice_066:r_f2e18dfdfe0c89ea": {
+      "text": "Tch! Time to pull out...!",
+      "status": "imported"
+    },
+    "voice_066:r_cf7dbf49e96a5755": {
+      "text": "No...! My machine won't hold out!",
+      "status": "imported"
+    },
+    "voice_066:r_fa96676cc65bb509": {
+      "text": "Too bad! Game over.",
+      "status": "imported"
+    },
+    "voice_066:r_edd7a13ab8f06a14": {
+      "text": "I'll draw their attention!",
+      "status": "imported"
+    },
+    "voice_066:r_8165e5b41f0124c4": {
+      "text": "I'll secure the escape route!",
+      "status": "imported"
+    },
+    "voice_066:r_4e05581b7432cce8": {
+      "text": "Stay put!",
+      "status": "imported"
+    },
+    "voice_066:r_a60b107ea3c36a86": {
+      "text": "Let's take this step by step!",
+      "status": "imported"
+    },
+    "voice_066:r_e33693e5ba4665b0": {
+      "text": "Come on, take me on!",
+      "status": "imported"
+    },
+    "voice_066:r_72a21a1a489af001": {
+      "text": "I can't afford to botch this one!",
+      "status": "imported"
+    }
+  }
+}

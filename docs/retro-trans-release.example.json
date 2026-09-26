@@ -1,0 +1,19 @@
+{
+  "game_id": "srw-z3-jigoku-ps3",
+  "game_name": "Super Robot Taisen Z3: Jigoku-hen (PS3)",
+  "platform": "PS3",
+  "version": "SET_FROM_VERIFIED_BUILD",
+  "source_commit": "SET_TO_ACTUAL_BUILD_COMMIT",
+  "patches": [
+    {
+      "patch": "SRW-Z3-PS3-English-REPLACE_VERSION-from-original.xdelta",
+      "edition": "jp-bljs10256",
+      "language": "en",
+      "source_version": "original",
+      "source_format": "iso",
+      "target_format": "iso",
+      "source": "E:/REPLACE_WITH_INPUTS/original-japanese.iso",
+      "target": "E:/REPLACE_WITH_VERIFIED_OUTPUT/english.iso"
+    }
+  ]
+}

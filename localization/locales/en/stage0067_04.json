@@ -1,0 +1,990 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0067_04:r_caaab7bad760e16d": {
+      "text": "$$ラッセ$$\n「We broke through the defense line!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_99b162aa6aa286a2": {
+      "text": "$$スメラギ$$\n「Trans-Am, release!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_58fb02434a1c40b2": {
+      "text": "$$フェルト$$\n「Understood!\n　Releasing Trans-Am!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_1c0f94acd5a8a143": {
+      "text": "$$ミレイナ$$\n「$$マーティアル$$'s defense forces are coming out of the Cathedral, desu!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_1263541f4071624e": {
+      "text": "$$ラッセ$$\n「This really is $$マーティアル$$'s home base!\n　Incredible numbers!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_3bc300bbdc277d82": {
+      "text": "$$テッサ$$\n「Still, I doubt this is the enemy's full strength.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_38762a09460d8b6b": {
+      "text": "$$ミレイナ$$\n「More enemies incoming, desu!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_7ab28e70b4d4f641": {
+      "text": "$$スメラギ$$\n「Amalgam...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$ゲイツ$$\n「What the hell, what the hell!\n　I chased after my beloved $$テイタニア$$-chan,\n　and now pests show up!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_ec335e69f984b8b3": {
+      "text": "$$ゲイツ$$\n「Fine then!\n　I'll crush them in front of $$テイタニア$$-chan\n　and show off $$ゲイツ$$' manliness!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_0abcaf0c31978670": {
+      "text": "$$スメラギ$$\n「All units, launch!\n　Hurry!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_1d6bc48b7f246730": {
+      "text": "$$クルツ$$\n「Tch!\n　I expected it, but what a number!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_1af20fccc3c53cfc": {
+      "text": "$$ロックオン$$\n「Times like this call for spray fire, not sniping!\n　Leave it to me, $$クルツ$$!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_f951916061232dcd": {
+      "text": "$$マオ$$\n「Well... he's the star of this show, though.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_4d863c3fb88a4c39": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0067_04:r_44f4742c3dcce39a": {
+      "text": "$$ヒルデ$$\n「But facing this many enemies at once...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_9e701cdeb3842c21": {
+      "text": "$$デュオ$$\n「Don't get it wrong, $$ヒルデ$$.\n　Our job isn't to crush $$マーティアル$$,\n　it's to rescue $$フィアナ$$.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_6fd81f4abebe60c5": {
+      "text": "$$スザク$$\n「But that will still deal them a heavy blow.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_da2132b5038ec737": {
+      "text": "$$ゼロ$$\n「If intruders breach the headquarters of\n　the Order that worships the god of war, its authority falls.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_495d61d3ec7e16f2": {
+      "text": "$$ゼロ$$\n「Then the organization called $$マーティアル$$ is as good as dead.\n　Believers will scatter, and its power will fade.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_5cd353758cfe474d": {
+      "text": "$$テッサ$$\n「Still, we can't afford to be careless.\n　The defense units that broke through with Trans-Am\n　are likely heading here one after another.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_a653c8dec4c0f06f": {
+      "text": "$$スメラギ$$\n「First, six minutes!\n　If $$キリコ$$ can't break through that line in time,\n　the operation fails!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_86d493e37a9799a7": {
+      "text": "$$クルーゾー$$\n「Break through this many,\n　then escort her all the way there...\n　A tough assignment.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_09d0fcc600cdd3df": {
+      "text": "$$トロワ$$\n「Feeling hopeless?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_182faded068c15ed": {
+      "text": "$$クルーゾー$$\n「Without obstacles like these,\n　rescuing the beauty wouldn't feel as sweet.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_9c206d19bfda4bd5": {
+      "text": "$$ゼクス$$\n「That Lieutenant $$クルーゾー$$ fellow\n　really is quite the romantic...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_6e558bc69acf5bf3": {
+      "text": "$$ノイン$$\n「Though there are times he seems\n　oddly theatrical about it.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_d60d0818e965232f": {
+      "text": "$$ゼロ$$\n「You heard it!\n　All units, cover $$キリコ$$'s breakthrough!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_5b23687574286204": {
+      "text": "$$ゼロ$$\n「Operation time is six minutes!\n　Exceed it, and the operation fails!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_6fd86c96891ea942": {
+      "text": "$$ヒイロ$$\n「Mission, understood...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_43e4e548c0b28376": {
+      "text": "$$ゴウト$$\n「Do your best, $$キリコ$$!\n　That's what the assault gear's for!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_d80a9688790ed583": {
+      "text": "$$バニラ$$\n「We'll be waiting for you to come back\n　holding hands with $$フィアナ$$-chan!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_708bea61e3c43ada": {
+      "text": "$$ココナ$$\n「If you fail, you won't hear the end of it!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_7b6f159eeaf4de0f": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0067_04:r_0827963cfd706e8d": {
+      "text": "$$ハレルヤ$$\n「So that bastard's actually got fight in him!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$アレルヤ$$\n「Same goes for those of us covering him.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_3f4035fd9db81258": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0067_04:r_567b361a454c4b73": {
+      "text": "$n\n「We're going too, $$宗介$$.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_d22851aaafbbf8fc": {
+      "text": "$$宗介$$\n「Right...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_352534f64413d954": {
+      "text": "$$ロジャー$$\n「Well then, shall we get going, everyone?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_79f2664edb1af798": {
+      "text": "$$刹那$$\n「This mission, I will make it succeed...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$カレン$$\n「Go, $$キリコ$$!!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_1c5aa0d15ae24846": {
+      "text": "$$キリコ$$\n（I'm coming now... $$フィアナ$$!）",
+      "status": "imported"
+    },
+    "stage0067_04:r_53bb64ee17750ee2": {
+      "text": "$$Ｃ．Ｃ．$$\n「Has $$キリコ$$ broken through the line?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_7a7add80fde475ba": {
+      "text": "$$シャッコ$$\n「Once he storms the Cathedral,\n　they won't be able to touch him...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_b2befefdbed1393d": {
+      "text": "$$宗介$$\n「Go...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_2103f6df2ea2e447": {
+      "text": "$$宗介$$\n「Go, $$キリコ$$!!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_a12e3e130d896ff7": {
+      "text": "$$キリコ$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_b6f7b219eb4bd64b": {
+      "text": "$n\n「Something's coming from the Cathedral!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_91bf33c27ad39f0a": {
+      "text": "$$カレン$$\n「There you are, you kidnapper!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_ee220318b96ab538": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0067_04:r_ce1b55e526b6277a": {
+      "text": "$$テイタニア$$\n「Let's settle this, $$キリコ$$.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_c304df6888eb78f7": {
+      "text": "$$モンテ＝ウェルズ$$\n「Can you hear me, $$テイタニア$$.\n　The time has come to show the power of\n　the new $$法皇$$ and the $$ネクスタント$$.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_c26958634526e597": {
+      "text": "$$テイタニア$$\n「Father, you've already achieved your goal.\n　So all that's left is to erase $$キリコ$$, the tool\n　you used... is that it?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_cdb750c9d380881a": {
+      "text": "$$モンテ＝ウェルズ$$\n「What are you saying, $$テイタニア$$?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_95fda74613c97b39": {
+      "text": "$$テイタニア$$\n「$$キリコ$$ never wanted to fight...\n　Left alone, he could have lived somewhere\n　with no ties to $$マーティアル$$ at all...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_1956994937f8171e": {
+      "text": "$$テイタニア$$\n「$$キリコ$$... and that $$フィアナ$$, too...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_48f49f6728c15612": {
+      "text": "$$モンテ＝ウェルズ$$\n「What is it you're trying to say?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$テイタニア$$\n「To you, Father, both $$キリコ$$ and I\n　were merely tools for your ambition.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_f02c37d91387d0ad": {
+      "text": "$$テイタニア$$\n「The accident that led to my rebirth as a $$ネクスタント$$...\n　You engineered it, didn't you, Father.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$モンテ＝ウェルズ$$\n「So you knew.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_9796b3efa401a303": {
+      "text": "$$テイタニア$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0067_04:r_643b6eebfc0186b3": {
+      "text": "$$モンテ＝ウェルズ$$\n「From that moment, you and I began walking\n　the path to martyrdom together.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_291280e5f7eb9d70": {
+      "text": "$$テイタニア$$\n「Order through force was never meant to be like this...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_32eb462c1b4999cb": {
+      "text": "$$モンテ＝ウェルズ$$\n「$$マーティアル$$'s god is great.\n　With that power, even $$エタニティ・フラット$$\n　can be overcome, so the former $$法皇$$ said.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_1f4337d6d393fc37": {
+      "text": "$$テイタニア$$\n「To believe words like that, now, of all times...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_4740e748fae085ee": {
+      "text": "$$モンテ＝ウェルズ$$\n「What is it you don't like, $$テイタニア$$!\n　You were granted honor as well, weren't you!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_b76524cd840e1d37": {
+      "text": "$$テイタニア$$\n「...How ironic.\n　Never have I been more grateful for my aux-brain...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_730ffe18400abfc2": {
+      "text": "$$モンテ＝ウェルズ$$\n「That's right, use your aux-brain.\n　Go and fulfill your duty.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_ffe0fca26da5cd38": {
+      "text": "$$モンテ＝ウェルズ$$\n「Defeat $$キリコ$$ with your own hands, and prove\n　the power of the $$ネクスタント$$!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_bfb27f9eb2f7073e": {
+      "text": "$$テイタニア$$\n「I will.\n　But I won't be using my aux-brain.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_859dfa27bcaafe30": {
+      "text": "$$モンテ＝ウェルズ$$\n「What?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_71ebf05996a4b0fd": {
+      "text": "$$テイタニア$$\n「For the one shred of pride I have left as a warrior...!\n　And to live on as a human being...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_6214c11b1bca811e": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0067_04:r_8eaf6f3098ffed12": {
+      "text": "$$テイタニア$$\n「Come, $$キリコ$$...!\n　We'll settle this where no one can interfere!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_cf507214fe955d75": {
+      "text": "$$アレルヤ$$\n「$$キリコ$$!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_2113dcbabdfc758a": {
+      "text": "$$マリー$$\n「$$アレルヤ$$!\n　Enemy reinforcements incoming!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$スザク$$\n「At this rate, I can't get through to cover $$キリコ$$!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_6a74519e1fc29c4b": {
+      "text": "$$ヒイロ$$\n「Then we simply break through!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_5b992878fee054b5": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0067_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$テイタニア$$\n「$$フィアナ$$ is deep in the Cathedral... in the medical lab.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_4a14ec0c511c7f0d": {
+      "text": "$$キリコ$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_20cf167c0ec0d4d5": {
+      "text": "$$テイタニア$$\n「Don't worry.\n　Even if I win, I'll let him face the end with her.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_b591d812c96c6c99": {
+      "text": "$$キリコ$$\n「For what reason?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_e350fa099c1ab072": {
+      "text": "$$テイタニア$$\n「As long as I owe you an emotional debt,\n　I can't fight you at full strength.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$キリコ$$\n「...Let's go.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_c33bd700553abf91": {
+      "text": "$$テイタニア$$\n「This killing intent is different from before...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_feee5c91826230e1": {
+      "text": "$$キリコ$$\n（Wait for me, $$フィアナ$$.）",
+      "status": "imported"
+    },
+    "stage0067_04:r_bccc48e1964ad22d": {
+      "text": "$$テイタニア$$\n「Gah!\n　Have I... lost?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_f8736aaaa216c766": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0067_04:r_d1ec2522c87c361d": {
+      "text": "$$テイタニア$$\n「Why!\n　Why won't you finish me off!!?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_3599f0a4343fd95c": {
+      "text": "$$キリコ$$\n「I told you before.\n　There's no reason to.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_3bc7834a5bf3ee76": {
+      "text": "$$テイタニア$$\n「To humiliate me!?\n　As long as I live, I'll come after you and $$フィアナ$$\n　again and again!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_366814efdc8b5800": {
+      "text": "$$キリコ$$\n「I'll face you any time.\n　But don't lay a hand on $$フィアナ$$.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_9be1a4c10bb62515": {
+      "text": "$$テイタニア$$\n「Gh... I lost...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_94a88c90e557e16e": {
+      "text": "$$モンテ＝ウェルズ$$\n「Damn you, $$テイタニア$$!\n　This is what happens when you won't use your aux-brain!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_1c208ca0cbf26f28": {
+      "text": "$$モンテ＝ウェルズ$$\n「Very well, I'll force your aux-brain active!\n　You will cast aside your humanity!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_5b7ee307a700171a": {
+      "text": "$$テイタニア$$\n「!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_8d8f065c932da30a": {
+      "text": "$n\n「That's...!\n　She can still fight!?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_f5432119677514f7": {
+      "text": "$$宗介$$\n「Run, $$キリコ$$!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_4e5c8e989c4a7691": {
+      "text": "$$キリコ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_adec86483b13599a": {
+      "text": "$$テイタニア$$\n「Uoooooohhh!!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_2cf701bbcde3ec13": {
+      "text": "$$テイタニア$$\n「Guh... guhh...!\n　Gyaaaaaaaahh!!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_c17c58fdba72005e": {
+      "text": "$$モンテ＝ウェルズ$$\n「Fuhahahaha!\n　$$テイタニア$$ has no more use for such petty feelings!\n　A true human weapon is born!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_1fe8564d2b959317": {
+      "text": "$$テイタニア$$\n「Gyaaaaahh!!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_f527e012803f7f1c": {
+      "text": "$$キリコ$$\n「Guh!!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_4b1247bd3ca4905d": {
+      "text": "$$カレン$$\n「$$キリコ$$!!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_00c55e25f87b71d0": {
+      "text": "$$ティエリア$$\n「What in the world is that!?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_338f3b27e51dcc41": {
+      "text": "$$刹那$$\n「That pilot... she's lost all consciousness of her own!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_d91d4bc2d52b61c4": {
+      "text": "$$ヒイロ$$\n「Then what's controlling that AT is...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_0c8ea89b07432421": {
+      "text": "$$刹那$$\n「A machine...!\n　But I sense something pitch-black behind it!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_4dbfba00ba7744ee": {
+      "text": "$$刹那$$\n「This is... human malice...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_be100a32b731708d": {
+      "text": "$$モンテ＝ウェルズ$$\n「Finish him, $$テイタニア$$!\n　Before the eyes of all who believe in $$マーティアル$$,\n　defeat that 'Untouchable'... defeat $$キリコ$$!!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_702f82442fcec8a9": {
+      "text": "$$テイタニア$$\n「Gyaaaaahh!!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_b1e38da4e8775ffe": {
+      "text": "$$キリコ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$クルツ$$\n「You idiot!\n　Using a gun at point-blank range like that!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$クルーゾー$$\n「Going for a mutual kill!?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_3dad695c99e9e052": {
+      "text": "$$アレルヤ$$\n「$$キリコ$$!!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_66d4ae3a21caf881": {
+      "text": "$$シャッコ$$\n「Did both of them eject!?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_0c18da7b3a37825d": {
+      "text": "$$ティエリア$$\n「But...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_63249745ffae61b6": {
+      "text": "$$テイタニア$$\n「Chi...rico...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_abdb034ae8509702": {
+      "text": "$$モンテ＝ウェルズ$$\n「As expected, $$キリコ$$!\n　But bare-handed, beating $$テイタニア$$...\n　no, beating a $$ネクスタント$$ is impossible!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_3ff2e21207d1d1d3": {
+      "text": "$$モンテ＝ウェルズ$$\n「A $$ネクスタント$$ has a mechanical body!\n　Arms torn off, legs torn off, even shot in the\n　head, it'll keep fighting to kill you!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_e51ecf6d6aa42e75": {
+      "text": "$$ゼロ$$\n「Aim for its chest, $$キリコ$$!\n　That machine's the control unit!!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_47ddabb7b60131c2": {
+      "text": "$$キリコ$$\n「Guh...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_b025267f22788233": {
+      "text": "$$ゴウト$$\n「No good!\n　$$キリコ$$ can't even see the enemy right!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_ec1a06a7023bf72c": {
+      "text": "$$バニラ$$\n「Run, $$キリコ$$!!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_8805f96e52aaa462": {
+      "text": "$$キリコ$$\n「$$フィアナ$$!!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_124591cb154fae64": {
+      "text": "$$テイタニア$$\n「Ah...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$モンテ＝ウェルズ$$\n「I-Impossible!\n　He shot out only $$テイタニア$$'s auxiliary brain!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_4bf9b05b5f948170": {
+      "text": "$$モンテ＝ウェルズ$$\n「While he was losing consciousness,\n　could he really do something like that!\n　Such a coincidence... a miracle happening!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_eaa52d152f444bfd": {
+      "text": "$$スザク$$\n「So this is... the power of an $$異能生存体$$...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_b4bc9e9435b58e6f": {
+      "text": "$$ゼロ$$\n「No!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_a9227573166977a9": {
+      "text": "$$カレン$$\n「$$ゼロ$$...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_b0600ab9a9e8559d": {
+      "text": "$$ゼロ$$\n「This miracle is the power of $$キリコ$$'s will!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_7cbc63dad295f862": {
+      "text": "$$ヒイロ$$\n「Pulling the trigger without yielding to despair...\n　There's no victory for one without that will.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_07f53c816e0a51f5": {
+      "text": "$$宗介$$\n「It wasn't chance, or luck...\n　This result happened because he fired his gun...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_2d09c6f6a2d990ea": {
+      "text": "$n\n「A miracle didn't just happen...\n　$$キリコ$$ made the miracle happen...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_3c5fcfc484a51913": {
+      "text": "$$キリコ$$\n「Guh...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_0476ffd10c764b0e": {
+      "text": "$$ゼクス$$\n「With that body, he can still move...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$ロジャー$$\n「This is his will... his strength...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_2b3479c4cf0680f4": {
+      "text": "$$キリコ$$\n「$$フィアナ$$...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_e370696b8936b08c": {
+      "text": "$$トロワ$$\n「The area's defense forces have arrived, huh.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_9d7b02c5e728b7aa": {
+      "text": "$$カトル$$\n「Dealing with them is our job.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_9af213fc64e0afec": {
+      "text": "$$デュオ$$\n「Get going already, $$キリコ$$!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_d7f1c506e78e55ff": {
+      "text": "$$カレン$$\n「We'll stop those guys!\n　You go save $$フィアナ$$!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_0c705091f748360e": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0067_04:r_9eb8599304125b2f": {
+      "text": "$$テッサ$$\n「Are you prepared, everyone?\n　We'll defend this to the last until he's back!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_a072aa25e5f521e0": {
+      "text": "$$宗介$$\n「Understood!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_24e1a808a1609a1a": {
+      "text": "$$キリコ$$\n（$$フィアナ$$... I'm coming...）",
+      "status": "imported"
+    },
+    "stage0067_04:r_53128ce8f154fd06": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0067_04:r_03b5db9ce98fb8d6": {
+      "text": "$$カレン$$\n「$$キリコ$$!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_3915fb4102f1c1dd": {
+      "text": "$$ココナ$$\n「What happened to $$フィアナ$$!?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_817b2773b4ed563e": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0067_04:r_1cc233cbc8c80af7": {
+      "text": "$$アレルヤ$$\n「That explosion... did $$キリコ$$ do that...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$マリー$$\n「Then, $$フィアナ$$...?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_e180b22d18f48d38": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0067_04:r_e598c2a0b27e7f50": {
+      "text": "$$スザク$$\n「Flames enveloping the cathedral...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_4d2a9066c4e7b27f": {
+      "text": "$$ゼロ$$\n「Fires of mourning, huh...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_10340119af3ed6db": {
+      "text": "$$宗介$$\n「That can't be...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_23a9c7ab620ab112": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0067_04:r_4f0aca6deda07883": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0067_04:r_8fe40600ce62dfbc": {
+      "text": "$$スメラギ$$\n「...Recover $$キリコ$$, and have every unit\n　withdraw. Regroup at the rendezvous point.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_ff4ce5f3cf96b617": {
+      "text": "$$ゼロ$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_d73c21f119847e35": {
+      "text": "$$スザク$$\n「What's wrong?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_89766f5ffaa912d4": {
+      "text": "$$ゼロ$$\n「No... don't worry about it.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$モンテ＝ウェルズ$$\n「I-Impossible...!\n　To think $$アレギウム$$'s defense force would be\n　wiped out in less than an hour...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_451f726d4299ea35": {
+      "text": "$$モンテ＝ウェルズ$$\n「A-At this rate, $$マーティアル$$ will...!\n　Aaaaaaah!!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_e3d111e8bb190cb1": {
+      "text": "$$法皇$$\n「That is why I told you.\n　That man is 'Untouchable'...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$モンテ＝ウェルズ$$\n「W-What... what should I do!?\n　Your Holiness, please tell me!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_ab97c2b2418ea732": {
+      "text": "$$法皇$$\n「I am no longer the $$法皇$$.\n　Think for yourself.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_2ddff5064af78db4": {
+      "text": "$$法皇$$\n「Or will you cling to God?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_050d0532c4b24bfe": {
+      "text": "$$モンテ＝ウェルズ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_d583fcea31bdad2e": {
+      "text": "$$モンテ＝ウェルズ$$\n「I-I can hear it!\n　Even I can hear the voice of God!!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_475f7653621a91b5": {
+      "text": "$$モンテ＝ウェルズ$$\n「I-If I follow these teachings, I can live!\n　Both I and $$マーティアル$$ can!!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_f228ae702350849b": {
+      "text": "$$法皇$$\n「...Foolish...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_d69dc027cba3003f": {
+      "text": "$$テイタニア$$\n「$$キリコ$$...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_3c3735172a480b72": {
+      "text": "$$ロッチナ$$\n「Anyone who crosses him ends up like this...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_1f418b5594cea300": {
+      "text": "$$ロッチナ$$\n「That's not something he did alone.\n　Fate, warped just slightly by $$キリコ$$,\n　will eventually drag everything down and collapse.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_f87fb889124bfaef": {
+      "text": "$$ロッチナ$$\n「$$キリコ・キュービィー$$...\n　He's the first spark of the all-consuming flame.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_79c90de32a79212d": {
+      "text": "$$テイタニア$$\n「...I... I took $$フィアナ$$ away from $$キリコ$$...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_33f7fd55913419e8": {
+      "text": "$$ロッチナ$$\n「Don't worry about it, $$テイタニア$$.\n　That was the $$ＰＳ$$'s lifespan.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_473d9a88b4ca96e7": {
+      "text": "$$テイタニア$$\n「Did you... know this would happen...?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_4de6ac85c63bac12": {
+      "text": "$$ロッチナ$$\n「More or less.\n　But knowing wouldn't have let me do anything.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_4c92652c9b1adf6f": {
+      "text": "$$ロッチナ$$\n「That's the limit of being human.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_ce90563a934d49fb": {
+      "text": "$$テイタニア$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0067_04:r_4fb296e63cb1fb46": {
+      "text": "$$ロッチナ$$\n「Aren't you curious what's next for $$キリコ$$, though?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$ロッチナ$$\n「Even after losing the one he loves,\n　$$キリコ$$ keeps fighting in a world starting to\n　collapse. Anyone who knows that fate is a god.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_9dc59affd40f32fc": {
+      "text": "$$テイタニア$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0067_04:r_0cea115be526a319": {
+      "text": "$$ロッチナ$$\n「Where are you going, $$テイタニア$$?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_d36072babd12aeb4": {
+      "text": "$$テイタニア$$\n「I don't know...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_09ee921a85025fd3": {
+      "text": "$$テイタニア$$\n（Wherever $$キリコ$$ is headed...\n　that's where my own journey leads.）",
+      "status": "imported"
+    },
+    "stage0067_04:r_fae689f2a1057b61": {
+      "text": "$$テイタニア$$\n（Even without exchanging a single word,\n　as long as I live, I will love him.\n　This much is certain.）",
+      "status": "imported"
+    },
+    "stage0067_04:r_91c6d0bb53854ecc": {
+      "text": "$$テイタニア$$\n（Because I can't help feeling that is\n　exactly what I was born for...）",
+      "status": "imported"
+    },
+    "stage0067_04:r_42a3149105314ab8": {
+      "text": "$$ノイン$$\n「Alright...!\n　The defense force is dealt with!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_62ecd978c667bd29": {
+      "text": "$$ゼクス$$\n「Now $$キリコ$$ just needs to storm the cathedral!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_d441e6cc908ac01b": {
+      "text": "$$フェルト$$\n「Ms. $$スメラギ$$!\n　Nearby defense forces are massing in this area!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_b2aab8873350ea1f": {
+      "text": "$$スメラギ$$\n「Continuing this fight any longer will lead\n　to an irreversible situation...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_2c7af4c55d8ac938": {
+      "text": "$$テッサ$$\n「...We have no choice but to retreat.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_653b741d07545dff": {
+      "text": "$$キリコ$$\n（$$フィアナ$$...!）",
+      "status": "imported"
+    },
+    "stage0067_04:r_d584d4b5af55b1cf": {
+      "text": "$$テイタニア$$\n「Don't interfere with my fight against $$キリコ$$!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_db0ee69ece206fcd": {
+      "text": "$$テイタニア$$\n「I'll deal with you later!\n　Until then, you can just wait there!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_f97e6925c9e37332": {
+      "text": "$$ゲイツ$$\n「Geh!\n　What a disgrace, right in front of my\n　darling $$テイタニア$$! $$ゲイツ$$'s shame for life!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_422861e0b8d77d0c": {
+      "text": "$$ゲイツ$$\n「Well... as long as I have these sideburns,\n　I'm immortal, though.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_ef16bcaa2b0e0c45": {
+      "text": "$$ゲイツ$$\n「Well then, bye-bye, $$テイタニア$$!\n　Though we probably won't meet again...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_2b93cca10f1c36a8": {
+      "text": "$$スメラギ$$\n「Amalgam's lead unit...\n　They retreated pretty easily, huh.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_7980fd37141d88d0": {
+      "text": "$$テッサ$$\n「There's also the matter of the Geminis battle\n　the other day. Amalgam might be planning to\n　cut $$マーティアル$$ loose, you know...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_ac21212c36d2b9ad": {
+      "text": "$$スメラギ$$\n「In other words, they've worked out they can\n　get by just fine without $$マーティアル$$...」",
+      "status": "imported"
+    },
+    "stage0067_04:r_a26e2108358af7a4": {
+      "text": "$$テッサ$$\n「That's probably how we should see it.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_a8118b2e37aa1382": {
+      "text": "$$テイタニア$$\n「I'm glad that I can finally\n　settle things with you, here.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_017a56991b7b8ca4": {
+      "text": "$$キリコ$$\n「I have no business with you.\n　Move aside.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_ad3e1db3419665fb": {
+      "text": "$$テイタニア$$\n「A woman, over battle...\n　Is that the answer you found...?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_0149e3a5f2e5ef78": {
+      "text": "$$テイタニア$$\n「But you can't run from me anymore!\n　If you want to see $$フィアナ$$, defeat me!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_3ad10e705167a3fa": {
+      "text": "$$キリコ$$\n「...So it seems.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_bdc546b199c80996": {
+      "text": "$$テイタニア$$\n「Finally getting serious, are you!\n　Then I'll beat you with everything I have!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_22c8caf8c08c5119": {
+      "text": "$$テイタニア$$\n「That's the only reason I have left to live!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_9c13714b3efbc7a8": {
+      "text": "$$ゲイツ$$\n「Lucky you, $$キリコ$$!\n　Having $$テイタニア$$ chase after your butt!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_96f156e19b53fc09": {
+      "text": "$$キリコ$$\n「I don't have time to deal with you.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_feb0390bba7fe1fb": {
+      "text": "$$ゲイツ$$\n「What!?\n　Don't tell me $$テイタニア$$ is head over heels\n　for that cool attitude of yours!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_8a78bcec22029401": {
+      "text": "$$ゲイツ$$\n「Then $$ゲイツ$$ needs a makeover too!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_f42017dfce31dea9": {
+      "text": "$$ゲイツ$$\n「I'm going to... kill you.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_ef7426919f628d8a": {
+      "text": "$$ゲイツ$$\n「How was that!\n　Wasn't that the ultimate killer line!?」",
+      "status": "imported"
+    },
+    "stage0067_04:r_9e994a4b926d9906": {
+      "text": "$$キリコ$$\n「Move.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_ffae76d2a77abf5a": {
+      "text": "$$ゲイツ$$\n「Codarl's shakedown run is about done, too.\n　Too bad we didn't get to enjoy a battle\n　between two Lambda Driver units.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_3ac462d37e5893ff": {
+      "text": "$$宗介$$\n「This guy... he's toying with me...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_fd6bdf7910d7d925": {
+      "text": "$$ゲイツ$$\n「In short, you were a disappointment.\n　Not an opponent worth my time.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_d38be46e6cd7a5e5": {
+      "text": "$$宗介$$\n「You...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_3fe2078328753c16": {
+      "text": "$$ゲイツ$$\n「Getting angry?\n　Then try firing up your Lambda Driver.」",
+      "status": "imported"
+    },
+    "stage0067_04:r_c66844158d1ce600": {
+      "text": "$$ゲイツ$$\n「That way, I might enjoy this a little too...!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_d037ecbc1e348dc9": {
+      "text": "$$宗介$$\n（$$キリコ$$ is ready to throw away everything\n　for what he has to protect...）",
+      "status": "imported"
+    },
+    "stage0067_04:r_bcd53d14c4785426": {
+      "text": "$$宗介$$\n（Chidori... I...）",
+      "status": "imported"
+    },
+    "stage0067_04:r_9ca55ea7feca954a": {
+      "text": "$$カレン$$\n「Anyone who messes with $$キリコ$$ and $$フィアナ$$\n　will have to deal with me!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_554ae12c4c170253": {
+      "text": "$$カレン$$\n「$$キリコ$$ found something more precious\n　than fighting. We'll protect that, no matter what!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_fa59c6df081e6ae4": {
+      "text": "$$ゼロ$$\n（The god of $$マーティアル$$, whose creed is battle itself...）",
+      "status": "imported"
+    },
+    "stage0067_04:r_ca3edf3b8b52aedf": {
+      "text": "$$ゼロ$$\n（What is this unease I feel...?\n　What am I sensing...!）",
+      "status": "imported"
+    },
+    "stage0067_04:r_aa5d235c78ebe19f": {
+      "text": "$$マリー$$\n「Let's go, $$アレルヤ$$!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_0b3b19cddb871f90": {
+      "text": "$$アレルヤ$$\n「I know, $$マリー$$!\n　We'll give $$キリコ$$ cover fire!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_304e98dac43c9333": {
+      "text": "$$アレルヤ$$\n「So, $$キリコ$$!\n　Go save $$フィアナ$$, no matter what!」",
+      "status": "imported"
+    },
+    "stage0067_04:r_b740d817a14afd3a": {
+      "text": "$$Ｃ．Ｃ．$$\n（Battle drives humanity's evolution, does it...）",
+      "status": "imported"
+    },
+    "stage0067_04:r_40e4c010d1b35b4c": {
+      "text": "$$Ｃ．Ｃ．$$\n（That's exactly the kind of thing they'd think.）",
+      "status": "imported"
+    },
+    "stage0067_04:r_c33abf00683a32bc": {
+      "text": "$$シャッコ$$\n（Now, even I get it.\n　The true nature of $$マーティアル$$'s god.）",
+      "status": "imported"
+    },
+    "stage0067_04:r_3036adce91d1f4a8": {
+      "text": "$$シャッコ$$\n（$$キリコ$$...\n　You're the one who can beat him.）",
+      "status": "imported"
+    },
+    "stage0067_04:r_019293cb83599509": {
+      "text": "$n\n（Me, $$キリコ$$, everyone, we're all the same...\n　We fight for what matters most to us...）",
+      "status": "imported"
+    },
+    "stage0067_04:r_9b949b9281aaeef1": {
+      "text": "$n\n（So we're giving $$キリコ$$ cover fire...!\n　Like he's another version of us...!）",
+      "status": "imported"
+    },
+    "stage0067_04:r_b39a1dd705fe6cbf": {
+      "text": "$n\n（Win, $$キリコ$$...!）",
+      "status": "imported"
+    },
+    "stage0067_04:r_c9016e3ab05470b0": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

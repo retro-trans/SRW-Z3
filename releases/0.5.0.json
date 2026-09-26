@@ -1,0 +1,90 @@
+{
+ "version": "0.5.0",
+ "note": "voice track complete; descriptions, tutorials, library and status screens",
+ "files": {
+  "AIDDATAPACK.CPK": {
+   "bytes": 10382500,
+   "sha1": "f70184675a8c0b22c842bb38bf91e05ddfebdb7e"
+  },
+  "EBOOT.BIN": {
+   "bytes": 9306112,
+   "sha1": "86109d00a8c7e5cea6c9a736f5702f7f60dc5b44"
+  },
+  "MTV_ALL_KEYWORD_DEF.CPK": {
+   "bytes": 180995,
+   "sha1": "16b2c1e311bc91cb483f3cdfbb712786f5ca1bad"
+  },
+  "MTZKN_KW.CPK": {
+   "bytes": 317225,
+   "sha1": "75190bb33cff64b0d4b80c93f0022b1ff7a43863"
+  },
+  "MTZKN_PT.CPK": {
+   "bytes": 1277958,
+   "sha1": "1a28c13320d6dc06b79540a5950e18273efe0ab0"
+  },
+  "MTZKN_RT.CPK": {
+   "bytes": 728702,
+   "sha1": "bd941e9013573a824efbcf41cd0fab498ba58745"
+  },
+  "RPW_DATA.CPK": {
+   "bytes": 550092,
+   "sha1": "d915c0e3525cd06e0a48d00eae93b79b00972146"
+  },
+  "SRVC.BIN": {
+   "bytes": 2192672,
+   "sha1": "73fb406e384fa21207c2eb3623c1527115c0a70c"
+  },
+  "STG0001A.SDAT": {
+   "bytes": 34128,
+   "sha1": "e13651f9cc112e3f62ae0b09eea4db60cf6cb208"
+  },
+  "STG0001B.SDAT": {
+   "bytes": 96608,
+   "sha1": "16a83214cc4aa7fe17202490fa9085a41d81d1d8"
+  },
+  "STG0002.SDAT": {
+   "bytes": 173120,
+   "sha1": "9756183308874b6aea8cf7b894989fbfd817b415"
+  },
+  "STG0003.SDAT": {
+   "bytes": 129328,
+   "sha1": "2606a9597ea75586a4bb60c0f42f00decc8bb76c"
+  },
+  "STG0004.SDAT": {
+   "bytes": 191344,
+   "sha1": "21627339b7bf66649ec723af6fbc5048dae2ceba"
+  },
+  "STG0005.SDAT": {
+   "bytes": 134576,
+   "sha1": "ff0f1c5fd2224d4cf1684f848fd1f775be55d19d"
+  },
+  "STG0006.SDAT": {
+   "bytes": 126720,
+   "sha1": "7c9f94f976d5cf9c25e2de67f5eafb6790439ecd"
+  },
+  "STG0007A.SDAT": {
+   "bytes": 39120,
+   "sha1": "7b2312e3f66de15a20f7374d55808d645fd1b417"
+  },
+  "STG0007B.SDAT": {
+   "bytes": 133328,
+   "sha1": "8ab9317f47a799ad3746007d3a9a81971d1d9f20"
+  },
+  "STG0008.SDAT": {
+   "bytes": 148256,
+   "sha1": "258f38ef75592e5d7305b3add6393eb715ed3b4c"
+  },
+  "STG0009.SDAT": {
+   "bytes": 122704,
+   "sha1": "5ea4a1bdfccbbf228d28dca057921c011501abf6"
+  },
+  "STG0010.SDAT": {
+   "bytes": 268880,
+   "sha1": "1220709180d3c0523581f97699e10f9d38c7ece0"
+  },
+  "TPACKPS3.CPK": {
+   "bytes": 27024984,
+   "sha1": "2efbdf15d6b35491fdf582169a1fc99df59f3b76"
+  }
+ }
+}

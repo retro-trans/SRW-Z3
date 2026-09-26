@@ -1,0 +1,434 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0031a_03:r_caaab7bad760e16d": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0031a_03:r_99b162aa6aa286a2": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0031a_03:r_58fb02434a1c40b2": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0031a_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　　\n　　　　　　　　～ $$ドラゴンズハイヴ$$ Hangar ～",
+      "status": "imported"
+    },
+    "stage0031a_03:r_1263541f4071624e": {
+      "text": "$$赤木$$\n「...$n,\n　have you seen $$シンジ$$ and $$レイ#333$$?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_3bc300bbdc277d82": {
+      "text": "$n\n「Those two, they headed to NERV\n　together with $$ミサト$$」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_38762a09460d8b6b": {
+      "text": "$$赤木$$\n「What for?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_7ab28e70b4d4f641": {
+      "text": "$n\n「Apparently they're refitting the EVAs.\n　Feeding back real combat data, I'd guess」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$赤木$$\n「I see...\n　And here I was going to spar with them\n　in zero-g combat drills」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_ec335e69f984b8b3": {
+      "text": "$$いぶき$$\n「Not heading to space anytime soon,\n　what with reporting that $$宇宙魔王#pilot$$\n　business to Director $$大塚$$」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_0abcaf0c31978670": {
+      "text": "$$甲児$$\n「Besides, once the EVA refit's done,\n　$$シンジ$$ and the others will be back here」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_1d6bc48b7f246730": {
+      "text": "$$赤木$$\n「True enough...\n　Guess I'll teach you the ropes of\n　urban combat this time then」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_1af20fccc3c53cfc": {
+      "text": "$n\n「Then, $$赤木$$...\n　Can you train with me before $$シンジ$$?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_f951916061232dcd": {
+      "text": "$$赤木$$\n「Got it.\n　Fair warning, my coaching's tough」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_4d863c3fb88a4c39": {
+      "text": "$$アマタ$$\n「Maybe I'll train with $n too...」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_44f4742c3dcce39a": {
+      "text": "$$カイエン$$\n「Don't.\n　Copy $$ダイ・ガード$$'s fighting style\n　and you'll pick up bad habits」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_9e701cdeb3842c21": {
+      "text": "$$カイエン$$\n「Their way of fighting is so obsessed\n　with avoiding collateral damage\n　that it lacks aggression at times」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_6fd81f4abebe60c5": {
+      "text": "$$青山$$\n「Fair point.\n　How to minimize collateral damage\n　while beating $$ヘテロダイン$$s was our whole fight」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_da2132b5038ec737": {
+      "text": "$n\n「I think that's the right way to fight.\n　That's why I plan to learn it from $$赤木$$」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_495d61d3ec7e16f2": {
+      "text": "$$カイエン$$\n「Our job is to defeat the enemy.\n　Sometimes that means turning a blind eye\n　to a little collateral damage」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_5cd353758cfe474d": {
+      "text": "$n\n「I'm not denying your way.\n　But I'll do things my own way」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_a653c8dec4c0f06f": {
+      "text": "$$カイエン$$\n「Do as you please.\n　But if you ever drag me down\n　on the battlefield, you won't like what follows」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_86d493e37a9799a7": {
+      "text": "$$アマタ$$\n「Sounds like you're in a bad mood, $$カイエン$$...」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_09d0fcc600cdd3df": {
+      "text": "$$アンディ$$\n「Probably because of $$ミコノ$$」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_182faded068c15ed": {
+      "text": "$$甲児$$\n「Did something happen?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_9c206d19bfda4bd5": {
+      "text": "$$アンディ$$\n「Heard it from $$ＭＩＸ$$...\n　No matter how much she trains, $$ミコノ$$'s\n　Element ability just won't activate」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_6e558bc69acf5bf3": {
+      "text": "$$アマタ$$\n「But even so, didn't $$ミコノ$$\n　decide to fight alongside us...?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_d60d0818e965232f": {
+      "text": "$$アンディ$$\n「Even if she knows that in her head,\n　it's still hard on her. In fact, whenever\n　she's free, she just shuts herself in her room」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_5b23687574286204": {
+      "text": "$$アマタ$$\n「$$ミコノ$$...」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_6fd86c96891ea942": {
+      "text": "$n\n「If you're worried, go see her.\n　I'll start training without you」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_43e4e548c0b28376": {
+      "text": "$$アマタ$$\n「Sorry, $n.\n　I'll do that」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_d80a9688790ed583": {
+      "text": "$$いぶき$$\n「It's nice, young people giving their all」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_708bea61e3c43ada": {
+      "text": "$$赤木$$\n「$$いぶき$$, you sound like a mom」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_7b6f159eeaf4de0f": {
+      "text": "$$いぶき$$\n「Shut up!」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_0827963cfd706e8d": {
+      "text": "$$赤木$$\n「Wh, why are you mad, I complimented you?!」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$n\n「In your case, $$赤木$$,\n　you should get coaching on women's hearts」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_3f4035fd9db81258": {
+      "text": "$$アンディ$$\n「$n...\n　Mind waiting on the sim till $$アマタ$$'s back?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_567b361a454c4b73": {
+      "text": "$n\n「That's fine, but...」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_d22851aaafbbf8fc": {
+      "text": "$$アンディ$$\n「Tell us an occult story meanwhile」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_352534f64413d954": {
+      "text": "$n\n「Huh...?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_79f2664edb1af798": {
+      "text": "$$青山$$\n「I can read your angle, $$アンディ$$.\n　Want the girls screaming with ghost stories, huh?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$アンディ$$\n「As expected of $$青山$$!\n　Sharp as ever!」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_1c5aa0d15ae24846": {
+      "text": "$n\n「Then I won't be much help.\n　I don't know many ghost stories」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_53bb64ee17750ee2": {
+      "text": "$$アンディ$$\n「What! I heard you were\n　an occult maniac, and I was\n　looking forward to it!」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_7a7add80fde475ba": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_b2befefdbed1393d": {
+      "text": "$$甲児$$\n「What's wrong, $n?\n　Bothered by $$アンディ$$'s teasing?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_2103f6df2ea2e447": {
+      "text": "$n\n「It's not that...\n　What the $$宇宙魔王#pilot$$ said is bugging me now...」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_a12e3e130d896ff7": {
+      "text": "$$いぶき$$\n「What the $$宇宙魔王#pilot$$ said...?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_b6f7b219eb4bd64b": {
+      "text": "$n\n「Blood of beasts, meeting of waters, wind's path,\n　fire's civilization, the sun's glow, or so it goes」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_91bf33c27ad39f0a": {
+      "text": "$n\n「I know a saying similar to that」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_ee220318b96ab538": {
+      "text": "$$赤木$$\n「Eh...!?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_ce1b55e526b6277a": {
+      "text": "$n\n「The age of beasts, water, wind, fire,\n　and finally, the age of the sun...」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_c304df6888eb78f7": {
+      "text": "$n\n「This is a line from a doomsday prophecy\n　left behind by the old Mayan civilization」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_c26958634526e597": {
+      "text": "$$赤木$$\n「A doomsday prophecy!?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_cdb750c9d380881a": {
+      "text": "$$青山$$\n「You mean the world's going to end...?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_95fda74613c97b39": {
+      "text": "$$アンディ$$\n「What the heck is this Mayan civilization!?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_1956994937f8171e": {
+      "text": "$n\n「Old century... A civilization that thrived\n　in Central and South America long ago. Known\n　for its skilled astronomy and precise calendar」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_48f49f6728c15612": {
+      "text": "$n\n「They divided the flow of time into\n　the ages of beasts, water, wind, fire,\n　and the sun, but...」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$n\n「Since that Mayan calendar cuts off\n　right at the age of the sun, it was thought\n　to foretell humanity's end」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_f02c37d91387d0ad": {
+      "text": "$$甲児$$\n「Ridiculous.\n　That's a load of nonsense」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$赤木$$\n「I agree with $$甲児$$.\n　After all, humanity never ended,\n　seeing as we're all still here」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_9796b3efa401a303": {
+      "text": "$n\n「What bothers me is\n　the $$宇宙魔王#pilot$$ knew of the Mayan civilization」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_643b6eebfc0186b3": {
+      "text": "$$青山$$\n「That black hole incarnate...\n　has it come to Earth before...?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_291280e5f7eb9d70": {
+      "text": "$n\n「I don't know...\n　Miss $$スズネ$$'s reporting it to Director $$大塚$$, I hear」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_32eb462c1b4999cb": {
+      "text": "$$甲児$$\n（The end... the world ending...\n　$$あしゅら$$ said something like that too...）",
+      "status": "imported"
+    },
+    "stage0031a_03:r_1f4337d6d393fc37": {
+      "text": "$$甲児$$\n（Could it be that $$あしゅら$$ knows something\n　about the $$宇宙魔王#pilot$$...）",
+      "status": "imported"
+    },
+    "stage0031a_03:r_4740e748fae085ee": {
+      "text": "$$レイ#333$$'s Room",
+      "status": "imported"
+    },
+    "stage0031a_03:r_b76524cd840e1d37": {
+      "text": "$$レイ#333$$'s Room",
+      "status": "imported"
+    },
+    "stage0031a_03:r_730ffe18400abfc2": {
+      "text": "$$レイ#333$$'s Room",
+      "status": "imported"
+    },
+    "stage0031a_03:r_ffe0fca26da5cd38": {
+      "text": "　\n　　\n　　　　　　　　　　　～ $$綾波レイ$$'s Room ～",
+      "status": "imported"
+    },
+    "stage0031a_03:r_bfb27f9eb2f7073e": {
+      "text": "$$シンジ$$\n「...Excuse me」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_859dfa27bcaafe30": {
+      "text": "$$シンジ$$\n「Ayanami... not here?\n　I brought a new security card\n　from $$リツコ$$...」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_71ebf05996a4b0fd": {
+      "text": "$$シンジ$$\n「Not here...」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_6214c11b1bca811e": {
+      "text": "$$シンジ$$\n（I didn't know...\n　Ayanami lived in a place like this, here in $$第３新東京市$$...）",
+      "status": "imported"
+    },
+    "stage0031a_03:r_8eaf6f3098ffed12": {
+      "text": "$$シンジ$$\n（I... don't know anything about Ayanami...）",
+      "status": "imported"
+    },
+    "stage0031a_03:r_cf507214fe955d75": {
+      "text": "$$シンジ$$\n（But father... talks with Ayanami often.\n　With a face I've never seen him make...）",
+      "status": "imported"
+    },
+    "stage0031a_03:r_2113dcbabdfc758a": {
+      "text": "$$シンジ$$\n「...?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$シンジ$$\n「These... could they be father's glasses...\n　They're broken, but why are they in Ayanami's room...」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_6a74519e1fc29c4b": {
+      "text": "$$シンジ$$\n（Come to think of it, I heard $$ミサト$$\n　and the others say that when Unit-00 once\n　ran wild, father risked his life to save Ayanami...）",
+      "status": "imported"
+    },
+    "stage0031a_03:r_5b992878fee054b5": {
+      "text": "$$シンジ$$\n（These glasses...\n　are they from that time...）",
+      "status": "imported"
+    },
+    "stage0031a_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_4a14ec0c511c7f0d": {
+      "text": "$$シンジ$$\n「N-no... um...!\n　I wasn't... doing anything!」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_20cf167c0ec0d4d5": {
+      "text": "$$レイ#333$$\n「That... give it back」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_b591d812c96c6c99": {
+      "text": "$$シンジ$$\n「Ah!」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_e350fa099c1ab072": {
+      "text": "$$シンジ$$\n「Whoa!!」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$レイ#333$$\n「...Would you move?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_c33bd700553abf91": {
+      "text": "$$シンジ$$\n「S, sorry!!」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_feee5c91826230e1": {
+      "text": "$$レイ#333$$\n「...What?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_bccc48e1964ad22d": {
+      "text": "$$シンジ$$\n「Um... I was, uh... that...!\n　$$リツコ$$ asked me to deliver a card!」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_f8736aaaa216c766": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_d1ec2522c87c361d": {
+      "text": "$$シンジ$$\n「Anyway! Sorry!」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_3599f0a4343fd95c": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_3bc7834a5bf3ee76": {
+      "text": "$$シンジ$$\n「...Hey, aren't you scared, Ayanami?\n　Of piloting the Evangelion...」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_366814efdc8b5800": {
+      "text": "$$レイ#333$$\n「Why?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_9be1a4c10bb62515": {
+      "text": "$$シンジ$$\n「I heard you got badly hurt in the last test...\n　so I was, um... wondering if you're okay...」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_94a88c90e557e16e": {
+      "text": "$$レイ#333$$\n「Yes, I'm fine」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_1c208ca0cbf26f28": {
+      "text": "$$シンジ$$\n「But it could run wild again, put us in danger...\n　We might lose to an Angel and be killed...」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_5b7ee307a700171a": {
+      "text": "$$シンジ$$\n「I mean, with $$赤木$$ and the Volunteer Club\n　all fighting too, I don't mean to just watch...\n　but still...」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_8d8f065c932da30a": {
+      "text": "$$レイ#333$$\n「You're Commander Ikari's child, aren't you?」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_f5432119677514f7": {
+      "text": "$$シンジ$$\n「Yeah」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_4e5c8e989c4a7691": {
+      "text": "$$レイ#333$$\n「You can't believe in it?\n　Your father's work」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_adec86483b13599a": {
+      "text": "$$シンジ$$\n「Of course not!\n　Not a father like that!」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_2cf701bbcde3ec13": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_c17c58fdba72005e": {
+      "text": "$$シンジ$$\n「Ngh...」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_1fe8564d2b959317": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_f527e012803f7f1c": {
+      "text": "$$シンジ$$\n「That siren...!\n　Don't tell me...」",
+      "status": "imported"
+    },
+    "stage0031a_03:r_4b1247bd3ca4905d": {
+      "text": "$$レイ#333$$\n「It's here」",
+      "status": "imported"
+    }
+  }
+}

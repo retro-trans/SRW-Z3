@@ -1,0 +1,842 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0033b_04:r_caaab7bad760e16d": {
+      "text": "$$リリーナ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_99b162aa6aa286a2": {
+      "text": "$$マリーメイア$$\n「It's all right, Queen $$リリーナ$$.\n　The shelter under this Peace Memorial Hall\n　is one of the safest places in the world」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_58fb02434a1c40b2": {
+      "text": "$$マリーメイア$$\n「From what we've learned,\n　Federation High Command has decided\n　on a tactical weapon strike...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_1c0f94acd5a8a143": {
+      "text": "$$マリーメイア$$\n「It will end in failure,\n　broadcasting their own incompetence to the world」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_1263541f4071624e": {
+      "text": "$$ナナリー$$\n「...You don't intend to stop this fight, do you?」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_3bc300bbdc277d82": {
+      "text": "$$マリーメイア$$\n「Hehe... you two really do hate war, don't you.\n　But surely you don't wish\n　for humanity's history to end?」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_38762a09460d8b6b": {
+      "text": "$$リリーナ$$\n「What are you trying to say?」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_7ab28e70b4d4f641": {
+      "text": "$$マリーメイア$$\n「To put it simply, history\n　is like a waltz that never ends」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$マリーメイア$$\n「War, peace, revolution, the steps repeat forever...\n　But once I become ruler of the Earth Sphere,\n　history will change」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_ec335e69f984b8b3": {
+      "text": "$$マリーメイア$$\n「A lasting peace neither $$ＵＣＷ$$ nor $$ＡＤＷ$$ achieved...\n　I will be the one to bring it about.\n　Yes... a new era is about to begin」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_0abcaf0c31978670": {
+      "text": "$$ナナリー$$\n（The world my brother risked his life for...\n　to be destroyed like this...）",
+      "status": "imported"
+    },
+    "stage0033b_04:r_1d6bc48b7f246730": {
+      "text": "$$リリーナ$$\n（Not yet, $$ナナリー$$...\n　There's still hope left）",
+      "status": "imported"
+    },
+    "stage0033b_04:r_1af20fccc3c53cfc": {
+      "text": "$$マリーメイア$$ Soldier\n「Lord $$デキム$$, it appears $c has\n　broken through the first defense line」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_f951916061232dcd": {
+      "text": "$$デキム$$\n「I'll grant them that much credit.\n　But they can't have come through unscathed」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_4d863c3fb88a4c39": {
+      "text": "$$マリーメイア$$ Soldier\n「Yes, two warships and half the squad\n　are still fighting at the first defense line」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_44f4742c3dcce39a": {
+      "text": "$$マリーメイア$$ Soldier\n「Even the units that reached this\n　Peace Memorial Hall should be badly worn down」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_9e701cdeb3842c21": {
+      "text": "$$デキム$$\n「They were up against a $$サーペント$$ force\n　committed purely to defense.\n　I'll praise them for breaking the line this fast」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_6fd81f4abebe60c5": {
+      "text": "$$デキム$$\n「Let their defeat be the dawn of a new era」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_da2132b5038ec737": {
+      "text": "$$マリーメイア$$ Soldier\n「$c, incoming!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_495d61d3ec7e16f2": {
+      "text": "$$オットー$$\n「This is all that made it through...!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_5cd353758cfe474d": {
+      "text": "$$レイアム$$\n「Macross Quarter and $$ドラゴンズハイヴ$$,\n　half the mobile fleet is fighting at the first defense line」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_a653c8dec4c0f06f": {
+      "text": "$$オットー$$\n「Damn it...!\n　Even if it was a race against time,\n　our losses are nothing to laugh at!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_86d493e37a9799a7": {
+      "text": "$$ゼクス$$\n「Captain $$オットー$$, even so, we have to do this!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_09d0fcc600cdd3df": {
+      "text": "$$ノイン$$\n「The enemy defense force outnumbers us\n　by roughly three to one」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_182faded068c15ed": {
+      "text": "$$バナージ$$\n「So each of us has to face down\n　three of them alone...!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_9c206d19bfda4bd5": {
+      "text": "$$シンジ$$\n「No way...!\n　And our units are already badly damaged...!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_6e558bc69acf5bf3": {
+      "text": "$$シン$$\n「$$バナージ$$, $$シンジ$$!\n　If you're not confident, fall back!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_d60d0818e965232f": {
+      "text": "$$バナージ$$\n「...I'll do it.\n　Because this is a fight that shouldn't happen...!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_5b23687574286204": {
+      "text": "$$カミーユ$$\n「I've made up my mind...!\n　I'll disable as many enemy mobile suits as I can!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_6fd86c96891ea942": {
+      "text": "$$ヒルデ$$\n「$$ヒイロ$$ and the others are coming too!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_43e4e548c0b28376": {
+      "text": "$$デュオ$$\n「Been waiting for you guys.\n　So, where's $$五飛$$?」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_d80a9688790ed583": {
+      "text": "$$トロワ$$\n「He still needs more time」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_708bea61e3c43ada": {
+      "text": "$$カトル$$\n「Let's handle this ourselves for now」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_7b6f159eeaf4de0f": {
+      "text": "$$デュオ$$\n「Still can't play well with others, huh.\n　Well... if I could, I'd have passed\n　on a reckless fight like this too」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_0827963cfd706e8d": {
+      "text": "$$デュオ$$\n「Showing up to join us at a time like this,\n　gotta hand it to you guys」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$トロワ$$\n「I have a debt to repay\n　for taking the name $$トロワ・バートン$$」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_3f4035fd9db81258": {
+      "text": "$$デュオ$$\n「That's a rare joke, coming from you.\n　Where's $$カトル$$?」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_567b361a454c4b73": {
+      "text": "$$カトル$$\n「No need to ask, $$デュオ$$.\n　I feel the same way you do」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_d22851aaafbbf8fc": {
+      "text": "$$デュオ$$\n「Got it.\n　Guess that means neither of us\n　hates this world all that much」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_352534f64413d954": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_79f2664edb1af798": {
+      "text": "$$ゼクス$$\n「Can you fight, $$ヒイロ$$?」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$ヒイロ$$\n「That's what I live for」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_1c5aa0d15ae24846": {
+      "text": "$$オットー$$\n「All units, charge!\n　Crush the enemy MS force and save the Vice Minister!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_53bb64ee17750ee2": {
+      "text": "$$デュオ$$\n「Fighting that many\n　in this condition is rough」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_7a7add80fde475ba": {
+      "text": "$$トロワ$$\n「For us, this is nothing new」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_b2befefdbed1393d": {
+      "text": "$$カトル$$\n「True enough.\n　But today...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_2103f6df2ea2e447": {
+      "text": "$$ヒイロ$$\n「I know.\n　In this fight... winning or losing means nothing」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_a12e3e130d896ff7": {
+      "text": "$$ゼクス$$\n「$$ヒイロ$$...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_b6f7b219eb4bd64b": {
+      "text": "$$デュオ$$\n「So you're fired up, huh!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_91bf33c27ad39f0a": {
+      "text": "$$アムロ$$\n「All units, cover $$ヒイロ$$!\n　Break the defense force and open a path!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_ee220318b96ab538": {
+      "text": "$$アムロ$$\n「We can't sustain a long fight!\n　We settle this in five minutes!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_ce1b55e526b6277a": {
+      "text": "$$カレン$$\n「Go, $$ヒイロ$$!\n　I'll cover you!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_c304df6888eb78f7": {
+      "text": "$$ヒイロ$$\n「Understood」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_c26958634526e597": {
+      "text": "$$レイアム$$\n「Enemy units approaching from the rear!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_cdb750c9d380881a": {
+      "text": "$$オットー$$\n「Damn it! We'll be caught in a pincer!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_95fda74613c97b39": {
+      "text": "$$リディ$$\n「Neo Zeon, is it!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_1956994937f8171e": {
+      "text": "$$エマ$$\n「I knew it, $$マリーメイア$$ and Neo Zeon\n　were working together!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_48f49f6728c15612": {
+      "text": "$$カミーユ$$\n「Ngh...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$アムロ$$\n「$$カミーユ$$, don't think about him right now」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_f02c37d91387d0ad": {
+      "text": "$$カミーユ$$\n「But...!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$アムロ$$\n「Get distracted on the battlefield and you'll die!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_9796b3efa401a303": {
+      "text": "$$カミーユ$$\n「Yes...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_643b6eebfc0186b3": {
+      "text": "$$シン$$\n（$$カミーユ$$...）",
+      "status": "imported"
+    },
+    "stage0033b_04:r_291280e5f7eb9d70": {
+      "text": "$$ギュネイ$$\n「Dragged in to help an outdated old man\n　and his little doll of a princess」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_32eb462c1b4999cb": {
+      "text": "$$アンジェロ$$\n「Don't forget, $$ギュネイ・ガス$$.\n　This is a plan the Colonel devised」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_1f4337d6d393fc37": {
+      "text": "$$ギュネイ$$\n「You're the one who shouldn't forget, $$アンジェロ・ザウパー$$.\n　Just who leads Neo Zeon」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_4740e748fae085ee": {
+      "text": "$$アンジェロ$$\n（This guy...）",
+      "status": "imported"
+    },
+    "stage0033b_04:r_b76524cd840e1d37": {
+      "text": "$$ギュネイ$$\n（Just as I thought, I don't like him...）",
+      "status": "imported"
+    },
+    "stage0033b_04:r_730ffe18400abfc2": {
+      "text": "$$オットー$$\n「$$マリーメイア$$ ahead, Neo Zeon behind...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_ffe0fca26da5cd38": {
+      "text": "$$レイアム$$\n「What are your orders, Captain?」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_bfb27f9eb2f7073e": {
+      "text": "$$オットー$$\n「At a time like this, we push forward...!\n　Show weakness and they'll exploit it!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_859dfa27bcaafe30": {
+      "text": "$$シン$$\n「The defense force is wiped out!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_71ebf05996a4b0fd": {
+      "text": "$$ゼクス$$\n「Go, $$ヒイロ$$!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_6214c11b1bca811e": {
+      "text": "$$ヒイロ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_8eaf6f3098ffed12": {
+      "text": "$$レイアム$$\n「$$ヒイロ・ユイ$$ broke through the enemy defense force!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_cf507214fe955d75": {
+      "text": "$$オットー$$\n「But what's he planning to do from here!?」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_2113dcbabdfc758a": {
+      "text": "$$アンジェロ$$\n「Tch... so I couldn't finish off\n　this so-called $c after all」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$アンジェロ$$\n「No matter.\n　The mission's done, we're pulling back」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_6a74519e1fc29c4b": {
+      "text": "$$ギュネイ$$\n「Our job ends here.\n　Fall back」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_5b992878fee054b5": {
+      "text": "$$ギュネイ$$\n（$c... $$カミーユ・ビダン$$...\n　We'll settle this next time）",
+      "status": "imported"
+    },
+    "stage0033b_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$マリーメイア$$ Soldier\n「Neo Zeon is falling back!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_4a14ec0c511c7f0d": {
+      "text": "$$デキム$$\n「That Red Comet!\n　So he'll only lend the bare minimum of help!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_20cf167c0ec0d4d5": {
+      "text": "$$デキム$$\n「No matter.\n　Deploy every reserve $$サーペント$$」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_b591d812c96c6c99": {
+      "text": "$$宗介$$\n「They still had that many left in reserve...!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_e350fa099c1ab072": {
+      "text": "$$カトル$$\n「At this rate, $$ヒイロ$$ is going to...!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$デュオ$$\n「Like hell I'll let that happen!!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_c33bd700553abf91": {
+      "text": "$$カレン$$\n「Everyone!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_feee5c91826230e1": {
+      "text": "$$デキム$$\n「Fools, all of them!\n　Trying to be shields for that Gundam!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_bccc48e1964ad22d": {
+      "text": "$$デキム$$\n「$$ＺＥＵＴＨ$$ and $$ＺＥＸＩＳ$$, feared as the strongest\n　in their own worlds, look pretty pathetic now!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_f8736aaaa216c766": {
+      "text": "$$マリーメイア$$ Soldier\n「Lord $$デキム$$, the broadcast is ready」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_d1ec2522c87c361d": {
+      "text": "$$デキム$$\n「Good...!\n　Broadcast this scene to the entire world!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_3599f0a4343fd95c": {
+      "text": "$$ミヒロ$$\n「Captain!\n　The $$マリーメイア$$ Army intends to broadcast this fight!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_3bc7834a5bf3ee76": {
+      "text": "$$オットー$$\n「Damn it!\n　They mean to advertise their victory to the world!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_366814efdc8b5800": {
+      "text": "$$デキム$$\n「$$サーペント$$ squadron, don't let up the attack!\n　Fire at will!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_9be1a4c10bb62515": {
+      "text": "$$カレン$$\n「$$ヒイロ$$!\n　Everyone's...!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_94a88c90e557e16e": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_1c208ca0cbf26f28": {
+      "text": "$$セイナ$$\n「The world we fought and bled to create...\n　I came to watch it start to collapse, but...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_5b7ee307a700171a": {
+      "text": "$$セイナ$$\n「Never thought I'd be here\n　to witness $$紅月カレン$$'s final moment...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_8d8f065c932da30a": {
+      "text": "$$デキム$$\n「All that's left is the winged Gundam!\n　Shoot it down!!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_f5432119677514f7": {
+      "text": "$$カレン$$\n「The radiant barrier won't hold much longer!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_4e5c8e989c4a7691": {
+      "text": "$$セイナ$$\n「Farewell, $$紅月カレン$$.\n　The last of the Black Knights...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_adec86483b13599a": {
+      "text": "$$セイナ$$\n「When you fall, my last shred of pride truly ends...\n　Then, I'll just give this crumbling world a push」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_2cf701bbcde3ec13": {
+      "text": "$$ヒイロ$$\n「Ngh!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_c17c58fdba72005e": {
+      "text": "$$リリーナ$$\n「$$ヒイロ$$!!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_1fe8564d2b959317": {
+      "text": "$$カレン$$\n「$$ヒイロ$$!\n　The $$マリーメイア$$ Army's rattled!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_f527e012803f7f1c": {
+      "text": "$$ヒイロ$$\n「Now, all that's left is...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_4b1247bd3ca4905d": {
+      "text": "$$カレン$$\n「What are you planning to do!?」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_00c55e25f87b71d0": {
+      "text": "$$ヒイロ$$\n「$$デキム・バートン$$...\n　You have the shelter shield raised, don't you」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_338f3b27e51dcc41": {
+      "text": "$$デキム$$\n「You, what are you...!?」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_d91d4bc2d52b61c4": {
+      "text": "$$ヒイロ$$\n「The shield is perfect, is it」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_0c8ea89b07432421": {
+      "text": "$$マリーメイア$$\n「Of course it is!\n　Learn just how powerless you all are!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_4dbfba00ba7744ee": {
+      "text": "$$ヒイロ$$\n「Understood」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_be100a32b731708d": {
+      "text": "$$カレン$$\n「$$ヒイロ$$!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_702f82442fcec8a9": {
+      "text": "$$ヒイロ$$\n「Target... lock on」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_b1e38da4e8775ffe": {
+      "text": "$$デキム$$\n「Whoa!!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$マリーメイア$$ Soldier\n「A beam from Wing Zero!\n　Direct hit!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$マリーメイア$$\n「W-what a pathetic man...!\n　Doing this won't change anything!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_3dad695c99e9e052": {
+      "text": "$$リリーナ$$\n「Are you scared, $$マリーメイア$$?」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_66d4ae3a21caf881": {
+      "text": "$$マリーメイア$$\n「I'm not...!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_0c18da7b3a37825d": {
+      "text": "$$ヒイロ$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_63249745ffae61b6": {
+      "text": "$$カレン$$\n「$$ヒイロ$$!\n　$$リリーナ$$ and $$ナナリー$$ are right there!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_abdb034ae8509702": {
+      "text": "$$カレン$$\n「This is no different from what\n　Supreme Command is trying to do!!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_3ff2e21207d1d1d3": {
+      "text": "$$ヒイロ$$\n「You're wrong...!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_e51ecf6d6aa42e75": {
+      "text": "$$ヒイロ$$\n「This is $$リリーナ$$'s resolve!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_47ddabb7b60131c2": {
+      "text": "$$カレン$$\n「$$ヒイロ$$...!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_b025267f22788233": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_ec1a06a7023bf72c": {
+      "text": "$$カレン$$\n「If you use the Buster Rifle again,\n　even Wing Zero won't hold up!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_8805f96e52aaa462": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_124591cb154fae64": {
+      "text": "$$カレン$$\n「$$ヒイロ$$...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$カレン$$\n（$$ヒイロ$$... sacrificing himself and\n　$$リリーナ$$ just to prove he'll keep fighting...）",
+      "status": "imported"
+    },
+    "stage0033b_04:r_4bf9b05b5f948170": {
+      "text": "$$カレン$$\n（Is this what $$トレーズ$$ Khushrenada meant\n　by playing the loser...!?）",
+      "status": "imported"
+    },
+    "stage0033b_04:r_eaa52d152f444bfd": {
+      "text": "$$ヒイロ$$\n「$$リリーナ$$...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_b4bc9e9435b58e6f": {
+      "text": "$$セイナ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_a9227573166977a9": {
+      "text": "$$セイナ$$\n「What is this...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_b0600ab9a9e8559d": {
+      "text": "$$セイナ$$\n「Even as he chooses to become a loser...\n　that Gundam hasn't lost its pride...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_7cbc63dad295f862": {
+      "text": "$$マリーメイア$$ Soldier\n「A second hit, and shields are down to half!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_07f53c816e0a51f5": {
+      "text": "$$デキム$$\n「Impossible!\n　This shelter's built to withstand\n　even an N2 depth charge!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_2d09c6f6a2d990ea": {
+      "text": "$$マリーメイア$$ Soldier\n「Wing Zero's aim is accurate to\n　hundredths of a degree! One more hit\n　here and this shelter will collapse!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_3c5fcfc484a51913": {
+      "text": "$$デキム$$\n「Stop it!!\n　$$リリーナ$$ Peacecraft is\n　in here too!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_0476ffd10c764b0e": {
+      "text": "$$リリーナ$$\n「It's no use.\n　He, $$ヒイロ$$ Yui, knows what he must do.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$マリーメイア$$\n「N-no! Aaaaah!!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_2b3479c4cf0680f4": {
+      "text": "$$ヒイロ$$\n「$$リリーナ$$...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_e370696b8936b08c": {
+      "text": "$$カレン$$\n「Wait, $$ヒイロ$$!\n　A transmission's coming in!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_9d7b02c5e728b7aa": {
+      "text": "$$カレン$$\n「This is...!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_9af213fc64e0afec": {
+      "text": "$$ゼロ$$\n「It's over, $$カレン$$.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_d7f1c506e78e55ff": {
+      "text": "$$カレン$$\n「$$ゼロ$$... let me ask you one thing.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_0c705091f748360e": {
+      "text": "$$カレン$$\n「That man, Seiji Takechi... do you remember him?」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_9eb8599304125b2f": {
+      "text": "$$ゼロ$$\n「Of course.\n　He served the Black Knights' Squad Zero...\n　a captain who led many young members.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_a072aa25e5f521e0": {
+      "text": "$$ゼロ$$\n「Capable, with strong leadership,\n　but a clumsy man who struggled to\n　balance ideals against reality...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_24e1a808a1609a1a": {
+      "text": "$$カレン$$\n「That's all I needed to hear.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_53128ce8f154fd06": {
+      "text": "$$セイナ$$\n（Thank you, $$紅月カレン$$...\n　and the winged Gundam...）",
+      "status": "imported"
+    },
+    "stage0033b_04:r_03b5db9ce98fb8d6": {
+      "text": "$$セイナ$$\n（I'm sorry, $$タクマ$$...\n　It's a little late, but... we'll\n　keep fighting, just a bit longer...）",
+      "status": "imported"
+    },
+    "stage0033b_04:r_3915fb4102f1c1dd": {
+      "text": "$$セイナ$$\n（The fight to live... in this world...）",
+      "status": "imported"
+    },
+    "stage0033b_04:r_817b2773b4ed563e": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_1cc233cbc8c80af7": {
+      "text": "$$カレン$$\n「Good work, $$ヒイロ$$.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_e180b22d18f48d38": {
+      "text": "$$カレン$$\n「What's left of the $$マリーメイア$$ army has retreated.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_e598c2a0b27e7f50": {
+      "text": "$$ヒイロ$$\n「I see...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_4d2a9066c4e7b27f": {
+      "text": "$$カレン$$\n「You don't need to see $$リリーナ$$?」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_10340119af3ed6db": {
+      "text": "$$ヒイロ$$\n「Don't you want to see $$ゼロ$$?」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_23a9c7ab620ab112": {
+      "text": "$$カレン$$\n「No need.\n　When the time comes, we'll surely meet again.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_4f0aca6deda07883": {
+      "text": "$$ヒイロ$$\n「Same for me.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_8fe40600ce62dfbc": {
+      "text": "$$カレン$$\n「Yeah.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_ff4ce5f3cf96b617": {
+      "text": "$$ミヒロ$$\n「Word from the Quarter. It says\n　the first defense line's battle ended too.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_d73c21f119847e35": {
+      "text": "$$レイアム$$\n「The units that fell back\n　took damage, but we've confirmed they're safe.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_89766f5ffaa912d4": {
+      "text": "$$オットー$$\n「Phew... what a mess.\n　Now that the $$マリーメイア$$ army's silenced,\n　Supreme Command's rampage should stop too.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$レイアム$$\n「It's too soon to relax, Captain.\n　Neo Zeon's declared war on us.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_451f726d4299ea35": {
+      "text": "$$オットー$$\n「I hear you, but let us rest a little,\n　just this once, me and everyone on the $c.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_e3d111e8bb190cb1": {
+      "text": "$$レイアム$$\n「Understood.\n　But right after resting, we'll move\n　straight into strategy meetings.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$オットー$$\n「...Our reward's Brig. Gen. $$サイガス$$'s sour face...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_ab97c2b2418ea732": {
+      "text": "$$オットー$$\n「Not bad at all.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_2ddff5064af78db4": {
+      "text": "$$レイアム$$\n「Yes.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_050d0532c4b24bfe": {
+      "text": "$$カレン$$\n「Let's go meet everyone, $$ヒイロ$$.\n　This mission succeeded because\n　everyone on the $c worked together.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_d583fcea31bdad2e": {
+      "text": "$$ヒイロ$$\n「Yeah.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_475f7653621a91b5": {
+      "text": "$$カレン$$\n「Did you just smile?」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_f228ae702350849b": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_d69dc027cba3003f": {
+      "text": "$$ヒイロ$$\n（See you again, $$リリーナ$$...）",
+      "status": "imported"
+    },
+    "stage0033b_04:r_3c3735172a480b72": {
+      "text": "$$レイアム$$\n「Operation time, 4 minutes elapsed!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_1f418b5594cea300": {
+      "text": "$$オットー$$\n「All units, hurry!\n　If we don't settle this in one minute,\n　we'll only wear ourselves down after!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_f87fb889124bfaef": {
+      "text": "$$レイアム$$\n「Operation time, 5 minutes elapsed!\n　We're at our limit!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_79c90de32a79212d": {
+      "text": "$$オットー$$\n「Damn it, the operation's failed!\n　All units, fall back!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_33f7fd55913419e8": {
+      "text": "$$ギュネイ$$\n「Tch!\n　My heart's just not in this, after all!\n　I'll pull back here!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_473d9a88b4ca96e7": {
+      "text": "$$アンジェロ$$\n「Sloppy, for an Enhanced Human straight from\n　the Supreme Commander. Says little for his superior.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_4de6ac85c63bac12": {
+      "text": "$$アンジェロ$$\n「Maybe it's time the name Red Comet\n　passed on to the Colonel.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_4c92652c9b1adf6f": {
+      "text": "$$アンジェロ$$\n「This clinging feel of gravity on my skin,\n　I still can't get used to it! Falling back!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_ce90563a934d49fb": {
+      "text": "$$ギュネイ$$\n「'Guard Captain,' what a laugh.\n　In the end, you're just an impostor's pet.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_4fb296e63cb1fb46": {
+      "text": "$$ギュネイ$$\n「In short, surpassing the Colonel...\n　no, the Supreme Commander, that's my role.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$ヒイロ$$\n（$$五飛$$...\n　I'm sure that in this battle, you'll find\n　the answer you've been looking for...）",
+      "status": "imported"
+    },
+    "stage0033b_04:r_9dc59affd40f32fc": {
+      "text": "$$デュオ$$\n「Being outmatched like this...\n　It's been a while since I thought of $$オペレーション・メテオ$$.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_0cea115be526a319": {
+      "text": "$$デュオ$$\n「You watching, old man $$デキム$$!\n　We've fought by rejecting the all-out\n　war you tried to wage!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_d36072babd12aeb4": {
+      "text": "$$デュオ$$\n「I've been against your methods from day one!\n　So a little disadvantage won't stop me,\n　I'm going all out!!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_09ee921a85025fd3": {
+      "text": "$$カトル$$\n「$$トロワ$$...」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_fae689f2a1057b61": {
+      "text": "$$トロワ$$\n「I know.\n　The soldiers who follow $$マリーメイア$$\n　are people who lost their way in this world.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_91c6d0bb53854ecc": {
+      "text": "$$カトル$$\n「Right...!\n　So let's aim to avoid their cockpits\n　as much as possible when we attack!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_42a3149105314ab8": {
+      "text": "$$ゼクス$$\n「$$デキム$$...!\n　Your ambitions end here!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_62ecd978c667bd29": {
+      "text": "$$ノイン$$\n「$$ゼクス$$, don't push yourself...!\n　The gap in strength is too great to close!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_d441e6cc908ac01b": {
+      "text": "$$ゼクス$$\n「What's needed now isn't victory...\n　it's the will to fight.」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_b2aab8873350ea1f": {
+      "text": "$$ゼクス$$\n「If we fail to show that,\n　the world will give rise to\n　a second Milliardo Peacecraft!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_2c7af4c55d8ac938": {
+      "text": "$$アムロ$$\n（Are you watching, $$シャア$$...!\n　This is the result of the answer you chose!）",
+      "status": "imported"
+    },
+    "stage0033b_04:r_653b741d07545dff": {
+      "text": "$$アムロ$$\n（Can you even see reality...!\n　You must know what a selfish intellectual's\n　revolution leads to!）",
+      "status": "imported"
+    },
+    "stage0033b_04:r_d584d4b5af55b1cf": {
+      "text": "$$カミーユ$$\n「This mobile suit...!\n　The one that picked a fight with me before!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_db0ee69ece206fcd": {
+      "text": "$$ギュネイ$$\n「Don't take it personally, $$カミーユ$$ Bidan!\n　Taking down the Supreme Commander's favorite\n　will prove my own strength!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_f97e6925c9e37332": {
+      "text": "$$カミーユ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_422861e0b8d77d0c": {
+      "text": "$$ギュネイ$$\n「The Supreme Commander's war declaration\n　really rattled you! I can feel your fury from here!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_ef16bcaa2b0e0c45": {
+      "text": "$$カミーユ$$\n「You... shut up!!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_2b93cca10f1c36a8": {
+      "text": "$$アンジェロ$$\n「The Colonel said to let him run loose,\n　but I owe this one from our last fight!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_7980fd37141d88d0": {
+      "text": "$$バナージ$$\n「You're the escort for that mobile suit\n　they call the $$シナンジュ$$...!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_ac21212c36d2b9ad": {
+      "text": "$$アンジェロ$$\n「Now fight, Split-horn!\n　Show me your true power!」",
+      "status": "imported"
+    },
+    "stage0033b_04:r_a26e2108358af7a4": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

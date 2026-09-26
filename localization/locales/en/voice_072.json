@@ -1,0 +1,778 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_072:r_479b340ccc6c572b": {
+      "text": "How about I make some noise!",
+      "status": "imported"
+    },
+    "voice_072:r_ca4acbac57a2a35e": {
+      "text": "Let's get this show started!",
+      "status": "imported"
+    },
+    "voice_072:r_77949221bf58f862": {
+      "text": "Well then, shall we get going!",
+      "status": "imported"
+    },
+    "voice_072:r_f7570547e9f80a64": {
+      "text": "Let's do this!",
+      "status": "imported"
+    },
+    "voice_072:r_cbab0f4720e1fcf1": {
+      "text": "Got you!",
+      "status": "imported"
+    },
+    "voice_072:r_0bbe0b4f5364e732": {
+      "text": "I'll take that!",
+      "status": "imported"
+    },
+    "voice_072:r_5dda5198137cb02a": {
+      "text": "You're mine!",
+      "status": "imported"
+    },
+    "voice_072:r_83ec59afbecdec14": {
+      "text": "Burn this into your eyes!",
+      "status": "imported"
+    },
+    "voice_072:r_e20bfd42ad95a3c9": {
+      "text": "And there we go!",
+      "status": "imported"
+    },
+    "voice_072:r_0f58a8822381e57f": {
+      "text": "You're finished!",
+      "status": "imported"
+    },
+    "voice_072:r_6dbcc507fb61b51d": {
+      "text": "Diiie!",
+      "status": "imported"
+    },
+    "voice_072:r_b42ab697149a7c8a": {
+      "text": "Damn you!",
+      "status": "imported"
+    },
+    "voice_072:r_4de4fcf3b440baf4": {
+      "text": "Urzu 6, commencing attack!",
+      "status": "imported"
+    },
+    "voice_072:r_0121a166c715cdff": {
+      "text": "Urzu 6 here!\\nThe hunt begins!",
+      "status": "imported"
+    },
+    "voice_072:r_30fad37a42bd3ad3": {
+      "text": "Gotta earn my paycheck!",
+      "status": "imported"
+    },
+    "voice_072:r_80a0b2a84e05d81a": {
+      "text": "Step into my sights, asshole!",
+      "status": "imported"
+    },
+    "voice_072:r_4a9ac1dff86506d9": {
+      "text": "Just like shooting at the arcade!",
+      "status": "imported"
+    },
+    "voice_072:r_bc8538e6af3d2577": {
+      "text": "Bull's-eye every time...!",
+      "status": "imported"
+    },
+    "voice_072:r_924516c8de2b5342": {
+      "text": "Thought you were out of range?!",
+      "status": "imported"
+    },
+    "voice_072:r_da1174533722333f": {
+      "text": "Okay, now hold it right there...!",
+      "status": "imported"
+    },
+    "voice_072:r_fdeb8162976e72c1": {
+      "text": "Let's give this guy a surprise!",
+      "status": "imported"
+    },
+    "voice_072:r_0fadb5c26df92b42": {
+      "text": "So it's close combat...!",
+      "status": "imported"
+    },
+    "voice_072:r_6b15af9a0057cdc8": {
+      "text": "I can nail close combat too!",
+      "status": "imported"
+    },
+    "voice_072:r_15b4a90140e8a33a": {
+      "text": "This isn't exactly my specialty...!",
+      "status": "imported"
+    },
+    "voice_072:r_af884a6b11dff121": {
+      "text": "No time to worry about genres!",
+      "status": "imported"
+    },
+    "voice_072:r_ac6fe7838e95647b": {
+      "text": "Let's ride this wave and strike!",
+      "status": "imported"
+    },
+    "voice_072:r_77ca87eacd17ad52": {
+      "text": "Have another one!",
+      "status": "imported"
+    },
+    "voice_072:r_bf3244994760e535": {
+      "text": "Looks like you gave Sousuke trouble!",
+      "status": "imported"
+    },
+    "voice_072:r_aabfb21c9d069ce7": {
+      "text": "Persistent as a damn cockroach!",
+      "status": "imported"
+    },
+    "voice_072:r_02479dc8fe989560": {
+      "text": "Through the AS,\\nI sense danger...!",
+      "status": "imported"
+    },
+    "voice_072:r_a2df00f91a9b0a9e": {
+      "text": "First, I'll stop that big lug!",
+      "status": "imported"
+    },
+    "voice_072:r_48b60d6c48b9b142": {
+      "text": "One of these is bad enough!",
+      "status": "imported"
+    },
+    "voice_072:r_8927e6fb681aa809": {
+      "text": "That's the unit with that device...!",
+      "status": "imported"
+    },
+    "voice_072:r_665f01666859013b": {
+      "text": "Nothing's truly invincible!",
+      "status": "imported"
+    },
+    "voice_072:r_a571eec59b258d11": {
+      "text": "You're one nimble bastard...!",
+      "status": "imported"
+    },
+    "voice_072:r_ddbe581c5ea9183d": {
+      "text": "Damn, quit darting around...!",
+      "status": "imported"
+    },
+    "voice_072:r_faae935cca0edc72": {
+      "text": "You'll get hurt, young lady...!",
+      "status": "imported"
+    },
+    "voice_072:r_6ff1323b355593e0": {
+      "text": "I only chase\\ncharming ladies!",
+      "status": "imported"
+    },
+    "voice_072:r_36133ad73a73ef98": {
+      "text": "Hmm...!\\nA true beauty faces me!",
+      "status": "imported"
+    },
+    "voice_072:r_920740a0219c5085": {
+      "text": "Fighting a beauty has its perks!",
+      "status": "imported"
+    },
+    "voice_072:r_a8451712c57c1a72": {
+      "text": "I've had enough of your faces!",
+      "status": "imported"
+    },
+    "voice_072:r_52dfc56b14b93551": {
+      "text": "Man, you're persistent!",
+      "status": "imported"
+    },
+    "voice_072:r_342044c706a2340f": {
+      "text": "Did you fall for me or something?",
+      "status": "imported"
+    },
+    "voice_072:r_cf41e8828a90cbdb": {
+      "text": "Starting a war nowadays?!",
+      "status": "imported"
+    },
+    "voice_072:r_719e897304ec42d4": {
+      "text": "You're making your point all wrong!",
+      "status": "imported"
+    },
+    "voice_072:r_d5e0a2317c40d322": {
+      "text": "I'll shoot down the Red Comet!",
+      "status": "imported"
+    },
+    "voice_072:r_ec2ea17765052401": {
+      "text": "I'll make the Red Comet a meteor!",
+      "status": "imported"
+    },
+    "voice_072:r_f2d4255f1c2f7542": {
+      "text": "A monster...\\nWhere do I aim?",
+      "status": "imported"
+    },
+    "voice_072:r_5d08ad19e2da125b": {
+      "text": "This isn't some sci-fi movie!",
+      "status": "imported"
+    },
+    "voice_072:r_a7246b52782a877e": {
+      "text": "This foe shows\\nhow vast space is!",
+      "status": "imported"
+    },
+    "voice_072:r_dc8701f6bcb9904f": {
+      "text": "If it's coming, I've gotta fight!",
+      "status": "imported"
+    },
+    "voice_072:r_d6bdd730f24f66eb": {
+      "text": "The only goddess I need is ours!",
+      "status": "imported"
+    },
+    "voice_072:r_41997412868c48c4": {
+      "text": "This thing's creepy and dangerous!",
+      "status": "imported"
+    },
+    "voice_072:r_9e6cf4f389dae55c": {
+      "text": "No, no, no, no! Shut the hell up!",
+      "status": "imported"
+    },
+    "voice_072:r_9e0c80ac7e33b459": {
+      "text": "An enemy of women is my enemy!",
+      "status": "imported"
+    },
+    "voice_072:r_7432ef43ed3471dc": {
+      "text": "Abducting girls?\\nWhat the hell?!",
+      "status": "imported"
+    },
+    "voice_072:r_065443f6ddfcf0d7": {
+      "text": "I'll stop you by force, then!",
+      "status": "imported"
+    },
+    "voice_072:r_47d52a2839c71715": {
+      "text": "I'll beat you,\\nthen savor reality!",
+      "status": "imported"
+    },
+    "voice_072:r_847f82e7f3eef651": {
+      "text": "I'll savor the best part at the end!",
+      "status": "imported"
+    },
+    "voice_072:r_eb7ae28b53dc033c": {
+      "text": "Let's snipe it!\\nFate itself!",
+      "status": "imported"
+    },
+    "voice_072:r_857c4a52ce8df0fd": {
+      "text": "Tessa's naked!",
+      "status": "imported"
+    },
+    "voice_072:r_55417493fce1d347": {
+      "text": "For nudity's sake... I'll do it!",
+      "status": "imported"
+    },
+    "voice_072:r_8fdf5910927c9591": {
+      "text": "Blinded by lust, I can't lose!",
+      "status": "imported"
+    },
+    "voice_072:r_7d724dbcc4451e10": {
+      "text": "That princess's knight act\\nbugs me!",
+      "status": "imported"
+    },
+    "voice_072:r_93e25418a203cb8f": {
+      "text": "Scum like you\\nare going down!",
+      "status": "imported"
+    },
+    "voice_072:r_adeb0a29274d3d9b": {
+      "text": "One shot for that smug face!",
+      "status": "imported"
+    },
+    "voice_072:r_862ef7385bf2abd4": {
+      "text": "I'll show you my ace in the hole...!",
+      "status": "imported"
+    },
+    "voice_072:r_001cbec4d9a4283f": {
+      "text": "Bingo!",
+      "status": "imported"
+    },
+    "voice_072:r_8ad40afecd02b41e": {
+      "text": "How's that? Dropped in one shot!",
+      "status": "imported"
+    },
+    "voice_072:r_26e5efec03c03d78": {
+      "text": "Urzu 6!\\nSniping position set!",
+      "status": "imported"
+    },
+    "voice_072:r_4ad81e88c7557a8b": {
+      "text": "Gotcha!",
+      "status": "imported"
+    },
+    "voice_072:r_1f65a7af190e4674": {
+      "text": "That was an easy target.",
+      "status": "imported"
+    },
+    "voice_072:r_40c5a9358ed5bf29": {
+      "text": "See Mithril's best sniper at work!",
+      "status": "imported"
+    },
+    "voice_072:r_f2e18dfdfe0c89ea": {
+      "text": "Ba-boom!",
+      "status": "imported"
+    },
+    "voice_072:r_cf7dbf49e96a5755": {
+      "text": "A bull's-eye every time!",
+      "status": "imported"
+    },
+    "voice_072:r_fa96676cc65bb509": {
+      "text": "Let me show you a godlike shot!",
+      "status": "imported"
+    },
+    "voice_072:r_4e37f92e7d2fc62e": {
+      "text": "Yahoo!",
+      "status": "imported"
+    },
+    "voice_072:r_66ab4cfe1557909d": {
+      "text": "Damn, I look good!",
+      "status": "imported"
+    },
+    "voice_072:r_0bad405ee6ca63ba": {
+      "text": "How about I turn the tables!",
+      "status": "imported"
+    },
+    "voice_072:r_2072eaf71a260ae7": {
+      "text": "You'll regret coming after me!",
+      "status": "imported"
+    },
+    "voice_072:r_6c13bbfd27a7799e": {
+      "text": "Too bad! Time to switch roles!",
+      "status": "imported"
+    },
+    "voice_072:r_06f88dcbd3c9e738": {
+      "text": "Now then, time to counterattack!",
+      "status": "imported"
+    },
+    "voice_072:r_b28faf9f71bc3598": {
+      "text": "Oops, you're not getting away!",
+      "status": "imported"
+    },
+    "voice_072:r_8a29278549f8e07a": {
+      "text": "Hey, pal! It's too soon to leave!",
+      "status": "imported"
+    },
+    "voice_072:r_7e6c573c26177f98": {
+      "text": "The star always arrives late!",
+      "status": "imported"
+    },
+    "voice_072:r_45abf84f7757d6eb": {
+      "text": "Okay! Nice assist!",
+      "status": "imported"
+    },
+    "voice_072:r_edd7a13ab8f06a14": {
+      "text": "Leave this to me!",
+      "status": "imported"
+    },
+    "voice_072:r_8165e5b41f0124c4": {
+      "text": "And now, the main act arrives!",
+      "status": "imported"
+    },
+    "voice_072:r_4e05581b7432cce8": {
+      "text": "Watch me in action,\\nTessa!",
+      "status": "imported"
+    },
+    "voice_072:r_a60b107ea3c36a86": {
+      "text": "Show 'em special-team coordination!",
+      "status": "imported"
+    },
+    "voice_072:r_e33693e5ba4665b0": {
+      "text": "You missed the kill, Lieutenant!",
+      "status": "imported"
+    },
+    "voice_072:r_72a21a1a489af001": {
+      "text": "Right behind you, Urzu 1!",
+      "status": "imported"
+    },
+    "voice_072:r_eb643f8bf737a0ca": {
+      "text": "That's my sis! What an opening!",
+      "status": "imported"
+    },
+    "voice_072:r_0a3fccb71ec6cf2a": {
+      "text": "Gotta show sis how cool I am!",
+      "status": "imported"
+    },
+    "voice_072:r_9b63cf1f3e0207ef": {
+      "text": "Don't get so worked up, Sousuke.",
+      "status": "imported"
+    },
+    "voice_072:r_8356f4e3dcdff938": {
+      "text": "Sorry, Sousuke, but this one's mine!",
+      "status": "imported"
+    },
+    "voice_072:r_1d6d784036ae0bd7": {
+      "text": "You owe me for this, Chirico!",
+      "status": "imported"
+    },
+    "voice_072:r_625664af02183c17": {
+      "text": "Aoi! You owe me a reward later!",
+      "status": "imported"
+    },
+    "voice_072:r_3701cba361f80ea5": {
+      "text": "Let's share the spotlight, Lockon!",
+      "status": "imported"
+    },
+    "voice_072:r_63f429c5c68c0863": {
+      "text": "Sniper to sniper, let's team up!",
+      "status": "imported"
+    },
+    "voice_072:r_4824bea6bab3af67": {
+      "text": "Jeez, you're way too reckless!",
+      "status": "imported"
+    },
+    "voice_072:r_862b92e63adb9734": {
+      "text": "I'm actually a pretty nice guy!",
+      "status": "imported"
+    },
+    "voice_072:r_cb306ef55e49d107": {
+      "text": "A hot kiss is thanks enough, Tessa!",
+      "status": "imported"
+    },
+    "voice_072:r_57b2bd2de8a1408d": {
+      "text": "That's that old debt repaid!",
+      "status": "imported"
+    },
+    "voice_072:r_76f080a4881e8ab5": {
+      "text": "Whoa, you won't touch sis!",
+      "status": "imported"
+    },
+    "voice_072:r_288133bc5b573dae": {
+      "text": "Hey! Still alive, gloomy guy?",
+      "status": "imported"
+    },
+    "voice_072:r_6f95653e548f8fcf": {
+      "text": "Chirico! You're pushing it too far!",
+      "status": "imported"
+    },
+    "voice_072:r_d249d68bada91ab9": {
+      "text": "Hands off Aoi, Kurara, and Eida!",
+      "status": "imported"
+    },
+    "voice_072:r_e9b3307e9eb69f11": {
+      "text": "Don't hold back, Lockon!",
+      "status": "imported"
+    },
+    "voice_072:r_03cdac73042343ee": {
+      "text": "Snipers\\nleave their guard open!",
+      "status": "imported"
+    },
+    "voice_072:r_96bb0dcde0c8c44a": {
+      "text": "I'm done covering men's asses!",
+      "status": "imported"
+    },
+    "voice_072:r_641550a2f54cb456": {
+      "text": "Mithril warrior\\nsaves the princess!",
+      "status": "imported"
+    },
+    "voice_072:r_b5f5a97ed82acb0b": {
+      "text": "Leave this to your knight!",
+      "status": "imported"
+    },
+    "voice_072:r_99e6349431aaf23b": {
+      "text": "I can't do a damn thing!",
+      "status": "imported"
+    },
+    "voice_072:r_ec1081caf845f56a": {
+      "text": "Aw, man!\\nI just have to watch?!",
+      "status": "imported"
+    },
+    "voice_072:r_2c5b7ee872c1ed7f": {
+      "text": "That bastard! He's laughing at me!",
+      "status": "imported"
+    },
+    "voice_072:r_76d1e51c8b494a60": {
+      "text": "Threefold, fourfold... no, fivefold!",
+      "status": "imported"
+    },
+    "voice_072:r_eb5f687fcd372ae7": {
+      "text": "A sniper lost them?\\nWhat a joke!",
+      "status": "imported"
+    },
+    "voice_072:r_2329428a6871d9fa": {
+      "text": "Whew! That was close...",
+      "status": "imported"
+    },
+    "voice_072:r_0e7466971bec4cc4": {
+      "text": "Whoa! Whew, that was close...",
+      "status": "imported"
+    },
+    "voice_072:r_efa71f7a4cc33ff3": {
+      "text": "You're so easy to read. Got it?",
+      "status": "imported"
+    },
+    "voice_072:r_3fc2e1186557e7a0": {
+      "text": "Jeez, what a lame attack!",
+      "status": "imported"
+    },
+    "voice_072:r_fa6930340a545054": {
+      "text": "Whew! I'm in love with myself again!",
+      "status": "imported"
+    },
+    "voice_072:r_2332b9d56461d7ab": {
+      "text": "Nailed it like an action movie star!",
+      "status": "imported"
+    },
+    "voice_072:r_854aa0a91a3c80d1": {
+      "text": "Too bad! You can't hit me!",
+      "status": "imported"
+    },
+    "voice_072:r_0bc8ae32a406ceab": {
+      "text": "Can't afford to take that hit!",
+      "status": "imported"
+    },
+    "voice_072:r_82c09f011d703b2c": {
+      "text": "I know exactly what you're up to!",
+      "status": "imported"
+    },
+    "voice_072:r_2b4d8818c77b6dca": {
+      "text": "Tch! You think this is a game?!",
+      "status": "imported"
+    },
+    "voice_072:r_db02a2dec93dd263": {
+      "text": "All right!\\nNaked Tessa, here I come!",
+      "status": "imported"
+    },
+    "voice_072:r_d520c6d5298a848d": {
+      "text": "Nudity's at stake. Time to focus!",
+      "status": "imported"
+    },
+    "voice_072:r_099e2458cabf796f": {
+      "text": "We know each other's moves,\\nSousuke!",
+      "status": "imported"
+    },
+    "voice_072:r_fd910d714be70870": {
+      "text": "You want to see\\nTessa naked too!",
+      "status": "imported"
+    },
+    "voice_072:r_cd06d0820d82524b": {
+      "text": "That kind of thing won't work on me!",
+      "status": "imported"
+    },
+    "voice_072:r_c94c6d04be583774": {
+      "text": "Well, all's well that ends well!",
+      "status": "imported"
+    },
+    "voice_072:r_e54e2c99ef8297af": {
+      "text": "Can't rely forever\\non this thing...!",
+      "status": "imported"
+    },
+    "voice_072:r_98902fd3143c393e": {
+      "text": "All hail the barrier!",
+      "status": "imported"
+    },
+    "voice_072:r_d907fbd7bc1c4298": {
+      "text": "Nothing I can do if it hit me.",
+      "status": "imported"
+    },
+    "voice_072:r_96b21e3a028dd074": {
+      "text": "I seriously don't need this crap.",
+      "status": "imported"
+    },
+    "voice_072:r_ce140b5d8e6b7310": {
+      "text": "Oh, man, I look so uncool...",
+      "status": "imported"
+    },
+    "voice_072:r_0e0335789c5396d7": {
+      "text": "Ha ha, that tickles, damn it...",
+      "status": "imported"
+    },
+    "voice_072:r_a8e85bd950696403": {
+      "text": "No resistance at all! I'm let down!",
+      "status": "imported"
+    },
+    "voice_072:r_772c8bc40ab6cb61": {
+      "text": "Damn it! Don't underestimate me!",
+      "status": "imported"
+    },
+    "voice_072:r_58dd2826a199ef51": {
+      "text": "You're a mess in every way!",
+      "status": "imported"
+    },
+    "voice_072:r_aadc0b2442adb93b": {
+      "text": "Those skills will get you killed!",
+      "status": "imported"
+    },
+    "voice_072:r_e7a8cd8ed5bc2d1b": {
+      "text": "Whoa, that's brutal...!",
+      "status": "imported"
+    },
+    "voice_072:r_041dd920da4a7c17": {
+      "text": "Jeez, this isn't funny...!",
+      "status": "imported"
+    },
+    "voice_072:r_c7f4280cde4605b3": {
+      "text": "Now it's really heating up...\\nNot!",
+      "status": "imported"
+    },
+    "voice_072:r_ec349c8ea9511a18": {
+      "text": "Thanks, now I'm fired up...!",
+      "status": "imported"
+    },
+    "voice_072:r_33236ffa3ea95b68": {
+      "text": "Gah!\\nThis is no laughing matter...!",
+      "status": "imported"
+    },
+    "voice_072:r_689d0b123de71ae0": {
+      "text": "I can't believe I screwed up...!",
+      "status": "imported"
+    },
+    "voice_072:r_84883aa95f63ce32": {
+      "text": "Damn! Look at the state I'm in...!",
+      "status": "imported"
+    },
+    "voice_072:r_25493e978ce8ff16": {
+      "text": "This situation really sucks!",
+      "status": "imported"
+    },
+    "voice_072:r_7316666150e42960": {
+      "text": "Damn it! What a persistent bastard!",
+      "status": "imported"
+    },
+    "voice_072:r_ce1a22dfe3a4d339": {
+      "text": "Gotta deal with that device, fast!",
+      "status": "imported"
+    },
+    "voice_072:r_240651adab81e145": {
+      "text": "Ugh! That's one nasty elbow!",
+      "status": "imported"
+    },
+    "voice_072:r_dca67f68a573fab7": {
+      "text": "That's no way to reject my advances!",
+      "status": "imported"
+    },
+    "voice_072:r_6f94566ad37f8ff8": {
+      "text": "Crap! Nudity's slipping away...!",
+      "status": "imported"
+    },
+    "voice_072:r_942ca03c9de80143": {
+      "text": "So the kitten's got some pride...!",
+      "status": "imported"
+    },
+    "voice_072:r_d8c669c70659e18a": {
+      "text": "So you won't let me see you naked?!",
+      "status": "imported"
+    },
+    "voice_072:r_8f5bade7ac2db78e": {
+      "text": "Going all out here,\\nyou gloomy guy!",
+      "status": "imported"
+    },
+    "voice_072:r_6f12cc8ed2732eb5": {
+      "text": "So this is the end of the line...!",
+      "status": "imported"
+    },
+    "voice_072:r_7abfc55f8fb62ba7": {
+      "text": "I'm falling apart all over...!",
+      "status": "imported"
+    },
+    "voice_072:r_99e7a66c650b5892": {
+      "text": "Guess I'm in a hopeless bind...!",
+      "status": "imported"
+    },
+    "voice_072:r_5b2247b5cfbcd7b2": {
+      "text": "I hate to say it,\\nbut this is bad!",
+      "status": "imported"
+    },
+    "voice_072:r_2d7a9c06347582d9": {
+      "text": "They're running wild, damn it!",
+      "status": "imported"
+    },
+    "voice_072:r_bf953d64c3c7d9b7": {
+      "text": "I survived...\\nOne thing left to do!",
+      "status": "imported"
+    },
+    "voice_072:r_e09b933e3e706779": {
+      "text": "Too bad! I'm still alive!",
+      "status": "imported"
+    },
+    "voice_072:r_66236eb99b676e5b": {
+      "text": "All I need is a working gun...!",
+      "status": "imported"
+    },
+    "voice_072:r_9639a2dbcd2f58ed": {
+      "text": "Daaaaamn! What the hell is that?!",
+      "status": "imported"
+    },
+    "voice_072:r_aeea0893acb93d35": {
+      "text": "Damn it!\\nWhat a lame way to go...!",
+      "status": "imported"
+    },
+    "voice_072:r_b31568654e53487b": {
+      "text": "Urzu 6, withdrawing from combat!",
+      "status": "imported"
+    },
+    "voice_072:r_2502132569141ea3": {
+      "text": "Naked Tessa... Only a dream...?",
+      "status": "imported"
+    },
+    "voice_072:r_1ff312798a52c8eb": {
+      "text": "Sousuke! Don't you forget this!!",
+      "status": "imported"
+    },
+    "voice_072:r_fa07d90fca62f593": {
+      "text": "It's Kamakura! That earns credit?!",
+      "status": "imported"
+    },
+    "voice_072:r_a25bf2676ecf9d83": {
+      "text": "Easy on games, and on studying too!",
+      "status": "imported"
+    },
+    "voice_072:r_237a0288b42dce20": {
+      "text": "Stopping? Smart. Don't overdo it.",
+      "status": "imported"
+    },
+    "voice_072:r_0556e8a22779ea8e": {
+      "text": "So, how about a movie to unwind?",
+      "status": "imported"
+    },
+    "voice_072:r_09d377101a48d92a": {
+      "text": "Our leader's fave kids' anime...",
+      "status": "imported"
+    },
+    "voice_072:r_11517cc7b0494dbf": {
+      "text": "Oops, the lieutenant's secret.",
+      "status": "imported"
+    },
+    "voice_072:r_b5864501463db244": {
+      "text": "I'm gone! Cover for me! See ya!",
+      "status": "imported"
+    },
+    "voice_072:r_a88939ea84b4474d": {
+      "text": "Oops, that's the captain's secret.",
+      "status": "imported"
+    },
+    "voice_072:r_a870d0cf7cc11ec6": {
+      "text": "Lockon, bro shoots better. I'm No.1?",
+      "status": "imported"
+    },
+    "voice_072:r_03f6158ef83964f3": {
+      "text": "Then how about a contest?",
+      "status": "imported"
+    },
+    "voice_072:r_2970a83693cdcc25": {
+      "text": "A girl's heart!",
+      "status": "imported"
+    },
+    "voice_072:r_be661448b85d0009": {
+      "text": "Ha ha! We think alike, don't we!",
+      "status": "imported"
+    },
+    "voice_072:r_5508a7bfa9074eb9": {
+      "text": "Well then, I'll go on ahead!",
+      "status": "imported"
+    },
+    "voice_072:r_09a003e91f0d5dc7": {
+      "text": "Holding them off is easy, easy!",
+      "status": "imported"
+    },
+    "voice_072:r_192447448ebd7bb5": {
+      "text": "Leave the covering fire to me!",
+      "status": "imported"
+    },
+    "voice_072:r_e92920ba4b301b9f": {
+      "text": "I'll try a quick draw for once!",
+      "status": "imported"
+    },
+    "voice_072:r_207b256d613bb896": {
+      "text": "So that's my prey!",
+      "status": "imported"
+    },
+    "voice_072:r_a6fd676d8146501b": {
+      "text": "I'll make sure I get my share!",
+      "status": "imported"
+    },
+    "voice_072:r_94d35e5fa8e3a198": {
+      "text": "One-on-one, I won't fall behind!",
+      "status": "imported"
+    },
+    "voice_072:r_b686510e636673f3": {
+      "text": "So we pick them off one by one!",
+      "status": "imported"
+    }
+  }
+}

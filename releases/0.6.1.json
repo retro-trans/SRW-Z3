@@ -1,0 +1,538 @@
+{
+ "version": "0.6.1",
+ "note": "Stages 1-30, intermissions, mission-condition audit, terrain translations and UI fixes",
+ "files": {
+  "AIDDATAPACK.CPK": {
+   "bytes": 14239812,
+   "sha1": "002e4402394a705e90464ae3112b1c4c0f70fedb"
+  },
+  "CMN.CPK": {
+   "bytes": 4145488,
+   "sha1": "431215c69eb02f8ac565c0bd3b7be3301741b926"
+  },
+  "EBOOT.BIN": {
+   "bytes": 9371648,
+   "sha1": "d7686016f93cd7cc1378a193e6c1a4e151ad2781"
+  },
+  "EFFPS3.CPK": {
+   "bytes": 247919480,
+   "sha1": "13b5096a69cfaba237b20d56994f2600a9132132"
+  },
+  "MAP_001.ZLD": {
+   "bytes": 912,
+   "sha1": "839a459b065ab8536a8e4974c0c672e923ac1473"
+  },
+  "MAP_002.ZLD": {
+   "bytes": 832,
+   "sha1": "8903c322cefc6c302b2ee5f0b70b32518dddd573"
+  },
+  "MAP_003.ZLD": {
+   "bytes": 984,
+   "sha1": "c06f042018cfbb7c6315af4e126a23c842b56c99"
+  },
+  "MAP_004.ZLD": {
+   "bytes": 912,
+   "sha1": "b40aaedd739b15c6b96db8cfe09fe625f0346b62"
+  },
+  "MAP_005.ZLD": {
+   "bytes": 864,
+   "sha1": "5468441e409000240d3495e6509ff88aef01962c"
+  },
+  "MAP_006.ZLD": {
+   "bytes": 944,
+   "sha1": "061c7254fe67b238064c83bbeae36beecbc82eb6"
+  },
+  "MAP_007.ZLD": {
+   "bytes": 800,
+   "sha1": "fe0881faf05da4f19009992db295002ea9796138"
+  },
+  "MAP_008.ZLD": {
+   "bytes": 1032,
+   "sha1": "1a48a57e38ce320f31decd52a373beec121355c0"
+  },
+  "MAP_009.ZLD": {
+   "bytes": 1040,
+   "sha1": "b3ad25d5974b9e772b5e4da00cfbf4da1afb8d0e"
+  },
+  "MAP_010.ZLD": {
+   "bytes": 1156,
+   "sha1": "9ad801e5a6f2c6ea2166e04f61706a66917f8989"
+  },
+  "MAP_011.ZLD": {
+   "bytes": 1440,
+   "sha1": "b5c6c84c9bc84bdf42f41f529f4b44d78480e194"
+  },
+  "MAP_012.ZLD": {
+   "bytes": 1440,
+   "sha1": "10a71c6835a5757bcd481a227f5e3ecbb3f7d418"
+  },
+  "MAP_013.ZLD": {
+   "bytes": 1440,
+   "sha1": "68879eb40a87483166648ea4e7d1a9ca23ab577a"
+  },
+  "MAP_014.ZLD": {
+   "bytes": 1408,
+   "sha1": "fd7f9b7e4aac32f0dee85b7d1788a35c02f0f695"
+  },
+  "MAP_015.ZLD": {
+   "bytes": 1408,
+   "sha1": "6e12d11693352545b756192917035cb66023dab4"
+  },
+  "MAP_016.ZLD": {
+   "bytes": 1152,
+   "sha1": "c4799cbdd4b1ec2fc6833f797fec6a7cf7758b92"
+  },
+  "MAP_017.ZLD": {
+   "bytes": 1152,
+   "sha1": "b40a96d08820e6b98c1929796aa5e5013caa4f44"
+  },
+  "MAP_018.ZLD": {
+   "bytes": 1312,
+   "sha1": "a12822c08e83cf32f16656e1838eec527623a8b3"
+  },
+  "MAP_019.ZLD": {
+   "bytes": 1312,
+   "sha1": "b0bf8bafbf9d09b6dd2937719a0062704825e9fb"
+  },
+  "MAP_020.ZLD": {
+   "bytes": 1384,
+   "sha1": "38fb87eb38d036c5d76a212891200f11f7d9652b"
+  },
+  "MAP_021.ZLD": {
+   "bytes": 1352,
+   "sha1": "d7df55a9f976a1c532cba17f76785142d557653b"
+  },
+  "MAP_022.ZLD": {
+   "bytes": 1312,
+   "sha1": "6ce8ed1adba55fe2aead10cc15802bc844c7a190"
+  },
+  "MAP_023.ZLD": {
+   "bytes": 1318,
+   "sha1": "7b96fc0e5b251bc7d7a8eeab3f04e005a989193d"
+  },
+  "MAP_024.ZLD": {
+   "bytes": 1408,
+   "sha1": "a16e5f37cd003c83a67ff26234475b380b8e12f8"
+  },
+  "MAP_025.ZLD": {
+   "bytes": 1412,
+   "sha1": "909e15c50e5defe5df0b1c700ab56d4750cf504f"
+  },
+  "MAP_026.ZLD": {
+   "bytes": 1152,
+   "sha1": "e1741652693aa295c9c22905d031bd23742f76c9"
+  },
+  "MAP_027.ZLD": {
+   "bytes": 1536,
+   "sha1": "221a6d4d9342ed402fd791a3ce8a0294b414b927"
+  },
+  "MAP_028.ZLD": {
+   "bytes": 1156,
+   "sha1": "7fd69e4ff9d91e43d711b8ef44e6d33b2b16cb6d"
+  },
+  "MAP_029.ZLD": {
+   "bytes": 976,
+   "sha1": "63e55fe4e39ac467f40af572a772f2bce50b235b"
+  },
+  "MAP_030.ZLD": {
+   "bytes": 852,
+   "sha1": "2f78b52f617e4837ff1a04e3117a15dfc8534b3d"
+  },
+  "MAP_031.ZLD": {
+   "bytes": 944,
+   "sha1": "e46d9cfefcc2243c13d47e33b2974ff76a9ce976"
+  },
+  "MAP_032.ZLD": {
+   "bytes": 1252,
+   "sha1": "c18531d0ba6da0d29de3743f20433517abcb31d6"
+  },
+  "MAP_033.ZLD": {
+   "bytes": 1088,
+   "sha1": "8f0b14402bb0d0ab0f2cd3d45979659383d6e227"
+  },
+  "MAP_034.ZLD": {
+   "bytes": 1152,
+   "sha1": "44975c3cfc48274cdb8e498de1c13cf528e746a9"
+  },
+  "MAP_035.ZLD": {
+   "bytes": 1216,
+   "sha1": "c8cf33c68a3ad779cf32d3ddd6f48842b9dd7998"
+  },
+  "MAP_036.ZLD": {
+   "bytes": 992,
+   "sha1": "23588eb5e7e23a14bcfd613939233160786923dd"
+  },
+  "MAP_037.ZLD": {
+   "bytes": 1124,
+   "sha1": "bafd864300fc659b1e450431b8e6ea00422f52a3"
+  },
+  "MAP_038.ZLD": {
+   "bytes": 1184,
+   "sha1": "8fe1c9bd3139854372cea7caf076347d40cd3fc4"
+  },
+  "MAP_039.ZLD": {
+   "bytes": 1216,
+   "sha1": "f0fc509d0d947764e8ff14ae9c9f2f39db3c0fc6"
+  },
+  "MAP_040.ZLD": {
+   "bytes": 1184,
+   "sha1": "1bcad0604ef5bdd25dfbc1a0cfe956561860501d"
+  },
+  "MAP_041.ZLD": {
+   "bytes": 1024,
+   "sha1": "8ff99b9a2da913f5e49555b4b7ad2db78a927d5d"
+  },
+  "MAP_042.ZLD": {
+   "bytes": 1284,
+   "sha1": "60ed6f6a6cd6c67035b03ef577df3dc2bb12f59f"
+  },
+  "MAP_043.ZLD": {
+   "bytes": 1252,
+   "sha1": "6ad3b64fa3520b34beabbfdfe4b9034bcb47e3ee"
+  },
+  "MAP_044.ZLD": {
+   "bytes": 1252,
+   "sha1": "b6eef8da007269895634a4abfe2da5e012dafc43"
+  },
+  "MAP_045.ZLD": {
+   "bytes": 1248,
+   "sha1": "9c1ab178855b24d0b9bd8d0fd8442fc9966e6150"
+  },
+  "MAP_046.ZLD": {
+   "bytes": 1312,
+   "sha1": "976c05bdb9a6d7d66b7c06222f1b54da0bda80de"
+  },
+  "MAP_047.ZLD": {
+   "bytes": 1088,
+   "sha1": "4b9298115d00a64a429509342e2744f165403b09"
+  },
+  "MAP_048.ZLD": {
+   "bytes": 1028,
+   "sha1": "e502c868ad61b72c51f27911e235450f132ed7bd"
+  },
+  "MAP_049.ZLD": {
+   "bytes": 1312,
+   "sha1": "8bd6f115111b315ab0a7feecb4cb8a37a08bbb52"
+  },
+  "MAP_050.ZLD": {
+   "bytes": 1028,
+   "sha1": "e9efae612c424247c3d47b9ed4de3d2fc2659109"
+  },
+  "MAP_051.ZLD": {
+   "bytes": 1056,
+   "sha1": "6076a406ef9638d7c65a06a55de530ee90a0b077"
+  },
+  "MAP_052.ZLD": {
+   "bytes": 1312,
+   "sha1": "683200754059856f49effc52b090bee33b3f2697"
+  },
+  "MAP_053.ZLD": {
+   "bytes": 996,
+   "sha1": "ebe2f3fe6fef9a973884f4191befa9512e408c77"
+  },
+  "MAP_054.ZLD": {
+   "bytes": 1120,
+   "sha1": "03580c19e54d7391f4a48bc9382de42cb1989a91"
+  },
+  "MAP_055.ZLD": {
+   "bytes": 1088,
+   "sha1": "458d37bd3f41c17de81a84a795dd23772816adc5"
+  },
+  "MAP_056.ZLD": {
+   "bytes": 1088,
+   "sha1": "1e6249aeb8dd619c90bdb43f8887f5c251e82cbe"
+  },
+  "MAP_057.ZLD": {
+   "bytes": 1312,
+   "sha1": "e971e5f3e88c2beacdadb75eedcbb3e2d0f4d374"
+  },
+  "MAP_058.ZLD": {
+   "bytes": 1028,
+   "sha1": "b13b71051d59911df8c9578315ebead675f0729a"
+  },
+  "MAP_059.ZLD": {
+   "bytes": 1376,
+   "sha1": "17872c7802e353d66290721569073b31ad40399b"
+  },
+  "MAP_060.ZLD": {
+   "bytes": 1472,
+   "sha1": "603caed747584c4faf8037b7be935fa2fe674a6a"
+  },
+  "MAP_061.ZLD": {
+   "bytes": 1440,
+   "sha1": "e529e8225e9df097155f6275caa78af496e0b5b0"
+  },
+  "MAP_062.ZLD": {
+   "bytes": 1156,
+   "sha1": "cd7a5fc9b09771c38792959df116b513506f0ffe"
+  },
+  "MAP_063.ZLD": {
+   "bytes": 428,
+   "sha1": "cea94a102f729198f8aa60f9d8fc3576c0f17569"
+  },
+  "MAP_064.ZLD": {
+   "bytes": 1412,
+   "sha1": "b4be69310ba948bff99849a1ddc5250df3c34a73"
+  },
+  "MTV_ALL_KEYWORD_DEF.CPK": {
+   "bytes": 180995,
+   "sha1": "16f51fd4e56da7915eb5e2c93fca359ed9e260af"
+  },
+  "MTZKN_KW.CPK": {
+   "bytes": 317225,
+   "sha1": "c56353c02c3a4f8036b32edbd968e3d84017cc3c"
+  },
+  "MTZKN_PT.CPK": {
+   "bytes": 1277958,
+   "sha1": "87ae0f56441c4ba65fc5b7062accf713a196154b"
+  },
+  "MTZKN_RT.CPK": {
+   "bytes": 728702,
+   "sha1": "4ec79bd27cd498990b6492ed51638a53ece02e92"
+  },
+  "RPW_DATA.CPK": {
+   "bytes": 551995,
+   "sha1": "36e3602f25d92445905c107c350ec236cc57cb40"
+  },
+  "SRVC.BIN": {
+   "bytes": 3032400,
+   "sha1": "da021383aaf7086a84daafd7e1dda73ce92d19f1"
+  },
+  "STG0001A.SDAT": {
+   "bytes": 34128,
+   "sha1": "d5bb40fe951f0416f19202204b5feef5ef36c651"
+  },
+  "STG0001B.SDAT": {
+   "bytes": 96608,
+   "sha1": "294ac2082af11a02c86ca6e0944f3943ce4ad1be"
+  },
+  "STG0002.SDAT": {
+   "bytes": 173088,
+   "sha1": "a9ac6636612a64034108a231ae34b02801101392"
+  },
+  "STG0003.SDAT": {
+   "bytes": 129280,
+   "sha1": "b7728bce9d60808f45626f0f3b2f678f15e86ec3"
+  },
+  "STG0004.SDAT": {
+   "bytes": 191312,
+   "sha1": "cca060a102ab318097a4ab42becbc962fdf9ccb5"
+  },
+  "STG0005.SDAT": {
+   "bytes": 134576,
+   "sha1": "95866bc78c6d8050d45fb990ea15818feef77e0a"
+  },
+  "STG0006.SDAT": {
+   "bytes": 126688,
+   "sha1": "bd7694ca5aa2a1bcae77858566e3c1ba60c76296"
+  },
+  "STG0007A.SDAT": {
+   "bytes": 39120,
+   "sha1": "e5cb727868d155fb4e3146f83163386e8e052945"
+  },
+  "STG0007B.SDAT": {
+   "bytes": 133296,
+   "sha1": "dc9b9c30c93d6328501e626abc00946ef9c5bccf"
+  },
+  "STG0008.SDAT": {
+   "bytes": 148208,
+   "sha1": "902900c386f0b322d7a140c9aa6e9cc1bb1847c8"
+  },
+  "STG0009.SDAT": {
+   "bytes": 122688,
+   "sha1": "b06da63018e0f0a2ef6c80f8861451e65425023c"
+  },
+  "STG0010.SDAT": {
+   "bytes": 268832,
+   "sha1": "a0519502fb471592dc5ace130ebbd95f4213134e"
+  },
+  "STG0011.SDAT": {
+   "bytes": 149200,
+   "sha1": "858c5a3dc12231e8b9456952c465f76f16809500"
+  },
+  "STG0012.SDAT": {
+   "bytes": 160672,
+   "sha1": "f3dace5bb708035e66a9e1d8314fce81246604f5"
+  },
+  "STG0013.SDAT": {
+   "bytes": 119120,
+   "sha1": "447382508c0d9d789b7bf94416cd51a3b6b03f17"
+  },
+  "STG0014.SDAT": {
+   "bytes": 233040,
+   "sha1": "28c6af39b93b78271f2c0eca4e4fa9da44e478eb"
+  },
+  "STG0015.SDAT": {
+   "bytes": 149760,
+   "sha1": "e52844944dbe03357968f12f732d156998264289"
+  },
+  "STG0016.SDAT": {
+   "bytes": 190384,
+   "sha1": "e539e32f9e741b414b7823a7fc53ea11e30c0591"
+  },
+  "STG0017.SDAT": {
+   "bytes": 132592,
+   "sha1": "51aca555d5cea1c42a331957a72573f1767e4989"
+  },
+  "STG0018.SDAT": {
+   "bytes": 179696,
+   "sha1": "5356bb9d5036499194e66d6fdd063bdbb2bb18e0"
+  },
+  "STG0019.SDAT": {
+   "bytes": 146848,
+   "sha1": "aa9c22c97a77228281e8d8771b734eb9b56329cc"
+  },
+  "STG0020.SDAT": {
+   "bytes": 149136,
+   "sha1": "62aeff272deb0c1f2788f0f0e5dd3dc29dea9b74"
+  },
+  "STG0021.SDAT": {
+   "bytes": 171984,
+   "sha1": "d08fb6271cd37a24c8aa213cb679511b8b555bc5"
+  },
+  "STG0022.SDAT": {
+   "bytes": 127168,
+   "sha1": "924846d297f48705c2eda2700bcb82b9744e78ca"
+  },
+  "STG0023.SDAT": {
+   "bytes": 138064,
+   "sha1": "be775627581f56b7bb98d68a019cc7966a62d556"
+  },
+  "STG0024.SDAT": {
+   "bytes": 156480,
+   "sha1": "3f65d719ddb58f18d41a23eff371846c959aabef"
+  },
+  "STG0025.SDAT": {
+   "bytes": 305296,
+   "sha1": "60ec275acdc529b5ff5a98d4086c11ed2b64d52b"
+  },
+  "STG0026.SDAT": {
+   "bytes": 175072,
+   "sha1": "4b3952c65383055da73216d14786925b4b08a062"
+  },
+  "STG0027.SDAT": {
+   "bytes": 265168,
+   "sha1": "ab3e88c7ebc6c0c460543b6865adc3bcf6f8db68"
+  },
+  "STG0028.SDAT": {
+   "bytes": 191856,
+   "sha1": "50fdc64e94d1b237eabc62ba8b39db8cc5ce7142"
+  },
+  "STG0029.SDAT": {
+   "bytes": 211504,
+   "sha1": "241f82ce68688b591536ef9e140a115eb3968ce8"
+  },
+  "STG0030.SDAT": {
+   "bytes": 148288,
+   "sha1": "ec814f2cf26cd43ebd25ce36b7230e7cbedbb161"
+  },
+  "STG0200.SDAT": {
+   "bytes": 35280,
+   "sha1": "22d9f0079d93aa4ec29c794ad3f9b45f69439447"
+  },
+  "STG0201.SDAT": {
+   "bytes": 15856,
+   "sha1": "8ed740cb116a80c971d6b716ce23ba490b81d29b"
+  },
+  "STG0202.SDAT": {
+   "bytes": 15872,
+   "sha1": "40edc8b371e391c7d1cb6a96a2ad6bb523a35ba4"
+  },
+  "STG0210.SDAT": {
+   "bytes": 47632,
+   "sha1": "b40f39e255214456efa2e6565129b682ea7baa68"
+  },
+  "STG0211.SDAT": {
+   "bytes": 16224,
+   "sha1": "667e2dabb9593966d85fcc68027691edca4990bc"
+  },
+  "STG0212.SDAT": {
+   "bytes": 16192,
+   "sha1": "c604e328c0eb4d6eba1bc342f953ef29b7401ca5"
+  },
+  "STG0220.SDAT": {
+   "bytes": 57440,
+   "sha1": "5aa84b1cdb307220f6090f2fcd191df619d328bd"
+  },
+  "STG0221.SDAT": {
+   "bytes": 21792,
+   "sha1": "6a0032979ddd8d08ca86f1eb3b0c416459fb85af"
+  },
+  "STG0222.SDAT": {
+   "bytes": 18960,
+   "sha1": "f13d42ed1ed8f659a42388696dc3f538c4418242"
+  },
+  "STG0223.SDAT": {
+   "bytes": 19472,
+   "sha1": "950973d60ead59c812780caa28c4874dd799ba18"
+  },
+  "STG0230.SDAT": {
+   "bytes": 57424,
+   "sha1": "fccfab85ae61181e58374f8dbf290ce1dd16bdc2"
+  },
+  "STG0231.SDAT": {
+   "bytes": 16256,
+   "sha1": "edaf5c0263061b49691d7362791d92e1465dec68"
+  },
+  "STG0232.SDAT": {
+   "bytes": 16224,
+   "sha1": "0cef1b4ebb7a7f9bd553d3694eddc0b90d7089de"
+  },
+  "STG0240.SDAT": {
+   "bytes": 39712,
+   "sha1": "4340a3b506e6505186ed37f6e869db6f2b30d873"
+  },
+  "STG0241.SDAT": {
+   "bytes": 16784,
+   "sha1": "e8752fc88cbf2f7588a33bec8c87372e1bba1e40"
+  },
+  "STG0242.SDAT": {
+   "bytes": 15968,
+   "sha1": "676eef051ea9bd50d83e6343050d9d5421814984"
+  },
+  "STG0250.SDAT": {
+   "bytes": 61216,
+   "sha1": "537e95f7f687bb913e7f1532588b680328fe58c4"
+  },
+  "STG0251.SDAT": {
+   "bytes": 30000,
+   "sha1": "c24c47c7c4f2793647d393e98bf9e594c2110099"
+  },
+  "STG0252.SDAT": {
+   "bytes": 22384,
+   "sha1": "8050f15ffffd0a8003f8f0a6fb5aec393378de00"
+  },
+  "STG0253.SDAT": {
+   "bytes": 23264,
+   "sha1": "957332bed3914e6e9adfa04c858c377566b9d02d"
+  },
+  "STG0260.SDAT": {
+   "bytes": 29168,
+   "sha1": "d5fccfbb9ad79c1f76b6aaa46050efa330ce473b"
+  },
+  "STG0261.SDAT": {
+   "bytes": 16304,
+   "sha1": "e305b3aa9460ef1384fe1538b98cac428b8b0d7f"
+  },
+  "STG0262.SDAT": {
+   "bytes": 16320,
+   "sha1": "96f5165db12cc30dc1c4bea63c705aa8988c07c2"
+  },
+  "STG0270.SDAT": {
+   "bytes": 48240,
+   "sha1": "b861a172a104136131fdc86024d8c15c28d7a629"
+  },
+  "STG0271.SDAT": {
+   "bytes": 21664,
+   "sha1": "d6d6ca8c99a787da9029d5c91d7ba98d0a0d2c0a"
+  },
+  "STG0272.SDAT": {
+   "bytes": 21744,
+   "sha1": "41b65b4c77be3b94e05f73afac9c8fd69bdc99d8"
+  },
+  "TPACKPS3.CPK": {
+   "bytes": 215416752,
+   "sha1": "a912540ecd31e2a0d1251baae93384ecfe043d77"
+  }
+ }
+}

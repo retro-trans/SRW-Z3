@@ -1,0 +1,978 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_111:r_479b340ccc6c572b": {
+      "text": "Everyone, are you ready?",
+      "status": "imported"
+    },
+    "voice_111:r_ca4acbac57a2a35e": {
+      "text": "Enemy detected, bearing 323.",
+      "status": "imported"
+    },
+    "voice_111:r_70b9c4b9f1f37eff": {
+      "text": "They must think we're their prey.",
+      "status": "imported"
+    },
+    "voice_111:r_9fcb3754cb1773c7": {
+      "text": "Let's reveal\\nwho the true prey is.",
+      "status": "imported"
+    },
+    "voice_111:r_3559d2fad32c2435": {
+      "text": "Battle stations.",
+      "status": "imported"
+    },
+    "voice_111:r_f7570547e9f80a64": {
+      "text": "Aye, aye, ma'am. Battle stations!",
+      "status": "imported"
+    },
+    "voice_111:r_cbab0f4720e1fcf1": {
+      "text": "Starboard, course 205, full speed!",
+      "status": "imported"
+    },
+    "voice_111:r_0bbe0b4f5364e732": {
+      "text": "Aye-aye! Starboard,\\n205, full speed!",
+      "status": "imported"
+    },
+    "voice_111:r_5dda5198137cb02a": {
+      "text": "Port, course 330.",
+      "status": "imported"
+    },
+    "voice_111:r_83ec59afbecdec14": {
+      "text": "Aye, ma'am. Port, course 330.",
+      "status": "imported"
+    },
+    "voice_111:r_e20bfd42ad95a3c9": {
+      "text": "Depth 100, 8 knots.\\nIn position.",
+      "status": "imported"
+    },
+    "voice_111:r_0f58a8822381e57f": {
+      "text": "Very good.",
+      "status": "imported"
+    },
+    "voice_111:r_6dbcc507fb61b51d": {
+      "text": "Mardukas,\\nfull speed on my signal.",
+      "status": "imported"
+    },
+    "voice_111:r_b42ab697149a7c8a": {
+      "text": "Aye, Captain.",
+      "status": "imported"
+    },
+    "voice_111:r_4de4fcf3b440baf4": {
+      "text": "Break cordon.\\nCrash dive! Vent MBT!",
+      "status": "imported"
+    },
+    "voice_111:r_0121a166c715cdff": {
+      "text": "Aye! Emergency dive! Vent MBT!",
+      "status": "imported"
+    },
+    "voice_111:r_30fad37a42bd3ad3": {
+      "text": "Starboard. Course 290. Hold speed.",
+      "status": "imported"
+    },
+    "voice_111:r_80a0b2a84e05d81a": {
+      "text": "Aye-aye! Starboard, 290.\\nHold speed.",
+      "status": "imported"
+    },
+    "voice_111:r_4a9ac1dff86506d9": {
+      "text": "Maintain course. Slow ahead.",
+      "status": "imported"
+    },
+    "voice_111:r_bc8538e6af3d2577": {
+      "text": "Slow ahead, maintaining course. Aye.",
+      "status": "imported"
+    },
+    "voice_111:r_924516c8de2b5342": {
+      "text": "Activate EMFC! Course 110!",
+      "status": "imported"
+    },
+    "voice_111:r_da1174533722333f": {
+      "text": "Aye, ma'am! EMFC active!\\nCourse 110!",
+      "status": "imported"
+    },
+    "voice_111:r_fdeb8162976e72c1": {
+      "text": "Dive to 900. Down planes 20 degrees.",
+      "status": "imported"
+    },
+    "voice_111:r_0fadb5c26df92b42": {
+      "text": "Yes, Captain.",
+      "status": "imported"
+    },
+    "voice_111:r_6b15af9a0057cdc8": {
+      "text": "Starboard, course 303. Full speed.",
+      "status": "imported"
+    },
+    "voice_111:r_15b4a90140e8a33a": {
+      "text": "Starboard 303. Full speed, aye.",
+      "status": "imported"
+    },
+    "voice_111:r_af884a6b11dff121": {
+      "text": "Hard to port! Dive at max angle!",
+      "status": "imported"
+    },
+    "voice_111:r_ac6fe7838e95647b": {
+      "text": "Diving at max angle. Aye.",
+      "status": "imported"
+    },
+    "voice_111:r_77ca87eacd17ad52": {
+      "text": "Not yet! Keep up the attack!",
+      "status": "imported"
+    },
+    "voice_111:r_bf3244994760e535": {
+      "text": "Continuing attack, aye!",
+      "status": "imported"
+    },
+    "voice_111:r_aabfb21c9d069ce7": {
+      "text": "Press the attack, all at once!",
+      "status": "imported"
+    },
+    "voice_111:r_a2df00f91a9b0a9e": {
+      "text": "Captain, a large target dead ahead.",
+      "status": "imported"
+    },
+    "voice_111:r_48b60d6c48b9b142": {
+      "text": "Just the prey we were hoping for!",
+      "status": "imported"
+    },
+    "voice_111:r_8927e6fb681aa809": {
+      "text": "Appears to be a slippery foe.",
+      "status": "imported"
+    },
+    "voice_111:r_665f01666859013b": {
+      "text": "Oh? Not if you read its movements.",
+      "status": "imported"
+    },
+    "voice_111:r_a571eec59b258d11": {
+      "text": "It must think it's safe in the air.",
+      "status": "imported"
+    },
+    "voice_111:r_ddbe581c5ea9183d": {
+      "text": "Let's teach them\\nthat they're wrong.",
+      "status": "imported"
+    },
+    "voice_111:r_faae935cca0edc72": {
+      "text": "Captain, this is the final target.",
+      "status": "imported"
+    },
+    "voice_111:r_d4430bf362340b32": {
+      "text": "One last push! Give it everything!",
+      "status": "imported"
+    },
+    "voice_111:r_6ff1323b355593e0": {
+      "text": "So, the time has come...",
+      "status": "imported"
+    },
+    "voice_111:r_b7b5625d7cd4282f": {
+      "text": "We'll all make it back. Engage!",
+      "status": "imported"
+    },
+    "voice_111:r_36133ad73a73ef98": {
+      "text": "Only we can do this, Captain.",
+      "status": "imported"
+    },
+    "voice_111:r_920740a0219c5085": {
+      "text": "Yes.\\nShow them her last reserves!",
+      "status": "imported"
+    },
+    "voice_111:r_a8451712c57c1a72": {
+      "text": "Open tubes.\\nDisengage all safeties.",
+      "status": "imported"
+    },
+    "voice_111:r_3633df5b7b8f47fa": {
+      "text": "Tubes open.\\nAll safeties off. Aye!",
+      "status": "imported"
+    },
+    "voice_111:r_52dfc56b14b93551": {
+      "text": "Fire!",
+      "status": "imported"
+    },
+    "voice_111:r_1b9b2aab5cb104da": {
+      "text": "Aye, aye, ma'am. Fire torpedoes!",
+      "status": "imported"
+    },
+    "voice_111:r_342044c706a2340f": {
+      "text": "Open the torpedo tube doors.",
+      "status": "imported"
+    },
+    "voice_111:r_cf41e8828a90cbdb": {
+      "text": "Aye, aye, ma'am. Opening tubes.",
+      "status": "imported"
+    },
+    "voice_111:r_719e897304ec42d4": {
+      "text": "Fire torpedoes!",
+      "status": "imported"
+    },
+    "voice_111:r_d5e0a2317c40d322": {
+      "text": "Firing torpedoes, aye!",
+      "status": "imported"
+    },
+    "voice_111:r_ec2ea17765052401": {
+      "text": "Open the vertical launch tubes!",
+      "status": "imported"
+    },
+    "voice_111:r_f2d4255f1c2f7542": {
+      "text": "Open the launch tubes!",
+      "status": "imported"
+    },
+    "voice_111:r_5d08ad19e2da125b": {
+      "text": "Launch Tomahawk!",
+      "status": "imported"
+    },
+    "voice_111:r_a7246b52782a877e": {
+      "text": "Aye-aye, ma'am.\\nTomahawk away!",
+      "status": "imported"
+    },
+    "voice_111:r_dc8701f6bcb9904f": {
+      "text": "Launch tubes open!",
+      "status": "imported"
+    },
+    "voice_111:r_d6bdd730f24f66eb": {
+      "text": "Aye, aye, ma'am! Tubes open!",
+      "status": "imported"
+    },
+    "voice_111:r_41997412868c48c4": {
+      "text": "Launch Cruise Missile!",
+      "status": "imported"
+    },
+    "voice_111:r_9e6cf4f389dae55c": {
+      "text": "Cruise Missile away, aye!",
+      "status": "imported"
+    },
+    "voice_111:r_9e0c80ac7e33b459": {
+      "text": "Ready the Cruise Missile!",
+      "status": "imported"
+    },
+    "voice_111:r_7432ef43ed3471dc": {
+      "text": "Already done, Captain.",
+      "status": "imported"
+    },
+    "voice_111:r_065443f6ddfcf0d7": {
+      "text": "Very good. Then fire!",
+      "status": "imported"
+    },
+    "voice_111:r_47d52a2839c71715": {
+      "text": "Aye, ma'am. Launch Cruise Missile!",
+      "status": "imported"
+    },
+    "voice_111:r_847f82e7f3eef651": {
+      "text": "Ready Harpoon for launch!",
+      "status": "imported"
+    },
+    "voice_111:r_eb7ae28b53dc033c": {
+      "text": "Aye-aye, ma'am.\\nTubes are loaded!",
+      "status": "imported"
+    },
+    "voice_111:r_857c4a52ce8df0fd": {
+      "text": "Fire on the target!",
+      "status": "imported"
+    },
+    "voice_111:r_55417493fce1d347": {
+      "text": "Harpoon away, aye!",
+      "status": "imported"
+    },
+    "voice_111:r_8fdf5910927c9591": {
+      "text": "Ready Anti-Ship Missile!",
+      "status": "imported"
+    },
+    "voice_111:r_7d724dbcc4451e10": {
+      "text": "Aye, ma'am. Harpoon loaded!",
+      "status": "imported"
+    },
+    "voice_111:r_93e25418a203cb8f": {
+      "text": "Launch Harpoon!",
+      "status": "imported"
+    },
+    "voice_111:r_adeb0a29274d3d9b": {
+      "text": "Aye, ma'am. Launch Harpoon!",
+      "status": "imported"
+    },
+    "voice_111:r_24cf161287ef9d5c": {
+      "text": "We'll use the Anti-Ship Missile.",
+      "status": "imported"
+    },
+    "voice_111:r_8f60f6fc86db3107": {
+      "text": "Anti-Ship Missile ready, aye!",
+      "status": "imported"
+    },
+    "voice_111:r_b1de76a75a253c13": {
+      "text": "Fire as soon as you're ready!",
+      "status": "imported"
+    },
+    "voice_111:r_128c35bf3e0e394c": {
+      "text": "Aye-aye!\\nAnti-Ship Missile away!",
+      "status": "imported"
+    },
+    "voice_111:r_5213c17e13b23de0": {
+      "text": "Your orders, Captain.",
+      "status": "imported"
+    },
+    "voice_111:r_38fdff9483e9245c": {
+      "text": "Counterattack, of course!",
+      "status": "imported"
+    },
+    "voice_111:r_620fedec67706d7d": {
+      "text": "The enemy has made a mistake.",
+      "status": "imported"
+    },
+    "voice_111:r_9680dcd0fddcfcc7": {
+      "text": "Yes, a fatal one!",
+      "status": "imported"
+    },
+    "voice_111:r_2a00f1044ad5cbaa": {
+      "text": "Captain, the enemy's wide open.",
+      "status": "imported"
+    },
+    "voice_111:r_3dbeead1bd3164ef": {
+      "text": "No escape! Return fire!",
+      "status": "imported"
+    },
+    "voice_111:r_98d15b8cc09bc915": {
+      "text": "Captain, we can't return fire!",
+      "status": "imported"
+    },
+    "voice_111:r_46e86d000250e137": {
+      "text": "We planned for this too.",
+      "status": "imported"
+    },
+    "voice_111:r_ac341e7976e88f0b": {
+      "text": "We appear to be out of options.",
+      "status": "imported"
+    },
+    "voice_111:r_cdbd128a5b4127cc": {
+      "text": "Then we'll make the first move.",
+      "status": "imported"
+    },
+    "voice_111:r_cfccaa1fbeda124c": {
+      "text": "This is when we must remain calm...",
+      "status": "imported"
+    },
+    "voice_111:r_b1f8ec192b9c083a": {
+      "text": "Panic breeds unforgivable errors.",
+      "status": "imported"
+    },
+    "voice_111:r_a007f9ab9cf048b3": {
+      "text": "...They're really irritating.",
+      "status": "imported"
+    },
+    "voice_111:r_ddafde4b065ced49": {
+      "text": "We'll make them regret it later.",
+      "status": "imported"
+    },
+    "voice_111:r_de1213040856c089": {
+      "text": "Eek!",
+      "status": "imported"
+    },
+    "voice_111:r_3304412ac41f47a6": {
+      "text": "What happened, Captain?!",
+      "status": "imported"
+    },
+    "voice_111:r_0c0775e051211840": {
+      "text": "Sorry, I fell out of my chair...",
+      "status": "imported"
+    },
+    "voice_111:r_a2afffe1c396f0b3": {
+      "text": "We evaded just in time.",
+      "status": "imported"
+    },
+    "voice_111:r_13c25fbdfddc8a24": {
+      "text": "Very good.",
+      "status": "imported"
+    },
+    "voice_111:r_42ba1ecb310b4bd7": {
+      "text": "Nicely done, Captain.",
+      "status": "imported"
+    },
+    "voice_111:r_d692f1d420460a47": {
+      "text": "I won't let them mar this dear girl.",
+      "status": "imported"
+    },
+    "voice_111:r_a5643cec86b18bd2": {
+      "text": "Emergency blow!",
+      "status": "imported"
+    },
+    "voice_111:r_68f2dfab20a4a30e": {
+      "text": "Aye, ma'am!\\nEmergency blow!",
+      "status": "imported"
+    },
+    "voice_111:r_9cedad8237480563": {
+      "text": "Hold speed. Emergency dive!",
+      "status": "imported"
+    },
+    "voice_111:r_a03fabecba1508ca": {
+      "text": "Aye, ma'am! Crash dive!",
+      "status": "imported"
+    },
+    "voice_111:r_5391b24a71eb10ae": {
+      "text": "No hull damage, Captain.",
+      "status": "imported"
+    },
+    "voice_111:r_a554ceef5c87b972": {
+      "text": "Very good.",
+      "status": "imported"
+    },
+    "voice_111:r_2c9d94ba13c5fc50": {
+      "text": "Defensive systems activated.",
+      "status": "imported"
+    },
+    "voice_111:r_a77f4913375098d2": {
+      "text": "Yes, that saved us.",
+      "status": "imported"
+    },
+    "voice_111:r_428c2116ac3071b1": {
+      "text": "Captain, are you injured?",
+      "status": "imported"
+    },
+    "voice_111:r_84c116267b79f540": {
+      "text": "I'm fine. And still in my chair.",
+      "status": "imported"
+    },
+    "voice_111:r_dad38ee29af2df3a": {
+      "text": "Status report.",
+      "status": "imported"
+    },
+    "voice_111:r_3d32e86f8dc80909": {
+      "text": "No problems at all, Captain.",
+      "status": "imported"
+    },
+    "voice_111:r_70451ffbabe2f876": {
+      "text": "They're just small fry, it seems.",
+      "status": "imported"
+    },
+    "voice_111:r_69dfa1659715e2fa": {
+      "text": "Yes, hardly a worthy opponent.",
+      "status": "imported"
+    },
+    "voice_111:r_d996fd6d4ef5b329": {
+      "text": "They greatly underestimate us.",
+      "status": "imported"
+    },
+    "voice_111:r_8ab47a28f99ef565": {
+      "text": "Don't get careless, Mardukas.",
+      "status": "imported"
+    },
+    "voice_111:r_546de3fb6db156ea": {
+      "text": "Gentlemen, this is no time to panic.",
+      "status": "imported"
+    },
+    "voice_111:r_ca85f87cee5e31f7": {
+      "text": "Exactly.\\nStay calm, then respond.",
+      "status": "imported"
+    },
+    "voice_111:r_9072ea7bc71df136": {
+      "text": "Quite the warm welcome.",
+      "status": "imported"
+    },
+    "voice_111:r_04e815a8d425827d": {
+      "text": "We'll have to return the favor.",
+      "status": "imported"
+    },
+    "voice_111:r_d89011fe3e5d082a": {
+      "text": "Nothing worth making a fuss over.",
+      "status": "imported"
+    },
+    "voice_111:r_3c5b0c2ac812d5de": {
+      "text": "Yes... not at this point.",
+      "status": "imported"
+    },
+    "voice_111:r_5b9e8897190892eb": {
+      "text": "We need only turn this around.",
+      "status": "imported"
+    },
+    "voice_111:r_7bea3023abbf8a94": {
+      "text": "Quite right, indeed.",
+      "status": "imported"
+    },
+    "voice_111:r_dd01a4c0d1b36a8d": {
+      "text": "A normal ship would have sunk.",
+      "status": "imported"
+    },
+    "voice_111:r_20920ad2eb3542db": {
+      "text": "Yes, but she's no normal ship!",
+      "status": "imported"
+    },
+    "voice_111:r_0ab7914877fd48ed": {
+      "text": "Tuatha de Danaan\\ncornered this far!",
+      "status": "imported"
+    },
+    "voice_111:r_cb846feec748c2e3": {
+      "text": "Yes, but this ends now!",
+      "status": "imported"
+    },
+    "voice_111:r_c958860b0676b1f5": {
+      "text": "Captain, at this rate...!",
+      "status": "imported"
+    },
+    "voice_111:r_5e2669b82ef75ce3": {
+      "text": "No, draw the enemy closer...!",
+      "status": "imported"
+    },
+    "voice_111:r_7847e0ed7dc9282d": {
+      "text": "We're at the limit, Captain!",
+      "status": "imported"
+    },
+    "voice_111:r_e42b52c7a987b906": {
+      "text": "Not yet!\\nShe won't sink so easily!",
+      "status": "imported"
+    },
+    "voice_111:r_6825fd1ff907bd22": {
+      "text": "Reactors 1 and 2\\npast heat limits!",
+      "status": "imported"
+    },
+    "voice_111:r_607f666f1563bc0d": {
+      "text": "Hold full speed!\\nLet them explode!",
+      "status": "imported"
+    },
+    "voice_111:r_97b7431eeb81e6b6": {
+      "text": "Captain, we can't run any farther...",
+      "status": "imported"
+    },
+    "voice_111:r_132f605d02975e71": {
+      "text": "Don't stop! Punch straight through!",
+      "status": "imported"
+    },
+    "voice_111:r_9b9726b1872759d6": {
+      "text": "Compartment three is flooding!",
+      "status": "imported"
+    },
+    "voice_111:r_1252db29683fefe0": {
+      "text": "Seal the bulkheads! Hurry!",
+      "status": "imported"
+    },
+    "voice_111:r_ad3d538f1e909184": {
+      "text": "Status!",
+      "status": "imported"
+    },
+    "voice_111:r_8c61c59a1c0aebbf": {
+      "text": "Deck 1, bulkhead H7 malfunction!",
+      "status": "imported"
+    },
+    "voice_111:r_aba6a7662129d8ce": {
+      "text": "C3 power cable 11 severed!",
+      "status": "imported"
+    },
+    "voice_111:r_b84afafb8a33ec60": {
+      "text": "Just last until the next attack!",
+      "status": "imported"
+    },
+    "voice_111:r_c8c59db85bf875e6": {
+      "text": "Captain...",
+      "status": "imported"
+    },
+    "voice_111:r_391aa56435d9dd6e": {
+      "text": "It's over...\\nForgive me, everyone...",
+      "status": "imported"
+    },
+    "voice_111:r_7c796ba53bd7ea03": {
+      "text": "Is everyone ready?",
+      "status": "imported"
+    },
+    "voice_111:r_fa944da4b6519006": {
+      "text": "Let's go, Dana.",
+      "status": "imported"
+    },
+    "voice_111:r_95d047bcc17fccc6": {
+      "text": "All hands, battle stations.",
+      "status": "imported"
+    },
+    "voice_111:r_640327a12a559b31": {
+      "text": "Don't be afraid, Dana.",
+      "status": "imported"
+    },
+    "voice_111:r_bdd38c584fa313d0": {
+      "text": "Let's see how far we can go!",
+      "status": "imported"
+    },
+    "voice_111:r_3fd86c1027f317c8": {
+      "text": "Today,\\nour work bears fruit!",
+      "status": "imported"
+    },
+    "voice_111:r_d0372a183d2007ad": {
+      "text": "Now, even space is our domain.",
+      "status": "imported"
+    },
+    "voice_111:r_217aa5e1d545b44d": {
+      "text": "We can't call her a submarine now.",
+      "status": "imported"
+    },
+    "voice_111:r_381992c5d8224937": {
+      "text": "Come, let's sail the endless ocean.",
+      "status": "imported"
+    },
+    "voice_111:r_f1e7ed9e5874aba5": {
+      "text": "We can't let this chance slip by!",
+      "status": "imported"
+    },
+    "voice_111:r_fc25e66a86fc2c85": {
+      "text": "Stop, Takuma!\\nIt's not too late!",
+      "status": "imported"
+    },
+    "voice_111:r_5aeeb4917340c42d": {
+      "text": "Mass-producing that devil...!",
+      "status": "imported"
+    },
+    "voice_111:r_b765659981b6516d": {
+      "text": "They'll pay\\na heavy price for this.",
+      "status": "imported"
+    },
+    "voice_111:r_0c427458bc00eb95": {
+      "text": "Our feud\\nends here and now.",
+      "status": "imported"
+    },
+    "voice_111:r_d3f01de714c015bd": {
+      "text": "The Lambda Driver isn't invincible!",
+      "status": "imported"
+    },
+    "voice_111:r_7d2617c809fead70": {
+      "text": "Utter nonsense...!",
+      "status": "imported"
+    },
+    "voice_111:r_ceb935ccbf830724": {
+      "text": "Any foe,\\nour task is clear...!",
+      "status": "imported"
+    },
+    "voice_111:r_862ef7385bf2abd4": {
+      "text": "Our duty is to protect humanity...!",
+      "status": "imported"
+    },
+    "voice_111:r_8ad40afecd02b41e": {
+      "text": "We won't surrender Mother Earth!",
+      "status": "imported"
+    },
+    "voice_111:r_26e5efec03c03d78": {
+      "text": "The enhanced soldier in our data...!",
+      "status": "imported"
+    },
+    "voice_111:r_40c5a9358ed5bf29": {
+      "text": "Choose war,\\nand you're our enemy.",
+      "status": "imported"
+    },
+    "voice_111:r_cf7dbf49e96a5755": {
+      "text": "Are you all\\ntruly satisfied...?",
+      "status": "imported"
+    },
+    "voice_111:r_fa96676cc65bb509": {
+      "text": "The wrong path changes nothing...!",
+      "status": "imported"
+    },
+    "voice_111:r_4e37f92e7d2fc62e": {
+      "text": "You're just a naive little boy.",
+      "status": "imported"
+    },
+    "voice_111:r_66ab4cfe1557909d": {
+      "text": "The world\\nZeon's Red Comet seeks?!",
+      "status": "imported"
+    },
+    "voice_111:r_0bad405ee6ca63ba": {
+      "text": "You misunderstand what peace means.",
+      "status": "imported"
+    },
+    "voice_111:r_2072eaf71a260ae7": {
+      "text": "Even if it means defying God...!",
+      "status": "imported"
+    },
+    "voice_111:r_6c13bbfd27a7799e": {
+      "text": "No cause\\ncould make me accept this!",
+      "status": "imported"
+    },
+    "voice_111:r_06f88dcbd3c9e738": {
+      "text": "I understand how you feel...\\nBut!",
+      "status": "imported"
+    },
+    "voice_111:r_b28faf9f71bc3598": {
+      "text": "Deny all hope\\nand hide? How absurd!",
+      "status": "imported"
+    },
+    "voice_111:r_8a29278549f8e07a": {
+      "text": "Give up,\\nand your defeat is sealed!",
+      "status": "imported"
+    },
+    "voice_111:r_7e6c573c26177f98": {
+      "text": "Stop Third Impact\\nat any cost!",
+      "status": "imported"
+    },
+    "voice_111:r_45abf84f7757d6eb": {
+      "text": "Any scheme,\\nyou won't have your way!",
+      "status": "imported"
+    },
+    "voice_111:r_edd7a13ab8f06a14": {
+      "text": "That vulgar laugh disgusts me...!",
+      "status": "imported"
+    },
+    "voice_111:r_8165e5b41f0124c4": {
+      "text": "We will stand firm against terror!",
+      "status": "imported"
+    },
+    "voice_111:r_25493e978ce8ff16": {
+      "text": "Return fire at once.",
+      "status": "imported"
+    },
+    "voice_111:r_7316666150e42960": {
+      "text": "We'll show them\\nwe're no easy prey.",
+      "status": "imported"
+    },
+    "voice_111:r_c4f11aa93dc5b668": {
+      "text": "I'm not kind enough to let you go.",
+      "status": "imported"
+    },
+    "voice_111:r_ce1a22dfe3a4d339": {
+      "text": "Let's pay them back double.",
+      "status": "imported"
+    },
+    "voice_111:r_240651adab81e145": {
+      "text": "Follow our ally's lead and attack!",
+      "status": "imported"
+    },
+    "voice_111:r_cff0deaae73c2858": {
+      "text": "Ride the flow! Coordinated attack!",
+      "status": "imported"
+    },
+    "voice_111:r_dca67f68a573fab7": {
+      "text": "Just as expected of the SRT leader.",
+      "status": "imported"
+    },
+    "voice_111:r_a6630215fefaf294": {
+      "text": "Follow Urzu 2 and attack!",
+      "status": "imported"
+    },
+    "voice_111:r_6f94566ad37f8ff8": {
+      "text": "The enemy is focused\\non Urzu 6!",
+      "status": "imported"
+    },
+    "voice_111:r_942ca03c9de80143": {
+      "text": "Don't miss Urzu 7's opening!",
+      "status": "imported"
+    },
+    "voice_111:r_d8c669c70659e18a": {
+      "text": "Covering! All hands, brace!",
+      "status": "imported"
+    },
+    "voice_111:r_8f5bade7ac2db78e": {
+      "text": "I want you all\\nhome safe...!",
+      "status": "imported"
+    },
+    "voice_111:r_05ea490d2f522520": {
+      "text": "I'll move ahead of Urzu 1!",
+      "status": "imported"
+    },
+    "voice_111:r_f5658c702d91db7a": {
+      "text": "Support Urzu 2.",
+      "status": "imported"
+    },
+    "voice_111:r_686df329b50f195b": {
+      "text": "Regroup, Urzu 6.",
+      "status": "imported"
+    },
+    "voice_111:r_25f0ab0fa3cf690c": {
+      "text": "Urzu 7, fall back!",
+      "status": "imported"
+    },
+    "voice_111:r_b708a1d959013dbf": {
+      "text": "We cannot afford to lose Arbalest!",
+      "status": "imported"
+    },
+    "voice_111:r_59fca03e929366c1": {
+      "text": "Endure it for now...!",
+      "status": "imported"
+    },
+    "voice_111:r_0d65eb631dcb7514": {
+      "text": "We can't launch an attack...!",
+      "status": "imported"
+    },
+    "voice_111:r_d03018a31e23f1e9": {
+      "text": "A fool beyond saving, it seems.",
+      "status": "imported"
+    },
+    "voice_111:r_279da5f732aa8847": {
+      "text": "Heh, she's faster than you'd think.",
+      "status": "imported"
+    },
+    "voice_111:r_97f82e3cb6f70110": {
+      "text": "Seems your guess was off.",
+      "status": "imported"
+    },
+    "voice_111:r_c5611d8dd6def96b": {
+      "text": "Too bad I can't see you panic.",
+      "status": "imported"
+    },
+    "voice_111:r_6f12cc8ed2732eb5": {
+      "text": "You think you can beat her at sea?",
+      "status": "imported"
+    },
+    "voice_111:r_7abfc55f8fb62ba7": {
+      "text": "What a futile attack...",
+      "status": "imported"
+    },
+    "voice_111:r_5b2247b5cfbcd7b2": {
+      "text": "We have equipment for this too.",
+      "status": "imported"
+    },
+    "voice_111:r_bf953d64c3c7d9b7": {
+      "text": "It seems you're all show.",
+      "status": "imported"
+    },
+    "voice_111:r_e09b933e3e706779": {
+      "text": "You can't sink this ship.",
+      "status": "imported"
+    },
+    "voice_111:r_66236eb99b676e5b": {
+      "text": "More needless work\\nfor maintenance.",
+      "status": "imported"
+    },
+    "voice_111:r_9639a2dbcd2f58ed": {
+      "text": "Not even worth dodging, as they say.",
+      "status": "imported"
+    },
+    "voice_111:r_aeea0893acb93d35": {
+      "text": "It wouldn't be fun otherwise.",
+      "status": "imported"
+    },
+    "voice_111:r_b31568654e53487b": {
+      "text": "You think I'll back down now?",
+      "status": "imported"
+    },
+    "voice_111:r_2502132569141ea3": {
+      "text": "Struck by that... What humiliation!",
+      "status": "imported"
+    },
+    "voice_111:r_1ff312798a52c8eb": {
+      "text": "I didn't expect that last move...!",
+      "status": "imported"
+    },
+    "voice_111:r_fa07d90fca62f593": {
+      "text": "As expected,\\nI need time to adapt...",
+      "status": "imported"
+    },
+    "voice_111:r_a25bf2676ecf9d83": {
+      "text": "It's so completely different...!",
+      "status": "imported"
+    },
+    "voice_111:r_237a0288b42dce20": {
+      "text": "At sea,\\nshe is forbidden to lose!",
+      "status": "imported"
+    },
+    "voice_111:r_b5864501463db244": {
+      "text": "They completely outplayed me...!",
+      "status": "imported"
+    },
+    "voice_111:r_a88939ea84b4474d": {
+      "text": "They saw beyond my every move...!",
+      "status": "imported"
+    },
+    "voice_111:r_a870d0cf7cc11ec6": {
+      "text": "I misjudged their strength...?!",
+      "status": "imported"
+    },
+    "voice_111:r_03f6158ef83964f3": {
+      "text": "Evade the next strike.\\nThat's all.",
+      "status": "imported"
+    },
+    "voice_111:r_2970a83693cdcc25": {
+      "text": "I'm sorry, Dana...!",
+      "status": "imported"
+    },
+    "voice_111:r_be661448b85d0009": {
+      "text": "Tuatha de Danaan...\\nShe can't sink!",
+      "status": "imported"
+    },
+    "voice_111:r_958a56c1151cab9e": {
+      "text": "Oh, stopping here? Good work.",
+      "status": "imported"
+    },
+    "voice_111:r_8b18aa4cc69547df": {
+      "text": "Resting when you can is vital duty.",
+      "status": "imported"
+    },
+    "voice_111:r_3e87f6fc3ea65aef": {
+      "text": "Get good rest, then come back here.",
+      "status": "imported"
+    },
+    "voice_111:r_5508a7bfa9074eb9": {
+      "text": "A request, not an order. I'll wait.",
+      "status": "imported"
+    },
+    "voice_111:r_09a003e91f0d5dc7": {
+      "text": "I can't! I owe them my best plan!",
+      "status": "imported"
+    },
+    "voice_111:r_192447448ebd7bb5": {
+      "text": "Melissa! Hands off! That tickles!",
+      "status": "imported"
+    },
+    "voice_111:r_e92920ba4b301b9f": {
+      "text": "Just tell me to rest! Fine, I will.",
+      "status": "imported"
+    },
+    "voice_111:r_207b256d613bb896": {
+      "text": "No! Use Alert to escape!",
+      "status": "translated"
+    },
+    "voice_111:r_a6fd676d8146501b": {
+      "text": "Rush in blind, get ten game overs!",
+      "status": "imported"
+    },
+    "voice_111:r_94d35e5fa8e3a198": {
+      "text": "Gah! Enough! Let Sagara decide!",
+      "status": "imported"
+    },
+    "voice_111:r_b686510e636673f3": {
+      "text": "Which one?!",
+      "status": "imported"
+    },
+    "voice_111:r_59369bad143d4272": {
+      "text": "What are you doing here, Sergeant?!",
+      "status": "imported"
+    },
+    "voice_111:r_25f9b1e39dd8d366": {
+      "text": "Testarossa's your ace, Sergeant?",
+      "status": "imported"
+    },
+    "voice_111:r_307477bedd148060": {
+      "text": "Is that an excuse?",
+      "status": "imported"
+    },
+    "voice_111:r_09a780acca0eb4b0": {
+      "text": "Prove no terrain can hinder them!",
+      "status": "imported"
+    },
+    "voice_111:r_af62f2ee466b5c8c": {
+      "text": "Fail! I'll launch you with 300kg!",
+      "status": "imported"
+    },
+    "voice_111:r_20cfb719db02fafd": {
+      "text": "God and Queen, I'll tear you apart!",
+      "status": "imported"
+    },
+    "voice_111:r_570c1fdf72edb283": {
+      "text": "Even the infamous Firebug...!",
+      "status": "imported"
+    },
+    "voice_111:r_60c94ea4eb7f7404": {
+      "text": "We will never yield to terrorism!",
+      "status": "imported"
+    },
+    "voice_111:r_727b2ee0277f9159": {
+      "text": "Know your power,\\nthen surrender!",
+      "status": "imported"
+    },
+    "voice_111:r_96d39b8bdfa6f183": {
+      "text": "Kaname, here we go!",
+      "status": "imported"
+    },
+    "voice_111:r_0e4f9b8a2d26ebff": {
+      "text": "Tuatha de Danaan, surface!!",
+      "status": "imported"
+    },
+    "voice_111:r_79e0d542fe12bcf7": {
+      "text": "See? Dana never trusted you much.",
+      "status": "imported"
+    },
+    "voice_111:r_eff747ba39a55393": {
+      "text": "This ship is mine. Not yours to use!",
+      "status": "imported"
+    },
+    "voice_111:r_b2dc77aa6dd77e69": {
+      "text": "The best! Kill me - she'll guard it!",
+      "status": "imported"
+    }
+  }
+}

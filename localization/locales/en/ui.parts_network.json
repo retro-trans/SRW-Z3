@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ui.parts_network:equipped": {"text": "Equipped Power Parts", "status": "translated"},
+    "ui.parts_network:slot": {"text": ": Select Slot", "status": "translated"},
+    "ui.parts_network:bonus": {"text": "Bonus Maps", "status": "translated"}
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ability_hook:r_479b340ccc6c572b": {
+      "text": "Nullifies all-attribute damage of 2000 or less.\nActivates at Focus 130+.\nCosts 5 EN to activate.",
+      "status": "imported"
+    },
+    "ability_hook:r_ca4acbac57a2a35e": {
+      "text": "Reduces damage from ranged Beam attacks by 1500.\nActivates at Focus 110+.\nCosts 10 EN to activate.",
+      "status": "imported"
+    },
+    "ability_hook:r_77949221bf58f862": {
+      "text": "Reduces damage from ranged Beam attacks by 2000.\nActivates at Focus 100+.\nCosts 5 EN to activate.",
+      "status": "imported"
+    },
+    "ability_hook:r_70b9c4b9f1f37eff": {
+      "text": "Nullifies all-attribute damage of 2000 or less.\nCosts 5 EN to activate.",
+      "status": "imported"
+    },
+    "ability_hook:r_9fcb3754cb1773c7": {
+      "text": "Reduces non-Beam damage by 2000.\nCosts 15 EN to activate.",
+      "status": "imported"
+    },
+    "ability_hook:r_3559d2fad32c2435": {
+      "text": "Reduces all-attribute damage by 1500.\nActivates at Focus 110+.\nCosts 20 EN to activate.",
+      "status": "imported"
+    },
+    "ability_hook:r_f7570547e9f80a64": {
+      "text": "Nullifies all-attribute damage of 2500 or less.\nCosts 10 EN to activate.",
+      "status": "imported"
+    },
+    "ability_hook:r_cbab0f4720e1fcf1": {
+      "text": "Nullifies all-attribute damage of 2000 or less.\nCosts 10 EN to activate.",
+      "status": "imported"
+    },
+    "ability_hook:r_0bbe0b4f5364e732": {
+      "text": "Reduces all-attribute damage by 1000.\nActivates at Focus 110+.\nCosts 5 EN to activate.",
+      "status": "imported"
+    },
+    "ability_hook:r_5dda5198137cb02a": {
+      "text": "Reduces all-attribute damage by 500.\nActivates at Focus 100+; effect grows every Focus +10.\nCosts 10 EN to activate.",
+      "status": "imported"
+    },
+    "ability_hook:r_83ec59afbecdec14": {
+      "text": "Reduces all-attribute damage by 2000.\nActivates at Focus 100+; effect grows every Focus +10.\nCosts 10 EN to activate.",
+      "status": "imported"
+    },
+    "ability_hook:r_e20bfd42ad95a3c9": {
+      "text": "Nullifies all-attribute damage of 4000 or less.\nActivates at Focus 110+.\nCosts 30 EN to activate.",
+      "status": "imported"
+    },
+    "ability_hook:r_0f58a8822381e57f": {
+      "text": "Reduces all-attribute damage by 1500.\nActivates at Focus 110+.\nCosts 5 EN to activate.",
+      "status": "imported"
+    },
+    "ability_hook:r_6dbcc507fb61b51d": {
+      "text": "Reduces all-attribute damage by 1500.\nActivates at Focus 105+.\nCosts 5 EN to activate.",
+      "status": "imported"
+    },
+    "ability_hook:r_b42ab697149a7c8a": {
+      "text": "Nullifies all-attribute damage of 3500 or less.\nCosts 10 EN to activate.",
+      "status": "imported"
+    },
+    "ability_hook:r_4de4fcf3b440baf4": {
+      "text": "Nullifies dmg of 3000 or less; scales with Sync Ratio.\nActivates at Focus 100+.\nCosts 20 EN; no effect against Angel melee attacks.",
+      "status": "imported"
+    },
+    "ability_hook:r_0121a166c715cdff": {
+      "text": "Nullifies all-attribute damage of 3500 or less.\nActivates at Focus 100+; nullifies Barrier Pierce.\nCosts 10 EN; no effect against Evangelion melee attacks.",
+      "status": "imported"
+    },
+    "ability_hook:r_30fad37a42bd3ad3": {
+      "text": "Nullifies all-attribute damage of 1200 or less.\nCosts 10 EN to activate.",
+      "status": "imported"
+    },
+    "ability_hook:r_80a0b2a84e05d81a": {
+      "text": "Chance to parry and nullify a specific enemy attack.",
+      "status": "imported"
+    },
+    "ability_hook:r_4a9ac1dff86506d9": {
+      "text": "Reduces damage by 60% when defending.\nChance for the same effect even without defending.",
+      "status": "imported"
+    },
+    "ability_hook:r_bc8538e6af3d2577": {
+      "text": "Can resupply adjacent units (not after moving).\nRefills 10% EN for both team units at own phase start.",
+      "status": "imported"
+    },
+    "ability_hook:r_924516c8de2b5342": {
+      "text": "Can repair self and adjacent units (moving OK).\nRestores 10% HP for both team units at own phase start.",
+      "status": "imported"
+    },
+    "ability_hook:r_da1174533722333f": {
+      "text": "Restores 10% of max HP at own phase start.",
+      "status": "imported"
+    },
+    "ability_hook:r_fdeb8162976e72c1": {
+      "text": "Restores 20% of max HP at own phase start.",
+      "status": "imported"
+    },
+    "ability_hook:r_0fadb5c26df92b42": {
+      "text": "Restores 30% of max HP at own phase start.",
+      "status": "imported"
+    },
+    "ability_hook:r_6b15af9a0057cdc8": {
+      "text": "Restores 10% of max EN at own phase start.",
+      "status": "imported"
+    },
+    "ability_hook:r_15b4a90140e8a33a": {
+      "text": "Restores 20% of max EN at own phase start.",
+      "status": "imported"
+    },
+    "ability_hook:r_af884a6b11dff121": {
+      "text": "Restores 30% of max EN at own phase start.",
+      "status": "imported"
+    },
+    "ability_hook:r_ac6fe7838e95647b": {
+      "text": "With the unit command Transform,\nthe mech can change form.",
+      "status": "imported"
+    },
+    "ability_hook:r_77ca87eacd17ad52": {
+      "text": "If shot down, or via the unit command Separate,\nthe mech can change form.\nCannot revert on this map once separated.",
+      "status": "imported"
+    },
+    "ability_hook:r_bf3244994760e535": {
+      "text": "With the unit command Combine, multiple units\ncan combine into a single unit.",
+      "status": "imported"
+    },
+    "ability_hook:r_aabfb21c9d069ce7": {
+      "text": "Team units get +10% to final hit and evasion rate.",
+      "status": "imported"
+    },
+    "ability_hook:r_02479dc8fe989560": {
+      "text": "Nullifies enemy special effects Ability Halved,\nIncapacitate, Focus Down, SP Down.",
+      "status": "imported"
+    },
+    "ability_hook:r_a2df00f91a9b0a9e": {
+      "text": "Nullifies enemy special effects Ability Halved,\nIncapacitate, Focus Down, SP Down, EN Down,\nMobi Down, Sight Down, Armor Down.",
+      "status": "imported"
+    },
+    "ability_hook:r_48b60d6c48b9b142": {
+      "text": "Nullifies special effects Ability Halved,\nIncapacitate, Focus Down, SP Down, and Daunt\n(at Focus 100 or below), Focus-Fire, Placement.",
+      "status": "imported"
+    },
+    "ability_hook:r_8927e6fb681aa809": {
+      "text": "Activates at Focus 130+ and Newtype Lv5+;\nthe mech is empowered.",
+      "status": "imported"
+    },
+    "ability_hook:r_665f01666859013b": {
+      "text": "Activates at Focus 130+; transforms into Destroy Mode.\nDestroy Mode lasts 5 turns.",
+      "status": "imported"
+    },
+    "ability_hook:r_a571eec59b258d11": {
+      "text": "Activates at Focus 130+; scales with Focus\nto boost the pilot's parameters.",
+      "status": "imported"
+    },
+    "ability_hook:r_ddbe581c5ea9183d": {
+      "text": "Using the command Trans-Am Activate,\nthe mech enters Trans-Am state for 2 turns.\nCannot be reused on the same map.",
+      "status": "imported"
+    },
+    "ability_hook:r_faae935cca0edc72": {
+      "text": "Using the command Trans-Am Activate,\nthe mech enters Trans-Am state for 4 turns.\nCannot be reused on the same map.",
+      "status": "imported"
+    },
+    "ability_hook:r_d4430bf362340b32": {
+      "text": "Activates at Focus 130+;\nas Focus rises, Sight, Mobi, and Armor also rise,\nboosting final damage dealt.",
+      "status": "imported"
+    },
+    "ability_hook:r_6ff1323b355593e0": {
+      "text": "At Focus 130+, activates special ability HP Regen (S).\nAlso, based on pilot Focus and Spiral Power level,\nboosts the mech's final damage dealt.",
+      "status": "imported"
+    },
+    "ability_hook:r_b7b5625d7cd4282f": {
+      "text": "Focus 150+: transforms into Tengen Toppa Gurren Lagann.",
+      "status": "imported"
+    },
+    "ability_hook:r_36133ad73a73ef98": {
+      "text": "Restores 50 EN at own phase start.",
+      "status": "imported"
+    },
+    "ability_hook:r_920740a0219c5085": {
+      "text": "If shot down, becomes an uncontrollable unit\nthat attacks both allies and enemies.",
+      "status": "imported"
+    },
+    "ability_hook:r_a8451712c57c1a72": {
+      "text": "At Focus 130+, the Head's (main pilot's) stats\nuse the highest value among the 3 boarded pilots.",
+      "status": "imported"
+    },
+    "ability_hook:r_3633df5b7b8f47fa": {
+      "text": "At Focus 130+, the Head's (main pilot's) stats\nuse the highest value among the 3 boarded pilots.\nAlso, all pilots' Element abilities apply to the Head.",
+      "status": "imported"
+    },
+    "ability_hook:r_52dfc56b14b93551": {
+      "text": "For each level of the pilot's ESP,\nweapon attack power +100.",
+      "status": "imported"
+    },
+    "ability_hook:r_1b9b2aab5cb104da": {
+      "text": "Gains Alert, Fury, and Assail on deployment.",
+      "status": "translated"
+    },
+    "ability_hook:r_342044c706a2340f": {
+      "text": "All allied units' hit rate gets\n+ (allied units on map / 5)%, stacks.",
+      "status": "imported"
+    },
+    "ability_hook:r_cf41e8828a90cbdb": {
+      "text": "At Focus 140+, can transform into Genion Gai.\nGenion Gai lasts 1 turn.",
+      "status": "imported"
+    },
+    "ability_hook:r_719e897304ec42d4": {
+      "text": "At Focus 140+, can transform into Genion Gai.\nGenion Gai's duration has no limit.",
+      "status": "imported"
+    },
+    "ability_hook:r_d5e0a2317c40d322": {
+      "text": "At Focus 140+, the Sphere of the Quarreling Twins\nactivates: enemy Focus -3 at each phase start.",
+      "status": "imported"
+    },
+    "ability_hook:r_ec2ea17765052401": {
+      "text": "At Focus 140+, the Sphere of the Silent Crab\nactivates: enemy units within 10 tiles at phase\nstart gain no SP.",
+      "status": "imported"
+    },
+    "ability_hook:r_f2d4255f1c2f7542": {
+      "text": "Activates at Focus 130+: 50% chance to\nevade an enemy attack completely.",
+      "status": "imported"
+    },
+    "ability_hook:r_5d08ad19e2da125b": {
+      "text": "Activates at Focus 130+: 30% chance to\nevade an enemy attack completely.",
+      "status": "imported"
+    },
+    "ability_hook:r_a7246b52782a877e": {
+      "text": "A special defense mechanism against enemy attacks.\nEffects vary by Barrier / Armor type.",
+      "status": "imported"
+    },
+    "ability_hook:r_dc8701f6bcb9904f": {
+      "text": "Restores HP at own phase start.\nAmount restored depends on ability.",
+      "status": "imported"
+    },
+    "ability_hook:r_d6bdd730f24f66eb": {
+      "text": "Restores EN at own phase start.\nAmount restored depends on ability.",
+      "status": "imported"
+    },
+    "ability_hook:r_41997412868c48c4": {
+      "text": "A mechanism that fully evades enemy attacks.\nEffects vary by ability.",
+      "status": "imported"
+    },
+    "ability_hook:r_9e6cf4f389dae55c": {
+      "text": "Activates at Focus 130+;\nas Focus rises, Sight, Mobi, and Armor also rise,\nboosting final damage dealt.",
+      "status": "imported"
+    },
+    "ability_hook:r_9e0c80ac7e33b459": {
+      "text": "Activates at Focus 130+: each boarded Element's\nability gathers into the Head (main pilot).",
+      "status": "imported"
+    },
+    "ability_hook:r_7432ef43ed3471dc": {
+      "text": "At Focus 140+, can transform into Genion Gai.",
+      "status": "imported"
+    }
+  }
+}

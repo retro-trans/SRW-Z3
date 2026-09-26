@@ -1,0 +1,298 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "terrain_all_hook:r_479b340ccc6c572b": {
+      "text": "Kurogane-ya",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_ca4acbac57a2a35e": {
+      "text": "Iron Sea",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_77949221bf58f862": {
+      "text": "Axis",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_70b9c4b9f1f37eff": {
+      "text": "Acheron",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_9fcb3754cb1773c7": {
+      "text": "Anti-Spiral Space",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_3559d2fad32c2435": {
+      "text": "Industrial 7",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_f7570547e9f80a64": {
+      "text": "Industrial 7",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_cbab0f4720e1fcf1": {
+      "text": "Kamina Statue",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_0bbe0b4f5364e732": {
+      "text": "Crater",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_5dda5198137cb02a": {
+      "text": "Concert Hall",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_83ec59afbecdec14": {
+      "text": "Geofront",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_e20bfd42ad95a3c9": {
+      "text": "Dayakka's House",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_0f58a8822381e57f": {
+      "text": "Nia's House",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_6dbcc507fb61b51d": {
+      "text": "Paradigm HQ",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_b42ab697149a7c8a": {
+      "text": "City Blocks",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_4de4fcf3b440baf4": {
+      "text": "Low Building",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_0121a166c715cdff": {
+      "text": "Tall Building",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_30fad37a42bd3ad3": {
+      "text": "Black Hole",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_80a0b2a84e05d81a": {
+      "text": "Heliport",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_4a9ac1dff86506d9": {
+      "text": "Heliport Facility",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_bc8538e6af3d2577": {
+      "text": "Frontier Fleet",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_924516c8de2b5342": {
+      "text": "Mycenaean Ruins",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_da1174533722333f": {
+      "text": "Laplace Wreckage",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_fdeb8162976e72c1": {
+      "text": "Housing Area",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_0fadb5c26df92b42": {
+      "text": "Residential Area",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_6b15af9a0057cdc8": {
+      "text": "Warehouse",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_15b4a90140e8a33a": {
+      "text": "Kabuto House",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_af884a6b11dff121": {
+      "text": "Park",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_ac6fe7838e95647b": {
+      "text": "Unnamed",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_77ca87eacd17ad52": {
+      "text": "Wharf",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_bf3244994760e535": {
+      "text": "Wharf Facility",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_aabfb21c9d069ce7": {
+      "text": "Base",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_02479dc8fe989560": {
+      "text": "Base Facility",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_a2df00f91a9b0a9e": {
+      "text": "Multiverse Edge",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_48b60d6c48b9b142": {
+      "text": "School",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_8927e6fb681aa809": {
+      "text": "Outer Space",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_665f01666859013b": {
+      "text": "Outer Space",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_a571eec59b258d11": {
+      "text": "Official Residence",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_ddbe581c5ea9183d": {
+      "text": "Temple",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_faae935cca0edc72": {
+      "text": "Observation Deck",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_d4430bf362340b32": {
+      "text": "Mountain",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_6ff1323b355593e0": {
+      "text": "Rocky Ground",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_b7b5625d7cd4282f": {
+      "text": "Urban Area",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_36133ad73a73ef98": {
+      "text": "Plaza",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_920740a0219c5085": {
+      "text": "Ruins",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_a8451712c57c1a72": {
+      "text": "Shoals",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_3633df5b7b8f47fa": {
+      "text": "Debris Field",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_52dfc56b14b93551": {
+      "text": "Forest",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_1b9b2aab5cb104da": {
+      "text": "Waterway",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_342044c706a2340f": {
+      "text": "Sea",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_cf41e8828a90cbdb": {
+      "text": "Coastline",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_719e897304ec42d4": {
+      "text": "Seabed",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_d5e0a2317c40d322": {
+      "text": "Lake",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_ec2ea17765052401": {
+      "text": "Runway",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_f2d4255f1c2f7542": {
+      "text": "Rubble",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_5d08ad19e2da125b": {
+      "text": "Other Dimension",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_a7246b52782a877e": {
+      "text": "Beach",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_dc8701f6bcb9904f": {
+      "text": "Destroyed Area",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_d6bdd730f24f66eb": {
+      "text": "Shrine",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_41997412868c48c4": {
+      "text": "Science Fortress",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_9e6cf4f389dae55c": {
+      "text": "Fortress Grounds",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_9e0c80ac7e33b459": {
+      "text": "Greenbelt",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_7432ef43ed3471dc": {
+      "text": "Railway",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_065443f6ddfcf0d7": {
+      "text": "Holy Angel Acad.",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_47d52a2839c71715": {
+      "text": "Wasteland",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_847f82e7f3eef651": {
+      "text": "Wasteland",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_eb7ae28b53dc033c": {
+      "text": "Police Station",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_857c4a52ce8df0fd": {
+      "text": "Assembly Hall",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_55417493fce1d347": {
+      "text": "Road",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_8fdf5910927c9591": {
+      "text": "Station",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_7d724dbcc4451e10": {
+      "text": "Highway",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_93e25418a203cb8f": {
+      "text": "21st Security Site",
+      "status": "imported"
+    },
+    "terrain_all_hook:r_adeb0a29274d3d9b": {
+      "text": "21st Security HQ",
+      "status": "imported"
+    }
+  }
+}

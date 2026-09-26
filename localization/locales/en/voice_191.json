@@ -1,0 +1,898 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_191:r_479b340ccc6c572b": {
+      "text": "I won't let you do as you please!",
+      "status": "imported"
+    },
+    "voice_191:r_ca4acbac57a2a35e": {
+      "text": "There you are! I won't ever lose!",
+      "status": "imported"
+    },
+    "voice_191:r_77949221bf58f862": {
+      "text": "Let's go! Charge them head-on!",
+      "status": "imported"
+    },
+    "voice_191:r_70b9c4b9f1f37eff": {
+      "text": "Tetsujin No. 28, begin combat!",
+      "status": "imported"
+    },
+    "voice_191:r_9fcb3754cb1773c7": {
+      "text": "I'm counting on you, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_3559d2fad32c2435": {
+      "text": "I'll show you Tetsujin's power!",
+      "status": "imported"
+    },
+    "voice_191:r_f7570547e9f80a64": {
+      "text": "Tetsujin will take you on!",
+      "status": "imported"
+    },
+    "voice_191:r_cbab0f4720e1fcf1": {
+      "text": "Brace for Tetsujin's power!",
+      "status": "imported"
+    },
+    "voice_191:r_0bbe0b4f5364e732": {
+      "text": "Go, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_5dda5198137cb02a": {
+      "text": "!",
+      "status": "imported"
+    },
+    "voice_191:r_83ec59afbecdec14": {
+      "text": "Go get 'em, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_0f58a8822381e57f": {
+      "text": "Let's do this, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_b42ab697149a7c8a": {
+      "text": "Tetsujin! Don't lose!",
+      "status": "imported"
+    },
+    "voice_191:r_0121a166c715cdff": {
+      "text": "Take that! Here's another shot!",
+      "status": "imported"
+    },
+    "voice_191:r_30fad37a42bd3ad3": {
+      "text": "All right! Attack once more!",
+      "status": "imported"
+    },
+    "voice_191:r_80a0b2a84e05d81a": {
+      "text": "I won't show villains any mercy!",
+      "status": "imported"
+    },
+    "voice_191:r_bc8538e6af3d2577": {
+      "text": "As ICPO, I won't forgive villains!",
+      "status": "imported"
+    },
+    "voice_191:r_da1174533722333f": {
+      "text": "Against terrorists,\\nno holding back!",
+      "status": "imported"
+    },
+    "voice_191:r_fdeb8162976e72c1": {
+      "text": "Damn you, Branch gang! Back again?!",
+      "status": "imported"
+    },
+    "voice_191:r_0fadb5c26df92b42": {
+      "text": "Not to some stubborn soldier!",
+      "status": "imported"
+    },
+    "voice_191:r_15b4a90140e8a33a": {
+      "text": "If you want a fight, you've got one!",
+      "status": "imported"
+    },
+    "voice_191:r_ac6fe7838e95647b": {
+      "text": "Even a Gundam won't make me flinch!",
+      "status": "imported"
+    },
+    "voice_191:r_77ca87eacd17ad52": {
+      "text": "It's a Mobile Suit! Let's go!",
+      "status": "imported"
+    },
+    "voice_191:r_bf3244994760e535": {
+      "text": "I won't lose, even to a warship!",
+      "status": "imported"
+    },
+    "voice_191:r_aabfb21c9d069ce7": {
+      "text": "I won't let any Invader through!",
+      "status": "imported"
+    },
+    "voice_191:r_02479dc8fe989560": {
+      "text": "No one will shatter Earth's peace!",
+      "status": "imported"
+    },
+    "voice_191:r_a2df00f91a9b0a9e": {
+      "text": "I'll knock you back into space!",
+      "status": "imported"
+    },
+    "voice_191:r_48b60d6c48b9b142": {
+      "text": "Let's settle this, Black Ox!",
+      "status": "imported"
+    },
+    "voice_191:r_8927e6fb681aa809": {
+      "text": "Stop, Ox!",
+      "status": "imported"
+    },
+    "voice_191:r_665f01666859013b": {
+      "text": "Strong or not,\\nTetsujin won't lose!",
+      "status": "imported"
+    },
+    "voice_191:r_a571eec59b258d11": {
+      "text": "That's their leader! Go, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_ddbe581c5ea9183d": {
+      "text": "Tetsujin! Crush that Branch robot!",
+      "status": "imported"
+    },
+    "voice_191:r_d4430bf362340b32": {
+      "text": "Tetsujin! Crush that monster!",
+      "status": "imported"
+    },
+    "voice_191:r_b7b5625d7cd4282f": {
+      "text": "Final showdown! We'll win, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_920740a0219c5085": {
+      "text": "Go, Tetsujin No. 28, sun's envoy!",
+      "status": "imported"
+    },
+    "voice_191:r_3633df5b7b8f47fa": {
+      "text": "There! Charge!",
+      "status": "imported"
+    },
+    "voice_191:r_52dfc56b14b93551": {
+      "text": "All right! Charge!",
+      "status": "imported"
+    },
+    "voice_191:r_1b9b2aab5cb104da": {
+      "text": "Go! Dive straight at the enemy!",
+      "status": "imported"
+    },
+    "voice_191:r_342044c706a2340f": {
+      "text": "The enemy's close!",
+      "status": "imported"
+    },
+    "voice_191:r_cf41e8828a90cbdb": {
+      "text": "Close in all at once!",
+      "status": "imported"
+    },
+    "voice_191:r_719e897304ec42d4": {
+      "text": "Perfect range! We can do this!",
+      "status": "imported"
+    },
+    "voice_191:r_d5e0a2317c40d322": {
+      "text": "Take Tetsujin's punch!",
+      "status": "imported"
+    },
+    "voice_191:r_ec2ea17765052401": {
+      "text": "There! Right straight!",
+      "status": "imported"
+    },
+    "voice_191:r_f2d4255f1c2f7542": {
+      "text": "Hammer Punch!",
+      "status": "imported"
+    },
+    "voice_191:r_5d08ad19e2da125b": {
+      "text": "Hammer Punch!!",
+      "status": "imported"
+    },
+    "voice_191:r_a7246b52782a877e": {
+      "text": "Full power! Hammer Punch!",
+      "status": "imported"
+    },
+    "voice_191:r_dc8701f6bcb9904f": {
+      "text": "Rolling Attack!!",
+      "status": "imported"
+    },
+    "voice_191:r_d6bdd730f24f66eb": {
+      "text": "Now! Rolling Attack!",
+      "status": "imported"
+    },
+    "voice_191:r_41997412868c48c4": {
+      "text": "Drill! Attack!",
+      "status": "imported"
+    },
+    "voice_191:r_9e6cf4f389dae55c": {
+      "text": "Spin and build up momentum!",
+      "status": "imported"
+    },
+    "voice_191:r_9e0c80ac7e33b459": {
+      "text": "Flying Kick!!",
+      "status": "imported"
+    },
+    "voice_191:r_7432ef43ed3471dc": {
+      "text": "Now! Flying Kick!",
+      "status": "imported"
+    },
+    "voice_191:r_065443f6ddfcf0d7": {
+      "text": "Finish them! Flying Kick!",
+      "status": "imported"
+    },
+    "voice_191:r_47d52a2839c71715": {
+      "text": "Take that! Finishing kick!",
+      "status": "imported"
+    },
+    "voice_191:r_847f82e7f3eef651": {
+      "text": "Let's do this! Maximum power!",
+      "status": "imported"
+    },
+    "voice_191:r_eb7ae28b53dc033c": {
+      "text": "There! Don't let them escape!",
+      "status": "imported"
+    },
+    "voice_191:r_857c4a52ce8df0fd": {
+      "text": "Finish them, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_55417493fce1d347": {
+      "text": "!",
+      "status": "imported"
+    },
+    "voice_191:r_8fdf5910927c9591": {
+      "text": "All right! We did it, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_7d724dbcc4451e10": {
+      "text": "Full power! Let's finish this!",
+      "status": "imported"
+    },
+    "voice_191:r_93e25418a203cb8f": {
+      "text": "All right! It's working!",
+      "status": "imported"
+    },
+    "voice_191:r_adeb0a29274d3d9b": {
+      "text": "Finish it, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_8f60f6fc86db3107": {
+      "text": "How's that? This is Tetsujin No. 28!",
+      "status": "imported"
+    },
+    "voice_191:r_b1de76a75a253c13": {
+      "text": "I'll show you Tetsujin's full power!",
+      "status": "imported"
+    },
+    "voice_191:r_128c35bf3e0e394c": {
+      "text": "There! Go! Get 'em!",
+      "status": "imported"
+    },
+    "voice_191:r_5213c17e13b23de0": {
+      "text": "The final blow, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_620fedec67706d7d": {
+      "text": "No enemy can beat Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_9680dcd0fddcfcc7": {
+      "text": "Tetsujin, give it everything!!",
+      "status": "imported"
+    },
+    "voice_191:r_ac341e7976e88f0b": {
+      "text": "Tetsujin! Full power!!",
+      "status": "imported"
+    },
+    "voice_191:r_97b7431eeb81e6b6": {
+      "text": "Now it's our turn!",
+      "status": "imported"
+    },
+    "voice_191:r_132f605d02975e71": {
+      "text": "If you're in reach, I've got you!",
+      "status": "imported"
+    },
+    "voice_191:r_9b9726b1872759d6": {
+      "text": "Damn it! You won't get away!",
+      "status": "imported"
+    },
+    "voice_191:r_1252db29683fefe0": {
+      "text": "Counterattack, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_ad3d538f1e909184": {
+      "text": "Tetsujin, don't let them escape!",
+      "status": "imported"
+    },
+    "voice_191:r_8c61c59a1c0aebbf": {
+      "text": "Now, Tetsujin!\\nSettle every score!",
+      "status": "imported"
+    },
+    "voice_191:r_aba6a7662129d8ce": {
+      "text": "Follow up with another attack!",
+      "status": "imported"
+    },
+    "voice_191:r_b84afafb8a33ec60": {
+      "text": "Let's help our allies!",
+      "status": "imported"
+    },
+    "voice_191:r_c8c59db85bf875e6": {
+      "text": "After Ox, it's Tetsujin's turn!",
+      "status": "imported"
+    },
+    "voice_191:r_391aa56435d9dd6e": {
+      "text": "Let's follow Takeru!",
+      "status": "imported"
+    },
+    "voice_191:r_7c796ba53bd7ea03": {
+      "text": "I won't let Watta show me up!",
+      "status": "imported"
+    },
+    "voice_191:r_fa944da4b6519006": {
+      "text": "Protect our allies!",
+      "status": "imported"
+    },
+    "voice_191:r_95d047bcc17fccc6": {
+      "text": "We'll be their shield!",
+      "status": "imported"
+    },
+    "voice_191:r_640327a12a559b31": {
+      "text": "Tetsujin! Help Black Ox!",
+      "status": "imported"
+    },
+    "voice_191:r_bdd38c584fa313d0": {
+      "text": "Takeru!\\nTetsujin will handle this!",
+      "status": "imported"
+    },
+    "voice_191:r_3fd86c1027f317c8": {
+      "text": "Watta! Don't get too far ahead!",
+      "status": "imported"
+    },
+    "voice_191:r_d0372a183d2007ad": {
+      "text": "No... We can't do anything!",
+      "status": "imported"
+    },
+    "voice_191:r_217aa5e1d545b44d": {
+      "text": "We'll have to wait and see...",
+      "status": "imported"
+    },
+    "voice_191:r_381992c5d8224937": {
+      "text": "What's wrong?! You're moving slowly!",
+      "status": "imported"
+    },
+    "voice_191:r_f1e7ed9e5874aba5": {
+      "text": "Damn it! Are we out of energy?!",
+      "status": "imported"
+    },
+    "voice_191:r_fc25e66a86fc2c85": {
+      "text": "No! We can't counter from here!",
+      "status": "imported"
+    },
+    "voice_191:r_5aeeb4917340c42d": {
+      "text": "We can't do anything from here...",
+      "status": "imported"
+    },
+    "voice_191:r_b765659981b6516d": {
+      "text": "Looks like I managed to dodge it!",
+      "status": "imported"
+    },
+    "voice_191:r_0c427458bc00eb95": {
+      "text": "Yes! It worked perfectly!",
+      "status": "imported"
+    },
+    "voice_191:r_774a9ab4d8fd5351": {
+      "text": "I practice every day for this!",
+      "status": "imported"
+    },
+    "voice_191:r_d3f01de714c015bd": {
+      "text": "See that? That's Tetsujin's speed!",
+      "status": "imported"
+    },
+    "voice_191:r_7d2617c809fead70": {
+      "text": "Keep moving, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_862ef7385bf2abd4": {
+      "text": "All right! Good work, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_8ad40afecd02b41e": {
+      "text": "Don't get hit, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_4ad81e88c7557a8b": {
+      "text": "How's that?! Evil can't touch us!",
+      "status": "imported"
+    },
+    "voice_191:r_40c5a9358ed5bf29": {
+      "text": "Villain attacks don't scare me!",
+      "status": "imported"
+    },
+    "voice_191:r_cf7dbf49e96a5755": {
+      "text": "Not to some sham of a monster!",
+      "status": "imported"
+    },
+    "voice_191:r_6c13bbfd27a7799e": {
+      "text": "I had a barrier ready!",
+      "status": "imported"
+    },
+    "voice_191:r_06f88dcbd3c9e738": {
+      "text": "With this gear, we're unstoppable!",
+      "status": "imported"
+    },
+    "voice_191:r_8a29278549f8e07a": {
+      "text": "Give up already and surrender!",
+      "status": "imported"
+    },
+    "voice_191:r_7e6c573c26177f98": {
+      "text": "You plan to take out the sensors!",
+      "status": "imported"
+    },
+    "voice_191:r_45abf84f7757d6eb": {
+      "text": "Don't underestimate Tetsujin's body!",
+      "status": "imported"
+    },
+    "voice_191:r_edd7a13ab8f06a14": {
+      "text": "See that?\\nTetsujin is superalloy!",
+      "status": "imported"
+    },
+    "voice_191:r_8165e5b41f0124c4": {
+      "text": "Trying to stop Tetsujin is useless!",
+      "status": "imported"
+    },
+    "voice_191:r_4e05581b7432cce8": {
+      "text": "Watch out, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_e33693e5ba4665b0": {
+      "text": "No need to worry about the damage!",
+      "status": "imported"
+    },
+    "voice_191:r_eb643f8bf737a0ca": {
+      "text": "Don't flinch! It's only a scratch!",
+      "status": "imported"
+    },
+    "voice_191:r_9b63cf1f3e0207ef": {
+      "text": "Damn it! You'll pay for that!",
+      "status": "imported"
+    },
+    "voice_191:r_8356f4e3dcdff938": {
+      "text": "So strong...!\\nBut I can't lose!",
+      "status": "imported"
+    },
+    "voice_191:r_1d6d784036ae0bd7": {
+      "text": "Independent Linkage!\\nWe're okay!",
+      "status": "imported"
+    },
+    "voice_191:r_625664af02183c17": {
+      "text": "World's best robot!\\nWe won't lose!",
+      "status": "imported"
+    },
+    "voice_191:r_3701cba361f80ea5": {
+      "text": "Hang in there! Don't flinch!",
+      "status": "imported"
+    },
+    "voice_191:r_38e4a434c91d8ef0": {
+      "text": "Don't lose, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_4824bea6bab3af67": {
+      "text": "Fight, Tetsujin! This isn't over!",
+      "status": "imported"
+    },
+    "voice_191:r_cb306ef55e49d107": {
+      "text": "I won't let the villains beat us...!",
+      "status": "imported"
+    },
+    "voice_191:r_76f080a4881e8ab5": {
+      "text": "If evil wins,\\ndarkness will rule!",
+      "status": "imported"
+    },
+    "voice_191:r_6f95653e548f8fcf": {
+      "text": "Get up...! Don't lose to a monster!",
+      "status": "imported"
+    },
+    "voice_191:r_96bb0dcde0c8c44a": {
+      "text": "Aaaaaah!! What incredible power!",
+      "status": "imported"
+    },
+    "voice_191:r_641550a2f54cb456": {
+      "text": "Damn it! One more hit and I'm...!",
+      "status": "imported"
+    },
+    "voice_191:r_a0f2074af8debbfa": {
+      "text": "Dad built Tetsujin! It can't lose!!",
+      "status": "imported"
+    },
+    "voice_191:r_b5f5a97ed82acb0b": {
+      "text": "Even with Linkage,\\nthis is bad...!",
+      "status": "imported"
+    },
+    "voice_191:r_d9cd2e4ded064396": {
+      "text": "Hang in there, Tetsujin! Get up!",
+      "status": "imported"
+    },
+    "voice_191:r_ec1081caf845f56a": {
+      "text": "Use every last bit of strength!",
+      "status": "imported"
+    },
+    "voice_191:r_76d1e51c8b494a60": {
+      "text": "Hold on, Tetsujin! Don't lose!",
+      "status": "imported"
+    },
+    "voice_191:r_2329428a6871d9fa": {
+      "text": "Te-Tetsujin! Tetsujiiin!!",
+      "status": "imported"
+    },
+    "voice_191:r_0e7466971bec4cc4": {
+      "text": "No... Tetsujin can't be beaten...!",
+      "status": "imported"
+    },
+    "voice_191:r_efa71f7a4cc33ff3": {
+      "text": "Mechanic Switch, on!",
+      "status": "imported"
+    },
+    "voice_191:r_3fc2e1186557e7a0": {
+      "text": "Next time, leave your sword behind!",
+      "status": "imported"
+    },
+    "voice_191:r_fa6930340a545054": {
+      "text": "I'll finish you off in no time!",
+      "status": "imported"
+    },
+    "voice_191:r_2332b9d56461d7ab": {
+      "text": "Tetsujin won't lose!",
+      "status": "imported"
+    },
+    "voice_191:r_82c09f011d703b2c": {
+      "text": "We can't just keep taking this!",
+      "status": "imported"
+    },
+    "voice_191:r_2b4d8818c77b6dca": {
+      "text": "Fight back, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_087354f2db0a31e6": {
+      "text": "Hold on,\\nthen turn the fight around!",
+      "status": "imported"
+    },
+    "voice_191:r_db02a2dec93dd263": {
+      "text": "Tetsujin still moves! I won't quit!",
+      "status": "imported"
+    },
+    "voice_191:r_d520c6d5298a848d": {
+      "text": "Damn it! That was a direct hit!",
+      "status": "imported"
+    },
+    "voice_191:r_099e2458cabf796f": {
+      "text": "Tetsujin was blown away...!",
+      "status": "imported"
+    },
+    "voice_191:r_fd910d714be70870": {
+      "text": "It only grazed me!",
+      "status": "imported"
+    },
+    "voice_191:r_9736f29b11344ec3": {
+      "text": "That won't take Tetsujin down!",
+      "status": "imported"
+    },
+    "voice_191:r_fcd05582aa5c6068": {
+      "text": "You won't scratch Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_bece29562818acba": {
+      "text": "More Branch Robots won't stop us!",
+      "status": "imported"
+    },
+    "voice_191:r_494b5da92ed24ecb": {
+      "text": "Remnants of the Branch gang?!",
+      "status": "imported"
+    },
+    "voice_191:r_a4a5a96f4bd58920": {
+      "text": "Gura! Snap out of it, now!",
+      "status": "imported"
+    },
+    "voice_191:r_b57d2d74233f889a": {
+      "text": "Let's settle this, Demon General!",
+      "status": "imported"
+    },
+    "voice_191:r_cd06d0820d82524b": {
+      "text": "Space Demon King lackey, no mercy!",
+      "status": "imported"
+    },
+    "voice_191:r_c94c6d04be583774": {
+      "text": "There you are, Space Robo!",
+      "status": "imported"
+    },
+    "voice_191:r_e54e2c99ef8297af": {
+      "text": "Unknown foe or not,\\nwe must fight!",
+      "status": "imported"
+    },
+    "voice_191:r_f16a3eb0bcaac082": {
+      "text": "I must win to learn what it is...!",
+      "status": "imported"
+    },
+    "voice_191:r_10a408809e512df1": {
+      "text": "Space monster!\\nYou go no farther!",
+      "status": "imported"
+    },
+    "voice_191:r_bc7b9e308b879dd4": {
+      "text": "We must stop that space monster...!",
+      "status": "imported"
+    },
+    "voice_191:r_98902fd3143c393e": {
+      "text": "I've cornered you, boss!",
+      "status": "imported"
+    },
+    "voice_191:r_d907fbd7bc1c4298": {
+      "text": "This world isn't yours to control!",
+      "status": "imported"
+    },
+    "voice_191:r_96b21e3a028dd074": {
+      "text": "Brute force alone won't crush us!",
+      "status": "imported"
+    },
+    "voice_191:r_ce140b5d8e6b7310": {
+      "text": "This is the end! I swear we'll win!",
+      "status": "imported"
+    },
+    "voice_191:r_0e0335789c5396d7": {
+      "text": "You tricked the people of Earth!",
+      "status": "imported"
+    },
+    "voice_191:r_a8e85bd950696403": {
+      "text": "Your evil schemes end here!",
+      "status": "imported"
+    },
+    "voice_191:r_772c8bc40ab6cb61": {
+      "text": "Stop Gura, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_aadc0b2442adb93b": {
+      "text": "The Demon General! Hang in there!",
+      "status": "imported"
+    },
+    "voice_191:r_041dd920da4a7c17": {
+      "text": "Tetsujin! Destroy that Space Robo!",
+      "status": "imported"
+    },
+    "voice_191:r_ec349c8ea9511a18": {
+      "text": "Tetsujin! Down that mothership!",
+      "status": "imported"
+    },
+    "voice_191:r_689d0b123de71ae0": {
+      "text": "Don't overdo it, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_25493e978ce8ff16": {
+      "text": "All right! I dodged it!",
+      "status": "imported"
+    },
+    "voice_191:r_7316666150e42960": {
+      "text": "If it misses,\\npower means nothing!",
+      "status": "imported"
+    },
+    "voice_191:r_c4f11aa93dc5b668": {
+      "text": "A blind-side attack? Nice try!",
+      "status": "imported"
+    },
+    "voice_191:r_ce1a22dfe3a4d339": {
+      "text": "How's that? Tetsujin is fast!",
+      "status": "imported"
+    },
+    "voice_191:r_240651adab81e145": {
+      "text": "You can't catch Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_cff0deaae73c2858": {
+      "text": "Nice moves, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_a6630215fefaf294": {
+      "text": "Space Demon King! Tetsujin's mighty!",
+      "status": "imported"
+    },
+    "voice_191:r_6f94566ad37f8ff8": {
+      "text": "Gura!\\nThat attack won't work on us!",
+      "status": "imported"
+    },
+    "voice_191:r_942ca03c9de80143": {
+      "text": "Demon General, you don't scare me!",
+      "status": "imported"
+    },
+    "voice_191:r_d8c669c70659e18a": {
+      "text": "See our power, Demon General?!",
+      "status": "imported"
+    },
+    "voice_191:r_8f5bade7ac2db78e": {
+      "text": "Not to a Space Demon King lackey!",
+      "status": "imported"
+    },
+    "voice_191:r_05ea490d2f522520": {
+      "text": "You won't have your way with Earth!",
+      "status": "imported"
+    },
+    "voice_191:r_d03018a31e23f1e9": {
+      "text": "This is just a scratch!",
+      "status": "imported"
+    },
+    "voice_191:r_279da5f732aa8847": {
+      "text": "That barely did any damage!",
+      "status": "imported"
+    },
+    "voice_191:r_97f82e3cb6f70110": {
+      "text": "Damn it! I couldn't dodge it!",
+      "status": "imported"
+    },
+    "voice_191:r_c5611d8dd6def96b": {
+      "text": "Now you know how tough Tetsujin is!",
+      "status": "imported"
+    },
+    "voice_191:r_6f12cc8ed2732eb5": {
+      "text": "You lack the power to beat Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_7abfc55f8fb62ba7": {
+      "text": "Stand firm, Tetsujin! Iron Fighter!",
+      "status": "imported"
+    },
+    "voice_191:r_5b2247b5cfbcd7b2": {
+      "text": "Gah! You're so persistent!",
+      "status": "imported"
+    },
+    "voice_191:r_2d7a9c06347582d9": {
+      "text": "You got me! But this isn't over!",
+      "status": "imported"
+    },
+    "voice_191:r_bf953d64c3c7d9b7": {
+      "text": "No! Our maneuvers aren't working!",
+      "status": "imported"
+    },
+    "voice_191:r_e09b933e3e706779": {
+      "text": "Its power matches Tetsujin's...!",
+      "status": "imported"
+    },
+    "voice_191:r_66236eb99b676e5b": {
+      "text": "This weak blow\\ncan't beat Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_9639a2dbcd2f58ed": {
+      "text": "Turn this around, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_b31568654e53487b": {
+      "text": "Space Demon King...! What power!",
+      "status": "imported"
+    },
+    "voice_191:r_2502132569141ea3": {
+      "text": "Gura! Must you really fight us?!",
+      "status": "imported"
+    },
+    "voice_191:r_1ff312798a52c8eb": {
+      "text": "The Demon General's true power...?!",
+      "status": "imported"
+    },
+    "voice_191:r_fa07d90fca62f593": {
+      "text": "Demon General! You'll pay for that!",
+      "status": "imported"
+    },
+    "voice_191:r_a25bf2676ecf9d83": {
+      "text": "A Space Demon King lackey won't win!",
+      "status": "imported"
+    },
+    "voice_191:r_a88939ea84b4474d": {
+      "text": "Such power!\\nWe'll lose at this rate!",
+      "status": "imported"
+    },
+    "voice_191:r_a870d0cf7cc11ec6": {
+      "text": "Damage is mounting...!\\nI must act!",
+      "status": "imported"
+    },
+    "voice_191:r_03f6158ef83964f3": {
+      "text": "I won't lose!\\nI'll fight to the end!",
+      "status": "imported"
+    },
+    "voice_191:r_2970a83693cdcc25": {
+      "text": "Tetsujin won't lose...! Never!",
+      "status": "imported"
+    },
+    "voice_191:r_be661448b85d0009": {
+      "text": "Tetsujin No. 28\\nwon't fall here!",
+      "status": "imported"
+    },
+    "voice_191:r_958a56c1151cab9e": {
+      "text": "One big comeback, Tetsujin!",
+      "status": "imported"
+    },
+    "voice_191:r_3e87f6fc3ea65aef": {
+      "text": "Again, we fight for Earth's peace!",
+      "status": "imported"
+    },
+    "voice_191:r_5508a7bfa9074eb9": {
+      "text": "Bigger foes than ever bar our way!",
+      "status": "imported"
+    },
+    "voice_191:r_09a003e91f0d5dc7": {
+      "text": "With our allies, we'll face any foe!",
+      "status": "imported"
+    },
+    "voice_191:r_192447448ebd7bb5": {
+      "text": "Next: SRW Z3! Tetsujin & Robots!",
+      "status": "imported"
+    },
+    "voice_191:r_e92920ba4b301b9f": {
+      "text": "Super Robot Wars is a hit on Earth.",
+      "status": "imported"
+    },
+    "voice_191:r_207b256d613bb896": {
+      "text": "Gura... We'll show why SRW rules!",
+      "status": "imported"
+    },
+    "voice_191:r_a6fd676d8146501b": {
+      "text": "Hurry back! Show Gura SRW's fun!",
+      "status": "imported"
+    },
+    "voice_191:r_94d35e5fa8e3a198": {
+      "text": "Tetsujin is waiting too!",
+      "status": "imported"
+    },
+    "voice_191:r_b686510e636673f3": {
+      "text": "Villains remain! Go, Tetsujin! Ox!",
+      "status": "imported"
+    },
+    "voice_191:r_59369bad143d4272": {
+      "text": "What's wrong, Ox? Why sit down...?",
+      "status": "imported"
+    },
+    "voice_191:r_25f9b1e39dd8d366": {
+      "text": "Nonstop! Dr Shikishima said rest!",
+      "status": "imported"
+    },
+    "voice_191:r_307477bedd148060": {
+      "text": "Done today! Good job, you two!",
+      "status": "imported"
+    },
+    "voice_191:r_358fe5a50bbee1df": {
+      "text": "We'll make the first move!",
+      "status": "imported"
+    },
+    "voice_191:r_638834e16724002f": {
+      "text": "All right! Preemptive strike!",
+      "status": "imported"
+    },
+    "voice_191:r_b02fca1590ac1210": {
+      "text": "Focus every attack on that one!",
+      "status": "imported"
+    },
+    "voice_191:r_f0344d2fbaa9db77": {
+      "text": "First, stop the enemy's movement!",
+      "status": "imported"
+    },
+    "voice_191:r_3328eef766ff2c2c": {
+      "text": "Leave this to me!",
+      "status": "imported"
+    },
+    "voice_191:r_23b037cf6ccc695c": {
+      "text": "One-on-one, I won't lose!",
+      "status": "imported"
+    },
+    "voice_191:r_883ad1128d340c5e": {
+      "text": "You're my opponent?!",
+      "status": "imported"
+    },
+    "voice_191:r_a9e6ed99025a703b": {
+      "text": "This is my assignment!",
+      "status": "imported"
+    },
+    "voice_191:r_b0d1459d6daeebbe": {
+      "text": "Tetsujin will go first!",
+      "status": "imported"
+    },
+    "voice_191:r_cd4893b409472e97": {
+      "text": "Tetsujin! Stop the enemy!",
+      "status": "imported"
+    },
+    "voice_191:r_5691cc71770ffdde": {
+      "text": "Tetsujin will handle this enemy!",
+      "status": "imported"
+    },
+    "voice_191:r_964e07c5563a5508": {
+      "text": "Your opponent is Tetsujin!",
+      "status": "imported"
+    }
+  }
+}

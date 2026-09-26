@@ -1,0 +1,94 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ui.naming_search_layout:r_234ead8fb40135be": {
+      "text": "Auto-update set to pilot names.",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_72e3fd9fc10c7e4b": {
+      "text": "Auto-update set to mech names.",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_35e296b5061797b1": {
+      "text": "Name auto-update disabled.",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_c769ed448ac2ddde": {
+      "text": "Use the main unit's pilot name.",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_e96afa13f4c5fa9c": {
+      "text": "Pilot",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_ae4aa1e70c4c9fe0": {
+      "text": "Use the main unit's mech name.",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_f9b35564aafcd2e7": {
+      "text": "Mech",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_3116c33439dff787": {
+      "text": "Use a keyword associated with the team.",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_7f2318a37843ae64": {
+      "text": "Keyword",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_4b764c845ba4bb77": {
+      "text": "Randomly choose a method for each team.",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_22a9c653a7f2b8b7": {
+      "text": "Random",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_dabd1c74af49e9a6": {
+      "text": "Auto-update from the main pilot's name.",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_2b97fcf86b27f9c9": {
+      "text": "＜Pilot＞",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_3635d6467777aa77": {
+      "text": "Auto-update from the main mech's name.",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_1b431a6a690abc19": {
+      "text": "＜Mech＞",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_2c83af3242843d64": {
+      "text": "No auto-update. Set names manually.",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_3ae24ea03105ec68": {
+      "text": "＜None＞",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_e05d8f766193ff81": {
+      "text": "＜Search Settings＞",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_6c274ab6a7fbaeef": {
+      "text": ": None",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_c3f9aca1bd6a0ba5": {
+      "text": ": Change\n: Done",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_008de319d4657412": {
+      "text": ": Clear\n: Set Filter",
+      "status": "imported"
+    },
+    "ui.naming_search_layout:r_5a257c1607e377be": {
+      "text": ": Set Filter\n: Clear",
+      "status": "imported"
+    }
+  }
+}

@@ -1,0 +1,606 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0023_04:r_caaab7bad760e16d": {
+      "text": "$$アルト$$\n「So that's the lightweight-spec $$スコープドッグ$$.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_99b162aa6aa286a2": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0023_04:r_58fb02434a1c40b2": {
+      "text": "$$クルツ$$\n「Whoa, that's a lot of skin showing...!\n　It'd be perfect if it were a girl, not an AT!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_1c0f94acd5a8a143": {
+      "text": "$$ルカ$$\n「I tip my hat to that way of thinking...」",
+      "status": "imported"
+    },
+    "stage0023_04:r_1263541f4071624e": {
+      "text": "$$クラン$$\n「But since it sacrificed armor for that,\n　even a minor hit could be fatal.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_3bc300bbdc277d82": {
+      "text": "$$マオ$$\n「A do-or-die machine...\n　Guess that's just like $$キリコ$$, though.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_38762a09460d8b6b": {
+      "text": "$$ゴウト$$\n「Come on, $$キリコ$$!\n　The odds are seven to three against us!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_7ab28e70b4d4f641": {
+      "text": "$$バニラ$$\n「Bottom line, if you win, we make a killing!\n　We're counting on you, $$キリコ$$!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$チェロキー$$\n「It's pointless, you two.\n　The win's already decided for Balarant.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_ec335e69f984b8b3": {
+      "text": "$$チェロキー$$\n「When $$カン・ユー$$ brought me this deal,\n　I was sure of the win.\n　If anything, I worried it wouldn't even be a match.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_0abcaf0c31978670": {
+      "text": "$$チェロキー$$\n「But thanks to your $$レッドショルダー$$ Team\n　hyping it up so loud, the odds\n　settled to something worth a laugh.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_1d6bc48b7f246730": {
+      "text": "$$チェロキー$$\n「You two really are my goddess of luck.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_1af20fccc3c53cfc": {
+      "text": "$$ゴウト$$\n「Much obliged for that.\n　Looks like this is turning into a real\n　big battle for both of us.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_f951916061232dcd": {
+      "text": "$$オズマ$$\n「Skull Leader to all units.\n　Valkyries can't use their mobility at low\n　altitude, so fight in Battroid mode.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_4d863c3fb88a4c39": {
+      "text": "$$オズマ$$\n「$$キリコ$$, the enemy's after you.\n　I know $$フィアナ$$'s on your mind, but\n　don't forget, if you go down, it's all for nothing.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_44f4742c3dcce39a": {
+      "text": "$$キリコ$$\n「Yeah.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_9e701cdeb3842c21": {
+      "text": "$n\n「$$キリコ$$, what should I do?」",
+      "status": "imported"
+    },
+    "stage0023_04:r_6fd81f4abebe60c5": {
+      "text": "$$キリコ$$\n「Cover me.\n　When the time comes, use that.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_da2132b5038ec737": {
+      "text": "$n\n「Got it.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_495d61d3ec7e16f2": {
+      "text": "$$キリコ$$\n「...You're really not cut out for combat.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_5cd353758cfe474d": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0023_04:r_a653c8dec4c0f06f": {
+      "text": "$$キリコ$$\n「But if you fight past that,\n　I've got nothing more to say.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_86d493e37a9799a7": {
+      "text": "$n\n「I see.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_09d0fcc600cdd3df": {
+      "text": "$$スズネ$$\n「The Balarant army is coming.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_182faded068c15ed": {
+      "text": "$$ルカ$$\n「There are three $$地上戦艦$$s!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_9c206d19bfda4bd5": {
+      "text": "$$クルツ$$\n「Heard about it, but damn, it's huge.\n　This one's gonna be a pain.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_6e558bc69acf5bf3": {
+      "text": "$$宗介$$\n「A bigger enemy calls for a bigger approach.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_d60d0818e965232f": {
+      "text": "$$マオ$$\n「You're fired up, Sousuke.\n　Catch some of $$キリコ$$'s heat?」",
+      "status": "imported"
+    },
+    "stage0023_04:r_5b23687574286204": {
+      "text": "$$宗介$$\n「...Maybe so.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_6fd86c96891ea942": {
+      "text": "$$カン・ユー$$\n「$$キリコ$$!\n　I'll give you credit for not running!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_43e4e548c0b28376": {
+      "text": "$$キリコ$$\n「Where's $$フィアナ$$?」",
+      "status": "imported"
+    },
+    "stage0023_04:r_d80a9688790ed583": {
+      "text": "$$ニーバ$$\n「Relax, $$レッドショルダー$$!\n　Your woman's aboard this ship!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_708bea61e3c43ada": {
+      "text": "$n\n「$$ラダァ・ニーバ$$...!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ニーバ$$\n「My nervous system is wired into the $$地上戦艦$$.\n　This ship is like my own limbs, so to speak.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_0827963cfd706e8d": {
+      "text": "$$ニーバ$$\n「Despair, $$レッドショルダー$$!\n　I'll teach you the terror of crushing power!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$キリコ$$\n「...The target is that ship.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_3f4035fd9db81258": {
+      "text": "$$宗介$$\n「Understood.\n　We'll stop that battleship in its tracks.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_567b361a454c4b73": {
+      "text": "$$クルツ$$\n「Leave the support to us, the Snoopers.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_d22851aaafbbf8fc": {
+      "text": "$$アルト$$\n「$$キリコ$$, $n!\n　The rest is on you, go in and rescue $$フィアナ$$!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_352534f64413d954": {
+      "text": "$n\n「I know!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_79f2664edb1af798": {
+      "text": "Spectator\n「Man, I can't get enough of this!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_a62c4e7f3c09f7ed": {
+      "text": "Spectator\n「This thrill!\n　Coming to $$ア・コバ$$ was the right call!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_1c5aa0d15ae24846": {
+      "text": "$$チェロキー$$\n「You two!\n　Are you ready for this?」",
+      "status": "imported"
+    },
+    "stage0023_04:r_53bb64ee17750ee2": {
+      "text": "$$ニーバ$$\n「I'll kill you, $$レッドショルダー$$!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_7a7add80fde475ba": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0023_04:r_b2befefdbed1393d": {
+      "text": "$$チェロキー$$\n「Now! The big battle begins!!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_2103f6df2ea2e447": {
+      "text": "$$ニーバ$$\n「Tch!\n　This handles nothing like an AT!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_a12e3e130d896ff7": {
+      "text": "$$オズマ$$\n「Now! Go, $$キリコ$$!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_b6f7b219eb4bd64b": {
+      "text": "$$キリコ$$\n「$n...!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_91bf33c27ad39f0a": {
+      "text": "$n\n「I know!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_ee220318b96ab538": {
+      "text": "$$キリコ$$\n「I'll leave my AT to you here.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_ce1b55e526b6277a": {
+      "text": "$n\n「Be careful.\n　No telling what a wounded beast will do.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_c304df6888eb78f7": {
+      "text": "$n\n「Contact me if something happens.\n　I can at least offer backup.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_c26958634526e597": {
+      "text": "$$キリコ$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0023_04:r_cdb750c9d380881a": {
+      "text": "$$オズマ$$\n「Stay sharp, everyone!\n　That battleship's still alive!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_95fda74613c97b39": {
+      "text": "$$ゴウト$$\n（$$キリコ$$...!）",
+      "status": "imported"
+    },
+    "stage0023_04:r_1956994937f8171e": {
+      "text": "$$バニラ$$\n（Make sure you save $$フィアナ$$!）",
+      "status": "imported"
+    },
+    "stage0023_04:r_48f49f6728c15612": {
+      "text": "Spectator\n「Hey, what's going on!\n　That $$地上戦艦$$ isn't moving at all!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_0ebc5a6f1e0f81bf": {
+      "text": "Spectator\n「Looks like $$レッドショルダー$$\n　went inside it, but...」",
+      "status": "imported"
+    },
+    "stage0023_04:r_f02c37d91387d0ad": {
+      "text": "$$チェロキー$$\n「Anyone not into this match is an amateur!\n　I'll refund you, so just go home!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$チェロキー$$\n「There's no way this ends here!\n　This is the biggest $$バトリング$$ in history!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_9796b3efa401a303": {
+      "text": "$$ニーバ$$\n「Damn you, $$レッドショルダー$$!\n　How dare you... how dare you!!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_643b6eebfc0186b3": {
+      "text": "Spectator\n「Oh! The $$地上戦艦$$'s moving!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_291280e5f7eb9d70": {
+      "text": "Spectator\n「Get moving already, you slowpoke!\n　I've got money riding on you!!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_32eb462c1b4999cb": {
+      "text": "$$ニーバ$$\n「Shut uuuuup!!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_1f4337d6d393fc37": {
+      "text": "Spectator\n「Wh, what!?\n　What's it trying to do!?」",
+      "status": "imported"
+    },
+    "stage0023_04:r_4740e748fae085ee": {
+      "text": "$$ココナ$$\n「This is bad!\n　He's gonna ram the $$地上戦艦$$ into us!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_b76524cd840e1d37": {
+      "text": "$$バニラ$$\n「He's lost all reason!\n　That guy's really gone off the deep end!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_730ffe18400abfc2": {
+      "text": "$$オズマ$$\n「There's no time for the crowd to evacuate!\n　Focus all fire on him!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_ffe0fca26da5cd38": {
+      "text": "$$クラン$$\n「It's no use!\n　That giant's rampage can't be stopped!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_bfb27f9eb2f7073e": {
+      "text": "$$ニーバ$$\n「I'll kill you, I'll kill you!\n　I'll kill you all!!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_859dfa27bcaafe30": {
+      "text": "$n\n「No, don't!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_71ebf05996a4b0fd": {
+      "text": "$$アルト$$\n「The Quarter's come to help!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_6214c11b1bca811e": {
+      "text": "$$チェロキー$$\n「Th, that's against the rules!\n　If an aerial battleship butts in,\n　$$レッドショルダー$$ Team automatically loses!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_8eaf6f3098ffed12": {
+      "text": "$$キャシー$$\n「That person...!\n　Do they not understand the situation!?」",
+      "status": "imported"
+    },
+    "stage0023_04:r_cf507214fe955d75": {
+      "text": "$$ジェフリー$$\n「Then we'll just have to match the regulation.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_2113dcbabdfc758a": {
+      "text": "$$ボビー$$\n「OK, $$ボス$$!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ミーナ#182$$\n「All ships, be advised.\n　This ship is entering transformation.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_6a74519e1fc29c4b": {
+      "text": "$$チェロキー$$\n「I-it turned into a robot!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_5b992878fee054b5": {
+      "text": "$$ボビー$$\n「How about that?\n　No complaints now, right?」",
+      "status": "imported"
+    },
+    "stage0023_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$ジェフリー$$\n「Let 'em have it, $$ボビー$$!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ボビー$$\n「Yeeeahhhh!!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_20cf167c0ec0d4d5": {
+      "text": "$$ニーバ$$\n「Gwoooah!!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_b591d812c96c6c99": {
+      "text": "$$ジェフリー$$\n「See that, coward.\n　This is how $$Ｓ．Ｍ．Ｓ$$ fights!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_e350fa099c1ab072": {
+      "text": "$$アルト$$\n「Nice work, Captain $$ジェフリー$$.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$オズマ$$\n「Heh... looks like the captain's\n　blood was boiling too.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_c33bd700553abf91": {
+      "text": "$$ニーバ$$\n「Damn it!\n　This ship is finished!!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_feee5c91826230e1": {
+      "text": "$$宗介$$\n「So this time it's an AT.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_bccc48e1964ad22d": {
+      "text": "$$マオ$$\n「What a stubborn one!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_f8736aaaa216c766": {
+      "text": "$$ニーバ$$\n「Kill you, kill you, kill you!\n　Kill you, kill you, kill you!\n　Kill you, kill you, kill you!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_d1ec2522c87c361d": {
+      "text": "$$ニーバ$$\n「Kill you, kill you, kill you!\n　Kill you, kill you, kill you!\n　Kill you, kill you, kill you!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_3599f0a4343fd95c": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0023_04:r_3bc7834a5bf3ee76": {
+      "text": "$$スズネ$$\n「$$キリコ$$!\n　$$フィアナ$$ has been evacuated!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_366814efdc8b5800": {
+      "text": "$$キリコ$$\n「The rest...」",
+      "status": "imported"
+    },
+    "stage0023_04:r_9be1a4c10bb62515": {
+      "text": "$$ニーバ$$\n「I'll kill you, $$レッドショルダー$$!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_94a88c90e557e16e": {
+      "text": "$$キリコ$$\n（This is my last battle\n　as a $$レッドショルダー$$...）",
+      "status": "imported"
+    },
+    "stage0023_04:r_1c208ca0cbf26f28": {
+      "text": "$$ニーバ$$\n「Damn you, $$レッドショルダー$$!\n　Kill you, kill you, kill you!\n　Kill you, kill you, kill you!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_5b7ee307a700171a": {
+      "text": "$$ニーバ$$\n「Red Shoulderrrrr!!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_8d8f065c932da30a": {
+      "text": "$$カン・ユー$$\n「Damn you, $$ニーバ$$!\n　Some $$ＰＳ$$ you are, and you're losing!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_f5432119677514f7": {
+      "text": "$$カン・ユー$$\n「Remember this, $$キリコ$$!\n　Next time, I'll crush you for sure!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_4e5c8e989c4a7691": {
+      "text": "$$モニカ$$\n「All enemies have withdrawn.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_adec86483b13599a": {
+      "text": "$$ジェフリー$$\n「There's no need to pursue.\n　Now that we've felled their core $$ＰＳ$$,\n　their plan in $$ア・コバ$$ is all but dead.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_2cf701bbcde3ec13": {
+      "text": "$$ジェフリー$$\n「Major $$カリーニン$$ will catch those who fled,\n　and make them talk about who's behind it.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_c17c58fdba72005e": {
+      "text": "$$バニラ$$\n「You did it, $$キリコ$$!\n　$$レッドショルダー$$ Team!\n　You guys are the best!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_1fe8564d2b959317": {
+      "text": "$$ゴウト$$\n「Tough luck, $$チェロキー$$.\n　The biggest battle in history goes to me.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_f527e012803f7f1c": {
+      "text": "$$チェロキー$$\n「Nngh...!\n　All the money I made matchmaking,\n　it's all gone now!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_4b1247bd3ca4905d": {
+      "text": "$$クルツ$$\n「Mixed feelings over there,\n　but the Black $$バトリング$$'s over for now.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_00c55e25f87b71d0": {
+      "text": "$$マオ$$\n「We got $$キリコ$$'s girlfriend back too,\n　so I guess it's a happy ending.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_338f3b27e51dcc41": {
+      "text": "$$シャッコ$$\n「It's over, $$キリコ$$...」",
+      "status": "imported"
+    },
+    "stage0023_04:r_d91d4bc2d52b61c4": {
+      "text": "$$キリコ$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0023_04:r_0c8ea89b07432421": {
+      "text": "Chirico\n（24th Melkia Front Army Armored Corps,\n　Special Task Squad X-1, $$キリコ・キュービィー$$...）",
+      "status": "imported"
+    },
+    "stage0023_04:r_4dbfba00ba7744ee": {
+      "text": "$$キリコ$$\n（It's true, I was a $$レッドショルダー$$...\n　but that's over now...）",
+      "status": "imported"
+    },
+    "stage0023_04:r_be100a32b731708d": {
+      "text": "$$キリコ$$\n（As long as $$フィアナ$$, who saved me from hell, is here...）",
+      "status": "imported"
+    },
+    "stage0023_04:r_702f82442fcec8a9": {
+      "text": "$$フィアナ$$\n「$$キリコ$$...」",
+      "status": "imported"
+    },
+    "stage0023_04:r_b1e38da4e8775ffe": {
+      "text": "$$フィアナ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$テイタニア$$\n「Untouchable, $$キリコ・キュービィー$$.\n　I'll be taking this woman.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$フィアナ$$\n「$$キリコ$$!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_3dad695c99e9e052": {
+      "text": "$$キリコ$$\n「$$フィアナ$$!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_66d4ae3a21caf881": {
+      "text": "$$ジェフリー$$\n「That AT is...!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_0c18da7b3a37825d": {
+      "text": "$$モニカ$$\n「No good!\n　We lost it to some kind of stealth!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_63249745ffae61b6": {
+      "text": "$n\n「What was that...!?」",
+      "status": "imported"
+    },
+    "stage0023_04:r_abdb034ae8509702": {
+      "text": "$$宗介$$\n「$$キリコ$$...」",
+      "status": "imported"
+    },
+    "stage0023_04:r_3ff2e21207d1d1d3": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0023_04:r_e51ecf6d6aa42e75": {
+      "text": "$$カン・ユー$$\n「N-no good!\n　Can't go on any further!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_47ddabb7b60131c2": {
+      "text": "$$カン・ユー$$\n「Lord $$ニーバ$$, I leave the rest to you!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_b025267f22788233": {
+      "text": "$$カン・ユー$$\n（It's a hassle, so just go down with $$キリコ$$.）",
+      "status": "imported"
+    },
+    "stage0023_04:r_ec1a06a7023bf72c": {
+      "text": "$$ニーバ$$\n「Useless...!\n　Already retiring?」",
+      "status": "imported"
+    },
+    "stage0023_04:r_8805f96e52aaa462": {
+      "text": "$$ニーバ$$\n「Well, fine.\n　I'll give you credit for setting this stage.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_124591cb154fae64": {
+      "text": "$$ニーバ$$\n「Running is pointless, $$レッドショルダー$$!\n　I'll crush you flat!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$キリコ$$\n（Wait for me, $$フィアナ$$...\n　I'm coming, now...!）",
+      "status": "imported"
+    },
+    "stage0023_04:r_4bf9b05b5f948170": {
+      "text": "$$ニーバ$$\n「Heheh... hehehehe!\n　No mistake, you're a $$レッドショルダー$$...!\n　And a prime one at that!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_eaa52d152f444bfd": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0023_04:r_b4bc9e9435b58e6f": {
+      "text": "$$ニーバ$$\n「You were the best...!\n　The best prey I've ever had!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_a9227573166977a9": {
+      "text": "$$ニーバ$$\n「So, $$レッドショルダー$$!\n　I'm the one who'll kill you!!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_b0600ab9a9e8559d": {
+      "text": "$$アルト$$\n「Some Perfect Soldier you are!\n　I won't lose to a heartless killing machine!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_7cbc63dad295f862": {
+      "text": "$$ニーバ$$\n「A loser's howl, is it!\n　Can a mere human really beat me!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_07f53c816e0a51f5": {
+      "text": "$$アルト$$\n「Don't underestimate my anger!\n　You'll pay for what you've done!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_2d09c6f6a2d990ea": {
+      "text": "$$ニーバ$$\n「Not bad, you...!\n　Quite good, for a mere human!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_3c5fcfc484a51913": {
+      "text": "$$宗介$$\n「I am not a mere human.\n　I am a trained soldier.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_0476ffd10c764b0e": {
+      "text": "$$宗介$$\n「A guinea pig drunk on borrowed power\n　cannot defeat a true soldier.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$ニーバ$$\n「You bastarrrrd!\n　Do you want to die that badly!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_2b3479c4cf0680f4": {
+      "text": "$$宗介$$\n「The moment you drown in such emotion,\n　you stop being perfect!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_e370696b8936b08c": {
+      "text": "$$ニーバ$$\n「Not worth talking to!\n　You're being toyed with by your machine!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_9d7b02c5e728b7aa": {
+      "text": "$n\n「Save your speeches for after you beat me.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_9af213fc64e0afec": {
+      "text": "$$ニーバ$$\n「...What?」",
+      "status": "imported"
+    },
+    "stage0023_04:r_d7f1c506e78e55ff": {
+      "text": "$n\n「If you can't even beat someone like me,\n　then know there's no way in hell\n　you can fight $$キリコ$$!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_0c705091f748360e": {
+      "text": "$$ニーバ$$\n「You!\n　You've got nerve, after what you pulled!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_9eb8599304125b2f": {
+      "text": "$n\n「Don't make me laugh.\n　By that logic of who did what to whom,\n　you're the bastard for playing dirty.」",
+      "status": "imported"
+    },
+    "stage0023_04:r_a072aa25e5f521e0": {
+      "text": "$n\n「$$キリコ$$ doesn't even need to bother...!\n　I'll take down the worst of the bastards!」",
+      "status": "imported"
+    },
+    "stage0023_04:r_24e1a808a1609a1a": {
+      "text": "$n\n「Ah!」",
+      "status": "imported"
+    }
+  }
+}

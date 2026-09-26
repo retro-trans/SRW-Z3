@@ -1,0 +1,126 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "song_deployment_labels:skill_active": {
+      "text": "Skill Active",
+      "status": "translated"
+    },
+    "song_deployment_labels:ability_active": {
+      "text": "Ability Active",
+      "status": "translated"
+    },
+    "song_deployment_labels:normal_song_legend": {
+      "text": "（：Single）",
+      "status": "translated"
+    },
+    "song_deployment_labels:map_song_legend": {
+      "text": "Song）",
+      "status": "translated"
+    },
+    "song_deployment_labels:song_stats": {
+      "text": "CQB: Song Soul\nRNG: --",
+      "status": "translated"
+    },
+    "song_deployment_labels:song_soul": {
+      "text": "Sng",
+      "status": "translated"
+    },
+    "song_deployment_labels:song_en_req": {
+      "text": "・Song EN",
+      "status": "translated"
+    },
+    "song_deployment_labels:song_title": {
+      "text": "Song",
+      "status": "translated"
+    },
+    "song_deployment_labels:song_cost": {
+      "text": "Song EN",
+      "status": "translated"
+    },
+    "song_deployment_labels:special_weapon": {
+      "text": "Special Weapon",
+      "status": "translated"
+    },
+    "song_deployment_labels:beam_weapon": {
+      "text": "Beam Weapon",
+      "status": "translated"
+    },
+    "song_deployment_labels:charges": {
+      "text": "Charges",
+      "status": "translated"
+    },
+    "song_deployment_labels:focus_up": {
+      "text": "Focus Up",
+      "status": "translated"
+    },
+    "song_deployment_labels:sp_recovery": {
+      "text": "SP Recovery",
+      "status": "translated"
+    },
+    "song_deployment_labels:stats_up": {
+      "text": "Stats Up",
+      "status": "translated"
+    },
+    "song_deployment_labels:spirit_effect": {
+      "text": "Spirit Effects",
+      "status": "translated"
+    },
+    "song_deployment_labels:song": {
+      "text": "Song",
+      "status": "translated"
+    },
+    "song_deployment_labels:normal_song": {
+      "text": "Single Song",
+      "status": "translated"
+    },
+    "song_deployment_labels:map_song": {
+      "text": "MAP Song",
+      "status": "translated"
+    },
+    "song_deployment_labels:all_song": {
+      "text": "All-Target Song",
+      "status": "translated"
+    },
+    "song_deployment_labels:assist_song": {
+      "text": "Assist Song",
+      "status": "translated"
+    },
+    "song_deployment_labels:combo_song": {
+      "text": "Combo Song",
+      "status": "translated"
+    },
+    "song_deployment_labels:post_move": {
+      "text": "Post-Move",
+      "status": "translated"
+    },
+    "song_deployment_labels:beam": {
+      "text": "Beam",
+      "status": "translated"
+    },
+    "song_deployment_labels:song_range": {
+      "text": "Song Range +1",
+      "status": "translated"
+    },
+    "song_deployment_labels:song_energy": {
+      "text": "Song Energy",
+      "status": "translated"
+    },
+    "song_deployment_labels:ship_name": {
+      "text": "Ship",
+      "status": "translated"
+    },
+    "song_deployment_labels:aboard": {
+      "text": "Aboard",
+      "status": "translated"
+    },
+    "song_deployment_labels:ships_left": {
+      "text": "Left:",
+      "status": "translated"
+    },
+    "song_deployment_labels:ships_suffix": {
+      "text": "",
+      "status": "translated"
+    }
+  }
+}

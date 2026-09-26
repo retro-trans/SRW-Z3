@@ -1,0 +1,46 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ui.deployment_layout:r_0ea619af31c0a4bc": {
+      "text": "[Launch Teams]",
+      "status": "imported"
+    },
+    "ui.deployment_layout:r_0f01041fe7997827": {
+      "text": "[Deploy Teams]",
+      "status": "imported"
+    },
+    "ui.deployment_layout:r_7cc540f65f4d3eec": {
+      "text": ": Launch Teams",
+      "status": "imported"
+    },
+    "ui.deployment_layout:r_c769ed448ac2ddde": {
+      "text": ": Launch Teams",
+      "status": "imported"
+    },
+    "ui.deployment_layout:r_e96afa13f4c5fa9c": {
+      "text": "[Deploy Teams]",
+      "status": "imported"
+    },
+    "ui.deployment_layout:r_ae4aa1e70c4c9fe0": {
+      "text": "Left:",
+      "status": "imported"
+    },
+    "ui.deployment_layout:r_f9b35564aafcd2e7": {
+      "text": "Left:",
+      "status": "imported"
+    },
+    "ui.deployment_layout:r_3116c33439dff787": {
+      "text": "Select battleships to deploy.",
+      "status": "imported"
+    },
+    "ui.deployment_layout:r_7f2318a37843ae64": {
+      "text": "Select a team to reorder.",
+      "status": "imported"
+    },
+    "ui.deployment_layout:r_4b764c845ba4bb77": {
+      "text": "Select a team or position to swap.",
+      "status": "imported"
+    }
+  }
+}

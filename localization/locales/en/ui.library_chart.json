@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "ui.library_chart:characters": {"text": "Character Library", "status": "translated"},
+    "ui.library_chart:robots": {"text": "Robot Library", "status": "translated"},
+    "ui.library_chart:confirm": {"text": ": OK", "status": "translated"},
+    "ui.library_chart:speed": {"text": ": Speed Up", "status": "translated"},
+    "ui.library_chart:episode": {"text": "Episode {number}", "status": "translated"},
+    "ui.library_chart:subtitle": {"text": "TIME OF HELL", "status": "translated"}
+  }
+}

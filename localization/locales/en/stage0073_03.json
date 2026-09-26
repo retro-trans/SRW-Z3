@@ -1,0 +1,578 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0073_03:r_caaab7bad760e16d": {
+      "text": "Night Sky",
+      "status": "imported"
+    },
+    "stage0073_03:r_99b162aa6aa286a2": {
+      "text": "Night Sky",
+      "status": "imported"
+    },
+    "stage0073_03:r_58fb02434a1c40b2": {
+      "text": "Night Sky",
+      "status": "imported"
+    },
+    "stage0073_03:r_1c0f94acd5a8a143": {
+      "text": "$$つばさ$$\n「So $$あしゅら$$'s made up his mind too...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_1263541f4071624e": {
+      "text": "$$つばさ$$\n「All that's left is for me to finish\n　that man off, and the whole affair\n　over Bardos Island ends.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_3bc300bbdc277d82": {
+      "text": "$$つばさ$$\n「Wait right there...\n　I've tracked down where you are.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_38762a09460d8b6b": {
+      "text": "$$つばさ$$\n「Kenzo...\n　This time, I'll finish you off completely.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_7ab28e70b4d4f641": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0073_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0073_03:r_ec335e69f984b8b3": {
+      "text": "$$ドラゴンズハイヴ$$ Hangar",
+      "status": "imported"
+    },
+    "stage0073_03:r_0abcaf0c31978670": {
+      "text": "　\n　　\n　　　　　　　　～ $$ドラゴンズハイヴ$$ Hangar ～",
+      "status": "imported"
+    },
+    "stage0073_03:r_1d6bc48b7f246730": {
+      "text": "$$竜馬$$\n「So it's finally the showdown\n　with $$あしゅら$$...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_1af20fccc3c53cfc": {
+      "text": "$$隼人$$\n「Even he seems to have made up his mind.\n　This time, he won't run or hide.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_f951916061232dcd": {
+      "text": "$$弁慶$$\n「Plus, the battlefield is the Science Fortress.\n　No traps to worry about there.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_4d863c3fb88a4c39": {
+      "text": "$$甲児$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0073_03:r_44f4742c3dcce39a": {
+      "text": "$$竜馬$$\n「What's wrong, $$甲児$$?」",
+      "status": "imported"
+    },
+    "stage0073_03:r_9e701cdeb3842c21": {
+      "text": "$$甲児$$\n「I'm just gonna go cool my head off.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_6fd81f4abebe60c5": {
+      "text": "$$キタン$$\n「Is he getting nervous before the big fight?」",
+      "status": "imported"
+    },
+    "stage0073_03:r_da2132b5038ec737": {
+      "text": "$$ヨーコ$$\n「That feeling... seems a bit different.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_495d61d3ec7e16f2": {
+      "text": "$$ボス$$\n「$$甲児$$'s just lonely.\n　To him, $$あしゅら$$ is the whole history\n　of his fight with Mazinger.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_5cd353758cfe474d": {
+      "text": "$$ヴィラル$$\n「I see...\n　I can't say I don't understand that feeling...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_a653c8dec4c0f06f": {
+      "text": "$$シモン$$\n「What's wrong, $$ヴィラル$$?」",
+      "status": "imported"
+    },
+    "stage0073_03:r_86d493e37a9799a7": {
+      "text": "$$ヴィラル$$\n「Heh... It's an old story.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_09d0fcc600cdd3df": {
+      "text": "$$竜馬$$\n「That $$甲児$$, getting sentimental,\n　not like him at all.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_182faded068c15ed": {
+      "text": "$$シモン$$\n「What'll we do, $$竜馬$$?\n　Should we go talk to him?」",
+      "status": "imported"
+    },
+    "stage0073_03:r_9c206d19bfda4bd5": {
+      "text": "$$竜馬$$\n「That's not a job for me.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_6e558bc69acf5bf3": {
+      "text": "$$シモン$$\n「Yeah, guess not.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_d60d0818e965232f": {
+      "text": "Night Sky",
+      "status": "imported"
+    },
+    "stage0073_03:r_5b23687574286204": {
+      "text": "Night Sky",
+      "status": "imported"
+    },
+    "stage0073_03:r_6fd86c96891ea942": {
+      "text": "Night Sky",
+      "status": "imported"
+    },
+    "stage0073_03:r_43e4e548c0b28376": {
+      "text": "$$甲児$$\n（$$あしゅら$$...）",
+      "status": "imported"
+    },
+    "stage0073_03:r_d80a9688790ed583": {
+      "text": "$$甲児$$\n（You're my grandpa's killer,\n　the one who dragged me into\n　a hellish fight...）",
+      "status": "imported"
+    },
+    "stage0073_03:r_708bea61e3c43ada": {
+      "text": "$$甲児$$\n（But wasn't that because\n　Dr. Hell had deceived you...?）",
+      "status": "imported"
+    },
+    "stage0073_03:r_7b6f159eeaf4de0f": {
+      "text": "$$甲児$$\n（When we joined forces to beat Dr. Hell,\n　there was something like a bond between us.\n　And yet...）",
+      "status": "imported"
+    },
+    "stage0073_03:r_0827963cfd706e8d": {
+      "text": "$$さやか$$\n「$$甲児$$...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$甲児$$\n「$$さやか$$...\n　Tomorrow's the big battle. What are\n　you doing out at a time like this?」",
+      "status": "imported"
+    },
+    "stage0073_03:r_3f4035fd9db81258": {
+      "text": "$$さやか$$\n「I came to look at the stars.\n　With you, $$甲児$$.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_567b361a454c4b73": {
+      "text": "$$甲児$$\n「Stars...? You mean that star of ill omen\n　$$グーラ$$ was talking about?」",
+      "status": "imported"
+    },
+    "stage0073_03:r_d22851aaafbbf8fc": {
+      "text": "$$さやか$$\n「That's not it.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_352534f64413d954": {
+      "text": "$$甲児$$\n「Th- that's a little too close, isn't it...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_79f2664edb1af798": {
+      "text": "$$さやか$$\n「It's fine.\n　No one's watching, after all.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$甲児$$\n「Eh... but $n's right here...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_1c5aa0d15ae24846": {
+      "text": "$$さやか$$\n「!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_53bb64ee17750ee2": {
+      "text": "$n\n「S- sorry...!\n　I didn't mean to peep or get in\n　the way...!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_7a7add80fde475ba": {
+      "text": "$$カレン$$\n「Same as $$さやか$$, I got curious\n　about $$甲児$$.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_b2befefdbed1393d": {
+      "text": "$$さやか$$\n「Does that mean $$カレン$$'s also...\n　about $$甲児$$...?」",
+      "status": "imported"
+    },
+    "stage0073_03:r_2103f6df2ea2e447": {
+      "text": "$$カレン$$\n「That's not what I meant!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_a12e3e130d896ff7": {
+      "text": "$$アルト$$\n「She means as a friend.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_b6f7b219eb4bd64b": {
+      "text": "$$宗介$$\n「To be precise, as a comrade-in-arms.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_91bf33c27ad39f0a": {
+      "text": "$$甲児$$\n「Everyone...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_ee220318b96ab538": {
+      "text": "$n\n「Don't go deciding this is your last\n　battle on your own, $$甲児$$.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_ce1b55e526b6277a": {
+      "text": "$$アルト$$\n「Even if we beat $$あしゅら$$,\n　our fight's still not over.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_c304df6888eb78f7": {
+      "text": "$$シンジ$$\n「So, $$甲児$$... let's do our best.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_c26958634526e597": {
+      "text": "$$甲児$$\n「...Never thought I'd be the one\n　getting encouraged by $$シンジ$$.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_cdb750c9d380881a": {
+      "text": "$$シンジ$$\n「S- sorry!\n　That was out of line...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_95fda74613c97b39": {
+      "text": "$$甲児$$\n「You've grown too, through all this fighting.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_1956994937f8171e": {
+      "text": "$$シンジ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_48f49f6728c15612": {
+      "text": "$$甲児$$\n「If I'd never gotten into Mazinger,\n　I'd probably still be the school's\n　shadow boss...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$シンジ$$\n「Sh- shadow boss...?」",
+      "status": "imported"
+    },
+    "stage0073_03:r_f02c37d91387d0ad": {
+      "text": "$n\n「But $$あしゅら男爵$$ is our enemy.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$甲児$$\n「I know.\n　That's why I'll settle this myself.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_9796b3efa401a303": {
+      "text": "$n\n「Good, that works out.\n　He wants that too.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_643b6eebfc0186b3": {
+      "text": "$$甲児$$\n「Then I'll do it.\n　Like you all said, my fight's not\n　over yet.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_291280e5f7eb9d70": {
+      "text": "$$さやか$$\n「$$甲児$$...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_32eb462c1b4999cb": {
+      "text": "$$アルト$$\n「See ya, $$甲児$$.\n　We're turning in for the night.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_1f4337d6d393fc37": {
+      "text": "$$カレン$$\n「You do your best too, $$さやか$$.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_4740e748fae085ee": {
+      "text": "$$さやか$$\n「Honestly... $$カレン$$...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_b76524cd840e1d37": {
+      "text": "$$甲児$$\n「What'll you do, $$さやか$$?\n　I'm... gonna stay here a bit longer...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_730ffe18400abfc2": {
+      "text": "$$さやか$$\n「I'll stay with you too.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_ffe0fca26da5cd38": {
+      "text": "$$甲児$$\n「Then come over here.\n　September's almost over, so the\n　nights are getting cold.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_bfb27f9eb2f7073e": {
+      "text": "$$さやか$$\n「Mm...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_859dfa27bcaafe30": {
+      "text": "$$甲児$$\n（Once dawn breaks, it's the final\n　battle... $$あしゅら$$... I'll settle\n　this between us once and for all.）",
+      "status": "imported"
+    },
+    "stage0073_03:r_71ebf05996a4b0fd": {
+      "text": "Pitch Black",
+      "status": "imported"
+    },
+    "stage0073_03:r_6214c11b1bca811e": {
+      "text": "Pitch Black",
+      "status": "imported"
+    },
+    "stage0073_03:r_8eaf6f3098ffed12": {
+      "text": "Pitch Black",
+      "status": "imported"
+    },
+    "stage0073_03:r_cf507214fe955d75": {
+      "text": "$$つばさ$$\n「...You're in there, aren't you?」",
+      "status": "imported"
+    },
+    "stage0073_03:r_2113dcbabdfc758a": {
+      "text": "???\n「.........」",
+      "status": "imported"
+    },
+    "stage0073_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$つばさ$$\n「Answer me, Kenzo Kabuto!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_6a74519e1fc29c4b": {
+      "text": "Kenzo\n「Judging by your state,\n　it seems $$暗黒寺$$ failed, doesn't it...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_5b992878fee054b5": {
+      "text": "$$つばさ$$\n「What are you even talking about...!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_95a3dd16c2c4cc3e": {
+      "text": "Kenzo\n「$$つばさ$$...\n　You've come to kill me, haven't you?」",
+      "status": "imported"
+    },
+    "stage0073_03:r_4a14ec0c511c7f0d": {
+      "text": "$$つばさ$$\n「That's right.\n　But I won't just go on living easy\n　after killing $$甲児$$ and $$シロー$$'s father.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_20cf167c0ec0d4d5": {
+      "text": "$$つばさ$$\n「With this photon bomb, I'll send us both,\n　you and me, straight to hell!\n　This ends the whole affair over Bardos Island!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_b591d812c96c6c99": {
+      "text": "Kenzo\n「Wait.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_e350fa099c1ab072": {
+      "text": "$$つばさ$$\n「Begging for your life, at a time\n　like this! How pathetic!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_fb05d8e5f1ee93e5": {
+      "text": "Kenzo\n「Before that, hear me out.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_c33bd700553abf91": {
+      "text": "$$つばさ$$\n「Shut up!\n　What could you possibly say now!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_feee5c91826230e1": {
+      "text": "Kenzo\n「Then at least look at me first...\n　Yes... at this pitiful form of mine...!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_bccc48e1964ad22d": {
+      "text": "Kenzo",
+      "status": "imported"
+    },
+    "stage0073_03:r_f8736aaaa216c766": {
+      "text": "Kenzo",
+      "status": "imported"
+    },
+    "stage0073_03:r_d1ec2522c87c361d": {
+      "text": "Kenzo",
+      "status": "imported"
+    },
+    "stage0073_03:r_3599f0a4343fd95c": {
+      "text": "$$つばさ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_3bc7834a5bf3ee76": {
+      "text": "Kenzo\n「This is what I've become.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_366814efdc8b5800": {
+      "text": "$$つばさ$$\n「The end result of being parasitized\n　by Kedora...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_9be1a4c10bb62515": {
+      "text": "Kenzo\n「That's right.\n　To regain my sense of self, I had to\n　abandon the body Kedora had taken.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_94a88c90e557e16e": {
+      "text": "$$つばさ$$\n「That's your own fault, isn't it!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_1c208ca0cbf26f28": {
+      "text": "Kenzo\n「It's true, Mycenae's secrets captivated me.\n　Parasitized by Kedora during my research,\n　I tried to kill my father Juzo, and you.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_5b7ee307a700171a": {
+      "text": "Kenzo\n「But when I touched $$ゼウス$$'s right arm,\n　which you all tried to carry off Bardos\n　Island, its light let me regain myself.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_8d8f065c932da30a": {
+      "text": "$$つばさ$$\n「And so you cast aside your body\n　to escape Kedora's curse, is that it?」",
+      "status": "imported"
+    },
+    "stage0073_03:r_f5432119677514f7": {
+      "text": "Kenzo\n「That's right.\n　And I've survived like this in order\n　to keep watch over Dr. Hell.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_4e5c8e989c4a7691": {
+      "text": "$$つばさ$$\n「So that's why you used Gamia\n　to secretly help me and $$甲児$$!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_adec86483b13599a": {
+      "text": "Kenzo\n「That's right.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_2cf701bbcde3ec13": {
+      "text": "$$つばさ$$\n「Don't give me that!\n　You think that makes it forgivable,\n　after everything, now?!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_c17c58fdba72005e": {
+      "text": "Kenzo\n「...I understand that.\n　That's why, now that Dr. Hell has fallen,\n　I intended to simply rot away like this.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_1fe8564d2b959317": {
+      "text": "Kenzo\n「But if he... if $$あしゅら男爵$$ is alive,\n　that changes things.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_f527e012803f7f1c": {
+      "text": "$$つばさ$$\n「What could that walking corpse possibly\n　still mean!?」",
+      "status": "imported"
+    },
+    "stage0073_03:r_4b1247bd3ca4905d": {
+      "text": "Kenzo\n「Looking back, the fight over Bardos Island\n　was nothing but deceit, impersonation,\n　secrets, and betrayal after betrayal...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_00c55e25f87b71d0": {
+      "text": "Kenzo\n「And the culmination of it all is him...\n　$$あしゅら男爵$$.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_338f3b27e51dcc41": {
+      "text": "$$つばさ$$\n「What!?」",
+      "status": "imported"
+    },
+    "stage0073_03:r_d91d4bc2d52b61c4": {
+      "text": "Kenzo\n「Now that the star of ill omen fills\n　the heavens, he...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_0c8ea89b07432421": {
+      "text": "Bar",
+      "status": "imported"
+    },
+    "stage0073_03:r_4dbfba00ba7744ee": {
+      "text": "Bar",
+      "status": "imported"
+    },
+    "stage0073_03:r_be100a32b731708d": {
+      "text": "Bar",
+      "status": "imported"
+    },
+    "stage0073_03:r_702f82442fcec8a9": {
+      "text": "　\n　\n　　　　　　～ Paradigm City Bar 'SPEAK EASY' ～",
+      "status": "imported"
+    },
+    "stage0073_03:r_b1e38da4e8775ffe": {
+      "text": "$$ガドライト$$\n「Hahahahaha!\n　Ha, hahahahaha!\n　Hahaha, buhahahaha!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ガドライト$$\n「He actually did it...!\n　He actually did it, that $$あしゅら$$!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$ガドライト$$\n「Nice, nice!\n　The wrathful gods descend!\n　Earth's in for total chaos now!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_3dad695c99e9e052": {
+      "text": "$$ガドライト$$\n「So, what'll you do, Earthlings?\n　Your foe's a god, no ordinary means\n　could ever beat that!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_66d4ae3a21caf881": {
+      "text": "$$ガドライト$$\n「Let's see it, then.\n　That famous comeback of yours...!\n　That is, if you can even pull it off!」",
+      "status": "imported"
+    },
+    "stage0073_03:r_0c18da7b3a37825d": {
+      "text": "$$エンジェル$$\n「Isn't making a racket like this\n　a bit of a nuisance here?」",
+      "status": "imported"
+    },
+    "stage0073_03:r_63249745ffae61b6": {
+      "text": "$$ガドライト$$\n「My apologies...\n　Just having a little celebratory drink.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_abdb034ae8509702": {
+      "text": "$$ガドライト$$\n「Perfect timing.\n　Care to join me for a drink?\n　My treat, of course.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_3ff2e21207d1d1d3": {
+      "text": "$$エンジェル$$\n「...Fine.\n　I was a little bored anyway.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_e51ecf6d6aa42e75": {
+      "text": "$$ガドライト$$\n「Boredom, decadence, and idleness,\n　all forgiven... This city's practically\n　heaven, if you ask me.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_47ddabb7b60131c2": {
+      "text": "$$エンジェル$$\n「I wonder...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_b025267f22788233": {
+      "text": "$$ガドライト$$\n「Hm?」",
+      "status": "imported"
+    },
+    "stage0073_03:r_ec1a06a7023bf72c": {
+      "text": "$$エンジェル$$\n「No past, no future...\n　this city might just be a prison...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_8805f96e52aaa462": {
+      "text": "$$ガドライト$$\n「...Hey... what's your name?」",
+      "status": "imported"
+    },
+    "stage0073_03:r_124591cb154fae64": {
+      "text": "$$エンジェル$$\n「Angel...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$ガドライト$$\n「Hmm...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_4bf9b05b5f948170": {
+      "text": "$$エンジェル$$\n「Doesn't seem to be to your liking.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_eaa52d152f444bfd": {
+      "text": "$$ガドライト$$\n「Just the name, maybe.\n　Everything else about you is perfect.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_b4bc9e9435b58e6f": {
+      "text": "$$ガドライト$$\n「But today, let's forget all the boring\n　stuff. Let's really enjoy ourselves,\n　$$エンジェル$$.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_a9227573166977a9": {
+      "text": "$$エンジェル$$\n「If we can forget, then let's not stop\n　at today, let's hope for forever.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_b0600ab9a9e8559d": {
+      "text": "$$ガドライト$$\n「Well then...」",
+      "status": "imported"
+    },
+    "stage0073_03:r_7cbc63dad295f862": {
+      "text": "$$エンジェル$$\n「A toast, to this eternal today.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_07f53c816e0a51f5": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0073_03:r_2d09c6f6a2d990ea": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0073_03:r_3c5fcfc484a51913": {
+      "text": "D-Trader Backdrop",
+      "status": "imported"
+    },
+    "stage0073_03:r_0476ffd10c764b0e": {
+      "text": "　\n　\n　　　　　　～ D-Trader ～",
+      "status": "imported"
+    },
+    "stage0073_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$ＡＧ$$\n「...I'm terribly sorry.\n　Today I'm a bit occupied, so\n　I'm unable to attend to you.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_2b3479c4cf0680f4": {
+      "text": "$$ＡＧ$$\n「The celebration for the ace pilot\n　will also have to wait for another time.」",
+      "status": "imported"
+    },
+    "stage0073_03:r_e370696b8936b08c": {
+      "text": "$$ＡＧ$$\n「The D-Trader is open, though,\n　so please feel free to use it.」",
+      "status": "imported"
+    }
+  }
+}

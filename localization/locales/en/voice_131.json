@@ -1,0 +1,878 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "voice_131:r_479b340ccc6c572b": {
+      "text": "Go, Funnel!!",
+      "status": "imported"
+    },
+    "voice_131:r_ca4acbac57a2a35e": {
+      "text": "This will bring you down!",
+      "status": "imported"
+    },
+    "voice_131:r_77949221bf58f862": {
+      "text": "Funnel!",
+      "status": "imported"
+    },
+    "voice_131:r_70b9c4b9f1f37eff": {
+      "text": "There!!",
+      "status": "imported"
+    },
+    "voice_131:r_9fcb3754cb1773c7": {
+      "text": "You won't escape! Funnel!!",
+      "status": "imported"
+    },
+    "voice_131:r_3559d2fad32c2435": {
+      "text": "Vanish!!",
+      "status": "imported"
+    },
+    "voice_131:r_f7570547e9f80a64": {
+      "text": "This is the end... Go, Funnel!",
+      "status": "imported"
+    },
+    "voice_131:r_0bbe0b4f5364e732": {
+      "text": "Then, here I come!",
+      "status": "imported"
+    },
+    "voice_131:r_5dda5198137cb02a": {
+      "text": "Fin Funnel!!",
+      "status": "imported"
+    },
+    "voice_131:r_e20bfd42ad95a3c9": {
+      "text": "I won't let you go any further!",
+      "status": "imported"
+    },
+    "voice_131:r_0f58a8822381e57f": {
+      "text": "Regret your own naivete!",
+      "status": "imported"
+    },
+    "voice_131:r_6dbcc507fb61b51d": {
+      "text": "I'll put an end to this...!",
+      "status": "imported"
+    },
+    "voice_131:r_b42ab697149a7c8a": {
+      "text": "You think you can escape?!",
+      "status": "imported"
+    },
+    "voice_131:r_4de4fcf3b440baf4": {
+      "text": "You left yourself open, fool!",
+      "status": "imported"
+    },
+    "voice_131:r_0121a166c715cdff": {
+      "text": "This seals your fate...!",
+      "status": "imported"
+    },
+    "voice_131:r_30fad37a42bd3ad3": {
+      "text": "Heh heh heh... You stayed too long!",
+      "status": "imported"
+    },
+    "voice_131:r_80a0b2a84e05d81a": {
+      "text": "I won't let you have your way!",
+      "status": "imported"
+    },
+    "voice_131:r_4a9ac1dff86506d9": {
+      "text": "It seems you didn't notice me!",
+      "status": "imported"
+    },
+    "voice_131:r_bc8538e6af3d2577": {
+      "text": "Don't be hasty... I'm your opponent!",
+      "status": "imported"
+    },
+    "voice_131:r_924516c8de2b5342": {
+      "text": "Hmph... You were spared.",
+      "status": "imported"
+    },
+    "voice_131:r_da1174533722333f": {
+      "text": "What...? I lost sight of them?!",
+      "status": "imported"
+    },
+    "voice_131:r_fdeb8162976e72c1": {
+      "text": "Hmph. What a petty little trick...",
+      "status": "imported"
+    },
+    "voice_131:r_0fadb5c26df92b42": {
+      "text": "Clever...\\nAttacking beyond my range.",
+      "status": "imported"
+    },
+    "voice_131:r_6b15af9a0057cdc8": {
+      "text": "Hmph. You've wasted your time.",
+      "status": "imported"
+    },
+    "voice_131:r_15b4a90140e8a33a": {
+      "text": "Hmph. How incompetent.",
+      "status": "imported"
+    },
+    "voice_131:r_af884a6b11dff121": {
+      "text": "You're no match for me!",
+      "status": "imported"
+    },
+    "voice_131:r_ac6fe7838e95647b": {
+      "text": "It seems I needn't have come.",
+      "status": "imported"
+    },
+    "voice_131:r_77ca87eacd17ad52": {
+      "text": "Heh heh... You can't read my moves.",
+      "status": "imported"
+    },
+    "voice_131:r_bf3244994760e535": {
+      "text": "How naive!",
+      "status": "imported"
+    },
+    "voice_131:r_aabfb21c9d069ce7": {
+      "text": "I see... I can see it!",
+      "status": "imported"
+    },
+    "voice_131:r_02479dc8fe989560": {
+      "text": "Don't underestimate me!",
+      "status": "imported"
+    },
+    "voice_131:r_a2df00f91a9b0a9e": {
+      "text": "You won't hit me!",
+      "status": "imported"
+    },
+    "voice_131:r_48b60d6c48b9b142": {
+      "text": "I can't allow myself to be hit!",
+      "status": "imported"
+    },
+    "voice_131:r_8927e6fb681aa809": {
+      "text": "Too slow.",
+      "status": "imported"
+    },
+    "voice_131:r_665f01666859013b": {
+      "text": "Fast moves, but you lack power.",
+      "status": "imported"
+    },
+    "voice_131:r_a571eec59b258d11": {
+      "text": "You can barely keep track of me.",
+      "status": "imported"
+    },
+    "voice_131:r_ddbe581c5ea9183d": {
+      "text": "This is nothing... It won't stop me!",
+      "status": "imported"
+    },
+    "voice_131:r_faae935cca0edc72": {
+      "text": "Is that all...? How insulting.",
+      "status": "imported"
+    },
+    "voice_131:r_d4430bf362340b32": {
+      "text": "Hmph... You underestimate me.",
+      "status": "imported"
+    },
+    "voice_131:r_6ff1323b355593e0": {
+      "text": "That won't work!",
+      "status": "imported"
+    },
+    "voice_131:r_b7b5625d7cd4282f": {
+      "text": "You'd challenge me with such skill?!",
+      "status": "imported"
+    },
+    "voice_131:r_36133ad73a73ef98": {
+      "text": "Don't get conceited!",
+      "status": "imported"
+    },
+    "voice_131:r_920740a0219c5085": {
+      "text": "Tch! Such insolence!",
+      "status": "imported"
+    },
+    "voice_131:r_a8451712c57c1a72": {
+      "text": "Ngh!\\nI won't indulge you forever!!",
+      "status": "imported"
+    },
+    "voice_131:r_3633df5b7b8f47fa": {
+      "text": "Ugh! Don't get carried away!",
+      "status": "imported"
+    },
+    "voice_131:r_52dfc56b14b93551": {
+      "text": "What?!\\nThey read my movements?!",
+      "status": "imported"
+    },
+    "voice_131:r_1b9b2aab5cb104da": {
+      "text": "Spirit alone won't defeat me!",
+      "status": "imported"
+    },
+    "voice_131:r_342044c706a2340f": {
+      "text": "Impressive skill. However!",
+      "status": "imported"
+    },
+    "voice_131:r_cf41e8828a90cbdb": {
+      "text": "Hmph. Hesitate and you'll die!",
+      "status": "imported"
+    },
+    "voice_131:r_719e897304ec42d4": {
+      "text": "Ngh! A-Am I being pushed back?!",
+      "status": "imported"
+    },
+    "voice_131:r_d5e0a2317c40d322": {
+      "text": "Ngh?! Th-This power...",
+      "status": "imported"
+    },
+    "voice_131:r_ec2ea17765052401": {
+      "text": "Wh-What is this power?!\\nSo much...!",
+      "status": "imported"
+    },
+    "voice_131:r_f2d4255f1c2f7542": {
+      "text": "Nnngh! Even I...\\nAm I cornered?!",
+      "status": "imported"
+    },
+    "voice_131:r_5d08ad19e2da125b": {
+      "text": "Ngh! I won't die here!",
+      "status": "imported"
+    },
+    "voice_131:r_a7246b52782a877e": {
+      "text": "Damn you...! I won't allow this!!",
+      "status": "imported"
+    },
+    "voice_131:r_dc8701f6bcb9904f": {
+      "text": "H-Heh...\\nMy coming has meaning now!",
+      "status": "imported"
+    },
+    "voice_131:r_d6bdd730f24f66eb": {
+      "text": "You'll pay dearly for this!!",
+      "status": "imported"
+    },
+    "voice_131:r_41997412868c48c4": {
+      "text": "What a waste...",
+      "status": "imported"
+    },
+    "voice_131:r_9e6cf4f389dae55c": {
+      "text": "How foolish...",
+      "status": "imported"
+    },
+    "voice_131:r_9e0c80ac7e33b459": {
+      "text": "What did you say?!",
+      "status": "imported"
+    },
+    "voice_131:r_7432ef43ed3471dc": {
+      "text": "Tch...!",
+      "status": "imported"
+    },
+    "voice_131:r_47d52a2839c71715": {
+      "text": "I won't allow it!",
+      "status": "imported"
+    },
+    "voice_131:r_847f82e7f3eef651": {
+      "text": "Insolent wretch!",
+      "status": "imported"
+    },
+    "voice_131:r_eb7ae28b53dc033c": {
+      "text": "You vulgar fool!",
+      "status": "imported"
+    },
+    "voice_131:r_857c4a52ce8df0fd": {
+      "text": "Count yourself lucky to fall to me!",
+      "status": "imported"
+    },
+    "voice_131:r_55417493fce1d347": {
+      "text": "You're mine!",
+      "status": "imported"
+    },
+    "voice_131:r_8fdf5910927c9591": {
+      "text": "There you are!",
+      "status": "imported"
+    },
+    "voice_131:r_7d724dbcc4451e10": {
+      "text": "Vanish. You're an eyesore!",
+      "status": "imported"
+    },
+    "voice_131:r_93e25418a203cb8f": {
+      "text": "Out of my way!",
+      "status": "imported"
+    },
+    "voice_131:r_adeb0a29274d3d9b": {
+      "text": "Begone!",
+      "status": "imported"
+    },
+    "voice_131:r_24cf161287ef9d5c": {
+      "text": "This is the end!",
+      "status": "imported"
+    },
+    "voice_131:r_b1de76a75a253c13": {
+      "text": "Go!",
+      "status": "imported"
+    },
+    "voice_131:r_128c35bf3e0e394c": {
+      "text": "It's over... Prepare!",
+      "status": "imported"
+    },
+    "voice_131:r_5213c17e13b23de0": {
+      "text": "Heh heh... It's over, vulgar fool!",
+      "status": "imported"
+    },
+    "voice_131:r_38fdff9483e9245c": {
+      "text": "How careless...!",
+      "status": "imported"
+    },
+    "voice_131:r_d692f1d420460a47": {
+      "text": "I'll sever the old bloodline myself!",
+      "status": "imported"
+    },
+    "voice_131:r_a5643cec86b18bd2": {
+      "text": "You souls bound by gravity!",
+      "status": "imported"
+    },
+    "voice_131:r_68f2dfab20a4a30e": {
+      "text": "Kamille Bidan!\\nYou're an eyesore!",
+      "status": "imported"
+    },
+    "voice_131:r_9cedad8237480563": {
+      "text": "Kamille!\\nYour insolence won't stand!",
+      "status": "imported"
+    },
+    "voice_131:r_a03fabecba1508ca": {
+      "text": "Careless of you, Char!",
+      "status": "imported"
+    },
+    "voice_131:r_5391b24a71eb10ae": {
+      "text": "This pressure... Amuro Ray?!",
+      "status": "imported"
+    },
+    "voice_131:r_a554ceef5c87b972": {
+      "text": "Pawn to fools...\\nPower wasted!",
+      "status": "imported"
+    },
+    "voice_131:r_546c3d5937fbb7ee": {
+      "text": "Serve me,\\nor die like a dog!",
+      "status": "imported"
+    },
+    "voice_131:r_1568ff6298b12b96": {
+      "text": "A Newtype...? How impudent!",
+      "status": "imported"
+    },
+    "voice_131:r_2c9d94ba13c5fc50": {
+      "text": "Hmph. I can tell... what you are!",
+      "status": "imported"
+    },
+    "voice_131:r_a77f4913375098d2": {
+      "text": "You are the root of all evil!!",
+      "status": "imported"
+    },
+    "voice_131:r_ca85f87cee5e31f7": {
+      "text": "Char, leave the rest to me!",
+      "status": "imported"
+    },
+    "voice_131:r_04e815a8d425827d": {
+      "text": "Tch. How could I...?!",
+      "status": "imported"
+    },
+    "voice_131:r_d89011fe3e5d082a": {
+      "text": "Mock this Qubeley\\nat your peril!",
+      "status": "imported"
+    },
+    "voice_131:r_3c5b0c2ac812d5de": {
+      "text": "How naive, Char!",
+      "status": "imported"
+    },
+    "voice_131:r_5b9e8897190892eb": {
+      "text": "Luck won't save you again, Kamille!",
+      "status": "imported"
+    },
+    "voice_131:r_7bea3023abbf8a94": {
+      "text": "Heh... Our tie\\nwon't break easily.",
+      "status": "imported"
+    },
+    "voice_131:r_dd01a4c0d1b36a8d": {
+      "text": "Amuro...\\nYou cannot defeat me!",
+      "status": "imported"
+    },
+    "voice_131:r_20920ad2eb3542db": {
+      "text": "As a Newtype, you should obey me!",
+      "status": "imported"
+    },
+    "voice_131:r_0ab7914877fd48ed": {
+      "text": "What? Goosebumps...\\nWhat is this?",
+      "status": "imported"
+    },
+    "voice_131:r_cb846feec748c2e3": {
+      "text": "Such feeble pressure is nothing!",
+      "status": "imported"
+    },
+    "voice_131:r_c958860b0676b1f5": {
+      "text": "Kamille! You vulgar fool...!",
+      "status": "imported"
+    },
+    "voice_131:r_5e2669b82ef75ce3": {
+      "text": "Char!\\nWatch how you address me!",
+      "status": "imported"
+    },
+    "voice_131:r_7847e0ed7dc9282d": {
+      "text": "Tch! Impressive!\\nChar struggled too!",
+      "status": "imported"
+    },
+    "voice_131:r_e42b52c7a987b906": {
+      "text": "What is this sensation...?!",
+      "status": "imported"
+    },
+    "voice_131:r_6825fd1ff907bd22": {
+      "text": "Impudent...!\\nPressuring even me?!",
+      "status": "imported"
+    },
+    "voice_131:r_607f666f1563bc0d": {
+      "text": "A Newtype...\\nWhy use it for fools?!",
+      "status": "imported"
+    },
+    "voice_131:r_97b7431eeb81e6b6": {
+      "text": "Silence, Kamille!\\nYou're like Char!!",
+      "status": "imported"
+    },
+    "voice_131:r_132f605d02975e71": {
+      "text": "Ugh!\\nChar will fall by my hand!!",
+      "status": "imported"
+    },
+    "voice_131:r_9b9726b1872759d6": {
+      "text": "A-Amuro...!\\nThis is his pressure?!",
+      "status": "imported"
+    },
+    "voice_131:r_1252db29683fefe0": {
+      "text": "What?!\\nThis clinging wave?!",
+      "status": "imported"
+    },
+    "voice_131:r_ad3d538f1e909184": {
+      "text": "Can't you tell?!\\nWe're the same!!",
+      "status": "imported"
+    },
+    "voice_131:r_8c61c59a1c0aebbf": {
+      "text": "Ngh! Reading my moves...\\nA threat!",
+      "status": "imported"
+    },
+    "voice_131:r_aba6a7662129d8ce": {
+      "text": "How foolish...!",
+      "status": "imported"
+    },
+    "voice_131:r_b84afafb8a33ec60": {
+      "text": "So eager to die...!",
+      "status": "imported"
+    },
+    "voice_131:r_c8c59db85bf875e6": {
+      "text": "You were too hasty!",
+      "status": "imported"
+    },
+    "voice_131:r_7c796ba53bd7ea03": {
+      "text": "No match for Qubeley and me...!",
+      "status": "imported"
+    },
+    "voice_131:r_fa944da4b6519006": {
+      "text": "Me, piloting a Gundam...",
+      "status": "imported"
+    },
+    "voice_131:r_95d047bcc17fccc6": {
+      "text": "A Gundam... Not bad.",
+      "status": "imported"
+    },
+    "voice_131:r_640327a12a559b31": {
+      "text": "I will master Char's machine...!",
+      "status": "imported"
+    },
+    "voice_131:r_bdd38c584fa313d0": {
+      "text": "Its age poses no problem.",
+      "status": "imported"
+    },
+    "voice_131:r_3fd86c1027f317c8": {
+      "text": "A Zeon machine handles the same...!",
+      "status": "imported"
+    },
+    "voice_131:r_d0372a183d2007ad": {
+      "text": "Take this!",
+      "status": "imported"
+    },
+    "voice_131:r_217aa5e1d545b44d": {
+      "text": "I shall deliver your last rites!",
+      "status": "imported"
+    },
+    "voice_131:r_381992c5d8224937": {
+      "text": "You will disappear!",
+      "status": "imported"
+    },
+    "voice_131:r_f1e7ed9e5874aba5": {
+      "text": "Regret your pointless death!",
+      "status": "imported"
+    },
+    "voice_131:r_5aeeb4917340c42d": {
+      "text": "This is the final blow!",
+      "status": "imported"
+    },
+    "voice_131:r_b765659981b6516d": {
+      "text": "It's time to end this!",
+      "status": "imported"
+    },
+    "voice_131:r_d3f01de714c015bd": {
+      "text": "There!",
+      "status": "imported"
+    },
+    "voice_131:r_ceb935ccbf830724": {
+      "text": "Too naive!",
+      "status": "imported"
+    },
+    "voice_131:r_001cbec4d9a4283f": {
+      "text": "Strike true!",
+      "status": "imported"
+    },
+    "voice_131:r_26e5efec03c03d78": {
+      "text": "I see you!",
+      "status": "imported"
+    },
+    "voice_131:r_40c5a9358ed5bf29": {
+      "text": "Haaaaaaaah!!",
+      "status": "imported"
+    },
+    "voice_131:r_72a21a1a489af001": {
+      "text": "Char...!",
+      "status": "imported"
+    },
+    "voice_131:r_eb643f8bf737a0ca": {
+      "text": "This is farewell forever, Char!",
+      "status": "imported"
+    },
+    "voice_131:r_0a3fccb71ec6cf2a": {
+      "text": "Char...!\\nPay for betraying me twice!",
+      "status": "imported"
+    },
+    "voice_131:r_9b63cf1f3e0207ef": {
+      "text": "Frontal! You're nothing but a fake!",
+      "status": "imported"
+    },
+    "voice_131:r_8356f4e3dcdff938": {
+      "text": "Frontal's lapdog...!",
+      "status": "imported"
+    },
+    "voice_131:r_1d6d784036ae0bd7": {
+      "text": "A mere Cyber-Newtype\\nagainst me?!",
+      "status": "imported"
+    },
+    "voice_131:r_625664af02183c17": {
+      "text": "No ideals,\\nnow Frontal's pawn?!",
+      "status": "imported"
+    },
+    "voice_131:r_3701cba361f80ea5": {
+      "text": "Wake up! Zeon has no cause now!",
+      "status": "imported"
+    },
+    "voice_131:r_63f429c5c68c0863": {
+      "text": "Londo Bell...! This ends it!",
+      "status": "imported"
+    },
+    "voice_131:r_38e4a434c91d8ef0": {
+      "text": "A Newtype used by the system...!",
+      "status": "imported"
+    },
+    "voice_131:r_862b92e63adb9734": {
+      "text": "A man who cannot wield his power...!",
+      "status": "imported"
+    },
+    "voice_131:r_76f080a4881e8ab5": {
+      "text": "Amuro Ray!\\nYou lead Char astray!",
+      "status": "imported"
+    },
+    "voice_131:r_288133bc5b573dae": {
+      "text": "Kamille Bidan!\\nStay out of my mind!",
+      "status": "imported"
+    },
+    "voice_131:r_6f95653e548f8fcf": {
+      "text": "You will hand over that Gundam!",
+      "status": "imported"
+    },
+    "voice_131:r_d249d68bada91ab9": {
+      "text": "Can you\\nbear that Gundam's burden?!",
+      "status": "imported"
+    },
+    "voice_131:r_e9b3307e9eb69f11": {
+      "text": "Your caliber...\\nShow me its worth!",
+      "status": "imported"
+    },
+    "voice_131:r_03cdac73042343ee": {
+      "text": "Force and fear\\ncannot rule Earth!",
+      "status": "imported"
+    },
+    "voice_131:r_6026da5acbda7c69": {
+      "text": "If this is to be the end... Then!",
+      "status": "imported"
+    },
+    "voice_131:r_cd06d0820d82524b": {
+      "text": "I'll finish you with Funnel!",
+      "status": "imported"
+    },
+    "voice_131:r_f16a3eb0bcaac082": {
+      "text": "Fin Funnel!",
+      "status": "imported"
+    },
+    "voice_131:r_96b21e3a028dd074": {
+      "text": "A direct hit...! You're mine!",
+      "status": "imported"
+    },
+    "voice_131:r_ce140b5d8e6b7310": {
+      "text": "Beam Confuse!",
+      "status": "imported"
+    },
+    "voice_131:r_0e0335789c5396d7": {
+      "text": "It can be used this way too!",
+      "status": "imported"
+    },
+    "voice_131:r_a8e85bd950696403": {
+      "text": "All units, follow my orders!",
+      "status": "imported"
+    },
+    "voice_131:r_772c8bc40ab6cb61": {
+      "text": "Gaza C squadron, advance!",
+      "status": "imported"
+    },
+    "voice_131:r_aadc0b2442adb93b": {
+      "text": "All Gaza C units, attack at once!",
+      "status": "imported"
+    },
+    "voice_131:r_e7a8cd8ed5bc2d1b": {
+      "text": "I'll use the Zeta's power!",
+      "status": "imported"
+    },
+    "voice_131:r_041dd920da4a7c17": {
+      "text": "Human will, human emotion...!",
+      "status": "imported"
+    },
+    "voice_131:r_c7f4280cde4605b3": {
+      "text": "Feel this with your whole body!",
+      "status": "imported"
+    },
+    "voice_131:r_ec349c8ea9511a18": {
+      "text": "Feelings, will... Now I understand!",
+      "status": "imported"
+    },
+    "voice_131:r_33236ffa3ea95b68": {
+      "text": "This machine turns them into power!",
+      "status": "imported"
+    },
+    "voice_131:r_689d0b123de71ae0": {
+      "text": "I'll teach you that lesson as well!",
+      "status": "imported"
+    },
+    "voice_131:r_97f82e3cb6f70110": {
+      "text": "Char, do you ask for my aid?",
+      "status": "imported"
+    },
+    "voice_131:r_c5611d8dd6def96b": {
+      "text": "Enough games, Frontal.",
+      "status": "imported"
+    },
+    "voice_131:r_6f12cc8ed2732eb5": {
+      "text": "Leave the finishing blow to me.",
+      "status": "imported"
+    },
+    "voice_131:r_7abfc55f8fb62ba7": {
+      "text": "A fine attack, Amuro Ray.",
+      "status": "imported"
+    },
+    "voice_131:r_99e7a66c650b5892": {
+      "text": "Well done, Kamille.",
+      "status": "imported"
+    },
+    "voice_131:r_5b2247b5cfbcd7b2": {
+      "text": "You've grown strong, Banagher Links.",
+      "status": "imported"
+    },
+    "voice_131:r_2d7a9c06347582d9": {
+      "text": "Much to learn yet, Quess Paraya.",
+      "status": "imported"
+    },
+    "voice_131:r_bf953d64c3c7d9b7": {
+      "text": "I'll lend you a hand, Marida Cruz.",
+      "status": "imported"
+    },
+    "voice_131:r_e09b933e3e706779": {
+      "text": "Only to be expected of a Newtype.",
+      "status": "imported"
+    },
+    "voice_131:r_66236eb99b676e5b": {
+      "text": "Captain, clear my line of fire.",
+      "status": "imported"
+    },
+    "voice_131:r_9639a2dbcd2f58ed": {
+      "text": "I won't let Char fall...!",
+      "status": "imported"
+    },
+    "voice_131:r_aeea0893acb93d35": {
+      "text": "I cannot afford to lose you.",
+      "status": "imported"
+    },
+    "voice_131:r_b31568654e53487b": {
+      "text": "I won't squander my soldiers...!",
+      "status": "imported"
+    },
+    "voice_131:r_2502132569141ea3": {
+      "text": "A man of Amuro Ray's caliber...!",
+      "status": "imported"
+    },
+    "voice_131:r_1ff312798a52c8eb": {
+      "text": "How careless, Kamille!",
+      "status": "imported"
+    },
+    "voice_131:r_fa07d90fca62f593": {
+      "text": "Don't disappoint me, Banagher Links",
+      "status": "imported"
+    },
+    "voice_131:r_a25bf2676ecf9d83": {
+      "text": "You're still only a child.",
+      "status": "imported"
+    },
+    "voice_131:r_237a0288b42dce20": {
+      "text": "Marida Cruz, fall back now!",
+      "status": "imported"
+    },
+    "voice_131:r_0556e8a22779ea8e": {
+      "text": "Your heart called out to me.",
+      "status": "imported"
+    },
+    "voice_131:r_09d377101a48d92a": {
+      "text": "Captain! Get the ship to safety!",
+      "status": "imported"
+    },
+    "voice_131:r_11517cc7b0494dbf": {
+      "text": "How anticlimactic.",
+      "status": "imported"
+    },
+    "voice_131:r_b5864501463db244": {
+      "text": "The result was just as I expected.",
+      "status": "imported"
+    },
+    "voice_131:r_a88939ea84b4474d": {
+      "text": "You make me go to needless trouble.",
+      "status": "imported"
+    },
+    "voice_131:r_a870d0cf7cc11ec6": {
+      "text": "Is this engagement a waste of time?",
+      "status": "imported"
+    },
+    "voice_131:r_03f6158ef83964f3": {
+      "text": "Char! Will your disgrace never end?!",
+      "status": "imported"
+    },
+    "voice_131:r_2970a83693cdcc25": {
+      "text": "Frontal!\\nNever the Red Comet!",
+      "status": "imported"
+    },
+    "voice_131:r_be661448b85d0009": {
+      "text": "You've failed to master your power!",
+      "status": "imported"
+    },
+    "voice_131:r_958a56c1151cab9e": {
+      "text": "You fell short, Banagher Links.",
+      "status": "imported"
+    },
+    "voice_131:r_94d35e5fa8e3a198": {
+      "text": "It seems we're a poor match.",
+      "status": "imported"
+    },
+    "voice_131:r_b686510e636673f3": {
+      "text": "You have impressive skill...!",
+      "status": "imported"
+    },
+    "voice_131:r_59369bad143d4272": {
+      "text": "Ngh...! You exceed my predictions!",
+      "status": "imported"
+    },
+    "voice_131:r_25f9b1e39dd8d366": {
+      "text": "You face this Haman\\nhead-on... Bold!",
+      "status": "imported"
+    },
+    "voice_131:r_307477bedd148060": {
+      "text": "Char...!\\nYou cannot claim my life!",
+      "status": "imported"
+    },
+    "voice_131:r_09a780acca0eb4b0": {
+      "text": "Not bad, Frontal...! However!",
+      "status": "imported"
+    },
+    "voice_131:r_af62f2ee466b5c8c": {
+      "text": "So you were enhanced for combat...!",
+      "status": "imported"
+    },
+    "voice_131:r_20cfb719db02fafd": {
+      "text": "A fine attack, Banagher Links...!",
+      "status": "imported"
+    },
+    "voice_131:r_cff4d2eae8a939ed": {
+      "text": "Ngh! I have been pushed this far...!",
+      "status": "imported"
+    },
+    "voice_131:r_1428fe5f35a9427b": {
+      "text": "To think it would end this way...!",
+      "status": "imported"
+    },
+    "voice_131:r_96d39b8bdfa6f183": {
+      "text": "Very well. I acknowledge your power.",
+      "status": "imported"
+    },
+    "voice_131:r_0e4f9b8a2d26ebff": {
+      "text": "I am Haman Karn!\\nTo my last instant!",
+      "status": "imported"
+    },
+    "voice_131:r_79e0d542fe12bcf7": {
+      "text": "I see. Beyond my expectations.",
+      "status": "imported"
+    },
+    "voice_131:r_eff747ba39a55393": {
+      "text": "Ngh...! Forgive me...!",
+      "status": "imported"
+    },
+    "voice_131:r_b2dc77aa6dd77e69": {
+      "text": "How disgraceful... I have lost...",
+      "status": "imported"
+    },
+    "voice_131:r_445d40d8b5d7092b": {
+      "text": "The Juaggu\\nwas unequal to this...!",
+      "status": "imported"
+    },
+    "voice_131:r_bbb633cb5e8e6daf": {
+      "text": "Ends... I wanted more SRW together.",
+      "status": "imported"
+    },
+    "voice_131:r_0abd8b6c713ccdac": {
+      "text": "Heh... Do my words trouble you?",
+      "status": "imported"
+    },
+    "voice_131:r_f4ff463b2fda1b86": {
+      "text": "Even I want company some nights.",
+      "status": "imported"
+    },
+    "voice_131:r_4e63c037d3cb8a3d": {
+      "text": "I hope to fight beside you someday.",
+      "status": "imported"
+    },
+    "voice_131:r_9ca8d188ae805e3a": {
+      "text": "Until next time, mighty players.",
+      "status": "imported"
+    },
+    "voice_131:r_795ed21f3e28e1f5": {
+      "text": "End it here, or go on, Char!!",
+      "status": "imported"
+    },
+    "voice_131:r_141415c1def5ab2d": {
+      "text": "I'll strike first!",
+      "status": "imported"
+    },
+    "voice_131:r_c894e35becf35a03": {
+      "text": "I'll leave the final blow to you!",
+      "status": "imported"
+    },
+    "voice_131:r_79b1abf5fc86483c": {
+      "text": "If you seek certainty...!",
+      "status": "imported"
+    },
+    "voice_131:r_e9a11621911acb19": {
+      "text": "Follow my lead and attack!",
+      "status": "imported"
+    },
+    "voice_131:r_d52bece55796f599": {
+      "text": "Are you capable of facing me?",
+      "status": "imported"
+    },
+    "voice_131:r_358fe5a50bbee1df": {
+      "text": "Leave this front to me.",
+      "status": "imported"
+    },
+    "voice_131:r_638834e16724002f": {
+      "text": "You will face me!",
+      "status": "imported"
+    },
+    "voice_131:r_b02fca1590ac1210": {
+      "text": "Unlucky to stand before me!",
+      "status": "imported"
+    }
+  }
+}

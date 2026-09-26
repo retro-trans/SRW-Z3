@@ -1,0 +1,1338 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "stage0061_03:r_caaab7bad760e16d": {
+      "text": "NERV Corridor",
+      "status": "imported"
+    },
+    "stage0061_03:r_99b162aa6aa286a2": {
+      "text": "NERV Corridor",
+      "status": "imported"
+    },
+    "stage0061_03:r_58fb02434a1c40b2": {
+      "text": "NERV Corridor",
+      "status": "imported"
+    },
+    "stage0061_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　　\n　　　　　　　　　　　～ NERV Headquarters ～",
+      "status": "imported"
+    },
+    "stage0061_03:r_1263541f4071624e": {
+      "text": "$$リツコ$$\n「...What's wrong, $$ミサト$$?\n　Rushing back to HQ so suddenly?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_3bc300bbdc277d82": {
+      "text": "$$ミサト$$\n「Just wanted a word with Commander Ikari.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_38762a09460d8b6b": {
+      "text": "$$リツコ$$\n「Must've been pretty urgent.\n　Showing up without any notice.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_7ab28e70b4d4f641": {
+      "text": "$$ミサト$$\n「This is strategy too.\n　Keeps the enemy from bracing themselves.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$ミサト$$\n（The Ring of 12,000 Years...\n　Commander Ikari once said those\n　same words, '12,000 years'...）",
+      "status": "imported"
+    },
+    "stage0061_03:r_ec335e69f984b8b3": {
+      "text": "$$ミサト$$\n（I'm sure the Commander knows something...\n　I'll find out.）",
+      "status": "imported"
+    },
+    "stage0061_03:r_0abcaf0c31978670": {
+      "text": "$$加持$$\n「Seems your plan's gonna fizzle out.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_1d6bc48b7f246730": {
+      "text": "$$ミサト$$\n「Why are you even here!?\n　You're assigned to the Euro Branch!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_1af20fccc3c53cfc": {
+      "text": "$$加持$$\n「Special orders.\n　I'm stationed at HQ for a while.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_f951916061232dcd": {
+      "text": "$$加持$$\n「Now Katsuragi, me, and Ricchan can hang out\n　together, just like back in school.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_4d863c3fb88a4c39": {
+      "text": "$$リツコ$$\n「FYI, he's been stationed here over a month.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_44f4742c3dcce39a": {
+      "text": "$$ミサト$$\n「Why didn't you tell me!?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_9e701cdeb3842c21": {
+      "text": "$$リツコ$$\n「Would you have rushed over if I had?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_6fd81f4abebe60c5": {
+      "text": "$$ミサト$$\n「Well...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_da2132b5038ec737": {
+      "text": "$$加持$$\n「Then I blew it.\n　Missed out on a warm welcome, huh.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_495d61d3ec7e16f2": {
+      "text": "$$ミサト$$\n「As if I would!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_5cd353758cfe474d": {
+      "text": "$$加持$$\n「Well, never mind.\n　Anyway, the Commanders left on urgent business today.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_a653c8dec4c0f06f": {
+      "text": "$$ミサト$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_86d493e37a9799a7": {
+      "text": "$$リツコ$$\n「Showing up unannounced backfired, huh.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_09d0fcc600cdd3df": {
+      "text": "$$ミサト$$\n（There's no way the Commander, with\n　connections everywhere, doesn't know about\n　$$エタニティ・フラット$$... yet he's away now...）",
+      "status": "imported"
+    },
+    "stage0061_03:r_182faded068c15ed": {
+      "text": "$$加持$$\n「Don't expect much from me.\n　I didn't ask where they're headed.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_9c206d19bfda4bd5": {
+      "text": "$$ミサト$$\n「So, where are you off to?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_6e558bc69acf5bf3": {
+      "text": "$$加持$$\n「Just a walk.\n　There's someone I want to see.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_d60d0818e965232f": {
+      "text": "$$加持$$\n「I'll be back by night.\n　Let's grab a drink somewhere.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_5b23687574286204": {
+      "text": "$$ミサト$$\n「If you even remember.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_6fd86c96891ea942": {
+      "text": "$$加持$$\n「I'm counting on it.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_43e4e548c0b28376": {
+      "text": "$$ミサト$$\n「Still as hard to pin down as ever...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_d80a9688790ed583": {
+      "text": "$$リツコ$$\n「Call it youthful folly, shall we?\n　Or is there still a spark left?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_708bea61e3c43ada": {
+      "text": "$$ミサト$$\n「Quit it...!\n　I've got enough headaches lying around already.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_7b6f159eeaf4de0f": {
+      "text": "Red Sea",
+      "status": "imported"
+    },
+    "stage0061_03:r_0827963cfd706e8d": {
+      "text": "Red Sea",
+      "status": "imported"
+    },
+    "stage0061_03:r_ff6f8bdca2dd2bc9": {
+      "text": "Red Sea",
+      "status": "imported"
+    },
+    "stage0061_03:r_3f4035fd9db81258": {
+      "text": "　\n　\n　　　　　　　　　　　　～ Sagami Bay ～",
+      "status": "imported"
+    },
+    "stage0061_03:r_567b361a454c4b73": {
+      "text": "$$ケンスケ$$\n「Man, this feels so weird.\n　The Red Sea from our world is treated\n　like a tourist spot over here.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_d22851aaafbbf8fc": {
+      "text": "$n\n「It's a rare phenomenon, after all.\n　People'll probably come see it for a while yet.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_352534f64413d954": {
+      "text": "$$トウジ$$\n「So, where's $$ミサト$$?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_79f2664edb1af798": {
+      "text": "$$シンジ$$\n「She had business, so she's at NERV HQ.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$くらら$$\n「Well, it's fine, isn't it.\n　We got a ride out here too, after all.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_1c5aa0d15ae24846": {
+      "text": "$$スズネ$$\n「Today's a picnic, so let's forget\n　about Volunteer Club work and just enjoy it.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_53bb64ee17750ee2": {
+      "text": "$$甲児$$\n「There you go, $n.\n　Seems we're off litter duty today.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_7a7add80fde475ba": {
+      "text": "$n\n「Hearing that leaves me a bit at loose ends.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_b2befefdbed1393d": {
+      "text": "$n\n「And I brought gloves and trash bags for nothing.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_2103f6df2ea2e447": {
+      "text": "$$ケンスケ$$\n「You're way too fired up, $n!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_a12e3e130d896ff7": {
+      "text": "$n\n「With $$アルト$$ off in space right now,\n　I'll protect the Volunteer Club.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_b6f7b219eb4bd64b": {
+      "text": "$$アスカ$$\n「You've really got that work ethic down.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_91bf33c27ad39f0a": {
+      "text": "$n\n「It's the spirit of service.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_ee220318b96ab538": {
+      "text": "$$朔哉$$\n「Surprising, $$アスカ$$.\n　Picnics don't seem like your style.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_ce1b55e526b6277a": {
+      "text": "$$アスカ$$\n「Can't be helped.\n　$$ミサト$$ forced me to come.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_c304df6888eb78f7": {
+      "text": "$$葵$$\n「But there's a lavish perk for anyone who joins.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_c26958634526e597": {
+      "text": "$$ジョニー$$\n「All right, everyone...\n　it's the lunchtime you've been waiting for.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_cdb750c9d380881a": {
+      "text": "$$甲児$$\n「This time, $$ジョニー$$, $$郁絵$$, and I all had\n　plans, so $$シンジ$$ made all the lunches.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_95fda74613c97b39": {
+      "text": "$$さやか$$\n「Amazing...!\n　Tricolor rice balls, fried chicken,\n　thick omelet, even crab and octopus wieners!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_1956994937f8171e": {
+      "text": "$$ジョニー$$\n「Impressive, $$シンジ$$.\n　You really understand what a picnic\n　lunch is all about.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_48f49f6728c15612": {
+      "text": "$$シンジ$$\n「I don't really know much about bentos,\n　so I just followed a cookbook...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ワッ太$$\n「Let's eat already!\n　Just looking at it's making me hungry!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_f02c37d91387d0ad": {
+      "text": "$n\n「Well then...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$トウジ$$\n「Dig innn!!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_9796b3efa401a303": {
+      "text": "$$アスカ$$\n「!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_643b6eebfc0186b3": {
+      "text": "$$シンジ$$\n「How is it, Shikinami?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_291280e5f7eb9d70": {
+      "text": "$$アスカ$$\n「I-I thought so last time too, it's decent.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_32eb462c1b4999cb": {
+      "text": "$$甲児$$\n（Not honest at all, geez...）",
+      "status": "imported"
+    },
+    "stage0061_03:r_1f4337d6d393fc37": {
+      "text": "$n\n（Eating that eagerly, no amount of\n　playing it cool is gonna work.）",
+      "status": "imported"
+    },
+    "stage0061_03:r_4740e748fae085ee": {
+      "text": "$n\n（Could it be, $$甲児$$...\n　did you plan this, leaving the lunch to $$シンジ$$?）",
+      "status": "imported"
+    },
+    "stage0061_03:r_b76524cd840e1d37": {
+      "text": "$$甲児$$\n（Heh... maybe.）",
+      "status": "imported"
+    },
+    "stage0061_03:r_730ffe18400abfc2": {
+      "text": "$$トウジ$$\n「This char siu is great!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_ffe0fca26da5cd38": {
+      "text": "$$ケンスケ$$\n「Flavor soaked all the way through, and\n　the surface is fragrant! Truly exquisite!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_bfb27f9eb2f7073e": {
+      "text": "$$シンジ$$\n「I simmered it slow, then seared it.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_859dfa27bcaafe30": {
+      "text": "$$甲児$$\n「You've got skill, $$シンジ$$.\n　Finishing it this well without falling apart.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_71ebf05996a4b0fd": {
+      "text": "$$シンジ$$\n「The cookbook had tips on it.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_6214c11b1bca811e": {
+      "text": "$n\n「Just getting to eat your cooking made\n　this picnic worth coming to.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_8eaf6f3098ffed12": {
+      "text": "$$ワッ太$$\n「Hey, $n.\n　What happened to $$かなめ$$ today?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_cf507214fe955d75": {
+      "text": "$n\n「Chidori's been busy in her own way.\n　Lately she rushes home right after school.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_2113dcbabdfc758a": {
+      "text": "$$甲児$$\n「Maybe she's lonely with $$宗介$$ gone.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$n\n「Maybe.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_6a74519e1fc29c4b": {
+      "text": "$$シンジ$$\n「I made plenty for both $$甲児$$ and\n　you, $n, so please eat as much as you like.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_5b992878fee054b5": {
+      "text": "$n\n「Thanks, $$シンジ$$.\n　I'll dig in.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$加持$$\n「Pardon me...\n　mind if I have a little too?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_4a14ec0c511c7f0d": {
+      "text": "$$シンジ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_20cf167c0ec0d4d5": {
+      "text": "$$スズネ$$\n「And you would be...?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_b591d812c96c6c99": {
+      "text": "$$加持$$\n「Playing guardian must be tough, but\n　there's no need for such caution, Miss $$スズネ$$.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_e350fa099c1ab072": {
+      "text": "$$加持$$\n「May I also call you Miss $$スズネ$$?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$スズネ$$\n「Uh, sure...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_c33bd700553abf91": {
+      "text": "$$ワッ太$$\n「Mister, you with $c?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_feee5c91826230e1": {
+      "text": "$$加持$$\n「'Mister' stings a bit, $$竹尾ワッ太$$.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_bccc48e1964ad22d": {
+      "text": "$$加持$$\n「My name's $$加持リョウジ$$.\n　I work for NERV.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_f8736aaaa216c766": {
+      "text": "$$シンジ$$\n「Oh, I see...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_d1ec2522c87c361d": {
+      "text": "$$加持$$\n「I'm also an old friend of Katsuragi's.\n　I know all about her bad sleeping habits, too.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_3599f0a4343fd95c": {
+      "text": "$$シンジ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_3bc7834a5bf3ee76": {
+      "text": "$$トウジ$$\n「What's that supposed to mean?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_366814efdc8b5800": {
+      "text": "$$ワッ太$$\n「Miss $$スズネ$$, you get it?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_9be1a4c10bb62515": {
+      "text": "$$スズネ$$\n「I have no idea!!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_94a88c90e557e16e": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0061_03:r_1c208ca0cbf26f28": {
+      "text": "$$スズネ$$\n「$n!\n　Don't you dare laugh silently!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_5b7ee307a700171a": {
+      "text": "$n\n「S-sorry...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_8d8f065c932da30a": {
+      "text": "$$加持$$\n「Now that introductions are done,\n　I'll try your cooking, $$碇シンジ$$.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_f5432119677514f7": {
+      "text": "$$シンジ$$\n「Y-yes... go ahead.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_4e5c8e989c4a7691": {
+      "text": "$$加持$$\n「Delicious.\n　Simple dish, but perfectly cooked and seasoned.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_adec86483b13599a": {
+      "text": "$$シンジ$$\n「Thank you very much.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_2cf701bbcde3ec13": {
+      "text": "$$加持$$\n「Nice work, $$シンジ$$.\n　A man who stands in the kitchen is popular.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_c17c58fdba72005e": {
+      "text": "$$エイーダ$$\n「I agree.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_1fe8564d2b959317": {
+      "text": "$$さやか$$\n「Ditto.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_f527e012803f7f1c": {
+      "text": "$$ケンスケ$$\n「There you go.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_4b1247bd3ca4905d": {
+      "text": "$$トウジ$$\n「No way! I ain't standin' in no kitchen!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_00c55e25f87b71d0": {
+      "text": "$$アスカ$$\n「So old-fashioned...\n　How stupid.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_338f3b27e51dcc41": {
+      "text": "$$トウジ$$\n「What'd you say!?\n　Havin' principles matters, y'know!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_d91d4bc2d52b61c4": {
+      "text": "$$アスカ$$\n「Even more stupid...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_0c8ea89b07432421": {
+      "text": "$$トウジ$$\n「Whaaat!?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_4dbfba00ba7744ee": {
+      "text": "$n\n「Both of you, quit it.\n　You're ruining a perfectly good meal.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_be100a32b731708d": {
+      "text": "$$スズネ$$\n「Do you cook, $n?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_702f82442fcec8a9": {
+      "text": "$n\n「Uh, yeah...\n　it's more like outdoor cooking, though...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_b1e38da4e8775ffe": {
+      "text": "$$スズネ$$\n「Did you feed that nurse of yours?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$n\n「Eh...!?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$スズネ$$\n「No use covering it up.\n　I've had reports that you were seen\n　out on a date with that person.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_3dad695c99e9e052": {
+      "text": "$n\n「Well... it's not that I was hiding it...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_66d4ae3a21caf881": {
+      "text": "$$スズネ$$\n「Are you two together?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_0c18da7b3a37825d": {
+      "text": "$n\n「...I don't know...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_63249745ffae61b6": {
+      "text": "$n\n「But, when I'm with them... I...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_abdb034ae8509702": {
+      "text": "$n\n「Sorry...!\n　I'll go get us something to drink!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_3ff2e21207d1d1d3": {
+      "text": "$$スズネ$$\n「$n...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_e51ecf6d6aa42e75": {
+      "text": "$$シンジ$$\n「There's tea in the water bottle already...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_47ddabb7b60131c2": {
+      "text": "$$加持$$\n「He ran off, didn't he...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_b025267f22788233": {
+      "text": "$$甲児$$\n（Hey, hey... looks like this side's getting\n　interesting too）",
+      "status": "imported"
+    },
+    "stage0061_03:r_ec1a06a7023bf72c": {
+      "text": "$$さやか$$\n（$n really means it, huh...）",
+      "status": "imported"
+    },
+    "stage0061_03:r_8805f96e52aaa462": {
+      "text": "$$葵$$\n（But not being able to tell Miss $$スズネ$$\n　about it... that's the complicated part）",
+      "status": "imported"
+    },
+    "stage0061_03:r_124591cb154fae64": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0061_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$シンジ$$\n「Sorry, Ayanami.\n　Guess it wasn't to your taste...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_4bf9b05b5f948170": {
+      "text": "$$レイ#333$$\n「No.\n　I just don't eat meat.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_eaa52d152f444bfd": {
+      "text": "$$アスカ$$\n「Why apologize when you did nothing wrong!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_b4bc9e9435b58e6f": {
+      "text": "$$アスカ$$\n「Besides, living things survive by eating others!\n　Eat every last bit of that life, don't waste any!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_a9227573166977a9": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0061_03:r_b0600ab9a9e8559d": {
+      "text": "$$アスカ$$\n「What's with that look?\n　You looking for a fight, Teacher's Pet?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_7cbc63dad295f862": {
+      "text": "$$くらら$$\n「Cut it out, $$アスカ$$」",
+      "status": "imported"
+    },
+    "stage0061_03:r_07f53c816e0a51f5": {
+      "text": "$$朔哉$$\n「You oughta be used to it by now.\n　It's nothing new.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_2d09c6f6a2d990ea": {
+      "text": "$$アスカ$$\n「Hmph...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_3c5fcfc484a51913": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0061_03:r_0476ffd10c764b0e": {
+      "text": "$$シンジ$$\n「It's gotten a bit windy, Ayanami.\n　Drink some miso soup.\n　It'll warm you up.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$レイ#333$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_2b3479c4cf0680f4": {
+      "text": "$$レイ#333$$\n「It's good...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_e370696b8936b08c": {
+      "text": "Green Space",
+      "status": "imported"
+    },
+    "stage0061_03:r_9d7b02c5e728b7aa": {
+      "text": "Green Space",
+      "status": "imported"
+    },
+    "stage0061_03:r_9af213fc64e0afec": {
+      "text": "Green Space",
+      "status": "imported"
+    },
+    "stage0061_03:r_d7f1c506e78e55ff": {
+      "text": "$n\n（...I can't believe even Miss $$スズネ$$\n　knows about $$マキ$$...）",
+      "status": "imported"
+    },
+    "stage0061_03:r_0c705091f748360e": {
+      "text": "$n\n（But there was no need to run away...）",
+      "status": "imported"
+    },
+    "stage0061_03:r_9eb8599304125b2f": {
+      "text": "$n\n「Ngh...!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_a072aa25e5f521e0": {
+      "text": "$n\n「This is...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_24e1a808a1609a1a": {
+      "text": "$$アドヴェント$$\n「That's right...\n　the Sidereal are closing in.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_53128ce8f154fd06": {
+      "text": "$n\n「$$アドヴェント$$...!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_03b5db9ce98fb8d6": {
+      "text": "$$アドヴェント$$\n「Don't move.\n　I'll just touch your head a moment.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_3915fb4102f1c1dd": {
+      "text": "$n\n「This is...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_817b2773b4ed563e": {
+      "text": "$$アドヴェント$$\n「Seems you've calmed down.\n　That's a welcome thing.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_1cc233cbc8c80af7": {
+      "text": "$$アドヴェント$$\n「Honestly, I would have liked to try\n　$$碇シンジ$$'s cooking myself.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0061_03:r_e180b22d18f48d38": {
+      "text": "$$アドヴェント$$\n「Seems you're wary of me.\n　...can't blame you...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_e598c2a0b27e7f50": {
+      "text": "$n\n「Good, I'll take this chance to ask you.\n　Just what you and Chrono are.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_4d2a9066c4e7b27f": {
+      "text": "$n\n「We also know that you're connected\n　to Geminis as well.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_10340119af3ed6db": {
+      "text": "$$アドヴェント$$\n「The result of $$ゼロ$$'s investigation...\n　As expected of him...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_23a9c7ab620ab112": {
+      "text": "$$アドヴェント$$\n「No wonder, seeing as he killed a god...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_4f0aca6deda07883": {
+      "text": "$n\n「Just what are you?\n　How much do you actually know?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_8fe40600ce62dfbc": {
+      "text": "$$アドヴェント$$\n「Calm down, $n.\n　I came here to tell you that.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_ff4ce5f3cf96b617": {
+      "text": "$n\n「Aren't you here to team up with\n　Geminis and crush us?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_d73c21f119847e35": {
+      "text": "$$アドヴェント$$\n「...those connected to them\n　are a faction within Chrono.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_89766f5ffaa912d4": {
+      "text": "$n\n「A faction...?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$アドヴェント$$\n「That's right.\n　Chrono is split into two factions internally.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_451f726d4299ea35": {
+      "text": "$$アドヴェント$$\n「And the faction opposing me\n　is cooperating with Geminis, trying to\n　accept the Prison of Time.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_e3d111e8bb190cb1": {
+      "text": "$n\n「What on earth for!?\n　You called yourselves watchers over\n　humanity's evolution, didn't you!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_7c0d3c51f9a11ca0": {
+      "text": "$$アドヴェント$$\n「They caused $$時空震動$$, warping the world's memories...\n　They must have yielded to that mighty power.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_ab97c2b2418ea732": {
+      "text": "$n\n「Just what are you...?\n　Giving up on your own and handing Earth\n　over to them on your own terms...!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_2ddff5064af78db4": {
+      "text": "$n\n「Using words like 'watching over' us,\n　when really you think you're secretly\n　steering humanity's history!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_050d0532c4b24bfe": {
+      "text": "$$アドヴェント$$\n「I have no intention of 'steering' anything.\n　We won't abandon our stance as watchers.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_d583fcea31bdad2e": {
+      "text": "$$アドヴェント$$\n「But things are accelerating.\n　The 12,000-year ring of fate\n　is about to close, after all.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_475f7653621a91b5": {
+      "text": "$n\n「That word... $$グーラ$$ and $$ロジャー$$ said it too...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_f228ae702350849b": {
+      "text": "$$アドヴェント$$\n「Paradigm City's negotiator, is it.\n　He too has the right to know that.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_d69dc027cba3003f": {
+      "text": "$$アドヴェント$$\n「The ring of fate is closing...\n　$$バアル$$'s appearances are proof of it.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_3c3735172a480b72": {
+      "text": "$n\n「Humanity's natural enemy...\n　Just what is this ring of fate!?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_1f418b5594cea300": {
+      "text": "$$アドヴェント$$\n「That answer is one you must find yourselves.\n　As those branded with the $$烙印$$.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_f87fb889124bfaef": {
+      "text": "$n\n「Don't give me that...!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_79c90de32a79212d": {
+      "text": "$$アドヴェント$$\n「Hard to believe right away, is it?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_33f7fd55913419e8": {
+      "text": "$n\n「.........」",
+      "status": "imported"
+    },
+    "stage0061_03:r_473d9a88b4ca96e7": {
+      "text": "$$アドヴェント$$\n「But $n... for now, just hear me out.\n　As one who shares the same goal.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_4de6ac85c63bac12": {
+      "text": "$n\n「Goal...?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_4c92652c9b1adf6f": {
+      "text": "$$アドヴェント$$\n「That's right.\n　I too am a cursed existence, just like you.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_ce90563a934d49fb": {
+      "text": "$$アドヴェント$$\n「That's why I'm after them... what you call angels.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_4fb296e63cb1fb46": {
+      "text": "$n\n「Wha...!?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_6d77e72dbbcd7dfe": {
+      "text": "$n\n「Ngh...!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_9dc59affd40f32fc": {
+      "text": "$$アドヴェント$$\n「The reaction's growing stronger...\n　So they've come close by, then.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_0cea115be526a319": {
+      "text": "Red Sea",
+      "status": "imported"
+    },
+    "stage0061_03:r_d36072babd12aeb4": {
+      "text": "Red Sea",
+      "status": "imported"
+    },
+    "stage0061_03:r_09ee921a85025fd3": {
+      "text": "Red Sea",
+      "status": "imported"
+    },
+    "stage0061_03:r_fae689f2a1057b61": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0061_03:r_91c6d0bb53854ecc": {
+      "text": "$$加持$$\n「Are you looking at the world born beyond the Red Sea?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_42a3149105314ab8": {
+      "text": "$$シンジ$$\n「It's not like that...\n　Not much good happened over there, anyway...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_62ecd978c667bd29": {
+      "text": "$$加持$$\n「Same as Katsuragi.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_d441e6cc908ac01b": {
+      "text": "$$シンジ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_b2aab8873350ea1f": {
+      "text": "$$加持$$\n「Katsuragi told me once.\n　Looking at the blue sea in this world reminds\n　her of the one she came from... 15 years ago.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_2c7af4c55d8ac938": {
+      "text": "$$シンジ$$\n「15 years ago...?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_653b741d07545dff": {
+      "text": "$$加持$$\n「《$$セカンドインパクト$$》...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_d584d4b5af55b1cf": {
+      "text": "$$シンジ$$\n「...!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_db0ee69ece206fcd": {
+      "text": "$$加持$$\n「Did you hear why Katsuragi joined NERV?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_f97e6925c9e37332": {
+      "text": "$$シンジ$$\n「No...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_422861e0b8d77d0c": {
+      "text": "$$加持$$\n「Katsuragi's father lived only in his own research,\n　in a dream world, they say. She hated a father\n　like that... maybe even despised him, I think.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_ef16bcaa2b0e0c45": {
+      "text": "$$シンジ$$\n（Same as me...）",
+      "status": "imported"
+    },
+    "stage0061_03:r_2b93cca10f1c36a8": {
+      "text": "$$加持$$\n「But during $$セカンドインパクト$$,\n　Katsuragi was saved by her father.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_7980fd37141d88d0": {
+      "text": "$$シンジ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_ac21212c36d2b9ad": {
+      "text": "$$加持$$\n「Surviving means a lot of different things.\n　You have to accept the sacrifice of the dead\n　and carry on their will.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_a26e2108358af7a4": {
+      "text": "$$加持$$\n「Even more so if you're alone.\n　You're not the only one it's hard for.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_a8118b2e37aa1382": {
+      "text": "$$シンジ$$\n「Why are you telling me this...?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_017a56991b7b8ca4": {
+      "text": "$$加持$$\n「I wonder why myself...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_ad3e1db3419665fb": {
+      "text": "$$アスカ$$\n「So this is where you were, Daddy's Boy!\n　Come on, let's go!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_0149e3a5f2e5ef78": {
+      "text": "$$シンジ$$\n「Go where...!?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_3ad10e705167a3fa": {
+      "text": "$$アスカ$$\n「It's $$第３新東京市$$!\n　Geminis is headed there!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_bdc546b199c80996": {
+      "text": "$$加持$$\n（A watcher, is it...\n　Their target's probably that after all...）",
+      "status": "imported"
+    },
+    "stage0061_03:r_22c8caf8c08c5119": {
+      "text": "$$第３新東京市$$",
+      "status": "imported"
+    },
+    "stage0061_03:r_9c13714b3efbc7a8": {
+      "text": "$$第３新東京市$$",
+      "status": "imported"
+    },
+    "stage0061_03:r_96f156e19b53fc09": {
+      "text": "$$第３新東京市$$",
+      "status": "imported"
+    },
+    "stage0061_03:r_feb0390bba7fe1fb": {
+      "text": "　\n　　\n　　　　　　　　　　　～ $$第３新東京市$$ ～",
+      "status": "imported"
+    },
+    "stage0061_03:r_8a78bcec22029401": {
+      "text": "$$シンジ$$\n「Mr. $$加持$$...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_f42017dfce31dea9": {
+      "text": "$$加持$$\n「Good work, $$シンジ$$.\n　You really outdid yourself today.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_ef7426919f628d8a": {
+      "text": "$$シンジ$$\n「I just did what I had to.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_9e994a4b926d9906": {
+      "text": "$$加持$$\n「But there are people your effort saved.\n　Look...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_ffae76d2a77abf5a": {
+      "text": "Citizen\n「Um, excuse me... are you the one who was\n　riding that purple robot?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_3ac462d37e5893ff": {
+      "text": "$$シンジ$$\n「Uh, yeah...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_fd6bdf7910d7d925": {
+      "text": "Citizen\n「Thank you, mister!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_d38be46e6cd7a5e5": {
+      "text": "Citizen\n「We were... in that building.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_3fe2078328753c16": {
+      "text": "$$シンジ$$\n「I see...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_c66844158d1ce600": {
+      "text": "Citizen\n「I was scared, but since you helped me, mister,\n　I managed to hold on somehow.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_d037ecbc1e348dc9": {
+      "text": "Citizen\n「Thank you so much.\n　Well then, excuse me.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_bcd53d14c4785426": {
+      "text": "$$シンジ$$\n「Thank you... huh...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_9ca55ea7feca954a": {
+      "text": "$$加持$$\n「You look happy.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_554ae12c4c170253": {
+      "text": "$$シンジ$$\n「Before... I got punched once\n　just for having piloted an EVA.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_fa59c6df081e6ae4": {
+      "text": "$$加持$$\n「That's rough.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_ca3edf3b8b52aedf": {
+      "text": "$$シンジ$$\n「...But if I get stronger and can protect\n　someone, I get thanked like that, huh.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_aa5d235c78ebe19f": {
+      "text": "$$加持$$\n「Yeah, that's right...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_0b3b19cddb871f90": {
+      "text": "$$加持$$\n「You're doing great, $$シンジ$$.\n　See... thanks to that, all your friends are safe.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_304e98dac43c9333": {
+      "text": "$$トウジ$$\n「Heeey! $$シンジ$$!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_b740d817a14afd3a": {
+      "text": "$$シンジ$$\n「$$トウジ$$, $$ケンスケ$$...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_40e4c010d1b35b4c": {
+      "text": "$$ケンスケ$$\n「Way to go, $$シンジ$$.\n　I got your whole performance on camera.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_c33abf00683a32bc": {
+      "text": "$$トウジ$$\n「Man, I still can't believe it, even now.\n　$$シンジ$$, fighting alongside $$甲児$$,\n　$n, and the others.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_3036adce91d1f4a8": {
+      "text": "$$トウジ$$\n「But hey, thanks.\n　My sister, who's in the hospital here,\n　pulled through thanks to $c too.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_019293cb83599509": {
+      "text": "$$シンジ$$\n（$$トウジ$$ and $$ケンスケ$$ and the others\n　don't know about\n　$$エタニティ・フラット$$ or $$バアル$$...）",
+      "status": "imported"
+    },
+    "stage0061_03:r_9b949b9281aaeef1": {
+      "text": "$$シンジ$$\n（I wonder if we can protect them...\n　Everyone... and this world...）",
+      "status": "imported"
+    },
+    "stage0061_03:r_b39a1dd705fe6cbf": {
+      "text": "$$ケンスケ$$\n「What's wrong, $$シンジ$$?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_c9016e3ab05470b0": {
+      "text": "$$シンジ$$\n「It's nothing.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_a684e6cea428e518": {
+      "text": "$$トウジ$$\n「All that evacuating's got me starving.\n　Is there any lunch left?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_cf907a4d5de8b5c9": {
+      "text": "$$シンジ$$\n「Yeah.\n　Guess I made a bit too much, after all.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_a5774604a0f00702": {
+      "text": "$$トウジ$$\n「Bring it on!\n　I'll polish off every last bit!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_b4fa30f33e84207f": {
+      "text": "$$ケンスケ$$\n「Alright, on to round two of lunchtime.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_9133b7e0b34de48f": {
+      "text": "$$トウジ$$\n「We'll go grab a bench over there!\n　We'll be waiting, $$シンジ$$!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_4ae9c4bd77494c4a": {
+      "text": "$$シンジ$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_7313331f4077d255": {
+      "text": "$$加持$$\n「Lively bunch, huh.\n　That's junior high boys for you.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_a84ab0c3c1ba44d4": {
+      "text": "$$シンジ$$\n「Yes...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_414e6e90094d1413": {
+      "text": "$$加持$$\n「I get why you're anxious, $$シンジ$$.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_83a9e41e15444c69": {
+      "text": "$$シンジ$$\n「Huh...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_09227dec2bd6f4d8": {
+      "text": "$$加持$$\n「But you're not the one fighting alone.\n　Everyone in $c, Katsuragi, me too...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_7b3a37f5039eb1f6": {
+      "text": "$$加持$$\n「And so is your father.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_cb6d9ee71c24b042": {
+      "text": "$$シンジ$$\n「$$加持$$, do you happen to know\n　where my father went?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_ddd97a6ef823929a": {
+      "text": "$$加持$$\n「I've got a rough idea.\n　Commander Ikari's probably working for this world.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_df349052cd9cdd0c": {
+      "text": "$$シンジ$$\n「My father too...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_a7ce9f908380694c": {
+      "text": "$$加持$$\n「Well then, I'll head back to HQ.\n　Oh... let $c know\n　Katsuragi might not be back today...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_de3cc1f733dcb073": {
+      "text": "$$シンジ$$\n「W-wait, what does that mean...!?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_0835ec3fff318aff": {
+      "text": "$$加持$$\n「Just kidding...\n　Well, who knows how it'll turn out, though.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_c32efc7394910997": {
+      "text": "$$シンジ$$\n（What a strange guy...）",
+      "status": "imported"
+    },
+    "stage0061_03:r_b01db8213417811e": {
+      "text": "$$レイ#333$$\n「Ikari...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_bc0273c6ae91c929": {
+      "text": "$$シンジ$$\n「Ayanami...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_8deea7c70d7a76e7": {
+      "text": "$$レイ#333$$\n「Everyone in $c is waiting.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_660c72e627d873c7": {
+      "text": "$$シンジ$$\n「Before we head back, $$トウジ$$ and I are finishing\n　the leftover lunch. Come too, Ayanami, if you'd like.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_5d8b67b5bd8ce190": {
+      "text": "$$レイ#333$$\n「I'll come.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_7cf3c91395139f5c": {
+      "text": "$$シンジ$$\n「Wait for me, okay?\n　I'll go get Shikinami and $n and the others.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_6ccd85652ef4ccf1": {
+      "text": "$$レイ#333$$\n「Yeah...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_fbe7bf7d854012a7": {
+      "text": "Gradient",
+      "status": "imported"
+    },
+    "stage0061_03:r_1f438885dbc1359e": {
+      "text": "Gradient",
+      "status": "imported"
+    },
+    "stage0061_03:r_2e59226caa35f6e5": {
+      "text": "Gradient",
+      "status": "imported"
+    },
+    "stage0061_03:r_5d7a3adb077ad934": {
+      "text": "$$ＳＥＥＬＥ$$\n「...That concludes our assessment.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_78d3b2a75e38d6f7": {
+      "text": "$$ゲンドウ$$\n「So the construction of Mark.06 continues, does it?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_8d461de418389bf8": {
+      "text": "$$ＳＥＥＬＥ$$\n「That is correct.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_5cb2acefa1e7c7fb": {
+      "text": "$$ゲンドウ$$\n「Understood.\n　Then we'll proceed with the schedule as is.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_59ce7fd9524ec8be": {
+      "text": "$$ＳＥＥＬＥ$$\n「That will do.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_33f67c683bda9203": {
+      "text": "$$ＳＥＥＬＥ$$\n「Both $$エタニティ・フラット$$ and $$バアル$$\n　are meaningless before our plan.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_476fb20ab9d18957": {
+      "text": "$$ＳＥＥＬＥ$$\n「Then, this concludes the regular report session.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_6be0d6139fac197c": {
+      "text": "$$ゲンドウ$$\n「...Perhaps it should be called a tribunal instead.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_df899b8031b4ca06": {
+      "text": "$$冬月$$\n「Mark.06...\n　There was never meant to be a plan past Unit-05.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_c5d048c7db7cac75": {
+      "text": "$$ゲンドウ$$\n「There's likely an undisclosed Apocrypha\n　of the Dead Sea Scrolls. $$ＳＥＥＬＥ$$ intends to\n　proceed with a scenario based on it.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_308e8ac66b1141ef": {
+      "text": "$$冬月$$\n「But surely even $$ＳＥＥＬＥ$$ has noticed\n　NERV's ultimate purpose...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_64f25294d71a5d55": {
+      "text": "$$ゲンドウ$$\n「Even if that's so,\n　we'll simply walk our own path.\n　Even if it means opposing the Providence of God...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_b6ca80db4741a62c": {
+      "text": "$$冬月$$\n「The South Pole of this world, huh...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_432a29155221625f": {
+      "text": "$$ゲンドウ$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0061_03:r_9f7c18d1ea1b55c9": {
+      "text": "$$冬月$$\n「The world we came from was pretty awful too, though.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_56688ad8e41b7b42": {
+      "text": "$$ゲンドウ$$\n「There are those who wished for that catastrophe.\n　A world even people cannot set foot in,\n　purified and cleansed of original sin.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_34a510533cb8a9f5": {
+      "text": "$$冬月$$\n「I'd rather have a chaotic world, tainted by people.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_1afedc9fa466f321": {
+      "text": "$$ゲンドウ$$\n「Chaos is nothing but a human impression.\n　The world is built entirely on harmony and order.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_9547b3241808695f": {
+      "text": "$$ゲンドウ$$\n「Indeed, something like $c has come into being.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_32b2a8ce24deeb9f": {
+      "text": "$$冬月$$\n「But there are also those who oppose it.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_c7ef92060bb8199d": {
+      "text": "$$ゲンドウ$$\n「That too could be called harmony.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_1be6d12f616f04e4": {
+      "text": "$$冬月$$\n「People's hearts disturb the world... is that it?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_80f948aeaed93de8": {
+      "text": "$$ゲンドウ$$\n「But that, too, will soon come to an end...\n　As the 12,000-year ring closes.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_0d24e9726dcc79f9": {
+      "text": "$$カヲル$$\n「.........」",
+      "status": "imported"
+    },
+    "stage0061_03:r_da648116badd491a": {
+      "text": "$$カヲル$$\n「Nice to meet you, Father...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_4e91ccecf1dd0f66": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0061_03:r_668b7114a3ac1d77": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0061_03:r_ef339c6f71e7560f": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0061_03:r_ce68dd10a19e01ea": {
+      "text": "$$ＡＧ$$\n「Well, well, if it isn't Lady $$レイ#333$$...\n　Fancy meeting you in a place like this.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_13ce8d4e4858b193": {
+      "text": "$$レイ#333$$\n「I... think I've gone strange.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_075101b23517fbaa": {
+      "text": "$$ＡＧ$$\n「I understand more or less what's happening.\n　It's odd for a robot like me to say so,\n　but that's a normal human reaction.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_13c2ae299018c9ee": {
+      "text": "$$レイ#333$$\n「Reaction?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_6f4f8dd80820f5e7": {
+      "text": "$$ＡＧ$$\n「That was a rather systematic way to put it.\n　Humans call that emotion, or the heart stirring.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_afa513b4815df4c9": {
+      "text": "$$レイ#333$$\n「Heart...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_6cf1e5ed68d98bd4": {
+      "text": "$$ＡＧ$$\n「Proof of that: thanks to you, Lady $$レイ#333$$,\n　a 100Z Z-Chip was born.\n　I'll add it to the squad's stock.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_e62eb587b8d34cb9": {
+      "text": "$$レイ#333$$\n「Am I happy?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_d72cc2c0739c9088": {
+      "text": "$$ＡＧ$$\n「Yes!\n　It must be just like you feel right now.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_ecf4e1c8c0f8d2d7": {
+      "text": "$$レイ#333$$\n「I see...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_e5a692ea5ce09cac": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0061_03:r_e793fc3ce3a0c28d": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0061_03:r_2be6c657d0e12c4b": {
+      "text": "D-Trader",
+      "status": "imported"
+    },
+    "stage0061_03:r_f89f6c6c4b076e16": {
+      "text": "　\n　　\n　　　　　　　　　　　～ D-Trader ～",
+      "status": "imported"
+    },
+    "stage0061_03:r_7569f965fff4d791": {
+      "text": "$$ＡＧ$$\n「Welcome back, Lady $$ミサト$$.\n　You came home quite late last night.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_b43bdba9393d4d68": {
+      "text": "$$ミサト$$\n「What...\n　I'm a grown adult too, so it's fine if I\n　want to stay out late or come home at dawn.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_3ec159d1a3492877": {
+      "text": "$$ＡＧ$$\n「No, no, I'm not scolding you for that.\n　I just wanted to give you this.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_4e2fbafa9ebef558": {
+      "text": "$$ミサト$$\n「What's this?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_bde2e27bac7e3317": {
+      "text": "$$ＡＧ$$\n「It's clam miso soup Master $$シンジ$$ made.\n　He asked me to give it to you, Lady $$ミサト$$,\n　whenever you showed up.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_631834aa1545ba7b": {
+      "text": "$$ＡＧ$$\n「For a hangover, clam amino acids\n　really do work wonders, you know.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_0cd6aab432ee5af7": {
+      "text": "$$ミサト$$\n「Thanks, $$シンジ$$-chan...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_c8b75f3bca245a85": {
+      "text": "$$ミサト$$\n「Sorry for taking it out on you too, $$ＡＧ$$.\n　...Last night's drinking almost turned into\n　a hassle, so I guess it went to my head.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_b26be73e3c0c8bed": {
+      "text": "$$ＡＧ$$\n「Man trouble?」",
+      "status": "imported"
+    },
+    "stage0061_03:r_1a4dc288e81719ee": {
+      "text": "$$ミサト$$\n「Secret.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_b8902c992035da79": {
+      "text": "$$ＡＧ$$\n「Well... Lady $$ミサト$$...\n　As an adult, you must have all sorts of stress, but...」",
+      "status": "imported"
+    },
+    "stage0061_03:r_df10ad0a71c307da": {
+      "text": "$$ＡＧ$$\n「But if you drink too much,\n　the aftermath can be quite rough.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_9293c52555ba1457": {
+      "text": "$$ミサト$$\n「Thanks for the advice, and the soup too.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_6c41647935e2574a": {
+      "text": "$$ＡＧ$$\n「You're welcome.\n　Now, I'll get back to my usual business.」",
+      "status": "imported"
+    },
+    "stage0061_03:r_ca702b5726ebd4da": {
+      "text": "$$ＡＧ$$\n「So-o-o then!!\n　Let's get pumped toda-a-ay... business, business!!」",
+      "status": "imported"
+    },
+    "stage0061_03:r_51ce1d8caa34c103": {
+      "text": "$$ミサト$$\n「Don't shout right in my ear!!」",
+      "status": "imported"
+    }
+  }
+}

@@ -1,0 +1,989 @@
+[
+ {
+  "jp": "破界事変",
+  "kind": "keyword",
+  "en": "Destruction Incident",
+  "status": "proposed",
+  "note": "from the Z2 subtitle 破界篇; recheck against akurasu"
+ },
+ {
+  "jp": "再世戦争",
+  "kind": "keyword",
+  "en": "Regeneration War",
+  "status": "proposed",
+  "note": "from the Z2 subtitle 再世篇"
+ },
+ {
+  "jp": "アビス",
+  "kind": "keyword",
+  "en": "Abyss",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "烙印",
+  "kind": "keyword",
+  "en": "Stigma",
+  "status": "official",
+  "note": "the game furiganas it as スティグマ"
+ },
+ {
+  "jp": "アイム",
+  "kind": "keyword",
+  "en": "Aim",
+  "status": "official",
+  "note": "character: Aim Liard"
+ },
+ {
+  "jp": "時空震動",
+  "kind": "keyword",
+  "en": "Spacequake",
+  "status": "proposed",
+  "note": "base term; Neo/Great/Bomb variants must match"
+ },
+ {
+  "jp": "頭翅",
+  "kind": "keyword",
+  "en": "Head Wing",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "堕天翅",
+  "kind": "keyword",
+  "en": "Fallen Wing",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "特別教育実習生",
+  "kind": "keyword",
+  "en": "Special Student Teacher",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "第２新東京市",
+  "kind": "keyword",
+  "en": "Neo Tokyo-2",
+  "status": "proposed",
+  "note": "Eva's 第3新東京市 is Tokyo-3; kept Neo- for the game's own city"
+ },
+ {
+  "jp": "新世時空震動",
+  "kind": "keyword",
+  "en": "Neo Spacequake",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "ＵＣＷ",
+  "kind": "keyword",
+  "en": "UCW",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ＡＤＷ",
+  "kind": "keyword",
+  "en": "ADW",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "大時空震動",
+  "kind": "keyword",
+  "en": "Great Spacequake",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "ＩＣＰＯ",
+  "kind": "keyword",
+  "en": "ICPO",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ＤＥＭ",
+  "kind": "keyword",
+  "en": "DEM",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ＳＲＴ",
+  "kind": "keyword",
+  "en": "SRT",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "Ｓ．Ｍ．Ｓ",
+  "kind": "keyword",
+  "en": "S.M.S.",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "徳川喜一郎",
+  "kind": "keyword",
+  "en": "Kiichiro Tokugawa",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ミスリル",
+  "kind": "keyword",
+  "en": "Mithril",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "姫",
+  "kind": "keyword",
+  "en": "Princess",
+  "status": "ambiguous",
+  "note": "also a nickname for Kaname; check per line"
+ },
+ {
+  "jp": "ファイヤバグ",
+  "kind": "keyword",
+  "en": "Firebug",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "ＺＥＸＩＳ",
+  "kind": "keyword",
+  "en": "ZEXIS",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ＥＣＳ",
+  "kind": "keyword",
+  "en": "ECS",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ブリタニア・ユニオン",
+  "kind": "keyword",
+  "en": "Britannia Union",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "ビーストハンター",
+  "kind": "keyword",
+  "en": "Beast Hunter",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "黒のカリスマ",
+  "kind": "keyword",
+  "en": "Black Charisma",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "くろがね屋",
+  "kind": "keyword",
+  "en": "Kurogane-ya",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "デュラハン",
+  "kind": "keyword",
+  "en": "Dullahan",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "アッシュフォード学園",
+  "kind": "keyword",
+  "en": "Ashford Academy",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ふもふもランド",
+  "kind": "keyword",
+  "en": "Fumofumo Land",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "リゴールガン",
+  "kind": "keyword",
+  "en": "Rigor Gun",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "多元戦争",
+  "kind": "keyword",
+  "en": "Multiverse War",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "アクシズ",
+  "kind": "keyword",
+  "en": "Axis",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "プラント",
+  "kind": "keyword",
+  "en": "PLANT",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ティターンズ",
+  "kind": "keyword",
+  "en": "Titans",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ブルーコスモス",
+  "kind": "keyword",
+  "en": "Blue Cosmos",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ＺＥＵＴＨ",
+  "kind": "keyword",
+  "en": "ZEUTH",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "エゥーゴ",
+  "kind": "keyword",
+  "en": "AEUG",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "トレーズ",
+  "kind": "keyword",
+  "en": "Treize",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "映画『ソレスタルビーイング』",
+  "kind": "keyword",
+  "en": "The Film 'Celestial Being'",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ブーストアップ",
+  "kind": "keyword",
+  "en": "Boost Up",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "ＤＧ",
+  "kind": "keyword",
+  "en": "DG",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "人革連",
+  "kind": "keyword",
+  "en": "Human Reform League",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "アストラギウス",
+  "kind": "keyword",
+  "en": "Astragius",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "プリベンター",
+  "kind": "keyword",
+  "en": "Preventer",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "脳量子波",
+  "kind": "keyword",
+  "en": "Quantum Brainwaves",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "オカルトフォーラム",
+  "kind": "keyword",
+  "en": "Occult Forum",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "ＵＮ",
+  "kind": "keyword",
+  "en": "UN",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "暗黒大陸",
+  "kind": "keyword",
+  "en": "Dark Continent",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "新世界大陸",
+  "kind": "keyword",
+  "en": "New World Continent",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "ギアス",
+  "kind": "keyword",
+  "en": "Geass",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "トロハチ",
+  "kind": "keyword",
+  "en": "Toro-Hachi",
+  "status": "proposed",
+  "note": "slang for Torrington Base"
+ },
+ {
+  "jp": "カタツムリ",
+  "kind": "keyword",
+  "en": "Snail",
+  "status": "proposed",
+  "note": "UC slang"
+ },
+ {
+  "jp": "赤服",
+  "kind": "keyword",
+  "en": "Red Coat",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "一年戦争",
+  "kind": "keyword",
+  "en": "One Year War",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "デュランダル",
+  "kind": "keyword",
+  "en": "Durandal",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ザフト",
+  "kind": "keyword",
+  "en": "ZAFT",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ＦＡＩＴＨ",
+  "kind": "keyword",
+  "en": "FAITH",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ホワイトファング",
+  "kind": "keyword",
+  "en": "White Fang",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "オペレーション・メテオ",
+  "kind": "keyword",
+  "en": "Operation Meteor",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ズール",
+  "kind": "keyword",
+  "en": "Zul",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "マーグ",
+  "kind": "keyword",
+  "en": "Marg",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "セカンドインパクト",
+  "kind": "keyword",
+  "en": "Second Impact",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "界震",
+  "kind": "keyword",
+  "en": "Boundary Quake",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "ヘテロダイン",
+  "kind": "keyword",
+  "en": "Heterodyne",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "２１世紀警備保障",
+  "kind": "keyword",
+  "en": "21st Century Security",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ネオ・プラネッツ",
+  "kind": "keyword",
+  "en": "Neo Planets",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "リアルバトル",
+  "kind": "keyword",
+  "en": "Real Battle",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ネクスタント",
+  "kind": "keyword",
+  "en": "Nextant",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "マーティアル",
+  "kind": "keyword",
+  "en": "Martial",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ＰＳ",
+  "kind": "keyword",
+  "en": "PS",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "秘密結社",
+  "kind": "keyword",
+  "en": "Secret Society",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "レッドショルダー",
+  "kind": "keyword",
+  "en": "Red Shoulder",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ミッションディスク",
+  "kind": "keyword",
+  "en": "Mission Disc",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "異能生存体",
+  "kind": "keyword",
+  "en": "Abnormal Survivor",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "新日本",
+  "kind": "keyword",
+  "en": "New Japan",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "アクエリアの舞う空",
+  "kind": "keyword",
+  "en": "The Sky Where Aquaria Dances",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "トゥウィンクルプロジェクト",
+  "kind": "keyword",
+  "en": "Twinkle Project",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "ファクトリー",
+  "kind": "keyword",
+  "en": "Factory",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "時空震動弾",
+  "kind": "keyword",
+  "en": "Spacequake Bomb",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "クメン",
+  "kind": "keyword",
+  "en": "Kummen",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "エルガン・ローディック",
+  "kind": "keyword",
+  "en": "Elgan Roddick",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "黒の英知",
+  "kind": "keyword",
+  "en": "Black Wisdom",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "ジ・エーデル・ベルナル",
+  "kind": "keyword",
+  "en": "The Edel Bernal",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ロゴス",
+  "kind": "keyword",
+  "en": "Logos",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "皇帝ルルーシュ",
+  "kind": "keyword",
+  "en": "Emperor Lelouch",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "スウィート・ウォーター",
+  "kind": "keyword",
+  "en": "Sweetwater",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "エリア１１",
+  "kind": "keyword",
+  "en": "Area 11",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ミーア・キャンベル",
+  "kind": "keyword",
+  "en": "Meer Campbell",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "カラバ",
+  "kind": "keyword",
+  "en": "Karaba",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "時空修復",
+  "kind": "keyword",
+  "en": "Spacetime Repair",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "カルロス",
+  "kind": "keyword",
+  "en": "Carlos",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "新帝国インペリウム",
+  "kind": "keyword",
+  "en": "New Empire Imperium",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "アロウズ",
+  "kind": "keyword",
+  "en": "A-Laws",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ヴェーダ",
+  "kind": "keyword",
+  "en": "Veda",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "宇宙航行母艦ソレスタルビーイング",
+  "kind": "keyword",
+  "en": "Celestial Being (mothership)",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ウィスパード",
+  "kind": "keyword",
+  "en": "Whispered",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "メリダ島",
+  "kind": "keyword",
+  "en": "Merida Island",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "次元獣",
+  "kind": "keyword",
+  "en": "Dimensional Beast",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "スフィア・リアクター",
+  "kind": "keyword",
+  "en": "Sphere Reactor",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "ユーサー",
+  "kind": "keyword",
+  "en": "Uther",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ガイオウ",
+  "kind": "keyword",
+  "en": "Gaiou",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "エタニティ・フラット",
+  "kind": "keyword",
+  "en": "Eternity Flat",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "スフィア",
+  "kind": "keyword",
+  "en": "Sphere",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "次元力",
+  "kind": "keyword",
+  "en": "Dimensional Power",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "アカシックレコード",
+  "kind": "keyword",
+  "en": "Akashic Record",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "メール",
+  "kind": "keyword",
+  "en": "Mail",
+  "status": "ambiguous",
+  "note": "also the ordinary word; check per line"
+ },
+ {
+  "jp": "インベーダー",
+  "kind": "keyword",
+  "en": "Invader",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ヨマコ",
+  "kind": "keyword",
+  "en": "Yomako",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "バアル",
+  "kind": "keyword",
+  "en": "Baal",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "黄昏の間",
+  "kind": "keyword",
+  "en": "Chamber of Twilight",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "アーカーシャの剣",
+  "kind": "keyword",
+  "en": "Sword of Akasha",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ＳＴＭＣ",
+  "kind": "keyword",
+  "en": "STMC",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "グレイス",
+  "kind": "keyword",
+  "en": "Grace",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "パトリック・ザラ",
+  "kind": "keyword",
+  "en": "Patrick Zala",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "地球連合",
+  "kind": "keyword",
+  "en": "Earth Alliance",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ユニウスセブン",
+  "kind": "keyword",
+  "en": "Junius Seven",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "宇宙世紀",
+  "kind": "keyword",
+  "en": "Universal Century",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "桜田栄二郎",
+  "kind": "keyword",
+  "en": "Eijiro Sakurada",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ガバールニウム",
+  "kind": "keyword",
+  "en": "Gabarnium",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "リリス",
+  "kind": "keyword",
+  "en": "Lilith",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "アンチスパイラル",
+  "kind": "keyword",
+  "en": "Anti-Spiral",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "クルジス",
+  "kind": "keyword",
+  "en": "Krugis",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ＫＰＳＡ",
+  "kind": "keyword",
+  "en": "KPSA",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "集合無意識",
+  "kind": "keyword",
+  "en": "Collective Unconscious",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ギアス嚮団",
+  "kind": "keyword",
+  "en": "Geass Order",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "イノベイド",
+  "kind": "keyword",
+  "en": "Innovade",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "コペルニクス会談",
+  "kind": "keyword",
+  "en": "Copernicus Conference",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "マルグリット",
+  "kind": "keyword",
+  "en": "Marguerite",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "インサラウム",
+  "kind": "keyword",
+  "en": "Insaraum",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "ＺＯＮＥ",
+  "kind": "keyword",
+  "en": "ZONE",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "アンブローン・ジウス",
+  "kind": "keyword",
+  "en": "Ambrone Zius",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "オリジン・ロー",
+  "kind": "keyword",
+  "en": "Origin Law",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "アニマスピリチア",
+  "kind": "keyword",
+  "en": "Anima Spiritia",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ゲペルニッチ",
+  "kind": "keyword",
+  "en": "Gepelnitch",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "リン・ミンメイ",
+  "kind": "keyword",
+  "en": "Lynn Minmay",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "メトロポリス",
+  "kind": "keyword",
+  "en": "Metropolis",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "ＤＥＣ",
+  "kind": "keyword",
+  "en": "DEC",
+  "status": "official",
+  "note": ""
+ },
+ {
+  "jp": "スフィアの反作用",
+  "kind": "keyword",
+  "en": "Sphere Backlash",
+  "status": "proposed",
+  "note": ""
+ },
+ {
+  "jp": "エスター",
+  "kind": "keyword",
+  "en": "Esther",
+  "status": "official",
+  "note": ""
+ }
+]
