@@ -14,6 +14,13 @@ tags and uploads require an explicit user request.
 
 ## Public reissue: 0.6.21 (2026-09-26)
 
+**Current download policy:** at the user's later request, the .19->.21 upgrade
+is withdrawn. The release retains four assets: the unchanged from-original
+xdelta and its three updated metadata files. The catalog likewise exposes only
+the original route. Earlier two-route publication checks below are historical.
+Existing clients with that two-route catalog cached must reset it to accept
+this authorized withdrawal; no runtime validation rules were changed.
+
 Reissued at 2026-09-26T09:44:12Z in a fresh public retro-trans/SRW-Z3 repository,
 release ID 397176829. All five uploaded assets match the original validated
 0.6.21 bytes, sizes and SHA-256 digests. No new build or installation.

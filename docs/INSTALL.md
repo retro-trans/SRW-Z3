@@ -3,10 +3,17 @@
 ## Current release: PS3 English 0.6.21
 
 Download [Retro Trans](https://github.com/retro-trans/retro-trans-tools) and use
-Automatic mode with a refreshed catalog. Select your own Japanese BLJS10256 ISO
-or the exact previously patched 0.6.19 ISO, then choose a new output filename.
-The catalog verifies the input and chooses the matching patch for 0.6.21.
-Keep your original image. Do not apply both patches in sequence.
+Automatic mode with a refreshed catalog. Select your own Japanese BLJS10256 ISO,
+then choose a new output filename. The catalog verifies the input and chooses
+the full patch for 0.6.21. Keep your original image. The 0.6.19 upgrade was
+withdrawn because this is the first release in the public repository.
+
+If you cached the initial two-route catalog, Retro Trans's immutable-history
+check rejects this withdrawal during refresh. Reset that cached catalog before
+refreshing, or use the full xdelta manually. Do not change the input hash checks.
+On Windows, close Retro Trans and rename
+`%LOCALAPPDATA%\RetroTrans\cache\catalog.json` to a backup name, then reopen
+and refresh. Leave downloaded patch files and your game images alone.
 
 For manual installation, use the [0.6.21 release](https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.21)
 and [its exact filenames, input/output hashes and runtime limitations](releases/0.6.21.md).

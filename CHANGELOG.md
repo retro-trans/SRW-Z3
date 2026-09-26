@@ -1,5 +1,19 @@
 # Changelog
 
+## Withdraw 0.6.19 upgrade from first public release (2026-09-26)
+
+- User requested original-only downloads for 0.6.21. Withdrew the 21,234,653-byte
+  .19->.21 upgrade from GitHub and its exact route from the Retro Trans catalog.
+  Local old assets, original metadata and backups are preserved for recovery.
+- Keep full-patch bytes and all source/output identities unchanged. Re-scope
+  manifest/validation/checksums to that route, retaining its existing successful
+  round-trip evidence; no new game build or installation. Update player docs.
+- This explicit withdrawal is not an immutable catalog extension: clients that
+  cached the former two-route entry must reset that cache before refresh, or use
+  manual full-patch mode. No shared validator weakened and no other routes changed.
+- Four remaining public assets match the original-only ready directory and pass
+  Retro Trans public-download validation. Catalog withdrawal commit b00b52dc.
+
 ## Fresh public repository and 0.6.21 reissue (2026-09-26)
 
 - User approved renaming/preserving the original repository as a private archive

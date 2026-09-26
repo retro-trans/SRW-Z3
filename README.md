@@ -21,9 +21,9 @@ This does not authorize publication or a repository visibility change.
 PS3 English release: [**0.6.21**](https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.21).
 See [installation, hashes and known limitations](docs/releases/0.6.21.md).
 Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools) in Automatic
-mode with your matching original Japanese ISO or exact 0.6.19 ISO, or download
-one xdelta from the release for manual application. Both routes produce the
-same 0.6.21 image. Physical PS3 compatibility is a hardware candidate, not a
+mode with your matching original Japanese ISO, or download the full xdelta
+from the release for manual application. The 0.6.19 upgrade was withdrawn;
+use your original game dump. Physical PS3 compatibility is a hardware candidate, not a
 blanket CFW/HEN guarantee.
 
 The public release preserves the existing 0.6.21 patch bytes; it is not a new

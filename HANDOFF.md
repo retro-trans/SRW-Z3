@@ -1,5 +1,20 @@
 # Handoff
 
+**2026-09-26 original-only public release withdrawal:** user requested removing
+the .19->.21 upgrade because .21 is the first public release. Retain only the
+unchanged from-original xdelta; regenerate the three metadata assets for that
+single route and remove only its upgrade catalog edge. Old full ready directory
+and all backup assets remain intact. Original-only preparation:
+work/retro-trans/ready_0.6.21_original_only/. Receipt:
+work/publication-audit-20260926/upgrade-withdrawal.json. Do not re-add the upgrade.
+Withdrawal completed: release397176829 now has four verified assets, and catalog
+commit b00b52dc02371f1255a6d3e19209f0d2d7f084e5 removes only the upgrade route.
+Existing Retro Trans caches containing the prior two-route catalog reject route
+removal through assert_immutable; reset that cached catalog or use manual mode.
+No validator changes, new build, installation or change to the full patch.
+Earlier five-asset/two-route completion below describes the initial publication,
+superseded by this explicitly requested withdrawal.
+
 **2026-09-26 PUBLIC repository / 0.6.21 / Retro Trans complete:** user approved
 the replacement. Original repository ID1345954230 is PRIVATE and archived as
 retro-trans/SRW-Z3-private-archive-20260926. New independent public SRW-Z3 has
