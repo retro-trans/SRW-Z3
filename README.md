@@ -1,11 +1,9 @@
 # Super Robot Taisen Z3: Jigoku-hen — translation project
 
-**Save converter moved to Retro Trans (2026-09-18, local/unreleased).**
-The maintained converter and compact Windows interface now live in
-`../retro-trans-tools/retro_trans/z3_saves.py` and the **Z3 saves** tab of
-Retro Trans. Choose PS3 to Vita, Vita to PS3, or both directions; check both
-save profiles before converting. The bundled guide is
-`../retro-trans-tools/retro_trans/resources/Z3-SAVE-CONVERSION.txt`.
+**Save converter: [Retro Trans](https://github.com/retro-trans/retro-trans-tools).**
+The maintained converter is in its **Z3 saves** tab. Choose PS3 to Vita,
+Vita to PS3, or both directions; check both save profiles before converting.
+Read the [save conversion guide](https://github.com/retro-trans/retro-trans-tools/blob/main/retro_trans/resources/Z3-SAVE-CONVERSION.txt).
 Supports decrypted Jigoku-hen RPCS3/Vita3K saves only; it does not decrypt,
 resign or install physical-console saves. Existing standalone 0.6.14 files
 and historical packagers remain as compatibility references. Develop and

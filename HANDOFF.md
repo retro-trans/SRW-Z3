@@ -1,16 +1,27 @@
 # Handoff
 
-**2026-09-26 fresh-public replacement authorized:** user approved preserving the
-old repository as retro-trans/SRW-Z3-private-archive-20260926 (PRIVATE, archived)
-and creating an independent public retro-trans/SRW-Z3. Publish only cleaned
-master ancestry, never old refs or source dumps. Reissue existing 0.6.21's five
-unchanged protocol assets; validate uploads before publication and enroll via
-Retro Trans catalog workflow. No new build/install. Release notes now distinguish
-historical patch bytes from the cleaned source snapshot and later unbuilt fixes.
-The receipt work/publication-audit-20260926/fresh-public-repository.json records
-both repository identities; old worktree remotes must point to the private
-archive, not the newly public destination. Earlier blocked entry below records
-why the original repository must never be made public.
+**2026-09-26 PUBLIC repository / 0.6.21 / Retro Trans complete:** user approved
+the replacement. Original repository ID1345954230 is PRIVATE and archived as
+retro-trans/SRW-Z3-private-archive-20260926. New independent public SRW-Z3 has
+ID1388978408, master branch and only cleaned ancestry. Old commit1cc692a is not
+accessible from the new repository. The preserved old Git/common-worktree origin
+now points to the private archive; do not push old refs to the public repository.
+Published v0.6.21 at09:44:12Z, release397176829, tag77cb47992c4716c3894ff3c186a5c7f390224656.
+All five uploaded assets match original local SHA256/size; public downloads were
+independently validated with Retro Trans0.3.0 release_record and Catalog.plan.
+Both original->.21 and exact.19->.21 routes pass. No new build/install: later
+source fixes and VI translations are NOT in this unchanged English PS3 build.
+Shared catalog run36233677979 failed on unrelated SRW-Z v0.9.85 manifest naming.
+Did not change that project's assets or weaken validation. Added only Z3's
+verified record via guarded catalog commit0208c41a47551a11e629f335a5deb285ca2ddd23,
+preserving all10 earlier records and passing assert_immutable. Live public raw
+catalog URL used by the app now contains Z3 and resolves both one-patch routes.
+Future global refresh still requires fixing that separate SRW-Z metadata issue.
+Receipts: ignored work/publication-audit-20260926/{fresh-public-repository.json,
+public-release-verification.json,public-download-validation.json,catalog-enrollment.json}.
+README/install/release notes distinguish historical binaries, clean source tag,
+unbuilt fixes and withdrawn historical assets. Earlier blocked entry below
+records why the original repository must never be made public.
 
 **2026-09-26 hosted cleanup complete; publication blocked by retained objects:**
 User explicitly requested public visibility and Retro Trans-compatible release.

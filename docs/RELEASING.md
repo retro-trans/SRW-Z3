@@ -12,7 +12,25 @@ private testing and public catalog enrollment are separate steps; publication,
 tags and uploads require an explicit user request.
 
 
-## Latest publication: 0.6.21 (2026-09-25)
+## Public reissue: 0.6.21 (2026-09-26)
+
+Reissued at 2026-09-26T09:44:12Z in a fresh public retro-trans/SRW-Z3 repository,
+release ID 397176829. All five uploaded assets match the original validated
+0.6.21 bytes, sizes and SHA-256 digests. No new build or installation.
+The new tag points to clean source snapshot 77cb479, not the historical build
+source; BUILD-MANIFEST.json retains the actual original source commit.
+Later source fixes and Vietnamese translations are not in the patch.
+Public asset downloads and both routes passed Retro Trans 0.3.0 validation.
+The live central catalog includes .21 via commit0208c41a. The general workflow
+run36233677979 failed on unrelated SRW-Z v0.9.85 manifest naming; the Z3-only
+addition retained all ten prior records and passed immutable-identity checks.
+That separate global-refresh issue must be resolved for future scheduled updates.
+The former repository remains private and archived under
+retro-trans/SRW-Z3-private-archive-20260926; old releases/tags were backed up
+locally and withdrawn. The historical publication records below are not
+statements of the fresh repository's visibility or available old downloads.
+
+## Historical private publication: 0.6.21 (2026-09-25)
 
 Published latest at 2026-09-25T16:50:04Z:
 https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.21.

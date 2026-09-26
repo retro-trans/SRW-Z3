@@ -1,6 +1,6 @@
 # Changelog
 
-## Fresh public repository and 0.6.21 reissue preparation (2026-09-26)
+## Fresh public repository and 0.6.21 reissue (2026-09-26)
 
 - User approved renaming/preserving the original repository as a private archive
   and creating a separate public SRW-Z3, avoiding retained old source objects.
@@ -8,6 +8,25 @@
   routes, withdrawn historical assets and the cleaned source-history boundary.
   Explicitly distinguish unchanged 0.6.21 binaries from later source-only fixes
   and Vietnamese work; no new game build or installation.
+- Original repository ID 1345954230 is private and archived as
+  SRW-Z3-private-archive-20260926. Fresh public SRW-Z3 is independent repository
+  ID 1388978408; old commit 1cc692a is not accessible from it. Only cleaned
+  master ancestry was uploaded. Preserved linked-worktree remotes now point at
+  the private archive, preventing accidental old-history pushes to the public one.
+- Published 0.6.21 at 2026-09-26T09:44:12Z (release 397176829), after checking
+  the five uploaded asset hashes/sizes and release notes against local inputs.
+  Tag points to clean snapshot 77cb479; original source identity stays in the
+  unchanged build manifest. Requested Retro Trans catalog refresh 36233677979.
+- Added current Retro Trans installation instructions; clearly separated the
+  old 0.6.3-era guide and historical private release records from public .21.
+- Independently downloaded/verified the public assets through Retro Trans's
+  release_record; its route planner resolves original and exact 0.6.19 to .21.
+  Global catalog refresh failed on unrelated SRW-Z v0.9.85 manifest naming.
+  Published only the verified Z3 record in tools catalog commit0208c41a, with
+  all ten previous records unchanged and immutable-identity checks passing.
+  The live catalog URL used by the desktop app now resolves both Z3 routes.
+  No SRW-Z release changes or validator bypass; the separate global-refresh
+  problem remains outside this release's scope.
 
 ## Public-repository preparation authorized (2026-09-26)
 

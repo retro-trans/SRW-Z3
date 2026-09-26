@@ -1,5 +1,26 @@
 # Installing the English patch
 
+## Current release: PS3 English 0.6.21
+
+Download [Retro Trans](https://github.com/retro-trans/retro-trans-tools) and use
+Automatic mode with a refreshed catalog. Select your own Japanese BLJS10256 ISO
+or the exact previously patched 0.6.19 ISO, then choose a new output filename.
+The catalog verifies the input and chooses the matching patch for 0.6.21.
+Keep your original image. Do not apply both patches in sequence.
+
+For manual installation, use the [0.6.21 release](https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.21)
+and [its exact filenames, input/output hashes and runtime limitations](releases/0.6.21.md).
+This release contains whole-ISO patches only, not a per-file installation ZIP.
+It reissues the existing English build; later source corrections and Vietnamese
+work are not included. Back up saves and close RPCS3 before replacing game files;
+follow the release notes for handling the game's stale installation cache.
+
+## Historical installation guide (0.6.3-era packages)
+
+The examples and coverage below describe withdrawn historical packages, not
+the current download names, coverage or hardware packaging. Retained for
+reference only; use the current release notes above for 0.6.21.
+
 **Physical PS3 warning (2026-09-14):** the legacy RPCS3 ISO packages are not
 console-validated. Local 0.6.3/0.6.10 images have plain-ELF EBOOT packaging and
 stale disc-region/UDF metadata; 0.6.10 was reported rejected on CFW. Do not
