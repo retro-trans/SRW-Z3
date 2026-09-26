@@ -1,0 +1,542 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0012_04:r_caaab7bad760e16d": {
+      "text": "Binh sĩ Firebug\n「Làm gì vậy!?\n　Mau chạy đi!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_99b162aa6aa286a2": {
+      "text": "Binh sĩ Firebug\n「X-xin lỗi!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_58fb02434a1c40b2": {
+      "text": "$$ヴィラル$$\n「Chậc!\n　Thì ra lũ đó là khủng bố!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_1c0f94acd5a8a143": {
+      "text": "$$竜馬$$\n「$$甲児$$!\n　Bọn tôi sẽ đưa CLB Rugby thoát khỏi đây!\n　Mấy đứa cũng sơ tán đi!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_1263541f4071624e": {
+      "text": "$$甲児$$\n「Rõ ạ!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_3bc300bbdc277d82": {
+      "text": "$$かなめ$$\n「Ơ-ơ...?\n　Không thấy $$宗介$$ đâu cả...」",
+      "status": "needs_review"
+    },
+    "stage0012_04:r_38762a09460d8b6b": {
+      "text": "$n\n「Nói mới nhớ...!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_7ab28e70b4d4f641": {
+      "text": "$$かなめ$$\n「Thật tình!\n　Sao cứ lúc quan trọng là tên đó biến mất vậy!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_b05f6a6e8f3d9b24": {
+      "text": "Binh sĩ Firebug\n「!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_ec335e69f984b8b3": {
+      "text": "Binh sĩ Firebug\n「!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_0abcaf0c31978670": {
+      "text": "Binh sĩ Firebug\n「Nghe thấy không?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_1d6bc48b7f246730": {
+      "text": "Binh sĩ Firebug\n「À... ừ...!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_1af20fccc3c53cfc": {
+      "text": "Binh sĩ Firebug\n「Giọng nói đó... tính khí mạnh mẽ đó...」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_f951916061232dcd": {
+      "text": "Binh sĩ Firebug\n「Cô bé đó có thể trở thành 『《$$姫$$》』 thứ hai!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_4d863c3fb88a4c39": {
+      "text": "$$かなめ$$\n「Nó đang đến đây...!?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_44f4742c3dcce39a": {
+      "text": "$$スズネ$$\n「Chạy đi, Chidori!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_9e701cdeb3842c21": {
+      "text": "$n\n「Bộc phát!!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_6fd81f4abebe60c5": {
+      "text": "Binh sĩ Firebug\n「Tốc độ gì thế này!?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_da2132b5038ec737": {
+      "text": "$n\n「Cậu có bị thương không, Chidori!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_495d61d3ec7e16f2": {
+      "text": "$$かなめ$$\n「K-không...!\n　Cảm ơn cậu, $n!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_5cd353758cfe474d": {
+      "text": "$$スズネ$$\n「$n!\n　Gọi $$ジェニオン$$ đi!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_a653c8dec4c0f06f": {
+      "text": "$n\n「Ư...」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_86d493e37a9799a7": {
+      "text": "$$スズネ$$\n「Sao vậy!?\n　Em không khỏe à!?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_09d0fcc600cdd3df": {
+      "text": "$n\n「Em xin lỗi, cô...\n　Có vẻ ngay sau khi dùng $$ブーストアップ$$,\n　em không thể gọi $$ジェニオン$$ ra được.」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_182faded068c15ed": {
+      "text": "$$アルト$$\n「Nguy rồi!\n　Cứ thế này thì...!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_9c206d19bfda4bd5": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo!!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_6e558bc69acf5bf3": {
+      "text": "$$かなめ$$\n「$$ボン太くん#robot$$!?\n　Lại còn cầm súng nữa!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_d60d0818e965232f": {
+      "text": "$$スズネ$$\n「Ơ... ơ...!?\n　$$ボン太くん#robot$$ sẽ chiến đấu với khủng bố sao!?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_5b23687574286204": {
+      "text": "$$ボス$$\n「Có là gấu cũng không làm nổi đâu!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_6fd86c96891ea942": {
+      "text": "$$ヌケ$$\n「Nhìn kỹ đi, $$ボス$$!\n　Đó là chuột đấy!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_43e4e548c0b28376": {
+      "text": "$$ムチャ$$\n「Cậu nói gì vậy!\n　Đó là gấu koala mà!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_d80a9688790ed583": {
+      "text": "$$クラン$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_708bea61e3c43ada": {
+      "text": "$$ミシェル$$\n「Sao vậy, $$クラン$$!?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_7b6f159eeaf4de0f": {
+      "text": "$$クラン$$\n「$$ボン太くん#robot$$... dễ thương quá...」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_0827963cfd706e8d": {
+      "text": "$$ミシェル$$\n「Giờ đâu phải lúc nói chuyện đó!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$アルト$$\n「T-tôi chẳng hiểu gì cả,\n　nhưng nếu cái cậu Bonta đó muốn chiến đấu\n　thì cứ giao chỗ này cho cậu ta!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_3f4035fd9db81258": {
+      "text": "$$クラン$$\n「Đừng gọi sai, $$アルト$$!\n　Đó là $$ボン太くん#robot$$!\n　Phải thêm chữ 『kun』 vào, đồ trán dô!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_567b361a454c4b73": {
+      "text": "$$アルト$$\n「V-vâng!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_d22851aaafbbf8fc": {
+      "text": "$$スズネ$$\n「Quarter cũng sắp đến rồi!\n　Chúng ta cũng sơ tán thôi!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_352534f64413d954": {
+      "text": "$$かなめ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_79f2664edb1af798": {
+      "text": "$$さやか$$\n「Đi thôi, $$かなめ$$!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$かなめ$$\n「Ừ-ừ...!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_1c5aa0d15ae24846": {
+      "text": "$$かなめ$$\n（Chẳng lẽ $$ボン太くん#robot$$ đó là...）",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_53bb64ee17750ee2": {
+      "text": "Binh sĩ Firebug\n「Cái gì thế này!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_7a7add80fde475ba": {
+      "text": "Binh sĩ Firebug\n「Lông xù, dễ thương quá!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_b2befefdbed1393d": {
+      "text": "$$ボン太くん#pilot$$\n「Fumofu! Fumomo, fumofumo!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_2103f6df2ea2e447": {
+      "text": "Binh sĩ Firebug\n「...Hiểu không?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_a12e3e130d896ff7": {
+      "text": "Binh sĩ Firebug\n「Không hiểu!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ボン太くん#pilot$$\n「Fumofumo! Fumoffu! Fumofu!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_91bf33c27ad39f0a": {
+      "text": "Binh sĩ Firebug\n「Chẳng hiểu lắm,\n　nhưng có vẻ nó muốn đánh với bọn ta.」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_ee220318b96ab538": {
+      "text": "Binh sĩ Firebug\n「Đó là câu trả lời của nó sao...!\n　Vậy thì bọn ta sẽ tiếp!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_ce1b55e526b6277a": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffu!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_c304df6888eb78f7": {
+      "text": "$$竜馬$$\n「Để chúng mày chờ rồi!\n　Lần này tao sẽ dùng robot đấu với chúng mày!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_c26958634526e597": {
+      "text": "$$竜馬$$\n「Còn mày bên kia là cái gì?\n　Gấu hay chuột?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_cdb750c9d380881a": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_95fda74613c97b39": {
+      "text": "$$竜馬$$\n「Thôi kệ!\n　Ít nhất tao cũng biết mày không phải kẻ địch!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_1956994937f8171e": {
+      "text": "$$竜馬$$\n「Tao đến đây, lũ khủng bố!\n　Chúng mày sẽ là màn kết thúc chuyến đi tu luyện của tao!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_48f49f6728c15612": {
+      "text": "$$竜馬$$\n「Khá lắm, Fumo-suke!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_f02c37d91387d0ad": {
+      "text": "Binh sĩ Firebug\n「Không ổn...!\n　Cứ thế này thì chúng càng được đà!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_6bbd5a3c5afb87e0": {
+      "text": "Binh sĩ Firebug\n「Đã vậy thì điều động toàn bộ lực lượng!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_9796b3efa401a303": {
+      "text": "$$ボン太くん#pilot$$\n「Fumofu?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_643b6eebfc0186b3": {
+      "text": "$$竜馬$$\n「Định lấy số đông áp đảo à.」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_291280e5f7eb9d70": {
+      "text": "$$ボン太くん#pilot$$\n「Fumofumo!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_32eb462c1b4999cb": {
+      "text": "$$竜馬$$\n「Ừ, viện binh của chúng ta cũng đến rồi.」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_1f4337d6d393fc37": {
+      "text": "$$甲児$$\n「Anh có sao không, anh $$竜馬$$!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_4740e748fae085ee": {
+      "text": "$$竜馬$$\n「Cậu nghĩ tôi thua được cái đám đó sao?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_b76524cd840e1d37": {
+      "text": "$$甲児$$\n「Em lo thừa rồi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_730ffe18400abfc2": {
+      "text": "$n\n「Người lúc nãy đang lái\n　chiếc Getter Robo màu đen đó à.」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_ffe0fca26da5cd38": {
+      "text": "$$スズネ$$\n「Nhưng cô nghe nói Getter Robo cần ba người lái mà...」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_bfb27f9eb2f7073e": {
+      "text": "$$甲児$$\n「Nói mới nhớ, anh $$竜馬$$...\n　Anh $$隼人$$, anh $$弁慶$$, $$號$$ và mọi người đâu rồi?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_859dfa27bcaafe30": {
+      "text": "$$竜馬$$\n「Không biết.」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_71ebf05996a4b0fd": {
+      "text": "$$甲児$$\n「Ơ...!?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_6214c11b1bca811e": {
+      "text": "$$竜馬$$\n「Tôi đang trên đường tu luyện.\n　Những người khác ra sao chẳng liên quan đến tôi.」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_8eaf6f3098ffed12": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_cf507214fe955d75": {
+      "text": "$$竜馬$$\n「Biết rồi!\n　Mau dọn dẹp đám đó thôi!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_2113dcbabdfc758a": {
+      "text": "$$竜馬$$\n「Lên nào, Fumo-suke!\n　Đập tan bọn chúng đi!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffu!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_6a74519e1fc29c4b": {
+      "text": "$$カミーユ$$\n「Anh $$竜馬$$... hiểu được lời con vật đó sao?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_5b992878fee054b5": {
+      "text": "$$葵$$\n「Mình nói thì cũng hơi kỳ,\n　nhưng đó là bản năng hoang dã sao?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$オットー$$\n「Dù sao đi nữa!\n　Hạ bọn chúng thì Tokyo cũng yên ổn hơn phần nào!\n　Truyền lệnh tấn công đến toàn bộ đơn vị!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ミヒロ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_20cf167c0ec0d4d5": {
+      "text": "$$レイアム$$\n「Thiếu úy $$ミヒロ$$, sao không nhắc lại mệnh lệnh!?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_b591d812c96c6c99": {
+      "text": "$$ミヒロ$$\n「X-xin lỗi!\n　Tôi mải ngắm $$ボン太くん#robot$$ quá!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_e350fa099c1ab072": {
+      "text": "$$レイアム$$\n「...Có vẻ đài chỉ huy của Quarter cũng vậy...」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffu!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_c33bd700553abf91": {
+      "text": "$$モニカ$$\n「Xác nhận toàn bộ quân địch đã bị tiêu diệt.」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_feee5c91826230e1": {
+      "text": "$$ジェフリー$$\n「Vậy là đã giải quyết được\n　đám khủng bố nhắm vào Tokyo rồi.」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_bccc48e1964ad22d": {
+      "text": "$$キャシー$$\n「A... $$ボン太くん#robot$$ đi mất rồi!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_f8736aaaa216c766": {
+      "text": "$$ミーナ#182$$\n「$$モニカ$$, chụp ảnh $$ボン太くん#robot$$ đàng hoàng chưa!?」",
+      "status": "needs_review"
+    },
+    "stage0012_04:r_d1ec2522c87c361d": {
+      "text": "$$モニカ$$\n「Tất nhiên rồi!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_3599f0a4343fd95c": {
+      "text": "$$ラム$$\n「Lát nữa nhớ in ra nhé!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_3bc7834a5bf3ee76": {
+      "text": "$$ボビー$$\n「Đừng quên phần của tôi nữa nhé!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_366814efdc8b5800": {
+      "text": "$$ジェフリー$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_9be1a4c10bb62515": {
+      "text": "$$ジェフリー$$\n「...Thỉnh thoảng thế này cũng được...」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_94a88c90e557e16e": {
+      "text": "???\n「Hừ hừ hừ... $$兜甲児$$.\n　Đừng tưởng thế là xong nhé.」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_1c208ca0cbf26f28": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffu! Fumo, fumofu!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_5b7ee307a700171a": {
+      "text": "$$ボン太くん#pilot$$\n「Fumomo, fumofu! Fumomo, mofumo!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_8d8f065c932da30a": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo! Fumofumo, fumomo, mofu!\n　Fumoffu!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_f5432119677514f7": {
+      "text": "$$竜馬$$\n「Thời đại hay thế giới có đổi thay,\n　thì lũ phiền phức vẫn chẳng thay đổi nhỉ!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_4e5c8e989c4a7691": {
+      "text": "$$竜馬$$\n「Nhưng tao cũng thừa máu chiến!\n　Tiếp chúng mày một trận chẳng thành vấn đề!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_adec86483b13599a": {
+      "text": "$$竜馬$$\n「Lên nào, Fumo-suke!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_2cf701bbcde3ec13": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_c17c58fdba72005e": {
+      "text": "$$竜馬$$\n「Hừ... hăng hái lắm đấy!\n　Có vẻ tao với mày sẽ thành một cặp ăn ý!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_1fe8564d2b959317": {
+      "text": "$$甲児$$\n「Dám phá đợt tập huấn quý giá của chúng ta sao!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_f527e012803f7f1c": {
+      "text": "$$甲児$$\n「Thay mặt các thành viên CLB Rugby,\n　ta sẽ xử lý chúng mày!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_4b1247bd3ca4905d": {
+      "text": "$$アルト$$\n「Chúng ta không có thời gian để lo chuyện các ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_00c55e25f87b71d0": {
+      "text": "$$アルト$$\n「Mau giải quyết cho xong,\n　rồi tiếp tục tập huấn thôi!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_338f3b27e51dcc41": {
+      "text": "$$正太郎$$\n「Cuối cùng cũng dồn được các ngươi vào đường cùng, lũ khủng bố!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_d91d4bc2d52b61c4": {
+      "text": "$$正太郎$$\n「Đi thôi, $$鉄人$$!\n　Đánh bại bọn chúng, bảo vệ Tokyo!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_0c8ea89b07432421": {
+      "text": "$$ワッ太$$\n「Không mau hạ các ngươi rồi về trường\n　thì mình lại bị cô $$美重子$$ mắng mất!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_4dbfba00ba7744ee": {
+      "text": "$$ワッ太$$\n「Lên nào, lũ xấu xa!\n　Ta sẽ trút hết bực bội vì học phụ đạo lên các ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_be100a32b731708d": {
+      "text": "$$カミーユ$$\n「Nhưng bộ đồ hình con vật kỳ lạ đó...\n　Dù đã được cải tạo, sức chiến đấu vẫn thật đáng nể.」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_702f82442fcec8a9": {
+      "text": "$$カミーユ$$\n「...Chẳng lẽ người đang mặc nó là...」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_b1e38da4e8775ffe": {
+      "text": "$$葵$$\n「Thế giới đã thay đổi mà vẫn còn những kẻ như thế này...\n　Cứ như lũ gián vậy nhỉ?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$葵$$\n「Vậy thì đi diệt côn trùng gây hại thôi!\n　Kẻ nào sẵn sàng thì cứ xông vào!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$キリコ$$\n（Con vật đó...\n　Bị vẻ ngoài đánh lừa thì sẽ phải trả giá...）",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_3dad695c99e9e052": {
+      "text": "$$キリコ$$\n（Nó đã chẳng khác nào một AS cỡ nhỏ.）",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_66d4ae3a21caf881": {
+      "text": "$$クルツ$$\n「Chị đại...!\n　Người trong bộ đồ đó là...」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_0c18da7b3a37825d": {
+      "text": "$$マオ$$\n「Ừ, chắc là cậu ta rồi...」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_63249745ffae61b6": {
+      "text": "$$クルツ$$\n「Thật tình, cái cậu trung sĩ u ám đó\n　toàn làm những chuyện không ai tưởng tượng nổi!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_abdb034ae8509702": {
+      "text": "$$スズネ$$\n「...A... bay lên rồi...\n　Nhảy lên, ngã lăn ra...」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_3ff2e21207d1d1d3": {
+      "text": "$$スズネ$$\n「...Dễ thương quá...」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_e51ecf6d6aa42e75": {
+      "text": "$n\n「Cô $$スズネ$$...?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_47ddabb7b60131c2": {
+      "text": "$$スズネ$$\n「C-cô đâu có nhìn $$ボン太くん#robot$$ gì đâu!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_b025267f22788233": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_ec1a06a7023bf72c": {
+      "text": "$$スズネ$$\n「S-sao vậy, $n?」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_8805f96e52aaa462": {
+      "text": "$n\n「Không... em chỉ nghĩ cô cũng là phụ nữ thôi...」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_124591cb154fae64": {
+      "text": "$$スズネ$$\n「Thật là! Đừng trêu người lớn nữa,\n　tập trung chiến đấu đi!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$カツ$$\n「Uooo, xung phong!\n　Gung-ho! Gung-ho! Gung-ho!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_4bf9b05b5f948170": {
+      "text": "$$エマ$$\n「K-$$カツ$$... cậu...」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_eaa52d152f444bfd": {
+      "text": "$$マオ$$\n「Xin lỗi, trung úy $$エマ$$.\n　Hình như tôi hơi quá tay rồi.」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_b4bc9e9435b58e6f": {
+      "text": "$$カツ$$\n「Lũ khốn kiếp!\n　Cho tao thấy khí phách của chúng màyyyy!!」",
+      "status": "reviewed"
+    },
+    "stage0012_04:r_a9227573166977a9": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

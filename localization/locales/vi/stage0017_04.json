@@ -1,0 +1,570 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0017_04:r_caaab7bad760e16d": {
+      "text": "$$ブロッケン$$\n「Ha ha ha, $$錦織つばさ$$!\n　Hãy run sợ đi!\n　Ta sẽ lấy mạng ngươi để rửa hận cho Dr. Hell!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_99b162aa6aa286a2": {
+      "text": "$$つばさ$$\n「Lũ chẳng biết ý tứ gì cả.\n　Khó khăn lắm chị $$静子$$ mới tới thăm Atami,\n　vậy mà lại gặp cảnh này.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_58fb02434a1c40b2": {
+      "text": "$$クロス$$\n「Bà chủ... để phòng bất trắc,\n　có cần đưa bạn của bà đi sơ tán không ạ?」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_1c0f94acd5a8a143": {
+      "text": "$$静子$$\n「Không cần lo đâu, ông $$クロス$$.\n　Có vẻ mọi chuyện sẽ ổn thôi.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_1263541f4071624e": {
+      "text": "$$安$$\n「Đúng vậy!\n　Cậu con trai đáng tự hào của bà đã tới rồi kìa!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_3bc300bbdc277d82": {
+      "text": "$$タケル$$\n「$$ブロッケン伯爵$$!\n　Dừng tấn công ngay!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_38762a09460d8b6b": {
+      "text": "$$ブロッケン$$\n「$$ゴッドマーズ$$!\n　$$明神タケル$$ đã tới sao!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_7ab28e70b4d4f641": {
+      "text": "$$ブロッケン$$\n「Ta cũng có không ít thù hận với ngươi!\n　Ta sẽ thiêu ngươi cùng cả Atami này!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$ナオト$$\n「Địch tuyên bố vậy đấy.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_ec335e69f984b8b3": {
+      "text": "$$アキラ$$\n「Chủ nhân Dr. Hell đã bị đánh bại\n　mà hắn vẫn còn hăng thế, thật tình!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_0abcaf0c31978670": {
+      "text": "$$ナオト$$\n「Vậy ta ra tiếp hắn vài chiêu cho vui nhé.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_1d6bc48b7f246730": {
+      "text": "$$ミカ$$\n「$$ナオト$$, $$アキラ$$!\n　Nghiêm túc vào đi!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_1af20fccc3c53cfc": {
+      "text": "$$ケンジ$$\n「$$ミカ$$ nói đúng.\n　Không có tinh thần chiến đấu thì tôi cho hai cậu\n　quay về làm nhiệm vụ quan sát hố đen đấy.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_f951916061232dcd": {
+      "text": "$$アキラ$$\n「Tha cho bọn tôi đi...!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_4d863c3fb88a4c39": {
+      "text": "$$ナオト$$\n「Bọn tôi vẫn hợp với việc đánh bọn ác hơn mà.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_44f4742c3dcce39a": {
+      "text": "$$ロゼ$$\n「Vậy thì hăng hái lên.\n　Chúng ta đi yểm trợ Mars.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_9e701cdeb3842c21": {
+      "text": "$$アキラ$$\n「Chậc... $$ロゼ$$ đúng là\n　thành đội phó Đội Crusher luôn rồi...」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_6fd81f4abebe60c5": {
+      "text": "$$ロゼ$$\n「Mars!\n　Những tượng người khổng lồ đó\n　đang hoạt động theo lệnh của pháo đài bay!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_da2132b5038ec737": {
+      "text": "$$タケル$$\n「Rõ rồi, $$ロゼ$$!\n　Để bảo vệ Atami, tôi sẽ hạ Ghoul!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_495d61d3ec7e16f2": {
+      "text": "$$甲児$$\n「Để cậu đợi rồi, $$タケル$$!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_5cd353758cfe474d": {
+      "text": "$$タケル$$\n「$$甲児$$!\n　Cả mọi người nữa!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_a653c8dec4c0f06f": {
+      "text": "$$ロゼ$$\n「Tập hợp được chừng này lực lượng\n　thì chẳng còn gì phải sợ nữa nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_86d493e37a9799a7": {
+      "text": "$$葵$$\n「Ồ... $$ロゼ$$ cũng ở Đội Crusher cơ à.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_09d0fcc600cdd3df": {
+      "text": "$$朔哉$$\n「Hóa ra cô tới Trái Đất\n　để đuổi theo $$タケル$$ yêu dấu nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_182faded068c15ed": {
+      "text": "$$エイーダ$$\n「Anh $$朔哉$$ nghe có vẻ ghen tị đấy.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_9c206d19bfda4bd5": {
+      "text": "$$朔哉$$\n「Cô nghĩ là tại ai hả!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_6e558bc69acf5bf3": {
+      "text": "$$正太郎$$\n「Đến đây thôi ạ.\n　Bảo vệ Atami mới là việc cần làm trước.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_d60d0818e965232f": {
+      "text": "$$ワッ太$$\n「$$正太郎$$ nói đúng đấy.\n　Nhìn kìa, đến $$オックス$$ cũng ngán ngẩm rồi.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_5b23687574286204": {
+      "text": "$$ブラックオックス#pilot$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_6fd86c96891ea942": {
+      "text": "$$朔哉$$\n「Chẳng lẽ mình...\n　là cây hài của Team D thật sao...」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_43e4e548c0b28376": {
+      "text": "$$ジョニー$$\n「Tốt quá còn gì, $$朔哉$$.\n　Ngoài Boost Nova Knuckle,\n　giờ cậu còn có thêm một vai trò nữa.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_d80a9688790ed583": {
+      "text": "$$朔哉$$\n「Im đi!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_708bea61e3c43ada": {
+      "text": "$n\n「Nhưng thật bất ngờ...\n　$$ドラゴンズハイヴ$$ lại biến thành pháo đài di động.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_7b6f159eeaf4de0f": {
+      "text": "$$スズネ$$\n（$n chiến đấu để báo thù...\n　Vậy rốt cuộc em ấy định chiến đấu với ai...）",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_0827963cfd706e8d": {
+      "text": "$n\n「Cô $$スズネ$$...?」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$スズネ$$\n「X-xin lỗi...!\n　Chắc cô cũng mải ngắm\n　dáng vẻ hùng dũng của $$ドラゴンズハイヴ$$ mất rồi!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_3f4035fd9db81258": {
+      "text": "$$ブロッケン$$\n「Ta đợi mãi rồi, $$兜甲児$$ và đồng bọn!\n　Ngay trước mắt các ngươi, ta sẽ khiến Atami này...」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_567b361a454c4b73": {
+      "text": "$$甲児$$\n「Câm miệng, $$ブロッケン$$!\n　Ta không muốn nghe điệp khúc thù hận cũ rích của ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_d22851aaafbbf8fc": {
+      "text": "$$ブロッケン$$\n「Cái gì!\n　Dám phớt lờ lời nói của ta sao...!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_352534f64413d954": {
+      "text": "$$甲児$$\n「Chuẩn bị đi!\n　Dám kéo người vô can vào chiến trận,\n　ta sẽ đánh ngươi tơi bời ngay tại đây!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_79f2664edb1af798": {
+      "text": "$$田中司令$$\n「Ồ... mọi người đều hăng hái quá nhỉ.\n　Vậy xin ngài $$Ｆ．Ｓ．$$ ra lệnh tấn công.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$Ｆ．Ｓ．$$\n「Các bạn, giờ chiến đấu đã đến.\n　Hãy dùng sức mạnh của mình xua tan màn sương tà ác\n　đang tìm cách bao phủ thế giới này.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_1c5aa0d15ae24846": {
+      "text": "$$柿小路$$\n「Quả là ngài $$Ｆ．Ｓ．$$, biệt danh Fog Sweeper...\n　Lời lẽ thật oai phong.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_53bb64ee17750ee2": {
+      "text": "$$タケル$$\n「Đi thôi, mọi người!\n　Mục tiêu là Ghoul của $$ブロッケン伯爵$$!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_7a7add80fde475ba": {
+      "text": "$$甲児$$\n「Lên nào!\n　Tôi nhất định sẽ bảo vệ Atami,\n　thành phố mà ông nội yêu quý!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_b2befefdbed1393d": {
+      "text": "$$ブロッケン$$\n「Ư ư!\n　Lũ đó lại mạnh hơn nữa sao!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_2103f6df2ea2e447": {
+      "text": "$$あしゅら$$\n「Rút lui đi, $$ブロッケン$$.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_a12e3e130d896ff7": {
+      "text": "$$ブロッケン$$\n「Nhưng...!\n　Nếu rút lui lúc này,\n　lòng kiêu hãnh của $$ブロッケン$$ ta sẽ...!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_b6f7b219eb4bd64b": {
+      "text": "$$あしゅら$$\n「Ta bảo rút lui, $$ブロッケン$$.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_91bf33c27ad39f0a": {
+      "text": "$$ブロッケン$$\n「Ư...」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_ee220318b96ab538": {
+      "text": "$$あしゅら$$\n「Nơi đó sắp trở thành chiến trường mới.\n　Muốn bị cuốn vào rồi rơi xuống địa ngục lần nữa\n　thì cứ ở lại đấy.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_ce1b55e526b6277a": {
+      "text": "$$ブロッケン$$\n「Đ-được rồi.\n　Ta sẽ làm theo chỉ thị của ngươi.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_c304df6888eb78f7": {
+      "text": "$$ブロッケン$$\n「Chết tiệt...!\n　Tình hình đang bất lợi cho ta sao...!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_c26958634526e597": {
+      "text": "$$あしゅら$$\n「Rút lui đi, $$ブロッケン$$.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_cdb750c9d380881a": {
+      "text": "$$ブロッケン$$\n「Ngươi nói gì thế, $$あしゅら$$!\n　Ta vẫn chưa thua mà!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_95fda74613c97b39": {
+      "text": "$$あしゅら$$\n「Ta bảo rút lui, $$ブロッケン$$.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_1956994937f8171e": {
+      "text": "$$ブロッケン$$\n「Ư...」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_48f49f6728c15612": {
+      "text": "$$あしゅら$$\n「Nơi đó sắp trở thành chiến trường mới.\n　Muốn bị cuốn vào rồi rơi xuống địa ngục lần nữa\n　thì cứ ở lại đấy.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ブロッケン$$\n「Đ-được rồi.\n　Ta sẽ làm theo chỉ thị của ngươi.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_f02c37d91387d0ad": {
+      "text": "$$さやか$$\n「Hắn rút lui dễ dàng quá nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$ボス$$\n「Tên Bá Hắt Xì đầu rời đó\n　chắc sợ sức mạnh của chúng ta rồi.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_9796b3efa401a303": {
+      "text": "$$ロゼ$$\n「Bá Hắt Xì đầu rời...?」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_643b6eebfc0186b3": {
+      "text": "$$ナオト$$\n「Ý cậu ấy là $$ブロッケン伯爵$$.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_291280e5f7eb9d70": {
+      "text": "$$アキラ$$\n「Cậu ấy ghép bá tước với hắt xì để đùa ấy mà.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_32eb462c1b4999cb": {
+      "text": "$$ロゼ$$\n「...Xin lỗi.\n　Tôi không hiểu được trò đùa của người Trái Đất.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_1f4337d6d393fc37": {
+      "text": "$$ヌケ$$\n「$$ボス$$...」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_4740e748fae085ee": {
+      "text": "$$ムチャ$$\n「Đừng làm mất mặt cả Trái Đất như thế chứ.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_b76524cd840e1d37": {
+      "text": "$$ボス$$\n「C-cái gì!\n　Có nghiêm trọng đến thế không hả!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_730ffe18400abfc2": {
+      "text": "$$タケル$$\n「Có sao đâu, $$ヌケ$$, $$ムチャ$$.\n　$$ボス$$ chỉ muốn làm không khí nhẹ nhàng hơn thôi mà.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_ffe0fca26da5cd38": {
+      "text": "$$ワッ太$$\n「Đúng là anh $$タケル$$!\n　Anh rộng lượng thật đấy!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_bfb27f9eb2f7073e": {
+      "text": "$$つばさ$$\n「Hì hì... chị $$静子$$.\n　$$タケル$$ có vẻ vẫn như xưa nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_859dfa27bcaafe30": {
+      "text": "$$静子$$\n「Vâng...\n　Lâu rồi cháu mới trở về Trái Đất,\n　thấy cháu vẫn khỏe mạnh là tôi mừng rồi.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_71ebf05996a4b0fd": {
+      "text": "$$正太郎$$\n「Vậy mọi người hãy kiểm tra thiệt hại trong thành phố,\n　rồi giúp dập lửa và dọn đống đổ nát nhé.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_6214c11b1bca811e": {
+      "text": "$$ミカ$$\n「Đợi đã, $$正太郎$$!\n　Có thứ gì đang tới!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_8eaf6f3098ffed12": {
+      "text": "$$郁絵$$\n「Mọi người cẩn thận!\n　Tín hiệu này giống hồi đó...!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_cf507214fe955d75": {
+      "text": "$$正太郎$$\n「Bọn người ngoài hành tinh bí ẩn lần trước...!\n　Lần này còn có cả UFO cỡ lớn nữa!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_2113dcbabdfc758a": {
+      "text": "$$葵$$\n「Nhìn kìa, $$タケル$$!\n　Đó là...!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$タケル$$\n「Có cả thuộc hạ của 《$$ズール$$》 sao!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_6a74519e1fc29c4b": {
+      "text": "Kẻ có siêu năng lực\n「Đúng vậy, Mars.\n　Lâu rồi mới lại gặp mặt ngươi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_5b992878fee054b5": {
+      "text": "$$甲児$$\n「Bọn người ngoài hành tinh bí ẩn\n　là tay sai của $$ズール$$ hồi sinh sao!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_95a3dd16c2c4cc3e": {
+      "text": "Kẻ có siêu năng lực\n「Hừ hừ hừ...」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_4a14ec0c511c7f0d": {
+      "text": "Kẻ có siêu năng lực\n「Ha ha ha...」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_20cf167c0ec0d4d5": {
+      "text": "$$竜馬$$\n「Có gì đáng cười hả!?」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_b591d812c96c6c99": {
+      "text": "Kẻ có siêu năng lực\n「Giờ đây chúng ta là thuộc hạ trung thành của Ma Vương...」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_e350fa099c1ab072": {
+      "text": "Kẻ có siêu năng lực\n「Bóng tối vũ trụ nuốt chửng tất cả...\n　Đó chính là Ma Vương của chúng ta...」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$タケル$$\n「Ma Vương... sao?」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_c33bd700553abf91": {
+      "text": "$$ダンカン$$\n「Người Gishin, ta còn nhiệm vụ khác.\n　Việc điều tra kẻ mang mặt trời và Mars\n　giao lại cho các ngươi.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_feee5c91826230e1": {
+      "text": "Kẻ có siêu năng lực\n「Tuân lệnh.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_bccc48e1964ad22d": {
+      "text": "Kẻ có siêu năng lực\n「Xin làm theo ý nguyện của Ma Vương.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_f8736aaaa216c766": {
+      "text": "$$ダンカン$$\n「Chúc các ngươi chiến đấu tốt.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_d1ec2522c87c361d": {
+      "text": "$$田中司令$$\n「Ơ? Tàu chỉ huy đang rút lui!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_3599f0a4343fd95c": {
+      "text": "$$Ｆ．Ｓ．$$\n「$$ＷＩＬＬ$$, có theo dấu được không?」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_3bc7834a5bf3ee76": {
+      "text": "$$ＷＩＬＬ$$\n「Không được.\n　Đã mất dấu.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_366814efdc8b5800": {
+      "text": "$$Ｆ．Ｓ．$$\n「Thế này thì muốn biết kẻ gọi là Ma Vương đó là ai,\n　chỉ còn cách hỏi lũ trước mặt thôi.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_9be1a4c10bb62515": {
+      "text": "Kẻ có siêu năng lực\n「Hạng như các ngươi có làm nổi không?」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_94a88c90e557e16e": {
+      "text": "Kẻ có siêu năng lực\n「Nào, lên thôi!\n　Cho chúng ta xem toàn bộ sức mạnh của các ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_1c208ca0cbf26f28": {
+      "text": "$$正太郎$$\n「Im đi!\n　Dù đối thủ là ai, bọn xâm lược nhắm vào Trái Đất\n　cũng không thể được tha thứ!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_5b7ee307a700171a": {
+      "text": "$$タケル$$\n「Đúng vậy!\n　Ta sẽ đánh bại các ngươi\n　và buộc các ngươi khai ra thân phận của Ma Vương!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_8d8f065c932da30a": {
+      "text": "Kẻ có siêu năng lực\n「Lũ ngu xuẩn!\n　Rồi các ngươi sẽ bị Ma Vương bao trùm\n　và rơi vào bóng tối!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_f5432119677514f7": {
+      "text": "$$Ｆ．Ｓ．$$\n「$$セイミー$$, kẻ có siêu năng lực đã thoát ra thì sao?」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_4e5c8e989c4a7691": {
+      "text": "$$セイミー$$\n「Không được rồi.\n　Dù là tay sai, có siêu năng lực cũng lợi hại thật.\n　Có vẻ đến Ngũ Nhân Kurogane cũng bị cắt đuôi.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_adec86483b13599a": {
+      "text": "$$Ｆ．Ｓ．$$\n「Vậy sao...」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_2cf701bbcde3ec13": {
+      "text": "$$正太郎$$\n「Anh $$タケル$$...」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_c17c58fdba72005e": {
+      "text": "$$タケル$$\n「Đừng lo, $$正太郎$$.\n　Dù có thứ gì tới, chúng ta cũng tuyệt đối không thua đâu.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_1fe8564d2b959317": {
+      "text": "$$タケル$$\n「Dù kẻ địch là Ma Vương hay ác quỷ,\n　chúng ta cũng sẽ tự tay bảo vệ Trái Đất.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_f527e012803f7f1c": {
+      "text": "$$正太郎$$\n「Vâng...!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_4b1247bd3ca4905d": {
+      "text": "$$タケル$$\n「Siêu năng lực của tôi cũng đã mạnh hơn rồi!\n　Ngay từ đầu, tôi sẽ cho chúng thấy\n　toàn bộ sức mạnh của $$ゴッドマーズ$$!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_00c55e25f87b71d0": {
+      "text": "$$ロゼ$$\n「Anh hăng hái thật đấy, Mars.\n　Vì đây là quê hương thứ hai của anh sao?」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_338f3b27e51dcc41": {
+      "text": "$$タケル$$\n「Cũng có phần như vậy.\n　Nhưng tôi đã thề sẽ bảo vệ mọi thứ trong vũ trụ này\n　khỏi bàn tay của cái ác.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_d91d4bc2d52b61c4": {
+      "text": "$$ケンジ$$\n「Đúng tinh thần đó đấy.\n　Chúng tôi cũng sẽ hết sức hỗ trợ $$タケル$$.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_0c8ea89b07432421": {
+      "text": "$$ロゼ$$\n「Tôi cũng có quyết tâm như anh, Mars.\n　Chính vì vậy tôi mới tới Trái Đất mà.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_4dbfba00ba7744ee": {
+      "text": "$$タケル$$\n「Cảm ơn đội trưởng và $$ロゼ$$.」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_be100a32b731708d": {
+      "text": "$$タケル$$\n（Và cả anh nữa, 《$$マーグ#pilot$$》...\n　Vì lời thề với anh, em sẽ đánh cược sinh mạng này\n　để chiến đấu vì hòa bình!）",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_702f82442fcec8a9": {
+      "text": "$$タケル$$\n「$$ブロッケン伯爵$$!\n　Dr. Hell không còn nữa rồi!\n　Bỏ cuộc và đầu hàng đi!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_b1e38da4e8775ffe": {
+      "text": "$$ブロッケン$$\n「Tên đáng ghét!\n　Nếu ngươi không tới, ít nhất ta cũng đã\n　thiêu $$くろがね屋$$ thành tro rồi!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$タケル$$\n「Mẹ ta cũng đang ở $$くろがね屋$$!\n　Ta tuyệt đối không để ngươi làm thế!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$甲児$$\n「Ngươi mãi chẳng chịu chừa nhỉ, $$ブロッケン$$!\n　Chẳng còn Thú máy trong tay mà vẫn hăng hái ghê!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_3dad695c99e9e052": {
+      "text": "$$ブロッケン$$\n「C-câm miệng!\n　Bọn ta đang củng cố lực lượng!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_66d4ae3a21caf881": {
+      "text": "$$甲児$$\n「Bọn ta...?\n　Quả nhiên đứng sau ngươi là hắn...」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_0c18da7b3a37825d": {
+      "text": "$$ブロッケン$$\n「Ngươi không cần biết câu trả lời!\n　Ngay tại đây, chính tay ta\n　sẽ tống ngươi xuống địa ngục!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_63249745ffae61b6": {
+      "text": "$$竜馬$$\n「Lâu rồi không gặp, $$ブロッケン$$!\n　Ta nghe $$甲児$$ kể rồi,\n　ngươi dám quậy phá tanh bành ở THPT Jindai nhỉ!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_abdb034ae8509702": {
+      "text": "$$ブロッケン$$\n「Ngươi nổi điên cái gì!?\n　Chỗ đó có liên quan gì tới ngươi!?」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_3ff2e21207d1d1d3": {
+      "text": "$$竜馬$$\n「Ta đã thành anh lao công của trường đó rồi đấy!\n　Lũ côn đồ dám xông vào trường,\n　ta sẽ đích thân xử lý!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_e51ecf6d6aa42e75": {
+      "text": "$$ブロッケン$$\n「Ch-chuyện từ bao giờ rồi mà còn bới lại...!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_47ddabb7b60131c2": {
+      "text": "$$竜馬$$\n「Câm miệng!\n　Kẻ đang đi báo thù cho Dr. Hell như ngươi\n　mà cũng nói câu đó được à!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_b025267f22788233": {
+      "text": "$$正太郎$$\n「Lũ người ngoài hành tinh bí ẩn!\n　Các ngươi định chính thức xâm lược Trái Đất sao!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_ec1a06a7023bf72c": {
+      "text": "$$正太郎$$\n「Lên nào, $$鉄人$$!\n　Cho chúng thấy dù là Ma Vương hay bất cứ thứ gì,\n　chúng ta cũng không khuất phục!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_8805f96e52aaa462": {
+      "text": "$$タケル$$\n「Luồng khí mạnh mẽ cảm nhận được phía sau chúng...!\n　Tuy khác với $$ズール$$, nhưng ta vẫn cảm thấy\n　một sức mạnh đen tối và đáng sợ tương tự!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_124591cb154fae64": {
+      "text": "$$タケル$$\n「Lại có một kẻ như vậy nhắm vào Trái Đất sao...!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$甲児$$\n「Ma Vương hay ác quỷ cũng mặc!\n　Dám nhắm vào Trái Đất thì bọn ta sẽ tiếp các ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_4bf9b05b5f948170": {
+      "text": "$$甲児$$\n「Sức mạnh ánh sáng của Mazinger\n　sẽ lột trần trò hù dọa của các ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_eaa52d152f444bfd": {
+      "text": "$$竜馬$$\n「Đối phó với lũ đáng ngờ này\n　thì chẳng cần nhiều lời!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_b4bc9e9435b58e6f": {
+      "text": "$$竜馬$$\n「Chỉ việc đập nát chúng là xong!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_a9227573166977a9": {
+      "text": "$$ワッ太$$\n「Tưởng vừa dẹp xong bọn khủng bố,\n　giờ lại tới người ngoài hành tinh tấn công nữa sao!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_b0600ab9a9e8559d": {
+      "text": "$$ワッ太$$\n「Lũ khốn!\n　Nếu ta căng thẳng đến mức chẳng cao lên được,\n　thì tất cả là tại các ngươi đấy!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_7cbc63dad295f862": {
+      "text": "$$葵$$\n「Bóng tối với Ma Vương...\n　Tôi ngán tận cổ mấy thứ huyền bí đó rồi...!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_07f53c816e0a51f5": {
+      "text": "$$葵$$\n「Vì vậy, xin lỗi nhé,\n　tôi chẳng có hứng nghe các người nói nhảm đâu!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_2d09c6f6a2d990ea": {
+      "text": "$n\n「Lũ xâm lược...!\n　Cút khỏi Trái Đất đi!」",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_3c5fcfc484a51913": {
+      "text": "$$スズネ$$\n（Động cơ chiến đấu của $n...\n　Quả nhiên là để bảo vệ sinh mạng của ai đó sao...）",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_0476ffd10c764b0e": {
+      "text": "$$スズネ$$\n（Nếu vậy, rốt cuộc người mà $n\n　muốn báo thù là ai...）",
+      "status": "reviewed"
+    },
+    "stage0017_04:r_48c6c1ecfea6fe4a": {
+      "text": "$n\n「Á!」",
+      "status": "reviewed"
+    }
+  }
+}

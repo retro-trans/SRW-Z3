@@ -1,0 +1,562 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0033a_03:r_caaab7bad760e16d": {
+      "text": "$$ネェル・アーガマ$$, phòng họp tác chiến",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_99b162aa6aa286a2": {
+      "text": "$$ネェル・アーガマ$$, phòng họp tác chiến",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_58fb02434a1c40b2": {
+      "text": "$$ネェル・アーガマ$$, phòng họp tác chiến",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　\n　　～ $$ネェル・アーガマ$$, phòng họp tác chiến ～",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_1263541f4071624e": {
+      "text": "$$カレン$$\n「Cậu đã làm gì vậy, $$ジノ$$!?\n　Cậu là đội trưởng đội cận vệ của $$ナナリー$$ cơ mà!」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_3bc300bbdc277d82": {
+      "text": "$$ジノ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_38762a09460d8b6b": {
+      "text": "$$カレン$$\n「$$ジノ$$...?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_7ab28e70b4d4f641": {
+      "text": "$$ジノ$$\n「...Là một kỵ sĩ, tôi không muốn biện hộ...\n　Nhưng chuyện lúc đó... tôi không nhớ rõ được.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$ジノ$$\n「Tôi chắc chắn là mình đang bảo vệ tiểu thư $$ナナリー$$...\n　Nhưng không hiểu sao, tôi lại phải giao tiểu thư $$ナナリー$$\n　cho bọn bắt cóc...」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_ec335e69f984b8b3": {
+      "text": "$$デュオ$$\n「Cậu đang nói gì vậy?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_0abcaf0c31978670": {
+      "text": "$$シン$$\n「Ý cậu là cậu bị thôi miên hay gì đó sao?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_1d6bc48b7f246730": {
+      "text": "$$ジノ$$\n「...Tôi không biết...\n　Điều khó hiểu hơn là ngay cả bây giờ,\n　trong thâm tâm tôi vẫn phần nào cho rằng làm thế là đúng.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_1af20fccc3c53cfc": {
+      "text": "$$ノイン$$\n「Có vẻ tiểu thư $$リリーナ$$\n　cũng bị bắt cóc theo cách tương tự.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_f951916061232dcd": {
+      "text": "$$カミーユ$$\n「Tâm trí bị điều khiển sao...?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_4d863c3fb88a4c39": {
+      "text": "$$ゼクス$$\n「Cũng có thể là thứ gì đó giống 《$$ギアス$$》.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_44f4742c3dcce39a": {
+      "text": "$$アマタ$$\n「$$ギアス$$...?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_9e701cdeb3842c21": {
+      "text": "$$アムロ$$\n「Các Element và nhóm $$シンジ$$\n　mới nghe đến lần đầu nhỉ...」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_6fd81f4abebe60c5": {
+      "text": "$$カミーユ$$\n「$$ギアス$$ là những năng lực siêu nhiên mà một số người sở hữu.\n　Đáng sợ nhất trong số đó là $$ギアス$$\n　có thể khiến người khác hoàn toàn phục tùng.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_da2132b5038ec737": {
+      "text": "$$カイエン$$\n「Không ngờ lại có thứ như thế...」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_495d61d3ec7e16f2": {
+      "text": "$$アンディ$$\n「Vậy vụ đội trưởng giao thứ trưởng ngoại giao cho chúng...\n　Có kẻ sở hữu $$ギアス$$ đó đứng sau sao?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_5cd353758cfe474d": {
+      "text": "$$カレン$$\n「Tuyệt đối không có chuyện đó...!」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_a653c8dec4c0f06f": {
+      "text": "$$ゼシカ$$\n「Có chuyện gì vậy, $$カレン$$?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_86d493e37a9799a7": {
+      "text": "$$カレン$$\n「$$ゼロ$$... $$ルルーシュ$$ sẽ không bao giờ\n　làm gì khiến $$ナナリー$$ gặp nguy hiểm...!」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_09d0fcc600cdd3df": {
+      "text": "$$シンジ$$\n「$$ルルーシュ$$ là...」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_182faded068c15ed": {
+      "text": "$$ミサト$$\n「《$$皇帝ルルーシュ$$》... tức $$ゼロ$$, tổng chỉ huy Đoàn Kỵ sĩ Đen...\n　Người đeo mặt nạ đã giúp chúng ta trong chiến dịch Yashima...」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_9c206d19bfda4bd5": {
+      "text": "$$ミサト$$\n「Có vẻ $$ゼロ$$ sở hữu $$ギアス$$\n　có thể khiến người khác phục tùng đó.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_6e558bc69acf5bf3": {
+      "text": "$$デュオ$$\n「Cậu ấy cũng từng là thành viên $$ＺＥＸＩＳ$$.\n　Đúng như $$カレン$$ nói, tôi cũng không nghĩ\n　cậu ấy gây ra chuyện này.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_d60d0818e965232f": {
+      "text": "$$ゼクス$$\n「Tôi đồng ý.\n　Cậu ấy của hiện tại không thể nào tán thành\n　cách làm của quân $$マリーメイア$$.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_5b23687574286204": {
+      "text": "$$ゼクス$$\n「Hơn nữa, cậu ấy không đời nào đẩy\n　cô em gái yêu quý $$ナナリー$$ vào nguy hiểm.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_6fd86c96891ea942": {
+      "text": "$$ノイン$$\n「Vậy thì...」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_43e4e548c0b28376": {
+      "text": "$$アムロ$$\n「Có thể xem đây cũng giống chuỗi sự kiện\n　đã khoét sâu bất hòa giữa Trái Đất và các thuộc địa.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_d80a9688790ed583": {
+      "text": "$$バナージ$$\n「Không thể nào...!\n　Vậy là có kẻ đang thao túng tâm trí con người\n　để gây ra chiến tranh sao!?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_708bea61e3c43ada": {
+      "text": "$$アムロ$$\n「Kích động xung đột giữa Trái Đất và các thuộc địa, rồi giờ\n　giao hai thứ trưởng ngoại giao giữ vai trò then chốt với hòa bình\n　cho quân $$マリーメイア$$...」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_7b6f159eeaf4de0f": {
+      "text": "$$アムロ$$\n「Rõ ràng mục tiêu của những kẻ đó\n　là gây chiến giữa Trái Đất và các thuộc địa.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_0827963cfd706e8d": {
+      "text": "$$ミサト$$\n「Mồi lửa chúng châm đã cuốn cả những người xung quanh vào,\n　rồi lan thành lời tuyên chiến của Neo Zeon...」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$アムロ$$\n（$$シャア$$... cậu không nhận ra tình hình này sao?\n　Có thể chúng ta đang bị kẻ nào đó giật dây đấy...）",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_3f4035fd9db81258": {
+      "text": "$$ノイン$$\n「Các thuyền trưởng cũng sắp đến đây rồi.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_567b361a454c4b73": {
+      "text": "$$ゼクス$$\n「Khi đó sẽ quyết định bước tiếp theo của chúng ta.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_d22851aaafbbf8fc": {
+      "text": "$$ミサト$$\n「Trước hết, phải xử lý $$マリーメイア・クシュリナーダ$$\n　và đồng bọn đang cố thủ\n　trong Nhà tưởng niệm Hòa bình ở Brussels...」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_352534f64413d954": {
+      "text": "$$ミヒロ$$\n「Đại tá $$葛城ミサト$$, có liên lạc\n　từ Bộ Tổng tư lệnh quân Liên bang Trái Đất.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_79f2664edb1af798": {
+      "text": "$$ミサト$$\n「Các thuyền trưởng đâu?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$ミヒロ$$\n「Họ vẫn đang họp với tư lệnh $$レディ・アン$$.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_1c5aa0d15ae24846": {
+      "text": "$$ミサト$$\n「Tôi hiểu rồi.\n　Chuyển liên lạc đến đây giúp tôi.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_53bb64ee17750ee2": {
+      "text": "$$ミヒロ$$\n「Rõ.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_7a7add80fde475ba": {
+      "text": "$$サイガス$$\n「Để ta chờ lâu đấy, $c.\n　Ta là chuẩn tướng $$サイガス・エイロニー$$\n　thuộc Bộ Tổng tư lệnh quân Liên bang Trái Đất.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_b2befefdbed1393d": {
+      "text": "$$ゼクス$$\n（Đây là kẻ cầm đầu phe tôn sùng\n　quyền tối thượng của Trái Đất trong quân đội sao...）",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_2103f6df2ea2e447": {
+      "text": "$$ノイン$$\n（Nghe nói hắn gây đủ loại áp lực lên $$プリベンター$$\n　trực thuộc $$大統領$$,\n　nhưng rốt cuộc hắn tìm chúng ta có việc gì...）",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_a12e3e130d896ff7": {
+      "text": "$$ミサト$$\n「Tôi là đại tá $$葛城ミサト$$...\n　chỉ huy chiến thuật của đơn vị này.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_b6f7b219eb4bd64b": {
+      "text": "$$ミサト$$\n「Các thuyền trưởng hiện đang vắng mặt,\n　nên tôi sẽ thay mặt họ tiếp nhận yêu cầu của ngài.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_91bf33c27ad39f0a": {
+      "text": "$$サイガス$$\n「Người được NERV biệt phái đến à.\n　Ta có nghe nói rồi.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_ee220318b96ab538": {
+      "text": "$$ミサト$$\n「Chuẩn tướng $$サイガス$$,\n　$c chúng tôi là đơn vị có quyền hành động độc lập.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_ce1b55e526b6277a": {
+      "text": "$$ミサト$$\n「Tôi chưa rõ ngài có việc gì, nhưng xin nói trước:\n　kể cả Bộ Tổng tư lệnh\n　cũng không có quyền ra lệnh cho chúng tôi.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_c304df6888eb78f7": {
+      "text": "$$サイガス$$\n「Ta có lòng tốt báo cho các người biết,\n　vậy mà lại ăn nói vô lễ như thế sao?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_c26958634526e597": {
+      "text": "$$ミサト$$\n「Lòng tốt?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_cdb750c9d380881a": {
+      "text": "$$サイガス$$\n「Bộ Tổng tư lệnh quân Liên bang Trái Đất đã quyết định\n　tấn công bọn khủng bố ở Brussels bằng bom N2\n　vào lúc 22 giờ hôm nay.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_95fda74613c97b39": {
+      "text": "$$ミサト$$\n「Ngài nói gì cơ!?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_1956994937f8171e": {
+      "text": "$$アムロ$$\n「Sử dụng vũ khí chiến thuật sao...!」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_48f49f6728c15612": {
+      "text": "$$ゼクス$$\n「Điên rồ!\n　Các người định bỏ mặc con tin chết sao!?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$サイガス$$\n「Chính phủ Liên bang chủ trương không khuất phục khủng bố.\n　Rất lấy làm tiếc, nhưng thứ trưởng ngoại giao Darlian\n　và những người khác sẽ phải hy sinh vì hòa bình.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_f02c37d91387d0ad": {
+      "text": "$$サイガス$$\n「Ta không nỡ để lực lượng quý giá của Liên bang Trái Đất\n　là các người bị cuốn vào đợt tấn công.\n　Nếu không muốn chết thì đừng lại gần Brussels.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$ミサト$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_9796b3efa401a303": {
+      "text": "$$サイガス$$\n「Thông báo đến đây là hết.\n　...Cũng là dịp tốt đấy.\n　Các người nên biết thân biết phận đi.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_643b6eebfc0186b3": {
+      "text": "$$デュオ$$\n「Đừng có giỡn mặt!」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_291280e5f7eb9d70": {
+      "text": "$$カミーユ$$\n「Bộ Tổng tư lệnh lấy cớ dẹp khủng bố để bỏ mặc\n　thứ trưởng ngoại giao Darlian và những người\n　chủ trương hòa giải với các thuộc địa chết sao...!」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_32eb462c1b4999cb": {
+      "text": "$$ゼクス$$\n「Vậy cuộc nổi dậy của quân $$マリーメイア$$\n　lại thuận lợi cho chúng sao...」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_1f4337d6d393fc37": {
+      "text": "$$ゼクス$$\n「Tùy tình hình, chúng còn có thể lấy chuyện này làm cớ\n　để tấn công các thuộc địa.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_4740e748fae085ee": {
+      "text": "$$バナージ$$\n「Như thế chẳng phải đúng ý\n　những kẻ đang muốn gây chiến sao!」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_b76524cd840e1d37": {
+      "text": "$$ヒイロ$$\n「Tôi sẽ không để chuyện đó xảy ra.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_730ffe18400abfc2": {
+      "text": "$$デュオ$$\n「Đúng thế.\n　Quân Liên bang không hành động thì chúng ta sẽ đi.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_ffe0fca26da5cd38": {
+      "text": "$$ノイン$$\n「Chưa biết chúng bắt cóc tiểu thư $$リリーナ$$ và mọi người\n　để làm gì, nhưng không thể cho chúng thêm thời gian.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_bfb27f9eb2f7073e": {
+      "text": "$$アムロ$$\n「Có lẽ tư lệnh $$レディ・アン$$\n　cũng đã đưa ra yêu cầu tương tự.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_859dfa27bcaafe30": {
+      "text": "$$リディ$$\n「Nhưng nghe nói quanh Nhà tưởng niệm Hòa bình\n　đã bố trí một lượng lớn lực lượng Mobile Suit.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_71ebf05996a4b0fd": {
+      "text": "$$マオ$$\n「Vậy dùng lực lượng cơ động nghi binh,\n　rồi cho đội bộ chiến đột nhập giải cứu con tin nhé?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_6214c11b1bca811e": {
+      "text": "$$リディ$$\n「Trung tá $$ダグザ$$ của ECOAS\n　có vẻ cũng ủng hộ phương án đó.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_8eaf6f3098ffed12": {
+      "text": "$$ヒイロ$$\n「Làm thế không được.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_cf507214fe955d75": {
+      "text": "$$リディ$$\n「Tại sao?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_2113dcbabdfc758a": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$リディ$$\n「Cậu đi đâu đấy, $$ヒイロ$$!?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_6a74519e1fc29c4b": {
+      "text": "$$デュオ$$\n「Cứ để cậu ấy đi, thiếu úy.\n　Cậu ấy sẽ tự giải quyết cuộc chiến của mình.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_5b992878fee054b5": {
+      "text": "$$リディ$$\n「$$デュオ$$... cậu hiểu ý $$ヒイロ$$ sao?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$デュオ$$\n「Đại khái vậy. Nếu không nhổ tận gốc cuộc chiến này,\n　thì sẽ lại xuất hiện những $$マリーメイア$$ thứ hai, thứ ba.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_4a14ec0c511c7f0d": {
+      "text": "$$リディ$$\n「Nhổ tận gốc cuộc chiến...?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_20cf167c0ec0d4d5": {
+      "text": "$$アムロ$$\n「Nghĩa là chúng ta phải đảm nhận\n　vai trò của $$トレーズ$$ Khushrenada sao...」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_b591d812c96c6c99": {
+      "text": "$$バナージ$$\n「$$トレーズ$$ Khushrenada,\n　nhân vật chủ chốt trong $$再世戦争$$ ấy sao...」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_e350fa099c1ab072": {
+      "text": "$$ゼクス$$\n「Hừ... $$トレーズ$$...\n　Ngay cả khi đã chết, cậu vẫn muốn chúng tôi trở thành kẻ bại trận sao...」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$デュオ$$\n「Nghe nói còn hai người rất hợp với vai trò đó\n　đang đợi chúng ta bên ấy đấy.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_c33bd700553abf91": {
+      "text": "Khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_feee5c91826230e1": {
+      "text": "Khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_bccc48e1964ad22d": {
+      "text": "Khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_f8736aaaa216c766": {
+      "text": "　\n　\n　　　～ Doanh trại quân $$マリーメイア$$ ～",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_d1ec2522c87c361d": {
+      "text": "Lính $$マリーメイア$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_3599f0a4343fd95c": {
+      "text": "Lính $$マリーメイア$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_3bc7834a5bf3ee76": {
+      "text": "$$デキム$$\n「Các chiến sĩ... trước hết, ta xin biểu dương công sức\n　của các người trong chiến dịch chiếm Brussels thành công.\n　Nhưng cuộc chiến thật sự của chúng ta giờ mới bắt đầu.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_366814efdc8b5800": {
+      "text": "$$デキム$$\n「Cuối cùng, thời khắc đứng lên vì tiểu thư $$マリーメイア$$\n　đã đến!」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_9be1a4c10bb62515": {
+      "text": "$$デキム$$\n「Suốt thời gian ẩn mình chờ đợi, các người đã chịu đựng\n　những điều không thể chịu, nhẫn nhịn những điều không thể nhịn.\n　Ta xin một lần nữa bày tỏ lòng biết ơn sâu sắc.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_94a88c90e557e16e": {
+      "text": "$$デキム$$\n「Từ hôm nay, các người sẽ bước trên con đường vinh quang.\n　Chính những chiến sĩ $$マリーメイア$$ chúng ta phải thức tỉnh\n　nhân loại mới, trở thành biểu tượng hy vọng cho mọi người.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_1c208ca0cbf26f28": {
+      "text": "$$マリーメイア$$\n「Thấy sao, Nữ hoàng $$リリーナ$$ và Công chúa $$ナナリー$$?\n　Đây là những chiến sĩ trung thành của tôi.」",
+      "status": "needs_review"
+    },
+    "stage0033a_03:r_5b7ee307a700171a": {
+      "text": "$$ナナリー$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_8d8f065c932da30a": {
+      "text": "$$マリーメイア$$\n「Xin đừng sợ như thế.\n　Tôi không định làm hại hai vị đâu.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_f5432119677514f7": {
+      "text": "$$ナナリー$$\n「Điều tôi sợ không phải là sức mạnh của em.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_4e5c8e989c4a7691": {
+      "text": "$$ナナリー$$\n「Tôi sợ ánh mắt say sưa mê muội\n　của người tên $$デキム$$ đó và những người lính.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_adec86483b13599a": {
+      "text": "$$マリーメイア$$\n「Tôi muốn gọi đó là ánh mắt cháy bỏng lý tưởng.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_2cf701bbcde3ec13": {
+      "text": "$$リリーナ$$\n「...Em chưa phân biệt được lý tưởng và tham vọng...」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_c17c58fdba72005e": {
+      "text": "$$リリーナ$$\n「$$マリーメイア$$...\n　Em thật sự là con gái\n　của $$トレーズ$$ Khushrenada ấy sao?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_1fe8564d2b959317": {
+      "text": "$$マリーメイア$$\n「Tôi không nói dối.\n　Xét nghiệm ADN đã chứng minh rồi.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_f527e012803f7f1c": {
+      "text": "$$リリーナ$$\n「Nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_4b1247bd3ca4905d": {
+      "text": "$$マリーメイア$$\n「Nghe nói người lớn có một thế giới mà trẻ con không hiểu được.\n　Vì vậy, tôi không biết tại sao\n　mình lại được sinh ra trên đời này.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_00c55e25f87b71d0": {
+      "text": "$$マリーメイア$$\n「Nhưng sự thật vẫn là sự thật.\n　Tôi sẽ kế thừa di nguyện của cha.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_338f3b27e51dcc41": {
+      "text": "$$ナナリー$$\n「Em nói cuộc chiến này là di nguyện của ông ấy sao...?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_d91d4bc2d52b61c4": {
+      "text": "$$リリーナ$$\n「Tôi không biết ai đã dạy em nghĩ như thế,\n　nhưng em sai rồi.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_0c8ea89b07432421": {
+      "text": "$$マリーメイア$$\n「Im đi...!」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_4dbfba00ba7744ee": {
+      "text": "$$リリーナ$$\n「...!」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_be100a32b731708d": {
+      "text": "$$マリーメイア$$\n「Tôi là người kế vị chính thống của người cai trị $$ＡＤＷ$$.\n　Và giờ, tôi sẽ đứng lên trở thành\n　người cai trị đích thực của Trái Đất và các thuộc địa.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_702f82442fcec8a9": {
+      "text": "$$ナナリー$$\n「Em định thống trị thế giới bằng vũ lực sao?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_b1e38da4e8775ffe": {
+      "text": "$$マリーメイア$$\n「Lịch sử đã cho thấy\n　cách đó kém hiệu quả đến mức nào.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$マリーメイア$$\n「Nữ hoàng $$リリーナ$$, Công chúa $$ナナリー$$...\n　Hai vị sẽ phải tuyên bố ủng hộ tôi\n　trước toàn thế giới.」",
+      "status": "needs_review"
+    },
+    "stage0033a_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$マリーメイア$$\n「Hai vị có nhiều người ủng hộ ở cả Trái Đất lẫn các thuộc địa.\n　Lời nói của hai vị sẽ tác động mạnh đến dân chúng.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_3dad695c99e9e052": {
+      "text": "$$マリーメイア$$\n「Rồi họ sẽ công nhận $$マリーメイア$$ này là người lãnh đạo thế giới,\n　thay vì Liên bang Trái Đất\n　hay $$シャア・アズナブル$$.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_66d4ae3a21caf881": {
+      "text": "$$マリーメイア$$\n「Dù nghe nói những kẻ ngu muội, dốt nát và yếu đuối\n　đã bắt đầu công nhận chúng tôi là người cai trị mới\n　sau khi chứng kiến sức mạnh của chúng tôi rồi.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_0c18da7b3a37825d": {
+      "text": "$$ナナリー$$\n「Sao lại có chuyện đó...!」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_63249745ffae61b6": {
+      "text": "$$マリーメイア$$\n「Có đấy, thưa Công chúa.\n　Sự mất lòng tin vào Liên bang Trái Đất và nỗi lo sợ Neo Zeon\n　khiến họ khao khát một người lãnh đạo cho thời đại mới.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_abdb034ae8509702": {
+      "text": "$$リリーナ$$\n「Kẻ dùng thủ đoạn hèn hạ như thế dù nhất thời nắm được quyền lực\n　thì sớm muộn cũng sẽ mất tất cả.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_3ff2e21207d1d1d3": {
+      "text": "$$マリーメイア$$\n「Nhưng đây là cuộc cách mạng hòa bình, ít đổ máu nhất.\n　Đó cũng là điều hai vị mong muốn, đúng không?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_e51ecf6d6aa42e75": {
+      "text": "$$ナナリー$$\n「Em sai rồi, $$マリーメイア$$.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_47ddabb7b60131c2": {
+      "text": "$$リリーナ$$\n「Ít nhất, cha của em, $$トレーズ$$ Khushrenada,\n　không hề mong muốn một thế giới như thế.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_b025267f22788233": {
+      "text": "$$マリーメイア$$\n「Tôi không nghĩ hai vị sẽ tán thành ngay.\n　Nhưng khi biết thực tế, hai vị sẽ đổi ý thôi.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_ec1a06a7023bf72c": {
+      "text": "$$マリーメイア$$\n「Sớm muộn sẽ có người đến Brussels\n　để giải cứu hai vị.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_8805f96e52aaa462": {
+      "text": "$$リリーナ$$\n「Mọi chuyện sẽ không theo ý em đâu.\n　Quân Liên bang Trái Đất sẽ tiêu diệt các người,\n　kể cả phải bỏ mặc chúng tôi.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_124591cb154fae64": {
+      "text": "$$マリーメイア$$\n「Tôi không mời quân Liên bang.\n　Mà là đơn vị độc lập bên ngoài $c.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$リリーナ$$\n「...!」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_4bf9b05b5f948170": {
+      "text": "$$マリーメイア$$\n「Họ có $$ＺＥＵＴＨ$$ của $$ＵＣＷ$$, $$ＺＥＸＩＳ$$ của $$ＡＤＷ$$...\n　và cả các Gundam của thuộc địa. Đánh bại họ rồi,\n　dân chúng sẽ thấy rõ ai mới là kẻ có sức mạnh.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_eaa52d152f444bfd": {
+      "text": "$$マリーメイア$$\n「Dù họ có lực lượng mạnh đến đâu,\n　trước thế trận chuyên về phòng thủ của quân tôi,\n　họ nhất định sẽ bại trận.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_b4bc9e9435b58e6f": {
+      "text": "$$リリーナ$$\n「$$マリーメイア$$... em...」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_a9227573166977a9": {
+      "text": "$$マリーメイア$$\n「Nữ hoàng $$リリーナ$$...\n　Cô đã nói về thế giới mà cha tôi mong muốn,\n　nhưng tôi có một điểm hơi khác ông ấy.」",
+      "status": "needs_review"
+    },
+    "stage0033a_03:r_b0600ab9a9e8559d": {
+      "text": "$$マリーメイア$$\n「Tôi muốn trở thành người chiến thắng.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_7cbc63dad295f862": {
+      "text": "$$リリーナ$$\n「Vậy chẳng phải em nên tự suy nghĩ\n　về ý nghĩa của việc chiến đấu sao?」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_07f53c816e0a51f5": {
+      "text": "$$マリーメイア$$\n「Đừng để tôi phải nhắc lại.\n　Tôi không cho phép ai ăn nói vô lễ với mình.」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_2d09c6f6a2d990ea": {
+      "text": "$$ナナリー$$\n「Em thật là...!」",
+      "status": "reviewed"
+    },
+    "stage0033a_03:r_3c5fcfc484a51913": {
+      "text": "$$リリーナ$$\n（$$ヒイロ$$...）",
+      "status": "reviewed"
+    }
+  }
+}

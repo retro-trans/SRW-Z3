@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "ui.library_chart:characters": {
+      "text": "Từ điển nhân vật",
+      "status": "translated"
+    },
+    "ui.library_chart:robots": {
+      "text": "Bách khoa robot",
+      "status": "translated"
+    },
+    "ui.library_chart:confirm": {
+      "text": ": Xác nhận",
+      "status": "translated"
+    },
+    "ui.library_chart:speed": {
+      "text": ": Tăng tốc",
+      "status": "translated"
+    },
+    "ui.library_chart:episode": {
+      "text": "Màn {number}",
+      "status": "translated"
+    },
+    "ui.library_chart:subtitle": {
+      "text": "THỜI NGỤC",
+      "status": "translated"
+    }
+  }
+}

@@ -1,0 +1,622 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0044b_03:r_caaab7bad760e16d": {
+      "text": "$$ドラゴンズハイヴ$$",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_99b162aa6aa286a2": {
+      "text": "$$ドラゴンズハイヴ$$",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_58fb02434a1c40b2": {
+      "text": "$$ドラゴンズハイヴ$$",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　\n　～ $$ドラゴンズハイヴ$$, khoang chứa máy ～",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_1263541f4071624e": {
+      "text": "$$敷島$$\n「...Có vẻ khoang này\n　là một loại thiết bị ngủ đông.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_3bc300bbdc277d82": {
+      "text": "$$ワッ太$$\n「Thiết bị ngủ đông... là gì vậy?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_38762a09460d8b6b": {
+      "text": "$$タケル$$\n「Thiết bị cho con người ngủ mà không bị lão hóa.\n　Nói cách khác, ngủ trong đó thì sẽ không già đi.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_7ab28e70b4d4f641": {
+      "text": "$$マッキー$$\n「Vậy đứa trẻ trong khoang ấy\n　đã ngủ từ rất lâu rồi sao?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$敷島$$\n「Đúng vậy.\n　Phân tích đá xung quanh cho thấy khoang đó\n　dường như đã bị chôn vùi từ 12.000 năm trước.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_ec335e69f984b8b3": {
+      "text": "$$甲児$$\n「Trong lịch sử loài người thì đó là thời kỳ nào?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_0abcaf0c31978670": {
+      "text": "$n\n「Thời kỳ đồ đá.\n　Đương nhiên, Trái Đất khi ấy hẳn chưa có\n　công nghệ chế tạo một khoang như thế.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_1d6bc48b7f246730": {
+      "text": "$$ワッ太$$\n「Vậy đúng là người ngoài hành tinh đã chế tạo nó!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_1af20fccc3c53cfc": {
+      "text": "$n\n「Có thể kết luận như vậy.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_f951916061232dcd": {
+      "text": "$$ＷＩＬＬ$$\n「Tiến sĩ $$敷島$$...\n　Khóa của khoang sắp được mở.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_4d863c3fb88a4c39": {
+      "text": "$$敷島$$\n「Đúng là $$ＷＩＬＬ$$ có khác.\n　Giao việc phân tích cho cậu quả là đúng.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_44f4742c3dcce39a": {
+      "text": "$$ＷＩＬＬ$$\n「Không...\n　Tôi không phải người mở khóa.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_9e701cdeb3842c21": {
+      "text": "$$ＷＩＬＬ$$\n「Thiết bị ngủ đông đã bắt đầu rã đông từ trước.\n　Khi hoàn tất và xác nhận tình trạng không khí xung quanh,\n　có lẽ khóa đã tự động mở.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_6fd81f4abebe60c5": {
+      "text": "$$敷島$$\n「Vậy thì...!?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_da2132b5038ec737": {
+      "text": "$$ＷＩＬＬ$$\n「Xin cho phép tôi nêu nhận định.\n　Cậu bé ấy có lẽ đã được đưa vào giấc ngủ\n　từ 12.000 năm trước, tính sẵn đến chính ngày hôm nay.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_495d61d3ec7e16f2": {
+      "text": "$$正太郎$$\n「Tiến sĩ! Khoang đang mở!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_5cd353758cfe474d": {
+      "text": "???\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_a653c8dec4c0f06f": {
+      "text": "$$ワッ太$$\n「Cậu ấy ra rồi...!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_86d493e37a9799a7": {
+      "text": "???\n「...Đây là đâu?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_09d0fcc600cdd3df": {
+      "text": "$$正太郎$$\n「Cậu ấy nói ngôn ngữ của chúng ta...!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_182faded068c15ed": {
+      "text": "???\n「Chuyện đơn giản đó tôi đã học trong lúc ngủ rồi.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_9c206d19bfda4bd5": {
+      "text": "$$敷島$$\n「Vậy cháu cũng hiểu lời ta chứ?\n　Trước hết, cho ta biết tên cháu được không?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_6e558bc69acf5bf3": {
+      "text": "???\n「Tên tôi là... $$グーラ$$.\n　Tôi chỉ nhớ được có thế.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_d60d0818e965232f": {
+      "text": "$$ワッ太$$\n「Chỉ nhớ có thế nghĩa là...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_5b23687574286204": {
+      "text": "$$正太郎$$\n「Mất trí nhớ sao...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_6fd86c96891ea942": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_43e4e548c0b28376": {
+      "text": "$$宇宙魔王#pilot$$",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_d80a9688790ed583": {
+      "text": "$$宇宙魔王#pilot$$",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_708bea61e3c43ada": {
+      "text": "$$宇宙魔王#pilot$$",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_7b6f159eeaf4de0f": {
+      "text": "$$宇宙魔王#pilot$$\n「$$グーラ$$...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_0827963cfd706e8d": {
+      "text": "$$グーラ$$\n「...!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$宇宙魔王#pilot$$\n「Nhớ lại đi, $$グーラ$$.\n　Con được gửi đến hành tinh này\n　để sống vượt qua vòng luân hồi.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_3f4035fd9db81258": {
+      "text": "$$宇宙魔王#pilot$$\n「Con là người sẽ cai trị Trái Đất kia...\n　$$グーラ・キング・Ｊｒ．$$.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_567b361a454c4b73": {
+      "text": "$$グーラ$$\n「$$グーラ・キング・Ｊｒ．$$...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_d22851aaafbbf8fc": {
+      "text": "$$宇宙魔王#pilot$$\n「Con trai ta, $$グーラ$$.\n　Hãy nhớ lại.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_352534f64413d954": {
+      "text": "$$グーラ$$\n「Ta là... $$グーラ・キング・Ｊｒ．$$...!\n　Hoàng tử sẽ cai trị Trái Đất!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_79f2664edb1af798": {
+      "text": "$$タケル$$\n「Đây là... ảo giác do $$宇宙魔王#pilot$$ tạo ra sao!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$グーラ$$\n「Có vẻ ngươi đã biết sức mạnh của phụ vương ta,\n　người Trái Đất.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_1c5aa0d15ae24846": {
+      "text": "$$正太郎$$\n「$$グーラ$$!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_53bb64ee17750ee2": {
+      "text": "$$ワッ太$$\n「Cậu ta...!\n　Là con trai của $$宇宙魔王#pilot$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_7a7add80fde475ba": {
+      "text": "$$グーラ$$\n「$$ダンカン$$...\n　Chuẩn bị một $$スペースロボ$$ cho ta.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_b2befefdbed1393d": {
+      "text": "$$ダンカン$$\n「Vâng...! Xin tuân lệnh!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_2103f6df2ea2e447": {
+      "text": "$$正太郎$$\n「Dừng lại đi, $$グーラ$$!\n　Cậu không được chiến đấu!!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_a12e3e130d896ff7": {
+      "text": "$$グーラ$$\n「Ta không nhận lệnh của các ngươi...!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_b6f7b219eb4bd64b": {
+      "text": "$$正太郎$$\n「$$グーラ$$!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_91bf33c27ad39f0a": {
+      "text": "$$宇宙魔王#pilot$$\n「Vô ích thôi, người Trái Đất.\n　Các ngươi đã bước vào thời đại Mặt Trời\n　và đi trên con đường diệt vong.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_ee220318b96ab538": {
+      "text": "$n\n「Lại câu nói đó...!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_ce1b55e526b6277a": {
+      "text": "$$宇宙魔王#pilot$$\n「Vượt qua vòng luân hồi, $$グーラ$$ sẽ thống trị hành tinh này.\n　Kẻ nào cản trở sẽ phải chết.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_c304df6888eb78f7": {
+      "text": "$$ドラゴンズハイヴ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_c26958634526e597": {
+      "text": "$$ドラゴンズハイヴ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_cdb750c9d380881a": {
+      "text": "$$ドラゴンズハイヴ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_95fda74613c97b39": {
+      "text": "　\n　\n　～ $$ドラゴンズハイヴ$$, khoang chứa máy ～",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_1956994937f8171e": {
+      "text": "$$正太郎$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_48f49f6728c15612": {
+      "text": "$$セイミー$$\n「Xin lỗi, $$正太郎$$...\n　Nếu chị ngăn $$グーラ$$ lại\n　thì đã không xảy ra chuyện như thế...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$正太郎$$\n「Không sao đâu, chị $$セイミー$$.\n　Nếu $$グーラ$$ là kẻ địch của chúng ta... của Trái Đất,\n　em sẽ không do dự chiến đấu.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_f02c37d91387d0ad": {
+      "text": "$$マッキー$$\n「$$正太郎$$...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$正太郎$$\n「Đó là sứ mệnh của em,\n　người được cha giao phó $$鉄人$$...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_9796b3efa401a303": {
+      "text": "$$タケル$$\n「Em thật sự thấy như vậy là ổn sao, $$正太郎$$?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_643b6eebfc0186b3": {
+      "text": "$$正太郎$$\n「Anh $$タケル$$...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_291280e5f7eb9d70": {
+      "text": "$$タケル$$\n「Anh không muốn thấy em buồn như thế...\n　Hãy nói cảm xúc thật của mình đi.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_32eb462c1b4999cb": {
+      "text": "$$正太郎$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_1f4337d6d393fc37": {
+      "text": "$$ワッ太$$\n「Thành thật với bản thân đi, $$正太郎$$!\n　Cậu nghiêm túc quá đấy!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_4740e748fae085ee": {
+      "text": "$$ワッ太$$\n「Thật ra cậu cũng không muốn đấu với $$グーラ$$, đúng không?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_b76524cd840e1d37": {
+      "text": "$$正太郎$$\n「Nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_730ffe18400abfc2": {
+      "text": "$$ワッ太$$\n「Cậu ấy là bạn cậu mà?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_ffe0fca26da5cd38": {
+      "text": "$$正太郎$$\n「Ừ...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_bfb27f9eb2f7073e": {
+      "text": "$$ワッ太$$\n「Vậy thì quyết rồi!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_859dfa27bcaafe30": {
+      "text": "$$正太郎$$\n「Ừ!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_71ebf05996a4b0fd": {
+      "text": "$$タケル$$\n「$$正太郎$$...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_6214c11b1bca811e": {
+      "text": "$$ジン$$\n（Bạn bè... sao...）",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_8eaf6f3098ffed12": {
+      "text": "$$ユノハ$$\n「Dù sinh ra ở những hành tinh khác nhau,\n　chúng ta vẫn có thể thấu hiểu nhau, đúng không...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_cf507214fe955d75": {
+      "text": "$$ジン$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_2113dcbabdfc758a": {
+      "text": "$$ユノハ$$\n「Nhìn $$正太郎$$, mọi người và anh $$タケル$$,\n　cậu không nghĩ vậy sao?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ジン$$\n「...Có lẽ cậu nói đúng...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_6a74519e1fc29c4b": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_5b992878fee054b5": {
+      "text": "$$ロゼ$$\n「Sao thế, $$ヒビキ$$?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_95a3dd16c2c4cc3e": {
+      "text": "$n\n「$$宇宙魔王#pilot$$ biết câu nói của nền văn minh Maya...\n　Nhưng nghe nói khoang chứa $$グーラ$$\n　đã có từ khoảng 12.000 năm trước...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_4a14ec0c511c7f0d": {
+      "text": "$n\n「Chỉ việc biết văn minh Maya đã đáng kinh ngạc.\n　Vậy mà $$宇宙魔王#pilot$$, cha của $$グーラ$$,\n　hóa ra đã sống suốt 12.000 năm.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_20cf167c0ec0d4d5": {
+      "text": "$$タケル$$\n「Không thể tưởng tượng nổi...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_b591d812c96c6c99": {
+      "text": "$n\n「Sức mạnh của hố đen,\n　và việc hắn đã sống qua thời gian đằng đẵng...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_e350fa099c1ab072": {
+      "text": "$$ロゼ$$\n「Quy mô khác hẳn\n　những kẻ thù chúng ta từng đối mặt nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_fb05d8e5f1ee93e5": {
+      "text": "$n\n（Còn câu nói ấy của nền văn minh Maya...\n　Sao giờ hắn cứ nhắc đi nhắc lại\n　lời tiên tri tận thế đã cũ ấy...?）",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_c33bd700553abf91": {
+      "text": "Đài chỉ huy đĩa bay",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_feee5c91826230e1": {
+      "text": "Đài chỉ huy đĩa bay",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_bccc48e1964ad22d": {
+      "text": "Đài chỉ huy đĩa bay",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_f8736aaaa216c766": {
+      "text": "　\n　\n　～ Quân $$宇宙魔王#pilot$$, đài chỉ huy $$巨大円盤$$ ～",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_d1ec2522c87c361d": {
+      "text": "$$ロビー$$\n「Mừng điện hạ $$グーラ$$ trở về.\n　Thần xin chân thành chúc mừng\n　điện hạ đã tỉnh giấc.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_3599f0a4343fd95c": {
+      "text": "$$グーラ$$\n「Ngươi là kẻ nào?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_3bc7834a5bf3ee76": {
+      "text": "$$ロビー$$\n「Thần là robot trí tuệ $$ロビー$$.\n　Phụ vương của ngài, $$宇宙魔王#pilot$$,\n　đã lệnh cho thần làm tham mưu cho ngài.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_366814efdc8b5800": {
+      "text": "$$ダンカン$$\n「Thần từng nghe nói, thưa điện hạ.\n　Ngài $$宇宙魔王#pilot$$ có một robot\n　chứa mọi tri thức trong vũ trụ.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_9be1a4c10bb62515": {
+      "text": "$$グーラ$$\n「Vậy đó chính là $$ロビー$$ này sao.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_94a88c90e557e16e": {
+      "text": "$$ロビー$$\n「Mong được phụng sự ngài,\n　điện hạ $$グーラ・キング・Ｊｒ．$$.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_1c208ca0cbf26f28": {
+      "text": "$$グーラ$$\n「Vậy trả lời ta, $$ロビー$$.\n　Phụ vương đang ở đâu?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_5b7ee307a700171a": {
+      "text": "$$グーラ$$\n「Phụ vương mà ta biết\n　không có hình dạng khổng lồ như vậy.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_8d8f065c932da30a": {
+      "text": "$$ロビー$$\n「Sau khi đưa điện hạ vào giấc ngủ,\n　phụ vương ngài đã trở thành hiện thân của hố đen.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_f5432119677514f7": {
+      "text": "$$グーラ$$\n「Bằng cách nào?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_4e5c8e989c4a7691": {
+      "text": "$$ロビー$$\n「Đó là bí ẩn của vũ trụ,\n　đến cả $$ロビー$$ này cũng không biết.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_adec86483b13599a": {
+      "text": "$$ロビー$$\n「Phụ vương ngài có thể tự do bay giữa các vì sao,\n　và đưa hình bóng của mình đến bất cứ đâu,\n　như hôm nay vậy.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_2cf701bbcde3ec13": {
+      "text": "$$ロビー$$\n「Và trong cơ thể ấy,\n　mọi chân lý của vũ trụ đều đã bị hút vào.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_c17c58fdba72005e": {
+      "text": "$$グーラ$$\n「Chân lý của vũ trụ...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_1fe8564d2b959317": {
+      "text": "$$ロビー$$\n「Vâng.\n　Phụ vương ngài chính là ma vương\n　ngự trị toàn vũ trụ.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_f527e012803f7f1c": {
+      "text": "$$グーラ$$\n「Và phụ vương ấy đã giao ta chinh phục Trái Đất...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_4b1247bd3ca4905d": {
+      "text": "$$ダンカン$$\n「Điện hạ định thế nào ạ?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_00c55e25f87b71d0": {
+      "text": "$$グーラ$$\n「Trận đánh hôm nay đã khiến ta chắc chắn.\n　$c chính là trở ngại lớn nhất\n　đối với ta và phụ vương.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_338f3b27e51dcc41": {
+      "text": "$$ダンカン$$\n「Thần cũng đồng ý.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_d91d4bc2d52b61c4": {
+      "text": "$$グーラ$$\n「Trước hết, chuẩn bị cho đầy đủ.\n　Sau đó, ta sẽ quyết chiến với chúng, loại bỏ\n　mọi trở ngại cho việc chinh phục Trái Đất!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_0c8ea89b07432421": {
+      "text": "$$グーラ$$\n（Hãy chuẩn bị đi, $c.\n　Và cả ngươi nữa, $$金田正太郎$$）",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_4dbfba00ba7744ee": {
+      "text": "$$グーラ$$\n（Ta là $$グーラ・キング・Ｊｒ．$$...\n　Nhân danh này, ta thề sẽ đánh bại các ngươi）",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_be100a32b731708d": {
+      "text": "Phông nền tùy chọn",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_702f82442fcec8a9": {
+      "text": "Phông nền tùy chọn",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_b1e38da4e8775ffe": {
+      "text": "Phông nền tùy chọn",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ＡＧ$$\n「Ngài $$タケル$$...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$タケル$$\n「Có gì vậy, $$ＡＧ$$?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_3dad695c99e9e052": {
+      "text": "$$ＡＧ$$\n「Ngài đã nhớ lại... chuyện về anh trai mình rồi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_66d4ae3a21caf881": {
+      "text": "$$タケル$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_0c18da7b3a37825d": {
+      "text": "$$タケル$$\n「Ừ...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_63249745ffae61b6": {
+      "text": "$$ＡＧ$$\n「Vượt qua nỗi buồn của bản thân\n　để trao dũng khí cho các cậu bé, ngài $$タケル$$...\n　Tôi đã được thấy tình yêu bao la cỡ ngân hà của ngài.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_abdb034ae8509702": {
+      "text": "$$ＡＧ$$\n「Những lời ngài dùng để thuyết phục hoàng tử $$グーラ$$...\n　Nếu $$ＡＧ$$ này có trái tim, chắc tôi đã rơi lệ.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_3ff2e21207d1d1d3": {
+      "text": "$$タケル$$\n「...Vì có lẽ tôi cũng đã có thể\n　trở nên giống $$グーラ$$.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_e51ecf6d6aa42e75": {
+      "text": "$$ＡＧ$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_47ddabb7b60131c2": {
+      "text": "$$タケル$$\n「Tôi chưa kể sao...\n　Rằng vốn dĩ tôi được gửi từ hành tinh Gishin\n　đến đây để trở thành kẻ thù của Trái Đất...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_b025267f22788233": {
+      "text": "$$タケル$$\n「Nhưng nhờ cha mẹ nuôi dưỡng tôi trên Trái Đất\n　và các đồng đội,\n　tôi đã biết thế nào là yêu thương.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_ec1a06a7023bf72c": {
+      "text": "$$タケル$$\n「Vì thế, tôi muốn truyền cho $$グーラ$$ điều mình đã học.\n　Nếu sau đó cậu ấy vẫn muốn chiến đấu...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_8805f96e52aaa462": {
+      "text": "$$ＡＧ$$\n「Khi ấy thì...?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_124591cb154fae64": {
+      "text": "$$タケル$$\n「Tôi sẽ là người đối mặt cậu ấy.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$ＡＧ$$\n「Tôi hiểu rồi.\n　Chính quyết tâm ấy của ngài đã tạo ra Z-Chip.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_4bf9b05b5f948170": {
+      "text": "$$ＡＧ$$\n「Số lượng là... 150Z.\n　Tôi sẽ cộng vào kho dự trữ của đội nhé.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_eaa52d152f444bfd": {
+      "text": "$$タケル$$\n「Giữ kín chuyện này với $$正太郎$$ và $$ワッ太$$ nhé.\n　Nếu được, tôi muốn giao chuyện $$グーラ$$ cho hai em ấy.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_b4bc9e9435b58e6f": {
+      "text": "$$ＡＧ$$\n「Rõ rồi.\n　Tôi cũng muốn cùng ngài $$タケル$$\n　dõi theo cuộc chiến của hai cậu bé.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_a9227573166977a9": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_b0600ab9a9e8559d": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_7cbc63dad295f862": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_07f53c816e0a51f5": {
+      "text": "　\n　\n　　　～ D-Trader ～",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_2d09c6f6a2d990ea": {
+      "text": "$$ＡＧ$$\n「Tiểu thư, cho tôi xin một chút thời gian.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_3c5fcfc484a51913": {
+      "text": "$$マッキー$$\n「C-có gì vậy...?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_0476ffd10c764b0e": {
+      "text": "$$ＡＧ$$\n「Về hoàng tử $$グーラ$$...\n　Tiểu thư $$マッキー$$ nghĩ thế nào?」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$マッキー$$\n「...Tôi tin rằng $$正太郎$$\n　nhất định sẽ mở được lòng $$グーラ$$.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_2b3479c4cf0680f4": {
+      "text": "$$ＡＧ$$\n「Không phải ý đó!\n　Ôi, sốt ruột quá!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_e370696b8936b08c": {
+      "text": "$$ＡＧ$$\n「Nói thẳng ra, tôi hỏi tiểu thư thích ai hơn,\n　ngài $$正太郎$$ hay hoàng tử $$グーラ$$!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_9d7b02c5e728b7aa": {
+      "text": "$$マッキー$$\n「Ơ...?\n　Tự nhiên hỏi như thế thì...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_9af213fc64e0afec": {
+      "text": "$$ＡＧ$$\n「Là ai!? Nào, là ai!?\n　Trái tim thiếu nữ dao động là chuyện thường,\n　nhưng không thể lấy đó biện hộ cho việc bắt cá hai tay!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_d7f1c506e78e55ff": {
+      "text": "$$ＡＧ$$\n「Nào, trả lời đi!\n　Nhanh lên! Trong 2 giây!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_0c705091f748360e": {
+      "text": "$$マッキー$$\n「B-ba ơiii!\n　Cứu con với!!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_9eb8599304125b2f": {
+      "text": "$$敷島$$\n「Lên nào, $$０８$$!!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_a072aa25e5f521e0": {
+      "text": "$$０８$$\n「!!!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_24e1a808a1609a1a": {
+      "text": "$$ＡＧ$$\n「A, cái đồ này!\n　Chỉ là robot phục vụ mà dám\n　chống lại robot đặc vụ sao!」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_53128ce8f154fd06": {
+      "text": "$$マッキー$$\n「Phù... thoát rồi.\n　Cảm ơn ba.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_03b5db9ce98fb8d6": {
+      "text": "$$敷島$$\n「Nhưng $$ＡＧ$$ như thế này\n　thì D-Trader chắc phải đóng cửa thôi...」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_3915fb4102f1c1dd": {
+      "text": "$$マッキー$$\n「Vậy hôm nay con sẽ đặc biệt trông cửa hàng thay nhé.」",
+      "status": "reviewed"
+    },
+    "stage0044b_03:r_817b2773b4ed563e": {
+      "text": "$$マッキー$$\n「Nào, hôm nay cũng hăng hái lên...\n　Buôn bán, buôn bán nào!」",
+      "status": "reviewed"
+    }
+  }
+}

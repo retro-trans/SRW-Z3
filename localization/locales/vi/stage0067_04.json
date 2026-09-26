@@ -1,0 +1,990 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0067_04:r_caaab7bad760e16d": {
+      "text": "$$ラッセ$$\n「Đã vượt qua phòng tuyến rồi!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_99b162aa6aa286a2": {
+      "text": "$$スメラギ$$\n「Ngắt Trans-Am!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_58fb02434a1c40b2": {
+      "text": "$$フェルト$$\n「Rõ!\n　Đang ngắt Trans-Am!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_1c0f94acd5a8a143": {
+      "text": "$$ミレイナ$$\n「Quân phòng vệ của $$マーティアル$$ đang ra khỏi đại thánh đường ạ!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_1263541f4071624e": {
+      "text": "$$ラッセ$$\n「Đúng là đại bản doanh của $$マーティアル$$!\n　Đông kinh khủng!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_3bc300bbdc277d82": {
+      "text": "$$テッサ$$\n「Nhưng tôi không nghĩ đây là toàn bộ lực lượng địch.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_38762a09460d8b6b": {
+      "text": "$$ミレイナ$$\n「Lại có thêm địch tới ạ!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_7ab28e70b4d4f641": {
+      "text": "$$スメラギ$$\n「Amalgam...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$ゲイツ$$\n「Cái gì thế này, cái gì thế này!\n　Ta đuổi theo bé $$テイタニア$$ yêu dấu,\n　thì lũ kỳ đà cản mũi lại mò tới!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_ec335e69f984b8b3": {
+      "text": "$$ゲイツ$$\n「Được lắm! Vậy ta sẽ đập tan chúng\n　trước mặt bé $$テイタニア$$,\n　để phô bày khí phách đàn ông của $$ゲイツ$$ đại nhân!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_0abcaf0c31978670": {
+      "text": "$$スメラギ$$\n「Tất cả các máy xuất kích!\n　Mau lên!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_1d6bc48b7f246730": {
+      "text": "$$クルツ$$\n「Chậc!\n　Đã đoán trước rồi, mà vẫn đông khiếp thật!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_1af20fccc3c53cfc": {
+      "text": "$$ロックオン$$\n「Lúc này phải bắn xối xả, bắn tỉa không ăn thua!\n　Cứ để tôi lo, $$クルツ$$!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_f951916061232dcd": {
+      "text": "$$マオ$$\n「Mà... nhân vật chính lần này là anh ta cơ.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_4d863c3fb88a4c39": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_44f4742c3dcce39a": {
+      "text": "$$ヒルデ$$\n「Nhưng phải đối phó với đông địch thế này thì...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_9e701cdeb3842c21": {
+      "text": "$$デュオ$$\n「Đừng hiểu lầm nhé, $$ヒルデ$$.\n　Việc của chúng ta là giải cứu $$フィアナ$$,\n　chứ không phải đập tan $$マーティアル$$.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_6fd81f4abebe60c5": {
+      "text": "$$スザク$$\n「Nhưng làm vậy cũng sẽ giáng cho họ một đòn nặng.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_da2132b5038ec737": {
+      "text": "$$ゼロ$$\n「Nếu kẻ đột nhập lọt vào tổng bộ của giáo đoàn\n　tôn thờ thần chiến tranh, uy quyền của họ sẽ sụp đổ.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_495d61d3ec7e16f2": {
+      "text": "$$ゼロ$$\n「Khi đó, tổ chức $$マーティアル$$ coi như đã chết.\n　Có lẽ tín đồ sẽ rời bỏ, quyền lực cũng sẽ tiêu tan.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_5cd353758cfe474d": {
+      "text": "$$テッサ$$\n「Nhưng chúng ta không được chủ quan.\n　Các đội phòng vệ mà ta đã vượt qua bằng Trans-Am\n　có lẽ cũng đang lần lượt tiến về đây.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_a653c8dec4c0f06f": {
+      "text": "$$スメラギ$$\n「Trước hết là 6 phút!\n　Nếu $$キリコ$$ không vượt qua được phòng tuyến kia\n　trong thời gian đó, chiến dịch sẽ thất bại!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_86d493e37a9799a7": {
+      "text": "$$クルーゾー$$\n「Vượt qua ngần ấy địch,\n　hộ tống anh ta đến tận đằng kia sao...\n　Một nhiệm vụ khắc nghiệt đấy.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_09d0fcc600cdd3df": {
+      "text": "$$トロワ$$\n「Anh tuyệt vọng rồi à?」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_182faded068c15ed": {
+      "text": "$$クルーゾー$$\n「Không có chừng ấy trở ngại,\n　thì còn gì vui khi giải cứu được người đẹp.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_9c206d19bfda4bd5": {
+      "text": "$$ゼクス$$\n「Vị Trung úy $$クルーゾー$$ ấy\n　quả là một người lãng mạn...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_6e558bc69acf5bf3": {
+      "text": "$$ノイン$$\n「Có điều đôi lúc anh ta trông cứ như\n　đang diễn kịch một cách kỳ lạ ấy.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_d60d0818e965232f": {
+      "text": "$$ゼロ$$\n「Mọi người nghe rồi đấy!\n　Tất cả các máy yểm trợ $$キリコ$$ vượt phòng tuyến!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_5b23687574286204": {
+      "text": "$$ゼロ$$\n「Thời gian tác chiến là 6 phút!\n　Quá thời hạn đó, chiến dịch sẽ thất bại!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_6fd86c96891ea942": {
+      "text": "$$ヒイロ$$\n「Đã rõ nhiệm vụ...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_43e4e548c0b28376": {
+      "text": "$$ゴウト$$\n「Cố lên, $$キリコ$$!\n　Ta trang bị cấu hình đột kích chính là để làm việc này!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_d80a9688790ed583": {
+      "text": "$$バニラ$$\n「Bọn tôi chờ cậu nắm tay bé $$フィアナ$$\n　trở về đấy nhé!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_708bea61e3c43ada": {
+      "text": "$$ココナ$$\n「Anh mà thất bại thì em không tha đâu đấy!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_7b6f159eeaf4de0f": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_0827963cfd706e8d": {
+      "text": "$$ハレルヤ$$\n「Thằng khốn đó hừng hực khí thế rồi đấy!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$アレルヤ$$\n「Chúng ta yểm trợ anh ấy cũng vậy.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_3f4035fd9db81258": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_567b361a454c4b73": {
+      "text": "$n\n「Chúng ta cũng đi thôi, $$宗介$$.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_d22851aaafbbf8fc": {
+      "text": "$$宗介$$\n「Ừ...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_352534f64413d954": {
+      "text": "$$ロジャー$$\n「Vậy thì lên đường thôi, các vị.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_79f2664edb1af798": {
+      "text": "$$刹那$$\n「Nhất định phải hoàn thành nhiệm vụ này...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$カレン$$\n「Đi đi, $$キリコ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_1c5aa0d15ae24846": {
+      "text": "$$キリコ$$\n（Anh đến đây... $$フィアナ$$!）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_53bb64ee17750ee2": {
+      "text": "$$Ｃ．Ｃ．$$\n「$$キリコ$$ đã vượt qua phòng tuyến rồi sao.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_7a7add80fde475ba": {
+      "text": "$$シャッコ$$\n「Một khi đã xông vào đại thánh đường,\n　chắc chúng cũng chẳng thể can thiệp...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_b2befefdbed1393d": {
+      "text": "$$宗介$$\n「Đi đi...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_2103f6df2ea2e447": {
+      "text": "$$宗介$$\n「Đi đi, $$キリコ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_a12e3e130d896ff7": {
+      "text": "$$キリコ$$\n「...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_b6f7b219eb4bd64b": {
+      "text": "$n\n「Có gì đó đang tới từ đại thánh đường!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_91bf33c27ad39f0a": {
+      "text": "$$カレン$$\n「Xuất hiện rồi hả, mụ bắt cóc!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_ee220318b96ab538": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_ce1b55e526b6277a": {
+      "text": "$$テイタニア$$\n「Phân thắng bại thôi, $$キリコ$$.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_c304df6888eb78f7": {
+      "text": "$$モンテ＝ウェルズ$$\n「Nghe thấy không, $$テイタニア$$?\n　Đã đến lúc thể hiện sức mạnh của\n　tân $$法皇$$ và $$ネクスタント$$ rồi.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_c26958634526e597": {
+      "text": "$$テイタニア$$\n「Cha đã đạt được mục đích rồi.\n　Giờ chỉ còn xóa sổ $$キリコ$$, công cụ cha đã dùng...\n　Ý cha là vậy sao?」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_cdb750c9d380881a": {
+      "text": "$$モンテ＝ウェルズ$$\n「Con nói gì vậy, $$テイタニア$$?」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_95fda74613c97b39": {
+      "text": "$$テイタニア$$\n「$$キリコ$$ vốn không muốn chiến đấu...\n　Nếu được để yên, anh ấy hẳn đã sống ở một nơi\n　chẳng liên quan gì đến $$マーティアル$$...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_1956994937f8171e": {
+      "text": "$$テイタニア$$\n「Cả $$キリコ$$... lẫn $$フィアナ$$ đó...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_48f49f6728c15612": {
+      "text": "$$モンテ＝ウェルズ$$\n「Con muốn nói gì?」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$テイタニア$$\n「Đối với cha, cả con lẫn $$キリコ$$\n　đều chỉ là công cụ cho tham vọng của cha, đúng không?」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_f02c37d91387d0ad": {
+      "text": "$$テイタニア$$\n「Vụ tai nạn khiến con được tái sinh thành $$ネクスタント$$...\n　Chính cha đã sắp đặt nó, phải không?」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$モンテ＝ウェルズ$$\n「Vậy là con đã biết.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_9796b3efa401a303": {
+      "text": "$$テイタニア$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_643b6eebfc0186b3": {
+      "text": "$$モンテ＝ウェルズ$$\n「Từ lúc ấy, ta và con đã bắt đầu\n　cùng bước trên con đường tuẫn đạo.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_291280e5f7eb9d70": {
+      "text": "$$テイタニア$$\n「Trật tự bằng võ lực đâu phải là như vậy...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_32eb462c1b4999cb": {
+      "text": "$$モンテ＝ウェルズ$$\n「Thần của $$マーティアル$$ thật vĩ đại.\n　Cựu $$法皇$$ cũng nói rằng sức mạnh ấy\n　có thể vượt qua cả $$エタニティ・フラット$$.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_1f4337d6d393fc37": {
+      "text": "$$テイタニア$$\n「Đến nước này mà còn tin những lời như thế...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_4740e748fae085ee": {
+      "text": "$$モンテ＝ウェルズ$$\n「Con còn bất mãn điều gì, $$テイタニア$$!\n　Chẳng phải con cũng được ban cho vinh dự rồi sao!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_b76524cd840e1d37": {
+      "text": "$$テイタニア$$\n「...Thật trớ trêu.\n　Chưa bao giờ con thấy biết ơn bộ não phụ như lúc này...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_730ffe18400abfc2": {
+      "text": "$$モンテ＝ウェルズ$$\n「Phải, hãy dùng bộ não phụ đi.\n　Đi thực hiện nghĩa vụ của con.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_ffe0fca26da5cd38": {
+      "text": "$$モンテ＝ウェルズ$$\n「Hãy tự tay đánh bại $$キリコ$$,\n　chứng minh sức mạnh của $$ネクスタント$$!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_bfb27f9eb2f7073e": {
+      "text": "$$テイタニア$$\n「Con sẽ làm vậy.\n　Nhưng con sẽ không dùng bộ não phụ.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_859dfa27bcaafe30": {
+      "text": "$$モンテ＝ウェルズ$$\n「Cái gì?」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_71ebf05996a4b0fd": {
+      "text": "$$テイタニア$$\n「Vì chút kiêu hãnh duy nhất còn lại của một chiến binh...!\n　Và để được sống như một con người...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_6214c11b1bca811e": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_8eaf6f3098ffed12": {
+      "text": "$$テイタニア$$\n「Đến đây, $$キリコ$$...!\n　Ta sẽ phân thắng bại ở nơi không ai quấy rầy được!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_cf507214fe955d75": {
+      "text": "$$アレルヤ$$\n「$$キリコ$$!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_2113dcbabdfc758a": {
+      "text": "$$マリー$$\n「$$アレルヤ$$!\n　Viện binh địch đang tới!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$スザク$$\n「Thế này thì không thể đến yểm trợ $$キリコ$$ được!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_6a74519e1fc29c4b": {
+      "text": "$$ヒイロ$$\n「Vậy thì cứ đột phá thôi!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_5b992878fee054b5": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$テイタニア$$\n「$$フィアナ$$ ở sâu trong đại thánh đường... tại phòng thí nghiệm y tế.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_4a14ec0c511c7f0d": {
+      "text": "$$キリコ$$\n「...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_20cf167c0ec0d4d5": {
+      "text": "$$テイタニア$$\n「Đừng lo.\n　Dù ta thắng, ta cũng sẽ để anh đón phút cuối bên cô ấy.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_b591d812c96c6c99": {
+      "text": "$$キリコ$$\n「Để làm gì?」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_e350fa099c1ab072": {
+      "text": "$$テイタニア$$\n「Còn mang món nợ tình cảm với anh,\n　ta không thể dốc toàn lực chiến đấu được.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$キリコ$$\n「...Bắt đầu thôi.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_c33bd700553abf91": {
+      "text": "$$テイタニア$$\n「Sát khí khác hẳn lúc trước...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_feee5c91826230e1": {
+      "text": "$$キリコ$$\n（Đợi anh, $$フィアナ$$.）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_bccc48e1964ad22d": {
+      "text": "$$テイタニア$$\n「Kh...!\n　Ta đã thua sao!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_f8736aaaa216c766": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_d1ec2522c87c361d": {
+      "text": "$$テイタニア$$\n「Tại sao!\n　Tại sao không kết liễu ta!!?」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_3599f0a4343fd95c": {
+      "text": "$$キリコ$$\n「Tôi đã nói rồi.\n　Không có lý do để làm vậy.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_3bc7834a5bf3ee76": {
+      "text": "$$テイタニア$$\n「Anh muốn làm nhục ta sao!\n　Chừng nào còn sống, ta sẽ còn tấn công anh\n　và $$フィアナ$$ hết lần này đến lần khác!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_366814efdc8b5800": {
+      "text": "$$キリコ$$\n「Tôi thì lúc nào cũng sẵn sàng tiếp cô.\n　Nhưng đừng động đến $$フィアナ$$.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_9be1a4c10bb62515": {
+      "text": "$$テイタニア$$\n「Kh... thua rồi...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_94a88c90e557e16e": {
+      "text": "$$モンテ＝ウェルズ$$\n「$$テイタニア$$ đáng ghét!\n　Không dùng bộ não phụ nên mới ra nông nỗi này!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_1c208ca0cbf26f28": {
+      "text": "$$モンテ＝ウェルズ$$\n「Đã vậy, ta sẽ cưỡng chế kích hoạt bộ não phụ!\n　Con sẽ phải từ bỏ nhân tính!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_5b7ee307a700171a": {
+      "text": "$$テイタニア$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_8d8f065c932da30a": {
+      "text": "$n\n「Cô ta...!\n　Vẫn còn chiến đấu được sao!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_f5432119677514f7": {
+      "text": "$$宗介$$\n「Chạy đi, $$キリコ$$!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_4e5c8e989c4a7691": {
+      "text": "$$キリコ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_adec86483b13599a": {
+      "text": "$$テイタニア$$\n「Uoooooo!!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_2cf701bbcde3ec13": {
+      "text": "$$テイタニア$$\n「Ư... ưư...!\n　Uaaaaaaa!!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_c17c58fdba72005e": {
+      "text": "$$モンテ＝ウェルズ$$\n「Ha ha ha ha!\n　$$テイタニア$$ không còn những cảm xúc tầm thường nữa!\n　Một vũ khí người thực thụ đã ra đời!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_1fe8564d2b959317": {
+      "text": "$$テイタニア$$\n「Uaaaaa!!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_f527e012803f7f1c": {
+      "text": "$$キリコ$$\n「Hự!!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_4b1247bd3ca4905d": {
+      "text": "$$カレン$$\n「$$キリコ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_00c55e25f87b71d0": {
+      "text": "$$ティエリア$$\n「Rốt cuộc chuyện gì đang xảy ra vậy!?」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_338f3b27e51dcc41": {
+      "text": "$$刹那$$\n「Phi công đó... đã mất hoàn toàn ý thức của bản thân!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_d91d4bc2d52b61c4": {
+      "text": "$$ヒイロ$$\n「Vậy thứ đang điều khiển chiếc AT đó là...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_0c8ea89b07432421": {
+      "text": "$$刹那$$\n「Máy móc...!\n　Nhưng tôi cảm thấy có thứ gì đen tối đằng sau nó!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_4dbfba00ba7744ee": {
+      "text": "$$刹那$$\n「Đây là... ác ý của con người sao...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_be100a32b731708d": {
+      "text": "$$モンテ＝ウェルズ$$\n「Kết liễu hắn, $$テイタニア$$!\n　Trước mắt những người tin vào $$マーティアル$$,\n　hãy đánh bại Kẻ Bất Khả Xâm Phạm đó... đánh bại $$キリコ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_702f82442fcec8a9": {
+      "text": "$$テイタニア$$\n「Uaaaaa!!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_b1e38da4e8775ffe": {
+      "text": "$$キリコ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$クルツ$$\n「Đồ ngốc!\n　Dùng súng khi đang áp sát như thế thì...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$クルーゾー$$\n「Định đồng quy vu tận sao!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_3dad695c99e9e052": {
+      "text": "$$アレルヤ$$\n「$$キリコ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_66d4ae3a21caf881": {
+      "text": "$$シャッコ$$\n「Cả hai đều thoát ra rồi sao!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_0c18da7b3a37825d": {
+      "text": "$$ティエリア$$\n「Nhưng...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_63249745ffae61b6": {
+      "text": "$$テイタニア$$\n「Chi... rico...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_abdb034ae8509702": {
+      "text": "$$モンテ＝ウェルズ$$\n「Không hổ là $$キリコ$$!\n　Nhưng với thân thể bằng xương bằng thịt, ngươi không thể\n　thắng $$テイタニア$$... thắng một $$ネクスタント$$ được!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_3ff2e21207d1d1d3": {
+      "text": "$$モンテ＝ウェルズ$$\n「$$ネクスタント$$ có cơ thể máy móc!\n　Dù mất tay, mất chân... không, dù bị bắn vào đầu,\n　nó vẫn tiếp tục chiến đấu để giết ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_e51ecf6d6aa42e75": {
+      "text": "$$ゼロ$$\n「Nhắm vào ngực cô ta, $$キリコ$$!\n　Cỗ máy đó chính là bộ điều khiển!!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_47ddabb7b60131c2": {
+      "text": "$$キリコ$$\n「Kh...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_b025267f22788233": {
+      "text": "$$ゴウト$$\n「Không được rồi!\n　$$キリコ$$ không còn nhìn rõ kẻ địch nữa!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_ec1a06a7023bf72c": {
+      "text": "$$バニラ$$\n「Chạy đi, $$キリコ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_8805f96e52aaa462": {
+      "text": "$$キリコ$$\n「$$フィアナ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_124591cb154fae64": {
+      "text": "$$テイタニア$$\n「A...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$モンテ＝ウェルズ$$\n「K-không thể nào!\n　Hắn chỉ bắn xuyên bộ não phụ của $$テイタニア$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_4bf9b05b5f948170": {
+      "text": "$$モンテ＝ウェルズ$$\n「Đang dần mất ý thức mà\n　lại có thể làm được chuyện đó sao!\n　Sao lại xảy ra sự trùng hợp... phép màu như thế!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_eaa52d152f444bfd": {
+      "text": "$$スザク$$\n「Đây là... sức mạnh của $$異能生存体$$ sao...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_b4bc9e9435b58e6f": {
+      "text": "$$ゼロ$$\n「Không phải!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_a9227573166977a9": {
+      "text": "$$カレン$$\n「$$ゼロ$$...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_b0600ab9a9e8559d": {
+      "text": "$$ゼロ$$\n「Phép màu này là sức mạnh ý chí của $$キリコ$$!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_7cbc63dad295f862": {
+      "text": "$$ヒイロ$$\n「Bóp cò mà không khuất phục trước tuyệt vọng...\n　Kẻ thiếu ý chí ấy sẽ không có chiến thắng.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_07f53c816e0a51f5": {
+      "text": "$$宗介$$\n「Không phải ngẫu nhiên hay may mắn...\n　Chính vì anh ấy nổ súng nên mới có kết quả này...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_2d09c6f6a2d990ea": {
+      "text": "$n\n「Phép màu không tự nhiên xảy ra...\n　Chính $$キリコ$$ đã tạo ra phép màu...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_3c5fcfc484a51913": {
+      "text": "$$キリコ$$\n「Kh...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_0476ffd10c764b0e": {
+      "text": "$$ゼクス$$\n「Thân thể như vậy mà vẫn cử động được sao...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$ロジャー$$\n「Đây là ý chí của anh ấy... sức mạnh của anh ấy...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_2b3479c4cf0680f4": {
+      "text": "$$キリコ$$\n「$$フィアナ$$...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_e370696b8936b08c": {
+      "text": "$$トロワ$$\n「Quân phòng vệ quanh đây đã tới rồi sao.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_9d7b02c5e728b7aa": {
+      "text": "$$カトル$$\n「Đối phó với họ là nhiệm vụ của chúng ta.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_9af213fc64e0afec": {
+      "text": "$$デュオ$$\n「Mau đi đi, $$キリコ$$!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_d7f1c506e78e55ff": {
+      "text": "$$カレン$$\n「Bọn tôi sẽ chặn chúng!\n　Anh đi cứu $$フィアナ$$ đi!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_0c705091f748360e": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_9eb8599304125b2f": {
+      "text": "$$テッサ$$\n「Mọi người đã sẵn sàng chưa!\n　Chúng ta sẽ liều chết giữ nơi này cho đến khi anh ấy trở lại!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_a072aa25e5f521e0": {
+      "text": "$$宗介$$\n「Rõ!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_24e1a808a1609a1a": {
+      "text": "$$キリコ$$\n（$$フィアナ$$... anh đến đây...）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_53128ce8f154fd06": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_03b5db9ce98fb8d6": {
+      "text": "$$カレン$$\n「$$キリコ$$!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_3915fb4102f1c1dd": {
+      "text": "$$ココナ$$\n「$$フィアナ$$ sao rồi!?」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_817b2773b4ed563e": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_1cc233cbc8c80af7": {
+      "text": "$$アレルヤ$$\n「Vụ nổ đó... là do $$キリコ$$ gây ra sao...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$マリー$$\n「Vậy thì chị $$フィアナ$$...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_e180b22d18f48d38": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_e598c2a0b27e7f50": {
+      "text": "$$スザク$$\n「Ngọn lửa bao trùm đại thánh đường...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_4d2a9066c4e7b27f": {
+      "text": "$$ゼロ$$\n「Ngọn lửa tiễn biệt sao...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_10340119af3ed6db": {
+      "text": "$$宗介$$\n「Không thể nào...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_23a9c7ab620ab112": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_4f0aca6deda07883": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_8fe40600ce62dfbc": {
+      "text": "$$スメラギ$$\n「...Đón $$キリコ$$, tất cả các máy rút khỏi đây.\n　Tập hợp lại tại điểm hẹn.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_ff4ce5f3cf96b617": {
+      "text": "$$ゼロ$$\n「...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_d73c21f119847e35": {
+      "text": "$$スザク$$\n「Sao vậy?」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_89766f5ffaa912d4": {
+      "text": "$$ゼロ$$\n「Không... đừng bận tâm.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$モンテ＝ウェルズ$$\n「K-không thể nào...!\n　Quân phòng vệ $$アレギウム$$ bị tiêu diệt\n　trong chưa đầy một tiếng sao...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_451f726d4299ea35": {
+      "text": "$$モンテ＝ウェルズ$$\n「T-thế này thì $$マーティアル$$...!\n　Aaaaaa!!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_e3d111e8bb190cb1": {
+      "text": "$$法皇$$\n「Vậy nên ta đã nói rồi còn gì.\n　Người đó là 『Kẻ Bất Khả Xâm Phạm』...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$モンテ＝ウェルズ$$\n「T-tôi... tôi phải làm gì đây!?\n　Thưa Đức Thánh Cha, xin hãy chỉ bảo!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_ab97c2b2418ea732": {
+      "text": "$$法皇$$\n「Ta không còn là $$法皇$$ nữa.\n　Ngươi hãy tự suy nghĩ đi.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_2ddff5064af78db4": {
+      "text": "$$法皇$$\n「Hay là ngươi sẽ bám víu vào thần?」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_050d0532c4b24bfe": {
+      "text": "$$モンテ＝ウェルズ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_d583fcea31bdad2e": {
+      "text": "$$モンテ＝ウェルズ$$\n「T-ta nghe thấy rồi!\n　Ta cũng nghe thấy tiếng nói của thần rồi!!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_475f7653621a91b5": {
+      "text": "$$モンテ＝ウェルズ$$\n「L-làm theo lời dạy này thì sẽ sống được!\n　Cả ta lẫn $$マーティアル$$!!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_f228ae702350849b": {
+      "text": "$$法皇$$\n「...Ngu xuẩn...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_d69dc027cba3003f": {
+      "text": "$$テイタニア$$\n「$$キリコ$$...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_3c3735172a480b72": {
+      "text": "$$ロッチナ$$\n「Kẻ nào động đến hắn cũng đều nhận kết cục như vậy...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_1f418b5594cea300": {
+      "text": "$$ロッチナ$$\n「Đó không phải việc do chính hắn trực tiếp gây ra.\n　Vận mệnh chỉ bị $$キリコ$$ bẻ lệch đi một chút,\n　rồi sẽ cuốn theo tất cả mà sụp đổ.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_f87fb889124bfaef": {
+      "text": "$$ロッチナ$$\n「$$キリコ・キュービィー$$...\n　Hắn chính là tia lửa đầu tiên của ngọn lửa bao trùm tất cả.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_79c90de32a79212d": {
+      "text": "$$テイタニア$$\n「...Tôi... đã cướp $$フィアナ$$... khỏi $$キリコ$$...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_33f7fd55913419e8": {
+      "text": "$$ロッチナ$$\n「Đừng bận tâm, $$テイタニア$$.\n　Tuổi thọ của $$ＰＳ$$ chỉ đến đó thôi.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_473d9a88b4ca96e7": {
+      "text": "$$テイタニア$$\n「Ngài... đã biết chuyện sẽ thành ra thế này sao...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_4de6ac85c63bac12": {
+      "text": "$$ロッチナ$$\n「Đại khái vậy.\n　Nhưng có biết cũng chẳng làm được gì.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_4c92652c9b1adf6f": {
+      "text": "$$ロッチナ$$\n「Đó chính là giới hạn của con người.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_ce90563a934d49fb": {
+      "text": "$$テイタニア$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_4fb296e63cb1fb46": {
+      "text": "$$ロッチナ$$\n「Mà cô không tò mò về $$キリコ$$ từ đây về sau sao?」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$ロッチナ$$\n「Vận mệnh của $$キリコ$$, kẻ vẫn chiến đấu trong thế giới\n　đang bắt đầu sụp đổ dù đã mất người mình yêu...\n　Nếu có ai biết được vận mệnh ấy, thì đó chính là thần.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_9dc59affd40f32fc": {
+      "text": "$$テイタニア$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_0cea115be526a319": {
+      "text": "$$ロッチナ$$\n「Cô đi đâu vậy, $$テイタニア$$?」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_d36072babd12aeb4": {
+      "text": "$$テイタニア$$\n「Tôi không biết...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_09ee921a85025fd3": {
+      "text": "$$テイタニア$$\n（Nơi $$キリコ$$ sẽ đến...\n　chính là đích đến trong hành trình của tôi.）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_fae689f2a1057b61": {
+      "text": "$$テイタニア$$\n（Dù chẳng trao nhau lấy một lời,\n　chừng nào còn sống, tôi vẫn sẽ yêu anh ấy.\n　Chỉ điều đó là chắc chắn.）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_91c6d0bb53854ecc": {
+      "text": "$$テイタニア$$\n（Bởi tôi không thể không cảm thấy\n　mình được sinh ra chính là để làm điều đó...）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_42a3149105314ab8": {
+      "text": "$$ノイン$$\n「Tốt...!\n　Đã giải quyết xong quân phòng vệ!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_62ecd978c667bd29": {
+      "text": "$$ゼクス$$\n「Giờ chỉ còn $$キリコ$$ xông vào đại thánh đường thôi!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_d441e6cc908ac01b": {
+      "text": "$$フェルト$$\n「Chị $$スメラギ$$!\n　Quân phòng vệ xung quanh đang tập trung về khu vực này!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_b2aab8873350ea1f": {
+      "text": "$$スメラギ$$\n「Tiếp tục chiến đấu nữa sẽ dẫn đến\n　hậu quả không thể cứu vãn...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_2c7af4c55d8ac938": {
+      "text": "$$テッサ$$\n「...Chúng ta đành phải rút lui thôi.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_653b741d07545dff": {
+      "text": "$$キリコ$$\n（$$フィアナ$$...!）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_d584d4b5af55b1cf": {
+      "text": "$$テイタニア$$\n「Đừng cản trở trận đấu giữa ta và $$キリコ$$!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_db0ee69ece206fcd": {
+      "text": "$$テイタニア$$\n「Ta sẽ xử lý ngươi sau!\n　Cứ đứng đó mà chờ đi!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_f97e6925c9e37332": {
+      "text": "$$ゲイツ$$\n「Ghé!\n　Thất thố ngay trước mặt bé $$テイタニア$$ yêu dấu!\n　Đúng là nỗi nhục cả đời của $$ゲイツ$$ này!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_422861e0b8d77d0c": {
+      "text": "$$ゲイツ$$\n「Mà... chừng nào còn bộ tóc mai này,\n　ta vẫn bất tử thôi.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_ef16bcaa2b0e0c45": {
+      "text": "$$ゲイツ$$\n「Vậy tạm biệt nhé, bé $$テイタニア$$!\n　Chắc sẽ chẳng gặp lại nữa đâu...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_2b93cca10f1c36a8": {
+      "text": "$$スメラギ$$\n「Máy chỉ huy của Amalgam...\n　Rút lui dễ dàng thật đấy.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_7980fd37141d88d0": {
+      "text": "$$テッサ$$\n「Còn chuyện trận chiến với Geminis hôm trước nữa.\n　Có lẽ Amalgam đang định bỏ rơi $$マーティアル$$...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_ac21212c36d2b9ad": {
+      "text": "$$スメラギ$$\n「Tức là Amalgam đã tính được cách tiếp tục\n　mà không cần $$マーティアル$$ sao...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_a26e2108358af7a4": {
+      "text": "$$テッサ$$\n「Có lẽ nên hiểu như vậy.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_a8118b2e37aa1382": {
+      "text": "$$テイタニア$$\n「Ta rất vui vì có thể\n　phân thắng bại với anh ngay tại đây.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_017a56991b7b8ca4": {
+      "text": "$$キリコ$$\n「Tôi không có việc gì với cô.\n　Tránh ra.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_ad3e1db3419665fb": {
+      "text": "$$テイタニア$$\n「Chọn một người phụ nữ thay vì chiến đấu...\n　Đó là câu trả lời anh đã tìm được sao...」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_0149e3a5f2e5ef78": {
+      "text": "$$テイタニア$$\n「Nhưng anh không trốn được nữa đâu!\n　Muốn gặp $$フィアナ$$ thì hãy đánh bại ta!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_3ad10e705167a3fa": {
+      "text": "$$キリコ$$\n「...Có vẻ là vậy.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_bdc546b199c80996": {
+      "text": "$$テイタニア$$\n「Cuối cùng cũng chịu đánh rồi sao!\n　Vậy ta sẽ dùng toàn lực đánh bại anh!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_22c8caf8c08c5119": {
+      "text": "$$テイタニア$$\n「Đó là ý nghĩa sống duy nhất còn lại của ta!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_9c13714b3efbc7a8": {
+      "text": "$$ゲイツ$$\n「Ghen tị quá đi, bé $$キリコ$$!\n　Được bé $$テイタニア$$ đuổi theo sát mông cơ đấy!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_96f156e19b53fc09": {
+      "text": "$$キリコ$$\n「Không có thời gian cho ngươi.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_feb0390bba7fe1fb": {
+      "text": "$$ゲイツ$$\n「Cái gì!?\n　Chẳng lẽ bé $$テイタニア$$ mê mệt\n　cái vẻ lạnh lùng đó của ngươi sao!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_8a78bcec22029401": {
+      "text": "$$ゲイツ$$\n「Vậy thì $$ゲイツ$$ đại nhân cũng phải đổi hình tượng!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_f42017dfce31dea9": {
+      "text": "$$ゲイツ$$\n「Ta sẽ... giết ngươi.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_ef7426919f628d8a": {
+      "text": "$$ゲイツ$$\n「Thế nào!\n　Câu nói chết người đỉnh cao đấy chứ!?」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_9e994a4b926d9906": {
+      "text": "$$キリコ$$\n「Tránh ra.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_ffae76d2a77abf5a": {
+      "text": "$$ゲイツ$$\n「Đợt chạy thử Codarl cũng sắp xong rồi.\n　Tiếc là chẳng được tận hưởng trận đấu\n　giữa hai máy cùng trang bị Lambda Driver.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_3ac462d37e5893ff": {
+      "text": "$$宗介$$\n「Tên này đang đùa giỡn sao...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_fd6bdf7910d7d925": {
+      "text": "$$ゲイツ$$\n「Tóm lại là ngươi làm ta thất vọng.\n　Ngươi không đáng để ta phải ra tay.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_d38be46e6cd7a5e5": {
+      "text": "$$宗介$$\n「Ngươi...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_3fe2078328753c16": {
+      "text": "$$ゲイツ$$\n「Giận rồi à?\n　Vậy thử khởi động Lambda Driver xem.」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_c66844158d1ce600": {
+      "text": "$$ゲイツ$$\n「Như thế thì có lẽ ta cũng vui được chút đỉnh...!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_d037ecbc1e348dc9": {
+      "text": "$$宗介$$\n（$$キリコ$$ đã sẵn sàng từ bỏ tất cả\n　vì điều mình phải bảo vệ...）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_bcd53d14c4785426": {
+      "text": "$$宗介$$\n（Chidori... tôi...）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_9ca55ea7feca954a": {
+      "text": "$$カレン$$\n「Kẻ nào cản trở $$キリコ$$ và chị $$フィアナ$$\n　thì cứ để tôi đối phó!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_554ae12c4c170253": {
+      "text": "$$カレン$$\n「$$キリコ$$ đã tìm được thứ quý giá hơn chiến đấu.\n　Chúng tôi nhất định sẽ bảo vệ anh ấy!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_fa59c6df081e6ae4": {
+      "text": "$$ゼロ$$\n（Vị thần của $$マーティアル$$,\n　giáo đoàn lấy chính chiến đấu làm giáo lý...）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_ca3edf3b8b52aedf": {
+      "text": "$$ゼロ$$\n（Cảm giác bất an này là sao...\n　Mình đang cảm nhận được điều gì...!）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_aa5d235c78ebe19f": {
+      "text": "$$マリー$$\n「Đi thôi, $$アレルヤ$$!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_0b3b19cddb871f90": {
+      "text": "$$アレルヤ$$\n「Anh biết, $$マリー$$!\n　Chúng ta sẽ yểm trợ $$キリコ$$!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_304e98dac43c9333": {
+      "text": "$$アレルヤ$$\n「Vì vậy, $$キリコ$$!\n　Anh nhất định phải cứu được chị $$フィアナ$$!」",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_b740d817a14afd3a": {
+      "text": "$$Ｃ．Ｃ．$$\n（Chiến đấu khiến loài người tiến hóa sao...）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_40e4c010d1b35b4c": {
+      "text": "$$Ｃ．Ｃ．$$\n（Đúng là kiểu suy nghĩ của bọn chúng.）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_c33abf00683a32bc": {
+      "text": "$$シャッコ$$\n（Giờ thì tôi cũng hiểu rồi.\n　Bản chất thật của vị thần $$マーティアル$$ thờ phụng.）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_3036adce91d1f4a8": {
+      "text": "$$シャッコ$$\n（$$キリコ$$...\n　Cậu hẳn có thể đánh bại thực thể đó.）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_019293cb83599509": {
+      "text": "$n\n（Mình, $$キリコ$$ và mọi người đều giống nhau...\n　Đều chiến đấu vì những điều quý giá trong lòng mình...）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_9b949b9281aaeef1": {
+      "text": "$n\n（Vì vậy, chúng ta sẽ yểm trợ $$キリコ$$...!\n　Coi anh ấy như một bản thân khác của mình...!）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_b39a1dd705fe6cbf": {
+      "text": "$n\n（Hãy thắng nhé, $$キリコ$$...!）",
+      "status": "reviewed"
+    },
+    "stage0067_04:r_c9016e3ab05470b0": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

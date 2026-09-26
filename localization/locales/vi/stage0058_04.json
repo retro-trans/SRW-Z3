@@ -1,0 +1,1362 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0058_04:r_caaab7bad760e16d": {
+      "text": "$$レイアム$$\n「Tàn tích Laplace ở phía trước.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_99b162aa6aa286a2": {
+      "text": "$$オットー$$\n「Từ chuyến tham quan di tích hồi tiểu học\n　tới giờ tôi mới lại đến gần thế này.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_58fb02434a1c40b2": {
+      "text": "$$ミヒロ$$\n「Hì hì... Chuyện từ thời nào rồi, thuyền trưởng?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_1c0f94acd5a8a143": {
+      "text": "$$オットー$$\n「Ừ thì với cô, đó là chuyện xa xưa lắm rồi.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_1263541f4071624e": {
+      "text": "$$レイアム$$\n「Cho các máy xuất kích.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_3bc300bbdc277d82": {
+      "text": "$$アルト$$\n「Đây là tàn tích dinh thự của vị thủ tướng\n　Liên bang Trái Đất đầu tiên ở 《$$ＵＣＷ$$》 sao.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_38762a09460d8b6b": {
+      "text": "$$リディ$$\n「Vị thủ tướng đầu tiên, Ricardo Marcenas,\n　vào khoảnh khắc lịch sử mới, 《$$宇宙世紀$$》, bắt đầu...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_7ab28e70b4d4f641": {
+      "text": "$$リディ$$\n「...đã thiệt mạng trong vụ nổ bí ẩn\n　tại dinh Thủ tướng này, được xây ở độ cao 200 km.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$カツ$$\n「Ơ... Marcenas thì...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ec335e69f984b8b3": {
+      "text": "$$ハサウェイ$$\n「Cùng họ với thiếu úy $$リディ$$...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_0abcaf0c31978670": {
+      "text": "$$リディ$$\n「Ricardo Marcenas là tổ tiên của tôi.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_1d6bc48b7f246730": {
+      "text": "$$ハサウェイ$$\n「Ơ!?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_1af20fccc3c53cfc": {
+      "text": "$$カツ$$\n「Người thuộc gia đình như vậy sao lại làm phi công?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_f951916061232dcd": {
+      "text": "$$リディ$$\n「Đã sinh ra làm đàn ông, thì nên tự mở đường\n　bằng sức mình, thay vì dựa vào thế lực gia đình chứ?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_4d863c3fb88a4c39": {
+      "text": "$$アンディ$$\n「Ngầu quá, thiếu úy $$リディ$$!\n　Câu hay thế này, cho em mượn nhé!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_44f4742c3dcce39a": {
+      "text": "$$リディ$$\n「Cảm ơn, $$アンディ$$.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_9e701cdeb3842c21": {
+      "text": "$$アンディ$$\n「Em cũng sẽ tự đào hố để mở lối cho mình!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_6fd81f4abebe60c5": {
+      "text": "$$スズネ$$\n「Có vẻ $$アンディ$$ cũng lấy lại tinh thần rồi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_da2132b5038ec737": {
+      "text": "$n\n「Hôm qua cậu ấy đến phòng em,\n　tuyên bố sẽ cứu $$ＭＩＸ$$ rồi mới đi đấy.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_495d61d3ec7e16f2": {
+      "text": "$$アルト$$\n「Cũng đến phòng tôi nữa.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_5cd353758cfe474d": {
+      "text": "$$桂$$\n「Chỗ tôi cũng vậy.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_a653c8dec4c0f06f": {
+      "text": "$$アマタ$$\n「Giờ thì $$アンディ$$ ổn rồi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_86d493e37a9799a7": {
+      "text": "$$ゼシカ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_09d0fcc600cdd3df": {
+      "text": "$$スズネ$$\n（Nhưng có vẻ $$ゼシカ$$ vẫn còn cần thêm thời gian...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_182faded068c15ed": {
+      "text": "$$アムロ$$\n「$$宇宙世紀$$, thời kỳ nhân loại phát triển vượt bậc...\n　Lại có một khởi đầu nhuốm máu.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_9c206d19bfda4bd5": {
+      "text": "$$ブライト$$\n「Lịch sử về sau cũng như thể đi theo vết xe đổ ấy...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_6e558bc69acf5bf3": {
+      "text": "$$アムロ$$\n「Điển hình nhất là vụ ám sát Zeon Zum Deikun sao.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d60d0818e965232f": {
+      "text": "$$カミーユ$$\n（Zeon Zum Deikun...\n　Người đề xướng Newtype, cha đẻ của quốc gia Zeon...\n　Và cũng là cha của người ấy...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_5b23687574286204": {
+      "text": "$$バナージ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_6fd86c96891ea942": {
+      "text": "$$ダグザ$$\n「Có chút tinh thần hơn chưa, $$バナージ$$?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_43e4e548c0b28376": {
+      "text": "$$バナージ$$\n「Cháu chỉ xuất kích vì không còn cách nào khác.\n　Cháu cũng là thành viên của $c,\n　nên sẽ làm tròn trách nhiệm.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d80a9688790ed583": {
+      "text": "$$ダグザ$$\n「Trách nhiệm... sao.\n　Có vẻ cậu hiểu vị thế của mình.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_708bea61e3c43ada": {
+      "text": "$$バナージ$$\n「...Ông $$ダグザ$$ không bao giờ do dự sao?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ダグザ$$\n「Tôi là một bộ phận... một bánh răng\n　trong cỗ máy khổng lồ mang tên Liên bang.\n　Chỉ làm tròn vai trò được giao thôi.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_0827963cfd706e8d": {
+      "text": "$$バナージ$$\n「Cháu... chẳng chắc chắn được điều gì cả...\n　Giờ ranh giới giữa địch và ta cũng dần mơ hồ...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$バナージ$$\n「Trái Đất và các thuộc địa đang chiến tranh,\n　người ở $$プラント$$ cũng định tham gia...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_3f4035fd9db81258": {
+      "text": "$$カミーユ$$\n「$$バナージ$$...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_567b361a454c4b73": {
+      "text": "$$バナージ$$\n「Một người cứ mãi do dự như cháu\n　đâu có tư cách cầm vũ khí, đúng không?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d22851aaafbbf8fc": {
+      "text": "$$バナージ$$\n「Một người như cháu lại lái nó... lái Unicorn...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_352534f64413d954": {
+      "text": "$$ダグザ$$\n「Cậu đã dùng từ trách nhiệm.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_79f2664edb1af798": {
+      "text": "$$バナージ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$ダグザ$$\n「Ít nhất cậu biết mình có sức mạnh\n　và biết dùng nó làm được những gì.\n　Vì vậy, cậu có thể chiến đấu trong $c.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_1c5aa0d15ae24846": {
+      "text": "$$バナージ$$\n「...Cháu chỉ bị hoàn cảnh cuốn theo thôi...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_53bb64ee17750ee2": {
+      "text": "$$ダグザ$$\n「Những lúc như vậy, hãy thử\n　nghĩ mọi chuyện ở mức gần gũi hơn.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_7a7add80fde475ba": {
+      "text": "$$ダグザ$$\n「Đừng quên việc cậu làm phi công thử nghiệm Unicorn\n　đã thay đổi số phận những người xung quanh.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b2befefdbed1393d": {
+      "text": "$$バナージ$$\n「Ông nói đến $$オードリー$$, $$タクヤ$$ và $$ミコット$$ sao?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_2103f6df2ea2e447": {
+      "text": "$$ダグザ$$\n「Đúng vậy.\n　Cậu phải có trách nhiệm với điều đó.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_a12e3e130d896ff7": {
+      "text": "$$バナージ$$\n「Trách nhiệm... với mọi người...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ダグザ$$\n「Cũng có thể nói là bảo vệ họ.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_91bf33c27ad39f0a": {
+      "text": "$$バナージ$$\n（$$オードリー$$...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ee220318b96ab538": {
+      "text": "$$ダグザ$$\n「Giờ cứ do dự cũng được.\n　Đã nhờ cậu tham gia chiến dịch,\n　chúng tôi sẽ bảo vệ sự an toàn của cậu.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ce1b55e526b6277a": {
+      "text": "$$ダグザ$$\n「$$フル・フロンタル$$ sẽ nhắm tới Unicorn.\n　Biết hắn sẽ hành động ra sao thì cũng dễ đối phó hơn.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_c304df6888eb78f7": {
+      "text": "$$バナージ$$\n「Đã biết tại sao người đó\n　lại nhắm tới Unicorn chưa ạ?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_c26958634526e597": {
+      "text": "$$ダグザ$$\n「Hiện giờ vẫn chưa rõ.\n　Chắc cả ông $$アルベルト$$,\n　người quản lý Unicorn, cũng vậy.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_cdb750c9d380881a": {
+      "text": "$$ダグザ$$\n「Nhưng có vẻ ông ấy cũng vững dạ hơn chút rồi.\n　Đã chịu để Unicorn quý báu của mình\n　dấn vào nguy hiểm cơ mà.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_95fda74613c97b39": {
+      "text": "$$バナージ$$\n「Ơ...?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_1956994937f8171e": {
+      "text": "$$ダグザ$$\n「Chính ông ấy đã đề xuất\n　đón đánh Neo Zeon ở đây.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_48f49f6728c15612": {
+      "text": "$$バナージ$$\n（Tàn tích dinh Thủ tướng Laplace... Hộp Laplace...\n　Và $$フル・フロンタル$$ đang nhắm đến nó...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$バナージ$$\n（Sẽ có chuyện gì xảy ra ở đây sao...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_f02c37d91387d0ad": {
+      "text": "$$ダグザ$$\n「Sao vậy, $$バナージ$$?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$バナージ$$\n「K-không ạ...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_9796b3efa401a303": {
+      "text": "$$ダグザ$$\n「...Đừng quá bận lòng.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_643b6eebfc0186b3": {
+      "text": "$$バナージ$$\n「Ông $$ダグザ$$...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_291280e5f7eb9d70": {
+      "text": "$$ダグザ$$\n「Sự do dự lúc này của cậu là điều ai cũng trải qua...\n　Nói cách khác, đó giống như bằng chứng\n　cậu là một con người bình thường.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_32eb462c1b4999cb": {
+      "text": "$$ダグザ$$\n「Nghe kể rằng ngay cả $$アムロ・レイ$$\n　cũng từng như vậy trong $$一年戦争$$.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_1f4337d6d393fc37": {
+      "text": "$$アムロ$$\n「Xin tha cho tôi đi, trung tá $$ダグザ$$.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_4740e748fae085ee": {
+      "text": "$$ブライト$$\n「Ra vậy...\n　Thế thì có lẽ tôi nên chấn chỉnh\n　tinh thần cho $$バナージ$$ nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b76524cd840e1d37": {
+      "text": "$$カミーユ$$\n「Chấn chỉnh, ý ông là kiểu sửa sai bằng nắm đấm ấy ạ?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_730ffe18400abfc2": {
+      "text": "$$ハサウェイ$$\n「Bố cổ hủ quá.\n　Thời buổi này rồi còn định dùng cách đó\n　để thúc đẩy người khác nữa.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ffe0fca26da5cd38": {
+      "text": "$$ブライト$$\n「Con nói gì thế, $$ハサウェイ$$?\n　Có ai trưởng thành mà chưa từng bị ăn đòn chứ?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_bfb27f9eb2f7073e": {
+      "text": "$$ブライト$$\n「Đúng không, $$アムロ$$?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_859dfa27bcaafe30": {
+      "text": "$$アムロ$$\n「Ai biết được.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_71ebf05996a4b0fd": {
+      "text": "$$クラン$$\n「Bất ngờ thật.\n　Thuyền trưởng $$ブライト$$ được ca tụng là danh tướng\n　mà lại tin vào phương pháp lỗi thời như vậy.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_6214c11b1bca811e": {
+      "text": "$$オズマ$$\n「Đừng xen vào, $$クラン$$.\n　Đây là thế giới mà phụ nữ không hiểu được.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_8eaf6f3098ffed12": {
+      "text": "$$サザンカ$$\n「Nói cách khác là thế giới chỉ có đàn ông với nhau nhỉ!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_cf507214fe955d75": {
+      "text": "$$ユノハ$$\n「Chị $$サザンカ$$... mắt sáng quá rồi đấy...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_2113dcbabdfc758a": {
+      "text": "$$ミーナ#182$$\n「Cô bé đó đúng là hủ nữ...」",
+      "status": "needs_review"
+    },
+    "stage0058_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ダグザ$$\n「Ừ, đại khái là vậy.\n　Đừng quá bận lòng, $$バナージ$$.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_6a74519e1fc29c4b": {
+      "text": "$$バナージ$$\n「Cháu cảm ơn, ông $$ダグザ$$.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_5b992878fee054b5": {
+      "text": "$$ダグザ$$\n「...Hồi nhân loại vừa bắt đầu tiến vào vũ trụ,\n　nghe nói các phi hành gia đã cảm nhận được Thượng đế\n　khi thoát khỏi trọng lực Trái Đất.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$バナージ$$\n「Thượng đế...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ダグザ$$\n「Tôi nghe nói nhiều phi hành gia sau khi trở về\n　đã hiến mình cho đức tin.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_20cf167c0ec0d4d5": {
+      "text": "$$ダグザ$$\n「Vũ trụ, khoảng không tối tăm và vô tận ấy,\n　hẳn đã khiến họ ý thức được một tồn tại\n　vượt ngoài hiểu biết con người... Thượng đế.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b591d812c96c6c99": {
+      "text": "$$ダグザ$$\n「Nhưng theo thời đại, hình tượng Thượng đế cũng thay đổi.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_e350fa099c1ab072": {
+      "text": "$$バナージ$$\n「Ơ...?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ダグザ$$\n「Muốn cứu Trái Đất đã chạm tới giới hạn,\n　di dân ra vũ trụ với quy mô lớn là điều thiết yếu.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_c33bd700553abf91": {
+      "text": "$$ダグザ$$\n「Và để làm được điều đó,\n　cần một tổ chức có quyền lực ngang với thần linh.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_feee5c91826230e1": {
+      "text": "$$バナージ$$\n「Đó chính là Liên bang Trái Đất...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_bccc48e1964ad22d": {
+      "text": "$$ダグザ$$\n「Một vị thần vô tình\n　thẳng tay đè bẹp bất cứ ai chống lại...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_f8736aaaa216c766": {
+      "text": "$$ダグザ$$\n「Vụ đánh bom dinh Thủ tướng có lợi cho chính phủ Liên bang.\n　Bởi dưới danh nghĩa chống khủng bố,\n　họ được phép duy trì quyền lực ấy.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d1ec2522c87c361d": {
+      "text": "$$バナージ$$\n「Ông nói như thể Liên bang đã tự dàn dựng vụ khủng bố vậy.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_3599f0a4343fd95c": {
+      "text": "$$ダグザ$$\n「Trong thế giới người lớn, đôi khi chuyện như thế vẫn xảy ra.\n　Nhưng chắc chẳng còn ai trong cuộc sống đến giờ đâu.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_3bc7834a5bf3ee76": {
+      "text": "$$カツ$$\n「Nếu vụ ám sát là do Liên bang tự dàn dựng,\n　thì đó là một bê bối khủng khiếp nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_366814efdc8b5800": {
+      "text": "$$バナージ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_9be1a4c10bb62515": {
+      "text": "$$バナージ$$\n（Chính sự thật ấy có sức mạnh\n　lật đổ thể chế hiện tại...\n　Đó là... Hộp Laplace sao...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_94a88c90e557e16e": {
+      "text": "$$エマ$$\n「Liệu có thế không...\n　Đúng là một sự thật tai tiếng, nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_1c208ca0cbf26f28": {
+      "text": "$$リディ$$\n「Trong đa nguyên thế giới nơi bao thế giới hòa lẫn này,\n　dù cùng tên Liên bang, chuyện chính trị từ quá khứ\n　của riêng một thế giới còn có ý nghĩa đến đâu?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_5b7ee307a700171a": {
+      "text": "$$カツ$$\n「Cũng đúng nhỉ...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_8d8f065c932da30a": {
+      "text": "$$バナージ$$\n（Đúng vậy...\n　Nghe nói thế thì quả là đúng...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_f5432119677514f7": {
+      "text": "$$ルカ$$\n「Sắp đến lúc lực lượng truy kích\n　của Neo Zeon đuổi kịp chúng ta rồi.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_4e5c8e989c4a7691": {
+      "text": "$$ミシェル$$\n「Chắc bên kia cũng đang bối rối,\n　vì ta lại dừng chân để ra đón đánh thế này.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_adec86483b13599a": {
+      "text": "$$オズマ$$\n「Đó chính là mục đích của kế hoạch.\n　Nếu kìm được $$フル・フロンタル$$, chủ lực của địch,\n　thì sẽ có cơ hội chiến thắng.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_2cf701bbcde3ec13": {
+      "text": "$$ダグザ$$\n「Vào vị trí thôi, $$バナージ$$.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_c17c58fdba72005e": {
+      "text": "$$バナージ$$\n「Vâng.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_1fe8564d2b959317": {
+      "text": "$$ダグザ$$\n「Tôi sẽ quan sát tình hình chiến đấu từ đây\n　và chỉ huy toàn đội.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_f527e012803f7f1c": {
+      "text": "$$ダグザ$$\n「$$バナージ$$, nhiệm vụ của cậu\n　là nhử $$フル・フロンタル$$ từ vị trí này.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_4b1247bd3ca4905d": {
+      "text": "$$バナージ$$\n「Cháu hiểu rồi.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_00c55e25f87b71d0": {
+      "text": "$$ダグザ$$\n「Nếu muốn, cậu cũng có thể dùng NT-D\n　đánh bại hắn khi hắn tới.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_338f3b27e51dcc41": {
+      "text": "$$バナージ$$\n「Chuyện đó...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d91d4bc2d52b61c4": {
+      "text": "$$シン$$\n「Đừng cố quá, $$バナージ$$.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_0c8ea89b07432421": {
+      "text": "$$キラ$$\n「Cứ để bọn anh chiến đấu.\n　Em chỉ cần nghĩ đến việc bảo vệ bản thân thôi.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_4dbfba00ba7744ee": {
+      "text": "$$バナージ$$\n「Anh $$シン$$, anh $$キラ$$...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_be100a32b731708d": {
+      "text": "$$ダグザ$$\n「Hai người đó... có vẻ đã rũ bỏ\n　những do dự còn đeo bám đến hôm qua rồi.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_702f82442fcec8a9": {
+      "text": "$$バナージ$$\n「Rũ bỏ... do dự...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b1e38da4e8775ffe": {
+      "text": "$$メラン$$\n「Neo Zeon đang đến!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ブライト$$\n「Toàn quân vào trạng thái chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$オットー$$\n「Đến rồi sao, $$フル・フロンタル$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_3dad695c99e9e052": {
+      "text": "$$アルベルト$$\n（Nếu thằng nhóc đó kích hoạt NT-D trong trận này,\n　tọa độ tiếp theo chỉ đường tới Hộp Laplace sẽ hiện ra...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_66d4ae3a21caf881": {
+      "text": "$$アルベルト$$\n（Dù $$エタニティ・フラット$$ hoàn tất,\n　thế giới cũng không kết thúc ngay lúc ấy.\n　Vì thế, bằng mọi giá phải lấy được chiếc hộp...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_0c18da7b3a37825d": {
+      "text": "$$オットー$$\n「Tốt...! Giờ chỉ cần đánh hắn theo đúng kế hoạch...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_63249745ffae61b6": {
+      "text": "$$レイアム$$\n「Lực lượng Neo Zeon đang đến từ hướng khác!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_abdb034ae8509702": {
+      "text": "$$オットー$$\n「Chúng có cả một cánh quân khác sao!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_3ff2e21207d1d1d3": {
+      "text": "$$カミーユ$$\n「$$キュベレイ$$!\n　$$ハマーン・カーン$$ đã đến sao!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_e51ecf6d6aa42e75": {
+      "text": "$$フロンタル$$\n「Thật xin lỗi.\n　Lại để cả ngài $$ハマーン$$ phải ra tiền tuyến.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_47ddabb7b60131c2": {
+      "text": "$$ハマーン$$\n「Đừng bận tâm, $$フロンタル$$.\n　Tổng soái đang chỉ huy toàn quân rồi.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b025267f22788233": {
+      "text": "$$ハマーン$$\n「Ta và ngươi sẽ đánh $c...\n　Nhưng sơ sẩy thì trận này còn khắc nghiệt hơn\n　đối đầu với cả quân đội Liên bang.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ec1a06a7023bf72c": {
+      "text": "$$フロンタル$$\n「Nhưng chúng cũng đang chia quân.\n　Đây hẳn là thời cơ tốt.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_8805f96e52aaa462": {
+      "text": "$$ハマーン$$\n「Đã hiểu vậy thì đi thôi.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_124591cb154fae64": {
+      "text": "$$フロンタル$$\n「Rõ.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$ハマーン$$\n（Thật khó ưa, $$フル・フロンタル$$...\n　Tỏ vẻ phục tùng như vậy,\n　nhưng sau lưng đang toan tính điều gì?）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_4bf9b05b5f948170": {
+      "text": "$$ハマーン$$\n（Để dứt mối lo về sau,\n　ta sẽ phá hủy Unicorn mà hắn cứ khăng khăng theo đuổi\n　ngay tại đây.）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_eaa52d152f444bfd": {
+      "text": "$$カミーユ$$\n「Cả $$ハマーン$$ cũng nhắm vào Unicorn sao...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b4bc9e9435b58e6f": {
+      "text": "$$エマ$$\n「Lực lượng địch lại có đến hai chủ lực...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_a9227573166977a9": {
+      "text": "$$オズマ$$\n「Tưởng đã giăng bẫy được chúng,\n　nào ngờ chúng còn cao tay hơn...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b0600ab9a9e8559d": {
+      "text": "$$オットー$$\n「Lúc này nên rút lui chăng...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_7cbc63dad295f862": {
+      "text": "$$アルベルト$$\n「Không được, thuyền trưởng!\n　Lỡ để lộ điểm yếu, chúng sẽ thừa cơ lấn tới!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_07f53c816e0a51f5": {
+      "text": "$$オットー$$\n「Không ngờ lại được nghe những lời\n　dũng cảm như vậy từ miệng ông đấy.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_2d09c6f6a2d990ea": {
+      "text": "$$アルベルト$$\n「T-tôi cũng đã đồng hành với $c đến giờ mà.\n　Tôi cũng có sự chuẩn bị tinh thần chứ!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_3c5fcfc484a51913": {
+      "text": "$$ブライト$$\n「Ông $$アルベルト$$ nói cũng có lý.\n　Lúc này chỉ còn cách đón đánh chúng.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_0476ffd10c764b0e": {
+      "text": "$$ジェフリー$$\n「Nhưng tính sai thời điểm rút lui\n　thì hậu quả sẽ không thể cứu vãn.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$ブライト$$\n「Năm phút...!\n　Nếu trong thời gian đó vẫn không thấy cơ hội thắng,\n　ta sẽ rút lui dù phải chấp nhận hy sinh!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_2b3479c4cf0680f4": {
+      "text": "$$バナージ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_e370696b8936b08c": {
+      "text": "$$ダグザ$$\n「Kế hoạch không thay đổi...!\n　Các máy vừa bảo vệ Unicorn vừa đón đánh địch!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_9d7b02c5e728b7aa": {
+      "text": "$$ダグザ$$\n「Hạ được một trong hai chủ lực của địch,\n　$$ハマーン$$ hoặc $$フロンタル$$,\n　thì thế trận hẳn sẽ nghiêng về phía ta!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_9af213fc64e0afec": {
+      "text": "$$バナージ$$\n「Ông $$ダグザ$$...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d7f1c506e78e55ff": {
+      "text": "$$ダグザ$$\n「Đừng lo, $$バナージ$$.\n　Lần này đến lượt chúng tôi bảo vệ cậu.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_0c705091f748360e": {
+      "text": "$$バナージ$$\n「Bảo vệ...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_9eb8599304125b2f": {
+      "text": "$$フロンタル$$\n「Còn phải giữ thể diện trước $$ハマーン・カーン$$ nữa.\n　Không thể tốn quá nhiều thời gian...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_a072aa25e5f521e0": {
+      "text": "$n\n「$$フル・フロンタル$$ định\n　ra tay với Unicorn sao!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_24e1a808a1609a1a": {
+      "text": "$$シン$$\n「Lùi lại, $$バナージ$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_53128ce8f154fd06": {
+      "text": "$$バナージ$$\n「Ư!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_03b5db9ce98fb8d6": {
+      "text": "$$アルベルト$$\n「Làm gì vậy, $$バナージ・リンクス$$!\n　Sao không kích hoạt NT-D!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_3915fb4102f1c1dd": {
+      "text": "$$バナージ$$\n「Ông có nói vậy thì cũng...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_817b2773b4ed563e": {
+      "text": "$$カミーユ$$\n「Hệ thống cảm nhận được\n　sự do dự của $$バナージ$$ sao...!?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_1cc233cbc8c80af7": {
+      "text": "$$アムロ$$\n「Nhưng như vậy còn hơn.\n　Nếu NT-D kích hoạt lúc này, chắc chắn\n　$$バナージ$$ sẽ bị hệ thống nuốt chửng!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$アルベルト$$\n（Chết tiệt...!\n　Thằng nhóc đó chẳng bao giờ chịu theo ý mình!）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_e180b22d18f48d38": {
+      "text": "$$フロンタル$$\n「Còn phải giữ thể diện trước $$ハマーン・カーン$$ nữa.\n　Không thể tốn quá nhiều thời gian...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_e598c2a0b27e7f50": {
+      "text": "$n\n「$$フル・フロンタル$$ định\n　ra tay với Unicorn sao!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_4d2a9066c4e7b27f": {
+      "text": "$$シン$$\n「Lùi lại, $$バナージ$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_10340119af3ed6db": {
+      "text": "$$バナージ$$\n「Ư!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_23a9c7ab620ab112": {
+      "text": "$$バナージ$$\n「Không được!\n　Không cắt đuôi người đó được!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_4f0aca6deda07883": {
+      "text": "$$アルベルト$$\n「$$バナージ・リンクス$$, đánh với $$シナンジュ$$ đi!\n　Làm vậy thì NT-D hẳn sẽ kích hoạt!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_8fe40600ce62dfbc": {
+      "text": "$$オットー$$\n「Ông...!\n　Định nói là cứ để $$バナージ$$\n　bị hệ thống nuốt chửng rồi mất kiểm soát cũng được sao!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ff4ce5f3cf96b617": {
+      "text": "$$アルベルト$$\n「Dù sao, cứ thế này thì\n　cũng chỉ bị $$シナンジュ$$ hạ thôi!\n　Vậy thà đánh cược vào cơ hội một phần vạn còn hơn!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d73c21f119847e35": {
+      "text": "$$カミーユ$$\n「Kiểm soát NT-D đi, $$バナージ$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_89766f5ffaa912d4": {
+      "text": "$$バナージ$$\n「Em đang cố đây!\n　Nhưng...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$ダグザ$$\n「Dù vậy, vẫn còn chưa đủ!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_451f726d4299ea35": {
+      "text": "$$バナージ$$\n「Ông $$ダグザ$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_e3d111e8bb190cb1": {
+      "text": "$$ダグザ$$\n「Thật đáng xấu hổ, nhưng cuối cùng\n　vẫn chỉ còn cách dựa vào cậu!\n　Vì vậy, $$バナージ$$... hãy chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$バナージ$$\n「Nhưng...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ab97c2b2418ea732": {
+      "text": "$$ダグザ$$\n「Cỗ máy đó không phải thứ máy giết chóc\n　để diệt tận gốc Zeon, đúng không!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_2ddff5064af78db4": {
+      "text": "$$ダグザ$$\n「Chẳng phải chính vì cũng nghĩ như vậy\n　mà cậu đã chiến đấu bằng Unicorn đến giờ sao!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_050d0532c4b24bfe": {
+      "text": "$$バナージ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d583fcea31bdad2e": {
+      "text": "$$ダグザ$$\n「Thứ biến máy móc thành sức mạnh\n　chính là trái tim bằng xương bằng thịt của người lái!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_475f7653621a91b5": {
+      "text": "$$ダグザ$$\n「Bộ phận duy nhất có thể thay đổi số phận,\n　tự quyết định chính mình...\n　Đó là trái tim con người!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_f228ae702350849b": {
+      "text": "$$バナージ$$\n「Trái tim...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d69dc027cba3003f": {
+      "text": "$$ダグザ$$\n「Tôi sẽ câu giờ!\n　Hãy dùng trái tim cậu thay đổi điều gì đó đi!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_3c3735172a480b72": {
+      "text": "$$バナージ$$\n「Liều lĩnh quá, ông $$ダグザ$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_1f418b5594cea300": {
+      "text": "$$ダグザ$$\n「Đây là trái tim tôi...!\n　Ước vọng nảy sinh trong một bánh răng...\n　Ước vọng tôi đã đặt cược vào cậu!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_f87fb889124bfaef": {
+      "text": "$$フロンタル$$\n「Cứ bám riết lấy ta sao!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_79c90de32a79212d": {
+      "text": "$$ダグザ$$\n「Uôôôôôô!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_33f7fd55913419e8": {
+      "text": "$$フロンタル$$\n「Chậc!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_473d9a88b4ca96e7": {
+      "text": "$$ダグザ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_4de6ac85c63bac12": {
+      "text": "$$バナージ$$\n「Ông $$ダグザ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_4c92652c9b1adf6f": {
+      "text": "$$ダグザ$$\n「Bana...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ce90563a934d49fb": {
+      "text": "$$バナージ$$\n「Uaaaaaaa!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_4fb296e63cb1fb46": {
+      "text": "$$バナージ$$\n「Ông $$ダグザ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$アムロ$$\n「Đây là... ánh sáng của Psycho-Frame!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_9dc59affd40f32fc": {
+      "text": "$$ハマーン$$\n「Ý thức của ta đang bị nuốt chửng!?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_0cea115be526a319": {
+      "text": "$$カミーユ$$\n「$$ハマーン$$!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d36072babd12aeb4": {
+      "text": "$$バナージ$$\n「Uôaaaa!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_09ee921a85025fd3": {
+      "text": "$$アムロ$$\n「Psycho-Frame của Unicorn\n　đã khiến ý thức của $$カミーユ$$ và $$ハマーン$$\n　chồng lên nhau sao...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_fae689f2a1057b61": {
+      "text": "$$カミーユ$$\n「Chúng ta đã thấy cùng một điều...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_91c6d0bb53854ecc": {
+      "text": "$$ハマーン$$\n「Chỉ là ký ức mà...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_42a3149105314ab8": {
+      "text": "$$カミーユ$$\n「$$ハマーン$$...\n　Người ấy trong lòng cô\n　lại mỉm cười dịu dàng đến vậy sao...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_62ecd978c667bd29": {
+      "text": "$$ハマーン$$\n「Đừng tỏ ra thân mật, $$カミーユ・ビダン$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d441e6cc908ac01b": {
+      "text": "$$ハマーン$$\n「Dám ngang nhiên xông vào tâm trí người khác!\n　Biết xấu hổ đi, đồ phàm phu!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b2aab8873350ea1f": {
+      "text": "$$カミーユ$$\n「Không phải, $$ハマーン$$!\n　Tôi cũng giống như cô!\n　Vì vậy...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_2c7af4c55d8ac938": {
+      "text": "$$ハマーン$$\n「Im đi!\n　Ngươi cũng giống hệt $$シャア$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_653b741d07545dff": {
+      "text": "$$ハマーン$$\n「Đúng là ngươi có tố chất xuất chúng!\n　Nhưng ta không thể tha thứ cho sự vô lễ đó!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d584d4b5af55b1cf": {
+      "text": "$$カミーユ$$\n「$$ハマーン$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_db0ee69ece206fcd": {
+      "text": "$$フロンタル$$\n（Đúng là đàn bà, $$ハマーン・カーン$$.\n　Quả nhiên trong lòng, cô vẫn sống\n　bằng cách bám víu vào $$シャア・アズナブル$$ sao.）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_f97e6925c9e37332": {
+      "text": "$$バナージ$$\n「$$フル・フロンタル$$!\n　Ông...!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_422861e0b8d77d0c": {
+      "text": "$$フロンタル$$\n「Như vậy mới phải, $$バナージ$$.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ef16bcaa2b0e0c45": {
+      "text": "$$フロンタル$$\n（Ta đang theo dõi hoạt động của Unicorn\n　qua Psycho-Monitor.\n　Thế là lại tiến thêm một bước đến chiếc hộp.）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_2b93cca10f1c36a8": {
+      "text": "$$フロンタル$$\n「Đến đây thôi sao...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_7980fd37141d88d0": {
+      "text": "$$フロンタル$$\n（Nhưng mục đích đã đạt được.）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ac21212c36d2b9ad": {
+      "text": "$$ハマーン$$\n「Không ngờ chính ta lại bị làm dao động...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_a26e2108358af7a4": {
+      "text": "$$カミーユ$$\n「Dừng lại, $$ハマーン$$!\n　Chúng ta có thể hiểu nhau mà!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_a8118b2e37aa1382": {
+      "text": "$$ハマーン$$\n「Câm miệng, đồ phàm phu!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_017a56991b7b8ca4": {
+      "text": "$$フロンタル$$\n「Đến đây thôi sao...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ad3e1db3419665fb": {
+      "text": "$$フロンタル$$\n（Nhưng mục đích đã đạt được từ trước rồi.）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_0149e3a5f2e5ef78": {
+      "text": "$$ブライト$$\n「Chiến đấu tiếp sẽ rất nguy hiểm!\n　Các máy, rút lui!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_3ad10e705167a3fa": {
+      "text": "$$フロンタル$$\n「Rút lui sao, $c?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_bdc546b199c80996": {
+      "text": "$$フロンタル$$\n（Nhưng mục đích đã đạt được từ trước rồi.）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_22c8caf8c08c5119": {
+      "text": "$$マリーダ$$\n「Ít nhất Unicorn phải kết thúc ở đây...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_9c13714b3efbc7a8": {
+      "text": "$$バナージ$$\n「Chị $$マリーダ$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_96f156e19b53fc09": {
+      "text": "$$マリーダ$$\n「Phân thắng bại tại đây, $$バナージ$$!\n　Cậu và tôi đã quá gần gũi rồi!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_feb0390bba7fe1fb": {
+      "text": "$$バナージ$$\n「Dù vậy, chắc chắn vẫn có câu trả lời khác ngoài chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_8a78bcec22029401": {
+      "text": "$$マリーダ$$\n「Nếu có thể tìm ra câu trả lời ấy,\n　thì cuộc chiến này đã chẳng xảy ra!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_f42017dfce31dea9": {
+      "text": "$$バナージ$$\n「Đừng từ bỏ suy nghĩ, chị $$マリーダ$$!\n　Nếu vứt bỏ khả năng đó, mọi chuyện sẽ kết thúc ngay tại đấy!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ef7426919f628d8a": {
+      "text": "$$マリーダ$$\n「Những lời đó không cản được tôi đâu!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_9e994a4b926d9906": {
+      "text": "$$バナージ$$\n「Chị $$マリーダ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ffae76d2a77abf5a": {
+      "text": "$$マリーダ$$\n「Ư!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_3ac462d37e5893ff": {
+      "text": "$$バナージ$$\n「Chị $$マリーダ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_fd6bdf7910d7d925": {
+      "text": "???\n「!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d38be46e6cd7a5e5": {
+      "text": "$$バナージ$$\n「Một đứa trẻ...!?\n　Hình ảnh này là gì...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_3fe2078328753c16": {
+      "text": "???\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_c66844158d1ce600": {
+      "text": "$$バナージ$$\n「Là... chị $$マリーダ$$ sao...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d037ecbc1e348dc9": {
+      "text": "$$マリーダ$$\n「Ư...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_bcd53d14c4785426": {
+      "text": "$$バナージ$$\n（Thế này... Thế này thì quá đau buồn...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_9ca55ea7feca954a": {
+      "text": "$$マリーダ$$\n（Chỉ lòng tốt thôi thì không cứu được con người...\n　Vì nó không thể xóa đi tội lỗi và nhơ nhuốc...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_554ae12c4c170253": {
+      "text": "$$バナージ$$\n（Dù vậy...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_fa59c6df081e6ae4": {
+      "text": "$$マリーダ$$\n（Dù vậy...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ca3edf3b8b52aedf": {
+      "text": "$$ジンネマン$$\n「$$マリーダ$$!!\n　Ta đến ngay đây!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_aa5d235c78ebe19f": {
+      "text": "$$フラスト$$\n「Không được đâu, thuyền trưởng!\n　Từ vị trí này thì...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_0b3b19cddb871f90": {
+      "text": "$$ジンネマン$$\n「Khốn kiếếếp!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_304e98dac43c9333": {
+      "text": "$$モニカ$$\n「Thuyền trưởng!\n　Có chiến hạm Neo Zeon đang tiến vào vùng không gian này!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b740d817a14afd3a": {
+      "text": "$$モニカ$$\n「Đó là... $$レウルーラ$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_40e4c010d1b35b4c": {
+      "text": "$$ジェフリー$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_c33abf00683a32bc": {
+      "text": "$$アムロ$$\n「$$シャア$$ đã đến sao!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_3036adce91d1f4a8": {
+      "text": "$$ブライト$$\n「Chậc!\n　Hắn ưu tiên đối phó với chúng ta\n　hơn là quân chủ lực Liên bang sao!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_019293cb83599509": {
+      "text": "$$シャア$$\n「Thông báo tới $c.\n　Tôi là tổng soái Neo Zeon, $$シャア・アズナブル$$.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_9b949b9281aaeef1": {
+      "text": "$$シャア$$\n「Tôi đến đây để hội đàm với các vị.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b39a1dd705fe6cbf": {
+      "text": "$$アムロ$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_c9016e3ab05470b0": {
+      "text": "$$シャア$$\n「Tôi nhắc lại.\n　Tôi không ở đây để chiến đấu với các vị.\n　Tôi đến để đề nghị đình chiến.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_a684e6cea428e518": {
+      "text": "$$シャア$$\n「Nếu chấp nhận yêu cầu hội đàm,\n　ba ngày nữa, tôi sẽ chờ tại điểm 1737.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_cf907a4d5de8b5c9": {
+      "text": "$$フロンタル$$\n「Tổng soái...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_a5774604a0f00702": {
+      "text": "$$ハマーン$$\n「Anh định làm gì, $$シャア$$...?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b4fa30f33e84207f": {
+      "text": "$$シャア$$\n「Đó là câu trả lời tôi đưa ra với tư cách tổng soái.\n　Nếu có bất mãn, tôi sẽ lắng nghe.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_9133b7e0b34de48f": {
+      "text": "$$ハマーン$$\n「...Được thôi.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_4ae9c4bd77494c4a": {
+      "text": "$$シャア$$\n「$c...\n　Tôi mong các vị đưa ra quyết định sáng suốt.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_7313331f4077d255": {
+      "text": "$$アムロ$$\n「$$シャア$$... Đến giờ này anh còn định...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_a84ab0c3c1ba44d4": {
+      "text": "$$カミーユ$$\n「Hội đàm hòa bình với $c...\n　Có vẻ không phải giữa\n　Liên bang Trái Đất và Neo Zeon nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_414e6e90094d1413": {
+      "text": "$$オットー$$\n「Liệu có phải... một cái bẫy không?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_83a9e41e15444c69": {
+      "text": "$$ブライト$$\n「Hắn đã đích thân xuất hiện như vậy.\n　Với tính cách của hắn thì khó có chuyện đó.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_09227dec2bd6f4d8": {
+      "text": "$$アムロ$$\n「Vậy là chỉ còn cách đi sao...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_7b3a37f5039eb1f6": {
+      "text": "$$ジェフリー$$\n「Đây sẽ là một bước ngoặt lớn...\n　Chúng ta cũng nên hội quân với lực lượng dưới mặt đất.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_cb6d9ee71c24b042": {
+      "text": "$$バナージ$$\n「Chiến tranh... sẽ kết thúc sao...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ddd97a6ef823929a": {
+      "text": "$$バナージ$$\n「...Nhưng... ông $$ダグザ$$ thì...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_df349052cd9cdd0c": {
+      "text": "$$バナージ$$\n「NT-D lại kích hoạt!?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_a7ce9f908380694c": {
+      "text": "$$バナージ$$\n「Chương trình Laplace...\n　Đây là cái gì...?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_de3cc1f733dcb073": {
+      "text": "$$バナージ$$\n「Tọa độ này...\n　Đây là... Dakar sao...?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_0835ec3fff318aff": {
+      "text": "$$アルベルト$$\n「Làm gì vậy, $$バナージ・リンクス$$!\n　Sao không kích hoạt NT-D!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_c32efc7394910997": {
+      "text": "$$バナージ$$\n「Ông có nói vậy thì cũng...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b01db8213417811e": {
+      "text": "$$カミーユ$$\n「Hệ thống cảm nhận được\n　sự do dự của $$バナージ$$ sao...!?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_bc0273c6ae91c929": {
+      "text": "$$アムロ$$\n「Nhưng như vậy còn hơn.\n　Nếu NT-D kích hoạt lúc này, chắc chắn\n　$$バナージ$$ sẽ bị hệ thống nuốt chửng!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_8deea7c70d7a76e7": {
+      "text": "$$アルベルト$$\n（Chết tiệt...!\n　Thằng nhóc đó chẳng bao giờ chịu theo ý mình!）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_660c72e627d873c7": {
+      "text": "$$アンジェロ$$\n「Hết lần này đến lần khác mất mặt trước đại tá...!\n　Rốt cuộc mình đang làm cái gì vậy!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_5d8b67b5bd8ce190": {
+      "text": "$$フロンタル$$\n「Cậu quá nghiêm khắc với mình rồi, $$アンジェロ$$.\n　Như vậy sẽ tự hủy hoại bản thân đấy.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_7cf3c91395139f5c": {
+      "text": "$$マリーダ$$\n「Chủ nhân!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_6ccd85652ef4ccf1": {
+      "text": "$$フラスト$$\n「Thuyền trưởng!\n　Không trụ thêm được nữa đâu!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_fbe7bf7d854012a7": {
+      "text": "$$ジンネマン$$\n「Tìm cách xoay xở được mới là lúc thể hiện bản lĩnh chứ!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_1f438885dbc1359e": {
+      "text": "$$ハマーン$$\n「Rút lui, $$ジンネマン$$.\n　Phần còn lại để ta lo.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_2e59226caa35f6e5": {
+      "text": "$$ジンネマン$$\n「Nhưng...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_5d7a3adb077ad934": {
+      "text": "$$ハマーン$$\n「Hãy bảo vệ chốn trở về cho $$マリーダ$$.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_78d3b2a75e38d6f7": {
+      "text": "$$ジンネマン$$\n「...Đã rõ.\n　$$ガランシェール$$ rút lui.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_8d461de418389bf8": {
+      "text": "$$マリーダ$$\n「Thưa ngài...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_5cb2acefa1e7c7fb": {
+      "text": "$$ハマーン$$\n「Là vậy đấy, $$マリーダ$$.\n　Nhất định phải sống sót trở về.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_59ce7fd9524ec8be": {
+      "text": "$$マリーダ$$\n「Rõ!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_33f67c683bda9203": {
+      "text": "$$フラスト$$\n「Thuyền trưởng!\n　Không trụ thêm được nữa đâu!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_476fb20ab9d18957": {
+      "text": "$$ジンネマン$$\n「Tìm cách xoay xở được mới là lúc thể hiện bản lĩnh chứ!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_6be0d6139fac197c": {
+      "text": "$$ハマーン$$\n「Rút lui, $$ジンネマン$$.\n　Phần còn lại để ta lo.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_df899b8031b4ca06": {
+      "text": "$$ジンネマン$$\n「Nhưng...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_c5d048c7db7cac75": {
+      "text": "$$ハマーン$$\n「Ngươi định khiến $$マリーダ$$ mất đi chốn trở về sao?」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_308e8ac66b1141ef": {
+      "text": "$$ジンネマン$$\n「...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_64f25294d71a5d55": {
+      "text": "$$ジンネマン$$\n「Đã rõ.\n　$$ガランシェール$$ rút lui.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b6ca80db4741a62c": {
+      "text": "$$ギルボア$$\n「Đến đây thôi sao!\n　Phần còn lại trông cậy vào mọi người!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_432a29155221625f": {
+      "text": "$$マリーダ$$\n「Ít nhất Unicorn phải kết thúc ở đây...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_9f7c18d1ea1b55c9": {
+      "text": "$$バナージ$$\n「Chị $$マリーダ$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_56688ad8e41b7b42": {
+      "text": "$$マリーダ$$\n「Phân thắng bại tại đây, $$バナージ$$!\n　Cậu và tôi đã quá gần gũi rồi!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_34a510533cb8a9f5": {
+      "text": "$$バナージ$$\n「Dù vậy, chắc chắn vẫn có câu trả lời khác ngoài chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_1afedc9fa466f321": {
+      "text": "$$マリーダ$$\n「Nếu có thể tìm ra câu trả lời ấy,\n　thì cuộc chiến này đã chẳng xảy ra!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_9547b3241808695f": {
+      "text": "$$バナージ$$\n「Đừng từ bỏ suy nghĩ, chị $$マリーダ$$!\n　Nếu vứt bỏ khả năng đó, mọi chuyện sẽ kết thúc ngay tại đấy!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_32b2a8ce24deeb9f": {
+      "text": "$$マリーダ$$\n「Những lời đó không cản được tôi đâu!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_c7ef92060bb8199d": {
+      "text": "$$バナージ$$\n「Chị $$マリーダ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_1be6d12f616f04e4": {
+      "text": "$$マリーダ$$\n「Ư!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_80f948aeaed93de8": {
+      "text": "$$バナージ$$\n「Chị $$マリーダ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_0d24e9726dcc79f9": {
+      "text": "???\n「!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_da648116badd491a": {
+      "text": "$$バナージ$$\n「Một đứa trẻ...!?\n　Hình ảnh này là gì...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_4e91ccecf1dd0f66": {
+      "text": "???\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_668b7114a3ac1d77": {
+      "text": "$$バナージ$$\n「Là... chị $$マリーダ$$ sao...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ef339c6f71e7560f": {
+      "text": "$$マリーダ$$\n「Ư...」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ce68dd10a19e01ea": {
+      "text": "$$バナージ$$\n（Thế này... Thế này thì quá đau buồn...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_13ce8d4e4858b193": {
+      "text": "$$マリーダ$$\n（Chỉ lòng tốt thôi thì không cứu được con người...\n　Vì nó không thể xóa đi tội lỗi và nhơ nhuốc...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_075101b23517fbaa": {
+      "text": "$$バナージ$$\n（Dù vậy...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_13c2ae299018c9ee": {
+      "text": "$$マリーダ$$\n（Dù vậy...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_6f4f8dd80820f5e7": {
+      "text": "$$ジンネマン$$\n「$$マリーダ$$!!\n　Ta đến ngay đây!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_afa513b4815df4c9": {
+      "text": "$$フラスト$$\n「Không được đâu, thuyền trưởng!\n　Từ vị trí này thì...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_6cf1e5ed68d98bd4": {
+      "text": "$$ジンネマン$$\n「Khốn kiếếếp!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_e62eb587b8d34cb9": {
+      "text": "$$ダグザ$$\n（Hừ... Nếu tôi có một đứa con trai,\n　có lẽ cũng sẽ có cảm giác như thế này...）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d72cc2c0739c9088": {
+      "text": "$$ダグザ$$\n（Hãy sống sót, $$バナージ$$...!\n　Cậu còn cả tương lai phía trước!）",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ecf4e1c8c0f8d2d7": {
+      "text": "$$バナージ$$\n「Ông dám làm vậy với ông $$ダグザ$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_e5a692ea5ce09cac": {
+      "text": "$$フロンタル$$\n「Chiến tranh là thế đấy, $$バナージ$$.\n　Cả cậu lẫn tôi đều ở trong đó.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_e793fc3ce3a0c28d": {
+      "text": "$$バナージ$$\n「Dù vậy, tôi vẫn...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_2be6c657d0e12c4b": {
+      "text": "$$バナージ$$\n「Kh! Ông $$ダグザ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_f89f6c6c4b076e16": {
+      "text": "$$フロンタル$$\n「Cảm nhận tốt đấy.\n　Phi công cảm nhận được sinh mạng người khác\n　sẽ trở nên mạnh mẽ.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_7569f965fff4d791": {
+      "text": "$$ハマーン$$\n「Gundam này...!\n　Biến ý chí con người thành sức mạnh sao!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b43bdba9393d4d68": {
+      "text": "$$バナージ$$\n「Người đó...!\n　Một kiểu sức mạnh khác với $$フル・フロンタル$$...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_3ec159d1a3492877": {
+      "text": "$$ハマーン$$\n「Ngươi sẽ phải trả giá\n　vì đã nhìn trộm vào tâm trí người khác!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_4e2fbafa9ebef558": {
+      "text": "$$バナージ$$\n「Thế thì đã sao!\n　Phía chúng tôi đã mất ông $$ダグザ$$ rồi đấy!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_bde2e27bac7e3317": {
+      "text": "$$バナージ$$\n「Cứ áp đặt lý lẽ của mình như thế!\n　Các người định tiếp tục cuộc chiến này đến bao giờ!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_631834aa1545ba7b": {
+      "text": "$$アムロ$$\n「Thừa nhận đi, $$ハマーン$$!\n　Cô chỉ đang bị $$シャア$$ kéo theo mà gây chiến thôi!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_0cd6aab432ee5af7": {
+      "text": "$$ハマーン$$\n「$$アムロ・レイ$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_c8b75f3bca245a85": {
+      "text": "$$アムロ$$\n「Cô phải hiểu chứ!\n　Dù không dùng đến chiến tranh,\n　vẫn có thể thay đổi thế giới!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b26be73e3c0c8bed": {
+      "text": "$$ハマーン$$\n「Nhảm nhí!\n　Ngươi định đứng về phía thể chế\n　và ép dân vũ trụ phải nhẫn nhục phục tùng sao!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_1a4dc288e81719ee": {
+      "text": "$$アムロ$$\n「Dứt khỏi $$シャア$$ đi, $$ハマーン$$!\n　Nếu chiến đấu, hãy chiến đấu bằng ý chí của chính cô!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_b8902c992035da79": {
+      "text": "$$ハマーン$$\n「Ta không cho phép ngươi nhục mạ ta thêm nữa!\n　Ngươi sẽ phải trả giá, $$アムロ・レイ$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_df10ad0a71c307da": {
+      "text": "$$フロンタル$$\n「Phân thắng bại thôi nào, $$アムロ$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_9293c52555ba1457": {
+      "text": "$$アムロ$$\n「Định bắt chước $$シャア$$ sao, $$フル・フロンタル$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_6c41647935e2574a": {
+      "text": "$$フロンタル$$\n「Rồi ngươi cũng sẽ hiểu\n　ý nghĩa những lời ta nói.」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_ca702b5726ebd4da": {
+      "text": "$$カミーユ$$\n「$$ハマーン$$!\n　Cô từ chối thấu hiểu nhau để tiếp tục chiến đấu sao!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_51ce1d8caa34c103": {
+      "text": "$$ハマーン$$\n「Nếu nghĩ đó là lòng thật của ta thì ngươi lầm to rồi!\n　Đừng tưởng ngươi được quyền\n　tự quyết định lòng người khác!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d00313056b19262c": {
+      "text": "$$カミーユ$$\n「Sao cô cứ nhất quyết không chịu thừa nhận lòng mình!\n　Làm vậy thì chỉ có diệt vong chờ phía trước thôi!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_d41f1e36365baa6f": {
+      "text": "$$ハマーン$$\n「Đừng làm ra vẻ hiểu hết!\n　Trước khi chuyện đó xảy ra, ta sẽ bắt ngươi trả giá\n　vì đã ngang nhiên xông vào tâm trí ta!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_2c37dd5b8f919a88": {
+      "text": "$$バナージ$$\n「Nhất định phải chiến đấu sao, chị $$マリーダ$$!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_53f5199f05a9aad8": {
+      "text": "$$マリーダ$$\n「Chấp nhận thực tại đi, $$バナージ$$!\n　Cậu và tôi đã được định sẵn phải như thế này!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_c6937f14a8985c35": {
+      "text": "$$バナージ$$\n「Dù vậy...!」",
+      "status": "reviewed"
+    },
+    "stage0058_04:r_07513334490fbdf9": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

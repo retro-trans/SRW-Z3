@@ -1,0 +1,390 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0013_04:r_caaab7bad760e16d": {
+      "text": "Khủng bố\n「Đã xác nhận bạo loạn nổ ra tại khu định cư Ariel!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_99b162aa6aa286a2": {
+      "text": "Khủng bố\n「Đồng chí của chúng ta đã ra tay sao?」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_58fb02434a1c40b2": {
+      "text": "Khủng bố\n「Chưa rõ tình hình.\n　Nhưng đây là cơ hội để bắt giữ Thứ trưởng Ngoại giao\n　Darlian và công chúa $$マリナ$$.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_1c0f94acd5a8a143": {
+      "text": "Khủng bố\n「Chẳng cần hòa hợp giữa Trái Đất và vũ trụ...!\n　Kẻ nào kêu gọi điều đó đều là kẻ thù của chúng ta!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_1263541f4071624e": {
+      "text": "Khủng bố\n「Toàn bộ đơn vị, đột nhập Ariel!\n　Bắt cả hai làm con tin để đàm phán với Liên bang Trái Đất!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_3bc300bbdc277d82": {
+      "text": "Khủng bố\n「Ariel chẳng có lực lượng phòng thủ ra hồn!\n　Chỉ cần xông vào khu định cư là chúng ta thắng!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_38762a09460d8b6b": {
+      "text": "Khủng bố\n「Khoan...!\n　Có thứ gì trên đường tiến quân!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_7ab28e70b4d4f641": {
+      "text": "$$ヒイロ$$\n（$$リリーナ$$...\n　Kẻ thù của em cũng là kẻ thù của tôi.）",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_b05f6a6e8f3d9b24": {
+      "text": "Khủng bố\n「Chiếc $$リーオー$$ đó định cản đường chúng ta sao!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_ec335e69f984b8b3": {
+      "text": "Khủng bố\n「Mặc kệ nó!\n　Chỉ một chiếc thì làm được gì!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_0abcaf0c31978670": {
+      "text": "$$ヒイロ$$\n「Xác nhận mục tiêu tấn công.\n　Bắt đầu loại trừ.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_1d6bc48b7f246730": {
+      "text": "$$ヒイロ$$\n「Viện binh à...!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_1af20fccc3c53cfc": {
+      "text": "$$ヒイロ$$\n「Flag...?」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_f951916061232dcd": {
+      "text": "$$刹那$$\n「Tôi sẽ yểm trợ, $$ヒイロ$$.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_4d863c3fb88a4c39": {
+      "text": "$$ヒイロ$$\n「Gundam đâu rồi?」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_44f4742c3dcce39a": {
+      "text": "$$刹那$$\n「Tôi mới phải hỏi câu đó.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_9e701cdeb3842c21": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_6fd81f4abebe60c5": {
+      "text": "$$刹那$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_da2132b5038ec737": {
+      "text": "$$ヒイロ$$\n「Đi thôi.\n　Không có thời gian tán gẫu đâu.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_495d61d3ec7e16f2": {
+      "text": "$$刹那$$\n「Dù không có Gundam,\n　chúng ta vẫn có việc phải làm.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_5cd353758cfe474d": {
+      "text": "$$ヒイロ$$\n「Nhưng không chỉ có chúng ta chiến đấu.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_a653c8dec4c0f06f": {
+      "text": "$$カミーユ$$\n「$$ヒイロ$$...!\n　Còn chiếc Flag bên cạnh cậu là...」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_86d493e37a9799a7": {
+      "text": "$$刹那$$\n「Là tôi.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_09d0fcc600cdd3df": {
+      "text": "$$カミーユ$$\n「$$刹那$$ à...!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_182faded068c15ed": {
+      "text": "$$ファ$$\n「Celestial Being cũng hợp tác với $$プリベンター$$ à?」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_9c206d19bfda4bd5": {
+      "text": "$$刹那$$\n「Chúng tôi đã tự điều tra động thái của các khu định cư.\n　Qua đó, chúng tôi biết có một nhóm tiến hành khủng bố\n　dưới danh nghĩa giải phóng các khu định cư.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_6e558bc69acf5bf3": {
+      "text": "$$刹那$$\n「Lần theo chúng nên tôi đến đây.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_d60d0818e965232f": {
+      "text": "$$リディ$$\n「Người lái chiếc Flag đó là\n　một Gundam Meister của Celestial Being à...」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_5b23687574286204": {
+      "text": "$n\n「Celestial Being...\n　Tổ chức vũ trang tư nhân với mục tiêu xóa bỏ chiến tranh...\n　Họ vẫn tiếp tục hoạt động sao.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_6fd86c96891ea942": {
+      "text": "$$カミーユ$$\n「Bí mật chiến đấu chống khủng bố,\n　giống như $$ミスリル$$ vậy.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_43e4e548c0b28376": {
+      "text": "$$カツ$$\n「Đó là $$刹那・Ｆ・セイエイ$$,\n　người từng lái $$ダブルオーライザー$$...」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_d80a9688790ed583": {
+      "text": "$$スズネ$$\n「Trong phim, cậu ấy giống một anh hùng đầy nhiệt huyết,\n　nhưng ngoài đời hơi khác nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_708bea61e3c43ada": {
+      "text": "$$オットー$$\n「Toàn bộ đơn vị, đừng để khủng bố đến gần khu định cư!\n　Ưu tiên tấn công những kẻ đang tiến lại gần!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_7b6f159eeaf4de0f": {
+      "text": "$$アルベルト$$\n「Lại lãng phí thời gian ở chỗ này...!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_0827963cfd706e8d": {
+      "text": "$$オットー$$\n「Xin ông hiểu cho tình hình, ông $$アルベルト$$.\n　Mục tiêu của khủng bố là Thứ trưởng Ngoại giao Darlian\n　và công chúa $$マリナ$$ đấy.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$オットー$$\n「Thứ trưởng Darlian hoạt động vì hòa hợp Trái Đất và vũ trụ,\n　còn công chúa $$マリナ$$ được người dân kính trọng\n　như một biểu tượng hòa bình...」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_3f4035fd9db81258": {
+      "text": "$$オットー$$\n「Ông không hiểu nếu hai người đó rơi vào tay khủng bố\n　thì sẽ rắc rối đến mức nào sao?」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_567b361a454c4b73": {
+      "text": "$$アルベルト$$\n（Chết tiệt!\n　Phía chúng ta có khi đang bên bờ\n　một cuộc khủng hoảng còn lớn hơn thế!）",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_d22851aaafbbf8fc": {
+      "text": "$$刹那$$\n「Đi thôi, $$ヒイロ$$.\n　Không thể để hai người đó rơi vào tay chúng.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_352534f64413d954": {
+      "text": "$$ヒイロ$$\n「Tôi biết.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_79f2664edb1af798": {
+      "text": "$$オットー$$\n「Cuối cùng cũng bảo vệ được họ rồi sao...」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$アルベルト$$\n「Cứ giao việc dọn dẹp cho đặc vụ $$プリベンター$$.\n　Mau cho tàu đến Industrial 7 đi.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_1c5aa0d15ae24846": {
+      "text": "$$レイアム$$\n「Có vẻ tình hình sắp không cho phép làm vậy...!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_53bb64ee17750ee2": {
+      "text": "$$刹那$$\n「Loại trang bị GN Drive giả lập à...!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_7a7add80fde475ba": {
+      "text": "$$エマ$$\n「Có vẻ chúng cũng là khủng bố.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_b2befefdbed1393d": {
+      "text": "$$リディ$$\n「Nhưng trang bị của chúng khác hẳn\n　đám máy cũ kỹ của Zeon và OZ vừa rồi!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_2103f6df2ea2e447": {
+      "text": "$$カミーユ$$\n「Mobile Suit dẫn đầu kia là mẫu mới sao...!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_a12e3e130d896ff7": {
+      "text": "$$トロワ$$\n「Cỗ máy này tên là $$サーペント$$.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ファ$$\n「Hả...!?」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_91bf33c27ad39f0a": {
+      "text": "$$カミーユ$$\n「Giọng nói đó... $$トロワ$$ sao!?」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_ee220318b96ab538": {
+      "text": "$$トロワ$$\n「Hiện giờ tôi được gọi bằng cái tên đó.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_ce1b55e526b6277a": {
+      "text": "$n\n「Cậu quen người đó à, $$カミーユ$$?」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_c304df6888eb78f7": {
+      "text": "$$カミーユ$$\n「Cậu ta là $$トロワ・バートン$$...\n　Một trong những phi công Gundam của các khu định cư\n　từng sát cánh cùng chúng tôi trong $$ＺＥＸＩＳ$$.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_c26958634526e597": {
+      "text": "$$刹那$$\n「Thế này là sao, $$ヒイロ$$?」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_cdb750c9d380881a": {
+      "text": "$$ヒイロ$$\n「...Tôi không biết.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_95fda74613c97b39": {
+      "text": "$$レイアム$$\n「Có vẻ lực lượng vừa xuất hiện nhắm vào chúng ta,\n　chứ không phải khu định cư.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_1956994937f8171e": {
+      "text": "$$アルベルト$$\n「Chẳng lẽ chúng đến để cầm chân tôi...」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_48f49f6728c15612": {
+      "text": "$$オットー$$\n「Ông nói vậy là sao, ông $$アルベルト$$?」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$アルベルト$$\n「C-có lẽ chúng là tay sai của Neo Zeon!\n　Thuyền trưởng! Mau đánh chặn đi!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_f02c37d91387d0ad": {
+      "text": "$$オットー$$\n「Chết tiệt...! Chúng đã tấn công trước,\n　thì ta đành phải nghênh chiến thôi!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$ヒイロ$$\n「$$トロワ$$...」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_9796b3efa401a303": {
+      "text": "$$トロワ$$\n「Đến đây, $$ヒイロ$$.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_643b6eebfc0186b3": {
+      "text": "$$トロワ$$\n「Không thể tiếp tục chiến đấu.\n　Rút lui.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_291280e5f7eb9d70": {
+      "text": "$$カツ$$\n「Đừng hòng chạy thoát...!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_32eb462c1b4999cb": {
+      "text": "$$エマ$$\n「Không cần truy kích đâu, $$カツ$$.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_1f4337d6d393fc37": {
+      "text": "$$リディ$$\n「Thế mà chúng vừa chủ động tấn công\n　đã rút lui dễ dàng quá nhỉ...」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_4740e748fae085ee": {
+      "text": "$$カミーユ$$\n「$$ヒイロ$$...」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_b76524cd840e1d37": {
+      "text": "$$ヒイロ$$\n「Tôi hiểu.\n　Có lẽ đó là cách cậu ta gửi thông điệp.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_730ffe18400abfc2": {
+      "text": "$n\n「Thông điệp...?」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_ffe0fca26da5cd38": {
+      "text": "$$ヒイロ$$\n「Chúng ta nên nhanh lên.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_bfb27f9eb2f7073e": {
+      "text": "$$ヒイロ$$\n「Cậu đi à?」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_859dfa27bcaafe30": {
+      "text": "$$刹那$$\n「Chúng ta sẽ còn gặp lại.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_71ebf05996a4b0fd": {
+      "text": "$$ヒイロ$$\n「Cậu ta cũng chẳng thay đổi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_6214c11b1bca811e": {
+      "text": "$$デュオ$$\n「Có vẻ bên này cũng xong rồi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_8eaf6f3098ffed12": {
+      "text": "$$ヒイロ$$\n「$$リリーナ$$ và công chúa có an toàn không?」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_cf507214fe955d75": {
+      "text": "$$デュオ$$\n「Ừ, họ đã sơ tán đến nơi an toàn rồi.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_2113dcbabdfc758a": {
+      "text": "$$カミーユ$$\n「$$デュオ$$, cậu kể cho chúng tôi\n　chuyện xảy ra trong khu định cư được không?」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$デュオ$$\n「Tôi sẽ kể trên tàu của các cậu.\n　Chưa rõ tình hình thế nào, nhưng có vẻ nên nhanh lên.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_6a74519e1fc29c4b": {
+      "text": "$$レイアム$$\n「Bọn khủng bố đã bám vào Ariel!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_5b992878fee054b5": {
+      "text": "$$オットー$$\n「Mau đánh bật chúng ra!\n　Bằng mọi giá, đừng để chúng lọt vào trong khu định cư!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$ヒイロ$$\n（$$リリーナ$$...）",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ヒイロ$$\n（Tôi sẽ bảo vệ em.）",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_20cf167c0ec0d4d5": {
+      "text": "$$刹那$$\n「Nếu nhân loại không thể ngừng tranh đấu,\n　chúng tôi sẽ tiếp tục chiến đấu\n　đến ngày họ nhận ra sai lầm ấy...!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_b591d812c96c6c99": {
+      "text": "$$刹那$$\n「Đó là sứ mệnh của chúng tôi, Celestial Being...!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_e350fa099c1ab072": {
+      "text": "$$ヒイロ$$\n「Cậu định làm gì vậy, $$トロワ$$?」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$トロワ$$\n「Hành động của tôi đã nói lên tất cả.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_c33bd700553abf91": {
+      "text": "$$ヒイロ$$\n「Được thôi.\n　Vậy tôi sẽ đánh bại cậu.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_feee5c91826230e1": {
+      "text": "$$刹那$$\n「$$トロワ・バートン$$...!\n　Kẻ nào đứng sau cậu!?」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_bccc48e1964ad22d": {
+      "text": "$$トロワ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_f8736aaaa216c766": {
+      "text": "$$刹那$$\n「Nếu cậu không chịu trả lời,\n　tôi sẽ trực tiếp tấn công Quỹ Barton...!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_d1ec2522c87c361d": {
+      "text": "$$カミーユ$$\n「Mình không cảm thấy sát khí từ $$トロワ$$...!?\n　Thế này là sao...」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_3599f0a4343fd95c": {
+      "text": "$$トロワ$$\n（$$カミーユ$$... cậu đã nhận ra ý định của tôi rồi à.）",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_3bc7834a5bf3ee76": {
+      "text": "$n\n「Tên này...!\n　Đúng là phi công Gundam có khác!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_366814efdc8b5800": {
+      "text": "$$トロワ$$\n「Binh sĩ non nớt thì đừng ra chiến trường.\n　Chỉ khiến đau thương chồng chất mà thôi.」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_9be1a4c10bb62515": {
+      "text": "$n\n「Nếu chỉ vì mấy lời đó mà bỏ cuộc,\n　thì tôi đã chìm trong sợ hãi từ lâu rồi!」",
+      "status": "reviewed"
+    },
+    "stage0013_04:r_94a88c90e557e16e": {
+      "text": "$n\n「Á!」",
+      "status": "reviewed"
+    }
+  }
+}

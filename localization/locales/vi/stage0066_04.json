@@ -1,0 +1,798 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0066_04:r_caaab7bad760e16d": {
+      "text": "$$アンナロッタ$$\n「Lũ vô đạo mạo danh thần linh sao...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_99b162aa6aa286a2": {
+      "text": "$$アンナロッタ$$\n「Được lệnh thanh trừng chúng, thật trớ trêu.\n　Các đơn vị, bắt đầu tấn công.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_58fb02434a1c40b2": {
+      "text": "$$アンナロッタ$$\n「Ra đây đi, lũ tín đồ kia.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_1c0f94acd5a8a143": {
+      "text": "$$テイタニア$$\n「Geminis sao...!\n　Tại sao lại tấn công bọn ta,\n　khi bọn ta đang liên minh với Amalgam!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_1263541f4071624e": {
+      "text": "$$アンナロッタ$$\n「Ngươi là chỉ huy sao...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_3bc300bbdc277d82": {
+      "text": "$$テイタニア$$\n「Trả lời đi!\n　Tùy câu trả lời, ta sẽ không để ngươi yên đâu!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_38762a09460d8b6b": {
+      "text": "$$アンナロッタ$$\n「Đừng làm ta buồn cười.\n　Cho ta xem cái gọi là\n　không để ta yên ấy là thế nào đi.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_7ab28e70b4d4f641": {
+      "text": "$$刹那$$\n「Tình hình này... là sao?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$ヒイロ$$\n「Không biết.\n　Nhưng có lợi cho chúng ta.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_ec335e69f984b8b3": {
+      "text": "$$アレルヤ$$\n「Ptolemy cũng sắp tới rồi.\n　Chúng ta rút lui thôi.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_0abcaf0c31978670": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_1d6bc48b7f246730": {
+      "text": "$$宗介$$\n「$$キリコ$$...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_1af20fccc3c53cfc": {
+      "text": "$$キリコ$$\n「Vẫn chưa kết thúc đâu.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_f951916061232dcd": {
+      "text": "$$スメラギ$$\n「Có vẻ không phải nội bộ lục đục.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_4d863c3fb88a4c39": {
+      "text": "$$テッサ$$\n「Có vẻ Geminis liên minh với Amalgam,\n　nhưng lại đối địch với $$マーティアル$$.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_44f4742c3dcce39a": {
+      "text": "$$ラッセ$$\n「Lũ mong người Trái Đất tự tàn sát đến diệt vong\n　mà lại phủ nhận thần chiến tranh cơ đấy.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_9e701cdeb3842c21": {
+      "text": "$$ミレイナ$$\n「Anh Seiei và mọi người đã lên tàu rồi ạ.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_6fd81f4abebe60c5": {
+      "text": "$$スメラギ$$\n「Các đơn vị, xuất kích!\n　Chúng ta không thể để mặc cả Geminis\n　lẫn $$マーティアル$$ được.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_da2132b5038ec737": {
+      "text": "$$アンナロッタ$$\n「Đúng lúc lắm, $c cũng xuất hiện rồi.\n　Dù mạnh đến đâu, một khi phân tán lực lượng,\n　chúng cũng chẳng làm được bao nhiêu.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_495d61d3ec7e16f2": {
+      "text": "$$アンナロッタ$$\n「Chưa cần điều động quân chủ lực.\n　Ta sẽ xử lý các ngươi cùng $$マーティアル$$ ngay tại đây.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_5cd353758cfe474d": {
+      "text": "$$テイタニア$$\n「Chậc...!\n　Điều quân Amalgam đi đánh chặn $$ミスリル$$\n　là hạ sách sao?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_a653c8dec4c0f06f": {
+      "text": "$$ゼロ$$\n「Thông báo toàn quân.\n　Nhiều khả năng sẽ thành trận chiến ba bên.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_86d493e37a9799a7": {
+      "text": "$$ゼロ$$\n「Nhưng còn phải tính đến sau này.\n　Ít nhất, chỉ huy của cả hai phe phải do chúng ta đánh bại.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_09d0fcc600cdd3df": {
+      "text": "$$キリコ$$\n（$$テイタニア$$...\n　Ta sẽ bắt cô khai ra nơi ở của $$フィアナ$$.）",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_182faded068c15ed": {
+      "text": "$$宗介$$\n「$$キリコ$$...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_9c206d19bfda4bd5": {
+      "text": "$$クルーゾー$$\n「Sagara, cậu có biết sức mạnh của người đó\n　bắt nguồn từ đâu không?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_6e558bc69acf5bf3": {
+      "text": "$$宗介$$\n「Từ người phụ nữ tên $$フィアナ$$ ạ?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_d60d0818e965232f": {
+      "text": "$$クルーゾー$$\n「Câu trả lời đó chỉ được 50 điểm.\n　Nếu chỉ có thế thì việc đưa cậu vào đội đột nhập\n　chẳng còn ý nghĩa gì.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_5b23687574286204": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_6fd86c96891ea942": {
+      "text": "$$カレン$$\n「$$宗介$$...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_43e4e548c0b28376": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_d80a9688790ed583": {
+      "text": "$$スズネ$$\n「Sao vậy, $n?\n　Mặt em căng thẳng quá...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_708bea61e3c43ada": {
+      "text": "$n\n「Người đó sắp tới rồi.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_7b6f159eeaf4de0f": {
+      "text": "$$カトル$$\n「Đó là...!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_0827963cfd706e8d": {
+      "text": "$$デュオ$$\n「Gã tên $$アドヴェント$$ gì đó sao...!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$ゼクス$$\n「Người đó... định giúp Geminis tiêu diệt chúng ta sao...!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_3f4035fd9db81258": {
+      "text": "$n\n「Xin chờ đã.\n　Anh ấy nói mình tới để giúp chúng ta.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_567b361a454c4b73": {
+      "text": "$$ゼロ$$\n「Có thể tin hắn sao?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_d22851aaafbbf8fc": {
+      "text": "$$スザク$$\n「Anh ấy đã giúp chúng ta trong thần điện, nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_352534f64413d954": {
+      "text": "$$アドヴェント$$\n「Tôi đã kể tình cảnh của mình với $n.\n　Trước hết hãy đánh lui Geminis đã.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_79f2664edb1af798": {
+      "text": "$$アドヴェント$$\n「Tôi sẽ hỗ trợ cậu, $n.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_a62c4e7f3c09f7ed": {
+      "text": "$n\n「À... cảm ơn anh.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_1c5aa0d15ae24846": {
+      "text": "$$アンナロッタ$$\n「Kẻ đã cản trở chúng ta ở Orb sao...!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_53bb64ee17750ee2": {
+      "text": "$$アドヴェント$$\n「$$アンナロッタ・ストールス$$,\n　nếu nghĩ mọi chuyện đều sẽ theo ý các người\n　thì nhầm to rồi.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_7a7add80fde475ba": {
+      "text": "$$アドヴェント$$\n「Tôi cũng sẽ cho các người thấy,\n　nghĩ toàn bộ Chrono đã khuất phục\n　trước các người cũng là một sai lầm.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_b2befefdbed1393d": {
+      "text": "$$テッサ$$\n「Các đơn vị hãy phối hợp với $$アドヴェント$$\n　tấn công Geminis và $$マーティアル$$.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_2103f6df2ea2e447": {
+      "text": "$$スメラギ$$\n「Nếu cố tận dụng tình thế này,\n　sơ sẩy là chúng ta sẽ bị đánh kẹp hai phía.\n　Đừng quên điều đó.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_a12e3e130d896ff7": {
+      "text": "$$ゼロ$$\n「$n!\n　Giao cho cậu giám sát hắn!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_b6f7b219eb4bd64b": {
+      "text": "$n\n「Rõ!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_91bf33c27ad39f0a": {
+      "text": "$$アドヴェント$$\n「Đi thôi, $n...!\n　Hãy dùng chính tay các cậu bảo vệ lịch sử nhân loại!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_ee220318b96ab538": {
+      "text": "$$フェルト$$\n「Có vẻ cả $$マーティアル$$ lẫn Geminis đều không có viện binh.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_ce1b55e526b6277a": {
+      "text": "$$スメラギ$$\n「Quân Amalgam đã không xuất hiện nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_c304df6888eb78f7": {
+      "text": "$$テッサ$$\n「Có vẻ họ đã đi đánh chặn $$ミスリル$$.\n　Nếu không nhanh lên, chắc họ sẽ quay lại.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_c26958634526e597": {
+      "text": "$$アドヴェント$$\n「Không cần lo chuyện đó.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_cdb750c9d380881a": {
+      "text": "$$刹那$$\n「Đội tác chiến của Chrono sao?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_95fda74613c97b39": {
+      "text": "$$アドヴェント$$\n「Các đơn vị vất vả rồi.\n　Kết quả thế nào?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_1956994937f8171e": {
+      "text": "Đội viên\n「Đã phá được một phần vòng vây của Amalgam.\n　Có thể thoát theo đường đó.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_48f49f6728c15612": {
+      "text": "Đội viên\n「Căn cứ đã bị phá hủy, vòng vây cũng bị phá,\n　liên quân Amalgam và $$マーティアル$$\n　có lẽ sẽ rút khỏi $$ヘルマジスタン$$.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$アドヴェント$$\n「Từ đầu đến giờ chúng ta vẫn bị động,\n　nhưng cuối cùng cũng xoay xở gỡ lại được.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_f02c37d91387d0ad": {
+      "text": "$$アドヴェント$$\n「Các đơn vị chuẩn bị rút lui.\n　Hãy thay tôi hộ tống $c\n　đến khu vực gần biên giới.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_6bbd5a3c5afb87e0": {
+      "text": "Đội viên\n「Đã rõ.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_9796b3efa401a303": {
+      "text": "$$テッサ$$\n「Trước đó, tôi muốn nghe về các anh\n　và Chrono.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_643b6eebfc0186b3": {
+      "text": "$$アドヴェント$$\n「...Tiếc là không có thời gian.\n　Thoát khỏi $$ヘルマジスタン$$ là việc ưu tiên,\n　còn tôi phải lên vũ trụ ngay sau đây.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_291280e5f7eb9d70": {
+      "text": "$$ティエリア$$\n「Vũ trụ?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_32eb462c1b4999cb": {
+      "text": "$$アドヴェント$$\n「Đúng vậy.\n　Để thu thập dữ liệu phá vỡ Ngục Tù Thời Gian.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_1f4337d6d393fc37": {
+      "text": "$$アドヴェント$$\n「Về việc chúng tôi vô can, hãy nghe $n giải thích.\n　Khi phong ấn ký ức của các cậu được giải,\n　trận chiến thật sự mới bắt đầu.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_4740e748fae085ee": {
+      "text": "$n\n「Anh $$アドヴェント$$...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_b76524cd840e1d37": {
+      "text": "$$アドヴェント$$\n「Cứ gọi tôi là $$アドヴェント$$ được rồi.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_730ffe18400abfc2": {
+      "text": "$n\n「...Anh biết gì về thiên thần?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_ffe0fca26da5cd38": {
+      "text": "$$アドヴェント$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_bfb27f9eb2f7073e": {
+      "text": "$$アドヴェント$$\n「Đó là kẻ thù truyền kiếp của tôi...\n　Có thể nói là số mệnh chắn đường tôi.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_859dfa27bcaafe30": {
+      "text": "$n\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_71ebf05996a4b0fd": {
+      "text": "$$アドヴェント$$\n「Có thể giúp cậu là niềm vui của tôi.\n　Hẹn gặp lại!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_6214c11b1bca811e": {
+      "text": "$n\n「$$アドヴェント$$...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_8eaf6f3098ffed12": {
+      "text": "$$スズネ$$\n「Tươi sáng và ấm áp...\n　Người như ánh mặt trời tháng Năm vậy.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_cf507214fe955d75": {
+      "text": "$$スメラギ$$\n「$$刹那$$ nghĩ sao?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_2113dcbabdfc758a": {
+      "text": "$$刹那$$\n「Anh ta có vẻ không phải người có ý đồ ngầm, nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ゼロ$$\n「Nhưng còn quá nhiều điểm khó hiểu về Chrono.\n　Quá tin tưởng có lẽ sẽ nguy hiểm.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_6a74519e1fc29c4b": {
+      "text": "$n\n「Kẻ bị nguyền rủa...\n　Giống như mình...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_5b992878fee054b5": {
+      "text": "$$カレン$$\n「Có lẽ anh ấy cũng đang truy tìm $$ガドライト$$,\n　giống như cậu.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_95a3dd16c2c4cc3e": {
+      "text": "$n\n「Ừ...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_4a14ec0c511c7f0d": {
+      "text": "Đội viên\n「Đi thôi, mọi người.\n　Chúng tôi sẽ hộ tống đến biên giới.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_20cf167c0ec0d4d5": {
+      "text": "$$スメラギ$$\n「Cảm ơn các anh.\n　...Các đơn vị rút lui theo hướng dẫn của Chrono.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_b591d812c96c6c99": {
+      "text": "$$デュオ$$\n「Vậy, ra khỏi $$ヘルマジスタン$$ rồi\n　thì tiếp theo làm gì?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_e350fa099c1ab072": {
+      "text": "$$カレン$$\n「Còn phải hỏi sao.\n　Chúng ta sẽ tới thánh địa $$アレギウム$$.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$キリコ$$\n（$$フィアナ$$...）",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_c33bd700553abf91": {
+      "text": "$$宗介$$\n「Kênh liên lạc riêng sao?\n　Ai lại liên lạc vào lúc này...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_feee5c91826230e1": {
+      "text": "???\n「Rất vui được gặp cậu, trung sĩ Sagara Sousuke.\n　Tiếc là không được xem cậu\n　kích hoạt Lambda Driver.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_bccc48e1964ad22d": {
+      "text": "$$宗介$$\n「Ngươi là ai?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_f8736aaaa216c766": {
+      "text": "???\n「Tôi chẳng phải người đáng để xưng tên đâu.\n　Nhưng có lẽ cậu còn kém cả thế nữa.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_d1ec2522c87c361d": {
+      "text": "$$宗介$$\n「Định khiêu khích ta sao?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_3599f0a4343fd95c": {
+      "text": "???\n「Cứ hiểu như thế cũng được.\n　Gọi là lời tuyên chiến cũng chẳng sai.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_3bc7834a5bf3ee76": {
+      "text": "$$宗介$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_366814efdc8b5800": {
+      "text": "???\n「Tạm biệt.\n　Quả nhiên cậu không xứng.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_9be1a4c10bb62515": {
+      "text": "???\n「Cả Lambda Driver lẫn cô ấy...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_94a88c90e557e16e": {
+      "text": "$$宗介$$\n（Kẻ đó là ai...）",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_1c208ca0cbf26f28": {
+      "text": "$$宗介$$\n（Biết về Lambda Driver,\n　vậy là người của Amalgam sao...）",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_5b7ee307a700171a": {
+      "text": "$n\n「Sao vậy, $$宗介$$?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_8d8f065c932da30a": {
+      "text": "$$宗介$$\n「...Không có gì...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_f5432119677514f7": {
+      "text": "$$宗介$$\n（Lúc này mình chẳng còn tâm trí\n　để đáp lại những lời khiêu khích...）",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_4e5c8e989c4a7691": {
+      "text": "$$アンナロッタ$$\n「Khốn kiếp!\n　Thế này thì còn mặt mũi nào gặp đội trưởng!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_adec86483b13599a": {
+      "text": "$$アドヴェント$$\n「Tôi sẽ không để cô chạy thoát...!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_2cf701bbcde3ec13": {
+      "text": "$$アンナロッタ$$\n「Á!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_c17c58fdba72005e": {
+      "text": "$$アドヴェント$$\n「Nếu không muốn chết, hãy ra khỏi máy.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_1fe8564d2b959317": {
+      "text": "$$アンナロッタ$$\n「Ngươi...!\n　Ngươi muốn ta chịu nhục làm tù binh sao!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_f527e012803f7f1c": {
+      "text": "$$アドヴェント$$\n「Tôi cũng không muốn làm chuyện này.\n　Nhưng nếu cần thiết...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_4b1247bd3ca4905d": {
+      "text": "$$アンナロッタ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_00c55e25f87b71d0": {
+      "text": "???\n「Ngươi đang làm gì với người yêu của ta đấy?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_338f3b27e51dcc41": {
+      "text": "$n\n「$$ガドライト$$!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_d91d4bc2d52b61c4": {
+      "text": "$$ガドライト$$\n「Chào... lâu rồi không gặp, nhóc hàng nhái.\n　Nhưng hôm nay ta không có việc với nhóc.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_0c8ea89b07432421": {
+      "text": "$$アドヴェント$$\n「$$ガドライト・メオンサム$$...!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_4dbfba00ba7744ee": {
+      "text": "$$ガドライト$$\n「Tránh xa $$アンナロッタ$$ ra, anh bạn.\n　Cô ấy là hy vọng của bọn ta.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_be100a32b731708d": {
+      "text": "$$アドヴェント$$\n「Nực cười thật, $$ガドライト$$.\n　Các người đã phủ tuyệt vọng lên Trái Đất,\n　vậy mà còn thốt ra hai tiếng đẹp đẽ như hy vọng sao.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_702f82442fcec8a9": {
+      "text": "$$ガドライト$$\n「Muốn đánh à?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_b1e38da4e8775ffe": {
+      "text": "$$アドヴェント$$\n「...Tôi cũng không liều lĩnh đến mức đối đầu với\n　một $$スフィア・リアクター$$ đã bước vào giai đoạn thứ ba.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ガドライト$$\n「Có vẻ cũng hiểu được chút ít đấy.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_2acc8ade0cc6dfa2": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_3dad695c99e9e052": {
+      "text": "$$ガドライト$$\n「Ta cũng nói luôn với nhóc hàng nhái bên kia.\n　Đừng có manh động đấy.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_66d4ae3a21caf881": {
+      "text": "$$ガドライト$$\n「$$ジェミニア$$ này là của ta... của người Geminaid.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_0c18da7b3a37825d": {
+      "text": "$$アンナロッタ$$\n「Đội trưởng...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_63249745ffae61b6": {
+      "text": "$$ガドライト$$\n「Về thôi, em yêu.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_abdb034ae8509702": {
+      "text": "$$アドヴェント$$\n「...$$ガドライト・メオンサム$$...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_3ff2e21207d1d1d3": {
+      "text": "$n\n「Tôi... chúng ta không thể thắng hắn sao...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_e51ecf6d6aa42e75": {
+      "text": "$$アドヴェント$$\n「Hiện giờ thì có lẽ vậy.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_47ddabb7b60131c2": {
+      "text": "$n\n「...!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_b025267f22788233": {
+      "text": "$$アドヴェント$$\n「Nhưng ngày mai... tương lai thì chưa ai biết.\n　Vì thế, $n... cậu phải tiếp tục chiến đấu.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_ec1a06a7023bf72c": {
+      "text": "$n\n「...Vâng.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_8805f96e52aaa462": {
+      "text": "$$テイタニア$$\n「Chậc!\n　Ta đã sơ suất sao!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_124591cb154fae64": {
+      "text": "$$キリコ$$\n「$$テイタニア$$!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$テイタニア$$\n「...Như đã hứa, $$キリコ$$.\n　Ta sẽ cho ngươi biết nơi ở của cô ta!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_4bf9b05b5f948170": {
+      "text": "$$テイタニア$$\n「Cô ta đang bị giữ tại tổng bộ giáo đoàn $$マーティアル$$!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_eaa52d152f444bfd": {
+      "text": "$$マオ$$\n「Tổng bộ $$マーティアル$$...!?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_b4bc9e9435b58e6f": {
+      "text": "$$ティエリア$$\n「Thánh địa $$アレギウム$$ sao...!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_a9227573166977a9": {
+      "text": "$$テイタニア$$\n「Ta sẽ đợi ngươi, $$キリコ$$!\n　Ta sẽ phân thắng bại với ngươi ở đó!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_b0600ab9a9e8559d": {
+      "text": "$$アレルヤ$$\n「$$キリコ$$...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_7cbc63dad295f862": {
+      "text": "$$カレン$$\n「Thánh địa $$アレギウム$$...\n　$$フィアナ$$ đang ở đó nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_07f53c816e0a51f5": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_2d09c6f6a2d990ea": {
+      "text": "$$クルツ$$\n「Được lắm!\n　Cứ tiêu diệt lẫn nhau thế này\n　thì chúng ta khỏe rồi!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_3c5fcfc484a51913": {
+      "text": "$$マオ$$\n「Cậu nói đúng đấy, nhưng nghe thảm hại quá.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_0476ffd10c764b0e": {
+      "text": "$$ゼロ$$\n（$$マーティアル$$ và Geminis...\n　Tại sao chúng lại đối đầu...）",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$ゼロ$$\n（Chẳng phải cả hai đang hợp tác tác chiến\n　thông qua Amalgam sao...）",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_2b3479c4cf0680f4": {
+      "text": "$$アドヴェント$$\n「Có vẻ tay nghề cậu đã khá hơn trước rồi, $n.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_e370696b8936b08c": {
+      "text": "$n\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_9d7b02c5e728b7aa": {
+      "text": "$$アドヴェント$$\n「Cậu có thể vượt qua cả $$ガドライト$$!\n　Tiến lên đi!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_9af213fc64e0afec": {
+      "text": "$$アンナロッタ$$\n「Bản nhái đã bắt tay với kẻ ngáng đường chúng ta sao!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_d7f1c506e78e55ff": {
+      "text": "$$アドヴェント$$\n「Tôi không cho phép gọi cậu ấy là bản nhái.\n　Chính cậu ấy tiềm ẩn khả năng\n　vượt qua $$ガドライト・メオンサム$$.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_0c705091f748360e": {
+      "text": "$n\n「Anh $$アドヴェント$$...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_9eb8599304125b2f": {
+      "text": "$$アドヴェント$$\n「Lên nào, $n!\n　Đánh bại cô ta chính là lời tuyên chiến\n　của chúng ta gửi tới $$ガドライト$$!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_a072aa25e5f521e0": {
+      "text": "$n\n「Vâng!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_24e1a808a1609a1a": {
+      "text": "$$テイタニア$$\n「Kẻ Bất Khả Xâm Phạm, $$キリコ・キュービィー$$...!\n　Không thể dung thứ cho sự tồn tại của ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_53128ce8f154fd06": {
+      "text": "$$キリコ$$\n「$$フィアナ$$ đâu?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_03b5db9ce98fb8d6": {
+      "text": "$$テイタニア$$\n「Biết cũng vô ích.\n　Cô ta đã ở nơi ngoài tầm với của ngươi rồi.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_3915fb4102f1c1dd": {
+      "text": "$$キリコ$$\n「Ta hỏi lại lần nữa.\n　$$フィアナ$$ ở đâu?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_817b2773b4ed563e": {
+      "text": "$$テイタニア$$\n「Ngươi...」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_1cc233cbc8c80af7": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$テイタニア$$\n「Đánh bại được ta thì ta sẽ trả lời...!\n　Tức là ngươi sẽ không bao giờ biết cô ta ở đâu!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_e180b22d18f48d38": {
+      "text": "$$テイタニア$$\n「Ta sẽ dâng cái chết của ngươi lên phụ thân!\n　Đó là ý nghĩa tồn tại của ta!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_e598c2a0b27e7f50": {
+      "text": "$$カレン$$\n「Tôi đã nghe chị $$マオ$$ kể rồi!\n　Cô là kẻ đã bắt cóc $$フィアナ$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_4d2a9066c4e7b27f": {
+      "text": "$$テイタニア$$\n「Bản lĩnh khá lắm!\n　Nhưng đừng nghĩ có thể thắng\n　một 《$$ネクスタント$$》 như ta!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_10340119af3ed6db": {
+      "text": "$$カレン$$\n「Người đánh bại cô sẽ không phải tôi...!\n　Mà là $$キリコ$$!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_23a9c7ab620ab112": {
+      "text": "$$カレン$$\n「Nhưng kẻ làm bạn tôi đau khổ\n　thì cũng phải nếm mùi đau đớn!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_4f0aca6deda07883": {
+      "text": "$$テイタニア$$\n「Tên này...!\n　So với lần giao chiến trước,\n　chẳng còn chút khí thế nào cả!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_8fe40600ce62dfbc": {
+      "text": "$$宗介$$\n「Ư...!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_ff4ce5f3cf96b617": {
+      "text": "$$テイタニア$$\n「Có vẻ ta đã đánh giá ngươi quá cao...!\n　Ta không có việc với lũ tép riu!\n　Lui ra đi!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_d73c21f119847e35": {
+      "text": "$$テイタニア$$\n「Tên này... mạnh thật!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_89766f5ffaa912d4": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$テイタニア$$\n「Ý chí kiên cường mà điềm tĩnh...!\n　Hắn cũng là chiến binh cùng kiểu\n　với $$キリコ・キュービィー$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_451f726d4299ea35": {
+      "text": "$$ヒイロ$$\n「Cô hiểu lầm rồi.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_e3d111e8bb190cb1": {
+      "text": "$$テイタニア$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$ヒイロ$$\n「Cả tôi lẫn người đó đều còn lâu mới gọi là điềm tĩnh.\n　Một ngày nào đó cô cũng sẽ thấm thía điều ấy.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_ab97c2b2418ea732": {
+      "text": "$$アンナロッタ$$\n「Ngươi thật bất hạnh.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_2ddff5064af78db4": {
+      "text": "$$刹那$$\n「Gì cơ...?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_050d0532c4b24bfe": {
+      "text": "$$アンナロッタ$$\n「Rồi ngươi sẽ biết thế nào là tuyệt vọng.\n　Khi chính sự tồn tại của ngươi\n　khép lại tương lai của hành tinh này...!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_d583fcea31bdad2e": {
+      "text": "$$アンナロッタ$$\n「Muốn thoát khỏi số phận ấy\n　thì hãy chết dưới tay ta ngay tại đây!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_475f7653621a91b5": {
+      "text": "$$アンナロッタ$$\n「Ngươi là kẻ đã lén lút dò la về bọn ta sao...!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_f228ae702350849b": {
+      "text": "$$ゼロ$$\n「Trước khi nói này nọ về ta,\n　hãy biết hổ thẹn vì chính các ngươi\n　đã hành động lén lút đi, lũ hèn nhát.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_d69dc027cba3003f": {
+      "text": "$$アンナロッタ$$\n「Ngươi định sỉ nhục bọn ta sao!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_3c3735172a480b72": {
+      "text": "$$ゼロ$$\n「Mới thế đã nổi giận,\n　xem ra các ngươi hổ thẹn lắm về việc mình làm.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_1f418b5594cea300": {
+      "text": "$$アンナロッタ$$\n「Ngươi...!\n　Muốn chọc giận ta đến thế sao!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_f87fb889124bfaef": {
+      "text": "$$ゼロ$$\n「Nghe đây, Geminis!\n　Chính các ngươi đã chọc giận ta trước!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_79c90de32a79212d": {
+      "text": "$$アンナロッタ$$\n「Nhà đàm phán của Paradigm City sao...!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_33f7fd55913419e8": {
+      "text": "$$ロジャー$$\n「Cô $$アンナロッタ・ストールス$$, phải không...\n　Tôi cũng muốn được trò chuyện với cô một lần.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_473d9a88b4ca96e7": {
+      "text": "$$アンナロッタ$$\n「Định dùng tài đàm phán sở trường để cầu xin tha mạng sao?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_4de6ac85c63bac12": {
+      "text": "$$ロジャー$$\n「Không phải.\n　...Tôi thấy các người có vẻ là một nhóm lính được huấn luyện.\n　Tôi muốn hỏi về lai lịch tổ chức đó.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_4c92652c9b1adf6f": {
+      "text": "$$ロジャー$$\n「Nếu biết được, có lẽ tôi sẽ phần nào hiểu được\n　những hành động có thể nói là vô nghĩa của các người.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_ce90563a934d49fb": {
+      "text": "$$アンナロッタ$$\n「Ngươi nói cuộc chiến của bọn ta vô nghĩa sao...!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_4fb296e63cb1fb46": {
+      "text": "$$ロジャー$$\n「Đương nhiên.\n　Tôi chẳng thấy lý do nào ra hồn\n　cho việc các người tấn công hành tinh này.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$ロジャー$$\n「Nếu chỉ để giết thời gian như $$ガドライト$$ nói,\n　tôi sẽ khinh bỉ các người từ tận đáy lòng.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_9dc59affd40f32fc": {
+      "text": "$$アンナロッタ$$\n「Im đi!\n　Bọn ta...!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_0cea115be526a319": {
+      "text": "$$ロジャー$$\n「Nổi giận rồi dùng đến bạo lực sao?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_d36072babd12aeb4": {
+      "text": "$$ロジャー$$\n「Thật đáng tiếc...!\n　Quả nhiên, có vẻ lối suy nghĩ của tôi\n　và các người không thể dung hòa!」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_09ee921a85025fd3": {
+      "text": "$$Ｃ．Ｃ．$$\n「Các người thật đáng thương.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_fae689f2a1057b61": {
+      "text": "$$テイタニア$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_91c6d0bb53854ecc": {
+      "text": "$$Ｃ．Ｃ．$$\n「Các người có biết\n　kẻ mình tôn thờ là gì không?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_42a3149105314ab8": {
+      "text": "$$テイタニア$$\n「Ngươi...!\n　Định báng bổ thần của $$マーティアル$$ sao!?」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_62ecd978c667bd29": {
+      "text": "$$Ｃ．Ｃ．$$\n「Thôi được.\n　Các người tin vào điều gì\n　cũng chẳng liên quan đến tôi.」",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_d441e6cc908ac01b": {
+      "text": "$$Ｃ．Ｃ．$$\n（Nhưng vì đó chính là kẻ ấy,\n　sớm muộn các người cũng phải đối mặt với tuyệt vọng...）",
+      "status": "reviewed"
+    },
+    "stage0066_04:r_b2aab8873350ea1f": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

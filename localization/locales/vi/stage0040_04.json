@@ -1,0 +1,402 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0040_04:r_caaab7bad760e16d": {
+      "text": "$$カグラ$$\n「Mày ở đâu, con khốn!\n　Mau ló mặt ra đây!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_99b162aa6aa286a2": {
+      "text": "Binh sĩ Altair\n「Ngài $$カグラ$$...!\n　Chẳng phải ngài $$ジン$$ cũng đang ở thành phố này sao...!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_58fb02434a1c40b2": {
+      "text": "$$カグラ$$\n「Tao mặc kệ!\n　Nếu tên $$ジン$$ trúng đạn lạc\n　thì cũng chỉ đến thế thôi!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_1c0f94acd5a8a143": {
+      "text": "$$スオミ$$\n「Abductor!\n　Đang triển khai khắp $$アクエリア市$$!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_1263541f4071624e": {
+      "text": "$$クレア$$\n「Không cần lo lắng.\n　Họ đã đến rồi.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_3bc300bbdc277d82": {
+      "text": "$$ゼシカ$$\n「Tên thú vật đó lại đến rồi!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_38762a09460d8b6b": {
+      "text": "$$ミコノ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_7ab28e70b4d4f641": {
+      "text": "$$ユノハ$$\n「Cố lên nhé, $$ミコノ$$...!\n　Còn phải bảo vệ $$アクエリア市$$ nữa!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$シンジ$$\n「Đúng vậy!\n　Không thể chưa đánh đã chịu thua trong lòng được!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_ec335e69f984b8b3": {
+      "text": "$$ミコノ$$\n「$$ユノハ$$, $$シンジ$$...」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_0abcaf0c31978670": {
+      "text": "$$ミサト$$\n「Hai đứa giờ cũng biết nói những lời như thế rồi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_1d6bc48b7f246730": {
+      "text": "$$アルト$$\n「Chúng ta cũng không thể kém cạnh được!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_1af20fccc3c53cfc": {
+      "text": "$$オズマ$$\n「Skull Leader gửi các máy!\n　Trọng tâm của địch là tên thú vật đó!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_f951916061232dcd": {
+      "text": "$$葵$$\n（Cách gọi đó... khiến mình thấy hơi khó xử...）",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_4d863c3fb88a4c39": {
+      "text": "$$アムロ$$\n「Để tránh thiệt hại lan rộng trong thành phố,\n　phải nhanh chóng hạ hắn.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_44f4742c3dcce39a": {
+      "text": "$$アマタ$$\n「Rõ!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_9e701cdeb3842c21": {
+      "text": "$$カグラ$$\n「Khốn kiếp!\n　Sao tao không thắng nổi bọn chúng!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_6fd81f4abebe60c5": {
+      "text": "$$ミカゲ$$\n「Có vẻ cậu đang chật vật nhỉ, $$カグラ$$.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_da2132b5038ec737": {
+      "text": "$$カグラ$$\n「Im miệng mà xem đi, $$ミカゲ$$!\n　Tao vẫn chưa thua!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_495d61d3ec7e16f2": {
+      "text": "$$ミカゲ$$\n「Cái vẻ cứng miệng của cậu đáng yêu thật.\n　Vậy để tôi giúp cậu nhé.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_5cd353758cfe474d": {
+      "text": "$$キャシー$$\n「Xác nhận ranh giới chiều không gian bị bóp méo!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_a653c8dec4c0f06f": {
+      "text": "$$ボビー$$\n「Viện binh Abductor sắp tới sao!?」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_86d493e37a9799a7": {
+      "text": "$$キャシー$$\n「Không phải cổng không gian xuất hiện...!\n　Đây là phản ứng thoát Fold!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_09d0fcc600cdd3df": {
+      "text": "$$アルト$$\n「Vajra sao!?」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_182faded068c15ed": {
+      "text": "$$カグラ$$\n「Mày định làm gì, $$ミカゲ$$!\n　Lũ côn trùng đó là cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_9c206d19bfda4bd5": {
+      "text": "$$ミカゲ$$\n「Đó chính là sinh vật siêu thời không...\n　Có mặt từ thuở vũ trụ khai sinh,\n　và sẽ chứng kiến hồi kết của vũ trụ.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_6e558bc69acf5bf3": {
+      "text": "$$ヴィラル$$\n「Đánh chẳng phân biệt gì cả sao!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_d60d0818e965232f": {
+      "text": "$$シモン$$\n「Chuyện gì vậy, $$アルト$$!?\n　Chẳng phải Vajra đã hiểu con người\n　qua tiếng hát của $$ランカ$$ và $$シェリル$$ rồi sao!?」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_5b23687574286204": {
+      "text": "$$アルト$$\n「Bọn tôi cũng không hiểu rõ!\n　Ngay cả tiếng hát của $$ランカ$$ và mọi người\n　cũng không đến được với chúng!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_6fd86c96891ea942": {
+      "text": "$$ダリー$$\n「Nhưng cứ thế này thì thành phố...!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_43e4e548c0b28376": {
+      "text": "$$ギミー$$\n「Vậy chỉ còn cách chiến đấu thôi sao!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_d80a9688790ed583": {
+      "text": "$$ミカゲ$$\n「Ha ha ha ha, hỗn loạn đẹp thật.\n　Cảnh này đáng xem đây.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_708bea61e3c43ada": {
+      "text": "$$カグラ$$\n「$$ミカゲ$$!!\n　Tên khốnnnnn!!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_7b6f159eeaf4de0f": {
+      "text": "$$アマタ$$\n「Hắn... quay về rồi...」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_0827963cfd706e8d": {
+      "text": "$$ミコノ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$アマタ$$\n（$$ミコノ$$...\n　Sao cậu lại buồn đến thế...）",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_3f4035fd9db81258": {
+      "text": "$$アマタ$$\n（Rốt cuộc giữa cậu và hắn có chuyện gì...）",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_567b361a454c4b73": {
+      "text": "$$赤木$$\n「Không phải lúc đuổi theo hắn!\n　Trước hết chúng ta phải bảo vệ thành phố!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_d22851aaafbbf8fc": {
+      "text": "$$アルト$$\n「Vajra...!\n　Chẳng còn cách nào sao!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_352534f64413d954": {
+      "text": "$$カグラ$$\n「Chậc!\n　Làm khá lắm đấy!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_79f2664edb1af798": {
+      "text": "$$ミカゲ$$\n「Có vẻ cậu đang chật vật nhỉ, $$カグラ$$.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$カグラ$$\n「Im miệng mà xem đi, $$ミカゲ$$!\n　Tao vẫn chưa thua!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_1c5aa0d15ae24846": {
+      "text": "$$ミカゲ$$\n「Cái vẻ cứng miệng của cậu đáng yêu thật.\n　Vậy để tôi giúp cậu nhé.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_53bb64ee17750ee2": {
+      "text": "$$キャシー$$\n「Xác nhận ranh giới chiều không gian bị bóp méo!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_7a7add80fde475ba": {
+      "text": "$$ボビー$$\n「Viện binh Abductor sắp tới sao!?」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_b2befefdbed1393d": {
+      "text": "$$キャシー$$\n「Không phải cổng không gian xuất hiện...!\n　Đây là phản ứng thoát Fold!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_2103f6df2ea2e447": {
+      "text": "$$アルト$$\n「Vajra sao!?」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_a12e3e130d896ff7": {
+      "text": "$$カグラ$$\n「Mày định làm gì, $$ミカゲ$$!\n　Lũ côn trùng đó là cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ミカゲ$$\n「Đó chính là sinh vật siêu thời không...\n　Có mặt từ thuở vũ trụ khai sinh,\n　và sẽ chứng kiến hồi kết của vũ trụ.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_91bf33c27ad39f0a": {
+      "text": "$$ヴィラル$$\n「Đánh chẳng phân biệt gì cả sao!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_ee220318b96ab538": {
+      "text": "$$シモン$$\n「Chuyện gì vậy, $$アルト$$!?\n　Chẳng phải Vajra đã hiểu con người\n　qua tiếng hát của $$ランカ$$ và $$シェリル$$ rồi sao!?」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_ce1b55e526b6277a": {
+      "text": "$$アルト$$\n「Bọn tôi cũng không hiểu rõ!\n　Ngay cả tiếng hát của $$ランカ$$ và mọi người\n　cũng không đến được với chúng!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_c304df6888eb78f7": {
+      "text": "$$ダリー$$\n「Nhưng cứ thế này thì thành phố...!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_c26958634526e597": {
+      "text": "$$ギミー$$\n「Vậy chỉ còn cách chiến đấu thôi sao!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_cdb750c9d380881a": {
+      "text": "$$ミカゲ$$\n「Ha ha ha ha, hỗn loạn đẹp thật.\n　Cảnh này đáng xem đây.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_95fda74613c97b39": {
+      "text": "$$ミカゲ$$\n「Nào, $$カグラ$$... cứ chiến đấu thỏa thích đi.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_1956994937f8171e": {
+      "text": "$$カグラ$$\n「Khốn kiếp!\n　Đã vậy, tao sẽ đập tan cả bọn chúng\n　lẫn lũ côn trùng đó!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_48f49f6728c15612": {
+      "text": "$$アマタ$$\n「Hắn đến rồi...!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$赤木$$\n「Không phải lúc chỉ lo đối phó với hắn!\n　Trước hết chúng ta phải bảo vệ thành phố!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_f02c37d91387d0ad": {
+      "text": "$$アルト$$\n「Vajra...!\n　Chẳng còn cách nào sao!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$田中司令$$\n「Một trận hỗn chiến với cả Abductor và Vajra...\n　Quả là vất vả đấy nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_9796b3efa401a303": {
+      "text": "$$Ｆ．Ｓ．$$\n「$$ＷＩＬＬ$$...\n　Tình hình lúc Vajra xuất hiện thế nào?」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_643b6eebfc0186b3": {
+      "text": "$$ＷＩＬＬ$$\n「Ngay trước đó, đã phát hiện ranh giới chiều không gian\n　bị bóp méo bất thường. Có lẽ Vajra đã lợi dụng\n　hiện tượng ấy để Fold đến đây.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_291280e5f7eb9d70": {
+      "text": "$$Ｆ．Ｓ．$$\n「...Có khả năng chính Vajra đã bị ai đó\n　đưa tới bằng Fold không...?」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_32eb462c1b4999cb": {
+      "text": "$$ＷＩＬＬ$$\n「Không thể.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_1f4337d6d393fc37": {
+      "text": "$$ＷＩＬＬ$$\n「Không thể tưởng tượng nổi việc bóp méo ranh giới\n　chiều không gian ổn định đến thế, lại còn gọi Vajra\n　vốn có lẽ đang ở một thế giới song song tới đây.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_4740e748fae085ee": {
+      "text": "$$Ｆ．Ｓ．$$\n「Chúng ta cũng phải tính đến khả năng\n　tồn tại một kẻ thù làm được điều không tưởng đó...」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_b76524cd840e1d37": {
+      "text": "$$オズマ$$\n「Các máy vất vả rồi.\n　Mau trở về đi.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_730ffe18400abfc2": {
+      "text": "$$アルト$$\n「Nhanh lên, mọi người.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_ffe0fca26da5cd38": {
+      "text": "$$アマタ$$\n「Nhanh... đi đâu cơ?」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_bfb27f9eb2f7073e": {
+      "text": "$n\n「Còn phải hỏi.\n　Dọn bãi biển chứ đâu.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_859dfa27bcaafe30": {
+      "text": "$$カグラ$$\n「Khốn kiếp!\n　Sao tao không thắng nổi bọn chúng!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_71ebf05996a4b0fd": {
+      "text": "$$ミカゲ$$\n「Là vì, $$カグラ$$...\n　Cậu yếu quá đấy.」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_6214c11b1bca811e": {
+      "text": "$$カグラ$$\n「$$ミカゲ$$!\n　Tên khốnnnn!!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_8eaf6f3098ffed12": {
+      "text": "$$カイエン$$\n「Hắn rút rồi à...」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_cf507214fe955d75": {
+      "text": "$$ミコノ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_2113dcbabdfc758a": {
+      "text": "$$アマタ$$\n（$$ミコノ$$...\n　Sao cậu lại buồn đến thế...）",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$アマタ$$\n（Rốt cuộc giữa cậu và hắn có chuyện gì...）",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_6a74519e1fc29c4b": {
+      "text": "$$カグラ$$\n「Tránh ra, thằng không mùi!\n　Tao không rảnh dây dưa với mày!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_5b992878fee054b5": {
+      "text": "$$アマタ$$\n「Lại nhắm vào $$ミコノ$$ nữa sao!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$カグラ$$\n「Tất nhiên!\n　Con khốn đó là của tao!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_4a14ec0c511c7f0d": {
+      "text": "$$アマタ$$\n「Đừng có tự quyết như thế!\n　$$ミコノ$$ là... $$ミコノ$$ là...!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_20cf167c0ec0d4d5": {
+      "text": "$$カグラ$$\n「Hay đấy!\n　Có ý chí chiến đấu rồi à!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_b591d812c96c6c99": {
+      "text": "$$カグラ$$\n「Vậy tao sẽ cho mày biết!\n　Mày chỉ là kẻ bất lực chẳng làm được gì cả!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_e350fa099c1ab072": {
+      "text": "$$カグラ$$\n「Tìm thấy mày rồi, con khốn!\n　Tao đến đây để tự tay giết mày!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ミコノ$$\n「Xin lỗi...\n　Tôi... với cậu...」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_c33bd700553abf91": {
+      "text": "$$アマタ$$\n「$$ミコノ$$...」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_feee5c91826230e1": {
+      "text": "$$カグラ$$\n「Được thôi, con khốn!\n　Chuyện của mày, lát nữa tao sẽ nghe cho đã!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_bccc48e1964ad22d": {
+      "text": "$$アマタ$$\n「Chiến đấu đi, $$ミコノ$$!\n　Hãy từ chối hắn!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_f8736aaaa216c766": {
+      "text": "$$ミコノ$$\n「Nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_d1ec2522c87c361d": {
+      "text": "$$アマタ$$\n「Cậu là một Element!\n　Còn hắn là kẻ thù của chúng ta!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_3599f0a4343fd95c": {
+      "text": "$$ミコノ$$\n「Kẻ thù...」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_3bc7834a5bf3ee76": {
+      "text": "$$カグラ$$\n「Định chống cự à, con khốn!\n　Tao sẽ cho mày biết làm thế chỉ vô ích thôi!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_366814efdc8b5800": {
+      "text": "$$ミコノ$$\n「M-mình cũng... sẽ chiến đấu...!\n　Cùng $$アマタ$$ và mọi người...!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_9be1a4c10bb62515": {
+      "text": "$$アルト$$\n（Tao tin rồi có ngày chúng ta sẽ hiểu nhau...!\n　Nhưng bây giờ...!）",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_94a88c90e557e16e": {
+      "text": "$$アルト$$\n「Việc phải làm lúc này là bảo vệ mọi người!\n　Vì vậy, tôi sẽ chiến đấu!!」",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_1c208ca0cbf26f28": {
+      "text": "$$シンジ$$\n（Những người sống ở thành phố này...\n　Mọi người ở $$聖天使学園$$ đang chờ chúng ta giúp...!）",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_5b7ee307a700171a": {
+      "text": "$$シンジ$$\n（Chờ nhé, $$ジン$$...!\n　Bọn mình nhất định sẽ bảo vệ mọi người...!）",
+      "status": "reviewed"
+    },
+    "stage0040_04:r_8d8f065c932da30a": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

@@ -1,0 +1,946 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0029_04:r_caaab7bad760e16d": {
+      "text": "$$オズマ$$\n「Đó là đội Rồng Đỏ Nerima sao.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_99b162aa6aa286a2": {
+      "text": "$$マオ$$\n「Có vẻ được huấn luyện tốt đấy.\n　Các máy phối hợp không chút sơ hở.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_58fb02434a1c40b2": {
+      "text": "$$クルツ$$\n「Ồ! Đội trưởng bên kia\n　sắp cầm micro lên diễn rồi kìa!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_1c0f94acd5a8a143": {
+      "text": "$$赤城$$\n「Xin chào bà con đã đến tham dự hôm nay.\n　Tôi là $$赤城龍之介$$, đội trưởng Rồng Đỏ Nerima!」",
+      "status": "needs_review"
+    },
+    "stage0029_04:r_1263541f4071624e": {
+      "text": "$$赤城$$\n「Ngay sau đây, chúng tôi sẽ trình diễn\n　những chiến thuật hoa mỹ của đội Rồng Đỏ Nerima\n　cho quý vị thưởng thức.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_3bc300bbdc277d82": {
+      "text": "$$赤城$$\n「Chiến đấu là phải luôn tính trước hai, ba nước.\n　Và sự khác biệt về tính năng của máy\n　không quyết định chênh lệch sức chiến đấu.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_38762a09460d8b6b": {
+      "text": "$$アムロ$$\n「Hửm?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_7ab28e70b4d4f641": {
+      "text": "$$赤城$$\n「Khi kẻ liều lĩnh thách đấu chúng tôi\n　hỏi tại sao mình thua, tôi định trả lời thế này.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$赤城$$\n「Vì cậu còn là trẻ con!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_ec335e69f984b8b3": {
+      "text": "$$リディ$$\n「Bài phát biểu nghe kỳ lạ thật.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_0abcaf0c31978670": {
+      "text": "$$エマ$$\n「Cứ như cố ghép các câu thoại rời rạc\n　cho thành một bài phát biểu vậy.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_1d6bc48b7f246730": {
+      "text": "$$オードリー$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_1af20fccc3c53cfc": {
+      "text": "$$カミーユ$$\n「Anh $$アムロ$$... không lẽ người đó...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_f951916061232dcd": {
+      "text": "$$アムロ$$\n「Đừng nói...!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_4d863c3fb88a4c39": {
+      "text": "$$カミーユ$$\n「Nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_44f4742c3dcce39a": {
+      "text": "$$アムロ$$\n「Đừng nói gì hết...!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_9e701cdeb3842c21": {
+      "text": "$$カミーユ$$\n「Vâng...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_6fd81f4abebe60c5": {
+      "text": "$$赤城$$\n「Có vẻ đối thủ của chúng tôi đã đến!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_da2132b5038ec737": {
+      "text": "$$谷川$$\n「Xử họ đi, $$赤木$$!\n　Cho họ thấy niềm kiêu hãnh của $$２１世紀警備保障$$!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_495d61d3ec7e16f2": {
+      "text": "$$中原$$\n「Cố lên, $$いぶき$$, cả anh $$青山$$ nữa!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_5cd353758cfe474d": {
+      "text": "$$佐伯$$\n「Không sao đâu, anh $$赤木$$!\n　Cứ theo chỉ dẫn của tôi là nhất định sẽ thắng!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_a653c8dec4c0f06f": {
+      "text": "$$ミサト$$\n「Nào, $$シンジ$$!\n　Phải cổ vũ cho anh $$赤木$$ chứ!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_86d493e37a9799a7": {
+      "text": "$$シンジ$$\n「V-vâng!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_09d0fcc600cdd3df": {
+      "text": "$$赤城$$\n「Đến rồi sao, Akaten!\n　Chiếc M6 đó là đồng đội của cậu à!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_182faded068c15ed": {
+      "text": "$$赤木$$\n「À-ừ...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_9c206d19bfda4bd5": {
+      "text": "$$いぶき$$\n（Bên $$宗介$$ có ổn không vậy?）",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_6e558bc69acf5bf3": {
+      "text": "$$青山$$\n（Đấu tập bằng đạn giả mà.\n　Chắc không có nguy hiểm gì đâu.）",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_d60d0818e965232f": {
+      "text": "$$かなめ$$\n（N-này, $$宗介$$...!\n　Cậu làm thật sao!?）",
+      "status": "needs_review"
+    },
+    "stage0029_04:r_5b23687574286204": {
+      "text": "$$宗介$$\n（Không vấn đề gì.\n　Chiếc M6 này là phiên bản của chi nhánh Viễn Đông,\n　có hai chỗ ngồi.）",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_6fd86c96891ea942": {
+      "text": "$$かなめ$$\n（Tôi đâu có nói chuyện đó...!）",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_43e4e548c0b28376": {
+      "text": "$$宗介$$\n（Cậu nghi ngờ tay nghề của một người chuyên nghiệp như tôi.\n　Vậy cậu có nghĩa vụ tận mắt chứng kiến sự thật.）",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_d80a9688790ed583": {
+      "text": "$$かなめ$$\n（Đ-được rồi, tôi hiểu rồi.）",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_708bea61e3c43ada": {
+      "text": "$$かなめ$$\n（Nhưng đã đánh thì phải thắng đấy!\n　Cũng là vì $$風間$$ nữa!）",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_7b6f159eeaf4de0f": {
+      "text": "$$宗介$$\n（Rõ.）",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_0827963cfd706e8d": {
+      "text": "$$ミサト$$\n「Trận đấu tâm điểm, $$赤木$$ với $$赤城$$!\n　Tiếc là không gọi cả $$リツコ$$ nhà mình tới,\n　nếu không đã có đại chiến tay ba vùng biển Nam rồi!」",
+      "status": "needs_review"
+    },
+    "stage0029_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$シンジ$$\n「Chị $$ミサト$$... chị lại say nữa rồi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_3f4035fd9db81258": {
+      "text": "$$ミサト$$\n「Lễ hội mà em.\n　Không uống thì phí quá còn gì.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_567b361a454c4b73": {
+      "text": "$$シンジ$$\n「Haiz...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_d22851aaafbbf8fc": {
+      "text": "$$バナージ$$\n「Xin lỗi, $$オードリー$$...!\n　Để cậu đợi lâu rồi!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_352534f64413d954": {
+      "text": "$$アマタ$$\n「Quầy bánh crepe đông quá,\n　nên bọn tôi mua món này.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_79f2664edb1af798": {
+      "text": "$$オードリー$$\n「Đây là gì vậy?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$バナージ$$\n「Món này gọi là takoyaki.\n　Nghe nói là món ăn dân dã truyền thống của Nhật Bản.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_1c5aa0d15ae24846": {
+      "text": "$$オードリー$$\n「Takoyaki...!?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_53bb64ee17750ee2": {
+      "text": "$$飯塚$$\n「Giờ ta sẽ giải thích luật.\n　Mỗi bên đều có một cứ điểm trong trận địa của mình.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_7a7add80fde475ba": {
+      "text": "$$飯塚$$\n「Bên nào chiếm được cứ điểm của đối phương\n　hoặc vô hiệu hóa 50% lực lượng đối phương sẽ thắng.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_b2befefdbed1393d": {
+      "text": "$$甲児$$\n「50% nghĩa là bên ta\n　chỉ cần một trong hai máy bị hạ là thua sao!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_2103f6df2ea2e447": {
+      "text": "$$竜馬$$\n「Đáng xem đây.\n　Giờ tính sao, $$赤木$$, $$宗介$$?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_a12e3e130d896ff7": {
+      "text": "$$いぶき$$\n「Khoan đã!\n　Luật thế này bất lợi cho bên ta quá còn gì!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_b6f7b219eb4bd64b": {
+      "text": "$$赤木$$\n「Không sao đâu, chị $$いぶき$$!\n　Cả tôi lẫn $$宗介$$ đều nhất định không thua!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_91bf33c27ad39f0a": {
+      "text": "$$青山$$\n「Cậu nói thì dễ, nhưng nếu thua,\n　chúng ta sẽ bôi nhọ danh tiếng công ty đấy.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_ee220318b96ab538": {
+      "text": "$$いぶき$$\n「Nếu thế thì chắc chắn bị trừ lương!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_ce1b55e526b6277a": {
+      "text": "$$赤木$$\n「Ặc...!?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_c304df6888eb78f7": {
+      "text": "$$赤城$$\n「Hối hận cũng muộn rồi, Akaten!\n　Dân thường các cậu cứ ngoan ngoãn ngồi yên thì hơn!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_c26958634526e597": {
+      "text": "$$赤木$$\n「Ai bảo tôi hối hận chứ!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_cdb750c9d380881a": {
+      "text": "$$赤木$$\n「Tới đây, củ cải Nerima!\n　Tôi sẽ cho anh thấy dân văn phòng\n　cũng bảo vệ hòa bình!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_95fda74613c97b39": {
+      "text": "$$赤城$$\n「Vô lý!\n　Rồng Đỏ Nerima lại thua sao!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_1956994937f8171e": {
+      "text": "$$赤城$$\n「Chết tiệt!\n　Robot của $$２１世紀警備保障$$ là quái vật sao!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_48f49f6728c15612": {
+      "text": "$$赤木$$\n「Thấy chưa, Rồng Đỏ!\n　Thua cả Akaten điểm kém thì anh chỉ có nước lưu ban!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$赤城$$\n「...Thật khó lòng thừa nhận...\n　những sai lầm do tuổi trẻ của chính mình gây ra...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_f02c37d91387d0ad": {
+      "text": "$$カミーユ$$\n「Câu đó cũng...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$アムロ$$\n「Đừng nói!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_9796b3efa401a303": {
+      "text": "$$赤城$$\n「Vô lý!\n　Rồng Đỏ này lại thua sao!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_643b6eebfc0186b3": {
+      "text": "$$赤城$$\n「Chết tiệt!\n　Robot của $$２１世紀警備保障$$ là quái vật sao!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_291280e5f7eb9d70": {
+      "text": "$$赤木$$\n「Thấy chưa, Rồng Đỏ!\n　Thua cả Akaten điểm kém thì anh chỉ có nước lưu ban!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_32eb462c1b4999cb": {
+      "text": "$$赤城$$\n「...Thật khó lòng thừa nhận...\n　những sai lầm do tuổi trẻ của chính mình gây ra...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_1f4337d6d393fc37": {
+      "text": "$$カミーユ$$\n「Câu đó cũng...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_4740e748fae085ee": {
+      "text": "$$アムロ$$\n「Đừng nói!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_b76524cd840e1d37": {
+      "text": "$$赤木$$\n「Tốt!\n　Chiếm được cứ điểm rồi!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_730ffe18400abfc2": {
+      "text": "$$赤城$$\n「Vô lý!\n　Rồng Đỏ này lại thua sao!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_ffe0fca26da5cd38": {
+      "text": "$$赤城$$\n「Chết tiệt!\n　Robot của $$２１世紀警備保障$$ là quái vật sao!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_bfb27f9eb2f7073e": {
+      "text": "$$赤木$$\n「Thấy chưa, Rồng Đỏ!\n　Thua cả Akaten điểm kém thì anh chỉ có nước lưu ban!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_859dfa27bcaafe30": {
+      "text": "$$赤城$$\n「...Thật khó lòng thừa nhận...\n　những sai lầm do tuổi trẻ của chính mình gây ra...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_71ebf05996a4b0fd": {
+      "text": "$$カミーユ$$\n「Câu đó cũng...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_6214c11b1bca811e": {
+      "text": "$$アムロ$$\n「Đừng nói!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_8eaf6f3098ffed12": {
+      "text": "$$かなめ$$\n「Á!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_cf507214fe955d75": {
+      "text": "$$青山$$\n「Đây là đạn thật mà!?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_2113dcbabdfc758a": {
+      "text": "$$いぶき$$\n「Nhìn kìa!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$桂$$\n「Chiếc Axio màu đen đó!\n　Là 《$$ファイヤバグ$$》 sao!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_6a74519e1fc29c4b": {
+      "text": "$$クルツ$$\n「Nguy rồi!\n　Cả $$ＰＳ$$ của Balarant cũng có mặt!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_5b992878fee054b5": {
+      "text": "Lính Firebug\n「Tốt, đã vào cự ly chiến đấu.\n　Các máy đều rõ mục tiêu rồi chứ?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$カン・ユー$$\n「Chết tiệt... sao ta lại phải\n　giúp bọn bắt cóc chứ...!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_4a14ec0c511c7f0d": {
+      "text": "Lính Firebug\n「Mày không có quyền than phiền.\n　Đừng quên ơn bọn tao đã cưu mang mày, $$カン・ユー$$.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_20cf167c0ec0d4d5": {
+      "text": "$$カン・ユー$$\n「Ta biết rồi!\n　Ta sẽ dùng chiếc $$エクルビス$$ cướp từ Balarant\n　thay tiền thôi việc này để cho các ngươi thấy thực lực!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_b591d812c96c6c99": {
+      "text": "$$カレン$$\n「Người lái chiếc AT đó là $$カン・ユー$$ sao!?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_e350fa099c1ab072": {
+      "text": "$$Ｃ．Ｃ．$$\n「Có vẻ hắn vẫn còn đuổi theo $$キリコ$$ nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_fb05d8e5f1ee93e5": {
+      "text": "Lính Firebug\n「Giờ thì, mục tiêu chỉ có một người...!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_c33bd700553abf91": {
+      "text": "Lính Firebug\n「Bọn ta đã điều tra rõ từ lâu rồi!\n　Con bé đó chính là $$姫$$ mới của bọn ta!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_feee5c91826230e1": {
+      "text": "$$クラン$$\n「Có vẻ mục tiêu của địch là chiếc M6!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_bccc48e1964ad22d": {
+      "text": "$$アルト$$\n「Chúng định bắt cóc $$かなめ$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_f8736aaaa216c766": {
+      "text": "$$宗介$$\n「Lũ khủng bố...!\n　Dám chọn đúng lúc này để tấn công...!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_d1ec2522c87c361d": {
+      "text": "$$かなめ$$\n「S-$$宗介$$!\n　Cậu là dân chuyên nghiệp mà!\n　Mấy tên đó thì cậu dễ dàng đánh bại được chứ!」",
+      "status": "needs_review"
+    },
+    "stage0029_04:r_3599f0a4343fd95c": {
+      "text": "$$宗介$$\n「Đúng là tôi chuyên nghiệp, nhưng không phải\n　anh hùng trong phim chiến tranh. Không thể vừa bảo vệ\n　cậu vừa giành chiến thắng mà không bị thương được.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_3bc7834a5bf3ee76": {
+      "text": "$$かなめ$$\n「T-tôi thì không sao đâu mà!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_366814efdc8b5800": {
+      "text": "$$宗介$$\n「Không được, Chidori.\n　Tôi chiến đấu để bảo vệ cậu.\n　Tôi không thể làm gì khiến cậu gặp nguy hiểm.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_9be1a4c10bb62515": {
+      "text": "$$かなめ$$\n「$$宗介$$...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_94a88c90e557e16e": {
+      "text": "$$青山$$\n「Nguy rồi!\n　Dù là $$宗介$$ cũng không thể chiến đấu\n　bằng chiếc AS chỉ nạp đạn giả!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_1c208ca0cbf26f28": {
+      "text": "$$赤木$$\n「Nhưng nếu không tìm cách đánh lạc hướng địch,\n　thì đến rút lui cũng không làm được!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_5b7ee307a700171a": {
+      "text": "Binh sĩ căn cứ Narashino\n「Các máy, bắt đầu tấn công!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_8d8f065c932da30a": {
+      "text": "$$赤城$$\n「Đó là...!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_f5432119677514f7": {
+      "text": "$$風間$$\n「Đơn vị AS của căn cứ Narashino!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_4e5c8e989c4a7691": {
+      "text": "Binh sĩ căn cứ Narashino\n「Chúng tôi sẽ cầm chân địch!\n　Đội Rồng Đỏ Nerima mau rút lui!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_adec86483b13599a": {
+      "text": "$$赤城$$\n「Chưa đâu, vẫn chưa kết thúc!\n　Chỉ có đạn giả thì vẫn chiến đấu được!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_2cf701bbcde3ec13": {
+      "text": "Binh sĩ căn cứ Narashino\n「Đừng quên bổn phận của quân nhân!\n　Không được liều chết vô ích trước mặt người dân!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_c17c58fdba72005e": {
+      "text": "$$赤城$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_1fe8564d2b959317": {
+      "text": "$$赤木$$\n「Rồng Đỏ!\n　Không chiến đấu được thì vẫn có việc anh làm được chứ!\n　Hãy làm tròn việc đó đi!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_f527e012803f7f1c": {
+      "text": "$$赤城$$\n「Tôi... quá say mê kỹ thuật chiến đấu\n　mà quên mất bổn phận của một quân nhân...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_4b1247bd3ca4905d": {
+      "text": "$$赤城$$\n「Xin cảm ơn đơn vị AS của căn cứ Narashino\n　và anh $$赤木駿介$$ đã giúp tôi nhận ra điều đó!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_00c55e25f87b71d0": {
+      "text": "$$赤城$$\n「Rồng Đỏ Nerima, rút lui!\n　Chúng ta sẽ hướng dẫn người dân sơ tán!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_338f3b27e51dcc41": {
+      "text": "$$青山$$\n「$$宗介$$! Cậu cũng tranh thủ rút lui đi!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_d91d4bc2d52b61c4": {
+      "text": "$$宗介$$\n「Rõ.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_0c8ea89b07432421": {
+      "text": "Lính Firebug\n「Đừng hòng để $$姫$$ mới chạy thoát!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_4dbfba00ba7744ee": {
+      "text": "$$赤木$$\n「Nguy rồi!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_be100a32b731708d": {
+      "text": "$$宗介$$\n「Phi công $$赤木$$!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_702f82442fcec8a9": {
+      "text": "$$赤木$$\n「Bên tôi không sao!\n　Mau rút lui đi!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_b1e38da4e8775ffe": {
+      "text": "$$宗介$$\n「Nhưng trong tình thế này...!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$かなめ$$\n「Khoan đã, $$宗介$$!\n　Có gì đó đang tới!」",
+      "status": "needs_review"
+    },
+    "stage0029_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_3dad695c99e9e052": {
+      "text": "$$かなめ$$\n「Là $$ボン太くん#robot$$!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_66d4ae3a21caf881": {
+      "text": "$$宗介$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_0c18da7b3a37825d": {
+      "text": "$$ボン太くん#pilot$$\n「Mofu...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_63249745ffae61b6": {
+      "text": "$$宗介$$\n「Đây là $$ボン太くん#robot$$ mà tôi chuẩn bị...!\n　Ai đang ở bên trong!?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_abdb034ae8509702": {
+      "text": "$$キリコ$$\n「Là tôi.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_3ff2e21207d1d1d3": {
+      "text": "$$宗介$$\n「!!!!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_e51ecf6d6aa42e75": {
+      "text": "$$キリコ$$\n「Tôi biết cậu đã mang chiếc AS này tới.\n　Có nó thì cậu sẽ chiến đấu được.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_47ddabb7b60131c2": {
+      "text": "$$宗介$$\n「M-may quá...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_b025267f22788233": {
+      "text": "$$キリコ$$\n「Tôi còn nợ cậu lần yểm trợ ở $$マーティアル$$.\n　Tôi sẽ đưa cô gái kia rút lui.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_ec1a06a7023bf72c": {
+      "text": "$$かなめ$$\n（Oa... còn lầm lì hơn cả $$宗介$$ nữa...）",
+      "status": "needs_review"
+    },
+    "stage0029_04:r_8805f96e52aaa462": {
+      "text": "$$キリコ$$\n「Đi thôi.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_124591cb154fae64": {
+      "text": "$$かなめ$$\n「K-khoan đã!\n　Tôi còn chưa chuẩn bị tinh thần...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$キリコ$$\n「Kẻ địch không đợi đâu.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_4bf9b05b5f948170": {
+      "text": "$$かなめ$$\n「Áaaaa!!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_eaa52d152f444bfd": {
+      "text": "$$いぶき$$\n「Vừa thấy một cảnh khó tin thật đấy...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_b4bc9e9435b58e6f": {
+      "text": "$$青山$$\n「$$キリコ$$ chui ra từ bộ đồ linh vật...\n　Trẻ con mà thấy thì ám ảnh cả đời mất...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_a9227573166977a9": {
+      "text": "$$赤木$$\n「$$宗介$$!\n　Cậu chiến đấu được chứ!?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_b0600ab9a9e8559d": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_7cbc63dad295f862": {
+      "text": "$$いぶき$$\n「Đó không còn là $$宗介$$ nữa...\n　Mà là $$ボン太くん#robot$$ rồi.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_07f53c816e0a51f5": {
+      "text": "$$赤木$$\n「Tốt, $$ボン太くん#robot$$!\n　Mọi người sắp đến rồi!\n　Trước lúc đó, chúng ta sẽ chặn chúng lại!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_2d09c6f6a2d990ea": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffu!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_3c5fcfc484a51913": {
+      "text": "$$赤木$$\n「Các anh ở căn cứ Narashino!\n　Chúng tôi sẽ chặn bọn chúng lại!\n　Các anh hãy tập trung bảo vệ căn cứ!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_0476ffd10c764b0e": {
+      "text": "$$飯塚$$\n「Rõ, Akaten!\n　Trông cậy vào em đấy!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_48c6c1ecfea6fe4a": {
+      "text": "Lính Firebug\n「Hả...!\n　Con chuột đó xuất hiện làm ta ngẩn người mất!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_2b3479c4cf0680f4": {
+      "text": "Lính Firebug\n「Sai rồi!\n　Đó là chồn!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_e370696b8936b08c": {
+      "text": "$$カン・ユー$$\n「Các ngươi nói gì vậy!\n　Rõ ràng đó là lửng mật bất bại!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_9d7b02c5e728b7aa": {
+      "text": "Lính Firebug\n「Sao cũng được!\n　Dẹp tên lông xù với gã dân văn phòng\n　dám cản đường chúng ta đi!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_9af213fc64e0afec": {
+      "text": "$$ボン太くん#pilot$$\n「Fumof! Mofufumo, fumomofumo!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_d7f1c506e78e55ff": {
+      "text": "$$赤木$$\n「Không hiểu cậu nói gì,\n　nhưng đúng là tự tin ghê thật!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_0c705091f748360e": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffuuu!!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_9eb8599304125b2f": {
+      "text": "$$アルト$$\n「Để cậu đợi lâu rồi, Bonta!\n　Tôi tới giúp đây!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_a072aa25e5f521e0": {
+      "text": "$$クラン$$\n「Đã bảo phải thêm 'kun' vào mà, $$アルト$$!\n　Đồ trán dô!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_24e1a808a1609a1a": {
+      "text": "$$アルト$$\n「X-xin lỗi, đại úy $$クラン$$!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_53128ce8f154fd06": {
+      "text": "$$サザンカ$$\n「C-cái gì thế kia!?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_03b5db9ce98fb8d6": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_3915fb4102f1c1dd": {
+      "text": "$$ＭＩＸ$$\n「D-dễ thương quá!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_817b2773b4ed563e": {
+      "text": "$$オードリー$$\n（Sao thế này, tim mình cứ rung rinh...）",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_1cc233cbc8c80af7": {
+      "text": "$$ノイン$$\n（Hừm... đêm nay có lẽ mình lại được\n　mơ mộng như một thiếu nữ rồi.）",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$Ｃ．Ｃ．$$\n「Này, $$カレン$$...\n　Phải gom bao nhiêu phiếu dự thưởng mới đổi được cái đó?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_e180b22d18f48d38": {
+      "text": "$$カレン$$\n「Ai mà biết!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_e598c2a0b27e7f50": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_4d2a9066c4e7b27f": {
+      "text": "$$シンジ$$\n「Ayanami...?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_10340119af3ed6db": {
+      "text": "$$レイ#333$$\n（Muốn ôm bạn lông xù ấy...）",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_23a9c7ab620ab112": {
+      "text": "$$スズネ$$\n「$$ボン太くん#robot$$ vẫn được yêu thích như mọi khi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_4f0aca6deda07883": {
+      "text": "$n\n「Chỉ đến khi biết ai ở bên trong thôi ạ.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_8fe40600ce62dfbc": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_ff4ce5f3cf96b617": {
+      "text": "$$カレン$$\n「Ừm... $$キリコ$$ mặc cũng hợp lắm mà...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_d73c21f119847e35": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_89766f5ffaa912d4": {
+      "text": "$$クルツ$$\n「Giờ mới sốc thì làm được gì nữa!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$ゼクス$$\n「D-dù sao thì ưu tiên lúc này là tiêu diệt bọn khủng bố.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_451f726d4299ea35": {
+      "text": "$$ヒイロ$$\n「Nhiệm vụ... đã rõ.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_e3d111e8bb190cb1": {
+      "text": "$$デュオ$$\n「Đến cả hai cậu cũng dao động rồi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffu!!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_ab97c2b2418ea732": {
+      "text": "$$モニカ$$\n「Xác nhận đã tiêu diệt toàn bộ quân địch.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_2ddff5064af78db4": {
+      "text": "$$キャシー$$\n「Liệu $$ファイヤバグ$$ vẫn còn\n　nhắm vào $$千鳥かなめ$$ sao...?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_050d0532c4b24bfe": {
+      "text": "$$ジェフリー$$\n「Điều đó hẳn là chắc chắn,\n　nhưng mục đích của chúng có vẻ khác trước.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_d583fcea31bdad2e": {
+      "text": "$$ラム$$\n「Nhờ đội Rồng Đỏ Nerima và mọi người\n　ở $$２１世紀警備保障$$ hướng dẫn sơ tán,\n　toàn bộ người dân đến căn cứ đều an toàn.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_475f7653621a91b5": {
+      "text": "$$ボビー$$\n「Thế này thì cậu củ cải Nerima kia\n　cũng nhớ lại bổn phận của quân nhân rồi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_f228ae702350849b": {
+      "text": "$$モニカ$$\n「Mà giờ phải làm sao đây...?\n　Người dân biết đã an toàn\n　nên đang định ùa tới chỗ $$ボン太くん#robot$$...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_d69dc027cba3003f": {
+      "text": "$$ジェフリー$$\n「Không được...!\n　Tuyệt đối không được để người dân\n　biết ai ở bên trong đó!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_3c3735172a480b72": {
+      "text": "$$ジェフリー$$\n「Tất cả các máy mau rút lui!\n　Nhớ che chắn quanh $$ボン太くん#robot$$ khi rút!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_1f418b5594cea300": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffu!!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_f87fb889124bfaef": {
+      "text": "$$赤木$$\n「Hỏng rồi!\n　Họ đã vượt qua!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_79c90de32a79212d": {
+      "text": "$$赤城$$\n「Thấy chưa, Akaten!\n　Đây là tuyệt chiêu Red Stream Attack!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_33f7fd55913419e8": {
+      "text": "$$赤木$$\n「Chết tiệtttt!\n　Thế này thì lại là Akaten điểm kém rồi!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_473d9a88b4ca96e7": {
+      "text": "$$カン・ユー$$\n「Chết tiệt, cỗ máy gì mà khó điều khiển thế!\n　Vì thế ta mới ghét AT của Balarant!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_4de6ac85c63bac12": {
+      "text": "$$カン・ユー$$\n「Nhớ đấy, $$キリコ$$!\n　Ngày ta điều khiển thành thạo cỗ máy này\n　cũng là ngày giỗ của ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_4c92652c9b1adf6f": {
+      "text": "$$カレン$$\n「Gã đó vẫn chẳng thay đổi gì...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_ce90563a934d49fb": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_4fb296e63cb1fb46": {
+      "text": "$$Ｃ．Ｃ．$$\n「Phản ứng của người này cũng thế.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$赤城$$\n「Akaten!\n　Tôi luôn mong được đấu với cậu như thế này!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_9dc59affd40f32fc": {
+      "text": "$$赤木$$\n「Rốt cuộc là để làm gì!?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_0cea115be526a319": {
+      "text": "$$赤城$$\n「Giáo quan $$飯塚$$ đã nói!\n　Có thể tôi giỏi kỹ thuật chiến đấu hơn,\n　nhưng cậu có thứ mà tôi không có!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_d36072babd12aeb4": {
+      "text": "$$赤木$$\n「Tôi không hiểu anh đang nói gì,\n　nhưng đã quyết đánh thì tôi sẽ đấu hết sức!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_09ee921a85025fd3": {
+      "text": "$$赤城$$\n「Đừng có đùa!\n　Đừng tưởng dân thường có thể thắng quân nhân!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_fae689f2a1057b61": {
+      "text": "$$赤木$$\n「Bảo vệ hòa bình thì đâu phân biệt quân nhân với dân thường!\n　$$ダイ・ガード$$ bảo vệ hòa bình sẽ không thua\n　kẻ chỉ biết trau chuốt kỹ thuật lái!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_91c6d0bb53854ecc": {
+      "text": "$$赤城$$\n「Khí thế này...!\n　Đây là tuổi trẻ sao!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_42a3149105314ab8": {
+      "text": "$$赤城$$\n「Khá lắm, kẻ chen ngang bí ẩn!\n　Lại có thể đấu ngang ngửa với Rồng Đỏ này!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_62ecd978c667bd29": {
+      "text": "$$かなめ$$\n「Tiến lên, $$宗介$$!\n　Bào nát tên củ cải Nerima kiêu căng, mê tán gái đó đi!」",
+      "status": "needs_review"
+    },
+    "stage0029_04:r_d441e6cc908ac01b": {
+      "text": "$$宗介$$\n「Rõ.\n　Tôi sẽ cho cậu thấy tay nghề của dân chuyên nghiệp!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_b2aab8873350ea1f": {
+      "text": "$$宗介$$\n「Chidori... nếu thấy khó chịu hay sợ hãi,\n　cứ nói với tôi, đừng ngại.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_2c7af4c55d8ac938": {
+      "text": "$$かなめ$$\n「Tôi không sao.\n　Đấu tập cũng như chơi bắn súng giả thôi mà.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_653b741d07545dff": {
+      "text": "$$かなめ$$\n「Mà cậu đã khoác lác như thế\n　thì phải làm cho ra trò đấy!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_d584d4b5af55b1cf": {
+      "text": "$$宗介$$\n「Không vấn đề gì.\n　Tôi chỉ cần làm như mọi khi thôi.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_db0ee69ece206fcd": {
+      "text": "$$かなめ$$\n（Biết là nửa đùa nửa thật, mà vẫn hơi sợ...）",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_f97e6925c9e37332": {
+      "text": "$$かなめ$$\n（Vậy là bình thường, $$宗介$$ và mọi người\n　còn phải chiến đấu trong nỗi sợ lớn hơn thế này...）",
+      "status": "needs_review"
+    },
+    "stage0029_04:r_422861e0b8d77d0c": {
+      "text": "$$ミサト$$\n「Các Element, nghe rõ không?\n　Tổng tư lệnh $$不動$$ đã giao cho các em\n　toàn quyền quyết định thời điểm Element Change.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_ef16bcaa2b0e0c45": {
+      "text": "$$ミサト$$\n「Hãy thực hiện Element Change\n　tùy theo tình hình mà chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_2b93cca10f1c36a8": {
+      "text": "$$アマタ$$\n「Rõ ạ!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_7980fd37141d88d0": {
+      "text": "$$アマタ$$\n（Mình vẫn chưa hiểu rõ thế giới này,\n　nhưng nếu có người cần sức mạnh của chúng ta,\n　thì mình sẽ chiến đấu bằng Aquarion...!）",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_ac21212c36d2b9ad": {
+      "text": "$$ボン太くん#pilot$$\n「Fumomofu, mofufu, fumofumo!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_a26e2108358af7a4": {
+      "text": "$$ボン太くん#pilot$$\n「Mofu! Fumomo, fumomofumo!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_a8118b2e37aa1382": {
+      "text": "$$ボン太くん#pilot$$\n「Fumoffuuu!!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_017a56991b7b8ca4": {
+      "text": "$$アルト$$\n「Tôi chẳng hiểu cậu đang nói gì cả!!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_ad3e1db3419665fb": {
+      "text": "$$カン・ユー$$\n「Ở $$ア・コバ$$, ngươi chăm sóc ta chu đáo lắm, $$キリコ$$!\n　Nhưng hôm nay ta không còn như trước nữa đâu!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_0149e3a5f2e5ef78": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_3ad10e705167a3fa": {
+      "text": "$$カン・ユー$$\n「Tên khốn này!\n　Ngươi định không nói một lời nào sao!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_bdc546b199c80996": {
+      "text": "$$キリコ$$\n「Tôi ngán cảnh vừa mở miệng\n　đã phát ra những âm thanh kỳ quặc rồi.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_22c8caf8c08c5119": {
+      "text": "$$カン・ユー$$\n「Chẳng lẽ người trong bộ lửng mật lúc nãy là...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_9c13714b3efbc7a8": {
+      "text": "$$キリコ$$\n「...Đừng nói chuyện thừa.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_96f156e19b53fc09": {
+      "text": "$$カン・ユー$$\n「Lâu rồi không gặp, $$カレン$$!\n　Ta cũng có cả đống thù hận với ngươi đấy!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_feb0390bba7fe1fb": {
+      "text": "$$カレン$$\n「Ông dai dẳng thật đấy!\n　Vẫn còn ôm hận chuyện ở 《$$クメン$$》 sao!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_8a78bcec22029401": {
+      "text": "$$カン・ユー$$\n「Không chỉ có thế!\n　Lần đó, lần đó, rồi cả lần đó nữa,\n　ngươi đều chống lại ta!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_f42017dfce31dea9": {
+      "text": "$$カン・ユー$$\n「Nếu ngươi không quỳ xuống dập đầu xin lỗi,\n　ta sẽ đập tan ngươi ngay tại đây!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_ef7426919f628d8a": {
+      "text": "$$カレン$$\n「Đã lôi chuyện cũ ra nói,\n　thì tôi cũng có chuyện muốn nói với ông đây!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_9e994a4b926d9906": {
+      "text": "$$カレン$$\n「Ở $$クメン$$, ông dám bắt tôi\n　mặc đồ thỏ đi xuất kích!\n　Nghĩ kiểu gì thì đó cũng là quấy rối tình dục!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_ffae76d2a77abf5a": {
+      "text": "$$カン・ユー$$\n「Lúc đó là tình huống khẩn cấp nên...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_3ac462d37e5893ff": {
+      "text": "$$カレン$$\n「Im đi!\n　Đến giờ tôi vẫn nhớ ánh mắt\n　dâm đãng của ông lúc đó đấy!!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_fd6bdf7910d7d925": {
+      "text": "$$シンジ$$\n「P-phải chiến đấu với cỗ máy có người bên trong sao...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_d38be46e6cd7a5e5": {
+      "text": "$$ミサト$$\n「$$シンジ$$, hãy nhớ lại lúc tập luyện.\n　Em sẽ làm được.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_3fe2078328753c16": {
+      "text": "$$シンジ$$\n「Chị bảo em giết người sao!?」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_c66844158d1ce600": {
+      "text": "$$ミサト$$\n「Không phải vậy.\n　Có nhiều cách để vô hiệu hóa đối thủ mà.」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_d037ecbc1e348dc9": {
+      "text": "$$ミサト$$\n「Đưa mục tiêu vào tâm ngắm rồi bấm nút...\n　Đưa mục tiêu vào tâm ngắm rồi bấm nút...\n　Cứ làm như thế để nhắm vào điểm yếu của máy địch!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_bcd53d14c4785426": {
+      "text": "$$シンジ$$\n「Đưa mục tiêu vào tâm ngắm rồi bấm nút...」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_9ca55ea7feca954a": {
+      "text": "$$ミサト$$\n「Đúng rồi!\n　Đợt đặc huấn ấy chính là để ứng phó tình huống này!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_554ae12c4c170253": {
+      "text": "$$ミサト$$\n「Hãy tự mình tìm ra cách của riêng em!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_fa59c6df081e6ae4": {
+      "text": "$$シンジ$$\n「Em hiểu rồi, chị $$ミサト$$...!\n　Em sẽ thử!」",
+      "status": "reviewed"
+    },
+    "stage0029_04:r_ca3edf3b8b52aedf": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

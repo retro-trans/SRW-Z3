@@ -1,0 +1,1094 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0049_03:r_caaab7bad760e16d": {
+      "text": "$$ネェル・アーガマ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_99b162aa6aa286a2": {
+      "text": "$$ネェル・アーガマ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_58fb02434a1c40b2": {
+      "text": "$$ネェル・アーガマ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　\n　～ $$ネェル・アーガマ$$, khoang chứa máy ～",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_1263541f4071624e": {
+      "text": "$$カミーユ$$\n「$$シン$$...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_3bc300bbdc277d82": {
+      "text": "$$シン$$\n「...Bị tìm thấy rồi à...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_38762a09460d8b6b": {
+      "text": "$$カミーユ$$\n「Cậu... định đến Orb một mình sao?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_7ab28e70b4d4f641": {
+      "text": "$$シン$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$カミーユ$$\n「Quân UG đang chặn đường tiến của $c.\n　Chỉ một mình Destiny mà đột phá thì...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_ec335e69f984b8b3": {
+      "text": "$$シン$$\n「Dù vậy, tôi vẫn phải đi...!」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_0abcaf0c31978670": {
+      "text": "$$アルト$$\n「Bình tĩnh đi, $$シン$$.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_1d6bc48b7f246730": {
+      "text": "$$ミシェル$$\n「$$カミーユ$$ không đến để ngăn cậu đâu.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_1af20fccc3c53cfc": {
+      "text": "$$シン$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_f951916061232dcd": {
+      "text": "$$ルカ$$\n「Để em giải thích kế hoạch.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_4d863c3fb88a4c39": {
+      "text": "$$ルカ$$\n「Phi đội Skull sẽ đi trước chủ lực $c,\n　kiềm chế quân phòng thủ UG. Trong lúc đó,\n　anh $$シン$$ hãy đi đường khác đến Orb.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_44f4742c3dcce39a": {
+      "text": "$$ルカ$$\n「Khi ấy, $$Ｚガンダム$$ sẽ làm phương tiện bay hỗ trợ\n　để giảm tiêu hao của Destiny xuống mức thấp nhất.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_9e701cdeb3842c21": {
+      "text": "$$アルト$$\n「Phải cảm ơn $$カミーユ$$ đấy.\n　Cậu ấy không chỉ thuyết phục cấp trên duyệt kế hoạch,\n　mà còn chở cậu đi nữa.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_6fd81f4abebe60c5": {
+      "text": "$$シン$$\n「$$カミーユ$$...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_da2132b5038ec737": {
+      "text": "$$カミーユ$$\n「Những khúc mắc của cậu với Orb...\n　Hãy đến giải quyết dứt điểm đi.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_495d61d3ec7e16f2": {
+      "text": "$$シン$$\n「Ừ...!」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_5cd353758cfe474d": {
+      "text": "$n\n「Cẩn thận đấy, $$シン$$...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_a653c8dec4c0f06f": {
+      "text": "$$シン$$\n「Sao thế, $n!?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_86d493e37a9799a7": {
+      "text": "$n\n「...Gần đây... có... hắn...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_09d0fcc600cdd3df": {
+      "text": "$$かなめ$$\n「$n, mắt cậu!」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_182faded068c15ed": {
+      "text": "$$宗介$$\n「Kẻ địch cậu đang truy đuổi... thiên thần ở gần đây sao...?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_9c206d19bfda4bd5": {
+      "text": "$n\n「...Tôi chỉ có thể nghĩ vậy...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_6e558bc69acf5bf3": {
+      "text": "$$シン$$\n（UG và thiên thần...\n　Chuyện gì đang xảy ra ở Orb vậy...）",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_d60d0818e965232f": {
+      "text": "Orb, phòng họp",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_5b23687574286204": {
+      "text": "Orb, phòng họp",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_6fd86c96891ea942": {
+      "text": "Orb, phòng họp",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_43e4e548c0b28376": {
+      "text": "　\n　～ Liên hiệp các Tiểu vương quốc Orb ～\n　Dinh thự Đại diện",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_d80a9688790ed583": {
+      "text": "$$カガリ$$\n「Tình hình thế nào?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_708bea61e3c43ada": {
+      "text": "$$キサカ$$\n「Đã đánh bại đợt địch đầu tiên, nhưng Archangel bị hư hại vừa.\n　Akatsuki còn nguyên vẹn, nhưng số Mobile Suit\n　còn chiến đấu được chỉ dưới 10%.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_7b6f159eeaf4de0f": {
+      "text": "$$カガリ$$\n「Để hạm trưởng Ramius và mọi người yểm trợ dân sơ tán.\n　Ít nhất phải hoàn thành việc đó\n　trước khi đợt quân UG thứ hai đến.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_0827963cfd706e8d": {
+      "text": "$$キサカ$$\n「Rõ.\n　Tôi sẽ thu xếp ngay.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$カガリ$$\n「Trông cậy vào anh, $$キサカ$$...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_3f4035fd9db81258": {
+      "text": "$$マリナ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_567b361a454c4b73": {
+      "text": "$$カガリ$$\n「Xin công chúa $$マリナ$$ yên tâm.\n　Tôi nhất định sẽ bảo vệ công chúa.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_d22851aaafbbf8fc": {
+      "text": "$$カガリ$$\n「Khi bảo đảm được đường sơ tán cho người dân,\n　xin hãy cùng họ rời khỏi đây.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_352534f64413d954": {
+      "text": "$$マリナ$$\n「Cảm ơn, Đại diện Athha.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_79f2664edb1af798": {
+      "text": "$$カガリ$$\n「Thật đáng tiếc.\n　Công chúa $$マリナ$$ đã đến tận đây,\n　tôi còn định bàn về tương lai với công chúa...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$マリナ$$\n「Vậy mà lại thành ra thế này...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_1c5aa0d15ae24846": {
+      "text": "$$カガリ$$\n「Orb luôn nỗ lực trở thành cầu nối\n　giữa Trái Đất và các thuộc địa.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_53bb64ee17750ee2": {
+      "text": "$$カガリ$$\n「Chiến sự giữa quân Liên bang và Neo Zeon ngoài vũ trụ\n　ngày càng khốc liệt. Tôi nghe nói ngày càng nhiều người\n　xem sự tồn tại của Orb là niềm hy vọng.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_7a7add80fde475ba": {
+      "text": "$$マリナ$$\n「Tôi, Thứ trưởng Ngoại giao Darlian và mọi người\n　cũng đồng lòng với Đại diện Athha,\n　và đã hoạt động vì mục tiêu đó đến tận hôm nay.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_b2befefdbed1393d": {
+      "text": "$$マリナ$$\n「Chúng tôi có thể kiên trì bất chấp sự cản trở\n　của những người chống đối,\n　hoàn toàn là nhờ sự tồn tại của Orb.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_2103f6df2ea2e447": {
+      "text": "$$カガリ$$\n「Tôi không biết vì sao UG nhắm vào Orb.\n　Nhưng tôi nhất định sẽ bảo vệ ngọn lửa hy vọng này\n　và công chúa $$マリナ$$, người chung chí hướng với chúng tôi.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_a12e3e130d896ff7": {
+      "text": "$$カガリ$$\n「Dù phải đánh đổi mạng sống.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_b6f7b219eb4bd64b": {
+      "text": "$$マリナ$$\n「Đại diện Athha...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_91bf33c27ad39f0a": {
+      "text": "$$カガリ$$\n「Công chúa $$マリナ$$... không phải để đổi lại điều đó,\n　nhưng tôi có thể nhờ công chúa một việc không?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_ee220318b96ab538": {
+      "text": "$$マリナ$$\n「Nếu là việc tôi làm được.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_ce1b55e526b6277a": {
+      "text": "$$カガリ$$\n「Cha tôi, cựu Đại diện Orb,\n　Uzumi Nara Athha,\n　cũng đã hy sinh vì lý tưởng.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_c304df6888eb78f7": {
+      "text": "$$カガリ$$\n「Tôi kế thừa ý chí ấy,\n　quyết không khuất phục trước bạo lực phi lý.\n　Binh sĩ Orb cũng luôn sát cánh với tôi.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_c26958634526e597": {
+      "text": "$$カガリ$$\n「Nhưng tôi không muốn cuốn người dân\n　vào cuộc chiến ấy.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_cdb750c9d380881a": {
+      "text": "$$カガリ$$\n「Công chúa $$マリナ$$... nếu Orb bị thiêu rụi,\n　Azadistan có thể tiếp nhận\n　những người dân đã sơ tán không?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_95fda74613c97b39": {
+      "text": "$$マリナ$$\n「Tôi hiểu rồi.\n　Thay mặt Azadistan, tôi xin hứa.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_1956994937f8171e": {
+      "text": "$$マリナ$$\n「Nhưng Đại diện Athha...\n　cô cũng không được chết.\n　Xin hãy cùng người dân rời khỏi đây.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_48f49f6728c15612": {
+      "text": "$$カガリ$$\n「Tôi không thể làm vậy.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$マリナ$$\n「Tại sao?\n　Dù kế thừa di nguyện của cha mình,\n　nhưng nếu cô mất mạng thì...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_f02c37d91387d0ad": {
+      "text": "$$カガリ$$\n「Tôi đã từng bỏ trốn khỏi đất nước này một lần.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$マリナ$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_9796b3efa401a303": {
+      "text": "$$カガリ$$\n「Lúc đó, có lẽ chẳng còn cách nào khác.\n　Nhưng tôi không quên rằng việc ấy đã kéo dài hỗn loạn,\n　khiến biết bao người phải chịu khổ...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_643b6eebfc0186b3": {
+      "text": "$$カガリ$$\n「Vì thế, lần này tôi sẽ không bỏ chạy cho đến phút cuối.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_291280e5f7eb9d70": {
+      "text": "$$マリナ$$\n「Đại diện Athha...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_32eb462c1b4999cb": {
+      "text": "$$カガリ$$\n「Lý tưởng của Orb đã thấm vào từng người dân.\n　Dù mất đi đất nước, mất đi người đại diện,\n　lý tưởng ấy vẫn sẽ tồn tại.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_1f4337d6d393fc37": {
+      "text": "$$カガリ$$\n「Hơn nữa, còn có công chúa $$マリナ$$,\n　Thứ trưởng Ngoại giao Darlian và những người chung chí hướng.\n　Tôi chẳng có gì phải sợ cả.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_4740e748fae085ee": {
+      "text": "$$マリナ$$\n「Không ngờ cô đã quyết tâm đến thế...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_b76524cd840e1d37": {
+      "text": "$$カガリ$$\n「Xin hãy ngẩng đầu lên, công chúa $$マリナ$$.\n　Tôi cũng đâu mong mình chết.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_730ffe18400abfc2": {
+      "text": "$$カガリ$$\n「Viện quân từ chi nhánh Thái Bình Dương của Liên bang\n　sắp đến rồi.\n　Chỉ cần họ đến...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_ffe0fca26da5cd38": {
+      "text": "$$キサカ$$\n「Thưa đại diện...!\n　Một nhóm máy chưa rõ danh tính đang áp sát Orb!」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_bfb27f9eb2f7073e": {
+      "text": "$$カガリ$$\n「UG đến rồi sao...!」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_859dfa27bcaafe30": {
+      "text": "$$キサカ$$\n「Không... có lẽ đây là một lực lượng khác.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_71ebf05996a4b0fd": {
+      "text": "$$カガリ$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_6214c11b1bca811e": {
+      "text": "Orb, phòng họp",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_8eaf6f3098ffed12": {
+      "text": "Orb, phòng họp",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_cf507214fe955d75": {
+      "text": "Orb, phòng họp",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_2113dcbabdfc758a": {
+      "text": "　\n　～ Liên hiệp các Tiểu vương quốc Orb ～\n　Dinh thự Đại diện",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$カガリ$$\n「Cảm ơn cậu, $$シン$$.\n　Nhờ cậu mà Orb đã được cứu.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_6a74519e1fc29c4b": {
+      "text": "$$シン$$\n「...Tại sao đại diện không bỏ chạy?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_5b992878fee054b5": {
+      "text": "$$カガリ$$\n「Tôi là đại diện của Orb.\n　Tôi không được phép bỏ đất nước mà chạy nữa.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$シン$$\n「Thật đáng khâm phục.\n　Giờ cô đã là một đại diện xứng đáng, không chỉ trên danh nghĩa.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_4a14ec0c511c7f0d": {
+      "text": "$$カガリ$$\n「Như cậu từng nói, nói lời đẹp đẽ là sở trường nhà Athha mà.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_20cf167c0ec0d4d5": {
+      "text": "$$シン$$\n「Cô... vẫn nhớ câu đó sao?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_b591d812c96c6c99": {
+      "text": "$$カガリ$$\n「Vì với tôi, đó là lời răn mình.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_e350fa099c1ab072": {
+      "text": "$$シン$$\n「...Tôi chịu thua rồi, thưa đại diện.\n　Về chuyện khi đó... chuyện tôi gây sự với cô trên Minerva...\n　Tôi xin lỗi.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$カガリ$$\n「Không cần đâu.\n　Lúc ấy, đúng là tôi còn non nớt.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_c33bd700553abf91": {
+      "text": "$$カガリ$$\n「Cũng như cậu vậy.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_feee5c91826230e1": {
+      "text": "$$シン$$\n「Đúng vậy.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_bccc48e1964ad22d": {
+      "text": "$$カガリ$$\n「Cho tôi nói thêm lần nữa, $$シン$$.\n　Nhờ cậu mà Orb đã được cứu.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_f8736aaaa216c766": {
+      "text": "$$カガリ$$\n「Cảm ơn cậu.\n　...Và thay mặt Orb, tôi muốn nói...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_d1ec2522c87c361d": {
+      "text": "$$カガリ$$\n「Mừng cậu về nhà, $$シン$$.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_3599f0a4343fd95c": {
+      "text": "$$シン$$\n「Cảm ơn cô, Đại diện Athha.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_3bc7834a5bf3ee76": {
+      "text": "$$キラ$$\n「Mừng cho cậu, $$シン$$.\n　Và cả $$カガリ$$ nữa.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_366814efdc8b5800": {
+      "text": "$$カガリ$$\n「Tôi cũng cảm ơn cậu, $$キラ$$.\n　Cảm ơn đã đến tận đây từ $$プラント$$.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_9be1a4c10bb62515": {
+      "text": "$$カガリ$$\n「Nhưng nếu đã đến thì sớm hơn một chút có phải tốt không.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_94a88c90e557e16e": {
+      "text": "$$キラ$$\n「Xin lỗi, $$カガリ$$.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_1c208ca0cbf26f28": {
+      "text": "$$カガリ$$\n「Đùa thôi.\n　...Cái tính thật thà quá mức của cậu vẫn chẳng đổi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_5b7ee307a700171a": {
+      "text": "$$キラ$$\n「$$アスラン$$ và mọi người cũng nói vậy đấy.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_8d8f065c932da30a": {
+      "text": "$$カガリ$$\n「...Ờ thì... mọi người vẫn khỏe chứ?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_f5432119677514f7": {
+      "text": "$$キラ$$\n「Ừ...\n　Dù $$プラント$$ đang ngày càng nghiêng về phía chiến tranh.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_4e5c8e989c4a7691": {
+      "text": "$$キラ$$\n「Cứ thế này, rồi có thể chúng tôi sẽ phải\n　cùng Neo Zeon chống lại Liên bang Trái Đất.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_adec86483b13599a": {
+      "text": "$$シン$$\n「Nhưng nếu làm rõ được chính bọn Geminis\n　đã châm ngòi cho chiến tranh thì...!」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_2cf701bbcde3ec13": {
+      "text": "$$カガリ$$\n「Đáng tiếc, tình hình đã vượt qua mức\n　có thể giải quyết bằng việc truy tìm nguyên nhân rồi.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_c17c58fdba72005e": {
+      "text": "$$カガリ$$\n「Dù bây giờ làm rõ được khởi nguồn,\n　e rằng hai bên cũng không thể hạ vũ khí nữa.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_1fe8564d2b959317": {
+      "text": "$$カガリ$$\n「Như trận chiến hôm nay đã cho thấy,\n　ngay trong Liên bang Trái Đất\n　cũng có những kẻ mong muốn chiến tranh.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_f527e012803f7f1c": {
+      "text": "$$キラ$$\n「Dù vậy, chúng ta vẫn phải tiếp tục làm điều có thể...\n　điều mình nên làm.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_4b1247bd3ca4905d": {
+      "text": "$$カガリ$$\n「Cậu sẽ đi sao, $$キラ$$?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_00c55e25f87b71d0": {
+      "text": "$$キラ$$\n「Chuyện ở $$プラント$$ tôi đã giao cho $$ラクス$$ và mọi người.\n　Tôi sẽ chiến đấu cùng $c.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_338f3b27e51dcc41": {
+      "text": "$$シン$$\n「Anh $$キラ$$...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_d91d4bc2d52b61c4": {
+      "text": "$$マリナ$$\n「...Thành viên $c, tôi nói chuyện một chút được không?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_0c8ea89b07432421": {
+      "text": "$$シン$$\n「À, vâng...!\n　Cô là công chúa $$マリナ・イスマイール$$ phải không ạ?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_4dbfba00ba7744ee": {
+      "text": "$$マリナ$$\n「Vâng...\n　Trong $$破界事変$$ và $$再世戦争$$,\n　tôi đã được mọi người ở $$ＺＥＸＩＳ$$ giúp đỡ rất nhiều.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_be100a32b731708d": {
+      "text": "$$シン$$\n「À... ừm... $$刹那$$ thì... chắc là...\n　cậu ấy còn phải bảo dưỡng máy hay gì đó,\n　nên không đến đây, có lẽ vậy...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_702f82442fcec8a9": {
+      "text": "$$マリナ$$\n「Không sao đâu.\n　Tôi đã hiểu rằng cậu ấy vẫn luôn\n　mang trong mình khát vọng hòa bình.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_b1e38da4e8775ffe": {
+      "text": "$$マリナ$$\n「Nếu trở về $c,\n　xin hãy đưa thứ này cho cậu ấy.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$キラ$$\n「Bông hoa đẹp quá.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$マリナ$$\n「Đây là bông hoa từng nở ở Azadistan.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_3dad695c99e9e052": {
+      "text": "$$マリナ$$\n「Như các cậu đã biết, trong $$再世戦争$$,\n　Azadistan từng bị thiêu rụi.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_66d4ae3a21caf881": {
+      "text": "$$シン$$\n（Lúc chiến đấu với 《$$アロウズ$$》 sao...）",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_0c18da7b3a37825d": {
+      "text": "$$マリナ$$\n「Nhưng chiến tranh đã kết thúc,\n　và nhờ nỗ lực của nhiều người,\n　Azadistan đã được tái thiết.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_63249745ffae61b6": {
+      "text": "$$マリナ$$\n「Khi trở về Azadistan, tôi thấy bông hoa này\n　nở trên vùng đất cháy trụi,\n　nên đã xử lý để giữ nó tươi mãi.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_abdb034ae8509702": {
+      "text": "$$マリナ$$\n「Mỗi khi khó khăn khiến tôi sắp gục ngã,\n　tôi lại nhìn bông hoa này để khơi lại khát vọng hòa bình.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_3ff2e21207d1d1d3": {
+      "text": "$$シン$$\n「Trao đi một thứ quan trọng như vậy có được không ạ?\n　Cậu ta... chắc chẳng hứng thú với hoa đâu...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_e51ecf6d6aa42e75": {
+      "text": "$$カガリ$$\n「Thất lễ quá, $$シン$$...!\n　Người tên $$刹那$$ ấy\n　rất quan trọng với công chúa $$マリナ$$ mà...!」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_47ddabb7b60131c2": {
+      "text": "$$シン$$\n「À, tôi xin lỗi!」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_b025267f22788233": {
+      "text": "$$マリナ$$\n「Xin đừng bận tâm.\n　Tôi cũng nghĩ hoa không hợp với $$刹那$$ đâu.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_ec1a06a7023bf72c": {
+      "text": "$$マリナ$$\n「Và... đúng là cậu ấy rất quan trọng với tôi,\n　nhưng hơi khác với tình cảm nam nữ.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_8805f96e52aaa462": {
+      "text": "$$キラ$$\n「Ra vậy.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_124591cb154fae64": {
+      "text": "$$シン$$\n「Vậy thì càng khó hiểu...\n　sao cô lại trao đi một thứ quan trọng đến thế...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$マリナ$$\n「Chắc chắn con đường sắp tới của $$刹那$$\n　sẽ khắc nghiệt hơn của tôi nhiều.\n　Tôi mong bông hoa này có thể an ủi cậu ấy, dù chỉ một chút.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_4bf9b05b5f948170": {
+      "text": "$$マリナ$$\n「Từ giờ, mỗi khi sắp nản lòng,\n　tôi sẽ nghĩ về $$刹那$$ thay cho bông hoa.\n　Chắc chắn điều đó sẽ khơi lại khát vọng hòa bình trong tôi.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_eaa52d152f444bfd": {
+      "text": "$$シン$$\n「Công chúa $$マリナ$$...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_b4bc9e9435b58e6f": {
+      "text": "$$キラ$$\n「Tôi hiểu rồi.\n　Tôi nhất định sẽ trao bông hoa này cho $$刹那$$.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_a9227573166977a9": {
+      "text": "$$カガリ$$\n「$$キラ$$, $$シン$$...\n　Hai cậu cũng phải cẩn thận đấy.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_b0600ab9a9e8559d": {
+      "text": "$$カガリ$$\n「Như $$刹那$$ là niềm hy vọng của công chúa $$マリナ$$,\n　hai cậu cũng là niềm hy vọng của tôi.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_7cbc63dad295f862": {
+      "text": "$$キラ$$\n「Cảm ơn, $$カガリ$$.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_07f53c816e0a51f5": {
+      "text": "$$シン$$\n「Với chúng tôi, Orb cũng là hy vọng.\n　Chúng tôi sẽ chiến đấu để bảo vệ nó.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_2d09c6f6a2d990ea": {
+      "text": "$$シン$$\n（Con đi đây... bố, mẹ... anh đi đây, Mayu...）",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_3c5fcfc484a51913": {
+      "text": "Ptolemaios 2, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_0476ffd10c764b0e": {
+      "text": "Ptolemaios 2, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_48c6c1ecfea6fe4a": {
+      "text": "Ptolemaios 2, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_2b3479c4cf0680f4": {
+      "text": "　\n　\n　～ $$プトレマイオス２改$$, khoang chứa máy ～",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_e370696b8936b08c": {
+      "text": "$$イアン$$\n「Lâu rồi không gặp, các cậu.\n　Có vẻ ai cũng khỏe cả nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_9d7b02c5e728b7aa": {
+      "text": "$$カミーユ$$\n「Ông $$イアン$$ cũng bình an là tốt rồi ạ.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_9af213fc64e0afec": {
+      "text": "$$デュオ$$\n「Có vẻ ông chú lại già thêm một chút rồi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_d7f1c506e78e55ff": {
+      "text": "$$トロワ$$\n「Thế thì chênh lệch tuổi tác với vợ lại càng rõ hơn.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_0c705091f748360e": {
+      "text": "$$イアン$$\n「Không ngờ ngay cả cậu\n　cũng nói với tôi như thế đấy...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_9eb8599304125b2f": {
+      "text": "$$デュオ$$\n「Tức là cặp vợ chồng khiến ngay cả $$トロワ$$ cũng muốn trêu nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_a072aa25e5f521e0": {
+      "text": "$$クルツ$$\n「Thế, đứa nào lái chiếc Gundam màu xanh kia?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_24e1a808a1609a1a": {
+      "text": "$$イアン$$\n「Cậu nói Zabanya à...\n　Này, $$ロックオン$$... có khách tìm cậu đấy.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_53128ce8f154fd06": {
+      "text": "$$ロックオン$$\n「Có việc gì với tôi à?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_03b5db9ce98fb8d6": {
+      "text": "$$クルツ$$\n「Không chỉ là có việc đâu.\n　Tôi là $$ウルズ$$ 6 của $$トゥアハー・デ・ダナン$$...!\n　Đừng bảo là không biết tôi đấy!」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_3915fb4102f1c1dd": {
+      "text": "$$ロックオン$$\n「...Tôi chẳng hiểu anh đang nói gì.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_817b2773b4ed563e": {
+      "text": "$$クルツ$$\n「Này, anh kia!\n　Chúng ta đã đấu với nhau bao lần trong $$破界事変$$,\n　giờ anh lại lờ tôi đi sao!?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_1cc233cbc8c80af7": {
+      "text": "$$マオ$$\n「Celestial Being gây chiến với cả thế giới,\n　nên cũng là kẻ địch của $$ミスリル$$ mà.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$$クルツ$$\n「Tôi với anh...!\n　Hai tay bắn tỉa đại diện cho tổ chức của mình,\n　những màn đấu súng nảy lửa...!」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_e180b22d18f48d38": {
+      "text": "$$クルツ$$\n「Thắng rồi thua, thua rồi thắng...!\n　Chiến tích là năm thắng, năm thua!\n　Anh quên những trận đấu đỉnh cao đó rồi sao!?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_e598c2a0b27e7f50": {
+      "text": "$$ロックオン$$\n「Xin lỗi...\n　Đó là $$ロックオン$$ đời trước... anh trai tôi.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_4d2a9066c4e7b27f": {
+      "text": "$$ロックオン$$\n「Tên thật của tôi là Lyle Dylandy...\n　Em trai sinh đôi của Neil Dylandy,\n　người từng đối đầu với anh.」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_10340119af3ed6db": {
+      "text": "$$クルツ$$\n「Vậy người đời trước giờ sao rồi?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_23a9c7ab620ab112": {
+      "text": "$$ロックオン$$\n「Giờ anh ấy không còn nữa rồi」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_4f0aca6deda07883": {
+      "text": "$$クルツ$$\n「...Vậy à...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_8fe40600ce62dfbc": {
+      "text": "$$クルツ$$\n「Này, cậu em... nghe tôi kể chuyện xưa một chút nhé?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_ff4ce5f3cf96b617": {
+      "text": "$$ロックオン$$\n「Được thôi.\n　Tôi cũng muốn nghe về những trận đấu súng bắn tỉa\n　giữa anh và anh trai tôi」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_d73c21f119847e35": {
+      "text": "$$クルツ$$\n「Mà Gundam của cậu...\n　hình như không hẳn là loại chuyên bắn tỉa nhỉ...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_89766f5ffaa912d4": {
+      "text": "$$ロックオン$$\n「Zabanya của tôi cũng chuyên bắn,\n　nhưng lấy số lượng bù chất lượng.\n　Dù sao tôi cũng là thằng em kém cỏi mà」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$デュオ$$\n「Chiếc đó cũng do ông chú chế tạo à?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_451f726d4299ea35": {
+      "text": "$$イアン$$\n「Đúng vậy. Nó được phát triển từ Cherudim,\n　nhưng tôi đã thiết kế lại vũ khí cho phù hợp\n　với sở trường của $$ロックオン$$」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_e3d111e8bb190cb1": {
+      "text": "$$ロックオン$$\n「Với Zabanya, tôi sẽ tạo nên\n　một $$ロックオン・ストラトス$$ của riêng mình」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_7c0d3c51f9a11ca0": {
+      "text": "$$カミーユ$$\n「Có vẻ $$刹那$$ vẫn dùng $$ダブルオーライザー$$ nhỉ」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_ab97c2b2418ea732": {
+      "text": "$$イアン$$\n「Ừ. Nhưng GN Drive đã được tháo ra rồi.\n　Giờ nó chạy bằng hạt GN trong bình chứa」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_2ddff5064af78db4": {
+      "text": "$$アムロ$$\n「Vậy còn Twin Drive thì sao ạ?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_050d0532c4b24bfe": {
+      "text": "$$イアン$$\n「Chúng tôi đang dùng nó để phát triển một cỗ máy khác」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_d583fcea31bdad2e": {
+      "text": "$$刹那$$\n「Nhưng $$ダブルオーライザー$$ hiện tại vẫn đủ sức chiến đấu.\n　Không có vấn đề gì」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_475f7653621a91b5": {
+      "text": "$$ヒイロ$$\n「Ý cậu là không cần kén chọn cỗ máy?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_f228ae702350849b": {
+      "text": "$$刹那$$\n「Cậu hiểu như vậy cũng được」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_d69dc027cba3003f": {
+      "text": "$$ヒイロ$$\n「Cậu chẳng thay đổi gì, $$刹那・Ｆ・セイエイ$$」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_3c3735172a480b72": {
+      "text": "$$刹那$$\n「Cậu cũng vậy, $$ヒイロ$$」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_1f418b5594cea300": {
+      "text": "$$クルツ$$\n「Ồ, gì đây.\n　Cứ tưởng lại thêm một gã kín như bưng,\n　ai ngờ cũng thân thiện đấy chứ」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_f87fb889124bfaef": {
+      "text": "$$マオ$$\n「$$ヒイロ$$ cũng nói nhiều hơn thường ngày nữa」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_79c90de32a79212d": {
+      "text": "$$ロックオン$$\n「Hai người này là bạn chí cốt mà」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_33f7fd55913419e8": {
+      "text": "$$マオ$$\n「Ra vậy.\n　Hai phi công Gundam kín tiếng nên hợp nhau chứ gì」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_473d9a88b4ca96e7": {
+      "text": "$$クルツ$$\n「Bỏ điều kiện lái Gundam, thêm $$宗介$$ nhà ta,\n　$n và $$キリコ$$ nữa\n　là thành Bộ ngũ kín tiếng rồi」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_4de6ac85c63bac12": {
+      "text": "$$刹那$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_4c92652c9b1adf6f": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_ce90563a934d49fb": {
+      "text": "$$カミーユ$$\n「Chính vì không phản bác nên mới bị gọi như thế đấy」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_4fb296e63cb1fb46": {
+      "text": "$$アムロ$$\n「Có những điều chỉ lời nói mới truyền đạt được.\n　Đừng quên điều đó, $$刹那$$」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_6d77e72dbbcd7dfe": {
+      "text": "$$刹那$$\n「Tôi sẽ ghi nhớ, Đại úy $$アムロ$$」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_9dc59affd40f32fc": {
+      "text": "$$カミーユ$$\n（Có vẻ cậu ấy đã dịu đi một chút.\n　Có lẽ cũng nhờ đã thức tỉnh thành Innovator...）",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_0cea115be526a319": {
+      "text": "$$カトル$$\n「Anh $$アレルヤ$$, chị $$マリー$$\n　và $$ティエリア$$ không có ở đây ạ?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_d36072babd12aeb4": {
+      "text": "$$イアン$$\n「$$アレルヤ$$ và $$マリー$$ đã rời nhóm\n　từ khi $$再世戦争$$ kết thúc.\n　Giờ tôi cũng không biết hai đứa đang làm gì nữa」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_09ee921a85025fd3": {
+      "text": "$$カトル$$\n「Ông cũng không biết họ đang ở đâu ạ?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_fae689f2a1057b61": {
+      "text": "$$イアン$$\n「Ừ. Hai đứa giờ đâu còn\n　liên quan gì đến Celestial Being nữa」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_91c6d0bb53854ecc": {
+      "text": "$$谷川$$\n「Nhưng chúng tôi... cũng biết\n　đại khái họ đang ở đâu đấy」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_42a3149105314ab8": {
+      "text": "$$イアン$$\n「Thật sao!?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_62ecd978c667bd29": {
+      "text": "$$赤木$$\n「Quả nhiên ông vẫn quan tâm đến họ nhỉ?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_d441e6cc908ac01b": {
+      "text": "$$イアン$$\n「Tất nhiên rồi...\n　Dù sao cũng là đồng đội từng kề vai chiến đấu,\n　ít nhất tôi cũng muốn biết hai đứa vẫn khỏe」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_b2aab8873350ea1f": {
+      "text": "$$中原$$\n「Thỉnh thoảng chị $$マリー$$ có gửi bưu thiếp\n　đến $$２１世紀警備保障$$」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_2c7af4c55d8ac938": {
+      "text": "$$大山$$\n「Tháng trước là Ấn Độ, tháng trước nữa\n　hình như là Tây Tạng...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_653b741d07545dff": {
+      "text": "$$谷川$$\n「Có vẻ hai người đang cùng nhau đi khắp thế giới,\n　vẫn rất vui vẻ bên nhau đấy」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_d584d4b5af55b1cf": {
+      "text": "$$ロックオン$$\n「Vậy thì còn gì bằng」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_db0ee69ece206fcd": {
+      "text": "$$刹那$$\n「Chiến đấu cứ để chúng ta lo.\n　Họ cứ sống theo cách của mình là được」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_f97e6925c9e37332": {
+      "text": "$$赤木$$\n「Còn $$ティエリア$$ thì sao?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_422861e0b8d77d0c": {
+      "text": "$$イアン$$\n「Cậu ấy ở lì trong phòng thí nghiệm của Celestial Being.\n　Truy cập 《$$ヴェーダ$$》 để điều tra đủ thứ」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_ef16bcaa2b0e0c45": {
+      "text": "$$いぶき$$\n「Đủ thứ là những gì ạ?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_2b93cca10f1c36a8": {
+      "text": "$$イアン$$\n「Tôi cũng không rõ, nhưng sâu trong $$ヴェーダ$$ hình như\n　có cả thông tin $$ティエリア$$ chưa biết.\n　Cậu ấy đang phân tích lớp bảo vệ của nó」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_7980fd37141d88d0": {
+      "text": "$$アムロ$$\n「Liên bang Trái Đất đã tiếp quản\n　《$$宇宙航行母艦ソレスタルビーイング$$》 mà nghe nói\n　vẫn khó phân tích vì hệ thống quá phức tạp」",
+      "status": "needs_review"
+    },
+    "stage0049_03:r_ac21212c36d2b9ad": {
+      "text": "$$イアン$$\n「Vì vậy $$ティエリア$$ mới có thể\n　tự do truy cập từ bên ngoài đấy」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_a26e2108358af7a4": {
+      "text": "$$赤木$$\n「Chà, miễn mọi người vẫn ổn là được rồi」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_a8118b2e37aa1382": {
+      "text": "$$青山$$\n「Vấn đề là UG, giờ đã lộ chân tướng là Geminis...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_017a56991b7b8ca4": {
+      "text": "$$ロックオン$$\n「Chúng tôi vẫn thường gửi dữ liệu thu thập về chúng\n　cho $$プリベンター$$ và Neo Zeon, nhưng hôm nay\n　coi như đã tuyên chiến rồi」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_ad3e1db3419665fb": {
+      "text": "$$アムロ$$\n「Cậu cũng gửi thông tin cho phía $$シャア$$ à?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_0149e3a5f2e5ef78": {
+      "text": "$$ロックオン$$\n「Xin lỗi các anh thuộc quân Liên bang Trái Đất,\n　nhưng chúng tôi thấy phía Neo Zeon cũng có lý」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_3ad10e705167a3fa": {
+      "text": "$$ロックオン$$\n「Dĩ nhiên không thể tán thành dùng chiến tranh,\n　nhưng ít nhất chúng tôi nghĩ ông ấy cũng phải được biết\n　căn nguyên và sự thật một cách công bằng」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_bdc546b199c80996": {
+      "text": "$$カミーユ$$\n「Về điều đó thì tôi không phản đối」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_22c8caf8c08c5119": {
+      "text": "$$アムロ$$\n「Và chúng tôi cũng hiểu chiến tranh đã đi quá xa,\n　dù biết được nó bắt đầu thế nào\n　cũng không thể cứu vãn nữa」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_9c13714b3efbc7a8": {
+      "text": "$$刹那$$\n「Nhưng không thể cứ để mặc chúng...\n　để mặc Geminis được」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_96f156e19b53fc09": {
+      "text": "$$イアン$$\n「Từ giờ Celestial Being cũng xin phép\n　hoạt động với tư cách thành viên $c」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_feb0390bba7fe1fb": {
+      "text": "$$イアン$$\n「Tôi biết các cậu đang vượt qua ranh giới\n　giữa Trái Đất và các thuộc địa để cùng chiến đấu mà」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_8a78bcec22029401": {
+      "text": "$$赤木$$\n「Vậy chị $$スメラギ$$ và mọi người\n　đang bàn xem tiếp theo sẽ làm gì à...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_f42017dfce31dea9": {
+      "text": "$$アムロ$$\n「Có lẽ điểm đến đã được quyết định rồi」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_ef7426919f628d8a": {
+      "text": "$$カミーユ$$\n「23 độ 32 phút Bắc, 161 độ 22 phút Đông... phải không ạ?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_9e994a4b926d9906": {
+      "text": "$$アムロ$$\n「Chưa rõ người tên $$アドヴェント$$ đó là ai,\n　nhưng đã nói đến hồi kết của lịch sử nhân loại\n　thì chúng ta không thể không đi xác minh」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_ffae76d2a77abf5a": {
+      "text": "$$デュオ$$\n「May là chỗ đó không xa Orb lắm.\n　Cứ đi điều tra một chút, nếu là tin vịt\n　thì cười cho qua là xong」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_3ac462d37e5893ff": {
+      "text": "$$赤木$$\n「Nếu là thật thì tính sao?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_fd6bdf7910d7d925": {
+      "text": "$$ロックオン$$\n「...Tôi chẳng muốn nghĩ đến chuyện đó chút nào...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_d38be46e6cd7a5e5": {
+      "text": "$$クルツ$$\n「Tôi cũng vậy. Chiến tranh với bọn xâm lược\n　đã khiến chúng ta bận tối mắt rồi, còn đâu thời gian\n　lo chuyện khó hiểu như thế nữa」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_3fe2078328753c16": {
+      "text": "$$刹那$$\n「Và chúng ta vẫn chưa biết gì về mục đích\n　hay thực chất những hành động của Geminis」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_c66844158d1ce600": {
+      "text": "$$カトル$$\n「Nếu họ là người ngoài hành tinh,\n　liệu mục đích có phải là xâm lược Trái Đất không...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_d037ecbc1e348dc9": {
+      "text": "$$デュオ$$\n「Nhưng dù vậy, chúng cũng chỉ là bọn\n　tìm cách khiến người Trái Đất tàn sát lẫn nhau.\n　Chắc lực lượng cũng chẳng mạnh mẽ gì đâu」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_bcd53d14c4785426": {
+      "text": "$$アムロ$$\n「Nhưng đến giờ, Trái Đất hoàn toàn\n　bị dẫn dắt theo kế hoạch của Geminis...\n　Đánh giá thấp sức mạnh của chúng là rất nguy hiểm」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_9ca55ea7feca954a": {
+      "text": "$$刹那$$\n「Geminis...\n　Rốt cuộc chúng là ai...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_554ae12c4c170253": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_fa59c6df081e6ae4": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_ca3edf3b8b52aedf": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_aa5d235c78ebe19f": {
+      "text": "$$ＡＧ$$\n「Hai ngài vất vả rồi, ngài $$シン$$, ngài $$キラ$$」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_0b3b19cddb871f90": {
+      "text": "$$キラ$$\n「Cậu là $$ＡＧ$$ à.\n　Dễ thương hơn tôi tưởng đấy」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_304e98dac43c9333": {
+      "text": "$$ＡＧ$$\n「Ôi, ngài lại thế rồi...!\n　Nịnh tôi cũng chẳng được gì đâu!\n　Ngài $$キラ$$ thật khéo ăn nói!」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_b740d817a14afd3a": {
+      "text": "$$シン$$\n「Miệng nói thế mà trông vui ra mặt kìa」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_40e4c010d1b35b4c": {
+      "text": "$$ＡＧ$$\n「Tất nhiên rồi. Vì ngài $$シン$$ và ngài $$キラ$$\n　đã đánh bại toàn bộ bọn khủng bố,\n　Z-Chip đã được sinh ra từ cô $$カガリ$$ đấy」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_c33abf00683a32bc": {
+      "text": "$$ＡＧ$$\n「Số tiền là... tận 150Z!\n　Tôi sẽ cộng vào quỹ dự trữ của đội nhé」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_3036adce91d1f4a8": {
+      "text": "$$キラ$$\n「Thật tốt vì chúng ta đã bảo vệ được Orb」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_019293cb83599509": {
+      "text": "$$ＡＧ$$\n「Đó là nhờ sự phối hợp ăn ý\n　giữa ngài $$シン$$ và ngài $$キラ$$ đấy」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_9b949b9281aaeef1": {
+      "text": "$$シン$$\n「Nói vậy chứ trước kia\n　tôi và anh $$キラ$$ từng là kẻ thù đấy」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_b39a1dd705fe6cbf": {
+      "text": "$$キラ$$\n「Tôi còn từng bị $$シン$$ bắn hạ nữa mà」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_c9016e3ab05470b0": {
+      "text": "$$ＡＧ$$\n「Ra vậy...! Hai ngài giờ ăn ý đến thế\n　là nhờ quy luật đánh nhau một trận\n　rồi trở thành bạn chí cốt chứ gì!」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_a684e6cea428e518": {
+      "text": "$$シン$$\n「Có đúng thế không nhỉ?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_cf907a4d5de8b5c9": {
+      "text": "$$キラ$$\n「Cứ cho là vậy đi」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_a5774604a0f00702": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_b4fa30f33e84207f": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_9133b7e0b34de48f": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_4ae9c4bd77494c4a": {
+      "text": "　\n　\n　　　～ D-Trader ～",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_7313331f4077d255": {
+      "text": "$$ＡＧ$$\n「Ồ, ngài $$刹那$$...\n　Ngài đang cầm thứ gì tao nhã quá nhỉ?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_a84ab0c3c1ba44d4": {
+      "text": "$$刹那$$\n「Ý cậu là bông hoa này?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_414e6e90094d1413": {
+      "text": "$$ＡＧ$$\n「Quà cho người thương à?\n　Ngài Innovator cũng kín đáo ra phết nhỉ」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_83a9e41e15444c69": {
+      "text": "$$刹那$$\n「Không... tôi nhận nó từ $$シン$$」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_09227dec2bd6f4d8": {
+      "text": "$$ＡＧ$$\n「Gì cơ, hoa hồng... tình trai sao!?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_7b3a37f5039eb1f6": {
+      "text": "$$刹那$$\n「Cậu nhìn bông hoa này mà thấy giống hoa hồng à?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_cb6d9ee71c24b042": {
+      "text": "$$ＡＧ$$\n「Ơ... không... tôi không có ý đó...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_ddd97a6ef823929a": {
+      "text": "$$刹那$$\n「Với lại, tuy tôi nhận từ $$シン$$,\n　nhưng người tặng là người khác」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_df349052cd9cdd0c": {
+      "text": "$$ＡＧ$$\n「Ra vậy...\n　Hẳn người ấy rất trân trọng ngài $$刹那$$」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_a7ce9f908380694c": {
+      "text": "$$刹那$$\n「Cậu nhận ra được à?」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_de3cc1f733dcb073": {
+      "text": "$$ＡＧ$$\n「Nơi nào có Z-Chip... nghĩa là cảm xúc con người,\n　thì trông vậy chứ robot tôi nhạy lắm đấy.\n　Tôi cảm nhận được tấm lòng gửi gắm trong bông hoa ấy」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_0835ec3fff318aff": {
+      "text": "$$刹那$$\n「Vậy à...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_c32efc7394910997": {
+      "text": "$$ＡＧ$$\n「Ngài $$刹那$$ cũng nên tặng người ấy món quà đáp lễ chứ?\n　Nếu ngài muốn, tôi có thể chọn giúp」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_b01db8213417811e": {
+      "text": "$$刹那$$\n「Không cần đâu.\n　Điều cô ấy mong muốn không phải thứ có thể mua được」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_bc0273c6ae91c929": {
+      "text": "$$刹那$$\n「Và đó cũng là điều chúng ta mong muốn」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_8deea7c70d7a76e7": {
+      "text": "$$ＡＧ$$\n「Vậy sao...\n　Thế thì hãy cùng cố gắng vì điều đó nhé, ngài $$刹那$$」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_660c72e627d873c7": {
+      "text": "$$刹那$$\n「Ừ...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_5d8b67b5bd8ce190": {
+      "text": "$$ＡＧ$$\n「Vậy để mừng mọi người trong Celestial Being gia nhập,\n　hôm nay chúng ta cũng hãy hăng hái...」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_7cf3c91395139f5c": {
+      "text": "$$ハロ$$\n「Buôn bán, buôn bán」",
+      "status": "reviewed"
+    },
+    "stage0049_03:r_6ccd85652ef4ccf1": {
+      "text": "$$刹那$$\n「Cậu thuần phục $$ハロ$$ từ lúc nào thế...」",
+      "status": "reviewed"
+    }
+  }
+}

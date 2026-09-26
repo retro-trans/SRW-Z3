@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "ui.parts_network:equipped": {
+      "text": "Linh kiện đang trang bị",
+      "status": "translated"
+    },
+    "ui.parts_network:slot": {
+      "text": ": Chọn ô",
+      "status": "translated"
+    },
+    "ui.parts_network:bonus": {
+      "text": "Màn chơi thêm",
+      "status": "translated"
+    }
+  }
+}

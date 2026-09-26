@@ -1,0 +1,3110 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "glossary:r_bd20d9ec67ba2e39": {
+      "text": "Aim",
+      "status": "reviewed"
+    },
+    "glossary:r_63d9995d5a3bfb53": {
+      "text": "Vực Thẳm",
+      "status": "reviewed"
+    },
+    "glossary:r_5de21d0d8cd0dbc8": {
+      "text": "Amuro",
+      "status": "reviewed"
+    },
+    "glossary:r_e61be53ab65b5aee": {
+      "text": "Kamille",
+      "status": "reviewed"
+    },
+    "glossary:r_69fa7ce16daaacbc": {
+      "text": "Kira",
+      "status": "reviewed"
+    },
+    "glossary:r_b0facd476265a5fd": {
+      "text": "Quattro",
+      "status": "reviewed"
+    },
+    "glossary:r_84d59d0eda010024": {
+      "text": "Char",
+      "status": "reviewed"
+    },
+    "glossary:r_bd959365bf0b967a": {
+      "text": "Shinn",
+      "status": "reviewed"
+    },
+    "glossary:r_f28487e6555adbc8": {
+      "text": "Dorothy",
+      "status": "reviewed"
+    },
+    "glossary:r_6205d1746123d399": {
+      "text": "Heero",
+      "status": "reviewed"
+    },
+    "glossary:r_96e6074d9081e56b": {
+      "text": "Mome",
+      "status": "reviewed"
+    },
+    "glossary:r_8e9cb303de9fe073": {
+      "text": "Roger",
+      "status": "reviewed"
+    },
+    "glossary:r_f0bb176e2e49c48c": {
+      "text": "Chiến tranh Tái Thế",
+      "status": "reviewed"
+    },
+    "glossary:r_992c1700970404c3": {
+      "text": "Setsuna",
+      "status": "reviewed"
+    },
+    "glossary:r_226c4ddb38eeb829": {
+      "text": "Chấn động thời không",
+      "status": "reviewed"
+    },
+    "glossary:r_59fefe2214ccc196": {
+      "text": "Kei",
+      "status": "reviewed"
+    },
+    "glossary:r_0ce109de36b621b9": {
+      "text": "Dấu Ấn",
+      "status": "reviewed"
+    },
+    "glossary:r_50be2bc2ccc097cd": {
+      "text": "Biến cố Phá Giới",
+      "status": "reviewed"
+    },
+    "glossary:r_989580ee4b9a347c": {
+      "text": "Kaname",
+      "status": "reviewed"
+    },
+    "glossary:r_611b5b84401424ca": {
+      "text": "Genion",
+      "status": "reviewed"
+    },
+    "glossary:r_3adba4567f80fa86": {
+      "text": "Suzune",
+      "status": "reviewed"
+    },
+    "glossary:r_43569da1590b5da1": {
+      "text": "Đại chấn động thời không",
+      "status": "reviewed"
+    },
+    "glossary:r_e417126d5875f985": {
+      "text": "Kyoko",
+      "status": "reviewed"
+    },
+    "glossary:r_88ec1480b02df3c7": {
+      "text": "Chấn động thời không Tân Thế",
+      "status": "reviewed"
+    },
+    "glossary:r_f2c8a19a3fdc2862": {
+      "text": "Giáo sinh đặc biệt",
+      "status": "reviewed"
+    },
+    "glossary:r_fd885d82be251cbb": {
+      "text": "Tân Tokyo-2",
+      "status": "reviewed"
+    },
+    "glossary:r_97aff62415fdf594": {
+      "text": "Shiori",
+      "status": "reviewed"
+    },
+    "glossary:r_4e9ac46a6ef67a51": {
+      "text": "Trí tuệ Hắc ám",
+      "status": "reviewed"
+    },
+    "glossary:r_6461ef1062e05f95": {
+      "text": "ADW",
+      "status": "reviewed"
+    },
+    "glossary:r_fb64b168f3b69937": {
+      "text": "AG",
+      "status": "reviewed"
+    },
+    "glossary:r_cb2a7fddd73571a3": {
+      "text": "DEM",
+      "status": "reviewed"
+    },
+    "glossary:r_437bd918aaf0b6e1": {
+      "text": "UCW",
+      "status": "reviewed"
+    },
+    "glossary:r_5ca4e58ef1ce0165": {
+      "text": "ECS",
+      "status": "reviewed"
+    },
+    "glossary:r_37119c77b86a39c8": {
+      "text": "ICPO",
+      "status": "reviewed"
+    },
+    "glossary:r_ee1caf541344c4a3": {
+      "text": "Kurz",
+      "status": "reviewed"
+    },
+    "glossary:r_c3a694708e8d1708": {
+      "text": "Mao",
+      "status": "reviewed"
+    },
+    "glossary:r_dcf93590896351fe": {
+      "text": "Kaname Chidori",
+      "status": "reviewed"
+    },
+    "glossary:r_f55c895b6406f05c": {
+      "text": "Sousuke",
+      "status": "reviewed"
+    },
+    "glossary:r_367b8f632cdcff76": {
+      "text": "Makki",
+      "status": "reviewed"
+    },
+    "glossary:r_5d1e064ebc5763ba": {
+      "text": "Shotaro",
+      "status": "reviewed"
+    },
+    "glossary:r_33d597bb4a2bdf96": {
+      "text": "Tetsujin",
+      "status": "reviewed"
+    },
+    "glossary:r_12826ad9029ce84e": {
+      "text": "Kaoru",
+      "status": "reviewed"
+    },
+    "glossary:r_1cc17beda628b0f5": {
+      "text": "Watta",
+      "status": "reviewed"
+    },
+    "glossary:r_ef93dfbce42931db": {
+      "text": "Daimon",
+      "status": "reviewed"
+    },
+    "glossary:r_277baf6135745cba": {
+      "text": "Urzu",
+      "status": "reviewed"
+    },
+    "glossary:r_980e63382da29ab5": {
+      "text": "Mithril",
+      "status": "reviewed"
+    },
+    "glossary:r_5401eb39d34c7034": {
+      "text": "SRT",
+      "status": "reviewed"
+    },
+    "glossary:r_61e87189b773ec68": {
+      "text": "S.M.S.",
+      "status": "reviewed"
+    },
+    "glossary:r_32465dc2024bb3ed": {
+      "text": "Kalinin",
+      "status": "reviewed"
+    },
+    "glossary:r_8e72356475dc7e38": {
+      "text": "Tessa",
+      "status": "reviewed"
+    },
+    "glossary:r_9e14b4fa0d125ed4": {
+      "text": "Mardukas",
+      "status": "reviewed"
+    },
+    "glossary:r_4fe3628125984b13": {
+      "text": "Eri",
+      "status": "reviewed"
+    },
+    "glossary:r_7f89d107c204c74b": {
+      "text": "Ozma Lee",
+      "status": "reviewed"
+    },
+    "glossary:r_0b77d9b4931d8e8b": {
+      "text": "Canaria Bernstein",
+      "status": "reviewed"
+    },
+    "glossary:r_a0eb0df9c12c537a": {
+      "text": "Tuatha de Danaan",
+      "status": "reviewed"
+    },
+    "glossary:r_e142d0e591dba3d2": {
+      "text": "Lục địa Hắc ám",
+      "status": "reviewed"
+    },
+    "glossary:r_69c9ca1aaa3ca6d1": {
+      "text": "Kiichiro Tokugawa",
+      "status": "reviewed"
+    },
+    "glossary:r_80e9b4392d58e22a": {
+      "text": "Ono D",
+      "status": "reviewed"
+    },
+    "glossary:r_cdf6d7a116d9f138": {
+      "text": "Sousuke Sagara",
+      "status": "reviewed"
+    },
+    "glossary:r_60ab24f156cf05d0": {
+      "text": "Kazama",
+      "status": "reviewed"
+    },
+    "glossary:r_e652bb94052dca92": {
+      "text": "Sheryl",
+      "status": "reviewed"
+    },
+    "glossary:r_a5e397c54f821389": {
+      "text": "Sheryl Nome",
+      "status": "reviewed"
+    },
+    "glossary:r_4a84123c67717858": {
+      "text": "Quent",
+      "status": "reviewed"
+    },
+    "glossary:r_34adcb8365a647bf": {
+      "text": "ZEXIS",
+      "status": "reviewed"
+    },
+    "glossary:r_c2ed236b902843f3": {
+      "text": "Melissa Mao",
+      "status": "reviewed"
+    },
+    "glossary:r_31ef15afa5997973": {
+      "text": "Otsuka",
+      "status": "reviewed"
+    },
+    "glossary:r_c947f9677206c70f": {
+      "text": "Jeffrey",
+      "status": "reviewed"
+    },
+    "glossary:r_c6d1f40640c0a4a3": {
+      "text": "Jeffrey Wilder",
+      "status": "reviewed"
+    },
+    "glossary:r_9f5a5b365fa659d4": {
+      "text": "Monica",
+      "status": "reviewed"
+    },
+    "glossary:r_ed0dd0fe3dee5d0c": {
+      "text": "Alto",
+      "status": "reviewed"
+    },
+    "glossary:r_bfddf9b384e9caec": {
+      "text": "Catherine Glass",
+      "status": "reviewed"
+    },
+    "glossary:r_4aefb4dcfed1a212": {
+      "text": "Cathy",
+      "status": "reviewed"
+    },
+    "glossary:r_46275ecbd39c9833": {
+      "text": "Klan",
+      "status": "reviewed"
+    },
+    "glossary:r_f2aad22e60ce5e1b": {
+      "text": "Michel",
+      "status": "reviewed"
+    },
+    "glossary:r_714ed1f583437e94": {
+      "text": "Luca",
+      "status": "reviewed"
+    },
+    "glossary:r_d7489c53b545af62": {
+      "text": "Sức mạnh thứ nguyên",
+      "status": "reviewed"
+    },
+    "glossary:r_189acffa10bfc05f": {
+      "text": "Thú thứ nguyên",
+      "status": "reviewed"
+    },
+    "glossary:r_4423a7146d53e76d": {
+      "text": "Firebug",
+      "status": "reviewed"
+    },
+    "glossary:r_47a7960e7579c15f": {
+      "text": "Công chúa",
+      "status": "reviewed"
+    },
+    "glossary:r_63f5fa81f8f1bc16": {
+      "text": "Lockon",
+      "status": "reviewed"
+    },
+    "glossary:r_c1abe0427f3bfbff": {
+      "text": "Saji",
+      "status": "reviewed"
+    },
+    "glossary:r_d02d730e44473525": {
+      "text": "Bobby",
+      "status": "reviewed"
+    },
+    "glossary:r_f29ae2eb4f6fce4a": {
+      "text": "Takuya",
+      "status": "reviewed"
+    },
+    "glossary:r_f5be24c4c4e28609": {
+      "text": "Banagher",
+      "status": "reviewed"
+    },
+    "glossary:r_f2724c71af3b6eb1": {
+      "text": "Micott",
+      "status": "reviewed"
+    },
+    "glossary:r_a5791439fba2c775": {
+      "text": "Ox",
+      "status": "reviewed"
+    },
+    "glossary:r_dab1c8724790b0d3": {
+      "text": "Black Ox",
+      "status": "reviewed"
+    },
+    "glossary:r_3d67c8805caf9e73": {
+      "text": "Thợ săn dị thú",
+      "status": "reviewed"
+    },
+    "glossary:r_f88d77151fa65919": {
+      "text": "Britannia Union",
+      "status": "reviewed"
+    },
+    "glossary:r_fd26b743d5bde449": {
+      "text": "PLANT",
+      "status": "reviewed"
+    },
+    "glossary:r_8eaf8b29cbe143fe": {
+      "text": "Kurz Weber",
+      "status": "reviewed"
+    },
+    "glossary:r_8c6131656197104d": {
+      "text": "Ozma",
+      "status": "reviewed"
+    },
+    "glossary:r_6d95451a8d0fd9e9": {
+      "text": "Canaria",
+      "status": "reviewed"
+    },
+    "glossary:r_84390fe88b51984b": {
+      "text": "Klan Klang",
+      "status": "reviewed"
+    },
+    "glossary:r_4816c956eb3b332a": {
+      "text": "Michel Blanc",
+      "status": "reviewed"
+    },
+    "glossary:r_9348f77888678cf1": {
+      "text": "Luca Angelloni",
+      "status": "reviewed"
+    },
+    "glossary:r_946984300e6de4c9": {
+      "text": "Alto Saotome",
+      "status": "reviewed"
+    },
+    "glossary:r_4edd827e69bc9fe5": {
+      "text": "Haman Karn",
+      "status": "reviewed"
+    },
+    "glossary:r_9d7560e9842ebbf5": {
+      "text": "Shotaro Kaneda",
+      "status": "reviewed"
+    },
+    "glossary:r_265710ec352138ab": {
+      "text": "Black Ox",
+      "status": "reviewed"
+    },
+    "glossary:r_6d61bb6c48180483": {
+      "text": "Diễn đàn huyền bí",
+      "status": "reviewed"
+    },
+    "glossary:r_faba9db0eb1e7448": {
+      "text": "Black Charisma",
+      "status": "reviewed"
+    },
+    "glossary:r_7c77cf4b45bbeeb8": {
+      "text": "Ram",
+      "status": "reviewed"
+    },
+    "glossary:r_3674465fc9f687ed": {
+      "text": "Mina",
+      "status": "reviewed"
+    },
+    "glossary:r_7ea7e85c8b4d0440": {
+      "text": "Shinji Kazama",
+      "status": "reviewed"
+    },
+    "glossary:r_1a264657fe2b3e61": {
+      "text": "Atsui",
+      "status": "reviewed"
+    },
+    "glossary:r_1ad1240f2fa5c6af": {
+      "text": "Kinoshita",
+      "status": "reviewed"
+    },
+    "glossary:r_cfbe7ba5c0ad567e": {
+      "text": "Kakikouji",
+      "status": "reviewed"
+    },
+    "glossary:r_d67c7132215afd2a": {
+      "text": "Ikue",
+      "status": "reviewed"
+    },
+    "glossary:r_f125caef0f4090cc": {
+      "text": "Kouji Kabuto",
+      "status": "reviewed"
+    },
+    "glossary:r_5346bcb12a363c55": {
+      "text": "Kouji",
+      "status": "reviewed"
+    },
+    "glossary:r_0b8500bb210b21b7": {
+      "text": "GN-X IV",
+      "status": "reviewed"
+    },
+    "glossary:r_06572fa9361e3ab4": {
+      "text": "Dullahan",
+      "status": "reviewed"
+    },
+    "glossary:r_5e556a166219c4a6": {
+      "text": "Kurogane-ya",
+      "status": "reviewed"
+    },
+    "glossary:r_3b739ba696db92af": {
+      "text": "Takeru",
+      "status": "reviewed"
+    },
+    "glossary:r_9b7aa72a4133af57": {
+      "text": "Watta Takeo",
+      "status": "reviewed"
+    },
+    "glossary:r_612bca13d04bcc1e": {
+      "text": "Sayaka",
+      "status": "reviewed"
+    },
+    "glossary:r_eb9bdbbd2be71e98": {
+      "text": "Nuke",
+      "status": "reviewed"
+    },
+    "glossary:r_3948d1c9eae608da": {
+      "text": "Brocken",
+      "status": "reviewed"
+    },
+    "glossary:r_1af1aebf915714eb": {
+      "text": "Bá tước Brocken",
+      "status": "reviewed"
+    },
+    "glossary:r_a8d6e283051862ab": {
+      "text": "Boss",
+      "status": "reviewed"
+    },
+    "glossary:r_e57431476f7306e8": {
+      "text": "Mucha",
+      "status": "reviewed"
+    },
+    "glossary:r_1b7e0922dcda3191": {
+      "text": "Sayaka Yumi",
+      "status": "reviewed"
+    },
+    "glossary:r_6a05b23915201acd": {
+      "text": "Trider G7",
+      "status": "reviewed"
+    },
+    "glossary:r_86e73239b10ce8cf": {
+      "text": "Mazinger Z",
+      "status": "reviewed"
+    },
+    "glossary:r_89f67985ac9a88b2": {
+      "text": "Bộc phát",
+      "status": "reviewed"
+    },
+    "glossary:r_4090600b94b89657": {
+      "text": "Ashura",
+      "status": "reviewed"
+    },
+    "glossary:r_5248fa72b3bb1749": {
+      "text": "Nam tước Ashura",
+      "status": "reviewed"
+    },
+    "glossary:r_043f2a705c7d72f3": {
+      "text": "Yumi",
+      "status": "reviewed"
+    },
+    "glossary:r_7aeeced75e489e9f": {
+      "text": "Grogos G5",
+      "status": "reviewed"
+    },
+    "glossary:r_e9afd6f888697e0c": {
+      "text": "Tượng Talos",
+      "status": "reviewed"
+    },
+    "glossary:r_c5a4f549d31ca9b3": {
+      "text": "Venus A",
+      "status": "reviewed"
+    },
+    "glossary:r_d6e8d6cac55127f0": {
+      "text": "Boss Borot",
+      "status": "reviewed"
+    },
+    "glossary:r_f7af4a9b1e109efb": {
+      "text": "Shuttle",
+      "status": "reviewed"
+    },
+    "glossary:r_026f702484a9af57": {
+      "text": "Học viện Ashford",
+      "status": "reviewed"
+    },
+    "glossary:r_c6d2a1d94e6f87e1": {
+      "text": "Fumofumo Land",
+      "status": "reviewed"
+    },
+    "glossary:r_27095a6daeaccda7": {
+      "text": "Louise",
+      "status": "reviewed"
+    },
+    "glossary:r_1cfc964642347a89": {
+      "text": "Saji Crossroad",
+      "status": "reviewed"
+    },
+    "glossary:r_889a2c4a3d13a49d": {
+      "text": "Shikishima",
+      "status": "reviewed"
+    },
+    "glossary:r_97145ad2152d4979": {
+      "text": "Makiko Shikishima",
+      "status": "reviewed"
+    },
+    "glossary:r_41d0d23513df7973": {
+      "text": "Takuya Irei",
+      "status": "reviewed"
+    },
+    "glossary:r_c456359c07aeb664": {
+      "text": "Banagher Links",
+      "status": "reviewed"
+    },
+    "glossary:r_c5f4a1223016e8da": {
+      "text": "Micott Bartsch",
+      "status": "reviewed"
+    },
+    "glossary:r_71d9f865239b2562": {
+      "text": "Kaoru Taki",
+      "status": "reviewed"
+    },
+    "glossary:r_275c7af75700e660": {
+      "text": "Bonta-kun",
+      "status": "reviewed"
+    },
+    "glossary:r_0c3d09fcf3b50dbc": {
+      "text": "Súng Rigor",
+      "status": "reviewed"
+    },
+    "glossary:r_a8503991e72ad379": {
+      "text": "Rezel",
+      "status": "reviewed"
+    },
+    "glossary:r_9601c49f9d668cb0": {
+      "text": "Mihiro",
+      "status": "reviewed"
+    },
+    "glossary:r_a76da0faca832225": {
+      "text": "Otto",
+      "status": "reviewed"
+    },
+    "glossary:r_ec179ceb11ff8da0": {
+      "text": "Liam",
+      "status": "reviewed"
+    },
+    "glossary:r_0333018e7d706c72": {
+      "text": "Otto Mitas",
+      "status": "reviewed"
+    },
+    "glossary:r_5c7d3f3cc18bf5a5": {
+      "text": "Nahel Argama",
+      "status": "reviewed"
+    },
+    "glossary:r_f490b89a04c6b55d": {
+      "text": "Emma",
+      "status": "reviewed"
+    },
+    "glossary:r_c2b0003048f93378": {
+      "text": "Fa",
+      "status": "reviewed"
+    },
+    "glossary:r_c2a1a5a28acf65d5": {
+      "text": "Fa Yuiri",
+      "status": "reviewed"
+    },
+    "glossary:r_562ce69462e84ef6": {
+      "text": "Methuss",
+      "status": "reviewed"
+    },
+    "glossary:r_06a5266a08cfcdcb": {
+      "text": "Riddhe",
+      "status": "reviewed"
+    },
+    "glossary:r_68fd37aa66290b00": {
+      "text": "Katz",
+      "status": "reviewed"
+    },
+    "glossary:r_c404cc5b310ae92c": {
+      "text": "Liam Borrinea",
+      "status": "reviewed"
+    },
+    "glossary:r_d6190a8de1f5752d": {
+      "text": "Daguza Mackle",
+      "status": "reviewed"
+    },
+    "glossary:r_bb17dc66edaee4cc": {
+      "text": "Conroy Haagensen",
+      "status": "reviewed"
+    },
+    "glossary:r_fbfb550babc7cf59": {
+      "text": "Daguza",
+      "status": "reviewed"
+    },
+    "glossary:r_671b694df29fa14b": {
+      "text": "Conroy",
+      "status": "reviewed"
+    },
+    "glossary:r_4eb129c6c09fc5f3": {
+      "text": "Bright Noa",
+      "status": "reviewed"
+    },
+    "glossary:r_f9f8ef7b13ddbb67": {
+      "text": "Chiến tranh Đa Nguyên",
+      "status": "reviewed"
+    },
+    "glossary:r_ff926ba5e0ffbb94": {
+      "text": "Axis",
+      "status": "reviewed"
+    },
+    "glossary:r_cfea7dd256a4a1d3": {
+      "text": "Haman",
+      "status": "reviewed"
+    },
+    "glossary:r_5f3e7aa9b5f92877": {
+      "text": "Titans",
+      "status": "reviewed"
+    },
+    "glossary:r_f8f511009f4b2024": {
+      "text": "Blue Cosmos",
+      "status": "reviewed"
+    },
+    "glossary:r_674c4dbd233730a6": {
+      "text": "Mineva",
+      "status": "reviewed"
+    },
+    "glossary:r_4298e20d5d33ebcd": {
+      "text": "Kamille Bidan",
+      "status": "reviewed"
+    },
+    "glossary:r_624ad1adf245bcf6": {
+      "text": "Zeta Gundam",
+      "status": "reviewed"
+    },
+    "glossary:r_f9644072249dd887": {
+      "text": "Riddhe Marcenas",
+      "status": "reviewed"
+    },
+    "glossary:r_7692272e9e4d49db": {
+      "text": "Emma Sheen",
+      "status": "reviewed"
+    },
+    "glossary:r_cd63fb0ae21ae3f0": {
+      "text": "Katz Kobayashi",
+      "status": "reviewed"
+    },
+    "glossary:r_3d89e1d855eeaf37": {
+      "text": "ZEUTH",
+      "status": "reviewed"
+    },
+    "glossary:r_8c97f51f405e26a4": {
+      "text": "AEUG",
+      "status": "reviewed"
+    },
+    "glossary:r_e7a8ec2d1e5fc393": {
+      "text": "Char Aznable",
+      "status": "reviewed"
+    },
+    "glossary:r_6266f4467d6edbea": {
+      "text": "Chiến tranh Một Năm",
+      "status": "reviewed"
+    },
+    "glossary:r_545e7822411bc7e1": {
+      "text": "Geara Doga",
+      "status": "reviewed"
+    },
+    "glossary:r_9c0776ca399a17ea": {
+      "text": "Treize",
+      "status": "reviewed"
+    },
+    "glossary:r_188e4bb6075373e1": {
+      "text": "Kaises",
+      "status": "reviewed"
+    },
+    "glossary:r_3493005f42676508": {
+      "text": "Gyunei Guss",
+      "status": "reviewed"
+    },
+    "glossary:r_b52afe52c0b1e85c": {
+      "text": "Gyunei",
+      "status": "reviewed"
+    },
+    "glossary:r_15447e20464af54f": {
+      "text": "Alejandro",
+      "status": "reviewed"
+    },
+    "glossary:r_4733e4717da7b9a1": {
+      "text": "Warren",
+      "status": "reviewed"
+    },
+    "glossary:r_dda40b1996466445": {
+      "text": "Michael",
+      "status": "reviewed"
+    },
+    "glossary:r_66e3b4583ccdf3cd": {
+      "text": "Jennifer",
+      "status": "reviewed"
+    },
+    "glossary:r_2912af8a2963c729": {
+      "text": "Olson",
+      "status": "reviewed"
+    },
+    "glossary:r_8ae394ba0ed6729b": {
+      "text": "Phim 『Celestial Being』",
+      "status": "reviewed"
+    },
+    "glossary:r_06770c43cf772cb7": {
+      "text": "A-LAWS",
+      "status": "reviewed"
+    },
+    "glossary:r_3b2fc6348cd14728": {
+      "text": "00 Raiser",
+      "status": "reviewed"
+    },
+    "glossary:r_dc39969a070dc72c": {
+      "text": "DG",
+      "status": "reviewed"
+    },
+    "glossary:r_d93dc1e606695627": {
+      "text": "Liên minh Cải cách Nhân loại",
+      "status": "reviewed"
+    },
+    "glossary:r_12237f37f9611c99": {
+      "text": "Bonta-kun",
+      "status": "reviewed"
+    },
+    "glossary:r_3e269d9912af7fc6": {
+      "text": "Whispered",
+      "status": "reviewed"
+    },
+    "glossary:r_9c60747a702be364": {
+      "text": "Gauron",
+      "status": "reviewed"
+    },
+    "glossary:r_b3c44f76ac45b45c": {
+      "text": "Rk-92 Savage",
+      "status": "reviewed"
+    },
+    "glossary:r_aa358a7b1304b069": {
+      "text": "Duo",
+      "status": "reviewed"
+    },
+    "glossary:r_1195b29c4e464d44": {
+      "text": "Astragius",
+      "status": "reviewed"
+    },
+    "glossary:r_56b0bcd725b85964": {
+      "text": "Aoi",
+      "status": "reviewed"
+    },
+    "glossary:r_3d2c35ed11b2aca3": {
+      "text": "Kurara",
+      "status": "reviewed"
+    },
+    "glossary:r_baa47a5191bc09fb": {
+      "text": "Johnny",
+      "status": "reviewed"
+    },
+    "glossary:r_f7661bb0b6b45c5e": {
+      "text": "Sakuya",
+      "status": "reviewed"
+    },
+    "glossary:r_0803e0c68dc857dd": {
+      "text": "Eida",
+      "status": "reviewed"
+    },
+    "glossary:r_47fd44a8f9db6a18": {
+      "text": "Dancouga Nova Max God",
+      "status": "reviewed"
+    },
+    "glossary:r_148c1bf70fd868dc": {
+      "text": "Preventer",
+      "status": "reviewed"
+    },
+    "glossary:r_0d169243e3c7516a": {
+      "text": "ARX-7 Arbalest",
+      "status": "reviewed"
+    },
+    "glossary:r_e432ac72abdd6479": {
+      "text": "Aoi Hidaka",
+      "status": "reviewed"
+    },
+    "glossary:r_e82e6334f8948fcc": {
+      "text": "Kurara Tachibana",
+      "status": "reviewed"
+    },
+    "glossary:r_06dad3e706ad18b8": {
+      "text": "Sakuya Kamon",
+      "status": "reviewed"
+    },
+    "glossary:r_999d525baf03d542": {
+      "text": "Johnny Burnette",
+      "status": "reviewed"
+    },
+    "glossary:r_f974dffadf02f8e4": {
+      "text": "Eida Rossa",
+      "status": "reviewed"
+    },
+    "glossary:r_1e71960f09925abf": {
+      "text": "F.S.",
+      "status": "reviewed"
+    },
+    "glossary:r_9a6d04cce32b96d6": {
+      "text": "Chirico",
+      "status": "reviewed"
+    },
+    "glossary:r_9b902f5c982f78d4": {
+      "text": "Chirico Cuvie",
+      "status": "reviewed"
+    },
+    "glossary:r_a0794a8e992842b4": {
+      "text": "Duo Maxwell",
+      "status": "reviewed"
+    },
+    "glossary:r_f7c24770c0412a2a": {
+      "text": "Heero Yuy",
+      "status": "reviewed"
+    },
+    "glossary:r_fc4af722062d55b0": {
+      "text": "Tổng thống",
+      "status": "reviewed"
+    },
+    "glossary:r_3f0636b5dfe65de8": {
+      "text": "Sóng não lượng tử",
+      "status": "reviewed"
+    },
+    "glossary:r_ede3952f977c830a": {
+      "text": "Relena Darlian",
+      "status": "reviewed"
+    },
+    "glossary:r_22f27cc0dedd3d06": {
+      "text": "Marina Ismail",
+      "status": "reviewed"
+    },
+    "glossary:r_797a9f2f16e30e46": {
+      "text": "Scopedog",
+      "status": "reviewed"
+    },
+    "glossary:r_e0915e3949f9b882": {
+      "text": "Martial",
+      "status": "reviewed"
+    },
+    "glossary:r_a449b574b40c69ce": {
+      "text": "Al",
+      "status": "reviewed"
+    },
+    "glossary:r_2dafc0a6c181cb47": {
+      "text": "Fyana",
+      "status": "reviewed"
+    },
+    "glossary:r_05651cea0a708dbe": {
+      "text": "Gã Poni",
+      "status": "reviewed"
+    },
+    "glossary:r_bf1525b9085bde22": {
+      "text": "UN",
+      "status": "reviewed"
+    },
+    "glossary:r_08a6b9f1ed3afc3e": {
+      "text": "Jonathan",
+      "status": "reviewed"
+    },
+    "glossary:r_90cd04f8c1ded62b": {
+      "text": "Youko",
+      "status": "reviewed"
+    },
+    "glossary:r_70e60a8b3a1229b2": {
+      "text": "Ryouma",
+      "status": "reviewed"
+    },
+    "glossary:r_8554c2e530745026": {
+      "text": "Viral",
+      "status": "reviewed"
+    },
+    "glossary:r_e9e7331efdf9a796": {
+      "text": "Lục địa Tân Thế Giới",
+      "status": "reviewed"
+    },
+    "glossary:r_ff9708c40f4cf52d": {
+      "text": "Simon",
+      "status": "reviewed"
+    },
+    "glossary:r_d2f17cf031cee3b7": {
+      "text": "Oonuki",
+      "status": "reviewed"
+    },
+    "glossary:r_4ea91bde6de9afc3": {
+      "text": "Ryouma Nagare",
+      "status": "reviewed"
+    },
+    "glossary:r_c8e91ebd6cffdc17": {
+      "text": "Hayato",
+      "status": "reviewed"
+    },
+    "glossary:r_5f01c8f6fda5293c": {
+      "text": "Benkei",
+      "status": "reviewed"
+    },
+    "glossary:r_c80e9c2d2b34271f": {
+      "text": "Gou",
+      "status": "reviewed"
+    },
+    "glossary:r_4dd69dd6592b8982": {
+      "text": "Gouda",
+      "status": "reviewed"
+    },
+    "glossary:r_d3ce9f852a414d48": {
+      "text": "Ishihara",
+      "status": "reviewed"
+    },
+    "glossary:r_a8284328b39ce37b": {
+      "text": "Hayashimizu",
+      "status": "reviewed"
+    },
+    "glossary:r_f8aa34829151c247": {
+      "text": "Ranka Lee",
+      "status": "reviewed"
+    },
+    "glossary:r_dc48afbba4dfdf98": {
+      "text": "Ranka",
+      "status": "reviewed"
+    },
+    "glossary:r_68bccc95a086c9e4": {
+      "text": "Mieko",
+      "status": "reviewed"
+    },
+    "glossary:r_e10ca9365fff35df": {
+      "text": "Louise Halevy",
+      "status": "reviewed"
+    },
+    "glossary:r_533b92c2f2991e76": {
+      "text": "Geass",
+      "status": "reviewed"
+    },
+    "glossary:r_87981d17fcd2b02b": {
+      "text": "Zero",
+      "status": "reviewed"
+    },
+    "glossary:r_b5eaed09787cf73e": {
+      "text": "Alberto Vist",
+      "status": "reviewed"
+    },
+    "glossary:r_6273f809f48745b1": {
+      "text": "Alberto",
+      "status": "reviewed"
+    },
+    "glossary:r_3b3d429fec806e6a": {
+      "text": "Marina",
+      "status": "reviewed"
+    },
+    "glossary:r_9f532e426a80900d": {
+      "text": "Relena",
+      "status": "reviewed"
+    },
+    "glossary:r_7cb90d98501d0fc2": {
+      "text": "Shirin",
+      "status": "reviewed"
+    },
+    "glossary:r_b6f94fbeb44ba64c": {
+      "text": "Klaus",
+      "status": "reviewed"
+    },
+    "glossary:r_1dd659c738ca856a": {
+      "text": "Hoàng đế Lelouch",
+      "status": "reviewed"
+    },
+    "glossary:r_7e7b381aca9da4bd": {
+      "text": "Trowa Barton",
+      "status": "reviewed"
+    },
+    "glossary:r_aafbd7550b61e1df": {
+      "text": "Leo",
+      "status": "reviewed"
+    },
+    "glossary:r_8ac22fa72830507d": {
+      "text": "Setsuna F. Seiei",
+      "status": "reviewed"
+    },
+    "glossary:r_860e06f700de7d06": {
+      "text": "Trowa",
+      "status": "reviewed"
+    },
+    "glossary:r_e6cc98d2b489fa65": {
+      "text": "Serpent",
+      "status": "reviewed"
+    },
+    "glossary:r_c84e96fdb20b0a59": {
+      "text": "Haro",
+      "status": "reviewed"
+    },
+    "glossary:r_e9d7b480468b8d1b": {
+      "text": "Toro-Hachi",
+      "status": "reviewed"
+    },
+    "glossary:r_6058017dc67e6898": {
+      "text": "Ốc Sên",
+      "status": "reviewed"
+    },
+    "glossary:r_e0cc0d6b21fd2d55": {
+      "text": "Marida",
+      "status": "reviewed"
+    },
+    "glossary:r_4b1694dda9bd0c57": {
+      "text": "Zinnerman",
+      "status": "reviewed"
+    },
+    "glossary:r_411269d7873a9123": {
+      "text": "Garencieres",
+      "status": "reviewed"
+    },
+    "glossary:r_df44da924f3b3c62": {
+      "text": "Audrey Burne",
+      "status": "reviewed"
+    },
+    "glossary:r_db4c5c5784f3c1f2": {
+      "text": "Audrey",
+      "status": "reviewed"
+    },
+    "glossary:r_094ff384a0e0dec2": {
+      "text": "Cardeas",
+      "status": "reviewed"
+    },
+    "glossary:r_366673f58d824e44": {
+      "text": "Cardeas Vist",
+      "status": "reviewed"
+    },
+    "glossary:r_9e8729ff4223bb16": {
+      "text": "Full Frontal",
+      "status": "reviewed"
+    },
+    "glossary:r_10cc0a299e3151ff": {
+      "text": "Kỷ nguyên Vũ trụ",
+      "status": "reviewed"
+    },
+    "glossary:r_633cc3bb5f5dc4cb": {
+      "text": "Gael",
+      "status": "reviewed"
+    },
+    "glossary:r_80e7801604d75012": {
+      "text": "Martha",
+      "status": "reviewed"
+    },
+    "glossary:r_b491c854d4a3def1": {
+      "text": "ZAFT",
+      "status": "reviewed"
+    },
+    "glossary:r_73e0947df087ae39": {
+      "text": "Lacus",
+      "status": "reviewed"
+    },
+    "glossary:r_23d6aa77ff9a8b3d": {
+      "text": "Athrun",
+      "status": "reviewed"
+    },
+    "glossary:r_81b8621d720622c0": {
+      "text": "Shinn Asuka",
+      "status": "reviewed"
+    },
+    "glossary:r_3cd839fed609961c": {
+      "text": "FAITH",
+      "status": "reviewed"
+    },
+    "glossary:r_d22dbf5f2bf8566c": {
+      "text": "Angelo",
+      "status": "reviewed"
+    },
+    "glossary:r_59afc55934c452a2": {
+      "text": "Suberoa Zinnerman",
+      "status": "reviewed"
+    },
+    "glossary:r_9a92800d2104d8e0": {
+      "text": "Angelo Sauper",
+      "status": "reviewed"
+    },
+    "glossary:r_113fca40dfa39c57": {
+      "text": "Gilboa",
+      "status": "reviewed"
+    },
+    "glossary:r_4a28a2ca1845b00c": {
+      "text": "Áo Đỏ",
+      "status": "reviewed"
+    },
+    "glossary:r_427e2fcd4c0dba29": {
+      "text": "Qubeley",
+      "status": "reviewed"
+    },
+    "glossary:r_0293e2a9c3d6bd03": {
+      "text": "Marida Cruz",
+      "status": "reviewed"
+    },
+    "glossary:r_33fb22b64c0a9738": {
+      "text": "Durandal",
+      "status": "reviewed"
+    },
+    "glossary:r_ec42b642d83d423b": {
+      "text": "Kshatriya",
+      "status": "reviewed"
+    },
+    "glossary:r_119f6c8ea312abd4": {
+      "text": "Unicorn Gundam",
+      "status": "reviewed"
+    },
+    "glossary:r_424bbf7ae53a94ee": {
+      "text": "Martha Vist Carbine",
+      "status": "reviewed"
+    },
+    "glossary:r_5df6601feedeb955": {
+      "text": "Hasan",
+      "status": "reviewed"
+    },
+    "glossary:r_57f1ba73bc2a45c2": {
+      "text": "Adenauer",
+      "status": "reviewed"
+    },
+    "glossary:r_db36e4d6fe379e76": {
+      "text": "Adenauer Paraya",
+      "status": "reviewed"
+    },
+    "glossary:r_340a97ae3dbd09e9": {
+      "text": "Quess",
+      "status": "reviewed"
+    },
+    "glossary:r_d1e8853e0a73d3ce": {
+      "text": "Quess Paraya",
+      "status": "reviewed"
+    },
+    "glossary:r_664a07214b085250": {
+      "text": "Hathaway",
+      "status": "reviewed"
+    },
+    "glossary:r_5916ff6cb7bc6cd4": {
+      "text": "Hathaway Noa",
+      "status": "reviewed"
+    },
+    "glossary:r_a2d717d9da03b37f": {
+      "text": "Bright",
+      "status": "reviewed"
+    },
+    "glossary:r_df8da162846b55e7": {
+      "text": "Flaste",
+      "status": "reviewed"
+    },
+    "glossary:r_f5969cf0d57c7e03": {
+      "text": "Ra Cailum",
+      "status": "reviewed"
+    },
+    "glossary:r_293c89856529ce29": {
+      "text": "Delta Plus",
+      "status": "reviewed"
+    },
+    "glossary:r_eb1809764c881d6b": {
+      "text": "Lady Une",
+      "status": "reviewed"
+    },
+    "glossary:r_a4508f0fb30ceeb1": {
+      "text": "Sinanju",
+      "status": "reviewed"
+    },
+    "glossary:r_88be9dc0265afd90": {
+      "text": "Amuro Ray",
+      "status": "reviewed"
+    },
+    "glossary:r_2dc5e1b24d3fa4f1": {
+      "text": "Meran",
+      "status": "reviewed"
+    },
+    "glossary:r_9a4004b878db9549": {
+      "text": "Lady",
+      "status": "reviewed"
+    },
+    "glossary:r_e3452ea38974dd16": {
+      "text": "Kati",
+      "status": "reviewed"
+    },
+    "glossary:r_cbfde6829be86994": {
+      "text": "Wufei",
+      "status": "reviewed"
+    },
+    "glossary:r_a8c83479fc2fe534": {
+      "text": "Mariemaia",
+      "status": "reviewed"
+    },
+    "glossary:r_adb4b537df6468af": {
+      "text": "Quatre",
+      "status": "reviewed"
+    },
+    "glossary:r_989c325febc9e107": {
+      "text": "Hilde",
+      "status": "reviewed"
+    },
+    "glossary:r_111fa5593840d200": {
+      "text": "Noin",
+      "status": "reviewed"
+    },
+    "glossary:r_57df8de072dfc9ce": {
+      "text": "Lucrezia Noin",
+      "status": "reviewed"
+    },
+    "glossary:r_94c2a0c1f414ed06": {
+      "text": "Hilde Schbeiker",
+      "status": "reviewed"
+    },
+    "glossary:r_a135fbe5e3380039": {
+      "text": "Chiến dịch Sao Băng",
+      "status": "reviewed"
+    },
+    "glossary:r_d29803de09e29f34": {
+      "text": "Colasour",
+      "status": "reviewed"
+    },
+    "glossary:r_a4c7619e6818065e": {
+      "text": "Graham",
+      "status": "reviewed"
+    },
+    "glossary:r_54c308a851af7622": {
+      "text": "Graham Aker",
+      "status": "reviewed"
+    },
+    "glossary:r_b028f4545552de9c": {
+      "text": "Zechs",
+      "status": "reviewed"
+    },
+    "glossary:r_3395f81a822c5f6b": {
+      "text": "Zechs Merquise",
+      "status": "reviewed"
+    },
+    "glossary:r_d240e3f8c5b1560d": {
+      "text": "White Fang",
+      "status": "reviewed"
+    },
+    "glossary:r_ad9d7384262ba1cf": {
+      "text": "Annalotta",
+      "status": "reviewed"
+    },
+    "glossary:r_c819206d92a10178": {
+      "text": "Gadlight",
+      "status": "reviewed"
+    },
+    "glossary:r_1794eeed95c2c7e0": {
+      "text": "Patrick Mannequin",
+      "status": "reviewed"
+    },
+    "glossary:r_7385c99066676053": {
+      "text": "Mariemaia Khushrenada",
+      "status": "reviewed"
+    },
+    "glossary:r_8bde02aa66c4097b": {
+      "text": "Dekim",
+      "status": "reviewed"
+    },
+    "glossary:r_a0c40dd561e5911c": {
+      "text": "Dekim Barton",
+      "status": "reviewed"
+    },
+    "glossary:r_e1e5f03ce7b4bfa3": {
+      "text": "Altron Gundam",
+      "status": "reviewed"
+    },
+    "glossary:r_aaa38f6993662ff0": {
+      "text": "Chang Wufei",
+      "status": "reviewed"
+    },
+    "glossary:r_3b105578a35753a4": {
+      "text": "Dragon's Hive",
+      "status": "reviewed"
+    },
+    "glossary:r_c1022288dcebcde2": {
+      "text": "Tư lệnh Tanaka",
+      "status": "reviewed"
+    },
+    "glossary:r_24c090ee7a8a9c7f": {
+      "text": "WILL",
+      "status": "reviewed"
+    },
+    "glossary:r_40a1e9d9a504b515": {
+      "text": "Sammy",
+      "status": "reviewed"
+    },
+    "glossary:r_2b73efdceb3c4ac8": {
+      "text": "Ruu",
+      "status": "reviewed"
+    },
+    "glossary:r_57ef5ce7e3bd0e38": {
+      "text": "Roze",
+      "status": "reviewed"
+    },
+    "glossary:r_a2c9847e9a3bc834": {
+      "text": "Naoto",
+      "status": "reviewed"
+    },
+    "glossary:r_2b7ce66269db94ed": {
+      "text": "Akira",
+      "status": "reviewed"
+    },
+    "glossary:r_1b3e4a85ead2067e": {
+      "text": "Takeru Myojin",
+      "status": "reviewed"
+    },
+    "glossary:r_464a9155d09a3cca": {
+      "text": "Godmars",
+      "status": "reviewed"
+    },
+    "glossary:r_44af58e79648687d": {
+      "text": "Naoto Ijuin",
+      "status": "reviewed"
+    },
+    "glossary:r_7f44d8b37f151806": {
+      "text": "Akira Kiso",
+      "status": "reviewed"
+    },
+    "glossary:r_48a7291da4b20e5e": {
+      "text": "Mika Hyuga",
+      "status": "reviewed"
+    },
+    "glossary:r_bc52efbbd7ad991a": {
+      "text": "Kenji Asuka",
+      "status": "reviewed"
+    },
+    "glossary:r_353a3e76c280b652": {
+      "text": "Mika",
+      "status": "reviewed"
+    },
+    "glossary:r_7dd1e56bd24631d1": {
+      "text": "Kenji",
+      "status": "reviewed"
+    },
+    "glossary:r_8927f78c064840dc": {
+      "text": "Cosmo Crusher",
+      "status": "reviewed"
+    },
+    "glossary:r_02c3fb73916a655a": {
+      "text": "Zul",
+      "status": "reviewed"
+    },
+    "glossary:r_53b717d9672423fa": {
+      "text": "Marg",
+      "status": "reviewed"
+    },
+    "glossary:r_c5f40627ee74f7fe": {
+      "text": "Shizuko",
+      "status": "reviewed"
+    },
+    "glossary:r_dd0247b38d99c21f": {
+      "text": "Tsubasa",
+      "status": "reviewed"
+    },
+    "glossary:r_c718de1960bc0266": {
+      "text": "Cross",
+      "status": "reviewed"
+    },
+    "glossary:r_f96ce7d76eba73a7": {
+      "text": "Yasu",
+      "status": "reviewed"
+    },
+    "glossary:r_4028f7117709fb9b": {
+      "text": "Tsubasa Nishikiori",
+      "status": "reviewed"
+    },
+    "glossary:r_9705def214c6c945": {
+      "text": "Duncan",
+      "status": "reviewed"
+    },
+    "glossary:r_113f2c9a6485442c": {
+      "text": "Thiên Sứ Thứ Tư",
+      "status": "reviewed"
+    },
+    "glossary:r_2053da745194ab42": {
+      "text": "Fuyutsuki",
+      "status": "reviewed"
+    },
+    "glossary:r_60678b5b34a04974": {
+      "text": "Gendo",
+      "status": "reviewed"
+    },
+    "glossary:r_9becdabb6152ffb7": {
+      "text": "Tân Tokyo-3",
+      "status": "reviewed"
+    },
+    "glossary:r_76dcfd3b0187bbb3": {
+      "text": "Zeus",
+      "status": "reviewed"
+    },
+    "glossary:r_bb5d440e312db945": {
+      "text": "Misato",
+      "status": "reviewed"
+    },
+    "glossary:r_0d2b095a91c6a67c": {
+      "text": "Shinji",
+      "status": "reviewed"
+    },
+    "glossary:r_1dc198c5770d2f52": {
+      "text": "Ritsuko",
+      "status": "reviewed"
+    },
+    "glossary:r_d5c1a7e5ed3125bd": {
+      "text": "Evangelion số 01",
+      "status": "reviewed"
+    },
+    "glossary:r_b6d23cfed5c68cbe": {
+      "text": "Makoto",
+      "status": "reviewed"
+    },
+    "glossary:r_9ec00c9c9688b56b": {
+      "text": "Maya",
+      "status": "reviewed"
+    },
+    "glossary:r_8f6a8fff44ab7b5c": {
+      "text": "Shigeru",
+      "status": "reviewed"
+    },
+    "glossary:r_6a5cab2ee5b2983c": {
+      "text": "Second Impact",
+      "status": "reviewed"
+    },
+    "glossary:r_1a1bacc05b2adf51": {
+      "text": "Shirota",
+      "status": "reviewed"
+    },
+    "glossary:r_8c9bfbe38bb57574": {
+      "text": "Shinji Ikari",
+      "status": "reviewed"
+    },
+    "glossary:r_c0ed6e1dd9db59af": {
+      "text": "Ritsuko Akagi",
+      "status": "reviewed"
+    },
+    "glossary:r_0b108edfda335f8d": {
+      "text": "Rei",
+      "status": "reviewed"
+    },
+    "glossary:r_503ab75ae35781ce": {
+      "text": "Lilith",
+      "status": "reviewed"
+    },
+    "glossary:r_1b9cd858cdf5b712": {
+      "text": "Heterodyne",
+      "status": "reviewed"
+    },
+    "glossary:r_f5ceb077dd97d8cd": {
+      "text": "Giới chấn",
+      "status": "reviewed"
+    },
+    "glossary:r_2b0053dec680f9cf": {
+      "text": "Bảo an Thế kỷ 21",
+      "status": "reviewed"
+    },
+    "glossary:r_d8fca64743c5b4e3": {
+      "text": "SEELE",
+      "status": "reviewed"
+    },
+    "glossary:r_61578b5675e05c30": {
+      "text": "Ibuki",
+      "status": "reviewed"
+    },
+    "glossary:r_35af7e7fe39d2f56": {
+      "text": "Nakahara",
+      "status": "reviewed"
+    },
+    "glossary:r_2b754491e5eaac33": {
+      "text": "Chiaki Nakahara",
+      "status": "reviewed"
+    },
+    "glossary:r_f5b66e33d58cab37": {
+      "text": "Ijuin",
+      "status": "reviewed"
+    },
+    "glossary:r_3e8cceebd2f0a242": {
+      "text": "Hirotaka Ijuin",
+      "status": "reviewed"
+    },
+    "glossary:r_2ea38223c8079cb9": {
+      "text": "Saeki",
+      "status": "reviewed"
+    },
+    "glossary:r_58643ba5c1595a6d": {
+      "text": "Irie",
+      "status": "reviewed"
+    },
+    "glossary:r_7ee3825459831fbb": {
+      "text": "Shizuka Irie",
+      "status": "reviewed"
+    },
+    "glossary:r_402ce608e4dfa4f1": {
+      "text": "Sumida",
+      "status": "reviewed"
+    },
+    "glossary:r_e28845b4637afdae": {
+      "text": "Ooyama",
+      "status": "reviewed"
+    },
+    "glossary:r_ec36b413ad010793": {
+      "text": "Noriko Ooyama",
+      "status": "reviewed"
+    },
+    "glossary:r_db6efc9aa771a67a": {
+      "text": "Oosugi",
+      "status": "reviewed"
+    },
+    "glossary:r_1c7b5a04696493d4": {
+      "text": "Ookouchi",
+      "status": "reviewed"
+    },
+    "glossary:r_f867bac798f7f4d0": {
+      "text": "Ibuki Momoi",
+      "status": "reviewed"
+    },
+    "glossary:r_4028c575d08782fe": {
+      "text": "Yokozawa",
+      "status": "reviewed"
+    },
+    "glossary:r_72c070b0716a7973": {
+      "text": "Shinya Yokozawa",
+      "status": "reviewed"
+    },
+    "glossary:r_341730c955fb8ed4": {
+      "text": "Taguchi",
+      "status": "reviewed"
+    },
+    "glossary:r_8e40abe849f946eb": {
+      "text": "Tomorou Taguchi",
+      "status": "reviewed"
+    },
+    "glossary:r_10096c518ccb0d8f": {
+      "text": "Ishizuka",
+      "status": "reviewed"
+    },
+    "glossary:r_6a053fcc67e881c7": {
+      "text": "Tomoyoshi Ishizuka",
+      "status": "reviewed"
+    },
+    "glossary:r_5e77c15f8f6808d2": {
+      "text": "Tanigawa",
+      "status": "reviewed"
+    },
+    "glossary:r_5819c737ddc8b86c": {
+      "text": "Fuuka Tanigawa",
+      "status": "reviewed"
+    },
+    "glossary:r_fd17803e9f24e346": {
+      "text": "Akagi",
+      "status": "reviewed"
+    },
+    "glossary:r_b70dc1d9649bf663": {
+      "text": "Shunsuke Akagi",
+      "status": "reviewed"
+    },
+    "glossary:r_65e7d271c3124c93": {
+      "text": "Aoyama",
+      "status": "reviewed"
+    },
+    "glossary:r_06729bd50e0ce287": {
+      "text": "Keiichirou Aoyama",
+      "status": "reviewed"
+    },
+    "glossary:r_2250d43c1994baf6": {
+      "text": "Thiên Sứ Thứ Năm",
+      "status": "reviewed"
+    },
+    "glossary:r_4c25b1cedd2a8118": {
+      "text": "Dai-Guard",
+      "status": "reviewed"
+    },
+    "glossary:r_bec1cae3bf741246": {
+      "text": "Lelouch",
+      "status": "reviewed"
+    },
+    "glossary:r_248b6866d68f743c": {
+      "text": "Kensuke",
+      "status": "reviewed"
+    },
+    "glossary:r_0de2d941a5560480": {
+      "text": "Toji",
+      "status": "reviewed"
+    },
+    "glossary:r_aacc2a0ef9cb08db": {
+      "text": "Hikari",
+      "status": "reviewed"
+    },
+    "glossary:r_9a11a5d706ecc46e": {
+      "text": "Giáo viên",
+      "status": "reviewed"
+    },
+    "glossary:r_0f1dfb1f1b8b9875": {
+      "text": "Rei Ayanami",
+      "status": "reviewed"
+    },
+    "glossary:r_aec711081ef425e5": {
+      "text": "Toji Suzuhara",
+      "status": "reviewed"
+    },
+    "glossary:r_746c0abb777dd5bc": {
+      "text": "Neo Planets",
+      "status": "reviewed"
+    },
+    "glossary:r_c680a91e3be71909": {
+      "text": "Nextant",
+      "status": "reviewed"
+    },
+    "glossary:r_239a0052a5a0e411": {
+      "text": "Thực chiến",
+      "status": "reviewed"
+    },
+    "glossary:r_5a197529d6feaca2": {
+      "text": "Red Shoulder",
+      "status": "reviewed"
+    },
+    "glossary:r_fbbabca6c4936857": {
+      "text": "PS",
+      "status": "reviewed"
+    },
+    "glossary:r_c94e72eb364b20c7": {
+      "text": "Andrei Sergeivich Kalinin",
+      "status": "reviewed"
+    },
+    "glossary:r_ccb2c4c71616f03c": {
+      "text": "Kan Yu",
+      "status": "reviewed"
+    },
+    "glossary:r_f5465fb6799bd694": {
+      "text": "Coconna",
+      "status": "reviewed"
+    },
+    "glossary:r_2bedd0c5160ac0a2": {
+      "text": "Gotho",
+      "status": "reviewed"
+    },
+    "glossary:r_704ec44dd463900d": {
+      "text": "Shako",
+      "status": "reviewed"
+    },
+    "glossary:r_e16711ccbc62b04b": {
+      "text": "Vanilla",
+      "status": "reviewed"
+    },
+    "glossary:r_8c4d815b1041d355": {
+      "text": "Vanilla Vartla",
+      "status": "reviewed"
+    },
+    "glossary:r_0b1445d8ae52ba3c": {
+      "text": "Bolouze Gotho",
+      "status": "reviewed"
+    },
+    "glossary:r_db39244da8a7c02b": {
+      "text": "Ru Shako",
+      "status": "reviewed"
+    },
+    "glossary:r_81c98f91c094bde2": {
+      "text": "Cherokee",
+      "status": "reviewed"
+    },
+    "glossary:r_bfb1beb67c9586d5": {
+      "text": "Niva",
+      "status": "reviewed"
+    },
+    "glossary:r_1e2ca3ad65f8801b": {
+      "text": "Teitania",
+      "status": "reviewed"
+    },
+    "glossary:r_7986592a80c7b9a3": {
+      "text": "Montewells",
+      "status": "reviewed"
+    },
+    "glossary:r_be4ccc619e011ba6": {
+      "text": "Viacheslav da Montewells",
+      "status": "reviewed"
+    },
+    "glossary:r_a718e8524ec1469d": {
+      "text": "Ah Koba",
+      "status": "reviewed"
+    },
+    "glossary:r_35d72a769be1ac45": {
+      "text": "Battling",
+      "status": "reviewed"
+    },
+    "glossary:r_f76074c1fd1665ed": {
+      "text": "Đĩa điều khiển",
+      "status": "reviewed"
+    },
+    "glossary:r_f3249632c31a29ac": {
+      "text": "Thể sinh tồn dị năng",
+      "status": "reviewed"
+    },
+    "glossary:r_6817ebd9508bd7a4": {
+      "text": "Hội Kín",
+      "status": "reviewed"
+    },
+    "glossary:r_26ead36c9bd21400": {
+      "text": "Carlman Thomas",
+      "status": "reviewed"
+    },
+    "glossary:r_3c1554dcd1221526": {
+      "text": "Thomas",
+      "status": "reviewed"
+    },
+    "glossary:r_72e39b7851452ba8": {
+      "text": "Borson",
+      "status": "reviewed"
+    },
+    "glossary:r_17664805c05422ab": {
+      "text": "Radaa Niva",
+      "status": "reviewed"
+    },
+    "glossary:r_7e4d0e27794441d7": {
+      "text": "Teitania da Montewells",
+      "status": "reviewed"
+    },
+    "glossary:r_f68697e0ef0e2bb9": {
+      "text": "Eklubis",
+      "status": "reviewed"
+    },
+    "glossary:r_e7f0c1f480bfcece": {
+      "text": "Chiến hạm mặt đất",
+      "status": "reviewed"
+    },
+    "glossary:r_4c5dce51bd664662": {
+      "text": "C.C.",
+      "status": "reviewed"
+    },
+    "glossary:r_b73e2ab3c40a3ac5": {
+      "text": "Suzune Saijou",
+      "status": "reviewed"
+    },
+    "glossary:r_7e2b4ad8d5e1ba33": {
+      "text": "Eldospine",
+      "status": "reviewed"
+    },
+    "glossary:r_967de76527802a81": {
+      "text": "Toru Saeki",
+      "status": "reviewed"
+    },
+    "glossary:r_11292494f5221a30": {
+      "text": "Misato Katsuragi",
+      "status": "reviewed"
+    },
+    "glossary:r_babe8fb5dac128b0": {
+      "text": "Evangelion số 00",
+      "status": "reviewed"
+    },
+    "glossary:r_1ad04c7ebe6e434f": {
+      "text": "Lunamaria",
+      "status": "reviewed"
+    },
+    "glossary:r_bf5b96116735fd7d": {
+      "text": "Ohgi",
+      "status": "reviewed"
+    },
+    "glossary:r_cef37faab269db9c": {
+      "text": "Hikari Horaki",
+      "status": "reviewed"
+    },
+    "glossary:r_efd308c45b9278ab": {
+      "text": "Kensuke Aida",
+      "status": "reviewed"
+    },
+    "glossary:r_699f662ab4c9cf1c": {
+      "text": "Kallen",
+      "status": "reviewed"
+    },
+    "glossary:r_cee619179da7e81a": {
+      "text": "Kallen Kozuki",
+      "status": "reviewed"
+    },
+    "glossary:r_b3290d499e30ff46": {
+      "text": "Tân Nhật Bản",
+      "status": "reviewed"
+    },
+    "glossary:r_5ab5147fafd97fb7": {
+      "text": "Shinya",
+      "status": "reviewed"
+    },
+    "glossary:r_6690b3935cd4789c": {
+      "text": "Misako",
+      "status": "reviewed"
+    },
+    "glossary:r_594ed5b7d3f2f058": {
+      "text": "Maki",
+      "status": "reviewed"
+    },
+    "glossary:r_e8191a83fc5a051a": {
+      "text": "Maki Kashiwaba",
+      "status": "reviewed"
+    },
+    "glossary:r_7f7a8ab9db14e827": {
+      "text": "Genion GAI",
+      "status": "reviewed"
+    },
+    "glossary:r_d6e32700d159d1f8": {
+      "text": "Amata",
+      "status": "reviewed"
+    },
+    "glossary:r_7f1b8bb82a93f8ed": {
+      "text": "Amata Sora",
+      "status": "reviewed"
+    },
+    "glossary:r_971b4a7b665a8eb0": {
+      "text": "Mikono",
+      "status": "reviewed"
+    },
+    "glossary:r_60ff8c65bdd68756": {
+      "text": "Mikono Suzushiro",
+      "status": "reviewed"
+    },
+    "glossary:r_ea498d4c106d6c2c": {
+      "text": "Shushu",
+      "status": "reviewed"
+    },
+    "glossary:r_9441b9c6604968b7": {
+      "text": "Alicia",
+      "status": "reviewed"
+    },
+    "glossary:r_25fab82effe3187c": {
+      "text": "Sylphy",
+      "status": "reviewed"
+    },
+    "glossary:r_492cddf5e71f2355": {
+      "text": "Apollon",
+      "status": "reviewed"
+    },
+    "glossary:r_d75e2099e9ee06b0": {
+      "text": "Bầu trời Aquaria tung cánh",
+      "status": "reviewed"
+    },
+    "glossary:r_05c85897e66f2fef": {
+      "text": "Đọa Thiên Sí",
+      "status": "reviewed"
+    },
+    "glossary:r_422c553670160743": {
+      "text": "Zessica",
+      "status": "reviewed"
+    },
+    "glossary:r_3838bc2686e2aaf2": {
+      "text": "Cayenne",
+      "status": "reviewed"
+    },
+    "glossary:r_67d017db042d8001": {
+      "text": "Donar",
+      "status": "reviewed"
+    },
+    "glossary:r_30b7a9920d15048f": {
+      "text": "Suomi",
+      "status": "reviewed"
+    },
+    "glossary:r_b07ad898db9d4b92": {
+      "text": "Hiệu trưởng",
+      "status": "reviewed"
+    },
+    "glossary:r_1cd048177b245900": {
+      "text": "Crea",
+      "status": "reviewed"
+    },
+    "glossary:r_1f1512e046c1faf9": {
+      "text": "Học viện Thánh Thiên Sứ",
+      "status": "reviewed"
+    },
+    "glossary:r_d89785300be12d67": {
+      "text": "MIX",
+      "status": "reviewed"
+    },
+    "glossary:r_9e434e8a07ba74da": {
+      "text": "Andy",
+      "status": "reviewed"
+    },
+    "glossary:r_dbc77ab9642227f2": {
+      "text": "Malloy",
+      "status": "reviewed"
+    },
+    "glossary:r_93d55b4a41d3d154": {
+      "text": "Sazanka",
+      "status": "reviewed"
+    },
+    "glossary:r_b3e0a1b769129180": {
+      "text": "Kagura",
+      "status": "reviewed"
+    },
+    "glossary:r_20e6a40fdb75a8a3": {
+      "text": "Izumo",
+      "status": "reviewed"
+    },
+    "glossary:r_a4a25bf5b1fcb4d6": {
+      "text": "Shrade",
+      "status": "reviewed"
+    },
+    "glossary:r_625829a3143b1b46": {
+      "text": "Thành phố Aquaria",
+      "status": "reviewed"
+    },
+    "glossary:r_8898fa8d916480bc": {
+      "text": "Twinkle Project",
+      "status": "reviewed"
+    },
+    "glossary:r_9c9afd3507999826": {
+      "text": "Fudou",
+      "status": "reviewed"
+    },
+    "glossary:r_e3c3adc3c71bba1a": {
+      "text": "Jin",
+      "status": "reviewed"
+    },
+    "glossary:r_8d1c6fd87b938a36": {
+      "text": "Mikage",
+      "status": "reviewed"
+    },
+    "glossary:r_967525aa5cac1f9d": {
+      "text": "Mithra Gnis",
+      "status": "reviewed"
+    },
+    "glossary:r_e805847049577a70": {
+      "text": "Kei Katsuragi",
+      "status": "reviewed"
+    },
+    "glossary:r_925cd5046a378ad7": {
+      "text": "Orguss",
+      "status": "reviewed"
+    },
+    "glossary:r_45cb9c25f5f59ebe": {
+      "text": "Elmo",
+      "status": "reviewed"
+    },
+    "glossary:r_e4f8e6a824a1d955": {
+      "text": "Zessica Wong",
+      "status": "reviewed"
+    },
+    "glossary:r_375f2ae0a346af1a": {
+      "text": "Cayenne Suzushiro",
+      "status": "reviewed"
+    },
+    "glossary:r_5f35c4ed501b5214": {
+      "text": "Shrade Elan",
+      "status": "reviewed"
+    },
+    "glossary:r_23accc993932fa0e": {
+      "text": "Aquarion Gepard",
+      "status": "reviewed"
+    },
+    "glossary:r_87be93543da04e82": {
+      "text": "Spada",
+      "status": "reviewed"
+    },
+    "glossary:r_68c7c92c670ed330": {
+      "text": "Maron",
+      "status": "reviewed"
+    },
+    "glossary:r_9fe22fd1e575873e": {
+      "text": "Waffle",
+      "status": "reviewed"
+    },
+    "glossary:r_ec25fbc4d7db976a": {
+      "text": "Chocolat",
+      "status": "reviewed"
+    },
+    "glossary:r_ba719fca67c69c12": {
+      "text": "Issei Tsubaki",
+      "status": "reviewed"
+    },
+    "glossary:r_684626dc4e57bc06": {
+      "text": "Issei",
+      "status": "reviewed"
+    },
+    "glossary:r_c9543ba6001f06fb": {
+      "text": "Elgan Roddick",
+      "status": "reviewed"
+    },
+    "glossary:r_4f8f364677cc756f": {
+      "text": "The Edel Bernal",
+      "status": "reviewed"
+    },
+    "glossary:r_36646b37ec43f2c3": {
+      "text": "Saigus",
+      "status": "reviewed"
+    },
+    "glossary:r_d0cbfc7328cf2ae3": {
+      "text": "Saigus Eirony",
+      "status": "reviewed"
+    },
+    "glossary:r_9e9487a3754ae34e": {
+      "text": "Logos",
+      "status": "reviewed"
+    },
+    "glossary:r_423ae0f4201a33bd": {
+      "text": "Kummen",
+      "status": "reviewed"
+    },
+    "glossary:r_0c434e4be7ab0c82": {
+      "text": "Akagi",
+      "status": "reviewed"
+    },
+    "glossary:r_168e6195a97915f3": {
+      "text": "Ryunosuke Akagi",
+      "status": "reviewed"
+    },
+    "glossary:r_3e27915d37d3311c": {
+      "text": "Iizuka",
+      "status": "reviewed"
+    },
+    "glossary:r_4904386149b61b1e": {
+      "text": "Namida",
+      "status": "reviewed"
+    },
+    "glossary:r_a066ae2d8cad2d89": {
+      "text": "Lorelei",
+      "status": "reviewed"
+    },
+    "glossary:r_d1e23df7e6aba12f": {
+      "text": "Lorelei Heinrich",
+      "status": "reviewed"
+    },
+    "glossary:r_c7ff924409ff5df6": {
+      "text": "Lynn Minmay",
+      "status": "reviewed"
+    },
+    "glossary:r_1139a9a7eaa1d0a7": {
+      "text": "Ma Vương Vũ Trụ",
+      "status": "reviewed"
+    },
+    "glossary:r_c8c95b3ef7461701": {
+      "text": "Kamina",
+      "status": "reviewed"
+    },
+    "glossary:r_b7547738d32fbd39": {
+      "text": "Gimmy",
+      "status": "reviewed"
+    },
+    "glossary:r_1f507414eccb3ab6": {
+      "text": "Rossiu",
+      "status": "reviewed"
+    },
+    "glossary:r_99d087b29a046dfd": {
+      "text": "Darry",
+      "status": "reviewed"
+    },
+    "glossary:r_d0a20c9abe25d9d8": {
+      "text": "Gurren Lagann",
+      "status": "reviewed"
+    },
+    "glossary:r_365b8187876ce721": {
+      "text": "Kittan",
+      "status": "reviewed"
+    },
+    "glossary:r_7d453ca7ae2cf032": {
+      "text": "Yoko",
+      "status": "reviewed"
+    },
+    "glossary:r_fb94b9b9ff26b915": {
+      "text": "Kei",
+      "status": "reviewed"
+    },
+    "glossary:r_15425df2fb1667cb": {
+      "text": "Leeron",
+      "status": "reviewed"
+    },
+    "glossary:r_34e922935c83e0ff": {
+      "text": "Nia",
+      "status": "reviewed"
+    },
+    "glossary:r_88f8323e904ac600": {
+      "text": "Lordgenome",
+      "status": "reviewed"
+    },
+    "glossary:r_7b0233db1aed7446": {
+      "text": "Andy W. Hole",
+      "status": "reviewed"
+    },
+    "glossary:r_a0ac0c137121e125": {
+      "text": "Space Robo",
+      "status": "reviewed"
+    },
+    "glossary:r_1a5fb657c8900d64": {
+      "text": "Đĩa bay khổng lồ",
+      "status": "reviewed"
+    },
+    "glossary:r_cd4fb7e2d050a491": {
+      "text": "Space Gunmarl",
+      "status": "reviewed"
+    },
+    "glossary:r_f4a97210772ad117": {
+      "text": "Boota",
+      "status": "reviewed"
+    },
+    "glossary:r_f3b33d4623088ae7": {
+      "text": "Thiên Sứ Thứ Sáu",
+      "status": "reviewed"
+    },
+    "glossary:r_c1a5e3d4bf3e6f80": {
+      "text": "Kaworu",
+      "status": "reviewed"
+    },
+    "glossary:r_8c9ae51c423f7aba": {
+      "text": "Yunoha",
+      "status": "reviewed"
+    },
+    "glossary:r_c15f6b7685bba6eb": {
+      "text": "Yunoha Thrul",
+      "status": "reviewed"
+    },
+    "glossary:r_14cb2a026df9b7b7": {
+      "text": "Shinkiro",
+      "status": "reviewed"
+    },
+    "glossary:r_3c10fd6bb0cc16c1": {
+      "text": "Mugann",
+      "status": "reviewed"
+    },
+    "glossary:r_910c0bffbeef33d7": {
+      "text": "Takuma Kugayama",
+      "status": "reviewed"
+    },
+    "glossary:r_334c42a3d73e4d1d": {
+      "text": "Takuma",
+      "status": "reviewed"
+    },
+    "glossary:r_ed6b08e8d2bebccf": {
+      "text": "Sweetwater",
+      "status": "reviewed"
+    },
+    "glossary:r_7e423dfb689eda19": {
+      "text": "Teletha Testarossa",
+      "status": "reviewed"
+    },
+    "glossary:r_d2a6b5cfa56056da": {
+      "text": "Seina",
+      "status": "reviewed"
+    },
+    "glossary:r_0fbaa303a139f99d": {
+      "text": "Khu vực 11",
+      "status": "reviewed"
+    },
+    "glossary:r_e740c8caf1899be4": {
+      "text": "Behemoth",
+      "status": "reviewed"
+    },
+    "glossary:r_a51efefdefa105bc": {
+      "text": "Nunnally vi Britannia",
+      "status": "reviewed"
+    },
+    "glossary:r_e14e15096abe3848": {
+      "text": "Kamimura",
+      "status": "reviewed"
+    },
+    "glossary:r_5fb4bad5dfba44b8": {
+      "text": "Gino",
+      "status": "reviewed"
+    },
+    "glossary:r_afc61f2f452d97b5": {
+      "text": "Nunnally",
+      "status": "reviewed"
+    },
+    "glossary:r_5ba3355eee088ace": {
+      "text": "Dorothy",
+      "status": "reviewed"
+    },
+    "glossary:r_ae819a2bae6d1b9f": {
+      "text": "Suzaku",
+      "status": "reviewed"
+    },
+    "glossary:r_62fed54071db5128": {
+      "text": "Frontal",
+      "status": "reviewed"
+    },
+    "glossary:r_15a2e243bb477813": {
+      "text": "Lacus Clyne",
+      "status": "reviewed"
+    },
+    "glossary:r_499577879a78bb36": {
+      "text": "Meer Campbell",
+      "status": "reviewed"
+    },
+    "glossary:r_897b45844af1cd2d": {
+      "text": "Kira Yamato",
+      "status": "reviewed"
+    },
+    "glossary:r_ba8d8232e1c22fe3": {
+      "text": "Astonaige",
+      "status": "reviewed"
+    },
+    "glossary:r_41f8fec405ca6837": {
+      "text": "Chan",
+      "status": "reviewed"
+    },
+    "glossary:r_3e325f2c89d3b4d3": {
+      "text": "Chan Agi",
+      "status": "reviewed"
+    },
+    "glossary:r_7dc699981a1ab1b2": {
+      "text": "Nu Gundam",
+      "status": "reviewed"
+    },
+    "glossary:r_e95693a2f8c5341a": {
+      "text": "Lalah",
+      "status": "reviewed"
+    },
+    "glossary:r_84582f88ffc4a2a3": {
+      "text": "Quattro Bajeena",
+      "status": "reviewed"
+    },
+    "glossary:r_15c8ecbccae02800": {
+      "text": "Rezin",
+      "status": "reviewed"
+    },
+    "glossary:r_ef9b37024b502a25": {
+      "text": "Hill",
+      "status": "reviewed"
+    },
+    "glossary:r_09fbf6b53ec28a0c": {
+      "text": "Nanai",
+      "status": "reviewed"
+    },
+    "glossary:r_923356e863624e34": {
+      "text": "Rewloola",
+      "status": "reviewed"
+    },
+    "glossary:r_8ec1522b7a1b6878": {
+      "text": "Beltorchika",
+      "status": "reviewed"
+    },
+    "glossary:r_7c35d6fb8c73cf9b": {
+      "text": "Karaba",
+      "status": "reviewed"
+    },
+    "glossary:r_0a4667b00b3d48ab": {
+      "text": "Nanai Miguel",
+      "status": "reviewed"
+    },
+    "glossary:r_5ee09fe66b881df5": {
+      "text": "Jegan",
+      "status": "reviewed"
+    },
+    "glossary:r_c4874055545db712": {
+      "text": "Sumeragi Lee Noriega",
+      "status": "reviewed"
+    },
+    "glossary:r_194bad78f3f19bdc": {
+      "text": "Loto",
+      "status": "reviewed"
+    },
+    "glossary:r_bbd46542c501ed26": {
+      "text": "Apolly",
+      "status": "reviewed"
+    },
+    "glossary:r_febd518fa06d7318": {
+      "text": "Alec",
+      "status": "reviewed"
+    },
+    "glossary:r_1bd616d747fe4760": {
+      "text": "Khôi phục thời không",
+      "status": "reviewed"
+    },
+    "glossary:r_823806f41a7bf51f": {
+      "text": "Basara",
+      "status": "reviewed"
+    },
+    "glossary:r_8cb1de68f7be8f4b": {
+      "text": "Vladimir",
+      "status": "reviewed"
+    },
+    "glossary:r_b47522ec22d5230b": {
+      "text": "Gura",
+      "status": "reviewed"
+    },
+    "glossary:r_a5409289b0f42356": {
+      "text": "Gura King Jr.",
+      "status": "reviewed"
+    },
+    "glossary:r_57cc7760c48aed47": {
+      "text": "Mylene",
+      "status": "reviewed"
+    },
+    "glossary:r_d94e5f8d44b10c8a": {
+      "text": "Ray",
+      "status": "reviewed"
+    },
+    "glossary:r_e6d21dd1f11cc553": {
+      "text": "Gamlin",
+      "status": "reviewed"
+    },
+    "glossary:r_d00b59eb9a036e44": {
+      "text": "Basara Nekki",
+      "status": "reviewed"
+    },
+    "glossary:r_c59c07a3df9a03ed": {
+      "text": "Mylene Flare Jenius",
+      "status": "reviewed"
+    },
+    "glossary:r_92b7a0025e472eb1": {
+      "text": "Ray Lovelock",
+      "status": "reviewed"
+    },
+    "glossary:r_34e031227b87f372": {
+      "text": "Veffidas Feaze",
+      "status": "reviewed"
+    },
+    "glossary:r_266558c8c80582a1": {
+      "text": "Veffidas",
+      "status": "reviewed"
+    },
+    "glossary:r_bf894ea276f843a8": {
+      "text": "Robby",
+      "status": "reviewed"
+    },
+    "glossary:r_e3b4679c30d57919": {
+      "text": "Donar Dantes",
+      "status": "reviewed"
+    },
+    "glossary:r_2b1ce1e405e4635a": {
+      "text": "Gepard",
+      "status": "reviewed"
+    },
+    "glossary:r_2cfd01c5295a2c8c": {
+      "text": "Jin Muso",
+      "status": "reviewed"
+    },
+    "glossary:r_2e3a141ce96a9586": {
+      "text": "Thiên Sứ Thứ Bảy",
+      "status": "reviewed"
+    },
+    "glossary:r_8e59ca36fc1d02c3": {
+      "text": "Asuka",
+      "status": "reviewed"
+    },
+    "glossary:r_30db61fb935ccaf9": {
+      "text": "Asuka Langley Shikinami",
+      "status": "reviewed"
+    },
+    "glossary:r_6d153a5b8952dd93": {
+      "text": "Evangelion số 02",
+      "status": "reviewed"
+    },
+    "glossary:r_46400cb45867d569": {
+      "text": "Pháo đài bay Ghoul",
+      "status": "reviewed"
+    },
+    "glossary:r_92879f04eca945af": {
+      "text": "Dreissen",
+      "status": "reviewed"
+    },
+    "glossary:r_5dc8ab18bdb05ee3": {
+      "text": "Jagd Doga",
+      "status": "reviewed"
+    },
+    "glossary:r_72a7a95df84eeaa4": {
+      "text": "Hibiki",
+      "status": "reviewed"
+    },
+    "glossary:r_f5855e4199d1218e": {
+      "text": "08",
+      "status": "reviewed"
+    },
+    "glossary:r_99971b0b2b58a0f4": {
+      "text": "Kaji",
+      "status": "reviewed"
+    },
+    "glossary:r_0d412764bc855eaf": {
+      "text": "Ryoji Kaji",
+      "status": "reviewed"
+    },
+    "glossary:r_09f008e5eebc8b1d": {
+      "text": "Xenity",
+      "status": "reviewed"
+    },
+    "glossary:r_243e0311c6570acf": {
+      "text": "Angeloi",
+      "status": "reviewed"
+    },
+    "glossary:r_935ec42ba5b1e64d": {
+      "text": "Annalotta Stohls",
+      "status": "reviewed"
+    },
+    "glossary:r_f956d624e6737cbf": {
+      "text": "Malloy Direzza",
+      "status": "reviewed"
+    },
+    "glossary:r_d7be337f95ad5fa0": {
+      "text": "Xenity Masse",
+      "status": "reviewed"
+    },
+    "glossary:r_f06314764d836ef9": {
+      "text": "Sazanka Bianca",
+      "status": "reviewed"
+    },
+    "glossary:r_d8c37f097d05906c": {
+      "text": "Traia",
+      "status": "reviewed"
+    },
+    "glossary:r_25050bf77f5f1ccc": {
+      "text": "Sphere",
+      "status": "reviewed"
+    },
+    "glossary:r_7ad379c39f1e7cf1": {
+      "text": "Carlos",
+      "status": "reviewed"
+    },
+    "glossary:r_cee43871f5f4e73b": {
+      "text": "Tân Đế quốc Imperium",
+      "status": "reviewed"
+    },
+    "glossary:r_d94c1ef2a4f0af67": {
+      "text": "Eternity Flat",
+      "status": "reviewed"
+    },
+    "glossary:r_8d5f23ec1f4d1138": {
+      "text": "Cagalli Yula Athha",
+      "status": "reviewed"
+    },
+    "glossary:r_8bc203a0ee3d6f5d": {
+      "text": "McAllen",
+      "status": "reviewed"
+    },
+    "glossary:r_f0c9a25d7157ffa6": {
+      "text": "Richard Henry Mardukas",
+      "status": "reviewed"
+    },
+    "glossary:r_688d0ae082a881d8": {
+      "text": "Gail McAllen",
+      "status": "reviewed"
+    },
+    "glossary:r_e3f9c18f6874ab91": {
+      "text": "Danigan",
+      "status": "reviewed"
+    },
+    "glossary:r_2c3845c70996f834": {
+      "text": "Nguyễn",
+      "status": "reviewed"
+    },
+    "glossary:r_c00960a7b5b6d32d": {
+      "text": "John Howard Danigan",
+      "status": "reviewed"
+    },
+    "glossary:r_ddf71201979a9b45": {
+      "text": "Nguyễn Biên Bội",
+      "status": "reviewed"
+    },
+    "glossary:r_43d7362171753ecf": {
+      "text": "Dana",
+      "status": "reviewed"
+    },
+    "glossary:r_b8a29cbaa3515458": {
+      "text": "Cagalli",
+      "status": "reviewed"
+    },
+    "glossary:r_9ffe50084b826004": {
+      "text": "Kisaka",
+      "status": "reviewed"
+    },
+    "glossary:r_0df2c681c27d5c98": {
+      "text": "Ptolemaios 2 Kai",
+      "status": "reviewed"
+    },
+    "glossary:r_a47f1c18f7a1be27": {
+      "text": "Ian",
+      "status": "reviewed"
+    },
+    "glossary:r_2e1489c770c0a305": {
+      "text": "Lockon Stratos",
+      "status": "reviewed"
+    },
+    "glossary:r_9bbdb84c5b51de57": {
+      "text": "Allelujah",
+      "status": "reviewed"
+    },
+    "glossary:r_048ba872e7e0de9a": {
+      "text": "Marie",
+      "status": "reviewed"
+    },
+    "glossary:r_da7d6ab1b0a6cc24": {
+      "text": "Tieria",
+      "status": "reviewed"
+    },
+    "glossary:r_4c98035bd627252b": {
+      "text": "Veda",
+      "status": "reviewed"
+    },
+    "glossary:r_c10b10668169ad47": {
+      "text": "Sumeragi",
+      "status": "reviewed"
+    },
+    "glossary:r_0460f9ae8fcddb06": {
+      "text": "Advent",
+      "status": "reviewed"
+    },
+    "glossary:r_7dd93900197a48bf": {
+      "text": "Tàu mẹ du hành vũ trụ Celestial Being",
+      "status": "reviewed"
+    },
+    "glossary:r_64f1e1290023106c": {
+      "text": "Haro xanh",
+      "status": "reviewed"
+    },
+    "glossary:r_257c37c0429fa650": {
+      "text": "Mileina",
+      "status": "reviewed"
+    },
+    "glossary:r_b3e3fa31c0163f66": {
+      "text": "Lasse",
+      "status": "reviewed"
+    },
+    "glossary:r_e595aae8c5882bb4": {
+      "text": "Feldt",
+      "status": "reviewed"
+    },
+    "glossary:r_c413511665f14ab7": {
+      "text": "Diosc",
+      "status": "reviewed"
+    },
+    "glossary:r_a98afc9adf9320cd": {
+      "text": "Đảo Merida",
+      "status": "reviewed"
+    },
+    "glossary:r_ec0cdbe340d243d8": {
+      "text": "Traia Scott",
+      "status": "reviewed"
+    },
+    "glossary:r_2fa502f0be9d6893": {
+      "text": "Norman",
+      "status": "reviewed"
+    },
+    "glossary:r_8bc69be29deb3714": {
+      "text": "Norman Burg",
+      "status": "reviewed"
+    },
+    "glossary:r_bc889d11c4455199": {
+      "text": "Beck",
+      "status": "reviewed"
+    },
+    "glossary:r_2cc895da0e5256ad": {
+      "text": "Jason Beck",
+      "status": "reviewed"
+    },
+    "glossary:r_9ed66d4367e80e03": {
+      "text": "Angel",
+      "status": "reviewed"
+    },
+    "glossary:r_cd22211eaede9668": {
+      "text": "Asclepus",
+      "status": "reviewed"
+    },
+    "glossary:r_4c0339c88832bd13": {
+      "text": "Gadlight Meonsam",
+      "status": "reviewed"
+    },
+    "glossary:r_e9b1c721af98123f": {
+      "text": "Dastun",
+      "status": "reviewed"
+    },
+    "glossary:r_a90afbe161a40812": {
+      "text": "Schwarz",
+      "status": "reviewed"
+    },
+    "glossary:r_18f80cec6ca46a35": {
+      "text": "Gordon",
+      "status": "reviewed"
+    },
+    "glossary:r_94dba5f02124bceb": {
+      "text": "Metropolis",
+      "status": "reviewed"
+    },
+    "glossary:r_4a2e2eec2676dd12": {
+      "text": "Schwarzwald",
+      "status": "reviewed"
+    },
+    "glossary:r_02b7e843a868076b": {
+      "text": "Roger Smith",
+      "status": "reviewed"
+    },
+    "glossary:r_64936b1b9d242b7b": {
+      "text": "R. Dorothy Wayneright",
+      "status": "reviewed"
+    },
+    "glossary:r_dc893d42b4a6f66a": {
+      "text": "Big O",
+      "status": "reviewed"
+    },
+    "glossary:r_54292366b7c9dd79": {
+      "text": "Dove",
+      "status": "reviewed"
+    },
+    "glossary:r_f8dabcc67e1b4cc7": {
+      "text": "T-Bone",
+      "status": "reviewed"
+    },
+    "glossary:r_30fef38a4711097b": {
+      "text": "Beck Victory Deluxe",
+      "status": "reviewed"
+    },
+    "glossary:r_06643bfb354a2e35": {
+      "text": "Uther",
+      "status": "reviewed"
+    },
+    "glossary:r_6856b90cb42725aa": {
+      "text": "Gaiou",
+      "status": "reviewed"
+    },
+    "glossary:r_2297bea0b0809529": {
+      "text": "Sphere Reactor",
+      "status": "reviewed"
+    },
+    "glossary:r_5d3fda44e3537116": {
+      "text": "Gordon Rosewater",
+      "status": "reviewed"
+    },
+    "glossary:r_57f7975cb793bf55": {
+      "text": "Hồ sơ Akashic",
+      "status": "reviewed"
+    },
+    "glossary:r_47ca0c51f435e8f8": {
+      "text": "Mail",
+      "status": "reviewed"
+    },
+    "glossary:r_19d3f33e35003367": {
+      "text": "Esther",
+      "status": "reviewed"
+    },
+    "glossary:r_afca96bfc6ba8802": {
+      "text": "Invader",
+      "status": "reviewed"
+    },
+    "glossary:r_c978725f4969f0ed": {
+      "text": "Shin Getter Dragon",
+      "status": "reviewed"
+    },
+    "glossary:r_f1329182803ddf82": {
+      "text": "Baal",
+      "status": "reviewed"
+    },
+    "glossary:r_fa7a4bdf7bf4f3b1": {
+      "text": "Black Getter",
+      "status": "reviewed"
+    },
+    "glossary:r_b05fa6fa8179f138": {
+      "text": "Space King Kittan",
+      "status": "reviewed"
+    },
+    "glossary:r_d57102a6ac1757d3": {
+      "text": "Space Yoko W-Tank",
+      "status": "reviewed"
+    },
+    "glossary:r_83c2fe97d7bfa463": {
+      "text": "Yomako",
+      "status": "reviewed"
+    },
+    "glossary:r_af08a8c697e38ed3": {
+      "text": "Barueyoruzuru",
+      "status": "reviewed"
+    },
+    "glossary:r_401d94ebe0603676": {
+      "text": "Noriko",
+      "status": "reviewed"
+    },
+    "glossary:r_db4b4cdb6d68d9a8": {
+      "text": "Gunbuster",
+      "status": "reviewed"
+    },
+    "glossary:r_d7a0af8f70dcbb39": {
+      "text": "Noriko Takaya",
+      "status": "reviewed"
+    },
+    "glossary:r_7517473cd9836a11": {
+      "text": "STMC",
+      "status": "reviewed"
+    },
+    "glossary:r_290564e8ef5925b8": {
+      "text": "Geminia",
+      "status": "reviewed"
+    },
+    "glossary:r_e688a7b00af0ec47": {
+      "text": "Insaraum",
+      "status": "reviewed"
+    },
+    "glossary:r_327befbfa3c7e40e": {
+      "text": "Gian phòng Hoàng Hôn",
+      "status": "reviewed"
+    },
+    "glossary:r_36535025520977f4": {
+      "text": "Thanh kiếm Akasha",
+      "status": "reviewed"
+    },
+    "glossary:r_f9c313bb53e3607c": {
+      "text": "Tetsujin 28",
+      "status": "reviewed"
+    },
+    "glossary:r_f92884ca33a6fcfb": {
+      "text": "Grace",
+      "status": "reviewed"
+    },
+    "glossary:r_990609fe35d4c6cf": {
+      "text": "Junius Seven",
+      "status": "reviewed"
+    },
+    "glossary:r_1ecc6106b5752ea5": {
+      "text": "Sazabi",
+      "status": "reviewed"
+    },
+    "glossary:r_ba665cae80b5fbf8": {
+      "text": "Mishima",
+      "status": "reviewed"
+    },
+    "glossary:r_19173787f3a11da8": {
+      "text": "Afura Gnis",
+      "status": "reviewed"
+    },
+    "glossary:r_6e908e0e56d7e5ec": {
+      "text": "Meyrin",
+      "status": "reviewed"
+    },
+    "glossary:r_7a4108bccd2b1c3f": {
+      "text": "Waltfeld",
+      "status": "reviewed"
+    },
+    "glossary:r_3a684beef30122d5": {
+      "text": "Patrick Zala",
+      "status": "reviewed"
+    },
+    "glossary:r_f7c02705781badf7": {
+      "text": "Izumo Kamurogi",
+      "status": "reviewed"
+    },
+    "glossary:r_c4a44502e50a2d85": {
+      "text": "Dearka",
+      "status": "reviewed"
+    },
+    "glossary:r_05f127446ae5d965": {
+      "text": "Yzak",
+      "status": "reviewed"
+    },
+    "glossary:r_b322845e1ac67a4c": {
+      "text": "Liên minh Trái Đất",
+      "status": "reviewed"
+    },
+    "glossary:r_a440033e5525b166": {
+      "text": "Bom chấn động thời không",
+      "status": "reviewed"
+    },
+    "glossary:r_d771982521b3c45a": {
+      "text": "Momoi",
+      "status": "reviewed"
+    },
+    "glossary:r_cf82e816a8bb33b9": {
+      "text": "Eijiro Sakurada",
+      "status": "reviewed"
+    },
+    "glossary:r_8c968a2dc625d480": {
+      "text": "Touhachirou Kinoshita",
+      "status": "reviewed"
+    },
+    "glossary:r_78f3c8de701b64cb": {
+      "text": "Domeki",
+      "status": "reviewed"
+    },
+    "glossary:r_08cdf5e07e533979": {
+      "text": "Gabarnium",
+      "status": "reviewed"
+    },
+    "glossary:r_30be9a437f966813": {
+      "text": "Ruu Riruri",
+      "status": "reviewed"
+    },
+    "glossary:r_9d87770a01b236e5": {
+      "text": "Anti-Spiral",
+      "status": "reviewed"
+    },
+    "glossary:r_395792874f4c03ac": {
+      "text": "Anti-Spiral",
+      "status": "reviewed"
+    },
+    "glossary:r_1713d6e782a5fca2": {
+      "text": "Kinon",
+      "status": "reviewed"
+    },
+    "glossary:r_18f51cb558184649": {
+      "text": "Thành phố Kamina",
+      "status": "reviewed"
+    },
+    "glossary:r_ec8e13097424f361": {
+      "text": "Kiyoh",
+      "status": "reviewed"
+    },
+    "glossary:r_828b31638548ac94": {
+      "text": "Anne",
+      "status": "reviewed"
+    },
+    "glossary:r_f228e58ef09c266d": {
+      "text": "Dayakka",
+      "status": "reviewed"
+    },
+    "glossary:r_01cf974a77bb676e": {
+      "text": "Kiyal",
+      "status": "reviewed"
+    },
+    "glossary:r_ad997c0c7c7e7f6b": {
+      "text": "Guinble",
+      "status": "reviewed"
+    },
+    "glossary:r_df49353d49a78f3a": {
+      "text": "Cybela",
+      "status": "reviewed"
+    },
+    "glossary:r_4df1f99ebb4ee1d4": {
+      "text": "Shiro",
+      "status": "reviewed"
+    },
+    "glossary:r_b34aa0fcf32ba658": {
+      "text": "Ankokuji",
+      "status": "reviewed"
+    },
+    "glossary:r_7ab03103c3a84485": {
+      "text": "Gamia Q",
+      "status": "reviewed"
+    },
+    "glossary:r_879673305c190735": {
+      "text": "Wraith",
+      "status": "reviewed"
+    },
+    "glossary:r_0a67f2c911abc52f": {
+      "text": "Helmajistan",
+      "status": "reviewed"
+    },
+    "glossary:r_8a216998a5f36416": {
+      "text": "Krugis",
+      "status": "reviewed"
+    },
+    "glossary:r_83a12d6ee23b6c43": {
+      "text": "KPSA",
+      "status": "reviewed"
+    },
+    "glossary:r_bc0c12d38a48f345": {
+      "text": "Xingke",
+      "status": "reviewed"
+    },
+    "glossary:r_6382482b07f2c375": {
+      "text": "Li Xingke",
+      "status": "reviewed"
+    },
+    "glossary:r_d328f243257701fc": {
+      "text": "Hallelujah",
+      "status": "reviewed"
+    },
+    "glossary:r_880a22e7472dd7b4": {
+      "text": "Yu Fan",
+      "status": "reviewed"
+    },
+    "glossary:r_c920f2ec2c95a842": {
+      "text": "Yu Lan",
+      "status": "reviewed"
+    },
+    "glossary:r_26d824ebe19d50a2": {
+      "text": "Zaied",
+      "status": "reviewed"
+    },
+    "glossary:r_a3f1531bea50ce76": {
+      "text": "Innovade",
+      "status": "reviewed"
+    },
+    "glossary:r_5eabdc71f48e0742": {
+      "text": "Peries",
+      "status": "reviewed"
+    },
+    "glossary:r_236a15b49fcf96d8": {
+      "text": "Soma Peries",
+      "status": "reviewed"
+    },
+    "glossary:r_1f7890501c337510": {
+      "text": "Clouseau",
+      "status": "reviewed"
+    },
+    "glossary:r_eb82e5a3dc22cd88": {
+      "text": "Gates",
+      "status": "reviewed"
+    },
+    "glossary:r_98f96756f5c42a23": {
+      "text": "Belfangan Clouseau",
+      "status": "reviewed"
+    },
+    "glossary:r_037181665e886d7b": {
+      "text": "Xia Yu Fan",
+      "status": "reviewed"
+    },
+    "glossary:r_630f001de8c7b480": {
+      "text": "Allelujah Haptism",
+      "status": "reviewed"
+    },
+    "glossary:r_e84838af8a6d1b54": {
+      "text": "Allegium",
+      "status": "reviewed"
+    },
+    "glossary:r_82d49723e820101f": {
+      "text": "Burglarydog",
+      "status": "reviewed"
+    },
+    "glossary:r_7e89b0eed4a015e7": {
+      "text": "Noskowitz",
+      "status": "reviewed"
+    },
+    "glossary:r_9267af85d23d9a13": {
+      "text": "Guno",
+      "status": "reviewed"
+    },
+    "glossary:r_3add69782bb0cfc6": {
+      "text": "Giáo hoàng",
+      "status": "reviewed"
+    },
+    "glossary:r_4da11ac4124ed581": {
+      "text": "Rochina",
+      "status": "reviewed"
+    },
+    "glossary:r_df3a428824f3c3ff": {
+      "text": "Vô thức tập thể",
+      "status": "reviewed"
+    },
+    "glossary:r_ebc2a558f3d74c8a": {
+      "text": "Giáo đoàn Geass",
+      "status": "reviewed"
+    },
+    "glossary:r_e036fb71de01904a": {
+      "text": "Sally",
+      "status": "reviewed"
+    },
+    "glossary:r_b9b141c034129e9d": {
+      "text": "Sally Po",
+      "status": "reviewed"
+    },
+    "glossary:r_8335afa0edff50a8": {
+      "text": "Hunter",
+      "status": "reviewed"
+    },
+    "glossary:r_dc2fec73d3d83d51": {
+      "text": "Gavin Hunter",
+      "status": "reviewed"
+    },
+    "glossary:r_21d8ccde415e2c10": {
+      "text": "Leonard",
+      "status": "reviewed"
+    },
+    "glossary:r_4ff3ac6d7ad7f4b1": {
+      "text": "Leonard Testarossa",
+      "status": "reviewed"
+    },
+    "glossary:r_06e2181502d6bec0": {
+      "text": "Alastor",
+      "status": "reviewed"
+    },
+    "glossary:r_9ae173a420abc9ce": {
+      "text": "Amit",
+      "status": "reviewed"
+    },
+    "glossary:r_d984ed69e1da2b82": {
+      "text": "Mallory",
+      "status": "reviewed"
+    },
+    "glossary:r_f201d2542726286a": {
+      "text": "Borda",
+      "status": "reviewed"
+    },
+    "glossary:r_67196317631c07be": {
+      "text": "Hội nghị Copernicus",
+      "status": "reviewed"
+    },
+    "glossary:r_e93ec7f7812509c5": {
+      "text": "Marguerite",
+      "status": "reviewed"
+    },
+    "glossary:r_73e5178e7594adc9": {
+      "text": "ZONE",
+      "status": "reviewed"
+    },
+    "glossary:r_b177b5e8d67eca46": {
+      "text": "Ambrone Zius",
+      "status": "reviewed"
+    },
+    "glossary:r_0fc1b75828acf462": {
+      "text": "Wing Gundam Zero",
+      "status": "reviewed"
+    },
+    "glossary:r_4c82e708a7316630": {
+      "text": "King",
+      "status": "reviewed"
+    },
+    "glossary:r_ba86449ae511eb68": {
+      "text": "Queen",
+      "status": "reviewed"
+    },
+    "glossary:r_ef489028421bfa6b": {
+      "text": "Okiku",
+      "status": "reviewed"
+    },
+    "glossary:r_f9bc90d24fa59a4d": {
+      "text": "Django",
+      "status": "reviewed"
+    },
+    "glossary:r_0fe000ecc2682de4": {
+      "text": "Pen-Pen",
+      "status": "reviewed"
+    },
+    "glossary:r_f46179ece2b0c099": {
+      "text": "Sensei",
+      "status": "reviewed"
+    },
+    "glossary:r_6147f65137368831": {
+      "text": "Ren",
+      "status": "reviewed"
+    },
+    "glossary:r_bb058eeeda9dafcb": {
+      "text": "Ren Mikihara",
+      "status": "reviewed"
+    },
+    "glossary:r_b6c79a68d0e496e0": {
+      "text": "Sewashi",
+      "status": "reviewed"
+    },
+    "glossary:r_2f4de4c91e757fee": {
+      "text": "Nossori",
+      "status": "reviewed"
+    },
+    "glossary:r_7b22587f8c2fa404": {
+      "text": "Morimori",
+      "status": "reviewed"
+    },
+    "glossary:r_84b1088c8cb21d5e": {
+      "text": "Hades",
+      "status": "reviewed"
+    },
+    "glossary:r_f75c2fc4caa83040": {
+      "text": "Thần Mycenae",
+      "status": "reviewed"
+    },
+    "glossary:r_aaed828108517e57": {
+      "text": "Garada K7",
+      "status": "reviewed"
+    },
+    "glossary:r_a9df62184aabac30": {
+      "text": "Doublas M2",
+      "status": "reviewed"
+    },
+    "glossary:r_c7054a1f41ed99aa": {
+      "text": "Origin Law",
+      "status": "reviewed"
+    },
+    "glossary:r_e9ab4efe50d1f8fc": {
+      "text": "Gai",
+      "status": "reviewed"
+    },
+    "glossary:r_71a2aab517c29677": {
+      "text": "Benkei Kuruma",
+      "status": "reviewed"
+    },
+    "glossary:r_34c8e57a6ae89351": {
+      "text": "Garadoubla",
+      "status": "reviewed"
+    },
+    "glossary:r_daa4e4eee24f1ece": {
+      "text": "Dũng sĩ Garadoubla",
+      "status": "reviewed"
+    }
+  }
+}

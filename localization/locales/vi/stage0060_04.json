@@ -1,0 +1,818 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0060_04:r_caaab7bad760e16d": {
+      "text": "$$ダンカン$$\n「Đến rồi sao, $c!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_99b162aa6aa286a2": {
+      "text": "$$Ｆ．Ｓ．$$\n「Hoàng tử $$グーラ$$ đang ở đâu?」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_58fb02434a1c40b2": {
+      "text": "$$田中司令$$\n「Cậu ta đã rời $$ドラゴンズハイヴ$$,\n　từ đó đến nay không rõ tung tích.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_1c0f94acd5a8a143": {
+      "text": "$$正太郎$$\n（$$グーラ$$... cậu...）",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_1263541f4071624e": {
+      "text": "$$マッキー$$\n「$$正太郎$$...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_3bc300bbdc277d82": {
+      "text": "$$敷島$$\n「Quân đoàn của $$宇宙魔王#pilot$$ đã bắt đầu dốc sức xâm lược,\n　chúng ta cũng phải quyết tâm nghênh chiến.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_38762a09460d8b6b": {
+      "text": "$$敷島$$\n「$$正太郎$$... $$鉄人$$ và $$オックス$$ đã được đại tu,\n　mọi năng lực đều tăng lên.\n　Bác trông cậy vào cháu đấy.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_7ab28e70b4d4f641": {
+      "text": "$$正太郎$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$ミサト$$\n「$$正太郎$$, nếu em không thể chiến đấu thì...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_ec335e69f984b8b3": {
+      "text": "$$正太郎$$\n「Em không sao, chị $$ミサト$$.\n　Nếu $$グーラ$$ không chịu thay đổi suy nghĩ,\n　em sẽ chiến đấu vì hòa bình của Trái Đất.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_0abcaf0c31978670": {
+      "text": "$$ワッ太$$\n「$$正太郎$$...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_1d6bc48b7f246730": {
+      "text": "$$タケル$$\n「Em chắc chứ?」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_1af20fccc3c53cfc": {
+      "text": "$$正太郎$$\n「Vâng...!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_f951916061232dcd": {
+      "text": "$$ダンカン$$\n「Tên $$金田正太郎$$...!\n　Ngươi giả làm bạn của điện hạ $$グーラ$$,\n　ta, $$ダンカン$$, sẽ hạ ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_4d863c3fb88a4c39": {
+      "text": "$$正太郎$$\n（$$グーラ$$...!\n　Mình là thành viên của $c, đội quân bảo vệ Trái Đất!）",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_44f4742c3dcce39a": {
+      "text": "$$正太郎$$\n（Nếu cậu nhắm đến Trái Đất,\n　mình sẽ không do dự chiến đấu đâu!）",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_9e701cdeb3842c21": {
+      "text": "$$ブラックオックス#pilot$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_6fd81f4abebe60c5": {
+      "text": "$$ダンカン$$\n「Không hổ là $c, mạnh nhất Trái Đất!\n　Các ngươi khá lắm!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_da2132b5038ec737": {
+      "text": "$$グーラ$$\n「Có vẻ ngươi đang khổ chiến nhỉ, $$ダンカン$$.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_495d61d3ec7e16f2": {
+      "text": "$$ダンカン$$\n「Ồ, điện hạ $$グーラ$$.\n　Người đã trở về rồi.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_5cd353758cfe474d": {
+      "text": "$$グーラ$$\n「Đưa $$スペースロボ$$ của ta ra.\n　Ta sẽ tự tay chôn vùi $$鉄人$$ và $c.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_a653c8dec4c0f06f": {
+      "text": "$$ダンカン$$\n「Thần tuân lệnh.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_86d493e37a9799a7": {
+      "text": "$$正太郎$$\n「$$スペースロボ$$ kia!\n　Là của $$グーラ$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_09d0fcc600cdd3df": {
+      "text": "$$グーラ$$\n「Đúng vậy, $$正太郎$$.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_182faded068c15ed": {
+      "text": "$$グーラ$$\n「Để trả ơn các ngươi đã làm ta phí một ngày quý giá,\n　ta sẽ tự tay nghiền nát các ngươi.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_9c206d19bfda4bd5": {
+      "text": "???\n「Quyết tâm tốt lắm, con trai ta, $$グーラ$$.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_6e558bc69acf5bf3": {
+      "text": "$$ケンジ$$\n「Giọng nói này...!?」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_d60d0818e965232f": {
+      "text": "$$タケル$$\n「$$宇宙魔王#pilot$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_5b23687574286204": {
+      "text": "$$宇宙魔王#pilot$$\n「Hỡi người Trái Đất.\n　Các ngươi vẫn tiếp tục kháng cự vô ích sao.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_6fd86c96891ea942": {
+      "text": "$$葵$$\n「Tên đó... lại đưa phân thân tới rồi!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_43e4e548c0b28376": {
+      "text": "$$シモン$$\n「Không cần sợ thứ như thế!\n　Lên nào, mọi người!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_d80a9688790ed583": {
+      "text": "$$宇宙魔王#pilot$$\n「Hỡi người Trái Đất.\n　Các ngươi chưa hiểu sức mạnh của ta.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_708bea61e3c43ada": {
+      "text": "$$宇宙魔王#pilot$$\n「Đây là quà tiễn $$グーラ$$ lên đường.\n　Ta sẽ cho các ngươi thấy một phần sức mạnh của ta.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_7b6f159eeaf4de0f": {
+      "text": "$$隼人$$\n「$$インベーダー#keyword$$ khổng lồ sao!?」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_0827963cfd706e8d": {
+      "text": "$$弁慶$$\n「Tên $$宇宙魔王#pilot$$ đó đã gọi nó đến sao!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$キタン$$\n「Đừng có đùa!\n　Dám gọi con quái vật như thế ngay giữa thành phố!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_3f4035fd9db81258": {
+      "text": "$$ヨーコ$$\n「$$インベーダー#keyword$$ phá hủy mọi thứ trong tầm mắt!\n　Không nhanh lên, Tokyo sẽ thành thành phố chết!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_567b361a454c4b73": {
+      "text": "$$宇宙魔王#pilot$$\n「$$グーラ$$,\n　ta đã khiến con quỷ phá hoại đói khát ấy tuân lệnh con.\n　Hãy dùng nó tiêu diệt chúng.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_d22851aaafbbf8fc": {
+      "text": "$$グーラ$$\n「Con cảm tạ phụ vương.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_352534f64413d954": {
+      "text": "$$正太郎$$\n「Cho $$インベーダー#keyword$$ rút lui đi, $$グーラ$$!\n　Cậu định phá hủy Tokyo sao!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_79f2664edb1af798": {
+      "text": "$$グーラ$$\n「Ta định vậy đấy.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$正太郎$$\n「Nhớ lại đi, $$グーラ$$!\n　Khoảng thời gian chúng mình đã ở bên nhau!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_1c5aa0d15ae24846": {
+      "text": "$$正太郎$$\n「Cậu cũng trân trọng nó,\n　nên mới đến gặp mình, đúng không!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_53bb64ee17750ee2": {
+      "text": "$$グーラ$$\n「Tất cả đều là chuyện quá khứ rồi.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_7a7add80fde475ba": {
+      "text": "$$正太郎$$\n「$$グーラ$$... nếu cậu nhất quyết chiến đấu thì...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_b2befefdbed1393d": {
+      "text": "$$ワッ太$$\n「Đừng, $$正太郎$$!\n　Đến cậu cũng tự dối lòng thì có ích gì!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_2103f6df2ea2e447": {
+      "text": "$$正太郎$$\n「$$ワッ太$$...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_a12e3e130d896ff7": {
+      "text": "$$ブラックオックス#pilot$$\n「!!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_b6f7b219eb4bd64b": {
+      "text": "$$正太郎$$\n「$$オックス$$...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_91bf33c27ad39f0a": {
+      "text": "$$ブラックオックス#pilot$$\n「!!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_ee220318b96ab538": {
+      "text": "$$正太郎$$\n「$$オックス$$...\n　Cậu cũng không muốn chiến đấu với $$グーラ$$ nhỉ...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_ce1b55e526b6277a": {
+      "text": "$$タケル$$\n「Đúng vậy, $$正太郎$$!\n　Nếu cả em và $$グーラ$$ đều tự dối lòng,\n　sẽ chẳng có gì thay đổi!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_c304df6888eb78f7": {
+      "text": "$$甲児$$\n「Em không muốn chiến đấu với $$グーラ$$ mà!\n　Vậy thì hãy giữ vững ý nghĩ đó!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_c26958634526e597": {
+      "text": "$$正太郎$$\n「Nhưng... nhưng mà...!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_cdb750c9d380881a": {
+      "text": "$$竜馬$$\n「Em còn là trẻ con, đừng ôm hết mọi thứ vào mình,\n　$$正太郎$$!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_95fda74613c97b39": {
+      "text": "$$葵$$\n「Chiến binh bảo vệ Trái Đất đâu chỉ có mình em.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_1956994937f8171e": {
+      "text": "$n\n「Tinh thần trách nhiệm của em rất đáng quý.\n　Nhưng hãy dựa vào cả bọn anh nữa.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_48f49f6728c15612": {
+      "text": "$$赤木$$\n「Việc chiến đấu với chúng cứ để bọn anh lo!\n　Em hãy làm bạn với hoàng tử bướng bỉnh đó đi!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$シモン$$\n「Đã làm thì hãy làm hết sức!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_f02c37d91387d0ad": {
+      "text": "$$ワッ太$$\n「$$正太郎$$!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$正太郎$$\n「Ừ!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_9796b3efa401a303": {
+      "text": "$$正太郎$$\n「$$グーラ$$!\n　Mình tuyệt đối không bỏ cuộc!\n　Nhất định sẽ khiến cậu ngừng chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_643b6eebfc0186b3": {
+      "text": "$$グーラ$$\n「Làm suốt cả ngày mà ngươi vẫn chưa hiểu\n　tất cả đều vô ích sao!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_291280e5f7eb9d70": {
+      "text": "$$ノリコ$$\n「Mọi chuyện là thế này, $$グーラ$$!\n　Dù thất bại 100 lần,\n　chỉ cần lần cuối cùng thành công là được!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_32eb462c1b4999cb": {
+      "text": "$$シンジ$$\n「$$正太郎$$!\n　Cùng làm nên lần cuối ấy nào!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_1f4337d6d393fc37": {
+      "text": "$$正太郎$$\n「Vâng!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_4740e748fae085ee": {
+      "text": "$$竜馬$$\n「Nào... đã mạnh miệng với $$正太郎$$ rồi,\n　thì đám xung quanh cứ để chúng ta xử lý.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_b76524cd840e1d37": {
+      "text": "$$ヴィラル$$\n「Ta đang ngứa tay đây.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_730ffe18400abfc2": {
+      "text": "$$シモン$$\n「Cứ thẳng tiến!\n　Dù có gì chắn trước mặt đi nữa!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_ffe0fca26da5cd38": {
+      "text": "$n\n「Lên nào, $$正太郎$$!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_bfb27f9eb2f7073e": {
+      "text": "$$タケル$$\n「Em sẽ là người cứu $$グーラ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_859dfa27bcaafe30": {
+      "text": "$$正太郎$$\n「Vâng!!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_71ebf05996a4b0fd": {
+      "text": "$$ワッ太$$\n「Thấy chưa, $$宇宙魔王#pilot$$!\n　Dù ngươi dùng thủ đoạn gì,\n　chúng ta cũng tuyệt đối không thua!!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_6214c11b1bca811e": {
+      "text": "$$弁慶$$\n「Nhưng đột nhiên dịch chuyển $$インベーダー#keyword$$\n　đến Trái Đất như vậy...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_8eaf6f3098ffed12": {
+      "text": "$$隼人$$\n「$$宇宙魔王#pilot$$...\n　Hắn khác biệt về căn bản so với những kẻ thù\n　chúng ta từng đối đầu.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_cf507214fe955d75": {
+      "text": "$$宇宙魔王#pilot$$\n「Xem ra các ngươi đã hiểu được phần nào sức mạnh của ta.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_2113dcbabdfc758a": {
+      "text": "$$タケル$$\n「$$宇宙魔王#pilot$$!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$宇宙魔王#pilot$$\n「Nhưng các ngươi đã có quá nhiều sức mạnh.\n　Để mặc những kẻ mang $$烙印$$\n　cũng chẳng phải điều có lợi cho ta.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_6a74519e1fc29c4b": {
+      "text": "$$シモン$$\n「$$烙印$$ sao...!?」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_5b992878fee054b5": {
+      "text": "$$宇宙魔王#pilot$$\n「Biến mất đi.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$田中司令$$\n「Không ổn rồi...!\n　Lần này thật sự nguy to rồi!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ＷＩＬＬ$$\n「Xác nhận ranh giới chiều không gian bị bóp méo tại vị trí của hắn!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_20cf167c0ec0d4d5": {
+      "text": "$$Ｆ．Ｓ．$$\n「$$時空震動$$ sao!?」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_b591d812c96c6c99": {
+      "text": "$$ＷＩＬＬ$$\n「Không!\n　Hắn định tạo ra lỗ đen ngay trên mặt đất này!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_e350fa099c1ab072": {
+      "text": "$$ミサト$$\n「Sao cơ!?」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ノリコ$$\n「Làm sao có thể làm được chuyện đó...!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_c33bd700553abf91": {
+      "text": "$$タケル$$\n「$$宇宙魔王#pilot$$ tự xưng là hiện thân của lỗ đen!\n　Cứ thế này thì Tokyo sẽ...!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_feee5c91826230e1": {
+      "text": "$$隼人$$\n「Không chỉ có thế đâu!\n　Cả Trái Đất sẽ bị nuốt chửng!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_bccc48e1964ad22d": {
+      "text": "$$正太郎$$\n「Sao có thể!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_f8736aaaa216c766": {
+      "text": "$$ワッ太$$\n「Vậy hôm nay là ngày cuối cùng của Trái Đất sao!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_d1ec2522c87c361d": {
+      "text": "$$宇宙魔王#pilot$$\n「Đúng vậy, hỡi người Trái Đất.\n　Hãy nếm trải sự bất lực của chính mình đi.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_3599f0a4343fd95c": {
+      "text": "$$宇宙魔王#pilot$$\n「Các ngươi cũng hãy nếm trải nỗi tuyệt vọng\n　mà ta đã chịu đựng 12.000 năm trước.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_3bc7834a5bf3ee76": {
+      "text": "$$グーラ$$\n「Phụ vương!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_366814efdc8b5800": {
+      "text": "$$宇宙魔王#pilot$$\n「$$グーラ$$ à.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_9be1a4c10bb62515": {
+      "text": "$$グーラ$$\n「Xin chờ đã, phụ vương!\n　Con nhất định sẽ thống trị Trái Đất!\n　Xin hãy giao việc xử lý Trái Đất cho con!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_94a88c90e557e16e": {
+      "text": "$$宇宙魔王#pilot$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_1c208ca0cbf26f28": {
+      "text": "$$グーラ$$\n「Con cầu xin phụ vương!\n　Hãy cho con một cơ hội!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_5b7ee307a700171a": {
+      "text": "$$宇宙魔王#pilot$$\n「$$グーラ$$... con thật sự có thể tự mình chiến thắng sao?」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_8d8f065c932da30a": {
+      "text": "$$グーラ$$\n「Con nhất định sẽ làm được!\n　Vì thế xin người tạm thời đừng ra tay!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_f5432119677514f7": {
+      "text": "$$宇宙魔王#pilot$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_4e5c8e989c4a7691": {
+      "text": "$$グーラ$$\n「Con cầu xin người, phụ vương!\n　Phụ vương!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_adec86483b13599a": {
+      "text": "$$宇宙魔王#pilot$$\n「Được thôi.\n　Con đã nói đến thế,\n　thì chỉ lần này ta sẽ giao cho con.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_2cf701bbcde3ec13": {
+      "text": "$$宇宙魔王#pilot$$\n「Cứ thỏa sức mà làm đi.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_c17c58fdba72005e": {
+      "text": "$$グーラ$$\n「Vâng! Con xin cảm tạ!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_1fe8564d2b959317": {
+      "text": "$$宇宙魔王#pilot$$\n「Các ngươi thoát chết rồi đấy, hỡi người Trái Đất.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_f527e012803f7f1c": {
+      "text": "$$正太郎$$\n「$$グーラ$$!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_4b1247bd3ca4905d": {
+      "text": "$$グーラ$$\n「Ngươi đã nghe quyết tâm của ta rồi đấy, $$正太郎$$!\n　Lần tới ta nhất định sẽ đánh bại các ngươi,\n　biến Trái Đất thành của mình!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_00c55e25f87b71d0": {
+      "text": "$$グーラ$$\n「Cứ chờ đến ngày đó đi!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_338f3b27e51dcc41": {
+      "text": "$$スズネ$$\n「Chúng ta... được cứu rồi sao...?」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_d91d4bc2d52b61c4": {
+      "text": "$n\n「Nhưng thế này chẳng khác nào được kẻ thù thương hại!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_0c8ea89b07432421": {
+      "text": "$$ワッ太$$\n「$$グーラ$$... cậu...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_4dbfba00ba7744ee": {
+      "text": "$$タケル$$\n「Cậu nhất quyết muốn tự tay đánh bại chúng tôi sao...?\n　Hay là...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_be100a32b731708d": {
+      "text": "$$正太郎$$\n「Nói cho mình biết đi, $$グーラ$$...\n　Chúng mình thật sự chỉ còn cách chiến đấu sao...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_702f82442fcec8a9": {
+      "text": "$$正太郎$$\n「Mình... phải làm sao đây...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_b1e38da4e8775ffe": {
+      "text": "$$正太郎$$\n「Ngừng chiến đấu đi, $$グーラ$$!\n　Mình không muốn đánh nhau với cậu!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$グーラ$$\n「Vẫn còn nói mớ như thế sao!\n　Bỏ cuộc đi cho rồi!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$グーラ$$\n「Hay ngươi sợ phải chiến đấu với ta?」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_3dad695c99e9e052": {
+      "text": "$$正太郎$$\n「Sao cơ!?」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_66d4ae3a21caf881": {
+      "text": "$$グーラ$$\n「Nếu không sợ thì chiến đấu đi!\n　Đó là điều ta mong muốn!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_0c18da7b3a37825d": {
+      "text": "$$正太郎$$\n「Ư...!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_63249745ffae61b6": {
+      "text": "$$ワッ太$$\n「Đừng vì một lần thất bại mà bỏ cuộc, $$正太郎$$!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_abdb034ae8509702": {
+      "text": "$$タケル$$\n「Đừng từ bỏ hy vọng!\n　Cứ thử bao nhiêu lần cũng được, đến khi tình cảm truyền tới cậu ấy!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_3ff2e21207d1d1d3": {
+      "text": "$$正太郎$$\n「Em hiểu rồi!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_e51ecf6d6aa42e75": {
+      "text": "$$正太郎$$\n「$$グーラ$$!\n　Mình không bỏ cuộc đâu!\n　Mình sẽ gọi cậu bao nhiêu lần cũng được, đến khi cậu ngừng chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_47ddabb7b60131c2": {
+      "text": "$$グーラ$$\n「Tại sao, $$正太郎$$...\n　Tại sao ngươi lại làm đến thế...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_b025267f22788233": {
+      "text": "$$正太郎$$\n「Còn phải hỏi sao!\n　Vì cậu là bạn của mình!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_ec1a06a7023bf72c": {
+      "text": "$$グーラ$$\n「Bạn...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_8805f96e52aaa462": {
+      "text": "$$正太郎$$\n「Nếu một ngày hôm nay chưa đủ để cậu hiểu\n　còn có những điều vui hơn chiến đấu,\n　thì bọn mình sẽ ở bên cậu bao nhiêu ngày cũng được!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_124591cb154fae64": {
+      "text": "$$正太郎$$\n「$$宇宙魔王#pilot$$ có thể là bố cậu,\n　nhưng chẳng có lý do nào\n　bắt cậu phải xâm lược Trái Đất cả!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$グーラ$$\n「Im đi, $$正太郎$$!\n　Đừng xúc phạm phụ vương!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_4bf9b05b5f948170": {
+      "text": "$$正太郎$$\n「$$グーラ$$!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_eaa52d152f444bfd": {
+      "text": "$$グーラ$$\n「Ta sẽ không nghe lời ngươi nữa!\n　Kẻ làm ta dao động như ngươi, ta sẽ hạ ngay tại đây!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_b4bc9e9435b58e6f": {
+      "text": "$$正太郎$$\n「Vậy thì, $$グーラ$$!\n　Mình sẽ tước đi sức mạnh chiến đấu của cậu!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_a9227573166977a9": {
+      "text": "$$ダンカン$$\n「Xin thứ lỗi, điện hạ $$グーラ$$!\n　Ma nhân Tướng quân $$ダンカン$$ xin rút lui!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_b0600ab9a9e8559d": {
+      "text": "$$グーラ$$\n「Người Trái Đất, các ngươi giỏi lắm!\n　Dám làm ô danh $$グーラ・キング・Ｊｒ．$$ này,\n　ta nhất định sẽ bắt các ngươi trả giá!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_7cbc63dad295f862": {
+      "text": "$$正太郎$$\n「$$グーラ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_07f53c816e0a51f5": {
+      "text": "$$グーラ$$\n「$$正太郎$$!\n　Ta và ngươi có số mệnh phải chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_2d09c6f6a2d990ea": {
+      "text": "$$正太郎$$\n「$$グーラ$$... sao cậu không chịu hiểu...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_3c5fcfc484a51913": {
+      "text": "$$グーラ$$\n「Người Trái Đất, các ngươi giỏi lắm!\n　Dám làm ô danh $$グーラ・キング・Ｊｒ．$$ này,\n　ta nhất định sẽ bắt các ngươi trả giá!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_0476ffd10c764b0e": {
+      "text": "$$グーラ$$\n「Cứ rửa cổ chờ ngày đó đi!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$正太郎$$\n「$$グーラ$$...\n　Chúng mình sẽ không thua...!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_2b3479c4cf0680f4": {
+      "text": "$$正太郎$$\n「Nếu cậu nhắm đến Trái Đất, mình sẽ...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_e370696b8936b08c": {
+      "text": "$$グーラ$$\n「Tới đây, $$正太郎$$!\n　Cho ta thấy sức mạnh của $$鉄人$$ mà ngươi tự hào nào!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_9d7b02c5e728b7aa": {
+      "text": "$$正太郎$$\n「$$グーラ$$!\n　Cậu nhất quyết phải chiến đấu sao!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_9af213fc64e0afec": {
+      "text": "$$グーラ$$\n「Giữa ta và ngươi không cần lời nói!\n　Chỉ có chiến đấu thôi!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_d7f1c506e78e55ff": {
+      "text": "$$正太郎$$\n「Thật sự là vậy sao, $$グーラ$$!\n　Mình thấy cậu có vẻ đang do dự mà!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_0c705091f748360e": {
+      "text": "$$グーラ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_9eb8599304125b2f": {
+      "text": "$$正太郎$$\n「Nếu cậu không chịu ngừng chiến đấu,\n　mình sẽ tước đi sức mạnh chiến đấu của cậu!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_a072aa25e5f521e0": {
+      "text": "$$ワッ太$$\n「Thôi đi, $$グーラ$$!\n　Trên đời có biết bao điều vui,\n　sao cậu cứ muốn chiến đấu thế hả!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_24e1a808a1609a1a": {
+      "text": "$$グーラ$$\n「Vì đó là sứ mệnh được giao cho ta!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_53128ce8f154fd06": {
+      "text": "$$ワッ太$$\n「Bỏ quách nó đi!\n　Không còn chiến đấu, chúng ta có thể làm bạn mà!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_03b5db9ce98fb8d6": {
+      "text": "$$グーラ$$\n「Nói nhảm!\n　Ta sẽ xử lý ngươi trước $$正太郎$$!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_3915fb4102f1c1dd": {
+      "text": "$$甲児$$\n「Thế nào!\n　Bánh croquette Rust Hurricane ta làm có ngon không!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_817b2773b4ed563e": {
+      "text": "$$グーラ$$\n「Ta chưa hề ăn thứ đó.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_1cc233cbc8c80af7": {
+      "text": "$$甲児$$\n「Ta hiểu vì sao ngươi không chịu ngừng chiến đấu rồi!\n　Ăn bánh croquette của ta thì ngươi sẽ thấy\n　chuyện chiến đấu thật ngu ngốc!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$グーラ$$\n「Ngây thơ thật đấy.\n　Ngươi nghĩ chiến đấu sẽ chấm dứt vì lý do như thế sao?」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_e180b22d18f48d38": {
+      "text": "$$甲児$$\n「Im đi, $$グーラ$$!\n　Khoan nói đến croquette, nếu ngươi chà đạp tình cảm\n　của $$正太郎$$ thì ta sẽ không tha đâu!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_e598c2a0b27e7f50": {
+      "text": "$$竜馬$$\n「Thằng nhóc!\n　Nếu chỉ biết nghe lệnh cha mình,\n　thì ta cũng không nương tay đâu!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_4d2a9066c4e7b27f": {
+      "text": "$$グーラ$$\n「Xúc phạm sứ mệnh của ta cũng chính là\n　xúc phạm cha ta, $$宇宙魔王#pilot$$!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_10340119af3ed6db": {
+      "text": "$$竜馬$$\n「Thì đã sao!\n　Thằng nhóc núp bóng cha mà ra oai,\n　ta sẽ đánh bay cả hai cha con ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_23a9c7ab620ab112": {
+      "text": "$$葵$$\n「Không hề hứng thú với nhan sắc của tôi,\n　hoàng tử $$グーラ$$ đúng là cứng nhắc thật đấy.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_4f0aca6deda07883": {
+      "text": "$$グーラ$$\n「So với sứ mệnh của ta,\n　những thứ đó chẳng có giá trị gì.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_8fe40600ce62dfbc": {
+      "text": "$$葵$$\n「Dám nói thế cơ à!\n　Xem ra cậu nhóc cứng đầu này cần được dạy dỗ một chút!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_ff4ce5f3cf96b617": {
+      "text": "$$タケル$$\n「Dừng lại, $$グーラ$$!\n　Cứ tiếp tục chiến đấu thế này, không chỉ $$正太郎$$,\n　mà cả cậu cũng sẽ bất hạnh!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_d73c21f119847e35": {
+      "text": "$$グーラ$$\n「Ngươi dùng siêu năng lực để tiên đoán à?」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_89766f5ffaa912d4": {
+      "text": "$$タケル$$\n「Không phải!\n　Tôi đang nói rằng chiến đấu khi lòng còn do dự rất nguy hiểm!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$グーラ$$\n「Tên vô lễ dám soi mói tâm tư người khác!\n　Ngươi muốn chọc giận\n　$$グーラ・キング・Ｊｒ．$$ này đến thế sao!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_451f726d4299ea35": {
+      "text": "$$タケル$$\n「$$グーラ$$...!\n　Nếu cậu nhất quyết chiến đấu,\n　tôi sẽ thay $$正太郎$$ làm đối thủ của cậu!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_e3d111e8bb190cb1": {
+      "text": "$$タケル$$\n「Tôi sẽ không để nỗi buồn lan rộng thêm trong vũ trụ!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$赤木$$\n「Dừng lại, $$グーラ$$!\n　Có rất nhiều người đang sống ở Tokyo đấy!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_ab97c2b2418ea732": {
+      "text": "$$グーラ$$\n「Thì đã sao?\n　Sớm muộn Trái Đất cũng sẽ thuộc về ta.\n　Có thể nói mạng sống của mọi người ở đó đều là của ta.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_2ddff5064af78db4": {
+      "text": "$$赤木$$\n「Cậu thật lòng nói thế sao!\n　Không biết việc gì được làm, việc gì không được làm à!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_050d0532c4b24bfe": {
+      "text": "$$赤木$$\n「Quả nhiên không thể để cậu chiến đấu!\n　Trước khi mọi chuyện không thể cứu vãn,\n　tôi sẽ ngăn cậu lại!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_d583fcea31bdad2e": {
+      "text": "$$シンジ$$\n「Vì sao cậu chiến đấu?」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_475f7653621a91b5": {
+      "text": "$$グーラ$$\n「Câu hỏi ngu ngốc.\n　Vì đó là sứ mệnh phụ vương giao cho ta.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_f228ae702350849b": {
+      "text": "$$シンジ$$\n「Cha mẹ bảo gì cũng nghe theo,\n　dù là chuyện gì đi nữa, như thế thật vô lý!\n　Cậu là chính cậu cơ mà!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_d69dc027cba3003f": {
+      "text": "$$シンジ$$\n「Như thế thật vô lý!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_3c3735172a480b72": {
+      "text": "$$グーラ$$\n「Tên này bị sao vậy...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_1f418b5594cea300": {
+      "text": "$$シモン$$\n「Tới đây!\n　Nếu ngươi không chịu ngừng chiến đấu thì ta sẽ làm đối thủ!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_f87fb889124bfaef": {
+      "text": "$$グーラ$$\n「Đúng ý ta.\n　Ta sẽ xử lý ngươi trước $$正太郎$$.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_79c90de32a79212d": {
+      "text": "$$シモン$$\n「Đừng coi thường ta!\n　Thằng nhóc chỉ biết nghe lệnh cha rồi ra oai\n　mà tưởng thắng nổi ta sao!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_33f7fd55913419e8": {
+      "text": "$$シモン$$\n「Nghiến răng lại đi!\n　Dám chà đạp lòng tốt của $$正太郎$$,\n　ngươi sẽ phải chịu đau một chút đấy!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_473d9a88b4ca96e7": {
+      "text": "$$ノリコ$$\n「Sao em không chịu nghe lời bạn mình!?\n　Em không có bạn sao!?」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_4de6ac85c63bac12": {
+      "text": "$$グーラ$$\n「Bạn...?\n　Ta không cần những thứ đó.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_4c92652c9b1adf6f": {
+      "text": "$$ノリコ$$\n「...Tội nghiệp quá...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_ce90563a934d49fb": {
+      "text": "$$グーラ$$\n「Gì...?」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_4fb296e63cb1fb46": {
+      "text": "$$ノリコ$$\n「Đến ý nghĩa của bạn bè cũng không hiểu...」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$ノリコ$$\n「Không thể để một đứa trẻ như thế chiến đấu!\n　Chị nhất định sẽ ngăn em lại!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_9dc59affd40f32fc": {
+      "text": "$n\n「Xuống khỏi máy đi, $$グーラ$$!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_0cea115be526a319": {
+      "text": "$$グーラ$$\n「Ngươi không có quyền ra lệnh cho ta.」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_d36072babd12aeb4": {
+      "text": "$n\n「Cứ xuống đi đã!\n　Xuống rồi đối mặt với $$正太郎$$!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_09ee921a85025fd3": {
+      "text": "$n\n「Nếu vậy mà cậu vẫn muốn tiếp tục chiến đấu,\n　thì lúc đó tôi sẽ làm đối thủ của cậu!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_fae689f2a1057b61": {
+      "text": "$$グーラ$$\n「Hừ... ngươi coi việc lo chuyện bao đồng\n　là làm tình nguyện sao?」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_91c6d0bb53854ecc": {
+      "text": "$n\n「Không phải, $$グーラ$$!\n　Vì tôi thương hại cậu, kẻ không hiểu giá trị của bạn bè!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_42a3149105314ab8": {
+      "text": "$n\n「$$グーラ$$!\n　Nếu cậu không chịu nghe,\n　tôi sẽ dùng vũ lực lôi cậu ra khỏi buồng lái!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_62ecd978c667bd29": {
+      "text": "$$ダンカン$$\n「$$金田正太郎$$!\n　Ngươi phải tự mình đền tội đã khiến điện hạ $$グーラ$$ dao động!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_d441e6cc908ac01b": {
+      "text": "$$正太郎$$\n「Chính các ngươi đang bắt $$グーラ$$ chiến đấu phải không!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_b2aab8873350ea1f": {
+      "text": "$$正太郎$$\n「Ta không tha đâu!\n　Ta sẽ hạ ngươi rồi khiến $$グーラ$$ ngừng chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_2c7af4c55d8ac938": {
+      "text": "$$正太郎$$\n「Đúng như tiến sĩ nói!\n　$$鉄人$$ và $$オックス$$ đã mạnh lên rồi!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_653b741d07545dff": {
+      "text": "$$ブラックオックス#pilot$$\n「!!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_d584d4b5af55b1cf": {
+      "text": "$$正太郎$$\n「Lên nào, $$鉄人$$! $$オックス$$!\n　Cùng hợp sức bảo vệ Tokyo!!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_db0ee69ece206fcd": {
+      "text": "$$鉄人$$\n「!!」",
+      "status": "reviewed"
+    },
+    "stage0060_04:r_f97e6925c9e37332": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

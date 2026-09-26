@@ -1,0 +1,746 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0007b_04:r_caaab7bad760e16d": {
+      "text": "Lính đánh thuê\n「Vụ này chủ yếu là đánh lạc hướng thôi.\n　Các máy cứ làm qua loa là được.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_99b162aa6aa286a2": {
+      "text": "Lính đánh thuê\n「Cỗ máy đó là gì vậy!\n　Nó đột nhiên xuất hiện!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_58fb02434a1c40b2": {
+      "text": "$n\n「Tiếc cho bọn mày rồi.\n　Với $$ジェニオン$$, tao có thể xuất kích ngay tức khắc.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_1c0f94acd5a8a143": {
+      "text": "$n\n「Cô ơi, mọi thứ vẫn ổn chứ?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_1263541f4071624e": {
+      "text": "$n\n「Cô ơi...?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_3bc300bbdc277d82": {
+      "text": "$$スズネ$$\n「Đừng nhìn sang đây!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_38762a09460d8b6b": {
+      "text": "$n\n「Bộ đồ đó là sao vậy ạ!?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_7ab28e70b4d4f641": {
+      "text": "$$スズネ$$\n「Làm sao cô biết được!\n　Sao lên robot lại phải mặc đồ\n　hở hang thế này chứ!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_b05f6a6e8f3d9b24": {
+      "text": "$n\n「Cô có hỏi em chuyện đó thì...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_ec335e69f984b8b3": {
+      "text": "$$スズネ$$\n「D-dù sao đi nữa!\n　Trước hết phải xử lý tình hình ở đây đã!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_0abcaf0c31978670": {
+      "text": "$n\n「Quarter còn mất một lúc mới tới,\n　nên đến lúc đó chúng ta sẽ bảo vệ thành phố.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_1d6bc48b7f246730": {
+      "text": "$n\n「Cô sẵn sàng chưa ạ!?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_1af20fccc3c53cfc": {
+      "text": "$$スズネ$$\n「Không được!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_f951916061232dcd": {
+      "text": "$n\n「Hả...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_4d863c3fb88a4c39": {
+      "text": "$$スズネ$$\n「Từ giây phút này, chúng ta là cộng sự cùng sống chết!\n　Đừng chỉ gọi là 『cô』, phải gọi tên cô đàng hoàng!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_44f4742c3dcce39a": {
+      "text": "$n\n「Nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_9e701cdeb3842c21": {
+      "text": "$$スズネ$$\n「Không nhưng nhị gì hết!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_6fd81f4abebe60c5": {
+      "text": "$n\n「Em hiểu rồi!\n　Cô... $$スズネ$$!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_da2132b5038ec737": {
+      "text": "$$スズネ$$\n「Tốt lắm!\n　Vậy đi thôi, $n!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_495d61d3ec7e16f2": {
+      "text": "Lính đánh thuê\n「Định dụ đám kia ra,\n　ai ngờ lại câu được một tên khác.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_5cd353758cfe474d": {
+      "text": "Lính đánh thuê\n「Thôi cũng được.\n　Trước mắt cứ chơi đùa với nó chút vậy!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_a653c8dec4c0f06f": {
+      "text": "$n\n（Dù chỉ có một mình, mình cũng sẽ làm được...!\n　Đây là cuộc chiến mình đã chọn...!）",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_86d493e37a9799a7": {
+      "text": "Lính đánh thuê\n「Cỗ máy đó là gì vậy!\n　Nó đột nhiên xuất hiện!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_09d0fcc600cdd3df": {
+      "text": "$n\n「Tiếc cho bọn mày rồi.\n　Với $$ジェニオン$$, tao có thể xuất kích ngay tức khắc.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_182faded068c15ed": {
+      "text": "$n\n「Cô ơi, mọi thứ vẫn ổn chứ?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_9c206d19bfda4bd5": {
+      "text": "$n\n「Cô ơi...?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_6e558bc69acf5bf3": {
+      "text": "$$スズネ$$\n「Đừng nhìn sang đây!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_d60d0818e965232f": {
+      "text": "$n\n「Bộ đồ đó là sao vậy ạ!?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_5b23687574286204": {
+      "text": "$$スズネ$$\n「Làm sao cô biết được!\n　Sao lên robot lại phải mặc đồ\n　hở hang thế này chứ!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_6fd86c96891ea942": {
+      "text": "$n\n「Cô có hỏi em chuyện đó thì...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_43e4e548c0b28376": {
+      "text": "$$スズネ$$\n「D-dù sao đi nữa!\n　Trước hết phải xử lý tình hình ở đây đã!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_d80a9688790ed583": {
+      "text": "$n\n「Quarter còn mất một lúc mới tới,\n　nên đến lúc đó chúng ta sẽ bảo vệ thành phố.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_708bea61e3c43ada": {
+      "text": "$n\n「Cô sẵn sàng chưa ạ!?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_7b6f159eeaf4de0f": {
+      "text": "$$スズネ$$\n「Không được!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_0827963cfd706e8d": {
+      "text": "$n\n「Hả...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$スズネ$$\n「Từ giây phút này, chúng ta là cộng sự cùng sống chết!\n　Đừng chỉ gọi là 『cô』, phải gọi tên cô đàng hoàng!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_3f4035fd9db81258": {
+      "text": "$n\n「Nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_567b361a454c4b73": {
+      "text": "$$スズネ$$\n「Không nhưng nhị gì hết!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_d22851aaafbbf8fc": {
+      "text": "$n\n「Em hiểu rồi!\n　Cô... $$スズネ$$!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_352534f64413d954": {
+      "text": "$$スズネ$$\n「Tốt lắm!\n　Vậy đi thôi, chàng Hiệp sĩ!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_79f2664edb1af798": {
+      "text": "Lính đánh thuê\n「Định dụ đám kia ra,\n　ai ngờ lại câu được một tên khác.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_a62c4e7f3c09f7ed": {
+      "text": "Lính đánh thuê\n「Thôi cũng được.\n　Trước mắt cứ chơi đùa với nó chút vậy!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_1c5aa0d15ae24846": {
+      "text": "$n\n（Dù chỉ có một mình, mình cũng sẽ làm được...!\n　Đây là cuộc chiến mình đã chọn...!）",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_53bb64ee17750ee2": {
+      "text": "$$スズネ$$\n「$n!\n　Đã xác nhận một tàu cỡ chiến hạm đang tới gần!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_7a7add80fde475ba": {
+      "text": "$n\n「Là Quarter sao...!?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_b2befefdbed1393d": {
+      "text": "$$スズネ$$\n「Không!\n　Để xem... đây là chiến hạm của quân Liên bang!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_2103f6df2ea2e447": {
+      "text": "$$レイアム$$\n「Có vẻ là khủng bố, thưa thuyền trưởng.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_a12e3e130d896ff7": {
+      "text": "$$オットー$$\n「Hình như không phải đơn vị chúng ta đang truy đuổi.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_b6f7b219eb4bd64b": {
+      "text": "$$レイアム$$\n「Nhưng chúng ta không thể làm ngơ.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_91bf33c27ad39f0a": {
+      "text": "$$オットー$$\n「Tôi biết!\n　Ra lệnh cho các máy tấn công!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_ee220318b96ab538": {
+      "text": "$$ミヒロ$$\n「Đã rõ.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_ce1b55e526b6277a": {
+      "text": "$$リディ$$\n「$$カミーユ$$, có tín hiệu tấn công rồi.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_c304df6888eb78f7": {
+      "text": "$$カミーユ$$\n「Có vẻ chúng là khủng bố.\n　Chúng ta không thể bỏ mặc được.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_c26958634526e597": {
+      "text": "$$リディ$$\n「Với đối thủ này thì chẳng cần nương tay.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_cdb750c9d380881a": {
+      "text": "$$エマ$$\n「Hình như con robot xanh đó\n　đang chiến đấu với bọn khủng bố...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_95fda74613c97b39": {
+      "text": "$$ミヒロ$$\n「Thông báo tới các máy.\n　Theo thông tin nhận được, con robot xanh đó\n　thuộc Macross Quarter.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_1956994937f8171e": {
+      "text": "$$カツ$$\n「Nghĩa là từ giờ họ sẽ là đồng minh của chúng ta nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_48f49f6728c15612": {
+      "text": "$$エマ$$\n「$$ファ$$,\n　hãy hỗ trợ con robot xanh đó.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ファ$$\n「Rõ!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_f02c37d91387d0ad": {
+      "text": "$$ファ$$\n「Tôi là $$ファ・ユイリィ$$, đang lái $$メタス$$.\n　Tôi sẽ yểm trợ cho các bạn.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$スズネ$$\n「Cảm ơn bạn.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_9796b3efa401a303": {
+      "text": "$n\n「Trang bị khá đặc biệt so với quân Liên bang...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_643b6eebfc0186b3": {
+      "text": "$$エマ$$\n「Chúng tôi là Londo Bell, thuộc quân Liên bang Trái Đất.\n　Chuyện chi tiết sẽ nói sau,\n　nhưng chúng tôi là đồng minh của các bạn.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_291280e5f7eb9d70": {
+      "text": "$$エマ$$\n「Chúng tôi cũng sẽ tham gia đánh chặn bọn khủng bố.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_32eb462c1b4999cb": {
+      "text": "$$オットー$$\n「Các máy bắt đầu tấn công!\n　Cho bọn khủng bố thấy sức mạnh của Londo Bell!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_1f4337d6d393fc37": {
+      "text": "$$ミヒロ$$\n「Đã xác nhận tiêu diệt toàn bộ lực lượng địch.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_4740e748fae085ee": {
+      "text": "$$レイアム$$\n「Tuy nhiên, theo báo cáo của ECOAS đến hiện trường,\n　tất cả phi công đều đã thoát khỏi máy và bỏ trốn.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_b76524cd840e1d37": {
+      "text": "$$オットー$$\n「Đám ECOAS cũng thật đáng thất vọng.\n　Đến một tên cũng không bắt được.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_730ffe18400abfc2": {
+      "text": "$$レイアム$$\n「Có vẻ đối phương đã chuẩn bị rất chu đáo,\n　kể cả việc bảo đảm đường rút lui.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_ffe0fca26da5cd38": {
+      "text": "$$ミヒロ$$\n「Thưa thuyền trưởng, Macross Quarter đã đến.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_bfb27f9eb2f7073e": {
+      "text": "$$ミヒロ$$\n「Lực lượng địch đã rút lui.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_859dfa27bcaafe30": {
+      "text": "$$オットー$$\n「Truy kích!\n　Truyền lệnh cho các máy!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_71ebf05996a4b0fd": {
+      "text": "$$レイアム$$\n「Thưa thuyền trưởng, chúng ta còn nhiệm vụ khác.\n　Hãy để Chi nhánh Viễn Đông lo phần còn lại.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_6214c11b1bca811e": {
+      "text": "$$オットー$$\n「P-phải rồi...\n　Chắc cũng có thể lấy thông tin về chúng\n　từ những phi công bị bắt.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_8eaf6f3098ffed12": {
+      "text": "$$レイアム$$\n「Tuy nhiên, theo báo cáo của ECOAS đến hiện trường,\n　tất cả phi công đều đã thoát khỏi máy và bỏ trốn.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_cf507214fe955d75": {
+      "text": "$$オットー$$\n「Đám ECOAS cũng thật đáng thất vọng.\n　Đến một tên cũng không bắt được.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_2113dcbabdfc758a": {
+      "text": "$$レイアム$$\n「Có vẻ đối phương đã chuẩn bị rất chu đáo,\n　kể cả việc bảo đảm đường rút lui.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ミヒロ$$\n「Thưa thuyền trưởng, Macross Quarter đã đến.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_6a74519e1fc29c4b": {
+      "text": "$$甲児$$\n「Cậu không sao chứ, $n!?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_5b992878fee054b5": {
+      "text": "$n\n「Cũng tạm ổn.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$ワッ太$$\n「Chậc... đã xong hết rồi\n　thì bọn mình đến đây có ý nghĩa gì nữa?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ワッ太$$\n「Khác với mấy người trốn dã ngoại nào đó,\n　em, anh $$宗介$$ và mọi người đang đi chơi dở mà.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_20cf167c0ec0d4d5": {
+      "text": "$$柿小路$$\n「Dù vậy, thưa chủ tịch,\n　mọi chuyện đã xong là nhờ\n　đơn vị quân Liên bang kia chiến đấu đấy ạ.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_b591d812c96c6c99": {
+      "text": "$n\n「Bác giám đốc điều hành nói đúng.\n　Nếu chỉ có tôi thì đã nguy rồi.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_e350fa099c1ab072": {
+      "text": "$$正太郎$$\n「Đúng đấy, $$ワッ太$$.\n　Hơn nữa, anh $$甲児$$ và mọi người ở lại để tuần tra,\n　cậu không nên nói như thế.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$甲児$$\n「À, ừ... đúng vậy.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_c33bd700553abf91": {
+      "text": "$$さやか$$\n「Hôm nay chúng ta... chẳng còn mặt mũi nào\n　gặp $$正太郎$$ và các em ấy nữa...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_feee5c91826230e1": {
+      "text": "$$カミーユ$$\n「Mọi người vẫn như xưa nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_bccc48e1964ad22d": {
+      "text": "$$アルト$$\n「Người lái chiếc mobile suit xanh đó\n　là $$カミーユ$$ sao?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_f8736aaaa216c766": {
+      "text": "$$カミーユ$$\n「Lâu rồi không gặp.\n　Cỗ máy này là $$リゼル$$...\n　Mẫu mới của Anaheim mà tớ đang thử nghiệm.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_d1ec2522c87c361d": {
+      "text": "$$リディ$$\n「Ồ... là bạn cũ của $$カミーユ$$,\n　vậy họ từng là thành viên 《$$ＺＥＸＩＳ$$》 sao.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_3599f0a4343fd95c": {
+      "text": "$$ミヒロ$$\n「Thưa thuyền trưởng $$オットー$$,\n　đã kết nối liên lạc với Macross Quarter.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_3bc7834a5bf3ee76": {
+      "text": "$$レイアム$$\n「Vậy, mời thuyền trưởng...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_366814efdc8b5800": {
+      "text": "$$オットー$$\n「Ờ, ừ...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_9be1a4c10bb62515": {
+      "text": "$$オットー$$\n「Ờ... tôi là đại tá $$オットー・ミタス$$ của $$ネェル・アーガマ$$,\n　thuộc Londo Bell, đơn vị biệt phái độc lập\n　của quân Liên bang Trái Đất.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_94a88c90e557e16e": {
+      "text": "$$オットー$$\n「Chắc cấp trên đã thông báo với các vị,\n　tàu chúng tôi sẽ phối hợp tác chiến với các vị\n　trong phạm vi khí quyển.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_1c208ca0cbf26f28": {
+      "text": "$$ジェフリー$$\n「Tôi là đại tá $$ジェフリー・ワイルダー$$,\n　thuyền trưởng Macross Quarter.\n　Tôi đã nắm được việc đó.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_5b7ee307a700171a": {
+      "text": "$$クルツ$$\n「Gì thế, thuyền trưởng bên kia\n　trông như một ông chú chẳng đáng tin cậy lắm.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_8d8f065c932da30a": {
+      "text": "$$ルカ$$\n「Nhưng em nghe nói Londo Bell\n　là đơn vị tinh nhuệ của quân Liên bang Trái Đất.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_f5432119677514f7": {
+      "text": "$$マオ$$\n「Khoan đã...!\n　Có vẻ cơ hội xem bản lĩnh của họ\n　đến sớm hơn chúng ta tưởng đấy...!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_4e5c8e989c4a7691": {
+      "text": "$$モニカ$$\n「Một lực lượng chưa xác định đang tiến vào khu vực này!\n　Các máy đề cao cảnh giác!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_adec86483b13599a": {
+      "text": "$$宗介$$\n「Mobile suit sao...!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_2cf701bbcde3ec13": {
+      "text": "$$カミーユ$$\n「Có cả $$ギラ・ドーガ$$...!\n　Là đơn vị Neo Zeon đó sao!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_c17c58fdba72005e": {
+      "text": "$$さやか$$\n「Chuyện này là sao!?\n　Neo Zeon chẳng phải thành viên của Liên bang Trái Đất sao!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_1fe8564d2b959317": {
+      "text": "$$クラン$$\n「Không thể nào họ lại triển khai lực lượng\n　ở một nơi như thế này!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_f527e012803f7f1c": {
+      "text": "$$リディ$$\n「Điều không thể ấy đang xảy ra đấy...!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_4b1247bd3ca4905d": {
+      "text": "$$アルト$$\n「Chẳng lẽ...!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_00c55e25f87b71d0": {
+      "text": "$$オズマ$$\n「Neo Zeon định nổi dậy vũ trang\n　chống Liên bang sao...!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_338f3b27e51dcc41": {
+      "text": "$$キャシー$$\n「Thưa thuyền trưởng, chuyện này...!?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_d91d4bc2d52b61c4": {
+      "text": "$$ジェフリー$$\n「Chúng định tấn công chúng ta.\n　Lệnh cho các máy vào tư thế ứng chiến.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_0c8ea89b07432421": {
+      "text": "$$ギュネイ$$\n「...Đúng là kẻ thích những cách vòng vo.\n　Vì thế mà ta phải đến tận Trái Đất này.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_4dbfba00ba7744ee": {
+      "text": "$$ギュネイ$$\n「Nhưng nếu đối thủ là $$ネェル・アーガマ$$ đó,\n　thì lại là chuyện khác.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_be100a32b731708d": {
+      "text": "$$カミーユ$$\n「Cảm giác này...!\n　Chiếc máy tùy chỉnh đi đầu kia\n　là dành cho Người cường hóa sao...!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_702f82442fcec8a9": {
+      "text": "$$ギュネイ$$\n「$$カミーユ・ビダン$$...!\n　Nếu cảm nhận được áp lực của ta,\n　thì hãy làm đối thủ của ta!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_b1e38da4e8775ffe": {
+      "text": "$$レイアム$$\n「Thưa thuyền trưởng, Neo Zeon đã vào thế tấn công.\n　Ngài có chỉ thị gì?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$オットー$$\n「Đương nhiên là đánh chặn!\n　Đó là nhiệm vụ của chúng ta!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$オットー$$\n「Yêu cầu Quarter hỗ trợ nữa!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_3dad695c99e9e052": {
+      "text": "$$レイアム$$\n「Đã rõ.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_66d4ae3a21caf881": {
+      "text": "$$ギュネイ$$\n「Ta tới đây, Londo Bell!\n　Ta sẽ cho các ngươi biết sức mạnh của $$ギュネイ・ガス$$!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_0c18da7b3a37825d": {
+      "text": "$$ミヒロ$$\n「Lực lượng địch đã bị tiêu diệt toàn bộ.\n　Có vẻ cũng không có viện binh.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_63249745ffae61b6": {
+      "text": "$$レイアム$$\n「Với tình hình này, rất có thể Neo Zeon\n　cũng dính líu sau lưng vụ khủng bố trước đó.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_abdb034ae8509702": {
+      "text": "$$オットー$$\n「Bọn Zeon khốn kiếp...!\n　Cuối cùng cũng bắt đầu hành động công khai rồi sao!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_3ff2e21207d1d1d3": {
+      "text": "$$レイアム$$\n「Nhưng chúng chưa tự xưng là Neo Zeon.\n　Cũng có thể thủ phạm là một nhóm\n　đã cướp máy của Neo Zeon.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_e51ecf6d6aa42e75": {
+      "text": "$$レイアム$$\n「Chúng ta chỉ là đơn vị thực thi,\n　nên về việc này đành phải chờ cấp trên phán đoán.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_47ddabb7b60131c2": {
+      "text": "$$オットー$$\n「Ừ, ừm...\n　Vậy nhờ cô soạn báo cáo.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_b025267f22788233": {
+      "text": "$$レイアム$$\n「Đã rõ.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_ec1a06a7023bf72c": {
+      "text": "$$キャシー$$\n「...Liệu vụ này có gây ra rạn nứt không thể hàn gắn\n　giữa Trái Đất và vũ trụ không...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_8805f96e52aaa462": {
+      "text": "$$ジェフリー$$\n「Khó nói lắm...\n　Chỉ ở mức này thì phía Neo Zeon\n　có thể đưa ra vô số lời biện giải.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_124591cb154fae64": {
+      "text": "$$ジェフリー$$\n「Điều chúng muốn biết, ngược lại,\n　chính là phía Liên bang Trái Đất sẽ phản ứng ra sao.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$キャシー$$\n「Vậy thì...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_4bf9b05b5f948170": {
+      "text": "$$ジェフリー$$\n「Ừm...\n　Có lẽ cả $$ネェル・アーガマ$$ lẫn chúng ta\n　đều đã bị cuốn vào màn khiêu khích của Neo Zeon...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_eaa52d152f444bfd": {
+      "text": "$$ギュネイ$$\n「Chậc...!\n　Ta chẳng thể quen nổi cái cảm giác trọng lực này!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_b4bc9e9435b58e6f": {
+      "text": "$$ギュネイ$$\n「Thôi được.\n　Mục đích đã đạt, hôm nay đến đây thôi.\n　Từ lần sau mới là cuộc chiến thực sự.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_a9227573166977a9": {
+      "text": "$$カミーユ$$\n「Tên đó... tại sao lại biết mình...?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_b0600ab9a9e8559d": {
+      "text": "$$カミーユ$$\n（Gì vậy... nỗi bất an cứ lan rộng mãi...）",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_7cbc63dad295f862": {
+      "text": "$$カミーユ$$\n「Cảm giác đó...\n　Tên ấy là Người cường hóa sao...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_07f53c816e0a51f5": {
+      "text": "$$エマ$$\n「Neo Zeon cũng chuẩn bị cả Người cường hóa rồi sao.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_2d09c6f6a2d990ea": {
+      "text": "$$カミーユ$$\n（Cảm giác bồn chồn này là gì...\n　Nỗi bất an cứ lan rộng mãi...）",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_3c5fcfc484a51913": {
+      "text": "$$カミーユ$$\n（Lời nói... vừa thoáng qua trong đầu...?）",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_0476ffd10c764b0e": {
+      "text": "$$リディ$$\n「Sao vậy, $$カミーユ$$?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$カミーユ$$\n「K-không... không có gì...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_2b3479c4cf0680f4": {
+      "text": "$$カミーユ$$\n（Cảm giác vừa rồi... đại úy $$アムロ$$ sao...?\n　Không, cảm giác còn non nớt hơn nhiều...）",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_e370696b8936b08c": {
+      "text": "$$カミーユ$$\n（Gần đây có ai có thể cảm nhận lẫn nhau với mình sao...）",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_9d7b02c5e728b7aa": {
+      "text": "$$スズネ$$\n「$n! K-kẻ địch đến kìa!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_9af213fc64e0afec": {
+      "text": "$n\n「Bình tĩnh lại đi, cô $$スズネ$$.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_d7f1c506e78e55ff": {
+      "text": "$$スズネ$$\n「Nhưng...!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_0c705091f748360e": {
+      "text": "$n\n「Nếu sợ thì cô hãy rời máy.\n　Em sẽ chiến đấu một mình.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_9eb8599304125b2f": {
+      "text": "$$スズネ$$\n「...!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_a072aa25e5f521e0": {
+      "text": "$n\n「Cô không cần ép mình.\n　Không phải chiến đấu đương nhiên vẫn tốt hơn.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_24e1a808a1609a1a": {
+      "text": "$$スズネ$$\n「Xin lỗi em, $n...\n　Cô... chưa đủ quyết tâm...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_53128ce8f154fd06": {
+      "text": "$$スズネ$$\n「Cô... có thể sẽ cản trở em...!\n　Nhưng cô tuyệt đối sẽ không bỏ chạy!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_03b5db9ce98fb8d6": {
+      "text": "$n\n「...Em hiểu rồi.\n　Nhưng em nhất định sẽ bảo vệ cô $$スズネ$$...!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_3915fb4102f1c1dd": {
+      "text": "$$カミーユ$$\n「Thiếu úy $$リディ$$, tôi tấn công đây!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_817b2773b4ed563e": {
+      "text": "$$リディ$$\n「Tôi để cậu chọn thời điểm, $$カミーユ$$.\n　Cậu có nhiều kinh nghiệm thực chiến\n　và lái mobile suit biến hình hơn tôi mà.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_1cc233cbc8c80af7": {
+      "text": "$$カミーユ$$\n「Vậy chúng ta sẽ phối hợp hai chiếc $$リゼル$$...!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$リディ$$\n（Cơ hội đã được trao...!\n　Mình nhất định sẽ tận dụng nó!）",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_e180b22d18f48d38": {
+      "text": "$$カツ$$\n「Lẽ ra chỉ phụ giúp $$カミーユ$$,\n　ai ngờ đột nhiên phải thực chiến thế này...!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_e598c2a0b27e7f50": {
+      "text": "$$エマ$$\n「Đã đến nước này thì hãy quyết tâm lên, $$カツ$$!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_4d2a9066c4e7b27f": {
+      "text": "$$カツ$$\n「Em biết rồi!\n　Đối thủ là ai đi nữa, em cũng sẽ chứng tỏ bản lĩnh!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_10340119af3ed6db": {
+      "text": "$$オットー$$\n「Xuống Trái Đất truy đuổi Neo Zeon,\n　ai ngờ lại phải đánh nhau với khủng bố...」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_23a9c7ab620ab112": {
+      "text": "$$レイアム$$\n「Thưa thuyền trưởng, xin ra chỉ thị trước khi than phiền.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_4f0aca6deda07883": {
+      "text": "$$オットー$$\n「Tôi biết!\n　Londo Bell không thể chịu lép vế\n　trước một đám khủng bố vô danh được!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_8fe40600ce62dfbc": {
+      "text": "$$オットー$$\n「Bọn Neo Zeon khốn kiếp!\n　Dám xuất hiện ngay giữa Tokyo,\n　định tuyên chiến sao!?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_ff4ce5f3cf96b617": {
+      "text": "$$レイアム$$\n「Chưa rõ ý đồ của địch,\n　nhưng chắc chắn đây là\n　một hình thức phô trương nào đó.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_d73c21f119847e35": {
+      "text": "$$オットー$$\n「Vậy thì càng không thể thua!\n　Vì danh dự của Londo Bell!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_89766f5ffaa912d4": {
+      "text": "$$ギュネイ$$\n「Phi công của $$ネェル・アーガマ$$!\n　Ngươi là $$カミーユ・ビダン$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$カミーユ$$\n「Tên này...!\n　Hắn biết mình sao!?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_451f726d4299ea35": {
+      "text": "$$ギュネイ$$\n「Ngươi xui xẻo rồi!\n　Ta sẽ hạ ngươi để chứng minh sức mạnh của mình!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_e3d111e8bb190cb1": {
+      "text": "$$カミーユ$$\n「Ai thèm theo cái lý lẽ ích kỷ đó của ngươi!\n　Chiến tranh không phải trò chơi!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$ギュネイ$$\n「Chiếc Valkyrie khốn kiếp!\n　Cứ bay lượn khoe khoang!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_ab97c2b2418ea732": {
+      "text": "$$アルト$$\n「Không biết ngươi là ai,\n　nhưng đã ra tay trước thì đừng kêu ca khi bị hạ!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_2ddff5064af78db4": {
+      "text": "$$ギュネイ$$\n「Đừng chọc cười ta!\n　Hạng như ngươi mà đòi hạ được ta sao!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_050d0532c4b24bfe": {
+      "text": "$$ギュネイ$$\n「$$ミスリル$$ nổi danh đó\n　lại phối hợp tác chiến với quân Liên bang Trái Đất sao!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_d583fcea31bdad2e": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_475f7653621a91b5": {
+      "text": "$$ギュネイ$$\n「Sao thế...!\n　Sợ áp lực của ta đến mức không nói nổi sao!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_f228ae702350849b": {
+      "text": "$$宗介$$\n「Ta chưa từng gặp người lính nào lắm lời trên chiến trường.\n　Bởi những kẻ đó đều sớm tử trận.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_d69dc027cba3003f": {
+      "text": "$$ギュネイ$$\n「Tên này...!\n　Ngươi muốn chọc giận ta sao!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_3c3735172a480b72": {
+      "text": "$n\n「Tên đó... chuyển động và phản xạ đều khác hẳn\n　những đối thủ mình từng chiến đấu...!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_1f418b5594cea300": {
+      "text": "$$ギュネイ$$\n「Đương nhiên!\n　Bởi đối thủ của ngươi là một Newtype!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_f87fb889124bfaef": {
+      "text": "$n\n「Ta chẳng quan tâm đến danh hiệu của ngươi.」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_79c90de32a79212d": {
+      "text": "$$ギュネイ$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_33f7fd55913419e8": {
+      "text": "$n\n「Dù đối thủ là gì,\n　ta cũng chỉ chiến đấu với kẻ địch đứng trước mặt!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_473d9a88b4ca96e7": {
+      "text": "$$ギュネイ$$\n「Londo Bell, $$ミスリル$$,\n　$$Ｓ．Ｍ．Ｓ$$ của đoàn tàu Frontier và các Super Robot...\n　Đúng là những đối thủ xứng tầm!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_4de6ac85c63bac12": {
+      "text": "$$ギュネイ$$\n「Cứ chờ xem...!\n　Ta sẽ đấu với chúng và chứng tỏ thực lực của mình!」",
+      "status": "reviewed"
+    },
+    "stage0007b_04:r_4c92652c9b1adf6f": {
+      "text": "$n\n「Á!」",
+      "status": "reviewed"
+    }
+  }
+}

@@ -1,0 +1,470 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0003_04:r_caaab7bad760e16d": {
+      "text": "$$マオ$$\n「Các đội đã vào vị trí.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_99b162aa6aa286a2": {
+      "text": "$$オズマ$$\n「Xác nhận lại các đội nào.\n　Đội 1 gồm tôi và $$カナリア$$...」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_58fb02434a1c40b2": {
+      "text": "$$オズマ$$\n「Đội 2 gồm thượng sĩ $$マオ$$ và $$ルカ$$.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_1c0f94acd5a8a143": {
+      "text": "$$マオ$$\n「Bộ đôi tác chiến điện tử nhỉ.\n　Tôi trông cậy vào cậu đấy, $$ルカ$$.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_1263541f4071624e": {
+      "text": "$$ルカ$$\n「Mong được đội phó chỉ bảo.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_3bc300bbdc277d82": {
+      "text": "$$オズマ$$\n「Đội 3 gồm $$ミシェル$$ và $$クラン$$.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_38762a09460d8b6b": {
+      "text": "$$ミシェル$$\n「Vẫn bộ đôi quen thuộc,\n　mong được giúp đỡ nhé, $$クラン$$.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_7ab28e70b4d4f641": {
+      "text": "$$クラン$$\n「À, ừ... Tôi cũng vậy!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$カナリア$$\n（Hừm... Không ngờ $$オズマ$$ cũng khéo sắp xếp thế.）",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_ec335e69f984b8b3": {
+      "text": "$$オズマ$$\n「Đội 4 gồm $n và $$クルツ$$.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_0abcaf0c31978670": {
+      "text": "$$クルツ$$\n「Tưởng vừa thoát được một tên lầm lì,\n　ai ngờ lại gặp một tên lầm lì khác...」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_1d6bc48b7f246730": {
+      "text": "$n\n「...Xin lỗi, trung sĩ $$クルツ$$.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_1af20fccc3c53cfc": {
+      "text": "$$クルツ$$\n「Có gì đâu mà xin lỗi.\n　Tôi là lính bắn tỉa nên sẽ phụ trách hỗ trợ.\n　Cậu lo phần chủ công nhé.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_f951916061232dcd": {
+      "text": "$n\n「Vâng.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_4d863c3fb88a4c39": {
+      "text": "$$クルツ$$\n（Lầm lì thì đúng là lầm lì,\n　nhưng cậu này còn quá căng thẳng nữa...）",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_44f4742c3dcce39a": {
+      "text": "$$オズマ$$\n「Cuối cùng là đội 5.\n　$$アルト$$ và $$宗介$$.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_9e701cdeb3842c21": {
+      "text": "$$アルト$$\n「Đội trưởng, AS tác chiến mặt đất và VF-25\n　có cách chiến đấu khác nhau.\n　Ghép cặp như vậy không thể gọi là hiệu quả được.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_6fd81f4abebe60c5": {
+      "text": "$$マオ$$\n「Đừng phàn nàn nữa.\n　Nói thế thì tôi và $$ルカ$$ cũng vậy thôi.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_da2132b5038ec737": {
+      "text": "$$ルカ$$\n「Đúng là khi ghép máy không chiến với máy mặt đất,\n　máy không chiến phải đánh gần mặt đất,\n　nên không thể phát huy hết sức mạnh.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_495d61d3ec7e16f2": {
+      "text": "$n\n（Ra vậy...\n　Chiến đấu khi không thích ứng với địa hình\n　là rất nguy hiểm...）",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_5cd353758cfe474d": {
+      "text": "$$ルカ$$\n「Nhưng anh $$アルト$$... Chuyển sang dạng Battroid\n　sẽ tăng khả năng thích ứng với mặt đất,\n　nên vấn đề sẽ được giải quyết thôi.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_a653c8dec4c0f06f": {
+      "text": "$$アルト$$\n「Vấn đề không nằm ở đó.\n　Ý tôi là phải tìm chiến thuật hiệu quả hơn...」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_86d493e37a9799a7": {
+      "text": "$$オズマ$$\n「Tôi không nhận câu hỏi nào cả.\n　Hãy đạt chiến quả cao nhất trong hoàn cảnh được giao.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_09d0fcc600cdd3df": {
+      "text": "$$アルト$$\n「Khỉ thật...!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_182faded068c15ed": {
+      "text": "$$宗介$$\n「$$ウルズ$$ 7, rõ.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_9c206d19bfda4bd5": {
+      "text": "$$クラン$$\n「Tên $$アルト$$ đó... Có vẻ rất ghét $$ＳＲＴ$$,\n　nhất là anh chàng $$ウルズ$$ 7 kia.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_6e558bc69acf5bf3": {
+      "text": "$$ミシェル$$\n「Với tính cậu ấy, chắc là bực bội\n　vì không hiểu $$宗介$$ đang nghĩ gì thôi.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_d60d0818e965232f": {
+      "text": "$$ミシェル$$\n「Lần nào cũng vậy, một khi đã có thành kiến\n　thì cậu ấy chẳng còn linh hoạt gì nữa.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_5b23687574286204": {
+      "text": "$$オズマ$$\n「$$キャシー$$, cho các mục tiêu ra đi.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_6fd86c96891ea942": {
+      "text": "$$クルツ$$\n「Mục tiêu là M6 không người lái nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_43e4e548c0b28376": {
+      "text": "$$ミシェル$$\n「Đối thủ cỡ này thì một mình cũng xử lý được.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_d80a9688790ed583": {
+      "text": "$$マオ$$\n「Đừng hiểu lầm.\n　Buổi huấn luyện này là để chuẩn bị cho sau này.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_708bea61e3c43ada": {
+      "text": "$$オズマ$$\n「Đúng vậy. Mỗi đội phải hiểu rõ\n　vai trò chủ công và hỗ trợ,\n　rồi chọn hành động có lợi nhất cho cả đội.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_7b6f159eeaf4de0f": {
+      "text": "$$オズマ$$\n「Ghép cặp trên chiến trường\n　nghĩa là giao lưng mình cho đồng đội bảo vệ.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_0827963cfd706e8d": {
+      "text": "$$アルト$$\n「Vì cả đội...」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$n\n「Giao lưng mình cho đồng đội bảo vệ...」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_3f4035fd9db81258": {
+      "text": "$$オズマ$$\n「Được rồi, bắt đầu huấn luyện.\n　Các đội hãy tấn công mục tiêu không người lái.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_567b361a454c4b73": {
+      "text": "$$オズマ$$\n「Sao rồi, $$アルト$$?\n　Có học được điều gì không?」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_d22851aaafbbf8fc": {
+      "text": "$$アルト$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_352534f64413d954": {
+      "text": "$$オズマ$$\n「Chúng ta là quân nhân.\n　Cùng chiến đấu thì sẽ hiểu được đồng đội.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_79f2664edb1af798": {
+      "text": "$$オズマ$$\n「Nhất là khi cùng bảo vệ lưng cho nhau.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_1c5aa0d15ae24846": {
+      "text": "$$アルト$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_53bb64ee17750ee2": {
+      "text": "$$正太郎$$\n「Đội trưởng $$オズマ$$, có nghe thấy tôi không!?」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_7a7add80fde475ba": {
+      "text": "$$オズマ$$\n「$$正太郎$$ à!\n　Có chuyện gì vậy!?」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_b2befefdbed1393d": {
+      "text": "$$正太郎$$\n「Một đơn vị không rõ thuộc phe nào đang đến chỗ mọi người!\n　Có lẽ chúng là đồng bọn của bọn đã tấn công\n　$$第２新東京市$$ lần trước!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_2103f6df2ea2e447": {
+      "text": "$$オズマ$$\n「Chúng cố tình tìm đến đây tấn công chúng ta sao...!?」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_a12e3e130d896ff7": {
+      "text": "$$ルカ$$\n「Đội trưởng! Chúng tới rồi!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_b6f7b219eb4bd64b": {
+      "text": "$$マオ$$\n「Chậc...!\n　Vậy là chúng ta bị đánh úp rồi!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_91bf33c27ad39f0a": {
+      "text": "$$宗介$$\n「Chặn đứng khí thế của chúng ngay từ đầu...!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_ee220318b96ab538": {
+      "text": "$$アルト$$\n「Cứ để tôi hỗ trợ!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_ce1b55e526b6277a": {
+      "text": "$$ミシェル$$\n「Khá lắm, hai người!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_c304df6888eb78f7": {
+      "text": "$$マオ$$\n「Họ là hai chủ công đáng tự hào\n　của $$ＳＲＴ$$ và $$Ｓ．Ｍ．Ｓ$$ mà.\n　Kết quả đương nhiên thôi.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_c26958634526e597": {
+      "text": "$$オズマ$$\n「$$アルト$$ và $$宗介$$ đều là quân nhân được rèn luyện.\n　Khi vào trận, họ vượt qua những cảm xúc vụn vặt,\n　cơ thể sẽ tự hành động.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_cdb750c9d380881a": {
+      "text": "$$オズマ$$\n「Hẳn chúng cũng đã hiểu mình giống nhau đến mức nào.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_95fda74613c97b39": {
+      "text": "$n\n「...Giỏi thật...」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_1956994937f8171e": {
+      "text": "$$クルツ$$\n「Ngạc nhiên gì vậy, $n?\n　Cậu cũng muốn được như thế mà, đúng không?」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_48f49f6728c15612": {
+      "text": "$$クルツ$$\n「Có điều, khỏi cần học cái tính lầm lì của $$宗介$$ nhé.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$n\n「Vâng...!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_f02c37d91387d0ad": {
+      "text": "$$クルツ$$\n「Được, trả lời hay lắm.\n　Vậy phần chủ công nhờ cậu nhé.\n　Chúng ta không thể thua hai người đó được!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$アルト$$\n「Hừm... Cơ thể tự nhiên hành động luôn.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_9796b3efa401a303": {
+      "text": "$$宗介$$\n「Tôi cũng vậy.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_643b6eebfc0186b3": {
+      "text": "$$アルト$$\n「Từ giờ là thực chiến.\n　Trông cậy vào cậu đấy, $$宗介$$.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_291280e5f7eb9d70": {
+      "text": "$$宗介$$\n「$$ウルズ$$ 7, rõ.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_32eb462c1b4999cb": {
+      "text": "$$ルカ$$\n「$$正太郎$$ cũng tới rồi!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_1f4337d6d393fc37": {
+      "text": "$$正太郎$$\n「Chúng tôi cũng sẽ yểm trợ từ đây, đội trưởng $$オズマ$$!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_4740e748fae085ee": {
+      "text": "$$オズマ$$\n「Tốt...!\n　Skull Leader gọi tất cả các máy!\n　Cho lũ ngu dám tìm đến gây sự phải trả giá nào!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_b76524cd840e1d37": {
+      "text": "$$アルト$$\n「Rõ!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_730ffe18400abfc2": {
+      "text": "$$モニカ$$\n「Xác nhận toàn bộ lực lượng địch đã bị tiêu diệt.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_ffe0fca26da5cd38": {
+      "text": "$$ラム$$\n「Nhưng kẻ địch thật kỳ lạ.\n　Lần trước thì đánh thành phố,\n　lần này lại tìm đến tấn công chúng ta.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_bfb27f9eb2f7073e": {
+      "text": "$$ミーナ#182$$\n「Nghĩa là chúng đã coi chúng ta\n　là chướng ngại của chúng sao?」",
+      "status": "needs_review"
+    },
+    "stage0003_04:r_859dfa27bcaafe30": {
+      "text": "$$ジェフリー$$\n「Nhưng nếu vậy thì lực lượng\n　chúng phái đến lại quá nhỏ.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_71ebf05996a4b0fd": {
+      "text": "$$キャシー$$\n「Liệu mục đích có phải là trinh sát không ạ?」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_6214c11b1bca811e": {
+      "text": "$$ジェフリー$$\n「Nếu vậy, vấn đề là khi nào chúng mới tấn công thật sự...」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_8eaf6f3098ffed12": {
+      "text": "???\n「Vậy là phân tích chiến lực xong rồi...\n　Nhưng bọn này cũng khó nhằn đấy.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_cf507214fe955d75": {
+      "text": "???\n「Có lẽ nên chọn thời điểm ra tay\n　hơn là tập hợp lực lượng để đối đầu trực diện...」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_2113dcbabdfc758a": {
+      "text": "$$オズマ$$\n「Khi hai máy trong đội phối hợp,\n　chúng ta có thể tấn công như thế này.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$オズマ$$\n「Các đội hãy hỗ trợ lẫn nhau,\n　chọn hành động có lợi nhất cho cả đội.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_6a74519e1fc29c4b": {
+      "text": "$$オズマ$$\n「Khi hai máy trong đội phối hợp,\n　chúng ta có thể tấn công như thế kia.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_5b992878fee054b5": {
+      "text": "$$オズマ$$\n「Các đội hãy hỗ trợ lẫn nhau,\n　chọn hành động có lợi nhất cho cả đội.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$カナリア$$\n「Anh nghĩ $$アルト$$ sẽ nhận ra\n　qua buổi huấn luyện này chứ?」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_4a14ec0c511c7f0d": {
+      "text": "$$オズマ$$\n「Nếu không làm được thì vẫn còn non lắm.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_20cf167c0ec0d4d5": {
+      "text": "$$カナリア$$\n「Hừm... Nói gì thì nói,\n　anh vẫn đánh giá cao $$アルト$$ đấy nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_b591d812c96c6c99": {
+      "text": "$$オズマ$$\n「Ai biết được...!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_e350fa099c1ab072": {
+      "text": "$$マオ$$\n「Thật ra ghép hai máy chuyên tác chiến điện tử\n　vào cùng một đội cũng hơi phí.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ルカ$$\n「Lần này là huấn luyện mà, nên tôi sẽ tranh thủ\n　học hỏi cách làm của $$ミスリル$$ ở cự ly gần.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_c33bd700553abf91": {
+      "text": "$$マオ$$\n「Hì hì... $$ルカ$$ đúng là ngoan.\n　Ước gì tên háo sắc và tên mặt lạnh nào đó\n　học được chút đức tính này.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_feee5c91826230e1": {
+      "text": "$$ルカ$$\n「Ơ... chuyện đó...」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_bccc48e1964ad22d": {
+      "text": "$$マオ$$\n「Nào, chị $$マオ$$ và cậu ấm\n　cùng phối hợp tấn công nhé!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_f8736aaaa216c766": {
+      "text": "$$ミシェル$$\n「Tôi với $$クラン$$ thì chẳng cần huấn luyện nữa,\n　vốn đã ăn ý hoàn toàn rồi.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_d1ec2522c87c361d": {
+      "text": "$$クラン$$\n「Ừ! Ừ!!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_3599f0a4343fd95c": {
+      "text": "$$ミシェル$$\n「Nếu được chọn thì tôi muốn ghép với chị $$マオ$$ hơn...」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_3bc7834a5bf3ee76": {
+      "text": "$$クラン$$\n「Cái đồ chẳng bao giờ biết chừa...!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_366814efdc8b5800": {
+      "text": "$$ミシェル$$\n「Ối, dù là huấn luyện, mà không làm nghiêm túc\n　thì đội trưởng sẽ nổi sấm sét mất...!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_9be1a4c10bb62515": {
+      "text": "$$ミシェル$$\n「Nào, đi thôi, $$クラン$$!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_94a88c90e557e16e": {
+      "text": "$$クラン$$\n「Được! Cho mọi người thấy\n　tôi và $$ミシェル$$ phối hợp ăn ý thế nào!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_1c208ca0cbf26f28": {
+      "text": "$$クルツ$$\n「Cậu đang bị $$ジェニオン$$ dắt mũi đấy, $n!\n　Cứ chạy loạn như thế chỉ vướng chân thôi!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_5b7ee307a700171a": {
+      "text": "$n\n「Nhưng...!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_8d8f065c932da30a": {
+      "text": "$$クルツ$$\n（Toàn nhiệt tình mà chẳng đi đến đâu.\n　Có lẽ cậu này cần người ở bên\n　giám sát và giữ dây cương...）",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_f5432119677514f7": {
+      "text": "$$アルト$$\n「...Sao tôi lại phải ghép với cái tên này chứ...」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_4e5c8e989c4a7691": {
+      "text": "$$宗介$$\n「Đừng nói chuyện thừa khi chiến đấu.\n　Sẽ chết đấy.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_adec86483b13599a": {
+      "text": "$$アルト$$\n「Huấn luyện thôi thì chết sao được!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_2cf701bbcde3ec13": {
+      "text": "$$宗介$$\n「Kẻ không dốc hết sức khi huấn luyện\n　thì cũng chẳng thể dốc hết sức trên chiến trường.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_c17c58fdba72005e": {
+      "text": "$$アルト$$\n「Phải, cậu nói đúng hết!\n　Vậy tôi sẽ cho cậu thấy toàn bộ sức mạnh của tôi!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_1fe8564d2b959317": {
+      "text": "$n\n「Anh $$クルツ$$, nhờ anh yểm trợ!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_f527e012803f7f1c": {
+      "text": "$$クルツ$$\n「Được ngay!\n　Chuyện đó là sở trường của lính bắn tỉa mà!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_4b1247bd3ca4905d": {
+      "text": "$$クルツ$$\n（Nhờ $$宗介$$ và $$アルト$$,\n　có vẻ cậu này cũng chịu dựa vào người khác một chút rồi.）",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_00c55e25f87b71d0": {
+      "text": "$$クルツ$$\n（Đúng là kế hoạch của $$オズマ・リー$$ dữ như quỷ.\n　Có lẽ mình nên bớt tán tỉnh trung úy $$キャシー$$ đi...）",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_338f3b27e51dcc41": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_d91d4bc2d52b61c4": {
+      "text": "$$アルト$$\n「Không cần nói, tôi cũng biết cậu đang nghĩ gì.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_0c8ea89b07432421": {
+      "text": "$$宗介$$\n「Vậy à...」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_4dbfba00ba7744ee": {
+      "text": "$$アルト$$\n「Đi thôi, $$宗介$$...!\n　Dọn sạch chúng nào!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_be100a32b731708d": {
+      "text": "$$正太郎$$\n「Mọi người đều đã thành thạo cách chiến đấu theo cặp rồi.」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_702f82442fcec8a9": {
+      "text": "$$正太郎$$\n「Nào, $$オックス$$!\n　Phối hợp với $$鉄人$$ đánh bại kẻ địch thôi!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_b1e38da4e8775ffe": {
+      "text": "$$ブラックオックス#pilot$$\n「!!」",
+      "status": "reviewed"
+    },
+    "stage0003_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

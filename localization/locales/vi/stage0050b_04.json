@@ -1,0 +1,282 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0050b_04:r_caaab7bad760e16d": {
+      "text": "$$モーム$$\n「Nhìn kìa, cậu chủ $$桂$$!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_99b162aa6aa286a2": {
+      "text": "$$桂$$\n「UG...!\n　...Không, là Geminis!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_58fb02434a1c40b2": {
+      "text": "$$甲児$$\n「Tên $$アドヴェント$$ đó cũng là đồng bọn của Geminis sao!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_1c0f94acd5a8a143": {
+      "text": "$$竜馬$$\n「Thằng khốn đó!\n　Hóa ra hắn diễn kịch ở Orb để gài bẫy chúng ta!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_1263541f4071624e": {
+      "text": "$$シモン$$\n「Đến cảng thôi!\n　Chúng ta sẽ nghênh chiến bọn chúng!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_3bc300bbdc277d82": {
+      "text": "$$ノーマン$$\n「Cậu $n...!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_38762a09460d8b6b": {
+      "text": "$n\n「Ông $$ノーマン$$... tôi phải đi rồi.\n　Nếu còn trở về được, xin ông kể tiếp cho tôi nghe nhé...!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_7ab28e70b4d4f641": {
+      "text": "$$ダストン$$\n「Đại tá $$ブライト$$...!\n　Đừng quên rằng chúng tôi\n　vẫn chưa hoàn toàn tin tưởng các vị!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$ブライト$$\n「Tôi hiểu rõ điều đó.\n　Nhưng khi đám Geminis kia tấn công,\n　chúng tôi buộc phải chiến đấu với chúng!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_ec335e69f984b8b3": {
+      "text": "$$ダストン$$\n（Rốt cuộc chuyện gì đang xảy ra...?\n　Vừa có khách từ xứ khác đến,\n　giờ lại xuất hiện cả những cỗ máy như thế...!）",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_0abcaf0c31978670": {
+      "text": "$$メラン$$\n「Thưa hạm trưởng, đã đón các đội viên bị đẩy vào thành phố.\n　Xác nhận tất cả đều an toàn, kể cả $$千鳥かなめ$$.」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_1d6bc48b7f246730": {
+      "text": "$$ブライト$$\n「Tốt...!\n　Máy nào chuẩn bị xong thì cho xuất kích ngay!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_1af20fccc3c53cfc": {
+      "text": "$$ワッ太$$\n「Khốn thật!\n　Anh chàng $$アドヴェント$$ đó\n　đúng là đã lừa chúng ta sao!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_f951916061232dcd": {
+      "text": "$$正太郎$$\n「Anh ấy... đã cứu anh $n,\n　rồi còn chiến đấu với Geminis nữa mà...」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_4d863c3fb88a4c39": {
+      "text": "$$タケル$$\n「Để chuyện đó tính sau!\n　Trước hết phải đánh bại kẻ địch trước mắt đã!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_44f4742c3dcce39a": {
+      "text": "$$葵$$\n「Hạ hết bọn này rồi,\n　biết đâu $$アドヴェント$$ cũng sẽ xuất hiện!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_9e701cdeb3842c21": {
+      "text": "$$カレン$$\n「Chuyện này là sao vậy!?」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_6fd81f4abebe60c5": {
+      "text": "$$キリコ$$\n「Có thứ gì đang lên từ dưới lòng đất...!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_da2132b5038ec737": {
+      "text": "$$シンジ$$\n「Ơ... kia là!?」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_495d61d3ec7e16f2": {
+      "text": "$$バナージ$$\n「Mobile Suit của Neo Zeon...!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_5cd353758cfe474d": {
+      "text": "$$リディ$$\n「Không chỉ có vậy!\n　Còn có cả $$ジェガン$$ của Liên bang!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_a653c8dec4c0f06f": {
+      "text": "$$ハサウェイ$$\n「Mà họ lại ở cùng nhau...\n　Chẳng lẽ họ cũng bị đẩy tới đây sao...」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_86d493e37a9799a7": {
+      "text": "$$エマ$$\n「Nhưng có gì đó kỳ lạ.\n　Máy nào cũng tơi tả cả...」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_09d0fcc600cdd3df": {
+      "text": "$$カツ$$\n「Dù sao, họ cũng đã dẹp hết Geminis giúp ta.\n　Tôi nghĩ họ không phải kẻ địch, nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_182faded068c15ed": {
+      "text": "$$シモン$$\n「Cẩn thận!\n　Bọn chúng cũng đang nhắm vào chúng ta!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_9c206d19bfda4bd5": {
+      "text": "$$赤木$$\n「Đám đó bị sao vậy!?\n　Chúng tôi đâu có ý định giao chiến!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_6e558bc69acf5bf3": {
+      "text": "$$ブライト$$\n「Không có hồi đáp sao!?」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_d60d0818e965232f": {
+      "text": "$$メラン$$\n「Không được!\n　Có vẻ những cỗ máy đó không có người lái!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_5b23687574286204": {
+      "text": "$$メラン$$\n「Đại tá $$ダストン$$ của Quân cảnh\n　cũng nói không biết gì về chúng!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_6fd86c96891ea942": {
+      "text": "$$アムロ$$\n「Vậy là chỉ còn cách chiến đấu...!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_43e4e548c0b28376": {
+      "text": "$$ブライト$$\n「Các máy mau tiêu diệt đội quân không người lái!\n　Hạn chế tối đa thiệt hại cho thành phố!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_d80a9688790ed583": {
+      "text": "$$エンジェル$$\n「Họ là những người mang $$烙印$$...\n　Rốt cuộc vẫn thành ra thế này...」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_708bea61e3c43ada": {
+      "text": "$$エンジェル$$\n「Những ngày yên ả này cũng sắp kết thúc...\n　Nếu vậy thì chi bằng...」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_7b6f159eeaf4de0f": {
+      "text": "$$キラ$$\n「Cũng tạm xong rồi, nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_0827963cfd706e8d": {
+      "text": "$$シン$$\n「Cả $$ジェガン$$ lẫn $$ギラ・ドーガ$$\n　đều có hiệu năng vượt quá dữ liệu của chúng ta.」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$カミーユ$$\n「Có ai đó đã cải tạo chúng sao...」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_3f4035fd9db81258": {
+      "text": "$$刹那$$\n「Rốt cuộc chúng là gì...\n　Tại sao lại tấn công chúng ta...」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_567b361a454c4b73": {
+      "text": "$$ロックオン$$\n「Dù sao thì có vẻ chúng\n　không cùng phe với Geminis.」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_d22851aaafbbf8fc": {
+      "text": "$$ブライト$$\n「Tôi không muốn kích động người dân thành phố.\n　Các máy lập tức rút lui.」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_352534f64413d954": {
+      "text": "$$ガドライト$$\n「Ừm... xuất hiện vị khách ngoài dự tính rồi.\n　Nên mừng hay nên lo đây...」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_79f2664edb1af798": {
+      "text": "$$ガドライト$$\n「Thôi... cứ nhìn theo hướng tích cực vậy.\n　Có vẻ chúng đã xem đám kia là dị vật rồi.」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$ガドライト$$\n「Đúng là những kẻ canh giữ thiên đường ngưng đọng...\n　những kẻ nối liền hủy diệt và tái sinh.\n　Xem ra chúng sẽ hữu ích hơn mình tưởng đấy.」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_1c5aa0d15ae24846": {
+      "text": "$$ロジャー$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_53bb64ee17750ee2": {
+      "text": "???\n「Thế giới chìm trong biển lửa...\n　Và rồi, The Big...」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_7a7add80fde475ba": {
+      "text": "$$ロジャー$$\n「Ư... a...!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_b2befefdbed1393d": {
+      "text": "$$シュバルツ$$\n「Thật đáng tiếc.\n　Không ngờ chính anh lại ngoảnh mặt với sự thật.」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_2103f6df2ea2e447": {
+      "text": "$$ロジャー$$\n「Đ-đừng lại gần...! Đừng lại gần!!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_a12e3e130d896ff7": {
+      "text": "$$シュバルツ$$\n「Nhưng sự yên bình giả tạo này sắp kết thúc!\n　Sự thật sẽ bị phơi bày,\n　và lửa sẽ một lần nữa bao trùm thế giới!!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ロジャー$$\n「Đừng lại gầầần!!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_91bf33c27ad39f0a": {
+      "text": "$$ベック$$\n「Hoan hô, hoan hô!\n　Chà... màn trình diễn hay lắm!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_ee220318b96ab538": {
+      "text": "$$ベック$$\n「Này, tiền thưởng cho anh đấy.\n　Cứ nhận lấy đi.」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_ce1b55e526b6277a": {
+      "text": "$$ベック$$\n「Sau này hãy tiếp tục mua vui cho tôi,\n　vị chủ tịch Công ty Paradigm này nhé.」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_c304df6888eb78f7": {
+      "text": "$$桂$$\n「Ư...」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_c26958634526e597": {
+      "text": "$$モーム$$\n「Cậu chủ $$桂$$, cậu sao vậy!?」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_cdb750c9d380881a": {
+      "text": "$$桂$$\n「Không sao...\n　Anh vẫn chiến đấu được...」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_95fda74613c97b39": {
+      "text": "$$桂$$\n（Nói vậy chứ cơn đau đầu này...\n　Lần đầu tiên kể từ lúc bị đẩy đến thế giới bên này\n　mình mới lại thấy đau như thế.）",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_1956994937f8171e": {
+      "text": "$$葵$$\n（Gì thế này...\n　Có thứ gì đó trong mình đang muốn thức tỉnh...）",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_48f49f6728c15612": {
+      "text": "$$葵$$\n（Càng kìm nén, nó lại càng tuôn trào...!\n　Cảm giác này... sao mà quen thuộc...!）",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$アマタ$$\n（Gì thế này...\n　Cảm giác lòng mình đang trở nên trong trẻo...）",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_f02c37d91387d0ad": {
+      "text": "$$アマタ$$\n（Như thể mình và Aquarion đang hòa làm một...\n　Cảm giác này... liệu $$ミコノ$$ cũng cảm nhận được không...）",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$シモン$$\n「Mũi khoan của tôi...!\n　Sẽ gọi giông bão, và một ngày kia vươn tới tận trời cao!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_9796b3efa401a303": {
+      "text": "$$ヴィラル$$\n「Sao vậy, $$シモン$$?\n　Có gì mà sục sôi thế?」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_643b6eebfc0186b3": {
+      "text": "$$シモン$$\n「Ai mà biết lý do chứ...!\n　Tôi chỉ xoay mũi khoan theo tiếng gọi con tim,\n　rồi cứ thế tiến lên thôi!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_291280e5f7eb9d70": {
+      "text": "$$スズネ$$\n「Đi thôi, $n...!\n　Em sẵn sàng chưa!?」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_32eb462c1b4999cb": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_1f4337d6d393fc37": {
+      "text": "$$スズネ$$\n「Sao thế!?\n　Kẻ địch ở ngay trước mắt đấy!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_4740e748fae085ee": {
+      "text": "$n\n「Em biết rồi!」",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_b76524cd840e1d37": {
+      "text": "$n\n（Cô $$スズネ$$ mà mình thấy lúc đó...\n　Rốt cuộc là sao...）",
+      "status": "reviewed"
+    },
+    "stage0050b_04:r_730ffe18400abfc2": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

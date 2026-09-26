@@ -1,0 +1,818 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0057_04:r_caaab7bad760e16d": {
+      "text": "$$バルトフェルド$$\n「Thế này không ổn rồi...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_99b162aa6aa286a2": {
+      "text": "$$メイリン$$\n「Không sao đâu, ông $$バルトフェルド$$!\n　$c đã đến rồi ạ!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_58fb02434a1c40b2": {
+      "text": "$$バナージ$$\n「Lại là Vajra sao...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_1c0f94acd5a8a143": {
+      "text": "$$リディ$$\n「Dù đây là bằng chứng ranh giới chiều không gian chưa cố định hẳn,\n　nhưng chúng xuất hiện liên tiếp thế này thì chẳng vui nổi!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_1263541f4071624e": {
+      "text": "$$カツ$$\n「$$ザフト$$ đang rút lui...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_3bc300bbdc277d82": {
+      "text": "$$ハサウェイ$$\n「Hả...! Nghĩa là chỉ có chúng ta phải chiến đấu sao!?」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_38762a09460d8b6b": {
+      "text": "$$シン$$\n「Quay lại đây, các người!\n　$$ザフト$$ tồn tại để bảo vệ $$プラント$$ cơ mà!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_7ab28e70b4d4f641": {
+      "text": "$$アルト$$\n「Thôi đi, $$シン$$!\n　Bây giờ phải đối phó với Vajra trước!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$シン$$\n「Nhưng...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_ec335e69f984b8b3": {
+      "text": "$$カミーユ$$\n「Tập trung vào việc trước mắt đi.\n　Cứ thế này, $$プラント$$ sẽ bị Vajra tấn công.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_0abcaf0c31978670": {
+      "text": "$$シン$$\n「...Biết rồi.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_1d6bc48b7f246730": {
+      "text": "$$キラ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_1af20fccc3c53cfc": {
+      "text": "$$オズマ$$\n「Aquarion có chiến đấu được không?」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_f951916061232dcd": {
+      "text": "$$ゼシカ$$\n「Không có $$アンディ$$ cũng không sao đâu ạ!\n　Những người còn lại sẽ lo được!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_4d863c3fb88a4c39": {
+      "text": "$$アマタ$$\n「Cậu hăng hái thật đấy, $$ゼシカ$$.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_44f4742c3dcce39a": {
+      "text": "$$ゼシカ$$\n「Vì đây là vai trò của tôi mà.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_9e701cdeb3842c21": {
+      "text": "$$ユノハ$$\n「$$ゼシカ$$...」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_6fd81f4abebe60c5": {
+      "text": "$n\n「Nhìn mà đau lòng, không chịu nổi...」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_da2132b5038ec737": {
+      "text": "$$オズマ$$\n「Các máy, đánh chặn Vajra!\n　Không được để chúng đến gần $$プラント$$!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_495d61d3ec7e16f2": {
+      "text": "$$カイエン$$\n「Xử lý xong rồi sao...」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_5cd353758cfe474d": {
+      "text": "$$ルカ$$\n「Cẩn thận!\n　Viện binh địch đang đến!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_a653c8dec4c0f06f": {
+      "text": "$$シン$$\n「Nguy rồi!\n　Chúng ở gần $$プラント$$ quá!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_86d493e37a9799a7": {
+      "text": "$$バナージ$$\n「Cứ thế này thì thuộc địa sẽ...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_09d0fcc600cdd3df": {
+      "text": "$$カイエン$$\n「Khốn kiếp!\n　Bọn này dai dẳng thật!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_182faded068c15ed": {
+      "text": "$$バナージ$$\n「Cứ thế này thì sớm muộn thuộc địa cũng sẽ...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_9c206d19bfda4bd5": {
+      "text": "$$ファ$$\n「$$ザフト$$ đến giúp rồi sao!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_6e558bc69acf5bf3": {
+      "text": "$$カミーユ$$\n「Không, không phải...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_d60d0818e965232f": {
+      "text": "$$イズモ$$\n「Tên $$ミカゲ$$ đó...\n　Lấy danh nghĩa yểm trợ ta\n　để đưa sinh vật siêu thời không đến sao...」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_5b23687574286204": {
+      "text": "$$イズモ$$\n「Đúng là làm chuyện thừa thãi.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_6fd86c96891ea942": {
+      "text": "$$モロイ$$\n「Quân Altair sao!\n　Dám tấn công với lực lượng ít ỏi như thế!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_43e4e548c0b28376": {
+      "text": "$$サザンカ$$\n「Nhưng có một máy chưa từng thấy!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_d80a9688790ed583": {
+      "text": "$$イズモ$$\n（Vega của thời tuổi trẻ...\n　Ta đã trở lại...）",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_708bea61e3c43ada": {
+      "text": "$$シュレード$$\n「Một âm sắc chưa từng nghe...\n　Âm vang trầm nặng và cao quý...」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ミコノ$$\n「Cao quý...?」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_0827963cfd706e8d": {
+      "text": "$$桂$$\n「Nhìn là hiểu mà.\n　Tôi đoán tên màu trắng đó chính là đầu sỏ của địch!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$オズマ$$\n「Áp lực còn lớn hơn tên đàn ông như dã thú kia!\n　Hắn không phải kẻ tầm thường!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_3f4035fd9db81258": {
+      "text": "$$イズモ$$\n「Có kẻ cảm nhận được khí của ta sao...\n　Vậy thì ta sẽ đích thân kiểm chứng sức mạnh ấy!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_567b361a454c4b73": {
+      "text": "$$アムロ$$\n「Đến rồi sao...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_d22851aaafbbf8fc": {
+      "text": "$$イズモ$$\n「Ta đến đây, các chiến binh Vega!\n　$$イズモ$$ của Altair sẽ làm đối thủ của các ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_352534f64413d954": {
+      "text": "$n\n「Hạ được rồi sao!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_79f2664edb1af798": {
+      "text": "$$カイエン$$\n「Đúng là bản lĩnh không tầm thường.\n　Nhưng tay không mà đòi thắng chúng ta sao!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$イズモ$$\n「Ra vậy.\n　Ta đã hiểu rõ thực lực của các ngươi.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_1c5aa0d15ae24846": {
+      "text": "$$モロイ$$\n「Định chạy sao!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_53bb64ee17750ee2": {
+      "text": "$$カイエン$$\n「$$アマタ$$!\n　Kết liễu hắn thôi!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_7a7add80fde475ba": {
+      "text": "$$アマタ$$\n「Rõ!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_b2befefdbed1393d": {
+      "text": "$$ゼシカ$$\n「Chỉ cần giữ khoảng cách là chẳng việc gì phải sợ hắn!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_2103f6df2ea2e447": {
+      "text": "$$アマタ$$\n「Được!\n　Lên nào, Vô Hạn Quyền!!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_a12e3e130d896ff7": {
+      "text": "$$イズモ$$\n「Ngây thơ quá!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_b6f7b219eb4bd64b": {
+      "text": "$$アマタ$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_91bf33c27ad39f0a": {
+      "text": "$$イズモ$$\n「Năng lượng ta nhận từ các ngươi!\n　Ta trả lại cho các ngươi đây!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_ee220318b96ab538": {
+      "text": "$$アマタ$$\n「Uaaaaa!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_ce1b55e526b6277a": {
+      "text": "$$アルト$$\n「$$アマタ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_c304df6888eb78f7": {
+      "text": "$$イズモ$$\n「Còn non lắm...\n　Ta chỉ công nhận được khí thế ấy thôi.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_c26958634526e597": {
+      "text": "$$バナージ$$\n「Đòn tấn công đó là gì vậy!?」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_cdb750c9d380881a": {
+      "text": "$$キラ$$\n「Hắn bắn trả năng lượng tấn công của chúng ta...!?」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_95fda74613c97b39": {
+      "text": "$$ガムリン$$\n「Đó mới là sức mạnh thật sự của hắn sao!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_1956994937f8171e": {
+      "text": "$$イズモ$$\n「Tiếp theo là...」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_48f49f6728c15612": {
+      "text": "$$シン$$\n「Mục tiêu của hắn là $$プラント$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$キラ$$\n「Tôi không để anh động đến $$プラント$$ đâu!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_f02c37d91387d0ad": {
+      "text": "$$イズモ$$\n「Ư...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$キラ$$\n「Tôi đã quyết sẽ bảo vệ bằng được!\n　Tôi...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_9796b3efa401a303": {
+      "text": "$$シン$$\n「Anh $$キラ$$...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_643b6eebfc0186b3": {
+      "text": "$$ハサウェイ$$\n「Ghê thật...」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_291280e5f7eb9d70": {
+      "text": "$$リディ$$\n「$$キラ$$ hôm nay khác hẳn mọi khi...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_32eb462c1b4999cb": {
+      "text": "$$バナージ$$\n「Cứ như... quỷ thần vậy!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_1f4337d6d393fc37": {
+      "text": "$$キラ$$\n「Tôi không để anh làm vậy...!\n　Nhất định tôi sẽ bảo vệ!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_4740e748fae085ee": {
+      "text": "$$イズモ$$\n「Cậu thiếu niên này...」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_b76524cd840e1d37": {
+      "text": "$$イズモ$$\n（Ta cũng từng như cậu ấy...\n　liều cả mạng sống để bảo vệ một người...）",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_730ffe18400abfc2": {
+      "text": "$$イズモ$$\n（Nhưng bây giờ...!）",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_ffe0fca26da5cd38": {
+      "text": "$$カツ$$\n「Nhưng cứ thế này thì...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_bfb27f9eb2f7073e": {
+      "text": "$$アムロ$$\n「Khoan đã!\n　Tôi không cảm nhận được ý định tấn công từ người đó...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_859dfa27bcaafe30": {
+      "text": "$$ブライト$$\n「Chuyện này là sao!?」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_71ebf05996a4b0fd": {
+      "text": "$$イズモ$$\n「Cư dân thuộc địa này,\n　và $c, những người đã nhiều lần\n　đẩy lùi cuộc xâm lược của chúng tôi, hãy nghe đây.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_6214c11b1bca811e": {
+      "text": "$$イズモ$$\n「Tôi là $$イズモ・カムロギ$$, tổng tư lệnh Altair.\n　Tôi không có ý định tiếp tục chiến đấu.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_8eaf6f3098ffed12": {
+      "text": "$$オットー$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_cf507214fe955d75": {
+      "text": "$$リディ$$\n「Cứ thế này thì...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_2113dcbabdfc758a": {
+      "text": "$$アムロ$$\n「Khoan đã!\n　Tôi không cảm nhận được ý định tấn công từ người đó...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ブライト$$\n「Chuyện này là sao!?」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_6a74519e1fc29c4b": {
+      "text": "$$イズモ$$\n「Cư dân thuộc địa này,\n　và $c, những người đã nhiều lần\n　đẩy lùi cuộc xâm lược của chúng tôi, hãy nghe đây.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_5b992878fee054b5": {
+      "text": "$$イズモ$$\n「Tôi là $$イズモ・カムロギ$$, tổng tư lệnh Altair.\n　Tôi không có ý định tiếp tục chiến đấu.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$オットー$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ブライト$$\n「Tổng tư lệnh...\n　Không ngờ lại đích thân ra chiến trường...」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_20cf167c0ec0d4d5": {
+      "text": "$$ジェフリー$$\n「Hắn định thương lượng với chúng ta sao?」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_b591d812c96c6c99": {
+      "text": "$$イズモ$$\n「Đúng vậy.\n　Tôi không muốn giết chóc vô ích.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_e350fa099c1ab072": {
+      "text": "$n\n「Tên đó... tưởng mình đã thắng rồi sao...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$アムロ$$\n「Khoan đã, $n. Altair nắm giữ công nghệ dịch chuyển.\n　Nếu có thể kết thúc cuộc chiến với họ bằng thương lượng\n　thì không gì tốt hơn.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_c33bd700553abf91": {
+      "text": "$$カイエン$$\n「Nhưng đại úy $$アムロ$$!\n　Chúng đã bắt cóc rất nhiều phụ nữ từ thế giới của chúng ta!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_feee5c91826230e1": {
+      "text": "$$イズモ$$\n「Các vị tức giận cũng là điều dễ hiểu.\n　Nhưng chúng tôi có lý do để tìm kiếm\n　phụ nữ của thế giới này... các Igura.」",
+      "status": "needs_review"
+    },
+    "stage0057_04:r_bccc48e1964ad22d": {
+      "text": "$$イズモ$$\n「Và lần này tôi đến đây\n　là để tìm Rare Igura mạnh nhất.」",
+      "status": "needs_review"
+    },
+    "stage0057_04:r_f8736aaaa216c766": {
+      "text": "$$バナージ$$\n「Rare Igura mạnh nhất...?」",
+      "status": "needs_review"
+    },
+    "stage0057_04:r_d1ec2522c87c361d": {
+      "text": "$$桂$$\n「Tôi cũng không rõ, nhưng chắc là\n　người phụ nữ lý tưởng mà chúng tìm kiếm.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_3599f0a4343fd95c": {
+      "text": "$$イズモ$$\n「Tôi đến đón Rare Igura sống ở thuộc địa này,\n　người được gọi là nữ ca sĩ.」",
+      "status": "needs_review"
+    },
+    "stage0057_04:r_3bc7834a5bf3ee76": {
+      "text": "$$ラクス$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_366814efdc8b5800": {
+      "text": "$$シン$$\n「Nghĩa là...!?」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_9be1a4c10bb62515": {
+      "text": "$$キラ$$\n「Anh đang nói đến $$ラクス$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_94a88c90e557e16e": {
+      "text": "$$イズモ$$\n（$$アリシア$$ cũng từng là ca sĩ...\n　Lý lẽ của $$ミカゲ$$ cũng có thể chấp nhận được.）",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_1c208ca0cbf26f28": {
+      "text": "$$キラ$$\n「Chúng tôi không thể chấp nhận yêu cầu của anh.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_5b7ee307a700171a": {
+      "text": "$$シン$$\n「Tôi không biết lý lẽ của anh là gì,\n　nhưng đừng tưởng có thể tùy ý định đoạt người khác\n　chỉ vì lợi ích của mình!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_8d8f065c932da30a": {
+      "text": "$$イズモ$$\n「Vậy sao...\n　Các vị từ chối mong muốn của tôi.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_f5432119677514f7": {
+      "text": "$$ジェフリー$$\n「Bị áp đặt yêu cầu một chiều như thế,\n　chúng tôi cũng buộc phải đáp lại như vậy.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_4e5c8e989c4a7691": {
+      "text": "$$ブライト$$\n「Trước hết, xin hãy cho chúng tôi biết hoàn cảnh của các vị.\n　Sau đó, chúng tôi sẽ cân nhắc cách ứng phó.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_adec86483b13599a": {
+      "text": "$$イズモ$$\n「Như thế thì không kịp nữa...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_2cf701bbcde3ec13": {
+      "text": "$$桂$$\n「Đến rồi sao!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_c17c58fdba72005e": {
+      "text": "$$イズモ$$\n「Vẫn còn những ứng viên Rare Igura mạnh nhất khác...」",
+      "status": "needs_review"
+    },
+    "stage0057_04:r_1fe8564d2b959317": {
+      "text": "$$イズモ$$\n「Đó là người điều khiển Thiên thần Máy!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_f527e012803f7f1c": {
+      "text": "$$カイエン$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_4b1247bd3ca4905d": {
+      "text": "$$アマタ$$\n「Ý ông là $$ミコノ$$ và những người khác sao!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_00c55e25f87b71d0": {
+      "text": "$$イズモ$$\n「Thiên thần Máy đã đẩy lùi các chiến binh Altair...\n　Người điều khiển nó xứng đáng\n　với danh hiệu Rare Igura mạnh nhất.」",
+      "status": "needs_review"
+    },
+    "stage0057_04:r_338f3b27e51dcc41": {
+      "text": "$$ユノハ$$\n「Vậy nên $$ジン$$ mới nhắm đến mình...」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_d91d4bc2d52b61c4": {
+      "text": "$$ジェフリー$$\n「$$カイエン$$!\n　Cho các nữ Element rút lui!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_0c8ea89b07432421": {
+      "text": "$$カイエン$$\n「Rõ!\n　Lên nào, $$シュレード$$!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_4dbfba00ba7744ee": {
+      "text": "$$シュレード$$\n「Đúng ý tôi đấy, bạn thân!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_be100a32b731708d": {
+      "text": "$$ミコノ$$\n「$$アマタ$$!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_702f82442fcec8a9": {
+      "text": "$$アマタ$$\n「Không sao đâu, $$ミコノ$$!\n　Chúng tôi sẽ bảo vệ mọi người!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_b1e38da4e8775ffe": {
+      "text": "$$カイエン$$\n「Với tư cách một người đàn ông, một người anh trai!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$シュレード$$\n「Hừ... thỉnh thoảng một khúc energico toàn nam\n　cũng không tệ.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$イズモ$$\n「Khí phách khá lắm.\n　Phải thế chứ, những người đàn ông Vega.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_3dad695c99e9e052": {
+      "text": "$$イズモ$$\n「Nhưng ta mang trách nhiệm\n　của tổng tư lệnh Altair!\n　Kẻ nào cản trở sứ mệnh đó, ta sẽ loại bỏ!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_66d4ae3a21caf881": {
+      "text": "$$オズマ$$\n「Các máy, cẩn thận!\n　Hắn khác hẳn lúc nãy rồi!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_0c18da7b3a37825d": {
+      "text": "$$イズモ$$\n「Ta đến đây, các chiến binh Vega!\n　Ta chiến đấu vì tương lai của Altair!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_63249745ffae61b6": {
+      "text": "$$イズモ$$\n「Đã tuyên chiến xong.\n　Hôm nay đến đây là đủ.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_abdb034ae8509702": {
+      "text": "$$ゼシカ$$\n「$$アマタ$$!\n　Không được để hắn chạy thoát!!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_3ff2e21207d1d1d3": {
+      "text": "$$アマタ$$\n「Nhưng mọi người cũng đã kiệt sức rồi...」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_e51ecf6d6aa42e75": {
+      "text": "$$ゼシカ$$\n「Cậu nói gì vậy! Hạ hắn thì cuộc chiến với Altair sẽ kết thúc,\n　và biết đâu còn có thể phá vỡ nhà tù thời gian nữa!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_47ddabb7b60131c2": {
+      "text": "$$ミコノ$$\n「$$ゼシカ$$...」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_b025267f22788233": {
+      "text": "$$ゼシカ$$\n「Tôi sẽ lái $$ゲパルト$$!\n　$$ＭＩＸ$$, giao $$スパーダ$$ cho cậu đấy!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_ec1a06a7023bf72c": {
+      "text": "$$ＭＩＸ$$\n「Ừ-ừ!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_8805f96e52aaa462": {
+      "text": "$$イズモ$$\n「Thiên thần Máy đang bay lên!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_124591cb154fae64": {
+      "text": "$$アマタ$$\n「Uoooooo!!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$イズモ$$\n「Cảm giác này...!\n　Quả nhiên, người điều khiển nó là...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_4bf9b05b5f948170": {
+      "text": "$$ミカゲ$$\n「Sao ngài không tự kiểm chứng đi, $$イズモ$$?\n　Nhìn thật rõ bằng chính mắt mình...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_eaa52d152f444bfd": {
+      "text": "$$イズモ$$\n「$$ミカゲ$$ sao...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_b4bc9e9435b58e6f": {
+      "text": "$$ミカゲ$$\n「Để tôi giúp ngài một tay.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_a9227573166977a9": {
+      "text": "$$アマタ$$\n「Đây là...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_b0600ab9a9e8559d": {
+      "text": "$$アリシア$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_7cbc63dad295f862": {
+      "text": "$$アマタ$$\n「Mẹ!\n　Sao lại có ảo ảnh này...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_07f53c816e0a51f5": {
+      "text": "$$シュレード$$\n（Ai đó đang đùa giỡn với dây đàn trong tim $$アマタ$$...!\n　Trong trẻo, ngọt ngào, đắng cay...）",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_2d09c6f6a2d990ea": {
+      "text": "$$イズモ$$\n「$$ミカゲ$$...! Dám giở trò ranh mãnh!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_3c5fcfc484a51913": {
+      "text": "$$ミカゲ$$\n「Nhưng phản ứng vừa rồi của cậu ấy...\n　Chẳng phải đã khiến mọi chuyện rõ ràng rồi sao?」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_0476ffd10c764b0e": {
+      "text": "$$イズモ$$\n「Chậc!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$桂$$\n「Tránh đi, $$アマタ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_2b3479c4cf0680f4": {
+      "text": "$$アマタ$$\n「Uaaaaa!!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_e370696b8936b08c": {
+      "text": "$$アルト$$\n「Aquarion bị buộc phải tách ra rồi!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_9d7b02c5e728b7aa": {
+      "text": "$n\n「Mọi người chạy đi!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_9af213fc64e0afec": {
+      "text": "$$イズモ$$\n「Xác nhận tín hiệu Rare Igura.\n　Tiến hành thu hồi.」",
+      "status": "needs_review"
+    },
+    "stage0057_04:r_d7f1c506e78e55ff": {
+      "text": "$$ゼシカ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_0c705091f748360e": {
+      "text": "$$サザンカ$$\n「$$ゼシカ$$!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_9eb8599304125b2f": {
+      "text": "$$ＭＩＸ$$\n「Tôi không để ông bắt $$ゼシカ$$ đâu!!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_a072aa25e5f521e0": {
+      "text": "$$ゼシカ$$\n「$$ＭＩＸ$$!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_24e1a808a1609a1a": {
+      "text": "$$ＭＩＸ$$\n「$$ゼシカ$$, hãy trân trọng bản thân hơn nhé.\n　Tôi không muốn thấy cậu buông xuôi như thế.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_53128ce8f154fd06": {
+      "text": "$$ＭＩＸ$$\n「Và nói với $$アンディ$$ là tôi xin lỗi...」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_03b5db9ce98fb8d6": {
+      "text": "$$イズモ$$\n「Can đảm lấy thân mình cứu đồng đội sao...」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_3915fb4102f1c1dd": {
+      "text": "$$イズモ$$\n「Mục đích đã đạt được.\n　Trở về thôi, $$ミカゲ$$.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_817b2773b4ed563e": {
+      "text": "$$ミカゲ$$\n「Được thôi.\n　Tôi cũng đã có thu hoạch.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_1cc233cbc8c80af7": {
+      "text": "$$ゼシカ$$\n「$$ＭＩＸ$$... thay cho mình...」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$アマタ$$\n「$$ＭＩＸ$$...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_e180b22d18f48d38": {
+      "text": "$$ミコノ$$\n「$$ＭＩＸ$$...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_e598c2a0b27e7f50": {
+      "text": "$$アンディ$$\n「$$ＭＩＸ$$!!!!!!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_4d2a9066c4e7b27f": {
+      "text": "$$イズモ$$\n「Còn non lắm.\n　Cách bay đã bộc lộ sự non trẻ của ngươi.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_10340119af3ed6db": {
+      "text": "$$アルト$$\n「Hắn nhìn thấu chuyển động của mình sao...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_23a9c7ab620ab112": {
+      "text": "$$イズモ$$\n「Tự tin vào sức mạnh của mình là đặc quyền của tuổi trẻ.\n　Nhưng khi đối diện sức mạnh lớn hơn,\n　bản lĩnh thật sự mới được thử thách.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_4f0aca6deda07883": {
+      "text": "$$アルト$$\n「Kẻ ngạo mạn quyết định cách sống của người khác như ông\n　đừng có ra vẻ người lớn!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_8fe40600ce62dfbc": {
+      "text": "$$アルト$$\n「Tôi sẽ đánh tan vẻ ung dung đó của ông!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_ff4ce5f3cf96b617": {
+      "text": "$$イズモ$$\n「Vậy ta sẽ dạy ngươi sự khác biệt\n　giữa liều lĩnh và lòng dũng cảm thật sự!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_d73c21f119847e35": {
+      "text": "$$バサラ$$\n「Đầu sỏ đã xuất hiện thì càng dễ nói chuyện!\n　Tôi sẽ cho ông biết chiến tranh vô nghĩa đến mức nào!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_89766f5ffaa912d4": {
+      "text": "$$イズモ$$\n「Bài hát hay đấy.\n　Trái tim ta cũng nóng lên rồi.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$バサラ$$\n「Gì chứ, hóa ra ông cũng hiểu chuyện mà!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_451f726d4299ea35": {
+      "text": "$$イズモ$$\n「Nhưng ta có sứ mệnh!\n　Trước sứ mệnh ấy, ta sẽ gạt bỏ mọi tình cảm riêng tư!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_e3d111e8bb190cb1": {
+      "text": "$$バサラ$$\n「Sống mà tự đậy kín trái tim mình thì thật ngu ngốc!\n　Tôi sẽ dùng bài hát của mình thổi bay cái nắp ấy!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$桂$$\n「Kẻ bắt cóc các cô gái chỉ vì lợi ích của mình\n　thì nghĩ thế nào cũng là kẻ thù của tôi...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_ab97c2b2418ea732": {
+      "text": "$$イズモ$$\n「Ta không cầu mong được thấu hiểu...!\n　Ta chỉ thực hiện sứ mệnh của mình!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_2ddff5064af78db4": {
+      "text": "$$桂$$\n「Ông cứng nhắc quá đấy!\n　Sao không hiểu rằng làm như thế\n　chỉ khiến người khác chống đối thôi!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_050d0532c4b24bfe": {
+      "text": "$$桂$$\n「Xem ra tôi phải đích thân dạy ông\n　cách đối xử với các cô gái rồi!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_d583fcea31bdad2e": {
+      "text": "$$イズモ$$\n「Cảm giác này...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_475f7653621a91b5": {
+      "text": "$$アマタ$$\n「Cái gì...!?」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_f228ae702350849b": {
+      "text": "$$イズモ$$\n「Quả nhiên...\n　Ta đã lờ mờ cảm thấy, nhưng có lẽ đúng là như vậy...」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_d69dc027cba3003f": {
+      "text": "$$アマタ$$\n「Nói những chuyện chẳng hiểu gì cả...!\n　Tôi tới đây!!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_3c3735172a480b72": {
+      "text": "$$イズモ$$\n「Cứ đến đi, cậu thiếu niên có đôi cánh!\n　Ta sẽ vứt bỏ tất cả vì sứ mệnh của mình!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_1f418b5594cea300": {
+      "text": "$$イズモ$$\n「Bản lĩnh khá lắm.\n　Tích lũy thêm kinh nghiệm, ngươi sẽ thành chiến binh giỏi.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_f87fb889124bfaef": {
+      "text": "$$カミーユ$$\n「Tên này... mạnh hơn bất cứ kẻ nào\n　trong quân Altair mà ta từng gặp!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_79c90de32a79212d": {
+      "text": "$$イズモ$$\n「Nhưng gặp ta ở đây chính là bất hạnh của ngươi...!\n　Không chịu lui thì hãy chuẩn bị đón nhận cái chết!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_33f7fd55913419e8": {
+      "text": "$$カミーユ$$\n「Lời đe dọa đó...!\n　Tôi cũng không định ngoan ngoãn chịu chết đâu!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_473d9a88b4ca96e7": {
+      "text": "$$イズモ$$\n「Người này... hẳn là một trong những chiến binh hàng đầu Vega!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_4de6ac85c63bac12": {
+      "text": "$$アムロ$$\n「Mạnh thật...!\n　Không chỉ có kỹ năng, hắn còn tràn đầy ý chí kiên định!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_4c92652c9b1adf6f": {
+      "text": "$$イズモ$$\n「Cậu cảm nhận được quyết tâm của ta sao...!\n　Chỉ riêng việc được giao chiến với người như cậu\n　cũng đủ khiến chuyến đến Vega này có ý nghĩa rồi!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_ce90563a934d49fb": {
+      "text": "$$イズモ$$\n「Dù hiện giờ còn non nớt,\n　kẻ nào có khả năng trở thành mối đe dọa với Altair,\n　ta sẽ tiêu diệt ngay tại đây!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_4fb296e63cb1fb46": {
+      "text": "$$バナージ$$\n「Dùng lý lẽ ích kỷ để tấn công chúng tôi,\n　rồi đến đây lại tiếp tục nói những lời ích kỷ như thế...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$バナージ$$\n「Tôi không thể để người như ông\n　muốn làm gì thì làm được!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_9dc59affd40f32fc": {
+      "text": "$$シン$$\n「Liên tiếp thất bại ở Trái Đất,\n　giờ ông lại nhắm vào $$プラント$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_0cea115be526a319": {
+      "text": "$$イズモ$$\n「Khí phách khá lắm.\n　Có vẻ ngươi có thứ cần thiết nhất đối với một chiến binh.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_d36072babd12aeb4": {
+      "text": "$$シン$$\n「Ông chỉ còn ung dung được lúc này thôi!\n　Chuẩn bị đi!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_09ee921a85025fd3": {
+      "text": "$$イズモ$$\n「Nhưng vẫn còn quá non...!\n　Chỉ có khí thế thì không hạ nổi ta đâu!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_fae689f2a1057b61": {
+      "text": "$$イズモ$$\n「Di chuyển tốt lắm...!\n　Có vẻ ngươi không phải chiến binh tầm thường!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_91c6d0bb53854ecc": {
+      "text": "$$キラ$$\n「Người này... khác với những kẻ địch từ trước đến giờ...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_42a3149105314ab8": {
+      "text": "$$イズモ$$\n「Ta cảm thấy tình cảm cháy bỏng sau lối chiến đấu điềm tĩnh ấy...!\n　Có vẻ trên thuộc địa đó\n　có người mà ngươi phải bảo vệ!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_62ecd978c667bd29": {
+      "text": "$$キラ$$\n「Anh nói đúng.\n　Vì thế, tôi sẽ chặn anh lại ở đây...!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_d441e6cc908ac01b": {
+      "text": "$$キラ$$\n「Để bảo vệ người quan trọng với tôi!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_b2aab8873350ea1f": {
+      "text": "$$イズモ$$\n「Dù còn thô ráp, ta vẫn cảm nhận được tài năng lóe sáng...!\n　Đây chính là tuổi trẻ sao!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_2c7af4c55d8ac938": {
+      "text": "$n\n「Ông định ra vẻ nhà phê bình sao?\n　Hay chỉ đang làm bộ để che giấu sự nóng ruột trong lòng?」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_653b741d07545dff": {
+      "text": "$$イズモ$$\n「Hừ... Ta đã thất lễ với đối thủ đang dốc toàn lực rồi.」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_d584d4b5af55b1cf": {
+      "text": "$$イズモ$$\n「Để tạ lỗi...!\n　Ta sẽ dùng toàn lực đánh bại ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_db0ee69ece206fcd": {
+      "text": "$n\n「Giờ lại quay sang ra vẻ đại nhân vật à!\n　Khi nào khiến tôi câm miệng được thì hẵng lên mặt như thế!」",
+      "status": "reviewed"
+    },
+    "stage0057_04:r_f97e6925c9e37332": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

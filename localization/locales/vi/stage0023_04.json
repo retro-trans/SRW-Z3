@@ -1,0 +1,606 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0023_04:r_caaab7bad760e16d": {
+      "text": "$$アルト$$\n「Đó là chiếc $$スコープドッグ$$ được giảm trọng lượng sao.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_99b162aa6aa286a2": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_58fb02434a1c40b2": {
+      "text": "$$クルツ$$\n「Hở hang ghê thật...!\n　Giá mà đó là con gái thay vì AT thì tuyệt biết mấy!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_1c0f94acd5a8a143": {
+      "text": "$$ルカ$$\n「Em bái phục cách nghĩ ấy của anh...」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_1263541f4071624e": {
+      "text": "$$クラン$$\n「Nhưng vì đã hy sinh giáp bảo vệ,\n　chỉ một phát trúng nhẹ cũng có thể chí mạng.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_3bc300bbdc277d82": {
+      "text": "$$マオ$$\n「Một chiếc máy được ăn cả, ngã về không...\n　Đúng phong cách $$キリコ$$ thật.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_38762a09460d8b6b": {
+      "text": "$$ゴウト$$\n「Trông cậy vào cậu đấy, $$キリコ$$!\n　Tỷ lệ cược là 7:3, bên ta lép vế!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_7ab28e70b4d4f641": {
+      "text": "$$バニラ$$\n「Nói chung các cậu thắng thì bọn tôi kiếm bộn!\n　Tin ở cậu đấy, $$キリコ$$ cưng!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$チェロキー$$\n「Vô ích thôi, hai người.\n　Chiến thắng chắc chắn thuộc về Balarant rồi.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_ec335e69f984b8b3": {
+      "text": "$$チェロキー$$\n「Khi $$カン・ユー$$ đề nghị vụ này,\n　ta đã nắm chắc phần thắng.\n　Thậm chí còn lo bên kia chẳng đủ sức mà đấu.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_0abcaf0c31978670": {
+      "text": "$$チェロキー$$\n「Nhờ Băng $$レッドショルダー$$ của các ngươi\n　quảng cáo rầm rộ, tỷ lệ cược\n　cuối cùng cũng về mức coi được.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_1d6bc48b7f246730": {
+      "text": "$$チェロキー$$\n「Hai người đúng là nữ thần may mắn của ta đấy.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_1af20fccc3c53cfc": {
+      "text": "$$ゴウト$$\n「Thế thì cảm ơn nhé.\n　Trận này có vẻ sẽ thật sự là một trận đấu lớn\n　đối với cả hai bên chúng ta đấy.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_f951916061232dcd": {
+      "text": "$$オズマ$$\n「Skull Leader gọi các máy.\n　Valkyrie không phát huy được cơ động ở độ cao thấp,\n　hãy chiến đấu ở dạng Battroid.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_4d863c3fb88a4c39": {
+      "text": "$$オズマ$$\n「$$キリコ$$, địch đang nhắm vào cậu.\n　Tôi biết cậu lo cho $$フィアナ$$,\n　nhưng đừng quên, cậu gục thì mọi thứ đều vô nghĩa.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_44f4742c3dcce39a": {
+      "text": "$$キリコ$$\n「Ừ.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_9e701cdeb3842c21": {
+      "text": "$n\n「$$キリコ$$, tôi phải làm gì?」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_6fd81f4abebe60c5": {
+      "text": "$$キリコ$$\n「Nhờ cậu hỗ trợ.\n　Đến lúc thì hãy dùng thứ đó.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_da2132b5038ec737": {
+      "text": "$n\n「Rõ rồi.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_495d61d3ec7e16f2": {
+      "text": "$$キリコ$$\n「...Đúng là cậu không hợp với chiến đấu.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_5cd353758cfe474d": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_a653c8dec4c0f06f": {
+      "text": "$$キリコ$$\n「Nhưng nếu cậu vượt qua điều đó để chiến đấu,\n　tôi không còn gì để nói.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_86d493e37a9799a7": {
+      "text": "$n\n「Vậy à.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_09d0fcc600cdd3df": {
+      "text": "$$スズネ$$\n「Quân Balarant đang đến.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_182faded068c15ed": {
+      "text": "$$ルカ$$\n「Có ba $$地上戦艦$$!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_9c206d19bfda4bd5": {
+      "text": "$$クルツ$$\n「Nghe kể rồi, nhưng to thật đấy.\n　Vụ này sẽ vất vả đây.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_6e558bc69acf5bf3": {
+      "text": "$$宗介$$\n「Đối thủ lớn thì có cách đánh thích hợp với đối thủ lớn.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_d60d0818e965232f": {
+      "text": "$$マオ$$\n「Hăng hái quá nhỉ, $$宗介$$.\n　Lây nhiệt huyết của $$キリコ$$ rồi à?」",
+      "status": "needs_review"
+    },
+    "stage0023_04:r_5b23687574286204": {
+      "text": "$$宗介$$\n「...Có lẽ vậy.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_6fd86c96891ea942": {
+      "text": "$$カン・ユー$$\n「$$キリコ$$!\n　Ta khen ngươi đã đến mà không bỏ trốn!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_43e4e548c0b28376": {
+      "text": "$$キリコ$$\n「$$フィアナ$$ đâu?」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_d80a9688790ed583": {
+      "text": "$$ニーバ$$\n「Yên tâm, $$レッドショルダー$$!\n　Người đàn bà của ngươi đang ở trên tàu này!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_708bea61e3c43ada": {
+      "text": "$n\n「$$ラダァ・ニーバ$$...!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ニーバ$$\n「Hệ thần kinh của ta đã nối với $$地上戦艦$$.\n　Có thể nói con tàu này như tay chân của ta vậy.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_0827963cfd706e8d": {
+      "text": "$$ニーバ$$\n「Tuyệt vọng đi, $$レッドショルダー$$!\n　Ta sẽ cho ngươi biết nỗi sợ\n　bị sức mạnh áp đảo giày xéo!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$キリコ$$\n「...Mục tiêu là con tàu đó.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_3f4035fd9db81258": {
+      "text": "$$宗介$$\n「Rõ.\n　Chúng tôi sẽ chặn chiếc chiến hạm đó lại.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_567b361a454c4b73": {
+      "text": "$$クルツ$$\n「Cứ giao việc hỗ trợ cho các xạ thủ săn tình chúng tôi.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_d22851aaafbbf8fc": {
+      "text": "$$アルト$$\n「$$キリコ$$, $n!\n　Phần còn lại là của hai cậu.\n　Hãy đột nhập và cứu $$フィアナ$$!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_352534f64413d954": {
+      "text": "$n\n「Biết rồi!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_79f2664edb1af798": {
+      "text": "Khán giả\n「Trận này đã quá đi mất!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_a62c4e7f3c09f7ed": {
+      "text": "Khán giả\n「Hồi hộp quá!\n　Trôi dạt đến $$ア・コバ$$ quả là đúng đắn!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_1c5aa0d15ae24846": {
+      "text": "$$チェロキー$$\n「Tất cả các ngươi!\n　Đã sẵn sàng chưa!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_53bb64ee17750ee2": {
+      "text": "$$ニーバ$$\n「Ta sẽ giết ngươi, $$レッドショルダー$$!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_7a7add80fde475ba": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_b2befefdbed1393d": {
+      "text": "$$チェロキー$$\n「Nào! Đại chiến bắt đầu!!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_2103f6df2ea2e447": {
+      "text": "$$ニーバ$$\n「Chậc!\n　Quả nhiên điều khiển khác với AT!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_a12e3e130d896ff7": {
+      "text": "$$オズマ$$\n「Ngay lúc này! Đi đi, $$キリコ$$!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_b6f7b219eb4bd64b": {
+      "text": "$$キリコ$$\n「$n...!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_91bf33c27ad39f0a": {
+      "text": "$n\n「Biết rồi!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_ee220318b96ab538": {
+      "text": "$$キリコ$$\n「Nhờ cậu trông AT của tôi ở đây.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_ce1b55e526b6277a": {
+      "text": "$n\n「Cẩn thận đấy.\n　Không biết con thú bị thương sẽ giở trò gì đâu.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_c304df6888eb78f7": {
+      "text": "$n\n「Có chuyện gì thì liên lạc.\n　Ít ra tôi cũng hỗ trợ được.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_c26958634526e597": {
+      "text": "$$キリコ$$\n「Ừ...」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_cdb750c9d380881a": {
+      "text": "$$オズマ$$\n「Các máy không được lơ là!\n　Chiếc chiến hạm đó vẫn còn hoạt động!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_95fda74613c97b39": {
+      "text": "$$ゴウト$$\n（$$キリコ$$...!）",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_1956994937f8171e": {
+      "text": "$$バニラ$$\n（Nhất định phải cứu được $$フィアナ$$ đấy!）",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_48f49f6728c15612": {
+      "text": "Khán giả\n「Này, chuyện gì thế!\n　Chiếc $$地上戦艦$$ kia chẳng nhúc nhích gì cả!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_0ebc5a6f1e0f81bf": {
+      "text": "Khán giả\n「Có vẻ tên $$レッドショルダー$$\n　đã chui vào trong rồi...」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_f02c37d91387d0ad": {
+      "text": "$$チェロキー$$\n「Thấy trận này không hay thì đúng là dân ngoại đạo!\n　Ta trả tiền lại, mau về đi!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$チェロキー$$\n「Không thể kết thúc ở đây được!\n　Đây là trận $$バトリング$$ lớn nhất lịch sử cơ mà!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_9796b3efa401a303": {
+      "text": "$$ニーバ$$\n「Khốn kiếp, tên $$レッドショルダー$$!\n　Ngươi dám... ngươi dám!!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_643b6eebfc0186b3": {
+      "text": "Khán giả\n「Ồ! $$地上戦艦$$ bắt đầu chuyển động rồi!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_291280e5f7eb9d70": {
+      "text": "Khán giả\n「Mau đánh đi, đồ chậm chạp!\n　Ta cược tiền cho các ngươi đấy!!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_32eb462c1b4999cb": {
+      "text": "$$ニーバ$$\n「CÂÂÂÂM MIỆNG!!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_1f4337d6d393fc37": {
+      "text": "Khán giả\n「C-cái gì!?\n　Hắn định làm gì vậy!?」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_4740e748fae085ee": {
+      "text": "$$ココナ$$\n「Nguy rồi!\n　Hắn định cho $$地上戦艦$$ lao vào đây!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_b76524cd840e1d37": {
+      "text": "$$バニラ$$\n「Hắn chẳng còn phân biệt gì nữa!\n　Điên nặng rồi!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_730ffe18400abfc2": {
+      "text": "$$オズマ$$\n「Không còn thời gian cho khán giả sơ tán!\n　Tập trung hỏa lực vào hắn!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_ffe0fca26da5cd38": {
+      "text": "$$クラン$$\n「Không được!\n　Không thể chặn khối khổng lồ đang lao tới đó!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_bfb27f9eb2f7073e": {
+      "text": "$$ニーバ$$\n「Ta sẽ giết ngươi, giết ngươi!\n　Giết hết tất cả!!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_859dfa27bcaafe30": {
+      "text": "$n\n「Không được!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_71ebf05996a4b0fd": {
+      "text": "$$アルト$$\n「Quarter đến giúp rồi!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_6214c11b1bca811e": {
+      "text": "$$チェロキー$$\n「P-phạm luật!\n　Chiến hạm trên không mà xen vào\n　thì Băng $$レッドショルダー$$ tự động thua đấy!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_8eaf6f3098ffed12": {
+      "text": "$$キャシー$$\n「Người đó...!\n　Không hiểu tình hình sao!?」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_cf507214fe955d75": {
+      "text": "$$ジェフリー$$\n「Vậy thì cứ làm đúng luật thôi.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_2113dcbabdfc758a": {
+      "text": "$$ボビー$$\n「Rõ, sếp!」",
+      "status": "needs_review"
+    },
+    "stage0023_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ミーナ#182$$\n「Thông báo toàn hạm.\n　Tàu sẽ bắt đầu biến hình.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_6a74519e1fc29c4b": {
+      "text": "$$チェロキー$$\n「N-nó biến thành robot rồi!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_5b992878fee054b5": {
+      "text": "$$ボビー$$\n「Thế nào?\n　Giờ thì hết phàn nàn rồi chứ?」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$ジェフリー$$\n「Cho hắn một trận, $$ボビー$$!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ボビー$$\n「Lên nàààààào!!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_20cf167c0ec0d4d5": {
+      "text": "$$ニーバ$$\n「Ưaaaaa!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_b591d812c96c6c99": {
+      "text": "$$ジェフリー$$\n「Thấy chưa, đồ hèn hạ.\n　Đó là cách $$Ｓ．Ｍ．Ｓ$$ chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_e350fa099c1ab072": {
+      "text": "$$アルト$$\n「Thuyền trưởng $$ジェフリー$$ làm tuyệt thật.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$オズマ$$\n「Ha... có vẻ thuyền trưởng cũng sôi máu rồi.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_c33bd700553abf91": {
+      "text": "$$ニーバ$$\n「Chết tiệt!\n　Con tàu này hết cứu rồi!!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_feee5c91826230e1": {
+      "text": "$$宗介$$\n「Lần này lại lái AT ra sao.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_bccc48e1964ad22d": {
+      "text": "$$マオ$$\n「Tên này dai thật!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_f8736aaaa216c766": {
+      "text": "$$ニーバ$$\n「Giết ngươi, giết ngươi, giết ngươi!\n　Giết ngươi, giết ngươi, giết ngươi!\n　Giết ngươi, giết ngươi, giết ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_d1ec2522c87c361d": {
+      "text": "$$ニーバ$$\n「Giết ngươi, giết ngươi, giết ngươi!\n　Giết ngươi, giết ngươi, giết ngươi!\n　Giết ngươi, giết ngươi, giết ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_3599f0a4343fd95c": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_3bc7834a5bf3ee76": {
+      "text": "$$スズネ$$\n「Anh $$キリコ$$!\n　Chị $$フィアナ$$ đã sơ tán rồi!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_366814efdc8b5800": {
+      "text": "$$キリコ$$\n「Còn lại...」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_9be1a4c10bb62515": {
+      "text": "$$ニーバ$$\n「Ta sẽ giết ngươi, $$レッドショルダー$$!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_94a88c90e557e16e": {
+      "text": "$$キリコ$$\n（Đây là trận chiến cuối cùng của tôi\n　với tư cách $$レッドショルダー$$...）",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_1c208ca0cbf26f28": {
+      "text": "$$ニーバ$$\n「Khốn kiếp, tên $$レッドショルダー$$!\n　Giết ngươi, giết ngươi, giết ngươi!\n　Giết ngươi, giết ngươi, giết ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_5b7ee307a700171a": {
+      "text": "$$ニーバ$$\n「$$レッドショルダー$$ khốốốốn!!」",
+      "status": "needs_review"
+    },
+    "stage0023_04:r_8d8f065c932da30a": {
+      "text": "$$カン・ユー$$\n「Khốn kiếp, $$ニーバ$$!\n　$$ＰＳ$$ cái gì chứ! Cuối cùng cũng bị hạ còn gì!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_f5432119677514f7": {
+      "text": "$$カン・ユー$$\n「Nhớ mặt ta đấy, $$キリコ$$!\n　Lần sau ta nhất định sẽ nghiền nát ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_4e5c8e989c4a7691": {
+      "text": "$$モニカ$$\n「Toàn bộ quân địch đã rút lui.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_adec86483b13599a": {
+      "text": "$$ジェフリー$$\n「Không cần truy kích. Ta đã hạ $$ＰＳ$$,\n　nòng cốt sức chiến đấu của chúng. Kế hoạch của chúng\n　ở $$ア・コバ$$ coi như đã sụp đổ.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_2cf701bbcde3ec13": {
+      "text": "$$ジェフリー$$\n「Việc còn lại, thiếu tá $$カリーニン$$ sẽ bắt đám bỏ trốn\n　và buộc chúng khai ra tổ chức đứng sau.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_c17c58fdba72005e": {
+      "text": "$$バニラ$$\n「Làm được rồi, $$キリコ$$!\n　Băng $$レッドショルダー$$!\n　Các cậu tuyệt nhất!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_1fe8564d2b959317": {
+      "text": "$$ゴウト$$\n「Tiếc cho ngươi quá, $$チェロキー$$.\n　Trận đấu lớn nhất lịch sử này, ta thắng rồi.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_f527e012803f7f1c": {
+      "text": "$$チェロキー$$\n「Ưuuu...!\n　Bao tiền kiếm được nhờ môi giới đấu\n　giờ mất sạch rồi!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_4b1247bd3ca4905d": {
+      "text": "$$クルツ$$\n「Bên kia người vui kẻ buồn,\n　nhưng tạm thời Black $$バトリング$$ đã kết thúc rồi.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_00c55e25f87b71d0": {
+      "text": "$$マオ$$\n「Cũng cứu được bạn gái của $$キリコ$$ rồi,\n　tạm coi như kết thúc có hậu nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_338f3b27e51dcc41": {
+      "text": "$$シャッコ$$\n「Kết thúc rồi, $$キリコ$$...」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_d91d4bc2d52b61c4": {
+      "text": "$$キリコ$$\n「Ừ...」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_0c8ea89b07432421": {
+      "text": "$$キリコ$$\n（Quân đoàn Thiết giáp, Phương diện quân Melkia 24,\n　Đội Đặc nhiệm X-1, $$キリコ・キュービィー$$...）",
+      "status": "needs_review"
+    },
+    "stage0023_04:r_4dbfba00ba7744ee": {
+      "text": "$$キリコ$$\n（Đúng là tôi từng thuộc $$レッドショルダー$$...\n　Nhưng điều đó cũng đã kết thúc rồi...）",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_be100a32b731708d": {
+      "text": "$$キリコ$$\n（Chừng nào còn có $$フィアナ$$,\n　người đã cứu tôi khỏi địa ngục...）",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_702f82442fcec8a9": {
+      "text": "$$フィアナ$$\n「$$キリコ$$...」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_b1e38da4e8775ffe": {
+      "text": "$$フィアナ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$テイタニア$$\n「Kẻ bất khả xâm phạm, $$キリコ・キュービィー$$.\n　Ta sẽ mang người phụ nữ này đi.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$フィアナ$$\n「$$キリコ$$!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_3dad695c99e9e052": {
+      "text": "$$キリコ$$\n「$$フィアナ$$!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_66d4ae3a21caf881": {
+      "text": "$$ジェフリー$$\n「Chiếc AT đó...!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_0c18da7b3a37825d": {
+      "text": "$$モニカ$$\n「Không được!\n　Ta mất dấu nó do một dạng tàng hình nào đó!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_63249745ffae61b6": {
+      "text": "$n\n「Hắn là cái gì vậy...!?」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_abdb034ae8509702": {
+      "text": "$$宗介$$\n「$$キリコ$$...」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_3ff2e21207d1d1d3": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_e51ecf6d6aa42e75": {
+      "text": "$$カン・ユー$$\n「K-không ổn!\n　Không thể tiếp tục nữa sao!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_47ddabb7b60131c2": {
+      "text": "$$カン・ユー$$\n「Ngài $$ニーバ$$, phần còn lại giao cho ngài!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_b025267f22788233": {
+      "text": "$$カン・ユー$$\n（Phiền phức thật, chết chung với $$キリコ$$ luôn đi.）",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_ec1a06a7023bf72c": {
+      "text": "$$ニーバ$$\n「Đồ vô dụng...!\n　Đã bỏ cuộc rồi à!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_8805f96e52aaa462": {
+      "text": "$$ニーバ$$\n「Thôi được.\n　Riêng việc dựng nên sân khấu quyết chiến này\n　thì ta khen ngươi.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_124591cb154fae64": {
+      "text": "$$ニーバ$$\n「Chạy cũng vô ích, $$レッドショルダー$$!\n　Ta sẽ nghiền nát ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$キリコ$$\n（Chờ anh, $$フィアナ$$...\n　Anh đến đây...!）",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_4bf9b05b5f948170": {
+      "text": "$$ニーバ$$\n「He he he... he he he he he!\n　Đúng là ngươi thuộc $$レッドショルダー$$...!\n　Lại còn là loại thượng hạng!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_eaa52d152f444bfd": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_b4bc9e9435b58e6f": {
+      "text": "$$ニーバ$$\n「Tuyệt vời lắm...!\n　Ngươi đúng là con mồi tuyệt vời nhất!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_a9227573166977a9": {
+      "text": "$$ニーバ$$\n「Vì thế, $$レッドショルダー$$!\n　Ta sẽ giết ngươi!!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_b0600ab9a9e8559d": {
+      "text": "$$アルト$$\n「Chiến binh Hoàn hảo cái gì chứ!\n　Ta không thể thua một cỗ máy giết chóc\n　đã đánh mất trái tim con người!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_7cbc63dad295f862": {
+      "text": "$$ニーバ$$\n「Chó thua cuộc chỉ biết sủa thôi sao!\n　Một con người bình thường mà thắng nổi ta à!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_07f53c816e0a51f5": {
+      "text": "$$アルト$$\n「Đừng xem thường cơn giận của ta!\n　Ta sẽ bắt ngươi trả giá cho những việc tàn ác đã làm!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_2d09c6f6a2d990ea": {
+      "text": "$$ニーバ$$\n「Ngươi khá đấy...!\n　Với một con người bình thường thì giỏi lắm rồi!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_3c5fcfc484a51913": {
+      "text": "$$宗介$$\n「Ta không phải con người bình thường.\n　Ta là một người lính được huấn luyện.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_0476ffd10c764b0e": {
+      "text": "$$宗介$$\n「Một con chuột thí nghiệm say sưa với sức mạnh được ban\n　không thể thắng một người lính thực thụ.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$ニーバ$$\n「Tên khốốốốn!\n　Ngươi muốn chết đến thế sao!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_2b3479c4cf0680f4": {
+      "text": "$$宗介$$\n「Chỉ riêng việc chìm đắm trong cảm xúc như thế\n　đã chứng tỏ ngươi không hoàn hảo rồi!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_e370696b8936b08c": {
+      "text": "$$ニーバ$$\n「Chẳng ra gì cả!\n　Ngươi đang bị cỗ máy đùa giỡn!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_9d7b02c5e728b7aa": {
+      "text": "$n\n「Hạ được ta rồi hãy giở giọng thuyết giáo.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_9af213fc64e0afec": {
+      "text": "$$ニーバ$$\n「...Cái gì?」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_d7f1c506e78e55ff": {
+      "text": "$n\n「Đến kẻ như ta mà còn không hạ nổi,\n　thì ngươi đừng hòng đấu được với $$キリコ$$!\n　Hãy hiểu cho rõ điều đó!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_0c705091f748360e": {
+      "text": "$$ニーバ$$\n「Tên kia!\n　Lúc nãy ngươi dám làm thế với ta!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_9eb8599304125b2f": {
+      "text": "$n\n「Đừng chọc cười ta. Nếu tính chuyện\n　ai đã làm gì ai, thì kẻ dùng thủ đoạn đê tiện nhất\n　là ngươi mới đúng là thằng khốn.」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_a072aa25e5f521e0": {
+      "text": "$n\n「Chẳng cần $$キリコ$$ ra tay...!\n　Loại khốn nạn nhất này, ta sẽ đánh bại!」",
+      "status": "reviewed"
+    },
+    "stage0023_04:r_24e1a808a1609a1a": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

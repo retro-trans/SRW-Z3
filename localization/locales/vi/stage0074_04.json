@@ -1,0 +1,1038 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0074_04:r_caaab7bad760e16d": {
+      "text": "$$赤城$$\n「Sao lại thế này!\n　Tinh nhuệ của quân Liên bang hoàn toàn không phải đối thủ!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_99b162aa6aa286a2": {
+      "text": "$$飯塚$$\n「Rút lui đi, $$赤城$$!\n　Không thể cầm cự thêm nữa!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_58fb02434a1c40b2": {
+      "text": "$$赤城$$\n「Nhưng thưa chỉ huy!\n　Vẫn còn người dân...!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_1c0f94acd5a8a143": {
+      "text": "$$飯塚$$\n「...Lúc này, ưu tiên dẫn đường cho dân đã sơ tán.\n　Rất tiếc, nhưng chúng ta phải bỏ Atami.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_1263541f4071624e": {
+      "text": "$$赤城$$\n「...Rõ.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_3bc300bbdc277d82": {
+      "text": "$$ミケーネ神$$\n「Hừ...\n　Còn yếu hơn cả đám lần trước nữa.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_38762a09460d8b6b": {
+      "text": "Người dân\n「H-hết rồi!\n　Atami hết thật rồi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_7ab28e70b4d4f641": {
+      "text": "Người dân\n「Không chỉ Atami đâu!\n　Chắc cả thế giới cũng sắp tận diệt rồi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_b05f6a6e8f3d9b24": {
+      "text": "Người dân\n「H-hôm nay là ngày tận thế rồi!\n　Ôi, Nam mô A Di Đà Phật, Nam mô A Di Đà Phật!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_ec335e69f984b8b3": {
+      "text": "$$ハーデス$$\n「Thành phố này vẫn còn lưu lại khí tức của $$ゼウス$$.\n　Thiêu rụi tất cả cho ta.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_0abcaf0c31978670": {
+      "text": "$$ミケーネ神$$\n「Tuân lệnh, thưa ngài $$ハーデス$$.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_1d6bc48b7f246730": {
+      "text": "$$ハーデス$$\n「Đặc biệt phải xử lý kỹ tòa nhà kia.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_1af20fccc3c53cfc": {
+      "text": "$$ミケーネ神$$\n「Rõ!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_f951916061232dcd": {
+      "text": "$$ローレライ$$\n「$$くろがね屋$$!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_4d863c3fb88a4c39": {
+      "text": "$$シロー$$\n「Chạy đi, $$ローレライ$$!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_44f4742c3dcce39a": {
+      "text": "$$ローレライ$$\n「Nhưng...!\n　Bà $$お菊$$ và chú $$クロス$$ đã nhờ mình\n　bảo vệ $$くろがね屋$$ mà...!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_9e701cdeb3842c21": {
+      "text": "$$ローレライ$$\n「Đã thế này thì mình sẽ...」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_6fd81f4abebe60c5": {
+      "text": "$$シロー$$\n「$$ローレライ$$!\n　Cậu không được chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_da2132b5038ec737": {
+      "text": "$$シロー$$\n「Cậu đã hứa với mình và anh hai\n　sẽ không bao giờ chiến đấu nữa rồi mà!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_495d61d3ec7e16f2": {
+      "text": "$$ローレライ$$\n「Nhưng...!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_5cd353758cfe474d": {
+      "text": "$$シロー$$\n「Hãy tin vào anh hai và $c!\n　Nhất định mọi người sẽ đến Atami!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_a653c8dec4c0f06f": {
+      "text": "$$ハーデス$$\n「Hừm...!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_86d493e37a9799a7": {
+      "text": "$$ボビー$$\n「Thành phố Atami...!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_09d0fcc600cdd3df": {
+      "text": "$$キャシー$$\n「Mycenae... không ngờ chúng lại làm đến mức này.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_182faded068c15ed": {
+      "text": "$$ジェフリー$$\n「Thi triển sức mạnh áp đảo và tàn nhẫn đến vậy...\n　Đó là thần sao.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_9c206d19bfda4bd5": {
+      "text": "$$ハーデス$$\n「Lại là đám người lần trước.\n　Các ngươi vẫn chưa chừa mà còn tìm đến đây sao.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_6e558bc69acf5bf3": {
+      "text": "$$竜馬$$\n「Chậc... Không ngờ lại phải nghe câu\n　mà chúng ta vẫn thường nói với lũ ác ôn...!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_d60d0818e965232f": {
+      "text": "$$シモン$$\n「Nhưng hôm nay, chúng ta sẽ học theo\n　sự dai dẳng của lũ đó...!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_5b23687574286204": {
+      "text": "$$宗介$$\n「Cậu làm được chứ, $$甲児$$?」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_6fd86c96891ea942": {
+      "text": "$$甲児$$\n「Cả tôi lẫn Mazinger đều tơi tả,\n　năng lượng quang tử cũng chẳng còn bao nhiêu...」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_43e4e548c0b28376": {
+      "text": "$$甲児$$\n「Nhưng ít nhất về ý chí,\n　tôi tuyệt đối không thể thua chúng được!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_d80a9688790ed583": {
+      "text": "$$ローレライ$$\n「Anh $$甲児$$...」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_708bea61e3c43ada": {
+      "text": "$$シロー$$\n「Đi thôi, $$ローレライ$$!\n　Giao trận chiến cho anh hai và mọi người,\n　chúng ta chạy đi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ローレライ$$\n「Ừ!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_0827963cfd706e8d": {
+      "text": "$$ハーデス$$\n「Con người đúng là loài chẳng hề tiến hóa!\n　Lũ người chống lại bọn ta thuở ấy...\n　trong thời đại thần thoại, cũng nói những lời như thế!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$ハーデス$$\n「Ý chí, niềm kiêu hãnh, lòng dũng cảm, những thứ cần bảo vệ...!\n　Ta sẽ cho các ngươi thấy những thứ đó bất lực thế nào\n　trước sức mạnh của thần!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_3f4035fd9db81258": {
+      "text": "$$カレン$$\n「Trước hết, hạ đám $$タロス像$$!\n　Đánh bại chúng để giảm bớt lực lượng địch!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_567b361a454c4b73": {
+      "text": "$$タケル$$\n「Khoan đã!\n　Nhìn đầu chúng kìa!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_d22851aaafbbf8fc": {
+      "text": "Kedora\n「Xóa sổ tất cả những kẻ chống lại Mycenae...」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_352534f64413d954": {
+      "text": "$$葵$$\n「Kedora!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_79f2664edb1af798": {
+      "text": "$$アルト$$\n「Thứ sinh vật chiến đấu đó lại xuất hiện rồi sao!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$ゼロ$$\n「Quái Thú Máy bị nó ký sinh đã mạnh lên vượt bậc!\n　Dù đối thủ là $$タロス像$$ cũng không được chủ quan!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_1c5aa0d15ae24846": {
+      "text": "$$ゼロ$$\n「Từng kẻ địch đều mạnh hơn chúng ta!\n　Tiến lên theo đội hình sát nhau, cả nhóm tấn công liên tiếp\n　để chắc chắn hạ từng tên một!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_53bb64ee17750ee2": {
+      "text": "$$スザク$$\n（$$ルルーシュ$$...）",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_7a7add80fde475ba": {
+      "text": "$$Ｃ．Ｃ．$$\n（Cậu cũng đã hạ quyết tâm rồi sao.）",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_b2befefdbed1393d": {
+      "text": "$$ゼロ$$\n「Toàn quân, bắt đầu tấn công!\n　Chúng ta sẽ trở thành sức mạnh giết thần!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_2103f6df2ea2e447": {
+      "text": "$n\n「Sức mạnh giết thần sao...!\n　Không tệ!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_a12e3e130d896ff7": {
+      "text": "$$甲児$$\n「Bọn ta tới đây, $$ハーデス$$!!\n　Hãy đón lấy sức mạnh liều chết của bọn ta!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ハーデス$$\n「Hừ... lũ sinh vật hạ đẳng.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_91bf33c27ad39f0a": {
+      "text": "$$ハーデス$$\n「Ra vậy...\n　Xem ra các ngươi đã tiến hóa đôi chút so với lần trước.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_ee220318b96ab538": {
+      "text": "$$ハーデス$$\n「Nhưng với bước tiến chậm chạp đó,\n　các ngươi sẽ không thể đạt đến ngôi vị thần\n　trước khi vòng luân hồi khép lại!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_ce1b55e526b6277a": {
+      "text": "$$甲児$$\n「$$ハーデス$$!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_c304df6888eb78f7": {
+      "text": "$$ハーデス$$\n「Cũng giúp ta giết thời gian đấy, lũ người!\n　Nhưng ngay cả $$バアル$$ các ngươi còn không thắng nổi,\n　huống chi là bọn ta!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_c26958634526e597": {
+      "text": "$$ハーデス$$\n「Việc các ngươi chật vật với Kedora\n　chính là bằng chứng rõ nhất!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_cdb750c9d380881a": {
+      "text": "$$タケル$$\n「Ý ngươi là sao!?」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_95fda74613c97b39": {
+      "text": "$$ハーデス$$\n「Để ta nói cho mà biết. Nhằm chiến đấu với $$バアル$$,\n　bọn ta đã tạo ra Kedora bằng cách cấy ghép\n　bộ não của quỷ hủy diệt đói khát.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_1956994937f8171e": {
+      "text": "$$隼人$$\n「Quỷ hủy diệt đói khát...!\n　Tức là $$インベーダー#keyword$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_48f49f6728c15612": {
+      "text": "$$ボス$$\n「Vậy lý do $$インベーダー#keyword$$\n　có mặt trong di tích Mycenae là...!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$甲児$$\n「Để cải tạo thành Kedora sao!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_f02c37d91387d0ad": {
+      "text": "$$ハーデス$$\n「Dù có bản năng hủy diệt bất tận,\n　với sức mạnh của bọn ta,\n　chúng vẫn trở thành những binh sĩ trung thành!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$ハーデス$$\n「Đến Kedora mà các ngươi còn không thắng nổi,\n　thì làm sao ngăn được cuộc xâm lăng của $$バアル$$!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_9796b3efa401a303": {
+      "text": "$$ノリコ$$\n「Ư...!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_643b6eebfc0186b3": {
+      "text": "$$ハーデス$$\n「Hãy biết ơn đi!\n　Biết ơn kẻ đã định ngưng đọng thời gian hành tinh này\n　để cứu các ngươi khỏi $$バアル$$!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_291280e5f7eb9d70": {
+      "text": "$n\n「Câm đi...!\n　Một thế giới không có tương lai thì còn hy vọng gì chứ!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_32eb462c1b4999cb": {
+      "text": "$$ハーデス$$\n「Kẻ yếu mà cũng ra giọng!\n　Nếu thấy uất ức thì hãy mạnh lên đi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_1f4337d6d393fc37": {
+      "text": "$$甲児$$\n「Khốn kiếppp!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_4740e748fae085ee": {
+      "text": "$$アルト$$\n「Đừng liều lĩnh, $$甲児$$!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_b76524cd840e1d37": {
+      "text": "$$甲児$$\n「Tôi... chúng tôi...!\n　Loài người sẽ không thua!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_730ffe18400abfc2": {
+      "text": "$$ハーデス$$\n「Ha ha ha, đồ ngu!\n　Vậy ta sẽ cho ngươi biết mình bất lực đến mức nào!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_ffe0fca26da5cd38": {
+      "text": "$$さやか$$\n「$$甲児$$!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_bfb27f9eb2f7073e": {
+      "text": "$$甲児$$\n「Làm sao ta chịu dừng lại\n　chỉ vì chút này chứ!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_859dfa27bcaafe30": {
+      "text": "$$竜馬$$\n「Cậu...」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_71ebf05996a4b0fd": {
+      "text": "$$甲児$$\n「Tôi... sẽ không từ bỏ hy vọng!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_6214c11b1bca811e": {
+      "text": "???\n「Đúng vậy, $$甲児$$!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_8eaf6f3098ffed12": {
+      "text": "$$弁慶$$\n「Đó là...!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_cf507214fe955d75": {
+      "text": "$$隼人$$\n「$$真ゲッタードラゴン$$!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_2113dcbabdfc758a": {
+      "text": "$$渓$$\n「Tiến lên, $$號$$!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$凱$$\n「Bên này lúc nào cũng sẵn sàng!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_6a74519e1fc29c4b": {
+      "text": "$$號$$\n「Uoooooh!\n　Getteeeeer!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_5b992878fee054b5": {
+      "text": "$$ハーデス$$\n「Đến rồi sao, sứ đồ của tia Getter!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$號$$\n「Đối thủ của ta không phải ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_4a14ec0c511c7f0d": {
+      "text": "$$甲児$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_20cf167c0ec0d4d5": {
+      "text": "$$號$$\n「Nhận lấy, $$甲児$$!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_b591d812c96c6c99": {
+      "text": "$$甲児$$\n「Á!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_e350fa099c1ab072": {
+      "text": "$$弁慶$$\n「Cậu làm gì vậy, $$號$$!?」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$號$$\n「Hãy cảm nhận đi, $$甲児$$!\n　Sự sống trong chính mình! Ánh sáng ấy!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_c33bd700553abf91": {
+      "text": "$$甲児$$\n「Sự sống... ánh sáng...!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_feee5c91826230e1": {
+      "text": "$$甲児$$\n「Uooooooooh!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_bccc48e1964ad22d": {
+      "text": "$$隼人$$\n「Ánh sáng đó là...!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_f8736aaaa216c766": {
+      "text": "$$さやか$$\n「Là năng lượng quang tử sao!?」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_d1ec2522c87c361d": {
+      "text": "$$甲児$$\n「Sức mạnh của Mazinger... đang hồi phục!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_3599f0a4343fd95c": {
+      "text": "$$ハーデス$$\n「Không thể nào!\n　Sức mạnh của $$ゼウス$$ đáng lẽ đã mất rồi cơ mà!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_3bc7834a5bf3ee76": {
+      "text": "$$ハーデス$$\n「Tên đó!\n　Chẳng lẽ hắn dùng tia Getter để tiến hóa...!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_366814efdc8b5800": {
+      "text": "$$號$$\n「Đúng vậy.\n　Cậu ấy đã khuếch đại ánh sáng bên trong mình,\n　biến nó thành sức mạnh.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_9be1a4c10bb62515": {
+      "text": "$$號$$\n「Và không chỉ riêng $$甲児$$!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_94a88c90e557e16e": {
+      "text": "$$ハーデス$$\n「Ưư!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_1c208ca0cbf26f28": {
+      "text": "$$ボス$$\n「Cái... gì vậy...!?」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_5b7ee307a700171a": {
+      "text": "$$隼人$$\n「Tia Getter sao...!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_8d8f065c932da30a": {
+      "text": "$$弁慶$$\n「Nhưng có gì đó khác hẳn mọi lần!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_f5432119677514f7": {
+      "text": "$$竜馬$$\n「Cơ thể tôi... đang bốc cháy!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_4e5c8e989c4a7691": {
+      "text": "$$ハーデス$$\n「Chậc! Sứ đồ của tia Getter!\n　Ngươi định cưỡng ép loài người tiến hóa sao!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_adec86483b13599a": {
+      "text": "$$號$$\n「Không phải.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_2cf701bbcde3ec13": {
+      "text": "$$號$$\n「Nơi có hy vọng, ánh sáng sẽ nảy sinh.\n　Ý chí con người sẽ mở đường tới tương lai.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_c17c58fdba72005e": {
+      "text": "$$甲児$$\n「Giống hệt lời của $$ゼウス$$...」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_1fe8564d2b959317": {
+      "text": "$$タケル$$\n「Cậu đã bất tỉnh lúc đó cơ mà,\n　sao lại biết điều đó?」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_f527e012803f7f1c": {
+      "text": "$$甲児$$\n「Ông ấy đã gửi gắm cho tôi.\n　Trong một vũ trụ vượt ngoài thời gian và không gian.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_4b1247bd3ca4905d": {
+      "text": "$$號$$\n「Đúng vậy.\n　Ai cũng có ánh sáng trong tim.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_00c55e25f87b71d0": {
+      "text": "$$號$$\n「Lũ thần bóng tối Mycenae muốn phủ bóng đen lên ánh sáng ấy!\n　Ta không cho phép các ngươi tồn tại!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_338f3b27e51dcc41": {
+      "text": "$$渓$$\n「Tất nhiên, bọn tôi cũng vậy!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_d91d4bc2d52b61c4": {
+      "text": "$$弁慶$$\n「Cả $$渓$$ và $$凱$$ cũng ở đó sao!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_0c8ea89b07432421": {
+      "text": "$$凱$$\n「Tất nhiên rồi ạ!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_4dbfba00ba7744ee": {
+      "text": "$$渓$$\n「Để mọi người chờ lâu rồi,\n　nhưng $$真ゲッタードラゴン$$ đã hoạt động!\n　Bọn tôi cũng sẽ chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_be100a32b731708d": {
+      "text": "$$ダリー$$\n「Mọi người vẫn chờ cậu đấy, $$渓$$!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_702f82442fcec8a9": {
+      "text": "$$ギミー$$\n「Thế này thì như có thêm trăm người trợ sức rồi!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_b1e38da4e8775ffe": {
+      "text": "$$隼人$$\n（Sự thức tỉnh của $$真ゲッタードラゴン$$...\n　Có liên quan đến việc Mycenae hồi sinh sao...）",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$號$$\n「$$隼人$$, giờ hãy chiến đấu với kẻ địch trước mắt đã.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$隼人$$\n「Hừ... đúng vậy.\n　Kẻ không vượt qua nổi hôm nay\n　thì chẳng có tư cách mơ đến ngày mai.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_3dad695c99e9e052": {
+      "text": "$$ハーデス$$\n「Hừ hừ...」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_66d4ae3a21caf881": {
+      "text": "$$ハーデス$$\n「Ha ha ha ha ha ha ha!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_0c18da7b3a37825d": {
+      "text": "$$渓$$\n「Tên kia!\n　Có gì mà cười chứ!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_63249745ffae61b6": {
+      "text": "$$ハーデス$$\n「Thế này thì làm sao ta nhịn cười được!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_abdb034ae8509702": {
+      "text": "$$凱$$\n「U-uy thế thật đáng sợ!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_3ff2e21207d1d1d3": {
+      "text": "$$ハーデス$$\n「Được lắm, loài người!\n　Nếu các ngươi chọn con đường tiến hóa,\n　thì hãy cho ta thấy đi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_e51ecf6d6aa42e75": {
+      "text": "$$ハーデス$$\n「Vì đó chính là sự phản nghịch lớn nhất đối với bọn chúng!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_47ddabb7b60131c2": {
+      "text": "$$刹那$$\n「Bọn chúng...?」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_b025267f22788233": {
+      "text": "$$ハーデス$$\n「Những kẻ định giấu hành tinh này trong nhà tù thời gian...!\n　Để chúng phải khóc hận,\n　ta sẽ thử sức mạnh của các ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_ec1a06a7023bf72c": {
+      "text": "$$ハーデス$$\n「Ta, $$ハーデス$$, vua cõi âm, ra lệnh!\n　$$ガラダブラ$$, dũng sĩ của Olympus!\n　Hãy dâng linh hồn cho ta một lần nữa!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_8805f96e52aaa462": {
+      "text": "$$ボス$$\n「Garada và Doublas!?」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_124591cb154fae64": {
+      "text": "$$さやか$$\n「Hai Quái Thú Máy đã hợp thể!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$ガラダブラ$$\n「Ồ! Ooooooh!\n　Cơ thể ta lại trở về cõi vật chất!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_4bf9b05b5f948170": {
+      "text": "$$ハーデス$$\n「Tristan và Isolde đã chia cơ thể ngươi làm hai,\n　rồi bảo quản suốt bấy lâu nay.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_eaa52d152f444bfd": {
+      "text": "$$ハーデス$$\n「Giờ ta, $$ハーデス$$, vua cõi âm, đã gọi linh hồn ngươi\n　trở về thể xác ấy.\n　Hãy thỏa sức chiến đấu đi, $$勇者ガラダブラ#pilot$$!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_b4bc9e9435b58e6f": {
+      "text": "$$ガラダブラ$$\n「Đa tạ ngài $$ハーデス$$!\n　$$ガラダブラ$$ này sẽ dâng lên vua cõi âm\n　một trận chiến không hổ danh dũng sĩ!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_a9227573166977a9": {
+      "text": "$$ワッ太$$\n「T-tên đó... không phải Quái Thú Máy hợp thể đâu!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_b0600ab9a9e8559d": {
+      "text": "$$赤木$$\n「Garada và Doublas vốn là cùng một cơ thể!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_7cbc63dad295f862": {
+      "text": "$$葵$$\n「Ghê tởm gấp đôi...!\n　Còn khó đối phó thì chắc phải hơn thế nữa!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_07f53c816e0a51f5": {
+      "text": "$$ハーデス$$\n「Lũ người kia!\n　$$ガラダブラ$$, kẻ được ca tụng là dũng sĩ Mycenae,\n　sẽ thử thách tương lai của các ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_2d09c6f6a2d990ea": {
+      "text": "$$ハーデス$$\n「Nếu không chứng minh được sức mạnh,\n　tất cả các ngươi sẽ chết tại đây!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_3c5fcfc484a51913": {
+      "text": "$$ガラダブラ$$\n「Phần còn lại cứ giao cho tôi, thưa ngài $$ハーデス$$.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_0476ffd10c764b0e": {
+      "text": "$$ガラダブラ$$\n「Nào, loài người!\n　Ta đã có lại thể xác sau một thời gian dài!\n　Hãy thỏa mãn lòng ham chiến của ta đi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$甲児$$\n「Câm đi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_2b3479c4cf0680f4": {
+      "text": "$$甲児$$\n「Bọn ta không rảnh chơi đùa với ngươi!\n　Bọn ta sẽ dốc toàn lực!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_e370696b8936b08c": {
+      "text": "$$竜馬$$\n「$$號$$! $$渓$$, $$凱$$!\n　Đám này hơi khó nhằn cho một trận tái xuất đấy!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_9d7b02c5e728b7aa": {
+      "text": "$$號$$\n「Tôi hiểu.\n　Nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_9af213fc64e0afec": {
+      "text": "$$凱$$\n「Không cần nói ra tôi cũng hiểu, $$號$$.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_d7f1c506e78e55ff": {
+      "text": "$$渓$$\n「Vì tương lai của chúng ta... của cả nhân loại,\n　tuyệt đối không được thua chúng...!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_0c705091f748360e": {
+      "text": "$$號$$\n「Tiến lên!\n　Để bảo vệ tương lai tràn đầy ánh sáng!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_9eb8599304125b2f": {
+      "text": "$$甲児$$\n「Quyết đấu đi, $$ガラダブラ$$!!\n　Ta sẽ cho ngươi thấy sức mạnh ánh sáng\n　của ta... của Mazinger!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_a072aa25e5f521e0": {
+      "text": "$$ガラダブラ$$\n「Khá lắm, con người!\n　Quả không hổ là kẻ được ngài $$ハーデス$$ để mắt đến!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_24e1a808a1609a1a": {
+      "text": "$$ガラダブラ$$\n「Ta sẽ mong chờ xem từ đây\n　các ngươi có thể vươn cao đến đâu!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_53128ce8f154fd06": {
+      "text": "$$竜馬$$\n「Hừ... Thần cũng biết buông lời vớt vát cơ đấy.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_03b5db9ce98fb8d6": {
+      "text": "$$甲児$$\n「Cuối cùng cũng thắng được, nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_3915fb4102f1c1dd": {
+      "text": "$$號$$\n「$$甲児$$...\n　Chiến thắng hôm nay là kỳ tích\n　do trái tim mạnh mẽ của cậu tạo nên.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_817b2773b4ed563e": {
+      "text": "$$甲児$$\n「Kỳ tích... sao.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_1cc233cbc8c80af7": {
+      "text": "$$ノリコ$$\n「Đúng vậy, $$甲児$$.\n　Kỳ tích không tự xảy ra,\n　mà là thứ chúng ta tạo nên.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$ギュネイ$$\n「Ăn may mà cũng nói cho hay được.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_e180b22d18f48d38": {
+      "text": "$$シン$$\n「Này... Giờ anh cũng là thành viên của $c rồi,\n　đừng gọi chiến thắng của chính mình là ăn may chứ.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_e598c2a0b27e7f50": {
+      "text": "$$マリーダ$$\n「Cậu ấy nói đúng đấy, $$ギュネイ$$.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_4d2a9066c4e7b27f": {
+      "text": "$$クェス$$\n「Chúng ta đã thắng thần rồi đấy!\n　Anh cứ thành thật vui mừng có phải hơn không!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_10340119af3ed6db": {
+      "text": "$$ギュネイ$$\n「Ừ-ừ...」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_23a9c7ab620ab112": {
+      "text": "$$カミーユ$$\n「Nhưng $$ギュネイ$$ nói cũng có lý.\n　Hôm nay thắng không có nghĩa lần sau cũng thắng.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_4f0aca6deda07883": {
+      "text": "$$バナージ$$\n「Chúng ta... phải mạnh hơn nữa, đúng không...」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_8fe40600ce62dfbc": {
+      "text": "$$刹那$$\n「Dùng lời của chúng mà nói, có lẽ không chỉ chúng ta,\n　mà cả nhân loại đều cần phải tiến hóa.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_ff4ce5f3cf96b617": {
+      "text": "$$アムロ$$\n（Sự tiến hóa của nhân loại sao...）",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_d73c21f119847e35": {
+      "text": "$$宗介$$\n「Nhưng phải làm thế nào?\n　Cứ luyện tập liên tục như $n sao?」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_89766f5ffaa912d4": {
+      "text": "$n\n「Chúng ta đã biết câu trả lời rồi.」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$號$$\n「Nơi có hy vọng, ánh sáng sẽ nảy sinh...」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_451f726d4299ea35": {
+      "text": "$$甲児$$\n（$$ゼウス$$...\n　Chúng tôi sẽ khắc ghi lời ấy mà tiếp tục chiến đấu.）",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_e3d111e8bb190cb1": {
+      "text": "$$甲児$$\n「Mọi người đang làm gì vậy!\n　Không mau chạy đi là nguy đấy!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_7c0d3c51f9a11ca0": {
+      "text": "Người dân\n「X-xin lỗi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_ab97c2b2418ea732": {
+      "text": "Người dân\n「Ch-chỉ vì một phút tham lam thôi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_2ddff5064af78db4": {
+      "text": "Người dân\n「Dinh thự ấy... chẳng có ai ở,\n　nên chúng tôi tưởng là bị bỏ hoang!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_050d0532c4b24bfe": {
+      "text": "$$甲児$$\n「Mọi người nói gì vậy?」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_d583fcea31bdad2e": {
+      "text": "Người dân\n「Ch-chúng tôi sẽ trả lại những thứ đã lấy,\n　xin hãy tha cho chúng tôi～!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_475f7653621a91b5": {
+      "text": "$$甲児$$\n「Siêu Hợp Kim Z...!\n　Họ đã lấy nó từ nhà mình sao!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_f228ae702350849b": {
+      "text": "$$甲児$$\n（Nếu Siêu Hợp Kim Z là một phần của $$ゼウス$$,\n　có lẽ đám Mycenae bị nó thu hút\n　nên mới xuất hiện ở Atami...）",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_d69dc027cba3003f": {
+      "text": "$$甲児$$\n（Dù phải bỏ mạng tại đây, mình vẫn sẽ chiến đấu!）",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_3c3735172a480b72": {
+      "text": "$$甲児$$\n（Lũ thần Mycenae coi mạng người chẳng khác gì sâu bọ!\n　Dù chết, ta cũng không khuất phục các ngươi!）",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_1f418b5594cea300": {
+      "text": "$$竜馬$$\n（Có lẽ đời mình cũng đến lúc kết thúc tại đây rồi...）",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_f87fb889124bfaef": {
+      "text": "$$竜馬$$\n「Nhưng nghe đây!\n　Dù chết, ta cũng sẽ ngã về phía trước!\n　Đừng tưởng có thể đánh bại ta, Mycenae!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_79c90de32a79212d": {
+      "text": "$$ゼロ$$\n（Lũ nhân danh thần linh để chà đạp phẩm giá con người...!）",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_33f7fd55913419e8": {
+      "text": "$$ゼロ$$\n（Hạng như các ngươi mà đòi đứng trên nhân loại sao!\n　Bọn ta sẽ chứng minh điều đó!!）",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_473d9a88b4ca96e7": {
+      "text": "$$赤木$$\n「Khốn kiếp! Atami vốn là thành phố có cảnh đẹp,\n　đồ ăn ngon, suối nước nóng dễ chịu biết bao!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_4de6ac85c63bac12": {
+      "text": "$$赤木$$\n「Các ngươi có hiểu không!\n　Nơi này từng có người sinh sống đấy!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_4c92652c9b1adf6f": {
+      "text": "$$赤木$$\n「Hạng như các ngươi đừng có tự xưng là thần!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_ce90563a934d49fb": {
+      "text": "$$號$$\n「$$真ゲッタードラゴン$$ đã thức tỉnh!\n　Để cứu hành tinh này và nhân loại!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_4fb296e63cb1fb46": {
+      "text": "$$凱$$\n「Tôi biết, $$號$$!\n　Cả sứ mệnh của chúng ta nữa!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$渓$$\n「Dùng sức mạnh Getter bảo vệ tương lai nhân loại!\n　Vì vậy, chúng ta không thể thua lũ đó!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_9dc59affd40f32fc": {
+      "text": "$$號$$\n「$$渓$$, $$凱$$...!\n　Đã đến lúc chúng ta hợp sức một lần nữa!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_0cea115be526a319": {
+      "text": "$$號$$\n「Tiến lên, Getter!!\n　Cuộc chiến thật sự của chúng ta bắt đầu từ bây giờ!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_d36072babd12aeb4": {
+      "text": "$$甲児$$\n「$$ハーデス$$!\n　Ta sẽ trả lại món nợ ngươi đã gây ra cho ta!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_09ee921a85025fd3": {
+      "text": "$$ハーデス$$\n「Tên ngu xuẩn đã giúp $$ゼウス$$!\n　Ngươi vẫn còn sống sao!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_fae689f2a1057b61": {
+      "text": "$$ハーデス$$\n「Vậy ta sẽ xé xác ngươi,\n　rồi dí thi thể ngươi vào mặt $$ゼウス$$!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_91c6d0bb53854ecc": {
+      "text": "$$甲児$$\n「Làm được thì cứ thử xem!\n　Nhưng ta cũng không định để ngươi hạ dễ dàng đâu!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_42a3149105314ab8": {
+      "text": "$$ガラダブラ$$\n「Thi hài của ta vẫn ghi nhớ!\n　Nỗi đau từ những vết thương ngươi đã khắc lên nó!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_62ecd978c667bd29": {
+      "text": "$$ガラダブラ$$\n「Và linh hồn ta cũng nhớ!\n　Thuở thần thoại, ngươi đã về phe $$ゼウス$$\n　và chiến đấu với $$勇者ガラダブラ#pilot$$ này!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_d441e6cc908ac01b": {
+      "text": "$$甲児$$\n「Ta chẳng quan tâm chuyện quá khứ!\n　Điều quan trọng với ta lúc này\n　là đánh bại ngươi ngay trước mắt!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_b2aab8873350ea1f": {
+      "text": "$$甲児$$\n「Tiến lên, Mazinger!\n　Đây là trận chiến liều mạng!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_2c7af4c55d8ac938": {
+      "text": "$$竜馬$$\n「Ta chẳng cần biết danh hiệu thần hay dũng sĩ gì hết!\n　Đánh bại mọi kẻ địch chính là cách sống của ta!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_653b741d07545dff": {
+      "text": "$$ガラダブラ$$\n「Dám liều lĩnh xông vào ta sao, con người!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_d584d4b5af55b1cf": {
+      "text": "$$竜馬$$\n「Hù dọa thế thì ích gì!\n　Muốn ta câm miệng thì hãy cho ta thấy sức mạnh của ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_db0ee69ece206fcd": {
+      "text": "$$竜馬$$\n「Ta sẽ đập tan nó ngay chính diện!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_f97e6925c9e37332": {
+      "text": "$$ガラダブラ$$\n「Hình dạng đó...!\n　Là quyến thuộc của Getter sao!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_422861e0b8d77d0c": {
+      "text": "$$渓$$\n「Tên này biết $$真ゲッタードラゴン$$ sao!?」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_ef16bcaa2b0e0c45": {
+      "text": "$$凱$$\n「Định dọa bọn ta bằng cách đó cũng vô ích thôi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_2b93cca10f1c36a8": {
+      "text": "$$ガラダブラ$$\n「Ra vậy! Quả là hành tinh tràn đầy $$オリジン・ロー$$!\n　Có lẽ các ngươi đúng là những con người được chọn!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_7980fd37141d88d0": {
+      "text": "$$號$$\n「Sai rồi! Bọn ta không được chọn,\n　mà tự chọn tương lai bằng chính sức mạnh của mình!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_ac21212c36d2b9ad": {
+      "text": "$$號$$\n「Đó là cuộc chiến của bọn ta...!\n　Cũng chính là sống!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_a26e2108358af7a4": {
+      "text": "$$ワッ太$$\n「Này, bộ xương ba đầu!\n　Không biết ngươi là dũng sĩ hay gì, nhưng ta cũng\n　đang gánh trên vai danh hiệu vô địch đấy!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_a8118b2e37aa1382": {
+      "text": "$$ガラダブラ$$\n「Đừng chọc ta cười, nhãi ranh!\n　Mau cút đi trước khi tè ra quần!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_017a56991b7b8ca4": {
+      "text": "$$ワッ太$$\n「Đừng tưởng ngươi có thể mãi lên mặt!\n　Ta đang liều cả mạng đấy!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_ad3e1db3419665fb": {
+      "text": "$$ワッ太$$\n「Nhìn cho kỹ, thần linh!\n　Ta sẽ cho ngươi thấy ý chí của nam nhi $$ワッ太$$ này!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_0149e3a5f2e5ef78": {
+      "text": "$$ガラダブラ$$\n「Hết giờ chơi búp bê rồi!\n　$$勇者ガラダブラ#pilot$$ này sẽ nghiền nát\n　đống sắt vụn mà loài người các ngươi tự hào!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_3ad10e705167a3fa": {
+      "text": "$$正太郎$$\n「Tôi không cho phép!\n　$$鉄人$$ là sứ giả mặt trời...!\n　Là hy vọng của chúng tôi!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_bdc546b199c80996": {
+      "text": "$$ガラダブラ$$\n「Sứ giả mặt trời sao...!?」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_22c8caf8c08c5119": {
+      "text": "$$ガラダブラ$$\n「Ra vậy!\n　Tức là các ngươi đang đứng trước ngưỡng cửa\n　của diệt vong và tiến hóa!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_9c13714b3efbc7a8": {
+      "text": "$$ガラダブラ$$\n「Ta cảm nhận được...!\n　Ta cảm nhận được dòng máu dã thú từ các ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_96f156e19b53fc09": {
+      "text": "$$葵$$\n「Tức là ngươi cảm nhận được bản năng hoang dã của bọn ta!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_feb0390bba7fe1fb": {
+      "text": "$$葵$$\n「Sẽ không chỉ dừng ở cảm nhận đâu!\n　Hãy dùng chính thân mình mà nếm trải\n　linh hồn rực cháy của bọn ta!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_8a78bcec22029401": {
+      "text": "$$ガラダブラ$$\n「Quả nhiên!\n　Xem ra ngài $$ハーデス$$ đã xác định nơi đây\n　là điểm tận cùng của thần thoại!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_f42017dfce31dea9": {
+      "text": "$$赤木$$\n「Chị $$いぶき$$, $$青山$$!\n　Nhất định phải chặn tên này tại đây!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_ef7426919f628d8a": {
+      "text": "$$ガラダブラ$$\n「Không sợ $$勇者ガラダブラ#pilot$$ này sao!\n　Ta khen ngươi đấy, con người!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_9e994a4b926d9906": {
+      "text": "$$赤木$$\n「Ngươi là dũng sĩ thì ta là nhân viên công ty!\n　Về lòng tự hào, ta không thua ngươi đâu!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_ffae76d2a77abf5a": {
+      "text": "$$ガラダブラ$$\n「Nhân viên công ty!?\n　Là danh hiệu dũng sĩ của loài người sao!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_3ac462d37e5893ff": {
+      "text": "$$赤木$$\n「Đúng vậy! Ta sẽ cho ngươi thấy sức mạnh của\n　những người chiến đấu với niềm tự hào về công việc của mình!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_fd6bdf7910d7d925": {
+      "text": "$$ガラダブラ$$\n「Ta hiểu rồi...!\n　Ngươi là kẻ sống sót từ nền văn minh lửa\n　đã đạt đến đỉnh cao sao!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_d38be46e6cd7a5e5": {
+      "text": "$$ノリコ$$\n「Không biết ngươi đang nói gì,\n　nhưng tôi không phải ngọn lửa tầm thường đâu!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_3fe2078328753c16": {
+      "text": "$$ノリコ$$\n「Trong tim tôi, ngọn lửa mang tên chị yêu quý\n　luôn bừng cháy!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_c66844158d1ce600": {
+      "text": "$$ノリコ$$\n「Kết hợp nó với ngọn lửa của chính tôi,\n　$$ガンバスター$$ sẽ trở thành ngọn lửa bùng cháy dữ dội!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_d037ecbc1e348dc9": {
+      "text": "$$シンジ$$\n「Mạnh quá...!\n　Đúng là không hổ danh dũng sĩ!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_bcd53d14c4785426": {
+      "text": "$$ガラダブラ$$\n「Nhóc con!\n　Biết vậy thì mau cút đi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_9ca55ea7feca954a": {
+      "text": "$$シンジ$$\n「...Nhưng... tôi... cũng... mà...」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_554ae12c4c170253": {
+      "text": "$$ガラダブラ$$\n「Ta không nghe thấy!\n　Dĩ nhiên, nếu là xin tha mạng thì ngay từ đầu\n　ta đã chẳng định nghe rồi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_fa59c6df081e6ae4": {
+      "text": "$$シンジ$$\n「Nhưng tôi cũng là thành viên của $c mà!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_ca3edf3b8b52aedf": {
+      "text": "$$ガラダブラ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_aa5d235c78ebe19f": {
+      "text": "$$シンジ$$\n「Tôi phải chiến đấu!\n　Mọi người đều đang liều mạng!\n　Tôi cũng... tôi cũng vậyyy!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_0b3b19cddb871f90": {
+      "text": "$$ガラダブラ$$\n「Loài người!\n　Các ngươi chiến đấu mà chẳng biết gió sẽ dẫn đến đâu sao!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_304e98dac43c9333": {
+      "text": "$$シモン$$\n「Câm đi, bộ xương!\n　Ta tự quyết định đường mình đi!\n　Không đến lượt các ngươi xen vào!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_b740d817a14afd3a": {
+      "text": "$$ガラダブラ$$\n「Đến ý nghĩa của diệt vong cũng không biết sao!\n　Vậy $$勇者ガラダブラ#pilot$$ này\n　sẽ tiễn các ngươi về cõi chết!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_40e4c010d1b35b4c": {
+      "text": "$$ヴィラル$$\n「Đừng chọc ta cười!\n　Kẻ đã chết một lần như ngươi không xứng danh dũng sĩ!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_c33abf00683a32bc": {
+      "text": "$$シモン$$\n「Tới đi!\n　Ta sẽ cho ngươi nếm mùi thất bại một lần nữa!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_3036adce91d1f4a8": {
+      "text": "$$ガラダブラ$$\n「Sự giao hòa của nước...!\n　Lũ đó định tập hợp mọi thời đại\n　để biến nơi này thành thiên đường ngưng đọng sao!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_019293cb83599509": {
+      "text": "$$アマタ$$\n「Ngươi đang nói gì vậy!?」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_9b949b9281aaeef1": {
+      "text": "$$ガラダブラ$$\n「Nhân loại không cần biết ý nghĩa của điều đó!\n　Các ngươi có số phận mục nát trên con đường tiến hóa!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_b39a1dd705fe6cbf": {
+      "text": "$$アマタ$$\n「Không... Ta không chấp nhận\n　bị giết vì thứ lý lẽ như thế!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_c9016e3ab05470b0": {
+      "text": "$$アマタ$$\n「Bọn ta đang sống!\n　Không đời nào giao sinh mạng này cho bất cứ ai!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_a684e6cea428e518": {
+      "text": "$$ガラダブラ$$\n「$$オリジン・ロー$$...!\n　Ở đây cũng có kẻ đi trong thời đại mặt trời sao!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_cf907a4d5de8b5c9": {
+      "text": "$n\n「Xin lỗi, nhưng ta chẳng có thời gian\n　để nghe lời sấm truyền của thần linh...!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_a5774604a0f00702": {
+      "text": "$n\n「Dù các ngươi có là thần đi nữa,\n　ta cũng không thể dừng bước ở đây!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_b4fa30f33e84207f": {
+      "text": "$n\n「Ta sẽ đánh bại các ngươi,\n　rồi phân thắng bại với kẻ đó!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_9133b7e0b34de48f": {
+      "text": "$$ガラダブラ$$\n「Chậc!\n　Riêng kẻ này mà bỏ mặc thì quá nguy hiểm!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_4ae9c4bd77494c4a": {
+      "text": "$$ボン太くん#pilot$$\n「Fumo!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_7313331f4077d255": {
+      "text": "$$ガラダブラ$$\n「Thứ này!?」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_a84ab0c3c1ba44d4": {
+      "text": "$$ボン太くん#pilot$$\n「Fumomo!?」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_414e6e90094d1413": {
+      "text": "$$ガラダブラ$$\n「Ta hiểu... Ta hiểu rồi!\n　Đây chính là hình thái tối thượng\n　của nền văn minh nhân loại sao!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_83a9e41e15444c69": {
+      "text": "$$ガラダブラ$$\n「Nào, tới đi!\n　$$勇者ガラダブラ#pilot$$ sẽ làm đối thủ của ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_09227dec2bd6f4d8": {
+      "text": "$$ボン太くん#pilot$$\n「Fumofu! Fumoffu!!」",
+      "status": "reviewed"
+    },
+    "stage0074_04:r_7b3a37f5039eb1f6": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0019_04:r_caaab7bad760e16d": {
+      "text": "$$赤木$$\n「Được... sẵn sàng cả rồi!\n　Cả tôi lẫn $$ダイ・ガード$$ đều sung sức nhất!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_99b162aa6aa286a2": {
+      "text": "$$タケル$$\n「Đó là $$ダイ・ガード$$ mới sao ạ?」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_58fb02434a1c40b2": {
+      "text": "$$赤木$$\n「Thế nào, tuyệt chứ?」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_1c0f94acd5a8a143": {
+      "text": "$$青山$$\n「Khung cơ bản vẫn giữ nguyên,\n　nhưng từng bộ phận đã được thiết kế lại\n　để tăng mạnh công suất.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_1263541f4071624e": {
+      "text": "$$いぶき$$\n「Thêm nữa, Great Knot Punisher đã thành trang bị tiêu chuẩn,\n　nên không còn mất thời gian đổi vũ khí.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_3bc300bbdc277d82": {
+      "text": "$$大杉$$\n「Có điều, chi phí cải tạo làm ngân sách eo hẹp,\n　khiến Phòng Truyền thông 2 cùng các bộ phận liên quan\n　lập tức rơi vào thâm hụt.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_38762a09460d8b6b": {
+      "text": "$$赤木$$\n「Không sao đâu, trưởng phòng!\n　Có $$ダイ・ガード$$ này, chúng ta sẽ kiếm lại ngay!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_7ab28e70b4d4f641": {
+      "text": "$$ミサト$$\n「Thật đáng tin cậy đấy chứ, trưởng phòng $$大杉$$.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$大杉$$\n「Ôi, cô quá lời rồi...\n　Cậu ấy chỉ được cái thừa nhiệt tình thôi...」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_ec335e69f984b8b3": {
+      "text": "$$ミサト$$\n「Hì hì... tôi cũng muốn học tinh thần ấy.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_0abcaf0c31978670": {
+      "text": "$$シンジ$$\n（Anh $$赤木$$...）",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_1d6bc48b7f246730": {
+      "text": "$$佐伯$$\n「Tôi xin giải thích lại kế hoạch.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_1af20fccc3c53cfc": {
+      "text": "$$佐伯$$\n「Dựa trên mức biến dạng hiện tại của ranh giới các chiều,\n　chỉ vài phút nữa sẽ có $$界震$$ tại khu vực này.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_f951916061232dcd": {
+      "text": "$$佐伯$$\n「Dự kiến $$ヘテロダイン$$ sẽ xuất hiện từ đó.\n　Đội Crusher sẽ ứng phó,\n　với $$ダイ・ガード$$ làm nòng cốt.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_4d863c3fb88a4c39": {
+      "text": "$$竜馬$$\n「Vấn đề là ngôi làng kia...」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_44f4742c3dcce39a": {
+      "text": "$$スズネ$$\n「Làng có nhiều người già,\n　đường vào lại bị sạt lở chặn mất,\n　nên cuối cùng vẫn không sơ tán được...」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_9e701cdeb3842c21": {
+      "text": "$$ワッ太$$\n「Không sao đâu, cô $$スズネ$$.\n　Chỉ cần hạ $$ヘテロダイン$$\n　trước khi nó vào làng là được mà.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_6fd81f4abebe60c5": {
+      "text": "$$柿小路$$\n「Đề phòng bất trắc,\n　các thành viên Phòng Truyền thông 2 đã vào làng,\n　nhưng chúng ta hãy giải quyết trước khi chuyện đó xảy ra.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_da2132b5038ec737": {
+      "text": "$$谷川$$\n「Trông cậy vào mọi người đấy!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_495d61d3ec7e16f2": {
+      "text": "$$横沢$$\n「Phía chúng tôi cũng sẽ chuẩn bị\n　để ứng phó với tình huống xấu nhất.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_5cd353758cfe474d": {
+      "text": "$$伊集院$$\n「$$赤木$$!\n　Làm hỏng chuyện là không xong với tôi đâu đấy!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_a653c8dec4c0f06f": {
+      "text": "$$田口$$\n「Nhớ giữ gìn $$ダイ・ガード$$ nhé!\n　Nếu rõ ràng là lỗi con người,\n　Phòng Truyền thông 2 sẽ phải gánh phí sửa chữa đấy!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_86d493e37a9799a7": {
+      "text": "$$赤木$$\n「Biết rồi mà!\n　Cứ yên tâm giao cho tôi!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_09d0fcc600cdd3df": {
+      "text": "$$石塚$$\n「Thường cứ nói như vậy\n　là chẳng có chuyện gì tốt xảy ra...」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_182faded068c15ed": {
+      "text": "$$入江$$\n「Tức là lúc nào cũng vậy... đúng không ạ.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_9c206d19bfda4bd5": {
+      "text": "$$ミサト$$\n「Những người ấy cũng đang chiến đấu nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_6e558bc69acf5bf3": {
+      "text": "$$大杉$$\n「Trực tiếp hạ $$ヘテロダイン$$ là $$ダイ・ガード$$,\n　nhưng chiến đấu là cả Phòng Truyền thông 2 đấy.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_d60d0818e965232f": {
+      "text": "$$シンジ$$\n（Có những người vẫn đang chiến đấu\n　dù không lái robot...）",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_5b23687574286204": {
+      "text": "$$田中司令$$\n「Theo dữ liệu quan trắc,\n　$$界震$$ sắp xảy ra rồi.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_6fd86c96891ea942": {
+      "text": "$$Ｆ．Ｓ．$$\n「Cậu $$佐伯$$... đây là chiến dịch do cậu lập kế hoạch.\n　Tôi giao quyền chỉ huy cho cậu.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_43e4e548c0b28376": {
+      "text": "$$佐伯$$\n「Xin cứ giao cho tôi.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_d80a9688790ed583": {
+      "text": "$$田中司令$$\n「$$界震$$... bắt đầu rồi.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_708bea61e3c43ada": {
+      "text": "$$正太郎$$\n「Nhiều $$ヘテロダイン$$ quá!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ワッ太$$\n「Khoan đã!\n　Cháu có nghe nói thế này đâu!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_0827963cfd706e8d": {
+      "text": "$$赤木$$\n「Chuyện gì thế, anh $$佐伯$$!?」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$佐伯$$\n「Tình huống này nằm ngoài dự kiến,\n　nhưng có lẽ là do nhiều $$界震$$ chồng lên nhau!」",
+      "status": "needs_review"
+    },
+    "stage0019_04:r_3f4035fd9db81258": {
+      "text": "$$Ｆ．Ｓ．$$\n「Tức là nhiều $$界震$$ xảy ra cùng lúc,\n　các điều kiện trùng nhau\n　khiến nhiều $$ヘテロダイン$$ cùng xuất hiện sao.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_567b361a454c4b73": {
+      "text": "$$いぶき$$\n「Chắc tại cậu $$赤木$$ cứ than rảnh quá\n　vì không có $$ヘテロダイン$$ xuất hiện đấy?」",
+      "status": "needs_review"
+    },
+    "stage0019_04:r_d22851aaafbbf8fc": {
+      "text": "$$赤木$$\n「K-không thể nào! Chắc vậy...」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_352534f64413d954": {
+      "text": "$n\n「Dù có bao nhiêu con xuất hiện, vẫn phải đánh thôi...!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_79f2664edb1af798": {
+      "text": "$$葵$$\n「Đúng vậy.\n　Chúng ta được gọi đến\n　chính là để ứng phó với những lúc thế này mà.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$赤木$$\n「Phải!\n　Chúng ta phải bảo vệ ngôi làng!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_1c5aa0d15ae24846": {
+      "text": "$$佐伯$$\n「Các máy tản ra, đánh chặn $$ヘテロダイン$$!\n　Không được để một con nào lọt vào làng!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_53bb64ee17750ee2": {
+      "text": "$$いぶき$$\n「Rõ!\n　...Lâu rồi mới lại thực chiến đây.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_7a7add80fde475ba": {
+      "text": "$$青山$$\n「Sẵn sàng chưa, $$赤木$$!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_b2befefdbed1393d": {
+      "text": "$$赤木$$\n「Tất nhiên!\n　Bắt đầu thôi, chị $$いぶき$$, $$青山$$!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_2103f6df2ea2e447": {
+      "text": "$$赤木$$\n「Tiến lên!\n　Nhân viên văn phòng cũng bảo vệ hòa bình được!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_a12e3e130d896ff7": {
+      "text": "$$田中司令$$\n「Thế này không ổn rồi...!\n　Lại sắp có $$界震$$ nữa!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_b6f7b219eb4bd64b": {
+      "text": "$$佐伯$$\n「Ông nói sao!?」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_91bf33c27ad39f0a": {
+      "text": "$$ケンジ$$\n「Lại có $$ヘテロダイン$$ xuất hiện à!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_ee220318b96ab538": {
+      "text": "$$竜馬$$\n「Nguy rồi!\n　Nó ở gần làng quá!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_ce1b55e526b6277a": {
+      "text": "$$いぶき$$\n「$$赤木$$!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_c304df6888eb78f7": {
+      "text": "$$赤木$$\n「Tôi biết!\n　$$青山$$, công suất tối đa!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_c26958634526e597": {
+      "text": "$$青山$$\n「Rõ!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_cdb750c9d380881a": {
+      "text": "$$大山$$\n「Cậu $$赤木$$!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_95fda74613c97b39": {
+      "text": "$$ワッ太$$\n「Anh $$赤木$$!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_1956994937f8171e": {
+      "text": "$$佐伯$$\n「Anh $$赤木$$, liều quá đấy!\n　Tạm thời lùi khỏi $$ヘテロダイン$$ đi!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_48f49f6728c15612": {
+      "text": "$$赤木$$\n「Không được!\n　Làm thế thì $$ヘテロダイン$$\n　sẽ lập tức lao vào làng!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$佐伯$$\n「Nhóm anh $$横沢$$ đã sơ tán dân ở phía bắc làng rồi!\n　Để nó vào làng một chút thì...」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_f02c37d91387d0ad": {
+      "text": "$$赤木$$\n「Không được!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$佐伯$$\n「Anh $$赤木$$...!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_9796b3efa401a303": {
+      "text": "$$赤木$$\n「Anh nói một chút, anh $$佐伯$$!\n　Nhưng những người mất nhà\n　vì cái một chút đó phải làm sao!?」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_643b6eebfc0186b3": {
+      "text": "$$赤木$$\n「Không phải cứ xây lại là xong!\n　Nếu ký ức của những người sống ở đó bị mất đi,\n　thì không cách nào lấy lại được!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_291280e5f7eb9d70": {
+      "text": "$$佐伯$$\n「Tôi hiểu ý anh,\n　nhưng những người khác cũng đang không thể đến cứu viện!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_32eb462c1b4999cb": {
+      "text": "$$赤木$$\n「Tìm cách giải quyết tình thế đó\n　chính là công việc của $$ダイ・ガード$$ và chúng tôi!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_1f4337d6d393fc37": {
+      "text": "$$佐伯$$\n「Nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_4740e748fae085ee": {
+      "text": "$$いぶき$$\n「Không sao đâu, anh $$佐伯$$!\n　$$ダイ・ガード$$ vẫn còn cầm cự được!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_b76524cd840e1d37": {
+      "text": "$$青山$$\n「Trong lúc đó, cứ hạ những con $$ヘテロダイン$$ khác\n　rồi đến tiếp viện cho bọn tôi là được!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_730ffe18400abfc2": {
+      "text": "$$赤木$$\n「Chị $$いぶき$$, $$青山$$!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_ffe0fca26da5cd38": {
+      "text": "$$いぶき$$\n「Đừng lơ là!\n　$$ヘテロダイン$$ sẽ đẩy bật chúng ta đấy!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_bfb27f9eb2f7073e": {
+      "text": "$$青山$$\n「Tôi sẽ tìm cách ổn định công suất!\n　Cậu tập trung giữ nó lại đi!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_859dfa27bcaafe30": {
+      "text": "$$赤木$$\n「Rõ!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_71ebf05996a4b0fd": {
+      "text": "$$Ｆ．Ｓ．$$\n「Cậu định thế nào, cậu $$佐伯$$?」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_6214c11b1bca811e": {
+      "text": "$$佐伯$$\n「...Tôi sẽ đặt cược vào nỗ lực của anh $$赤木$$\n　đến sát giới hạn cuối cùng.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_8eaf6f3098ffed12": {
+      "text": "$$大杉$$\n「Anh $$佐伯$$...」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_cf507214fe955d75": {
+      "text": "$$佐伯$$\n「Tôi biết cách này không hiệu quả!\n　Nhưng...!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_2113dcbabdfc758a": {
+      "text": "$$大杉$$\n「Tôi hiểu mà.\n　Anh cũng có cùng tâm nguyện với cậu ấy, đúng không.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ミサト$$\n「Còn một người nữa cũng được cậu $$赤木$$ truyền cảm hứng đấy.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_6a74519e1fc29c4b": {
+      "text": "$$佐伯$$\n「Trung tá Katsuragi!\n　Cô đang ở khoang chứa máy sao!?」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_5b992878fee054b5": {
+      "text": "$$ミサト$$\n「Tôi sẽ cho số 01 xuất kích.\n　Xin hãy mở cửa khoang.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$Ｆ．Ｓ．$$\n「Có làm được không?」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ミサト$$\n「Tôi không biết.\n　Nhưng đây là ý nguyện của chính phi công số 01.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_20cf167c0ec0d4d5": {
+      "text": "$$Ｆ．Ｓ．$$\n「Đã rõ.\n　Mở cửa khoang.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_b591d812c96c6c99": {
+      "text": "$$ミサト$$\n「Đi đi, $$シンジ$$!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_e350fa099c1ab072": {
+      "text": "$$赤木$$\n「$$シンジ$$!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$シンジ$$\n「Anh $$赤木$$!\n　Tránh ra đi ạ!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_c33bd700553abf91": {
+      "text": "$$シンジ$$\n「Trường A.T., mở hết công suất!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_feee5c91826230e1": {
+      "text": "$$タケル$$\n「Sức mạnh ghê thật!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_bccc48e1964ad22d": {
+      "text": "$n\n「Trường A.T. của EVA\n　đã đánh bật $$ヘテロダイン$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_f8736aaaa216c766": {
+      "text": "$$シンジ$$\n「Hộc... hộc... hộc...」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_d1ec2522c87c361d": {
+      "text": "$$赤木$$\n「Em cứu bọn anh rồi, $$シンジ$$.\n　Anh $$佐伯$$ bảo em xuất kích à?」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_3599f0a4343fd95c": {
+      "text": "$$シンジ$$\n「Không ạ.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_3bc7834a5bf3ee76": {
+      "text": "$$シンジ$$\n「Em... nghĩ rằng ngay cả em cũng có thể làm được gì đó...」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_366814efdc8b5800": {
+      "text": "$$赤木$$\n「$$シンジ$$...!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_9be1a4c10bb62515": {
+      "text": "$$青山$$\n「Không có thời gian xúc động đâu.\n　$$ヘテロダイン$$ đang tới.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_94a88c90e557e16e": {
+      "text": "$$赤木$$\n「$$シンジ$$, chúng ta phối hợp nhé!\n　Nhờ em yểm trợ!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_1c208ca0cbf26f28": {
+      "text": "$$シンジ$$\n「Vâng!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_5b7ee307a700171a": {
+      "text": "$$甲児$$\n「Một cặp bài trùng mới ra đời sao!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_8d8f065c932da30a": {
+      "text": "$$葵$$\n「Giống một huấn luyện viên nhiệt huyết\n　với cậu học trò rụt rè nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_f5432119677514f7": {
+      "text": "$$竜馬$$\n「Thằng nhóc lúc nào cũng bận tâm người khác nghĩ gì mà.\n　Nó còn khối điều học được từ cậu ta.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_4e5c8e989c4a7691": {
+      "text": "$$赤木$$\n「Đi thôi, $$シンジ$$!\n　Chúng ta sẽ dùng sức mình bảo vệ ngôi làng!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_adec86483b13599a": {
+      "text": "$$シンジ$$\n「Vâng, anh $$赤木$$!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_2cf701bbcde3ec13": {
+      "text": "$$赤木$$\n「Tốt lắm! Toàn thắng rồi!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_c17c58fdba72005e": {
+      "text": "$$いぶき$$\n「Cậu nói hay nhỉ.\n　Nếu $$シンジ$$ không đến thì đã nguy rồi còn gì.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_1fe8564d2b959317": {
+      "text": "$$青山$$\n「Đúng vậy.\n　Công đầu hôm nay phải thuộc về $$シンジ$$.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_f527e012803f7f1c": {
+      "text": "$$シンジ$$\n「Ơ... em...」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_4b1247bd3ca4905d": {
+      "text": "$$赤木$$\n「Ừ, ừ.\n　Quả nhiên, vũ khí mạnh nhất của chúng ta\n　chính là tinh thần đồng đội của mọi người.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_00c55e25f87b71d0": {
+      "text": "$$赤木$$\n「Tất nhiên, $$シンジ$$ cũng là một thành viên\n　trong đội của chúng ta.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_338f3b27e51dcc41": {
+      "text": "$$シンジ$$\n（Một đội... sao...）",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_d91d4bc2d52b61c4": {
+      "text": "$$いぶき$$\n「$$ヘテロダイン$$ vào làng rồi!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_0c8ea89b07432421": {
+      "text": "$$赤木$$\n「Khốn kiếp!\n　Thế này thì $$ダイ・ガード$$ còn ý nghĩa gì nữa!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_4dbfba00ba7744ee": {
+      "text": "$$甲児$$\n「Dù có bao nhiêu con tới, tao cũng không thua đâu!\n　Cứ xông hết lên đi!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_be100a32b731708d": {
+      "text": "$$甲児$$\n「Em cũng góp sức đây, anh $$赤木$$!\n　Học sinh cấp ba cũng bảo vệ hòa bình được!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_702f82442fcec8a9": {
+      "text": "$$正太郎$$\n「Đừng chịu thua, $$鉄人$$!\n　Nhất định phải bảo vệ ngôi làng!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_b1e38da4e8775ffe": {
+      "text": "$$正太郎$$\n「Tới đây, $$ヘテロダイン$$!\n　Học sinh tiểu học cũng bảo vệ hòa bình được!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ワッ太$$\n「Mọi người ở $$２１世紀警備保障$$ cũng đang cố hết sức!\n　Công ty Takeo General không thể chịu thua!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$ワッ太$$\n「Lên nào!\n　Chủ tịch công ty cũng bảo vệ hòa bình được!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_3dad695c99e9e052": {
+      "text": "$$竜馬$$\n「Quái vật không có người lái, không có ý thức\n　thì cứ thẳng tay đập nát thôi!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_66d4ae3a21caf881": {
+      "text": "$$竜馬$$\n「Tao tới đây, $$ヘテロダイン$$!\n　Ngay cả tao cũng bảo vệ hòa bình được!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_0c18da7b3a37825d": {
+      "text": "$$葵$$\n「Lần nào cũng vậy, mọi người ở $$２１世紀警備保障$$\n　luôn khiến chúng ta sục sôi nhiệt huyết.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_63249745ffae61b6": {
+      "text": "$$くらら$$\n「Chúng ta cũng không thể chịu thua, $$葵$$!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_abdb034ae8509702": {
+      "text": "$$葵$$\n「Được!\n　Team D cũng bảo vệ hòa bình được mà!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_3ff2e21207d1d1d3": {
+      "text": "$$スズネ$$\n「$n...\n　Em có vẻ tập trung hơn mọi khi...」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_e51ecf6d6aa42e75": {
+      "text": "$n\n「...Có lẽ là nhờ anh $$赤木$$.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_47ddabb7b60131c2": {
+      "text": "$$スズネ$$\n（Lời anh $$赤木$$ đã làm $n thay đổi...\n　Chẳng lẽ người mà anh $$竜馬$$ nói đến là...）",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_b025267f22788233": {
+      "text": "$n\n「Đi thôi, cô $$スズネ$$!\n　Học sinh cấp ba và giáo viên cũng bảo vệ hòa bình được!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_ec1a06a7023bf72c": {
+      "text": "$$シンジ$$\n（Không phải vì cha bảo mình làm...\n　Nếu ngay cả mình cũng có thể làm được gì đó...）",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_8805f96e52aaa462": {
+      "text": "$$シンジ$$\n（Mình cũng sẽ làm...!\n　Mình cũng có thể bảo vệ được một điều gì đó!）",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_124591cb154fae64": {
+      "text": "$$赤木$$\n「Tôi sẽ cho $$ヘテロダイン$$ thấy\n　sức mạnh của $$ダイ・ガード$$ đã lột xác!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$いぶき$$\n「Đừng hăng quá rồi lại chịu\n　những tổn hại không cần thiết đấy nhé.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_4bf9b05b5f948170": {
+      "text": "$$青山$$\n「Chị $$いぶき$$ nói đúng.\n　Làm hỏng máy mới thì $$墨田$$, bé Rika\n　và cả Phòng Truyền thông 2 sẽ khóc hết đấy.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_eaa52d152f444bfd": {
+      "text": "$$赤木$$\n「Thế vẫn còn hơn là để người dân phải khóc!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_b4bc9e9435b58e6f": {
+      "text": "$$いぶき$$\n「Trời ạ... đúng là cậu $$赤木$$ mọi khi.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_a9227573166977a9": {
+      "text": "$$青山$$\n「Đành chịu thôi chị.\n　Đã thế thì chúng ta cố hết sức\n　kiềm bớt tính liều lĩnh của $$赤木$$ vậy.」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_b0600ab9a9e8559d": {
+      "text": "$$赤木$$\n「Tóm lại là tinh thần đồng đội chứ gì!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_7cbc63dad295f862": {
+      "text": "$$いぶき$$\n「Hoàn toàn không phải thế!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_07f53c816e0a51f5": {
+      "text": "$$赤木$$\n「S-sao lại... phủ nhận vũ khí mạnh nhất\n　của $$ダイ・ガード$$ chứ...!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_2d09c6f6a2d990ea": {
+      "text": "$$青山$$\n「Nói chuyện đến đây thôi!\n　$$ヘテロダイン$$ tới rồi, $$赤木$$!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_3c5fcfc484a51913": {
+      "text": "$$赤木$$\n「Được!\n　Tiến lên, chị $$いぶき$$, $$青山$$!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_0476ffd10c764b0e": {
+      "text": "$$赤木$$\n「Đấu nào, $$ヘテロダイン$$!\n　Nhân viên văn phòng cũng bảo vệ hòa bình được!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$タケル$$\n「Dân làng đang ở phía sau chúng ta!\n　Tuyệt đối không để $$ヘテロダイン$$ vượt qua!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_2b3479c4cf0680f4": {
+      "text": "$$タケル$$\n「Lên nào, $$ゴッドマーズ$$!\n　Đội Crusher sẽ bảo vệ hòa bình!」",
+      "status": "reviewed"
+    },
+    "stage0019_04:r_e370696b8936b08c": {
+      "text": "$n\n「Á!」",
+      "status": "reviewed"
+    }
+  }
+}

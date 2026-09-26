@@ -1,0 +1,6136 @@
+{
+  "schema": 1,
+  "source_branch": "codex/vietnamese-silver",
+  "source_commit": "5dd5d66460ccea7b5f3c606d047e4575fe5bf3a2",
+  "scope": "Vietnamese locale text only; no Git history, English, tools, fonts or build configuration",
+  "files": 188,
+  "counts": {
+    "replaced_opening_drafts": 244,
+    "entries": 43104,
+    "translated": 236,
+    "reviewed": 41919,
+    "needs_review": 402,
+    "newly_flagged_for_review": 393,
+    "missing": 547
+  },
+  "original_statuses": {
+    "translated": 236,
+    "reviewed": 42312,
+    "needs_review": 9,
+    "missing": 547
+  },
+  "accepted_by_kind": {
+    "ui": 118,
+    "glossary": 776,
+    "stage_title": 118,
+    "dialogue": 41143
+  },
+  "source_identity_mismatches": 0,
+  "translation_text_changes": 0,
+  "game_build_ready": false,
+  "input_hashes": {
+    "battle_report_hook.json": {
+      "locale_sha256": "7ec685b31a3bab3bbf4b1300ac5e096fe0a249a24fee519cf43b33e2e5ed72fb",
+      "definition_sha256": "c65b218d4babe065e2edcadf2ef8e64936ba59edd4658622ef196295e64f04ab"
+    },
+    "deployment_hook.json": {
+      "locale_sha256": "a5ad8ad9a9db5a145187c380d9f58bd440be068f59d3c1b8ed55b70ef3a72f61",
+      "definition_sha256": "f13395fb8f329613d5752c3bb16cd7f2e39079d53d4c3b2bac3f13f2f10bf2f2"
+    },
+    "glossary.json": {
+      "locale_sha256": "166b1853b7e037bb72b768f461fafd30009859bf404e28bdf2774945ae019b0c",
+      "definition_sha256": "d40ef2ef4c1fc05b535cc420fa05ee7749fe99e2058d6bd8e8adea8585eaef32"
+    },
+    "naming_hook.json": {
+      "locale_sha256": "539546f7b22230c2b0a29598cd7105c77c282b141e4644d13341a52eecb79473",
+      "definition_sha256": "debe764d20adc5663507b7cbdfd7a8d6d625834036024d750677aca78500502b"
+    },
+    "scenario_titles.json": {
+      "locale_sha256": "f28cf27d83525b3cbdae2fafab2dac90fb1b3c9ffe2c2a34e4148114b596c391",
+      "definition_sha256": "5f6990a1c761fd09b2f6b360dd05f6150464ee352c1b6db3e803a75958aa43f3"
+    },
+    "spirit_hook.json": {
+      "locale_sha256": "9cefe9fb1982487c74764a034b5f8dd0359914e855174dd9ab40f085180fa47c",
+      "definition_sha256": "a20843492d96e71adfe71bc92acf598ed1bcde3ce407aa28dea7bf3b1d569efa"
+    },
+    "spirits.json": {
+      "locale_sha256": "c3efd3843a7832f59b7b0c1571756b604949bc48a13f5b37707fff412c1798f7",
+      "definition_sha256": "0eea192ae9760f57ee9046fb188570767295c620bda2d6d3b1fb2babf3f08205"
+    },
+    "stage0001a.json": {
+      "locale_sha256": "c77e05cb21f36f8b946921dffcb5c997a37895f74752bbcbead8d0120e9b5c33",
+      "definition_sha256": "84ad34c07645a08c0f7cc87e56621cb99346e57b38ef931c46bd63f00ff9a33c"
+    },
+    "stage0001b_03.json": {
+      "locale_sha256": "73521bc6ae0de4ec7b7d41c12e58d22b7bd5b4007d5948da57489081e252ad27",
+      "definition_sha256": "7d4cc8aa5dd0dc30b5546aa9b479c3397c2217acff232c5103590ea7dacdeb00"
+    },
+    "stage0001b_04.json": {
+      "locale_sha256": "d072755dfbaf8197475c3f559d93c2f92a1633e56b58e443aeeb1b6346efacc5",
+      "definition_sha256": "fff7ba5839511027b643516b9dee38ac446243b79611d3ecef58c12e3d3728bc"
+    },
+    "stage0002_03.json": {
+      "locale_sha256": "f521ac2cfa9fc84ac6443850401d3105467d1f639d827be5ab1847ce3bfa351e",
+      "definition_sha256": "414fe0392cb7af14957e729253945ec09d3ef9d1b104efa2c3ae0a8776d85660"
+    },
+    "stage0002_04.json": {
+      "locale_sha256": "c91d8dea1c6f4ff9afa4947957920bded00f69fa76f4c1c2112b89a7ad3d888b",
+      "definition_sha256": "56ee0c66c9af218aebeab1e61ce21fac8881f8ec9402bb7e2d5a2ce809cbb677"
+    },
+    "stage0003_03.json": {
+      "locale_sha256": "c1bd573c7b8bc3ababb6abb9444873abcaaec985e348827ef4a9bd1ad987d045",
+      "definition_sha256": "620cea40506f15de0ae424cda0ef68f3621fb56a271e8c3881aab0c47ac3e783"
+    },
+    "stage0003_04.json": {
+      "locale_sha256": "98d42712c8780261f71642b9c9e4ed8f21457864dc296c6b14c51c0017c76227",
+      "definition_sha256": "5ce8d095720b83e735b0eac66d58251aaabddf92c52445b04f5dfb9a23b5ea55"
+    },
+    "stage0004_03.json": {
+      "locale_sha256": "7ecbeec27fa9fbff6e1fe720335fc32f0204f301ff8adff46c526e75952d8aee",
+      "definition_sha256": "aae688e66e7a4887b7e0abe964c9e6560d59ffb001e5b02f87338a0ab4a44aea"
+    },
+    "stage0004_04.json": {
+      "locale_sha256": "0b9f63fb8b152ab6bb93fae12fecb20d2c6a4b392ec29f5c271fe3f8714fb4f9",
+      "definition_sha256": "2e80b19ce3130d26d6e652524d4566dbada6abc7b6cf15f09a15e0d0a7777e78"
+    },
+    "stage0005_03.json": {
+      "locale_sha256": "1c0a4597151ce0ee635858edd26e792e8c6a3926579d825f8202e7d0fd940a02",
+      "definition_sha256": "c23c229c63bf6f5102b38bb69ec49c2e0bd6674427052f4a533ca85e3797eaa9"
+    },
+    "stage0005_04.json": {
+      "locale_sha256": "c13cdc486ab4e70fabdc01de51a4cea96c1af48a0ff9d195846670299b8744ed",
+      "definition_sha256": "e4f1fef4282badcf402aec435b3016626263132a1111d25861473eea87d4162c"
+    },
+    "stage0006_03.json": {
+      "locale_sha256": "904c9d166ee4d70aee37e3983adde5ec9f273dcc1018abb39bde087b5b364d34",
+      "definition_sha256": "b72b0d1eac8b1c753387f640ba8440d40b1c19a60987b6fe9ce69db76ce6c06a"
+    },
+    "stage0006_04.json": {
+      "locale_sha256": "cbf93642589979b93a903661174b97bb1f86692f4487b00af03d3d5d911ba86c",
+      "definition_sha256": "7e7ea4a838733ad8ff167bd35eb696c0ef6578c020037678c8614841513df084"
+    },
+    "stage0007a_03.json": {
+      "locale_sha256": "45b8df6e02e1accf8c92ebfd9324d675b2f6a27431ebeba5866bdc32dd42bba6",
+      "definition_sha256": "3d4294dfc38289bba07bd5237e1c4df17d8e9b4af63f2b0f727ffe8dda388c0a"
+    },
+    "stage0007a_04.json": {
+      "locale_sha256": "cb985a97f62c8902c3be103d8894f0920042b162bf824238a8966a182602f679",
+      "definition_sha256": "58e1cc2faaadada041aa1b27493beae22908fb5305466e1de8b1f5efc809588b"
+    },
+    "stage0007b_03.json": {
+      "locale_sha256": "5f7969b861db26984051d21ec0a58bc49dd6eb86bce2bb35ccf3dd90355090a8",
+      "definition_sha256": "e5ed9965df5bcea9f02a4ad948c795643e08d6fb1368ad689c132d2d0e8e6934"
+    },
+    "stage0007b_04.json": {
+      "locale_sha256": "e47169a5da78028b03e423472cab749eaf6df74070af8b8cfacb2ab5644bfdb3",
+      "definition_sha256": "f2586f01fa328a175466210efddb3a308f8a7fffa00ce2072e3c3831e9b7da08"
+    },
+    "stage0008_03.json": {
+      "locale_sha256": "7b766d100b714c72c010267270b65a483f76dd9b460cf919870c7707a4680b26",
+      "definition_sha256": "982842f3a7e8c8fdbbb39f3952b1337e887354f4ed6f2fa1a6eaf1b935ffcd54"
+    },
+    "stage0008_04.json": {
+      "locale_sha256": "2f4bd01621f83a7477c09e557831e648fdb8015513456853fdf81d4d31df70ba",
+      "definition_sha256": "67ce3c6ec480ae06023e6bdda65eb64bf9fd4d879607c4242935ae0f88e3f930"
+    },
+    "stage0009_03.json": {
+      "locale_sha256": "9da0440fa855ae98483ad6a1ffe09eba442406120e84ba85a81da0ee19d8dc19",
+      "definition_sha256": "d669e0a8302b984fed41821ba7b0d400e3c7abb1ce1a44e01feaae37afd65cc3"
+    },
+    "stage0009_04.json": {
+      "locale_sha256": "9945261eaefb4de3dc379c4694d34ca0ab368adf6d0720487c4e533bd98c50d4",
+      "definition_sha256": "3dcabb0db1b1d46fe7cdf6397b32ce91018e1f4fbd51d2cf2c28a752d46cecaf"
+    },
+    "stage0010_02.json": {
+      "locale_sha256": "42f07cc7966c4b20f47a4e25a4219543cfa18749cd785b58b66a1b90f66ba308",
+      "definition_sha256": "cbc6f5a88d8930916d4e1dc1f1724f85080b38806793cf4304c82120b67daafd"
+    },
+    "stage0010_03.json": {
+      "locale_sha256": "82445e9d1810aaa5940cd60184e516eb8f253a9d4147f28487e44af02f8e4e9e",
+      "definition_sha256": "6846170a1701da63a2d824f519340a90a0212969b510d1d99a72e5da19ffd7ed"
+    },
+    "stage0010_04.json": {
+      "locale_sha256": "de4b50eadf34359df0fbe15554d859e794726720f8b40e57dc0e8b704310bf49",
+      "definition_sha256": "a5525dfacefd9688e23253eb1700441cec222ac4d42f1643195174a540762304"
+    },
+    "stage0011_03.json": {
+      "locale_sha256": "72c7e2125218c8c66f9e54734f88d783632c891f1c8f18d35b5d541b94ec02df",
+      "definition_sha256": "0ea2b4360e110f957921bb35f5055f605b00609fd69cd10c66c352df0e10fd23"
+    },
+    "stage0011_04.json": {
+      "locale_sha256": "84ec8f367edaedb8bdddeca799dbfd2da5b3df77501765982d88606ec11cd13f",
+      "definition_sha256": "83b62bbe987899ab63b231e22ac71b8ffc9221a640fdf8bda8bea920be0c2306"
+    },
+    "stage0012_03.json": {
+      "locale_sha256": "023a928bc313ed7dd7010bd86a3040f9b579aa768f6d5a40f1be98afb4642504",
+      "definition_sha256": "ac2c55750ef932c8857e957e45354736524277a49081c426b4975e866efd4d91"
+    },
+    "stage0012_04.json": {
+      "locale_sha256": "5d865400ee90a31e846c2d367a76701312eb21b4e9d1f9577b68dd188f10d449",
+      "definition_sha256": "943ad86444bfb3a10c584d8adafe3e1c3c8c349c52ca4ec9142db92091abd859"
+    },
+    "stage0013_02.json": {
+      "locale_sha256": "e8fd8e6ce1dda55714270c356a3fb81790aa745c6f2e52b3476f5fccb457c8d9",
+      "definition_sha256": "1732d12ffc7252c4a7e346db5e70a3723a4c7bea8969ed179f96d7f2abe39aad"
+    },
+    "stage0013_03.json": {
+      "locale_sha256": "a47a38026c926870917c99bfec1f8f820df0321619af280f6a1db451fd3da13d",
+      "definition_sha256": "18d4b8e7de99b98a9ebcc82d3b2d5e85fb5e9b4b29aa11fa0ef9e4fb5aa4e53d"
+    },
+    "stage0013_04.json": {
+      "locale_sha256": "525e248b3ec203ec808b9852e2b7157003c7db5e9d503ecb4b6a1b6361e398f3",
+      "definition_sha256": "b54f32d5b494bcb3ceb29ed54c357d6ffc7bb44a22ccadeb0d686d90762349c2"
+    },
+    "stage0014_02.json": {
+      "locale_sha256": "1e22ea2b60b37a653706565a6344900bf63d8a38553e59135b88d621e8d6da9f",
+      "definition_sha256": "5ca709b7e29e5c933eadc93bb2afd9ece119afd7dd5e54b795efc71a051be61b"
+    },
+    "stage0014_03.json": {
+      "locale_sha256": "20e800e522c8addc05a02a957afc795d8a8442d808f33fc97b8872736147d90d",
+      "definition_sha256": "6a1bf1c98f3807e60079010884a29e0ef3bfe179b1abf8e1b4b111f4ce1a996e"
+    },
+    "stage0014_04.json": {
+      "locale_sha256": "b9960401dfcb407ac041f4641bdff5d45044a19aa812fae931848f74daa5a23c",
+      "definition_sha256": "9377f52e40576dcf596722de9c2fdf01b4f402590f6ca4ccfde32b164a279708"
+    },
+    "stage0015_03.json": {
+      "locale_sha256": "ca9d3fa4dbf736db6afd75aa2107ad875899185eb0eee11b44005379b8935c5c",
+      "definition_sha256": "b6bba09854e1805ebcab740ad3306319e7a82bccbe738ef82af03945a5309648"
+    },
+    "stage0015_04.json": {
+      "locale_sha256": "ad6a899b8d5a32618b56755b774eae1ed8aa2e232af6367d7d7236e1778e49c1",
+      "definition_sha256": "cceecdd20632edf0b120a9a5df176f98dce4e11d61affe455325bd103e34e612"
+    },
+    "stage0016_03.json": {
+      "locale_sha256": "0b19cc5473f03d72b5d71c5dc2123706783495a553e7cc8d3ceaa32168b9248c",
+      "definition_sha256": "742dd37d8ee5ce4814a3781a832d598ab632d33a81f950bf1901393bee7e3ddd"
+    },
+    "stage0016_04.json": {
+      "locale_sha256": "bc2687ca9c94e043e43834ef85a2769b3f894da21b2a31da171fbb8f8b7a0d45",
+      "definition_sha256": "855b380dc2597a572c093e11bc5b92cd8c0b4ee9c68a58314d7dd8a1d9a93169"
+    },
+    "stage0017_03.json": {
+      "locale_sha256": "de197c1a396f33ccb6bbdb51eb8d75c4ae5fdfc9b6a8e4deb2d1c284d7810ba7",
+      "definition_sha256": "8a312f8983f582496de364fd65ef6b1701a6089a7fd49cd97e66c3ab3ab66bd6"
+    },
+    "stage0017_04.json": {
+      "locale_sha256": "affe621a790f5d8f6a2c852a80967f2b8d8e5ace116b362379bd677e2132cea5",
+      "definition_sha256": "12a4ce6186dcdf1b2f114e439c5f524233d98187d3d708090ce7138937ea8125"
+    },
+    "stage0018_03.json": {
+      "locale_sha256": "99fa0315c838edff6849e3311e82b675a4438a39c4d26b7215c5fee4c6d2906c",
+      "definition_sha256": "a459ce846ea09db0314fe6f3eb65386b7ebbd1118583fd752f0c5450225c0aa8"
+    },
+    "stage0018_04.json": {
+      "locale_sha256": "60c11c834518fb22feefdc598ea3ec749801547ed01432ae579b9cbc295e67c0",
+      "definition_sha256": "32a3171c1fd2fc3a71066576f2e0f7a1801786821a002377b120b62685d09817"
+    },
+    "stage0019_03.json": {
+      "locale_sha256": "01a521e5e4b1186fb2cf26328f6248c9657eaef0ae24112779f6287e8530e210",
+      "definition_sha256": "1c29d55616718a9f11ed36f9cb8b4b48e1ba87f3c1d43a759fa586811e9514bc"
+    },
+    "stage0019_04.json": {
+      "locale_sha256": "77e2045a564accc12cf7eccd220586899193c5355de6bd68be84d76a5573a9d0",
+      "definition_sha256": "886e6a744c27f9eca9e53a7a8627061ac2da5e8d9c9a2ceb49256f1eb0be817c"
+    },
+    "stage0020_03.json": {
+      "locale_sha256": "c714c0d6c9e5d645cdb552f62c02a902c1e67d71e6ce70d6bc23c4e4c501bfdb",
+      "definition_sha256": "3baad71c17ee3ed99f173137f1b14063d8e6b4892d0bd17a100e7ab99acb1d73"
+    },
+    "stage0020_04.json": {
+      "locale_sha256": "9a3f8955872a26b2a7fc1df45f0a581657b7fcbd3e5e984a886a7742179c4a53",
+      "definition_sha256": "17a69652971c59b5202971dceb09b70892d125219dfb7814178cef9a75e14e4c"
+    },
+    "stage0021_03.json": {
+      "locale_sha256": "a53a0f93e8ca0fd56dcd60abb703148bc40db373f795daf8e51019d5c65cf3ce",
+      "definition_sha256": "41163f14eb5c40d13b6e2564e8b12598d7007111c52d49816ee95ae7106cc781"
+    },
+    "stage0021_04.json": {
+      "locale_sha256": "e8a1c5805bc13af6767f9607287bd97543ac67848a76e99c9dc8bc77decaf3c7",
+      "definition_sha256": "765d1cfe483596fefcc41941be8d20f44a8e5e9f96893cb2ba45bd7b2129458d"
+    },
+    "stage0022_03.json": {
+      "locale_sha256": "20ac4b6c1d1e05634d7fdfcc0d2dae30c6271000b141a5157a2c96f8e6ccdcb1",
+      "definition_sha256": "0d82dad836c09651389f64ba4b7bf1708f34cd8da2f5a341fae424b448245189"
+    },
+    "stage0022_04.json": {
+      "locale_sha256": "ca53584bf78f9fa613d0d6f2286546e1b49068b99e90bd69c6b85f1219fac22c",
+      "definition_sha256": "a7457c13a5c29faf9c14d850ccf85421c3ae6059988b5ecad6a4c971b7075901"
+    },
+    "stage0023_03.json": {
+      "locale_sha256": "8bdaae5a0fd3cdd492b1893b4c108b4d591279a2ca36af3039f04acc576b0468",
+      "definition_sha256": "d6718c5c9bcfa054cafbd854f00959e4a3995bdf924d91ca477665f6ed82826d"
+    },
+    "stage0023_04.json": {
+      "locale_sha256": "388782ba39305d786f588b41a9449a9b9efad15fde6cc6e20624cba15770145a",
+      "definition_sha256": "47fd081b57bef342a7de6d8446e57f1577923f6e1d90f71b7097d816efae9943"
+    },
+    "stage0024_03.json": {
+      "locale_sha256": "9ca565912b87b25c53f87dd834506e419438580b916ce1e6499066081d080efa",
+      "definition_sha256": "2bf37111e37d57019aedc8c0b1bb8df97abecfab37b3f547619ee200acd7b946"
+    },
+    "stage0024_04.json": {
+      "locale_sha256": "dfea257678ab7a4933fb5ababdf126bcf3a3e5178d43733787689ff778877ce5",
+      "definition_sha256": "01ed88d99f2a6e898f6841b51ea5970d3e07d445705053a4efa0710c91247d48"
+    },
+    "stage0025_03.json": {
+      "locale_sha256": "c98f0cac283d4b1c4392609952c4276927b5f1df4c179c3abcb5277f5f265551",
+      "definition_sha256": "005329fb2742588cfa5bd1175464aad46e8d783c276638a1257e957ccacb173e"
+    },
+    "stage0025_04.json": {
+      "locale_sha256": "11906bb6bf5c4b3c466e3e8e4fa33182f641eb8e01a3b58b037b316dce4cc84e",
+      "definition_sha256": "af6f3e1cb6e1cf56c6ea55a91152043d7d39ed0ef8b508d26560e70728062061"
+    },
+    "stage0026_03.json": {
+      "locale_sha256": "1fe5be14e899478fd1a6b6ba07796e9ca9b0d05f3e168dc656d3dd3c67d5f049",
+      "definition_sha256": "e8154d06e4e4d8e12763ee6dfd1350e308381a561c8638ca0e74307afe99bef0"
+    },
+    "stage0026_04.json": {
+      "locale_sha256": "4538c425e9185235e31fd45e72be257bf287377582f1503bbd8bde5ee1868f25",
+      "definition_sha256": "fe2e7ba14cbfe0d6b2d9b7926307592f04ee92adb820a85f7b4d8dcdaf19bb6e"
+    },
+    "stage0027_03.json": {
+      "locale_sha256": "ddeb85ebd90f885914c2119f923dc83be6bb58f2dfa7258e61dfd05f39dc11a4",
+      "definition_sha256": "04ba7565d23e766c802c8f4bf7f5c3f18e06a241c57bc750a6e1f4d6acdbd4ff"
+    },
+    "stage0027_04.json": {
+      "locale_sha256": "824385cfb84360823c05015712c7d37b478c89ef4927ef22ce60e4979f317426",
+      "definition_sha256": "343687f8a9fb617fd1b746b422e0b4ef22290604f35e711083bb3e185b0b1ba4"
+    },
+    "stage0028_02.json": {
+      "locale_sha256": "9dd245acb61f85a8daab8d661cbd642cd5f2c90048f9a9f7eb6c21755861985a",
+      "definition_sha256": "e3705aa79e1604568ef6faeeafb294198ab66eee5d215d8166196415d4d358f3"
+    },
+    "stage0028_03.json": {
+      "locale_sha256": "3fa53ea576c4dbb9e2e4b3b2353e4ce88b5b5ea33194057121851b9be7c8ea32",
+      "definition_sha256": "a2335ecf9bab69e1e58085acb709494349819ccbfb5df4c5965dcf10e3616cab"
+    },
+    "stage0028_04.json": {
+      "locale_sha256": "8f338f708156b0aa567ba7ca521f4d1de171432f0c93dbf76f31c6d5530467c5",
+      "definition_sha256": "576aa318999a698c4d6b563fe5daa7fb62528a7aaff5bb41e37ac2c892542475"
+    },
+    "stage0029_02.json": {
+      "locale_sha256": "39c107a82460048b6421ac540fa58386a1d56f0b7f76ef853e2b4ace5c7897f4",
+      "definition_sha256": "2f7fdd96e4210cf79677f7dffaef815d2d7291ef20a23b4264f9dcf0b20086ad"
+    },
+    "stage0029_03.json": {
+      "locale_sha256": "b24e131f679d12fc454d068f7f13eaad78e07e339d5ece620b8818eab1b3b07c",
+      "definition_sha256": "77686cd6ba3d3e6a39d7028160fa41f83fe1aca8ab70c2fff6228ef0dce52d10"
+    },
+    "stage0029_04.json": {
+      "locale_sha256": "95582b32d632cfcd9d30bea918e8354e086cfdfde38fe8f78f60716bae7eda64",
+      "definition_sha256": "8187ccf908883fcff73b76b361490610761f5c751abf3a656683e2acbbf6639b"
+    },
+    "stage0030_03.json": {
+      "locale_sha256": "edfc052432615a321292d9781d8eaff32b767f4bf183c280c0a6c101c2d15856",
+      "definition_sha256": "5491785a27c2599467b3e2f21dc94f2aa8fc5c3428a760df6d54a42326c34cec"
+    },
+    "stage0030_04.json": {
+      "locale_sha256": "ee9d81ea88c72a67252160828cb2013560c241a1ec16d9d888dd3711faf786c3",
+      "definition_sha256": "4901b0a608174b129e67588f45f2205483ea6a949173ef3aa81ca0f7dbd34d0f"
+    },
+    "stage0031a_03.json": {
+      "locale_sha256": "bbd403ebbea068859e17635bb802eae5b48d2eb74998491c991214bdc4dd4c68",
+      "definition_sha256": "8716d0311c12d65cd20aa975d65df48ef8f9fbb48c9687320274de811ba9ace8"
+    },
+    "stage0031a_04.json": {
+      "locale_sha256": "4c42c97350202a12f7ecfbd4b3c952083db70078a945e44a4fd5f208ef7176f2",
+      "definition_sha256": "20f604875cc2b44adbdeb8b2376f4b05b2aec13699174a906b272b2b8eb10121"
+    },
+    "stage0031b_03.json": {
+      "locale_sha256": "32cdc84a0c7311dde34660083f1b8e4e3a9c1e49d654c6e41386914bebca19b6",
+      "definition_sha256": "2bf47de51e9ad4864747cde527dbf7e08347dfc2c0d534df363ee2c2baa4d683"
+    },
+    "stage0031b_04.json": {
+      "locale_sha256": "bec34d5a9b4cfc265bca3ff9a8e72e0249acf1b86c21089c4663dfdc33397298",
+      "definition_sha256": "306a5a91db8b8059817de50372d6591b6fc4f7653ff897eba5b06745813f002f"
+    },
+    "stage0032_03.json": {
+      "locale_sha256": "16bd978f10620cd4d3aa089c1cce37aa383434abf0ff198ebb3da446ddfb7287",
+      "definition_sha256": "8a23f289a5e0c392e6334848448b595e5aa19325632322bcc894cac9704fe408"
+    },
+    "stage0032_04.json": {
+      "locale_sha256": "5747e8c31c002f20b816c365024a75078a9254f92225a7bd50c9517bf95cf1b5",
+      "definition_sha256": "b3a2defd1fa806429dbb0317377de1543ed4b3dcea00c012d190cd77ee228912"
+    },
+    "stage0033a_03.json": {
+      "locale_sha256": "5f668aabcc7c5bdc9e601a261d327a320dde71f2064818cc9ff5254b9e18254c",
+      "definition_sha256": "e6f2bfa0253b6b2feee327f49d4ee9c19d0f2ec5a053df29b221102d8d74e347"
+    },
+    "stage0033a_04.json": {
+      "locale_sha256": "aab30cbe0531d8763fbb665b42eb680cf4330a22a364760d2ecb0036275a10db",
+      "definition_sha256": "2bff46f37f37bfa22529794729b35daf941db87ffb48fe72079df193ce8380f7"
+    },
+    "stage0033b_03.json": {
+      "locale_sha256": "eef2bfdab2cf4b91544c3c5f8e330e33995a61480f48757bf5bf4e21f107ff2f",
+      "definition_sha256": "2f13e5ff225ffee5c9cb27eabdbf4c99d820b409cf66c09fd47b28c050f060b3"
+    },
+    "stage0033b_04.json": {
+      "locale_sha256": "226199ab13e5568d83a7836f1cb5e8b035cbf21c42072c64ce7330879eb992f8",
+      "definition_sha256": "c5e0255ad5c4b7989c8dc44a536f04d734fc5939174e0fb5591bc276fe6231f1"
+    },
+    "stage0034_03.json": {
+      "locale_sha256": "286c39494fe8d9c6b5e1281ba641cf2c5d1aaccbc22da74b72fe37dde72f9baa",
+      "definition_sha256": "fbd9c58fd41cb4215faff2ecc556c5847dde6079d77430458c8f39762e81ce1e"
+    },
+    "stage0034_04.json": {
+      "locale_sha256": "039180684a743993731478f5b8f897e67396a8f2e22f5a5a1e55663c2beee62f",
+      "definition_sha256": "3d837f930f60c7ddd13dbd1dfbfaf44667b48d95b71ea5f9103d645a462a6967"
+    },
+    "stage0035_03.json": {
+      "locale_sha256": "d55f6ee6ed9b1d931fe7c8b4dc0ffa84131c63c6ee4d2913e1f9dd7d2fc5b8ec",
+      "definition_sha256": "5718b7450d26db08c20f8bf979d2f64906758c6c4d61394d4aa77b625722db57"
+    },
+    "stage0035_04.json": {
+      "locale_sha256": "02a452bd53f7e098c5fe8be6e4737eb8d92247da4e9959522d53b44898153e41",
+      "definition_sha256": "824de2d0aa2e838f5964d75ffee773ddcdf4f57fb4bc88d0e171f3f2c13d979f"
+    },
+    "stage0036_03.json": {
+      "locale_sha256": "e2b645cacd72de2b69f6d0a3a4c4fd0df2657a4d5a851d09f9831cf29b2dec65",
+      "definition_sha256": "6c77628188d5960afea1e91442001fbc2c49753bf59e8a163e22b4277f0ee30f"
+    },
+    "stage0036_04.json": {
+      "locale_sha256": "8e95328a3cf6a30f3992d5fa4f06faab187cb2e8663e4b9d17d7a34273f8441c",
+      "definition_sha256": "c7b3736b9a12bc985d78b0e4c2a5c7c9af6ba97af4559044db1e1c35f886c48b"
+    },
+    "stage0037_03.json": {
+      "locale_sha256": "3b8bfed54ac2b717fced430d4eef579413eee64cad5a6b8759562b77ac97f3f8",
+      "definition_sha256": "85521da50752da30b7f08b2895beb333dd53f23559b201dd97654be724a6dd8e"
+    },
+    "stage0037_04.json": {
+      "locale_sha256": "4a57f51324150d72a5139727803b41fe44d90864587858db35897100350df813",
+      "definition_sha256": "a94f1c709c26ddcccd26e6fe51f8754645938f914de344b5f71fea833c6bed56"
+    },
+    "stage0038_03.json": {
+      "locale_sha256": "e31a964b14ba2f46823cbd11504b4a8518184f4bc97532fb746bfb6cf4378a91",
+      "definition_sha256": "99732d609dd9110cd67493965a7065fc950199df43d914b5c738184d5d594bab"
+    },
+    "stage0038_04.json": {
+      "locale_sha256": "1dc5b0fa218ba5691eed55fc7329fc77e9ad6c8e1220e020b5f1c96d3d427900",
+      "definition_sha256": "b14f5d7224f532437f6208d81ad9f81fa37285976d31dd29ae456e9591d06afb"
+    },
+    "stage0039_03.json": {
+      "locale_sha256": "7d224b2370652ea04abca84bfe9353d2d08c32ece71454cdd833db39162b312d",
+      "definition_sha256": "0108c84df47cdb128b0fd7d72a56f056aa023974fc878e9d6416ed119d790f69"
+    },
+    "stage0039_04.json": {
+      "locale_sha256": "c7ed600fffe354a2bf1c5743b90313b8cf177725aafe3cf63fa29aed0a4ce39c",
+      "definition_sha256": "e0b7f2cf6b68ba7fe46fda28814e5746186c7c41cb5338c710fea46f9b4a218a"
+    },
+    "stage0040_03.json": {
+      "locale_sha256": "e518a7bfbb2c43509f07a3c686933887dcd13922e17ac8159b625ba3e0084cbd",
+      "definition_sha256": "393e844af7c54660cd689f2976462bb5539714e581ac3d667c45428c61eec3b0"
+    },
+    "stage0040_04.json": {
+      "locale_sha256": "2dc40e3cae4f67e85bf993094621334fdbd37b3b9ccc92151572f39417c50984",
+      "definition_sha256": "b7dd036c595081014f8bb05137865a84b80387c2ecd0ec22dae8c6db3094a662"
+    },
+    "stage0041_02.json": {
+      "locale_sha256": "2727af0ff7aab8d7c7dddf1fe643ed0a87fa052da6afbdaa326e4d709f781202",
+      "definition_sha256": "49b235b4e41520f25ba70ed9cbe061a2087df798695553ae518f2cd41afa78de"
+    },
+    "stage0041_03.json": {
+      "locale_sha256": "70c328fd90fcd69a4196ce0dc53075b579abb92b2892825e648031599590eb8c",
+      "definition_sha256": "90d1df01eeaff89ce09a5c54f846289cf3e3a08d420b04ad992803a8c319ae77"
+    },
+    "stage0041_04.json": {
+      "locale_sha256": "0d930e32c2bd25524514ed9a3239e030717241ef4620d87b398bddde55692204",
+      "definition_sha256": "598be8e6782cd7bbab7865118aafe8318e8ec8ceba9a3a3c95c807c15ec08599"
+    },
+    "stage0042_03.json": {
+      "locale_sha256": "1d038d7eff1d8a10bf03299c89a7376114f8bb359d79c8df830087093f5aa681",
+      "definition_sha256": "86c9d1ccccb391b6385ec0b65494fb0f68917f324c53963b3504a0320f5524f2"
+    },
+    "stage0042_04.json": {
+      "locale_sha256": "d3ce1bcc5fb036712d683842521ec723c0189533570e13a0dd4ede438c79a64a",
+      "definition_sha256": "7f3cb8e2be5ac8c369b1023e38588e830f9dceaffe96b2e1d8b516e11ac0e96d"
+    },
+    "stage0043_03.json": {
+      "locale_sha256": "051ec82b44f53c031bd38e6bc277d4b0d3442c5019649ab13822ff5efa4d5fe0",
+      "definition_sha256": "f10bb8112683789dc1ab34f033658855fa26721977726ca6dfed3a1e5b2c3b0c"
+    },
+    "stage0043_04.json": {
+      "locale_sha256": "440c877ed42a3ff7cac48007de1371bdfea9b5691ed906334a7c7480831daf8c",
+      "definition_sha256": "d4b3a48003752982b3eb3d8801af55316b7a417abdba2ccbe8aad8a960f1e09c"
+    },
+    "stage0044a_03.json": {
+      "locale_sha256": "e0431edef0ff54989777f3f891c3d5ff413d9f2987b62ce840545c248bfc9143",
+      "definition_sha256": "9efeed264b506b8cb68df83040f22d072cade043b93d12f47342d1ed8fe6be00"
+    },
+    "stage0044a_04.json": {
+      "locale_sha256": "b6ca4fd4663a6edccd5e8cd40e146f406e6f6bbcab96b197f0823b4d3f7558e1",
+      "definition_sha256": "389b56b3c0b9f968e3f89064b0e40a67d9d52f986d587a976cf8ade856509cc5"
+    },
+    "stage0044b_03.json": {
+      "locale_sha256": "933eea949046be121b93afabf5763e175d1045950a2c0af29299affd77ad229f",
+      "definition_sha256": "31c91a62269fbdb45572a9dafc1044ccc5efd526814b37589bc233870513d78a"
+    },
+    "stage0044b_04.json": {
+      "locale_sha256": "7737c8daa65039de4420563801fe4668651a1b3ca2ef6c730d67bf3accc77fb8",
+      "definition_sha256": "68b1566dbd91d86d6887f86687ef855d94a801955f87fba5dbf61d367ba9ef31"
+    },
+    "stage0045_03.json": {
+      "locale_sha256": "ad38429c954c1be32da3c3b9d1a07cc1387d957a078cc537ddd8a95e7295c756",
+      "definition_sha256": "0e1e766fdbe197d941f3ec49553632e27a2b622f6a78101aaf69c97ff4039289"
+    },
+    "stage0045_04.json": {
+      "locale_sha256": "be39da96bc7ae06bc729a8f9ce5ad46fb42422296f5086eab0b41a0d7e630f5a",
+      "definition_sha256": "59814accca7cbf7dc8e3a98cdddeaae702b691a56cdf25944f562d626d8f964d"
+    },
+    "stage0046a_03.json": {
+      "locale_sha256": "b0b10ad9a6a6c6f02b6a91dd89db9fa5384f741b39170898effa5014641ea6fc",
+      "definition_sha256": "13ff3c6fc7172228e2af2fdf822454974e8d8e377749a1d32bf02933f3e986d7"
+    },
+    "stage0046a_04.json": {
+      "locale_sha256": "cfb68214d733404e0d067e2174ef9dcdce8ffc44c40af061815ab0a08c92f3bf",
+      "definition_sha256": "fc9632a3abe3f59b808e2e0b83803f55c5b168f4c927770d5b9f7f092127ce86"
+    },
+    "stage0046b_03.json": {
+      "locale_sha256": "fa5e9cdd9e4dbd67e6c1a955ced4f050ee24e9bb48b50fb3863ac3c4d3adf3a9",
+      "definition_sha256": "9bb73c192fc9fafb0b088854c87416c276b3ae03ede2821eee11505e5def6738"
+    },
+    "stage0046b_04.json": {
+      "locale_sha256": "31e423f437432eb7afadae94f3ee94a2b4f72660c698b9b027c4651a085e59ee",
+      "definition_sha256": "5769a5afe2f2182014ea9887b7785b76a3f878a561365636cf3a7cc7a3d97345"
+    },
+    "stage0047_03.json": {
+      "locale_sha256": "610f732dfde407dc934dcf8671420d980c53364d5295c41224918bdeaff86147",
+      "definition_sha256": "48c84f3f1e24afac456d1098ca5e9de15faa7bea23a72d5e4f9dc0cf3f5477fe"
+    },
+    "stage0047_04.json": {
+      "locale_sha256": "647e449e657acc5fe602175913fdb37e2262c999add9047f9e46a9b415c5cd04",
+      "definition_sha256": "9a01420823456835fe56288db2cb6344208fd2d53c903a44e6adc2028712697c"
+    },
+    "stage0048_03.json": {
+      "locale_sha256": "e2645725d877a2d91a819ddfd2e27a0438dfff43d36bcef8b36797d395515a22",
+      "definition_sha256": "934b9aa4dde3e6de9597c9accb7c01b414861635fdea9c0c8c0261f198354808"
+    },
+    "stage0048_04.json": {
+      "locale_sha256": "c690842c0595d18ec6ced066ac95099491debf45e2af9450e1a52e42908c4408",
+      "definition_sha256": "39a5d210191435c7a112c9ccff497b67d17ebed561324e98bce8ea59ef0248fd"
+    },
+    "stage0049_02.json": {
+      "locale_sha256": "f22092ec8ea3c5c9d5fd615dec07d6c329eff3034884efc6737388fbeae97288",
+      "definition_sha256": "1e0b7d2bd89b6f6437dee3770afcc67653806425d0adca78372530ad94171854"
+    },
+    "stage0049_03.json": {
+      "locale_sha256": "5ade89ba52f174d92228ea0e1efcd94818a38b2a70ea7243b13af26d737b158b",
+      "definition_sha256": "98d5be0fc3a1ef8131bf3fb29229bb2847a1a8b1adad37eba0ae57cf6c56ea3a"
+    },
+    "stage0049_04.json": {
+      "locale_sha256": "e6c7df28acff95ec95ad230c54d1ac2f5daf8b26ef435d59732eba0ff5b73419",
+      "definition_sha256": "034a7f100c35774a094296bcdbf6663c224640ff75de431e4bb3fa34f08eff00"
+    },
+    "stage0050a_03.json": {
+      "locale_sha256": "b659328370516698d7b2dd3edbdee26a5a369509d2e3485e1014cf179130aeb2",
+      "definition_sha256": "6274f85c9b4fc930674bed3487a3d5cc27f2ea3ac2c99006e4aeb586407e188b"
+    },
+    "stage0050a_04.json": {
+      "locale_sha256": "b35c2c7cb552b8d6d92752a37b6e9ea6543ef55488a2bbb8b8ee2ac5d3a40cc1",
+      "definition_sha256": "7b7ca7f4ab3e03df6182b1b3a9503f77e8073ac71b8528563cd1953767f52234"
+    },
+    "stage0050b_03.json": {
+      "locale_sha256": "0e2b7884b2ffa78fd970c253311f94e13c9959cf757badba665c397a3542b85d",
+      "definition_sha256": "18db469f9f4afb26e61f5dcc00ccb752b3a22c49ce19910f685bcac4105cebd7"
+    },
+    "stage0050b_04.json": {
+      "locale_sha256": "8f97645b4f487210086d9094a0d7c64e0eaba809981ad0ca6a7dcbc01504580e",
+      "definition_sha256": "a6dd686d2370510c54e07723eabfe1252facf2d92470b35ae4daf5b73941ed6c"
+    },
+    "stage0051a_03.json": {
+      "locale_sha256": "e92eea6979dbacaa6991c6ee2c9dd9e8592d3c95ff42f23a2175737fa2b190a4",
+      "definition_sha256": "1fe851b95f01e7bd10ec6c9ee1b3b74ff1d9bd0dc31aac200bc7a9cb95c41a34"
+    },
+    "stage0051a_04.json": {
+      "locale_sha256": "d75ab7d8120cce2c7fddb504572aaae92757d153ab97385b6700fb6420d34409",
+      "definition_sha256": "488a8cdcf514dada5aecd1e82d0977a8d72a42b92f088991dd4c6bc8e34849dc"
+    },
+    "stage0051b_03.json": {
+      "locale_sha256": "f62c99ab9ca2f209422d4ed967b9da7bbbb9bfcd06169710bc56a235cf15c87f",
+      "definition_sha256": "d2f7f588188231aeb89f91ec8470c9258fd80d42fc569358e9f7a55f739457a0"
+    },
+    "stage0051b_04.json": {
+      "locale_sha256": "40bdb6037cdd3e924ce172adeee41623e45aaf796c2f76ab49c8b8b3d83d2ea7",
+      "definition_sha256": "bf154adc59e07d366176f4689ddb3a77b31c68828a875a6001b31c65457cf65d"
+    },
+    "stage0052_03.json": {
+      "locale_sha256": "5561410b5e9efa47650d78bb487aef8fd2f31d20b2b19e6efacd181095349156",
+      "definition_sha256": "b5cb8ed6249d408a1661e31e537c979af768818b40b0f841c142109b33abbe0d"
+    },
+    "stage0052_04.json": {
+      "locale_sha256": "d05882c063c949458566927e35ce50018e8bf3722d8588b252d42ab08b9a10c1",
+      "definition_sha256": "57ab29e042570adce8582416728c5dac2f49f9ab128b5c196623e6efac091ce9"
+    },
+    "stage0053_03.json": {
+      "locale_sha256": "992570270132f527c44123f4d93dc9e1e4bb742d6ff83fc1f853d140232a5aaf",
+      "definition_sha256": "53602fb5f8838e312ba2f5b6f4830f4f8693b7b59e1b3b93ebf4f539abca0e15"
+    },
+    "stage0053_04.json": {
+      "locale_sha256": "66e0e404963af03a0c6665c849ff3c01c27932c2c736ec643fa169a939184599",
+      "definition_sha256": "36e8d6aee00a28290c48417c090c5d8ebf628645e0490a83c75150346c90f520"
+    },
+    "stage0054_03.json": {
+      "locale_sha256": "c60bc6c480f0c5230538eb7859fe81931a2c978505e6ca0fbbcc5872c1d5b021",
+      "definition_sha256": "cb461789f6db6a91e93e66ff69608cf7214636b9339ccaeaebec85119e8a7efb"
+    },
+    "stage0054_04.json": {
+      "locale_sha256": "1e6a56e4ff08ede7db8bbab376c09bd7e37dade673876ae95c9c67cd129b015f",
+      "definition_sha256": "89f09cfe6f07222acc845a84b11de5bd344067fbf044abe199f34aa72a279143"
+    },
+    "stage0055_03.json": {
+      "locale_sha256": "db1bfae9f6941e4ee46804f9b2ad2c1543326b6bbb36ae2a7e5b30668867d7f6",
+      "definition_sha256": "ab6ab764f6733367d62de88c101bd2169963fc0649d296826d061ea1efe8a293"
+    },
+    "stage0055_04.json": {
+      "locale_sha256": "1a85b96975e8d4566c250b8a91c671d812723992a2ad09e02b18d770f4828cd8",
+      "definition_sha256": "499e45ecef833f24da744787e4c0a602edb6a248d5206279ddb1576bc39e84a9"
+    },
+    "stage0056_03.json": {
+      "locale_sha256": "df5134376e074feb5908e36f5c6a340e26d92ce1340af5e2e616aa2ddc5add2d",
+      "definition_sha256": "1ba3c029aa157e347d064e0f6a38a057135ec9c2ce67c91d025deb20d1cd1aae"
+    },
+    "stage0056_04.json": {
+      "locale_sha256": "d2a84655e087fafb03748562a792c984c21b08e047dae5208a91d96c44a902dc",
+      "definition_sha256": "ab64df2a51e755d367bc2e55f804ef4289b965861281d2fadd75875114803c0a"
+    },
+    "stage0057_03.json": {
+      "locale_sha256": "bb75ea4ff96ca23d1772188c79d01d147445788b02fe85854aeafc55c1682a91",
+      "definition_sha256": "c75e5e87a6ac4dff630721f87a2c4a2809a967d73e826787659126f7e4ccb31f"
+    },
+    "stage0057_04.json": {
+      "locale_sha256": "b7dd111b9985d9a4734ca1cd3d9e7f4e37b9b94e14032ba74cd57f27cbbbbc28",
+      "definition_sha256": "f3e4c07708ec37161c4fd6f42177fd7e462204fba46e6bd20d6ef7b69e94d857"
+    },
+    "stage0058_03.json": {
+      "locale_sha256": "f8b7f6f9e27ff3474a93b1c4b557515bf25c6c6be75d62cbd540bed38343a6f2",
+      "definition_sha256": "35f53a80f25eeebc02d83f37f904f54c27722cd93eafb4a8242a8481f9a340d8"
+    },
+    "stage0058_04.json": {
+      "locale_sha256": "edf159b2cf27e266ebd1b92b37749e981fdd99e387a262f06616b925001a637e",
+      "definition_sha256": "8c8b204292c20a2b38f1d6b4966386dfeaf60575c5aec57442ef375effc58ddd"
+    },
+    "stage0059_03.json": {
+      "locale_sha256": "7c6e8f1419c57be4551d23762e85d315b36d1f1728700dd7158ed0e9abc19ec0",
+      "definition_sha256": "e457688ccd64927c0a442e1452c9300a15796ebabc8cf3424b6746e9f629cce7"
+    },
+    "stage0059_04.json": {
+      "locale_sha256": "d90628ee94626662fa55a46f30252f38e1ab91ef6b92b416020f5ceca2d0732b",
+      "definition_sha256": "5f2e3923a7fc0ae8343382ef2a2bcd95e87d633ef49886d1b3d9054ee5049326"
+    },
+    "stage0060_03.json": {
+      "locale_sha256": "44785011e6492da9ce22fdee676eccb8ebea337a8b82a912cc1267f9925ba1a0",
+      "definition_sha256": "36b5df9aedc93c7081f3f16c5d9e8d65e5b881a7097c240da0f5343a41a22ec0"
+    },
+    "stage0060_04.json": {
+      "locale_sha256": "cfdaa70f444a53f26fd0a00c991927bbe5bd0bce62fd421229d5dc8cc3c3e3c4",
+      "definition_sha256": "255aaa5956a1c2e72e1ce8f942560983b2d3207619b23c99a7f3ec66f1fefad6"
+    },
+    "stage0061_03.json": {
+      "locale_sha256": "ee94679e116e504829c30de50e7f7479188a9619b139aa0af006ad2c886970c2",
+      "definition_sha256": "306058e9d20a4b9e6c23ce4968b9df4436b9725d4220d2e04eede6bedce2ea58"
+    },
+    "stage0061_04.json": {
+      "locale_sha256": "759451c4e3f81f16bd3647512cc3fb1cbe4959e33723a2058581b125dec68f96",
+      "definition_sha256": "bdcd523fea1b97353c8462d2d695299fc07879490885861be155993a7636d331"
+    },
+    "stage0062_03.json": {
+      "locale_sha256": "a0f2a3595176cca647002a498c94550d3911859588cd7a8d69b4989724d86241",
+      "definition_sha256": "134367912496f04a542cb47118456a977685ed505772d1810f170933c3244c38"
+    },
+    "stage0062_04.json": {
+      "locale_sha256": "b3d3acfb52790fdc2ec25bbd7f5d2cb2bcc6979a4d8755c49094d3a2f82cefaf",
+      "definition_sha256": "4d8c970df3c358416e4ac8d22a82dddd0be738e8621d430baabab1e9d7801005"
+    },
+    "stage0063_03.json": {
+      "locale_sha256": "41528316f3020ab8b3aeb5d4f76995dd5cf45461a8e234d5de758b43fee0272c",
+      "definition_sha256": "a4db709fb137fc811d42358efbea7165ab0b2a21f884ffe1ef4d2e9c176c949d"
+    },
+    "stage0063_04.json": {
+      "locale_sha256": "167216b42047257fbd94c10e90d6a6671354391d485fa9c83967f27cbb8bb7b7",
+      "definition_sha256": "fe131c69c1b209fd970495119e7b26b9bc4a75e18c246773b14a7b83e19d7349"
+    },
+    "stage0064_02.json": {
+      "locale_sha256": "0c5b4b2835b95e12788f14f1234771df5aafbd733f22cb9e555c0a6d62035072",
+      "definition_sha256": "57c89559e53d9737a8d37667081c8b300d311af2f2f05da0d28495170413ecb0"
+    },
+    "stage0064_03.json": {
+      "locale_sha256": "74a8b2fc58076ef2dc0539e39451e857a601c470f276800c91e0c0033e1d26a8",
+      "definition_sha256": "68fd5595f91be66e5f7eb0c2bcb12481f6f2ee528951e6c625d19f392b2ab2d8"
+    },
+    "stage0064_04.json": {
+      "locale_sha256": "1f5f20077bbe935ca3d99f4952864c0b53005eaf273bf1c26bc9693c134cdd8f",
+      "definition_sha256": "039bc2b9976b3e369118b505f48f1c0615f16076582e280054640a16e86c5f45"
+    },
+    "stage0065_03.json": {
+      "locale_sha256": "6c8b2af7ee69c3af4bfcc8c1c8177ae7828efb738f7e3d54cba5cf0a3f499cf8",
+      "definition_sha256": "8781426b621f1d98787130202b6d2ce3ee167585560a296a2704bbfeb19d1966"
+    },
+    "stage0065_04.json": {
+      "locale_sha256": "5e07e9c107167fe2db975c31b6075ef79d5666e8c32152a9f859921ab5459e0f",
+      "definition_sha256": "c868bdceb81eff8c40f9d3dd77b3b5e312d54a21110fd832302b679f718aa64b"
+    },
+    "stage0066_03.json": {
+      "locale_sha256": "38bd58ad17c7d58eedabd738b3add196fad8c1ff1c3f4c27002fcc265804d95d",
+      "definition_sha256": "22c82d75514594d7ec5decc2f8b8e31a7f55a1aba9adc1831bf34d628662b1db"
+    },
+    "stage0066_04.json": {
+      "locale_sha256": "7923296b5c5fe01578fd3d0d28b6558dc32fd5dd5fbff169c8205c54c465999b",
+      "definition_sha256": "4c60ae1b8a248b3e409346fbeedabc034a4b6e25f5d3324aa23bdfed38e09376"
+    },
+    "stage0067_03.json": {
+      "locale_sha256": "591bb3c0b65aaaec2bed92be40d3d79539be9fe885cea94c90ea65b1fbb76acf",
+      "definition_sha256": "4e759a84726ee5f0f179fd1c126798826d535900c975669485c6a3f95d9a9e92"
+    },
+    "stage0067_04.json": {
+      "locale_sha256": "4faa8cc77726ffd7330bf0475ff5c3e83daffe6bdfdbc8deac72094c8611573a",
+      "definition_sha256": "4fe365a73a9d149ed0fd6937a9bc3c523551e68fdbc410dbca98afc71b23a71f"
+    },
+    "stage0068a_04.json": {
+      "locale_sha256": "f11fad3734ac9298713635705842f060e3df28413e20725107042d529c2f8dfd",
+      "definition_sha256": "dba965ecf51c09bed3cce8ce8203c52cb85bdb4056f7b5ae81faa1fb1657cff9"
+    },
+    "stage0068b_03.json": {
+      "locale_sha256": "b68dabd9c4cb76078163f6ce6a59f08a24b46c4f7af80a6fdd7878483b1c69cf",
+      "definition_sha256": "bdb95bb409cbb1f52b589f6780f7dd1fb44b220c190bcbcebb770fbfc782cd4a"
+    },
+    "stage0068b_04.json": {
+      "locale_sha256": "e26db09d376013e54d2c7b6ddecf29f4fda575c11e8a6933c031dc372287af38",
+      "definition_sha256": "25cf4fd453f6521b10356727a93925460a894ebf91c796e7daf8650da37cc8c8"
+    },
+    "stage0069_03.json": {
+      "locale_sha256": "3c7ba07f4cbc36bc1b05cdcf011d517d195e85eb78ce7e2a18f531815eaf2edd",
+      "definition_sha256": "56bc413f24866a573a11ed4781af5646820fe44f43a4bd6bee9063c452af49c5"
+    },
+    "stage0069_04.json": {
+      "locale_sha256": "85b08bf5c86e243fe2f21605acd89861b5f06ce79b513a41e9766d64f77dfccf",
+      "definition_sha256": "803cb9867fef5b6516f5e3945f816903d08fc13cd71683a1d3395fcced20b22a"
+    },
+    "stage0070_02.json": {
+      "locale_sha256": "c6d45ff5f6ce4a2c5e11bcb9b698a82e00c27e4b5e93758d68e3bf125b716fb4",
+      "definition_sha256": "caeba38d3f757eca15be37cee73ab16bfd4a162f6bf3601f2624426f342cdd52"
+    },
+    "stage0070_03.json": {
+      "locale_sha256": "52f450328e6d5e027b70fbb5151916fe836b1fe1d90e5377b0e108ff1103b3d4",
+      "definition_sha256": "d3717fb7e5aaaecbe3dcbb38f3b4e8066931705a4d0b926cc965963bd4b2fbc1"
+    },
+    "stage0070_04.json": {
+      "locale_sha256": "d7ea75740236770bafadc473d4ab6fc8be62ff23d621461d666862042729a3a9",
+      "definition_sha256": "e9c8fb61696f85a0d7fdd1cb5546ecbc88d417ac4f0bcd0120620a5049f2c9e6"
+    },
+    "stage0071_02.json": {
+      "locale_sha256": "0881bbcb17225aebbb8eee7b62c04aaeda5d344edf8b4f03cafe7c6a48330d82",
+      "definition_sha256": "5bf12255e1669d376997121e381577878c9744a8ba2e84b616449b96fa9d3be1"
+    },
+    "stage0071_03.json": {
+      "locale_sha256": "93ffb9f310400c4ac7b09915c207ed64179345b503ce0e76f9ab12b5776ee303",
+      "definition_sha256": "e562f7c3440b29ae6edb6022ff6b03d42220a2babc941d590ec5f7d0f35f09fb"
+    },
+    "stage0071_04.json": {
+      "locale_sha256": "bd2fff785c4d0ea0dacc8ca4cf2ce698e751535db09f53ec4a0b7a1460d23088",
+      "definition_sha256": "61d6da0520e7914614c9f02dde03eccd01390e5451f21d978bb591d1f46d9b1c"
+    },
+    "stage0072_03.json": {
+      "locale_sha256": "e19f29e56939bceb600306d5665173f575f0b1bfb5aaaca787e7460151d0dfea",
+      "definition_sha256": "e764c013218e72432ce5c5312606e0a2fb863eb4be26c68af913fd90eebf97c8"
+    },
+    "stage0072_04.json": {
+      "locale_sha256": "4d6002459f73dbc5e787d88d8aae8d3f48e95fb3301827e3c92b000442b5a31e",
+      "definition_sha256": "bfc7b5ac8316f5bbe6a14f8e205c929622a12a3bb4332e6a92f7c170e364b07d"
+    },
+    "stage0073_03.json": {
+      "locale_sha256": "69b8e9862c53f072b54e786004403cc6a93647c2d8204ca9f3653da769ccde23",
+      "definition_sha256": "0f91c17c0f0cb817a3c546f99b346664720273ce029e6901b1478f368405f05d"
+    },
+    "stage0073_04.json": {
+      "locale_sha256": "c09ae946fab82bfd017890d0162642cdcf2f9a5f607ce0a911dbc2941126421c",
+      "definition_sha256": "c4ef74ce6575ffa288b413a44da7ab0557e2c8d7d5d5bfd0cd198186558c2b0d"
+    },
+    "stage0074_03.json": {
+      "locale_sha256": "019b9db8ee44deecae88bae0c4868f9aa27eaa4db397cb2f9f3ca80819263097",
+      "definition_sha256": "5dc0a542570fefe48ea25285a42a231d2f0bc9f51b2ec0fea24a7836bed6e4f3"
+    },
+    "stage0074_04.json": {
+      "locale_sha256": "329a9cd9dc760e653ac56aa34745a1a2a41c8657f1c27cd5fa8ac51c2d7f9098",
+      "definition_sha256": "90192d18e152602e6b150011a235958afb574f9ab488eb9f08b89c8dfea67448"
+    },
+    "stage0075_02.json": {
+      "locale_sha256": "959c73f969f46f0f6f6dfe2ac90cd3328a5340500e6a845e8b5e225b045fe92c",
+      "definition_sha256": "52cedd10a1b0f1441b46c20a1907b82acda2fe22bdd7de67e88e13cf232715d6"
+    },
+    "stage0075_03.json": {
+      "locale_sha256": "8addbad361963c031c8743842119e17d208faf8c65c112eda7525533cba09fae",
+      "definition_sha256": "9aacc0b4d87726f5e75896de9975714b530c178190ba4f91695548267511249a"
+    },
+    "stage0075_04.json": {
+      "locale_sha256": "511d6a591f6bd41b3ea4d1e10ebc9400fea8a66c712363705cb602ec0a3ec704",
+      "definition_sha256": "7500dd144e358d1e5d9a014e1cb8b37cf7bcc5d2f6d7abd61f3eddb7448aa88e"
+    },
+    "ui.library_chart.json": {
+      "locale_sha256": "fb6beeb5e1293fd9b3008d4302e95715b35b20a42d03ff4fa114430c823d9a76",
+      "definition_sha256": "16f4dffd2d60bf965b93af3c82543fce239f195031811fef8dc6afdcadaa3bd3"
+    },
+    "ui.parts_network.json": {
+      "locale_sha256": "325e35d232e78c30408f20ec179af3a4262305cc01c4d73bb88d1192f1164f3d",
+      "definition_sha256": "caf71b0ff4dc8960e122f2e4a1308884a8d5c7c721cdd4b5d0535574b3a53286"
+    },
+    "ui_hook.json": {
+      "locale_sha256": "66003a46ac46937b733923acd9ad441ffc95c8dc37793b7f767b6d446605427a",
+      "definition_sha256": "5237db0f9e705d48921b1424aaed6279c153fe44e8c96bd2a6ba59c82e8db379"
+    },
+    "ui_utf8.json": {
+      "locale_sha256": "38cf74f0983f13bb70fdcf58cdb767b5bc77f6b5d9fe6693678f44e527306a4b",
+      "definition_sha256": "6f77fc895bcc3bff6aa9d1b55bddd0ea69bef82466bc56ed93813e120c680317"
+    }
+  },
+  "review_entries": {
+    "scenario_titles:r_76a50887d8f1c2e9": {
+      "previous_status": "needs_review",
+      "original_note": "Check One Night Stand title wordplay against its full scene before enabling.",
+      "issues": [
+        "Existing worktree review requirement retained"
+      ]
+    },
+    "scenario_titles:r_41cfc0d1f2d127b0": {
+      "previous_status": "needs_review",
+      "original_note": "Check Into the Blue title reference against its full scene before enabling.",
+      "issues": [
+        "Existing worktree review requirement retained"
+      ]
+    },
+    "scenario_titles:r_f369cb89fc627e66": {
+      "previous_status": "needs_review",
+      "original_note": "Check what Fancy Z names in this bonus scenario before enabling.",
+      "issues": [
+        "Existing worktree review requirement retained"
+      ]
+    },
+    "scenario_titles:r_cd70bea023f752a0": {
+      "previous_status": "needs_review",
+      "original_note": "センリツ may play on melody and dread; resolve against the full scene.",
+      "issues": [
+        "Existing worktree review requirement retained"
+      ]
+    },
+    "scenario_titles:r_9f1f9dce319c4700": {
+      "previous_status": "needs_review",
+      "original_note": "Confirm that Trianglers refers to romantic triangles in this bonus scene.",
+      "issues": [
+        "Existing worktree review requirement retained"
+      ]
+    },
+    "scenario_titles:r_89aa1e580023722d": {
+      "previous_status": "needs_review",
+      "original_note": "Confirm Dynamic is the franchise/company reference before enabling.",
+      "issues": [
+        "Existing worktree review requirement retained"
+      ]
+    },
+    "stage0002_04:r_b025267f22788233": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0002_04:r_b025267f22788233"
+      ],
+      "required_tokens": [
+        "$$ボビー$$",
+        "$$ボス$$"
+      ],
+      "actual_tokens": [
+        "$$ボビー$$"
+      ]
+    },
+    "stage0003_03:r_b39a1dd705fe6cbf": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0003_03:r_b39a1dd705fe6cbf"
+      ],
+      "required_tokens": [
+        "$$オカルトフォーラム$$",
+        "$$マヤ$$"
+      ],
+      "actual_tokens": [
+        "$$オカルトフォーラム$$"
+      ]
+    },
+    "stage0003_04:r_bfb27f9eb2f7073e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0003_04:r_bfb27f9eb2f7073e"
+      ],
+      "required_tokens": [
+        "$$ミーナ#120$$"
+      ],
+      "actual_tokens": [
+        "$$ミーナ#182$$"
+      ]
+    },
+    "stage0004_03:r_2ddff5064af78db4": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0004_03:r_2ddff5064af78db4"
+      ],
+      "required_tokens": [
+        "$$アルト$$",
+        "$$先生$$",
+        "$$宗介$$"
+      ],
+      "actual_tokens": [
+        "$$アルト$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0004_03:r_b6ca80db4741a62c": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0004_03:r_b6ca80db4741a62c"
+      ],
+      "required_tokens": [
+        "$n",
+        "$$先生$$"
+      ],
+      "actual_tokens": [
+        "$n"
+      ]
+    },
+    "stage0004_03:r_9f7c18d1ea1b55c9": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0004_03:r_9f7c18d1ea1b55c9"
+      ],
+      "required_tokens": [
+        "$$ＡＧ$$",
+        "$$先生$$"
+      ],
+      "actual_tokens": [
+        "$$ＡＧ$$"
+      ]
+    },
+    "stage0004_03:r_32b2a8ce24deeb9f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0004_03:r_32b2a8ce24deeb9f"
+      ],
+      "required_tokens": [
+        "$$ＡＧ$$",
+        "$$先生$$"
+      ],
+      "actual_tokens": [
+        "$$ＡＧ$$"
+      ]
+    },
+    "stage0004_03:r_1be6d12f616f04e4": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0004_03:r_1be6d12f616f04e4"
+      ],
+      "required_tokens": [
+        "$$ＡＧ$$",
+        "$$ジェニオン$$",
+        "$$先生$$",
+        "$n"
+      ],
+      "actual_tokens": [
+        "$$ＡＧ$$",
+        "$$ジェニオン$$",
+        "$n"
+      ]
+    },
+    "stage0004_03:r_e5a692ea5ce09cac": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0004_03:r_e5a692ea5ce09cac"
+      ],
+      "required_tokens": [
+        "$$甲児$$",
+        "$$先生$$"
+      ],
+      "actual_tokens": [
+        "$$甲児$$"
+      ]
+    },
+    "stage0004_04:r_feee5c91826230e1": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0004_04:r_feee5c91826230e1"
+      ],
+      "required_tokens": [
+        "$$ムチャ$$",
+        "$$先生$$"
+      ],
+      "actual_tokens": [
+        "$$ムチャ$$"
+      ]
+    },
+    "stage0004_04:r_d1ec2522c87c361d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0004_04:r_d1ec2522c87c361d"
+      ],
+      "required_tokens": [
+        "$$さやか$$",
+        "$$先生$$"
+      ],
+      "actual_tokens": [
+        "$$さやか$$"
+      ]
+    },
+    "stage0004_04:r_1c208ca0cbf26f28": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0004_04:r_1c208ca0cbf26f28"
+      ],
+      "required_tokens": [
+        "$n",
+        "$$先生$$"
+      ],
+      "actual_tokens": [
+        "$n"
+      ]
+    },
+    "stage0004_04:r_4e5c8e989c4a7691": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0004_04:r_4e5c8e989c4a7691"
+      ],
+      "required_tokens": [
+        "$$さやか$$",
+        "$$先生$$"
+      ],
+      "actual_tokens": [
+        "$$さやか$$"
+      ]
+    },
+    "stage0004_04:r_4b1247bd3ca4905d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0004_04:r_4b1247bd3ca4905d"
+      ],
+      "required_tokens": [
+        "$n",
+        "$$先生$$"
+      ],
+      "actual_tokens": [
+        "$n"
+      ]
+    },
+    "stage0004_04:r_8805f96e52aaa462": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0004_04:r_8805f96e52aaa462"
+      ],
+      "required_tokens": [
+        "$n",
+        "$$先生$$"
+      ],
+      "actual_tokens": [
+        "$n"
+      ]
+    },
+    "stage0004_04:r_2b3479c4cf0680f4": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0004_04:r_2b3479c4cf0680f4"
+      ],
+      "required_tokens": [
+        "$n",
+        "$$先生$$"
+      ],
+      "actual_tokens": [
+        "$n"
+      ]
+    },
+    "stage0004_04:r_d441e6cc908ac01b": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0004_04:r_d441e6cc908ac01b"
+      ],
+      "required_tokens": [
+        "$$アルト$$",
+        "$$先生$$"
+      ],
+      "actual_tokens": [
+        "$$アルト$$"
+      ]
+    },
+    "stage0004_04:r_017a56991b7b8ca4": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0004_04:r_017a56991b7b8ca4"
+      ],
+      "required_tokens": [
+        "$n",
+        "$$先生$$"
+      ],
+      "actual_tokens": [
+        "$n"
+      ]
+    },
+    "stage0005_03:r_fb05d8e5f1ee93e5": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0005_03:r_fb05d8e5f1ee93e5"
+      ],
+      "required_tokens": [
+        "$$アルト$$"
+      ],
+      "actual_tokens": [
+        "$$アルト$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0005_04:r_e350fa099c1ab072": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0005_04:r_e350fa099c1ab072"
+      ],
+      "required_tokens": [
+        "$$ミーナ#120$$"
+      ],
+      "actual_tokens": [
+        "$$ミーナ#182$$"
+      ]
+    },
+    "stage0007b_03:r_adec86483b13599a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0007b_03:r_adec86483b13599a"
+      ],
+      "required_tokens": [
+        "$$オズマ$$",
+        "$$ハンター$$"
+      ],
+      "actual_tokens": [
+        "$$オズマ$$"
+      ]
+    },
+    "stage0007b_03:r_1fe8564d2b959317": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0007b_03:r_1fe8564d2b959317"
+      ],
+      "required_tokens": [
+        "$$コンロイ$$",
+        "$$ハンター$$"
+      ],
+      "actual_tokens": [
+        "$$コンロイ$$"
+      ]
+    },
+    "stage0008_04:r_5cd353758cfe474d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0008_04:r_5cd353758cfe474d"
+      ],
+      "required_tokens": [
+        "$$マオ$$",
+        "$$ハンター$$"
+      ],
+      "actual_tokens": [
+        "$$マオ$$"
+      ]
+    },
+    "stage0009_03:r_91bf33c27ad39f0a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0009_03:r_91bf33c27ad39f0a"
+      ],
+      "required_tokens": [
+        "$$ボス$$",
+        "$$フォウ$$"
+      ],
+      "actual_tokens": [
+        "$$ボス$$"
+      ]
+    },
+    "stage0011_03:r_38762a09460d8b6b": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0011_03:r_38762a09460d8b6b"
+      ],
+      "required_tokens": [
+        "$$リディ・マーセナス$$"
+      ],
+      "actual_tokens": [
+        "$$リディ$$",
+        "$$リディ・マーセナス$$"
+      ]
+    },
+    "stage0011_03:r_7ab28e70b4d4f641": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0011_03:r_7ab28e70b4d4f641"
+      ],
+      "required_tokens": [
+        "$$キリコ・キュービィー$$"
+      ],
+      "actual_tokens": [
+        "$$キリコ$$",
+        "$$キリコ・キュービィー$$"
+      ]
+    },
+    "stage0011_03:r_c304df6888eb78f7": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0011_03:r_c304df6888eb78f7"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0011_03:r_9796b3efa401a303": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0011_03:r_9796b3efa401a303"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$恭子$$"
+      ]
+    },
+    "stage0011_03:r_fb05d8e5f1ee93e5": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0011_03:r_fb05d8e5f1ee93e5"
+      ],
+      "required_tokens": [
+        "$$かなめ$$",
+        "$$ぽに男$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$恭子$$",
+        "$$ぽに男$$"
+      ]
+    },
+    "stage0011_03:r_4e5c8e989c4a7691": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0011_03:r_4e5c8e989c4a7691"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0011_03:r_10340119af3ed6db": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0011_03:r_10340119af3ed6db"
+      ],
+      "required_tokens": [
+        "$$宗介$$",
+        "$$ハンター$$"
+      ],
+      "actual_tokens": [
+        "$$宗介$$"
+      ]
+    },
+    "stage0011_03:r_13c2ae299018c9ee": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0011_03:r_13c2ae299018c9ee"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0011_04:r_94a88c90e557e16e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0011_04:r_94a88c90e557e16e"
+      ],
+      "required_tokens": [
+        "$$ミーナ#120$$",
+        "$$モニカ$$",
+        "$$ボン太くん#robot$$"
+      ],
+      "actual_tokens": [
+        "$$ミーナ#182$$",
+        "$$モニカ$$",
+        "$$ボン太くん#robot$$"
+      ]
+    },
+    "stage0012_03:r_38762a09460d8b6b": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0012_03:r_38762a09460d8b6b"
+      ],
+      "required_tokens": [
+        "$$リディ・マーセナス$$"
+      ],
+      "actual_tokens": [
+        "$$リディ$$",
+        "$$リディ・マーセナス$$"
+      ]
+    },
+    "stage0012_03:r_7ab28e70b4d4f641": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0012_03:r_7ab28e70b4d4f641"
+      ],
+      "required_tokens": [
+        "$$キリコ・キュービィー$$"
+      ],
+      "actual_tokens": [
+        "$$キリコ$$",
+        "$$キリコ・キュービィー$$"
+      ]
+    },
+    "stage0012_03:r_47ddabb7b60131c2": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0012_03:r_47ddabb7b60131c2"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0012_03:r_8805f96e52aaa462": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0012_03:r_8805f96e52aaa462"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0012_03:r_7cbc63dad295f862": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0012_03:r_7cbc63dad295f862"
+      ],
+      "required_tokens": [
+        "$$スズネ$$"
+      ],
+      "actual_tokens": [
+        "$$スズネ$$",
+        "$$アルト$$",
+        "$$甲児$$"
+      ]
+    },
+    "stage0012_03:r_9eb8599304125b2f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0012_03:r_9eb8599304125b2f"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0012_03:r_53128ce8f154fd06": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0012_03:r_53128ce8f154fd06"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0012_03:r_4d2a9066c4e7b27f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0012_03:r_4d2a9066c4e7b27f"
+      ],
+      "required_tokens": [
+        "$$スズネ$$"
+      ],
+      "actual_tokens": [
+        "$$スズネ$$",
+        "$$アルト$$",
+        "$$甲児$$"
+      ]
+    },
+    "stage0012_03:r_660c72e627d873c7": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0012_03:r_660c72e627d873c7"
+      ],
+      "required_tokens": [
+        "$$相良宗介$$"
+      ],
+      "actual_tokens": [
+        "$$宗介$$",
+        "$$相良宗介$$"
+      ]
+    },
+    "stage0012_04:r_3bc300bbdc277d82": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0012_04:r_3bc300bbdc277d82"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0012_04:r_f8736aaaa216c766": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0012_04:r_f8736aaaa216c766"
+      ],
+      "required_tokens": [
+        "$$ミーナ#120$$",
+        "$$モニカ$$",
+        "$$ボン太くん#robot$$"
+      ],
+      "actual_tokens": [
+        "$$ミーナ#182$$",
+        "$$モニカ$$",
+        "$$ボン太くん#robot$$"
+      ]
+    },
+    "stage0013_02:r_caaab7bad760e16d": {
+      "previous_status": "needs_review",
+      "issues": [
+        "Existing worktree review requirement retained"
+      ]
+    },
+    "stage0013_03:r_71ebf05996a4b0fd": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0013_03:r_71ebf05996a4b0fd"
+      ],
+      "required_tokens": [
+        "$$ネェル・アーガマ$$",
+        "$$オットー・ミタス$$"
+      ],
+      "actual_tokens": [
+        "$$オットー$$",
+        "$$ネェル・アーガマ$$",
+        "$$オットー・ミタス$$"
+      ]
+    },
+    "stage0013_03:r_6214c11b1bca811e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0013_03:r_6214c11b1bca811e"
+      ],
+      "required_tokens": [
+        "$$アルベルト・ビスト$$"
+      ],
+      "actual_tokens": [
+        "$$アルベルト$$",
+        "$$アルベルト・ビスト$$"
+      ]
+    },
+    "stage0013_03:r_ff4ce5f3cf96b617": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0013_03:r_ff4ce5f3cf96b617"
+      ],
+      "required_tokens": [
+        "$$デュオ・マックスウェル$$",
+        "$$ヒイロ・ユイ$$"
+      ],
+      "actual_tokens": [
+        "$$デュオ$$",
+        "$$デュオ・マックスウェル$$",
+        "$$ヒイロ・ユイ$$"
+      ]
+    },
+    "stage0014_02:r_caaab7bad760e16d": {
+      "previous_status": "needs_review",
+      "issues": [
+        "Existing worktree review requirement retained"
+      ]
+    },
+    "stage0014_03:r_0476ffd10c764b0e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0014_03:r_0476ffd10c764b0e"
+      ],
+      "required_tokens": [
+        "$$バナージ・リンクス$$"
+      ],
+      "actual_tokens": [
+        "$$バナージ$$",
+        "$$バナージ・リンクス$$"
+      ]
+    },
+    "stage0014_03:r_2b3479c4cf0680f4": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0014_03:r_2b3479c4cf0680f4"
+      ],
+      "required_tokens": [
+        "$$オードリー・バーン$$"
+      ],
+      "actual_tokens": [
+        "$$オードリー$$",
+        "$$オードリー$$",
+        "$$オードリー・バーン$$"
+      ]
+    },
+    "stage0014_03:r_8fe40600ce62dfbc": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0014_03:r_8fe40600ce62dfbc"
+      ],
+      "required_tokens": [
+        "$$一年戦争$$",
+        "$$カーディアス・ビスト$$"
+      ],
+      "actual_tokens": [
+        "$$カーディアス$$",
+        "$$一年戦争$$",
+        "$$カーディアス・ビスト$$"
+      ]
+    },
+    "stage0014_04:r_9796b3efa401a303": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0014_04:r_9796b3efa401a303"
+      ],
+      "required_tokens": [
+        "$$シン・アスカ$$"
+      ],
+      "actual_tokens": [
+        "$$シン$$",
+        "$$シン・アスカ$$"
+      ]
+    },
+    "stage0014_04:r_366814efdc8b5800": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0014_04:r_366814efdc8b5800"
+      ],
+      "required_tokens": [
+        "$$マリーダ・クルス$$"
+      ],
+      "actual_tokens": [
+        "$$マリーダ$$",
+        "$$マリーダ・クルス$$"
+      ]
+    },
+    "stage0015_03:r_c26958634526e597": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0015_03:r_c26958634526e597"
+      ],
+      "required_tokens": [
+        "$$カミーユ・ビダン$$"
+      ],
+      "actual_tokens": [
+        "$$カミーユ$$",
+        "$$カミーユ・ビダン$$"
+      ]
+    },
+    "stage0015_03:r_95a3dd16c2c4cc3e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0015_03:r_95a3dd16c2c4cc3e"
+      ],
+      "required_tokens": [
+        "$$リディ・マーセナス$$"
+      ],
+      "actual_tokens": [
+        "$$リディ$$",
+        "$$リディ・マーセナス$$"
+      ]
+    },
+    "stage0015_03:r_4a14ec0c511c7f0d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0015_03:r_4a14ec0c511c7f0d"
+      ],
+      "required_tokens": [
+        "$$オードリー・バーン$$"
+      ],
+      "actual_tokens": [
+        "$$オードリー$$",
+        "$$オードリー・バーン$$"
+      ]
+    },
+    "stage0015_03:r_f5432119677514f7": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0015_03:r_f5432119677514f7"
+      ],
+      "required_tokens": [
+        "$$バナージ・リンクス$$"
+      ],
+      "actual_tokens": [
+        "$$バナージ$$",
+        "$$バナージ・リンクス$$"
+      ]
+    },
+    "stage0015_03:r_124591cb154fae64": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0015_03:r_124591cb154fae64"
+      ],
+      "required_tokens": [
+        "$$クェス・パラヤ$$",
+        "$$アデナウアー・パラヤ$$"
+      ],
+      "actual_tokens": [
+        "$$クェス$$",
+        "$$クェス・パラヤ$$",
+        "$$アデナウアー・パラヤ$$"
+      ]
+    },
+    "stage0015_03:r_eaa52d152f444bfd": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0015_03:r_eaa52d152f444bfd"
+      ],
+      "required_tokens": [
+        "$$カツ$$",
+        "$$ハサウェイ・ノア$$"
+      ],
+      "actual_tokens": [
+        "$$カツ$$",
+        "$$ハサウェイ$$",
+        "$$ハサウェイ・ノア$$"
+      ]
+    },
+    "stage0015_03:r_07f53c816e0a51f5": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0015_03:r_07f53c816e0a51f5"
+      ],
+      "required_tokens": [
+        "$$ハサウェイ・ノア$$"
+      ],
+      "actual_tokens": [
+        "$$ハサウェイ$$",
+        "$$ハサウェイ・ノア$$"
+      ]
+    },
+    "stage0015_04:r_0c18da7b3a37825d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0015_04:r_0c18da7b3a37825d"
+      ],
+      "required_tokens": [
+        "$$バナージ・リンクス$$"
+      ],
+      "actual_tokens": [
+        "$$バナージ$$",
+        "$$バナージ・リンクス$$"
+      ]
+    },
+    "stage0015_04:r_b025267f22788233": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0015_04:r_b025267f22788233"
+      ],
+      "required_tokens": [
+        "$$バナージ・リンクス$$"
+      ],
+      "actual_tokens": [
+        "$$バナージ$$",
+        "$$バナージ・リンクス$$"
+      ]
+    },
+    "stage0015_04:r_eaa52d152f444bfd": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0015_04:r_eaa52d152f444bfd"
+      ],
+      "required_tokens": [
+        "$$アンジェロ・ザウパー$$"
+      ],
+      "actual_tokens": [
+        "$$アンジェロ$$",
+        "$$アンジェロ・ザウパー$$"
+      ]
+    },
+    "stage0015_04:r_4d2a9066c4e7b27f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0015_04:r_4d2a9066c4e7b27f"
+      ],
+      "required_tokens": [
+        "$$アンジェロ・ザウパー$$"
+      ],
+      "actual_tokens": [
+        "$$アンジェロ$$",
+        "$$アンジェロ・ザウパー$$"
+      ]
+    },
+    "stage0016_03:r_ffae76d2a77abf5a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0016_03:r_ffae76d2a77abf5a"
+      ],
+      "required_tokens": [
+        "$$ルクレツィア・ノイン$$",
+        "$$プリベンター$$"
+      ],
+      "actual_tokens": [
+        "$$ノイン$$",
+        "$$ルクレツィア・ノイン$$",
+        "$$プリベンター$$"
+      ]
+    },
+    "stage0016_03:r_3ac462d37e5893ff": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0016_03:r_3ac462d37e5893ff"
+      ],
+      "required_tokens": [
+        "$$ヒルデ・シュバイカー$$",
+        "$$プリベンター$$",
+        "$$デュオ$$"
+      ],
+      "actual_tokens": [
+        "$$ヒルデ$$",
+        "$$ヒルデ・シュバイカー$$",
+        "$$デュオ$$",
+        "$$プリベンター$$"
+      ]
+    },
+    "stage0016_03:r_a684e6cea428e518": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0016_03:r_a684e6cea428e518"
+      ],
+      "required_tokens": [
+        "$$ゼクス・マーキス$$"
+      ],
+      "actual_tokens": [
+        "$$ゼクス$$",
+        "$$ゼクス・マーキス$$"
+      ]
+    },
+    "stage0016_03:r_0835ec3fff318aff": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0016_03:r_0835ec3fff318aff"
+      ],
+      "required_tokens": [
+        "$$グラハム・エーカー$$"
+      ],
+      "actual_tokens": [
+        "$$グラハム$$",
+        "$$グラハム・エーカー$$"
+      ]
+    },
+    "stage0016_03:r_fbe7bf7d854012a7": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0016_03:r_fbe7bf7d854012a7"
+      ],
+      "required_tokens": [
+        "$$ゼクス・マーキス$$"
+      ],
+      "actual_tokens": [
+        "$$ゼクス$$",
+        "$$ゼクス・マーキス$$"
+      ]
+    },
+    "stage0016_04:r_0827963cfd706e8d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0016_04:r_0827963cfd706e8d"
+      ],
+      "required_tokens": [
+        "$$ブライト・ノア$$"
+      ],
+      "actual_tokens": [
+        "$$ブライト$$",
+        "$$ブライト・ノア$$"
+      ]
+    },
+    "stage0016_04:r_b76524cd840e1d37": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0016_04:r_b76524cd840e1d37"
+      ],
+      "required_tokens": [
+        "$$マリーメイア・クシュリナーダ$$",
+        "$$ＡＤＷ$$"
+      ],
+      "actual_tokens": [
+        "$$マリーメイア$$",
+        "$$マリーメイア・クシュリナーダ$$",
+        "$$ＡＤＷ$$"
+      ]
+    },
+    "stage0016_04:r_2cf701bbcde3ec13": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0016_04:r_2cf701bbcde3ec13"
+      ],
+      "required_tokens": [
+        "$$プリベンター$$",
+        "$$ルクレツィア・ノイン$$"
+      ],
+      "actual_tokens": [
+        "$$ノイン$$",
+        "$$ルクレツィア・ノイン$$",
+        "$$プリベンター$$"
+      ]
+    },
+    "stage0016_04:r_2ddff5064af78db4": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0016_04:r_2ddff5064af78db4"
+      ],
+      "required_tokens": [
+        "$$ゼクス・マーキス$$"
+      ],
+      "actual_tokens": [
+        "$$ゼクス$$",
+        "$$ゼクス・マーキス$$"
+      ]
+    },
+    "stage0016_04:r_d69dc027cba3003f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0016_04:r_d69dc027cba3003f"
+      ],
+      "required_tokens": [
+        "$$五飛$$",
+        "$$ゼロ$$",
+        "$$ヒイロ$$"
+      ],
+      "actual_tokens": [
+        "$$五飛$$",
+        "$$ヒイロ$$"
+      ]
+    },
+    "stage0017_03:r_a62c4e7f3c09f7ed": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0017_03:r_a62c4e7f3c09f7ed"
+      ],
+      "required_tokens": [
+        "$$大塚$$"
+      ],
+      "actual_tokens": [
+        "$$ＷＩＬＬ$$",
+        "$$大塚$$"
+      ]
+    },
+    "stage0017_03:r_53bb64ee17750ee2": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0017_03:r_53bb64ee17750ee2"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$ＷＩＬＬ$$"
+      ]
+    },
+    "stage0017_03:r_2103f6df2ea2e447": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0017_03:r_2103f6df2ea2e447"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$ＷＩＬＬ$$"
+      ]
+    },
+    "stage0017_03:r_a12e3e130d896ff7": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0017_03:r_a12e3e130d896ff7"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$ＷＩＬＬ$$"
+      ]
+    },
+    "stage0017_03:r_b6f7b219eb4bd64b": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0017_03:r_b6f7b219eb4bd64b"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$ＷＩＬＬ$$"
+      ]
+    },
+    "stage0017_03:r_ee220318b96ab538": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0017_03:r_ee220318b96ab538"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$ＷＩＬＬ$$"
+      ]
+    },
+    "stage0017_03:r_ce1b55e526b6277a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0017_03:r_ce1b55e526b6277a"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$ＷＩＬＬ$$"
+      ]
+    },
+    "stage0017_03:r_c26958634526e597": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0017_03:r_c26958634526e597"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$ＷＩＬＬ$$"
+      ]
+    },
+    "stage0017_03:r_95fda74613c97b39": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0017_03:r_95fda74613c97b39"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$ＷＩＬＬ$$"
+      ]
+    },
+    "stage0017_03:r_0c705091f748360e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0017_03:r_0c705091f748360e"
+      ],
+      "required_tokens": [
+        "$$明神タケル$$"
+      ],
+      "actual_tokens": [
+        "$$タケル$$",
+        "$$明神タケル$$"
+      ]
+    },
+    "stage0017_03:r_24e1a808a1609a1a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0017_03:r_24e1a808a1609a1a"
+      ],
+      "required_tokens": [
+        "$$明神タケル$$"
+      ],
+      "actual_tokens": [
+        "$$タケル$$",
+        "$$明神タケル$$"
+      ]
+    },
+    "stage0017_03:r_d73c21f119847e35": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0017_03:r_d73c21f119847e35"
+      ],
+      "required_tokens": [
+        "$$伊集院ナオト$$",
+        "$$コスモクラッシャー$$"
+      ],
+      "actual_tokens": [
+        "$$ナオト$$",
+        "$$伊集院ナオト$$",
+        "$$コスモクラッシャー$$"
+      ]
+    },
+    "stage0017_03:r_89766f5ffaa912d4": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0017_03:r_89766f5ffaa912d4"
+      ],
+      "required_tokens": [
+        "$$木曽アキラ$$"
+      ],
+      "actual_tokens": [
+        "$$アキラ$$",
+        "$$木曽アキラ$$"
+      ]
+    },
+    "stage0017_03:r_c2df6b71e3b4b6ec": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0017_03:r_c2df6b71e3b4b6ec"
+      ],
+      "required_tokens": [
+        "$$日向ミカ$$"
+      ],
+      "actual_tokens": [
+        "$$ミカ$$",
+        "$$日向ミカ$$"
+      ]
+    },
+    "stage0017_03:r_451f726d4299ea35": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0017_03:r_451f726d4299ea35"
+      ],
+      "required_tokens": [
+        "$$飛鳥ケンジ$$",
+        "$$コスモクラッシャー$$"
+      ],
+      "actual_tokens": [
+        "$$ケンジ$$",
+        "$$飛鳥ケンジ$$",
+        "$$コスモクラッシャー$$"
+      ]
+    },
+    "stage0017_03:r_0149e3a5f2e5ef78": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0017_03:r_0149e3a5f2e5ef78"
+      ],
+      "required_tokens": [
+        "$$あしゅら$$"
+      ],
+      "actual_tokens": [
+        "$$あしゅら$$",
+        "$$兜甲児$$"
+      ]
+    },
+    "stage0018_03:r_5b7ee307a700171a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_03:r_5b7ee307a700171a"
+      ],
+      "required_tokens": [
+        "$$ゲンドウ$$"
+      ],
+      "actual_tokens": [
+        "$$ゲンドウ$$",
+        "$$第４の使徒$$"
+      ]
+    },
+    "stage0018_03:r_124591cb154fae64": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_03:r_124591cb154fae64"
+      ],
+      "required_tokens": [
+        "$$シンジ$$",
+        "$$先生$$"
+      ],
+      "actual_tokens": [
+        "$$シンジ$$"
+      ]
+    },
+    "stage0018_03:r_7cbc63dad295f862": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_03:r_7cbc63dad295f862"
+      ],
+      "required_tokens": [
+        "$$シンジ$$",
+        "$$先生$$"
+      ],
+      "actual_tokens": [
+        "$$シンジ$$"
+      ]
+    },
+    "stage0018_03:r_d7f1c506e78e55ff": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_03:r_d7f1c506e78e55ff"
+      ],
+      "required_tokens": [
+        "$$赤木リツコ$$"
+      ],
+      "actual_tokens": [
+        "$$リツコ$$",
+        "$$赤木リツコ$$"
+      ]
+    },
+    "stage0018_03:r_082a55c75a163780": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_03:r_082a55c75a163780"
+      ],
+      "required_tokens": [
+        "$$ＡＧ$$"
+      ],
+      "actual_tokens": [
+        "$$ＡＧ$$",
+        "$$スズネ$$"
+      ]
+    },
+    "stage0018_04:r_99b162aa6aa286a2": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_04:r_99b162aa6aa286a2"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$第４の使徒$$"
+      ]
+    },
+    "stage0018_04:r_3bc300bbdc277d82": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_04:r_3bc300bbdc277d82"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$第４の使徒$$"
+      ]
+    },
+    "stage0018_04:r_9e701cdeb3842c21": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_04:r_9e701cdeb3842c21"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$第４の使徒$$"
+      ]
+    },
+    "stage0018_04:r_d80a9688790ed583": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_04:r_d80a9688790ed583"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$第４の使徒$$"
+      ]
+    },
+    "stage0018_04:r_ce1b55e526b6277a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_04:r_ce1b55e526b6277a"
+      ],
+      "required_tokens": [
+        "$$冬月$$"
+      ],
+      "actual_tokens": [
+        "$$冬月$$",
+        "$$第４の使徒$$"
+      ]
+    },
+    "stage0018_04:r_0ebc5a6f1e0f81bf": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_04:r_0ebc5a6f1e0f81bf"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$第４の使徒$$"
+      ]
+    },
+    "stage0018_04:r_6214c11b1bca811e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_04:r_6214c11b1bca811e"
+      ],
+      "required_tokens": [
+        "$$冬月$$"
+      ],
+      "actual_tokens": [
+        "$$冬月$$",
+        "$$第４の使徒$$"
+      ]
+    },
+    "stage0018_04:r_fb05d8e5f1ee93e5": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_04:r_fb05d8e5f1ee93e5"
+      ],
+      "required_tokens": [
+        "$$あしゅら男爵$$"
+      ],
+      "actual_tokens": [
+        "$$あしゅら$$",
+        "$$あしゅら男爵$$"
+      ]
+    },
+    "stage0018_04:r_d2f1bf5ab2f0e41a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_04:r_d2f1bf5ab2f0e41a"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$第４の使徒$$"
+      ]
+    },
+    "stage0018_04:r_abdb034ae8509702": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_04:r_abdb034ae8509702"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$第４の使徒$$"
+      ]
+    },
+    "stage0018_04:r_d7f1c506e78e55ff": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_04:r_d7f1c506e78e55ff"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$第４の使徒$$"
+      ]
+    },
+    "stage0018_04:r_8fe40600ce62dfbc": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_04:r_8fe40600ce62dfbc"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$第４の使徒$$"
+      ]
+    },
+    "stage0018_04:r_451f726d4299ea35": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_04:r_451f726d4299ea35"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$第４の使徒$$"
+      ]
+    },
+    "stage0018_04:r_3fe2078328753c16": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_04:r_3fe2078328753c16"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$第４の使徒$$"
+      ]
+    },
+    "stage0018_04:r_fa59c6df081e6ae4": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0018_04:r_fa59c6df081e6ae4"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$第４の使徒$$"
+      ]
+    },
+    "stage0019_03:r_b025267f22788233": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0019_03:r_b025267f22788233"
+      ],
+      "required_tokens": [
+        "$$赤木駿介$$",
+        "$$２１世紀警備保障$$",
+        "$$ダイ・ガード$$"
+      ],
+      "actual_tokens": [
+        "$$赤木$$",
+        "$$赤木駿介$$",
+        "$$２１世紀警備保障$$",
+        "$$ダイ・ガード$$"
+      ]
+    },
+    "stage0019_03:r_b4bc9e9435b58e6f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0019_03:r_b4bc9e9435b58e6f"
+      ],
+      "required_tokens": [
+        "$$桃井いぶき$$",
+        "$$ダイ・ガード$$"
+      ],
+      "actual_tokens": [
+        "$$いぶき$$",
+        "$$桃井いぶき$$",
+        "$$ダイ・ガード$$"
+      ]
+    },
+    "stage0019_03:r_a9227573166977a9": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0019_03:r_a9227573166977a9"
+      ],
+      "required_tokens": [
+        "$$青山圭一郎$$",
+        "$$ダイ・ガード$$"
+      ],
+      "actual_tokens": [
+        "$$青山$$",
+        "$$青山圭一郎$$",
+        "$$ダイ・ガード$$"
+      ]
+    },
+    "stage0019_03:r_d7f1c506e78e55ff": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0019_03:r_d7f1c506e78e55ff"
+      ],
+      "required_tokens": [
+        "$$横沢晋也$$"
+      ],
+      "actual_tokens": [
+        "$$横沢$$",
+        "$$横沢晋也$$"
+      ]
+    },
+    "stage0019_03:r_0c705091f748360e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0019_03:r_0c705091f748360e"
+      ],
+      "required_tokens": [
+        "$$大山紀子$$",
+        "$$ＺＥＸＩＳ$$"
+      ],
+      "actual_tokens": [
+        "$$大山$$",
+        "$$大山紀子$$",
+        "$$ＺＥＸＩＳ$$"
+      ]
+    },
+    "stage0019_03:r_9eb8599304125b2f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0019_03:r_9eb8599304125b2f"
+      ],
+      "required_tokens": [
+        "$$中原千秋$$"
+      ],
+      "actual_tokens": [
+        "$$中原$$",
+        "$$中原千秋$$"
+      ]
+    },
+    "stage0019_03:r_a072aa25e5f521e0": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0019_03:r_a072aa25e5f521e0"
+      ],
+      "required_tokens": [
+        "$$谷川風花$$"
+      ],
+      "actual_tokens": [
+        "$$谷川$$",
+        "$$谷川風花$$"
+      ]
+    },
+    "stage0019_03:r_24e1a808a1609a1a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0019_03:r_24e1a808a1609a1a"
+      ],
+      "required_tokens": [
+        "$$入江静香$$"
+      ],
+      "actual_tokens": [
+        "$$入江$$",
+        "$$入江静香$$"
+      ]
+    },
+    "stage0019_03:r_53128ce8f154fd06": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0019_03:r_53128ce8f154fd06"
+      ],
+      "required_tokens": [
+        "$$石塚智美$$",
+        "$$田口友朗$$",
+        "$$伊集院博孝$$"
+      ],
+      "actual_tokens": [
+        "$$石塚$$",
+        "$$石塚智美$$",
+        "$$田口友朗$$",
+        "$$伊集院博孝$$"
+      ]
+    },
+    "stage0019_03:r_1cc233cbc8c80af7": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0019_03:r_1cc233cbc8c80af7"
+      ],
+      "required_tokens": [
+        "$$大山$$",
+        "$$大河内$$",
+        "$$再世戦争$$",
+        "$$ＺＥＸＩＳ$$"
+      ],
+      "actual_tokens": [
+        "$$大山$$",
+        "$$大河内$$",
+        "$$ＺＥＸＩＳ$$",
+        "$$破界事変$$",
+        "$$再世戦争$$"
+      ]
+    },
+    "stage0019_03:r_b2aab8873350ea1f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0019_03:r_b2aab8873350ea1f"
+      ],
+      "required_tokens": [
+        "$$シンジ$$",
+        "$$赤木駿介$$"
+      ],
+      "actual_tokens": [
+        "$$赤木$$",
+        "$$シンジ$$",
+        "$$赤木駿介$$"
+      ]
+    },
+    "stage0019_03:r_e5a692ea5ce09cac": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0019_03:r_e5a692ea5ce09cac"
+      ],
+      "required_tokens": [
+        "$$ＳＥＥＬＥ$$"
+      ],
+      "actual_tokens": [
+        "$$ＳＥＥＬＥ$$",
+        "$$第４の使徒$$"
+      ]
+    },
+    "stage0019_03:r_b2f67d46499f2bbd": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0019_03:r_b2f67d46499f2bbd"
+      ],
+      "required_tokens": [
+        "$$ＡＧ$$",
+        "$$赤木リツコ$$"
+      ],
+      "actual_tokens": [
+        "$$ＡＧ$$",
+        "$$赤木$$",
+        "$$赤木リツコ$$"
+      ]
+    },
+    "stage0019_04:r_ff6f8bdca2dd2bc9": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0019_04:r_ff6f8bdca2dd2bc9"
+      ],
+      "required_tokens": [
+        "$$佐伯$$"
+      ],
+      "actual_tokens": [
+        "$$佐伯$$",
+        "$$界震$$"
+      ]
+    },
+    "stage0019_04:r_567b361a454c4b73": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0019_04:r_567b361a454c4b73"
+      ],
+      "required_tokens": [
+        "$$いぶき$$",
+        "$$赤木$$"
+      ],
+      "actual_tokens": [
+        "$$いぶき$$",
+        "$$赤木$$",
+        "$$ヘテロダイン$$"
+      ]
+    },
+    "stage0020_03:r_475f7653621a91b5": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0020_03:r_475f7653621a91b5"
+      ],
+      "required_tokens": [
+        "$$大塚$$"
+      ],
+      "actual_tokens": [
+        "$$大塚$$",
+        "$$エヴァンゲリオン初号機$$"
+      ]
+    },
+    "stage0020_03:r_422861e0b8d77d0c": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0020_03:r_422861e0b8d77d0c"
+      ],
+      "required_tokens": [
+        "$$鈴原トウジ$$"
+      ],
+      "actual_tokens": [
+        "$$トウジ$$",
+        "$$鈴原トウジ$$"
+      ]
+    },
+    "stage0020_03:r_019293cb83599509": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0020_03:r_019293cb83599509"
+      ],
+      "required_tokens": [
+        "$$碇シンジ$$"
+      ],
+      "actual_tokens": [
+        "$$シンジ$$",
+        "$$碇シンジ$$"
+      ]
+    },
+    "stage0021_03:r_1263541f4071624e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0021_03:r_1263541f4071624e"
+      ],
+      "required_tokens": [
+        "$$アンドレイ・セルゲイヴィッチ・カリーニン$$",
+        "$$トゥアハー・デ・ダナン$$"
+      ],
+      "actual_tokens": [
+        "$$カリーニン$$",
+        "$$アンドレイ・セルゲイヴィッチ・カリーニン$$",
+        "$$トゥアハー・デ・ダナン$$"
+      ]
+    },
+    "stage0021_03:r_adec86483b13599a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0021_03:r_adec86483b13599a"
+      ],
+      "required_tokens": [
+        "$$ブールーズ・ゴウト$$",
+        "$$バトリング$$"
+      ],
+      "actual_tokens": [
+        "$$ゴウト$$",
+        "$$ブールーズ・ゴウト$$",
+        "$$バトリング$$"
+      ]
+    },
+    "stage0021_03:r_2cf701bbcde3ec13": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0021_03:r_2cf701bbcde3ec13"
+      ],
+      "required_tokens": [
+        "$$バニラ・バートラー$$",
+        "$$ゴウト$$"
+      ],
+      "actual_tokens": [
+        "$$バニラ$$",
+        "$$バニラ・バートラー$$",
+        "$$ゴウト$$"
+      ]
+    },
+    "stage0021_03:r_b4bc9e9435b58e6f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0021_03:r_b4bc9e9435b58e6f"
+      ],
+      "required_tokens": [
+        "$$ル・シャッコ$$",
+        "$$クエント$$"
+      ],
+      "actual_tokens": [
+        "$$シャッコ$$",
+        "$$ル・シャッコ$$",
+        "$$クエント$$"
+      ]
+    },
+    "stage0021_03:r_b0600ab9a9e8559d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0021_03:r_b0600ab9a9e8559d"
+      ],
+      "required_tokens": [
+        "$n"
+      ],
+      "actual_tokens": [
+        "$n",
+        "$$クエント$$"
+      ]
+    },
+    "stage0021_03:r_33f7fd55913419e8": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0021_03:r_33f7fd55913419e8"
+      ],
+      "required_tokens": [
+        "$$オズマ$$"
+      ],
+      "actual_tokens": [
+        "$$オズマ$$",
+        "$$バトリング$$"
+      ]
+    },
+    "stage0021_03:r_b4fa30f33e84207f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0021_03:r_b4fa30f33e84207f"
+      ],
+      "required_tokens": [
+        "$$ヴィアチェスラフ・ダ・モンテ＝ウェルズ$$"
+      ],
+      "actual_tokens": [
+        "$$モンテ＝ウェルズ$$",
+        "$$ヴィアチェスラフ・ダ・モンテ＝ウェルズ$$"
+      ]
+    },
+    "stage0021_04:r_99b162aa6aa286a2": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0021_04:r_99b162aa6aa286a2"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$クエント$$"
+      ]
+    },
+    "stage0021_04:r_567b361a454c4b73": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0021_04:r_567b361a454c4b73"
+      ],
+      "required_tokens": [
+        "$$マオ$$"
+      ],
+      "actual_tokens": [
+        "$$マオ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0021_04:r_5b7ee307a700171a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0021_04:r_5b7ee307a700171a"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$クエント$$"
+      ]
+    },
+    "stage0021_04:r_1fe8564d2b959317": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0021_04:r_1fe8564d2b959317"
+      ],
+      "required_tokens": [
+        "$$マオ$$"
+      ],
+      "actual_tokens": [
+        "$$マオ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0021_04:r_4de6ac85c63bac12": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0021_04:r_4de6ac85c63bac12"
+      ],
+      "required_tokens": [
+        "$$マオ$$"
+      ],
+      "actual_tokens": [
+        "$$マオ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0022_03:r_a653c8dec4c0f06f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0022_03:r_a653c8dec4c0f06f"
+      ],
+      "required_tokens": [
+        "$$ニーバ$$"
+      ],
+      "actual_tokens": [
+        "$$ニーバ$$",
+        "$$キリコ・キュービィー$$"
+      ]
+    },
+    "stage0022_03:r_2113dcbabdfc758a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0022_03:r_2113dcbabdfc758a"
+      ],
+      "required_tokens": [
+        "$$宗介$$"
+      ],
+      "actual_tokens": [
+        "$$宗介$$",
+        "$$アルト$$"
+      ]
+    },
+    "stage0022_03:r_63249745ffae61b6": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0022_03:r_63249745ffae61b6"
+      ],
+      "required_tokens": [
+        "$$ラダァ・ニーバ$$",
+        "$$ＰＳ$$"
+      ],
+      "actual_tokens": [
+        "$$ニーバ$$",
+        "$$ラダァ・ニーバ$$",
+        "$$ＰＳ$$"
+      ]
+    },
+    "stage0022_03:r_b4bc9e9435b58e6f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0022_03:r_b4bc9e9435b58e6f"
+      ],
+      "required_tokens": [
+        "$$ニーバ$$"
+      ],
+      "actual_tokens": [
+        "$$ニーバ$$",
+        "$$クエント$$"
+      ]
+    },
+    "stage0022_03:r_48c6c1ecfea6fe4a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0022_03:r_48c6c1ecfea6fe4a"
+      ],
+      "required_tokens": [
+        "$$フィアナ$$"
+      ],
+      "actual_tokens": [
+        "$$フィアナ$$",
+        "$$キリコ$$"
+      ]
+    },
+    "stage0022_04:r_0c8ea89b07432421": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0022_04:r_0c8ea89b07432421"
+      ],
+      "required_tokens": [
+        "$$ミーナ#120$$",
+        "$$フィアナ$$"
+      ],
+      "actual_tokens": [
+        "$$ミーナ#182$$",
+        "$$フィアナ$$"
+      ]
+    },
+    "stage0022_04:r_4dbfba00ba7744ee": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0022_04:r_4dbfba00ba7744ee"
+      ],
+      "required_tokens": [
+        "$$ボビー$$",
+        "$$ミーナ#120$$",
+        "$$ボス$$"
+      ],
+      "actual_tokens": [
+        "$$ボビー$$",
+        "$$ミーナ#182$$"
+      ]
+    },
+    "stage0022_04:r_b1e38da4e8775ffe": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0022_04:r_b1e38da4e8775ffe"
+      ],
+      "required_tokens": [
+        "$$ジェフリー・ワイルダー$$"
+      ],
+      "actual_tokens": [
+        "$$ジェフリー$$",
+        "$$ジェフリー・ワイルダー$$"
+      ]
+    },
+    "stage0022_04:r_e370696b8936b08c": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0022_04:r_e370696b8936b08c"
+      ],
+      "required_tokens": [
+        "$$ニーバ$$"
+      ],
+      "actual_tokens": [
+        "$$ニーバ$$",
+        "$$クエント$$"
+      ]
+    },
+    "stage0023_03:r_ef16bcaa2b0e0c45": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0023_03:r_ef16bcaa2b0e0c45"
+      ],
+      "required_tokens": [
+        "$$マオ$$",
+        "$n"
+      ],
+      "actual_tokens": [
+        "$$マオ$$",
+        "$n",
+        "$$宗介$$"
+      ]
+    },
+    "stage0023_03:r_cf907a4d5de8b5c9": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0023_03:r_cf907a4d5de8b5c9"
+      ],
+      "required_tokens": [
+        "$$シャッコ$$"
+      ],
+      "actual_tokens": [
+        "$$シャッコ$$",
+        "$$クエント$$"
+      ]
+    },
+    "stage0023_03:r_a5774604a0f00702": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0023_03:r_a5774604a0f00702"
+      ],
+      "required_tokens": [
+        "$$ＡＧ$$"
+      ],
+      "actual_tokens": [
+        "$$ＡＧ$$",
+        "$$クエント$$"
+      ]
+    },
+    "stage0023_03:r_b4fa30f33e84207f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0023_03:r_b4fa30f33e84207f"
+      ],
+      "required_tokens": [
+        "$$シャッコ$$"
+      ],
+      "actual_tokens": [
+        "$$シャッコ$$",
+        "$$クエント$$"
+      ]
+    },
+    "stage0023_04:r_d60d0818e965232f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0023_04:r_d60d0818e965232f"
+      ],
+      "required_tokens": [
+        "$$マオ$$",
+        "$$キリコ$$"
+      ],
+      "actual_tokens": [
+        "$$マオ$$",
+        "$$宗介$$",
+        "$$キリコ$$"
+      ]
+    },
+    "stage0023_04:r_2113dcbabdfc758a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0023_04:r_2113dcbabdfc758a"
+      ],
+      "required_tokens": [
+        "$$ボビー$$",
+        "$$ボス$$"
+      ],
+      "actual_tokens": [
+        "$$ボビー$$"
+      ]
+    },
+    "stage0023_04:r_5b7ee307a700171a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0023_04:r_5b7ee307a700171a"
+      ],
+      "required_tokens": [
+        "$$ニーバ$$"
+      ],
+      "actual_tokens": [
+        "$$ニーバ$$",
+        "$$レッドショルダー$$"
+      ]
+    },
+    "stage0023_04:r_0c8ea89b07432421": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0023_04:r_0c8ea89b07432421"
+      ],
+      "required_tokens": [
+        "$$キリコ・キュービィー$$"
+      ],
+      "actual_tokens": [
+        "$$キリコ$$",
+        "$$キリコ・キュービィー$$"
+      ]
+    },
+    "stage0024_03:r_7ab28e70b4d4f641": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0024_03:r_7ab28e70b4d4f641"
+      ],
+      "required_tokens": [
+        "$n"
+      ],
+      "actual_tokens": [
+        "$n",
+        "$$ＺＥＸＩＳ$$"
+      ]
+    },
+    "stage0024_03:r_708bea61e3c43ada": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0024_03:r_708bea61e3c43ada"
+      ],
+      "required_tokens": [
+        "$$Ｃ．Ｃ．$$"
+      ],
+      "actual_tokens": [
+        "$$Ｃ．Ｃ．$$",
+        "$$クエント$$"
+      ]
+    },
+    "stage0024_03:r_07f53c816e0a51f5": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0024_03:r_07f53c816e0a51f5"
+      ],
+      "required_tokens": [
+        "$$テイタニア・ダ・モンテ＝ウェルズ$$"
+      ],
+      "actual_tokens": [
+        "$$テイタニア$$",
+        "$$テイタニア・ダ・モンテ＝ウェルズ$$"
+      ]
+    },
+    "stage0024_04:r_6fd81f4abebe60c5": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0024_04:r_6fd81f4abebe60c5"
+      ],
+      "required_tokens": [
+        "$$ミーナ#120$$",
+        "$$フィアナ$$"
+      ],
+      "actual_tokens": [
+        "$$ミーナ#182$$",
+        "$$フィアナ$$"
+      ]
+    },
+    "stage0024_04:r_d7f1c506e78e55ff": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0024_04:r_d7f1c506e78e55ff"
+      ],
+      "required_tokens": [
+        "$$テイタニア・ダ・モンテ＝ウェルズ$$",
+        "$$マーティアル$$"
+      ],
+      "actual_tokens": [
+        "$$テイタニア$$",
+        "$$テイタニア・ダ・モンテ＝ウェルズ$$",
+        "$$マーティアル$$"
+      ]
+    },
+    "stage0025_03:r_bccc48e1964ad22d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_bccc48e1964ad22d"
+      ],
+      "required_tokens": [
+        "$$リディ$$",
+        "$$ダイ・ガード$$",
+        "$$ヘテロダイン$$"
+      ],
+      "actual_tokens": [
+        "$$リディ$$",
+        "$$ダイ・ガード$$",
+        "$$ヘテロダイン$$",
+        "$$２１世紀警備保障$$"
+      ]
+    },
+    "stage0025_03:r_f8736aaaa216c766": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_f8736aaaa216c766"
+      ],
+      "required_tokens": [
+        "$$赤木駿介$$",
+        "$$ダイ・ガード$$"
+      ],
+      "actual_tokens": [
+        "$$赤木$$",
+        "$$赤木駿介$$",
+        "$$２１世紀警備保障$$",
+        "$$ダイ・ガード$$"
+      ]
+    },
+    "stage0025_03:r_d1ec2522c87c361d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_d1ec2522c87c361d"
+      ],
+      "required_tokens": [
+        "$$桃井いぶき$$"
+      ],
+      "actual_tokens": [
+        "$$いぶき$$",
+        "$$桃井いぶき$$"
+      ]
+    },
+    "stage0025_03:r_3599f0a4343fd95c": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_3599f0a4343fd95c"
+      ],
+      "required_tokens": [
+        "$$青山圭一郎$$"
+      ],
+      "actual_tokens": [
+        "$$青山$$",
+        "$$青山圭一郎$$"
+      ]
+    },
+    "stage0025_03:r_4e5c8e989c4a7691": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_4e5c8e989c4a7691"
+      ],
+      "required_tokens": [
+        "$$横沢晋也$$"
+      ],
+      "actual_tokens": [
+        "$$横沢$$",
+        "$$横沢晋也$$"
+      ]
+    },
+    "stage0025_03:r_adec86483b13599a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_adec86483b13599a"
+      ],
+      "required_tokens": [
+        "$$大山紀子$$",
+        "$$ＺＥＸＩＳ$$"
+      ],
+      "actual_tokens": [
+        "$$大山$$",
+        "$$大山紀子$$",
+        "$$ＺＥＸＩＳ$$"
+      ]
+    },
+    "stage0025_03:r_2cf701bbcde3ec13": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_2cf701bbcde3ec13"
+      ],
+      "required_tokens": [
+        "$$中原千秋$$"
+      ],
+      "actual_tokens": [
+        "$$中原$$",
+        "$$中原千秋$$"
+      ]
+    },
+    "stage0025_03:r_c17c58fdba72005e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_c17c58fdba72005e"
+      ],
+      "required_tokens": [
+        "$$谷川風花$$"
+      ],
+      "actual_tokens": [
+        "$$谷川$$",
+        "$$谷川風花$$"
+      ]
+    },
+    "stage0025_03:r_1fe8564d2b959317": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_1fe8564d2b959317"
+      ],
+      "required_tokens": [
+        "$$入江静香$$"
+      ],
+      "actual_tokens": [
+        "$$入江$$",
+        "$$入江静香$$"
+      ]
+    },
+    "stage0025_03:r_f527e012803f7f1c": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_f527e012803f7f1c"
+      ],
+      "required_tokens": [
+        "$$石塚智美$$",
+        "$$田口友朗$$",
+        "$$伊集院博孝$$"
+      ],
+      "actual_tokens": [
+        "$$石塚$$",
+        "$$石塚智美$$",
+        "$$田口友朗$$",
+        "$$伊集院博孝$$"
+      ]
+    },
+    "stage0025_03:r_338f3b27e51dcc41": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_338f3b27e51dcc41"
+      ],
+      "required_tokens": [
+        "$$佐伯徹$$",
+        "$$ダイ・ガード$$"
+      ],
+      "actual_tokens": [
+        "$$佐伯$$",
+        "$$佐伯徹$$",
+        "$$ダイ・ガード$$"
+      ]
+    },
+    "stage0025_03:r_d2f1bf5ab2f0e41a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_d2f1bf5ab2f0e41a"
+      ],
+      "required_tokens": [
+        "$$エヴァンゲリオン初号機$$",
+        "$$碇シンジ$$"
+      ],
+      "actual_tokens": [
+        "$$シンジ$$",
+        "$$碇シンジ$$",
+        "$$エヴァンゲリオン初号機$$"
+      ]
+    },
+    "stage0025_03:r_66d4ae3a21caf881": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_66d4ae3a21caf881"
+      ],
+      "required_tokens": [
+        "$$葛城ミサト$$"
+      ],
+      "actual_tokens": [
+        "$$ミサト$$",
+        "$$葛城ミサト$$"
+      ]
+    },
+    "stage0025_03:r_e51ecf6d6aa42e75": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_e51ecf6d6aa42e75"
+      ],
+      "required_tokens": [
+        "$$ミサト$$",
+        "$$綾波レイ$$"
+      ],
+      "actual_tokens": [
+        "$$ミサト$$",
+        "$$綾波レイ$$",
+        "$$エヴァンゲリオン零号機$$"
+      ]
+    },
+    "stage0025_03:r_07f53c816e0a51f5": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_07f53c816e0a51f5"
+      ],
+      "required_tokens": [
+        "$$明神タケル$$",
+        "$$ゴッドマーズ$$"
+      ],
+      "actual_tokens": [
+        "$$タケル$$",
+        "$$明神タケル$$",
+        "$$ゴッドマーズ$$"
+      ]
+    },
+    "stage0025_03:r_0476ffd10c764b0e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_0476ffd10c764b0e"
+      ],
+      "required_tokens": [
+        "$$明神タケル$$"
+      ],
+      "actual_tokens": [
+        "$$タケル$$",
+        "$$明神タケル$$"
+      ]
+    },
+    "stage0025_03:r_3915fb4102f1c1dd": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_3915fb4102f1c1dd"
+      ],
+      "required_tokens": [
+        "$$コスモクラッシャー$$",
+        "$$伊集院ナオト$$"
+      ],
+      "actual_tokens": [
+        "$$ナオト$$",
+        "$$コスモクラッシャー$$",
+        "$$伊集院ナオト$$"
+      ]
+    },
+    "stage0025_03:r_817b2773b4ed563e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_817b2773b4ed563e"
+      ],
+      "required_tokens": [
+        "$$木曽アキラ$$"
+      ],
+      "actual_tokens": [
+        "$$アキラ$$",
+        "$$木曽アキラ$$"
+      ]
+    },
+    "stage0025_03:r_1cc233cbc8c80af7": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_1cc233cbc8c80af7"
+      ],
+      "required_tokens": [
+        "$$日向ミカ$$"
+      ],
+      "actual_tokens": [
+        "$$ミカ$$",
+        "$$日向ミカ$$"
+      ]
+    },
+    "stage0025_03:r_3ce2f3e58cfdc3ba": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_3ce2f3e58cfdc3ba"
+      ],
+      "required_tokens": [
+        "$$飛鳥ケンジ$$"
+      ],
+      "actual_tokens": [
+        "$$ケンジ$$",
+        "$$飛鳥ケンジ$$"
+      ]
+    },
+    "stage0025_03:r_9e994a4b926d9906": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_9e994a4b926d9906"
+      ],
+      "required_tokens": [
+        "$$ヒルデ$$",
+        "$$トロワ・バートン$$"
+      ],
+      "actual_tokens": [
+        "$$ヒルデ$$",
+        "$$トロワ・バートン$$",
+        "$$トロワ$$"
+      ]
+    },
+    "stage0025_03:r_ca3edf3b8b52aedf": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_ca3edf3b8b52aedf"
+      ],
+      "required_tokens": [
+        "$$タケル$$"
+      ],
+      "actual_tokens": [
+        "$$タケル$$",
+        "$$デュオ$$"
+      ]
+    },
+    "stage0025_03:r_2e59226caa35f6e5": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_2e59226caa35f6e5"
+      ],
+      "required_tokens": [
+        "$$バナージ・リンクス$$",
+        "$$ユニコーンガンダム$$"
+      ],
+      "actual_tokens": [
+        "$$バナージ$$",
+        "$$バナージ・リンクス$$",
+        "$$ユニコーンガンダム$$"
+      ]
+    },
+    "stage0025_03:r_ce68dd10a19e01ea": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_ce68dd10a19e01ea"
+      ],
+      "required_tokens": [
+        "$$オードリー・バーン$$"
+      ],
+      "actual_tokens": [
+        "$$オードリー$$",
+        "$$オードリー・バーン$$"
+      ]
+    },
+    "stage0025_03:r_b26be73e3c0c8bed": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_b26be73e3c0c8bed"
+      ],
+      "required_tokens": [
+        "$$アルト$$"
+      ],
+      "actual_tokens": [
+        "$$アルト$$",
+        "$$赤木$$"
+      ]
+    },
+    "stage0025_03:r_df10ad0a71c307da": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_df10ad0a71c307da"
+      ],
+      "required_tokens": [
+        "$$青山圭一郎$$"
+      ],
+      "actual_tokens": [
+        "$$青山$$",
+        "$$青山圭一郎$$"
+      ]
+    },
+    "stage0025_03:r_9293c52555ba1457": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_9293c52555ba1457"
+      ],
+      "required_tokens": [
+        "$$クルツ・ウェーバー$$"
+      ],
+      "actual_tokens": [
+        "$$クルツ$$",
+        "$$クルツ・ウェーバー$$"
+      ]
+    },
+    "stage0025_03:r_490618028b4c53d6": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_490618028b4c53d6"
+      ],
+      "required_tokens": [
+        "$$ヒルデ$$",
+        "$$トロワ・バートン$$"
+      ],
+      "actual_tokens": [
+        "$$ヒルデ$$",
+        "$$トロワ・バートン$$",
+        "$$トロワ$$"
+      ]
+    },
+    "stage0025_03:r_7d0527803c131a6e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_7d0527803c131a6e"
+      ],
+      "required_tokens": [
+        "$$ルカ$$"
+      ],
+      "actual_tokens": [
+        "$$ルカ$$",
+        "$$デュオ$$"
+      ]
+    },
+    "stage0025_03:r_ee7f46e6a631fd5c": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_ee7f46e6a631fd5c"
+      ],
+      "required_tokens": [
+        "$$バナージ・リンクス$$",
+        "$$ユニコーンガンダム$$"
+      ],
+      "actual_tokens": [
+        "$$バナージ$$",
+        "$$バナージ・リンクス$$",
+        "$$ユニコーンガンダム$$"
+      ]
+    },
+    "stage0025_03:r_bee2bfb994ca7365": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_bee2bfb994ca7365"
+      ],
+      "required_tokens": [
+        "$$オードリー・バーン$$"
+      ],
+      "actual_tokens": [
+        "$$オードリー$$",
+        "$$オードリー・バーン$$"
+      ]
+    },
+    "stage0025_03:r_fda7edf39e317875": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_fda7edf39e317875"
+      ],
+      "required_tokens": [
+        "$$ヘテロダイン$$",
+        "$$赤木駿介$$",
+        "$$２１世紀警備保障$$",
+        "$$ダイ・ガード$$"
+      ],
+      "actual_tokens": [
+        "$$赤木$$",
+        "$$赤木駿介$$",
+        "$$ヘテロダイン$$",
+        "$$２１世紀警備保障$$",
+        "$$ダイ・ガード$$"
+      ]
+    },
+    "stage0025_03:r_b267a0ec877acc0e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_b267a0ec877acc0e"
+      ],
+      "required_tokens": [
+        "$$桃井いぶき$$"
+      ],
+      "actual_tokens": [
+        "$$いぶき$$",
+        "$$桃井いぶき$$"
+      ]
+    },
+    "stage0025_03:r_c627120a60cde94d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_c627120a60cde94d"
+      ],
+      "required_tokens": [
+        "$$青山圭一郎$$"
+      ],
+      "actual_tokens": [
+        "$$青山$$",
+        "$$青山圭一郎$$"
+      ]
+    },
+    "stage0025_03:r_984737d2920b03f7": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_984737d2920b03f7"
+      ],
+      "required_tokens": [
+        "$$横沢晋也$$"
+      ],
+      "actual_tokens": [
+        "$$横沢$$",
+        "$$横沢晋也$$"
+      ]
+    },
+    "stage0025_03:r_5ce10ef5943775df": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_5ce10ef5943775df"
+      ],
+      "required_tokens": [
+        "$$大山紀子$$",
+        "$$ＺＥＸＩＳ$$"
+      ],
+      "actual_tokens": [
+        "$$大山$$",
+        "$$大山紀子$$",
+        "$$ＺＥＸＩＳ$$"
+      ]
+    },
+    "stage0025_03:r_444bfe868b096710": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_444bfe868b096710"
+      ],
+      "required_tokens": [
+        "$$中原千秋$$"
+      ],
+      "actual_tokens": [
+        "$$中原$$",
+        "$$中原千秋$$"
+      ]
+    },
+    "stage0025_03:r_864ee68806b41af1": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_864ee68806b41af1"
+      ],
+      "required_tokens": [
+        "$$谷川風花$$"
+      ],
+      "actual_tokens": [
+        "$$谷川$$",
+        "$$谷川風花$$"
+      ]
+    },
+    "stage0025_03:r_5c69712b1b3fb77b": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_5c69712b1b3fb77b"
+      ],
+      "required_tokens": [
+        "$$入江静香$$"
+      ],
+      "actual_tokens": [
+        "$$入江$$",
+        "$$入江静香$$"
+      ]
+    },
+    "stage0025_03:r_f8c886fa821c5334": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_f8c886fa821c5334"
+      ],
+      "required_tokens": [
+        "$$石塚智美$$",
+        "$$田口友朗$$",
+        "$$伊集院博孝$$"
+      ],
+      "actual_tokens": [
+        "$$石塚$$",
+        "$$石塚智美$$",
+        "$$田口友朗$$",
+        "$$伊集院博孝$$"
+      ]
+    },
+    "stage0025_03:r_ce4b924038c181a0": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_ce4b924038c181a0"
+      ],
+      "required_tokens": [
+        "$$佐伯徹$$",
+        "$$ダイ・ガード$$"
+      ],
+      "actual_tokens": [
+        "$$佐伯$$",
+        "$$佐伯徹$$",
+        "$$ダイ・ガード$$"
+      ]
+    },
+    "stage0025_03:r_bdfc9cb5d9aaf4ce": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_bdfc9cb5d9aaf4ce"
+      ],
+      "required_tokens": [
+        "$$エヴァンゲリオン初号機$$",
+        "$$碇シンジ$$"
+      ],
+      "actual_tokens": [
+        "$$シンジ$$",
+        "$$碇シンジ$$",
+        "$$エヴァンゲリオン初号機$$"
+      ]
+    },
+    "stage0025_03:r_1711e6c6939aa411": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_1711e6c6939aa411"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$ミサト$$",
+        "$$葛城ミサト$$"
+      ]
+    },
+    "stage0025_03:r_b8aead2ff492ad33": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_b8aead2ff492ad33"
+      ],
+      "required_tokens": [
+        "$$ミサト$$",
+        "$$綾波レイ$$"
+      ],
+      "actual_tokens": [
+        "$$ミサト$$",
+        "$$綾波レイ$$",
+        "$$エヴァンゲリオン零号機$$"
+      ]
+    },
+    "stage0025_03:r_366eed12d0fa7297": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_366eed12d0fa7297"
+      ],
+      "required_tokens": [
+        "$$クルツ$$"
+      ],
+      "actual_tokens": [
+        "$$クルツ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0025_03:r_58b16d8cc9b8a2a5": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_58b16d8cc9b8a2a5"
+      ],
+      "required_tokens": [
+        "$$明神タケル$$",
+        "$$ゴッドマーズ$$"
+      ],
+      "actual_tokens": [
+        "$$タケル$$",
+        "$$明神タケル$$",
+        "$$ゴッドマーズ$$"
+      ]
+    },
+    "stage0025_03:r_808269c7e458f2a5": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_808269c7e458f2a5"
+      ],
+      "required_tokens": [
+        "$$明神タケル$$"
+      ],
+      "actual_tokens": [
+        "$$タケル$$",
+        "$$明神タケル$$"
+      ]
+    },
+    "stage0025_03:r_119dbefe27cdac46": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_119dbefe27cdac46"
+      ],
+      "required_tokens": [
+        "$$コスモクラッシャー$$",
+        "$$伊集院ナオト$$"
+      ],
+      "actual_tokens": [
+        "$$ナオト$$",
+        "$$コスモクラッシャー$$",
+        "$$伊集院ナオト$$"
+      ]
+    },
+    "stage0025_03:r_e174d36b825c4290": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_e174d36b825c4290"
+      ],
+      "required_tokens": [
+        "$$木曽アキラ$$"
+      ],
+      "actual_tokens": [
+        "$$アキラ$$",
+        "$$木曽アキラ$$"
+      ]
+    },
+    "stage0025_03:r_56176fc60ad96ecd": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_56176fc60ad96ecd"
+      ],
+      "required_tokens": [
+        "$$日向ミカ$$"
+      ],
+      "actual_tokens": [
+        "$$ミカ$$",
+        "$$日向ミカ$$"
+      ]
+    },
+    "stage0025_03:r_160384a0c68215c6": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_160384a0c68215c6"
+      ],
+      "required_tokens": [
+        "$$飛鳥ケンジ$$"
+      ],
+      "actual_tokens": [
+        "$$ケンジ$$",
+        "$$飛鳥ケンジ$$"
+      ]
+    },
+    "stage0025_03:r_2cfc9851abe4070e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_2cfc9851abe4070e"
+      ],
+      "required_tokens": [
+        "$$第２新東京市$$",
+        "$$鈴原トウジ$$"
+      ],
+      "actual_tokens": [
+        "$$トウジ$$",
+        "$$鈴原トウジ$$",
+        "$$第２新東京市$$"
+      ]
+    },
+    "stage0025_03:r_0831afdf480052ed": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_0831afdf480052ed"
+      ],
+      "required_tokens": [
+        "$$相田ケンスケ$$"
+      ],
+      "actual_tokens": [
+        "$$ケンスケ$$",
+        "$$相田ケンスケ$$"
+      ]
+    },
+    "stage0025_03:r_1c9bf7ffbf9314a5": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_1c9bf7ffbf9314a5"
+      ],
+      "required_tokens": [
+        "$$洞木ヒカリ$$",
+        "$$第３新東京市$$"
+      ],
+      "actual_tokens": [
+        "$$ヒカリ$$",
+        "$$洞木ヒカリ$$",
+        "$$第３新東京市$$"
+      ]
+    },
+    "stage0025_03:r_b402ecf2db57f319": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_b402ecf2db57f319"
+      ],
+      "required_tokens": [
+        "$$綾波レイ$$"
+      ],
+      "actual_tokens": [
+        "$$レイ#333$$",
+        "$$綾波レイ$$"
+      ]
+    },
+    "stage0025_03:r_adc5793509f8d46c": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_adc5793509f8d46c"
+      ],
+      "required_tokens": [
+        "$$千鳥かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$千鳥かなめ$$"
+      ]
+    },
+    "stage0025_03:r_121b55dcb47984aa": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_121b55dcb47984aa"
+      ],
+      "required_tokens": [
+        "$$紅月カレン$$",
+        "$$新日本$$",
+        "$$扇$$"
+      ],
+      "actual_tokens": [
+        "$$カレン$$",
+        "$$紅月カレン$$",
+        "$$新日本$$",
+        "$$扇$$"
+      ]
+    },
+    "stage0025_03:r_199a6e6247ffb58b": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_199a6e6247ffb58b"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0025_03:r_173107393504e4d1": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_173107393504e4d1"
+      ],
+      "required_tokens": [
+        "$$かなめ$$",
+        "$$トウジ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$",
+        "$$トウジ$$"
+      ]
+    },
+    "stage0025_03:r_07c48732ddfefbf4": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_03:r_07c48732ddfefbf4"
+      ],
+      "required_tokens": [
+        "$$ＡＧ$$",
+        "$$ジェニオン・ガイ$$"
+      ],
+      "actual_tokens": [
+        "$$ＡＧ$$",
+        "$$ジェニオン$$",
+        "$$ジェニオン・ガイ$$"
+      ]
+    },
+    "stage0025_04:r_6fd86c96891ea942": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_04:r_6fd86c96891ea942"
+      ],
+      "required_tokens": [
+        "$$キリコ$$",
+        "$$紅月カレン$$"
+      ],
+      "actual_tokens": [
+        "$$カレン$$",
+        "$$キリコ$$",
+        "$$紅月カレン$$"
+      ]
+    },
+    "stage0025_04:r_0827963cfd706e8d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0025_04:r_0827963cfd706e8d"
+      ],
+      "required_tokens": [
+        "$$紅月カレン$$",
+        "$$ゼロ$$"
+      ],
+      "actual_tokens": [
+        "$$カレン$$",
+        "$$紅月カレン$$",
+        "$$ゼロ$$"
+      ]
+    },
+    "stage0026_03:r_da2132b5038ec737": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0026_03:r_da2132b5038ec737"
+      ],
+      "required_tokens": [
+        "$$ミコノ・スズシロ$$"
+      ],
+      "actual_tokens": [
+        "$$ミコノ$$",
+        "$$ミコノ・スズシロ$$"
+      ]
+    },
+    "stage0026_03:r_495d61d3ec7e16f2": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0026_03:r_495d61d3ec7e16f2"
+      ],
+      "required_tokens": [
+        "$$アマタ・ソラ$$"
+      ],
+      "actual_tokens": [
+        "$$アマタ$$",
+        "$$アマタ$$",
+        "$$アマタ・ソラ$$"
+      ]
+    },
+    "stage0026_03:r_5b23687574286204": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0026_03:r_5b23687574286204"
+      ],
+      "required_tokens": [
+        "$$アマタ$$"
+      ],
+      "actual_tokens": [
+        "$$アマタ$$",
+        "$$アクエリアの舞う空$$"
+      ]
+    },
+    "stage0026_03:r_3ff2e21207d1d1d3": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0026_03:r_3ff2e21207d1d1d3"
+      ],
+      "required_tokens": [
+        "$$ドナール$$",
+        "$$時空震動$$"
+      ],
+      "actual_tokens": [
+        "$$ドナール$$",
+        "$$聖天使学園$$",
+        "$$時空震動$$"
+      ]
+    },
+    "stage0026_03:r_8805f96e52aaa462": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0026_03:r_8805f96e52aaa462"
+      ],
+      "required_tokens": [
+        "$$クレア$$"
+      ],
+      "actual_tokens": [
+        "$$クレア$$",
+        "$$学園長$$"
+      ]
+    },
+    "stage0026_03:r_89766f5ffaa912d4": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0026_03:r_89766f5ffaa912d4"
+      ],
+      "required_tokens": [
+        "$$ＡＧ$$"
+      ],
+      "actual_tokens": [
+        "$$ＡＧ$$",
+        "$$スズネ$$"
+      ]
+    },
+    "stage0027_03:r_9c206d19bfda4bd5": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_03:r_9c206d19bfda4bd5"
+      ],
+      "required_tokens": [
+        "$$デュオ$$",
+        "$$アクエリア市$$"
+      ],
+      "actual_tokens": [
+        "$$デュオ$$",
+        "$$聖天使学園$$",
+        "$$アクエリア市$$"
+      ]
+    },
+    "stage0027_03:r_1f418b5594cea300": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_03:r_1f418b5594cea300"
+      ],
+      "required_tokens": [
+        "$$サザンカ$$"
+      ],
+      "actual_tokens": [
+        "$$サザンカ$$",
+        "$$聖天使学園$$"
+      ]
+    },
+    "stage0027_03:r_422861e0b8d77d0c": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_03:r_422861e0b8d77d0c"
+      ],
+      "required_tokens": [
+        "$$バナージ・リンクス$$",
+        "$$アルト$$"
+      ],
+      "actual_tokens": [
+        "$$バナージ$$",
+        "$$バナージ・リンクス$$",
+        "$$アルト$$"
+      ]
+    },
+    "stage0027_03:r_a5774604a0f00702": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_03:r_a5774604a0f00702"
+      ],
+      "required_tokens": [
+        "$$かなめ$$",
+        "$n",
+        "$$スズネ$$",
+        "$$シンジ$$",
+        "$$レイ#333$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$",
+        "$n",
+        "$$スズネ$$",
+        "$$シンジ$$",
+        "$$レイ#333$$"
+      ]
+    },
+    "stage0027_03:r_075101b23517fbaa": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_03:r_075101b23517fbaa"
+      ],
+      "required_tokens": [
+        "$$アマタ$$"
+      ],
+      "actual_tokens": [
+        "$$アマタ$$",
+        "$$ミコノ$$"
+      ]
+    },
+    "stage0027_03:r_e62eb587b8d34cb9": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_03:r_e62eb587b8d34cb9"
+      ],
+      "required_tokens": [
+        "$$ミコノ$$"
+      ],
+      "actual_tokens": [
+        "$$ミコノ$$",
+        "$$アマタ$$"
+      ]
+    },
+    "stage0027_03:r_8ca795c4c35fc911": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_03:r_8ca795c4c35fc911"
+      ],
+      "required_tokens": [
+        "$$イズモ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$イズモ$$"
+      ]
+    },
+    "stage0027_03:r_ae4d9169d6ff43a4": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_03:r_ae4d9169d6ff43a4"
+      ],
+      "required_tokens": [
+        "$$ミカゲ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ミカゲ$$"
+      ]
+    },
+    "stage0027_03:r_ce4ee5d4d2a4dc1d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_03:r_ce4ee5d4d2a4dc1d"
+      ],
+      "required_tokens": [
+        "$$ミカゲ$$",
+        "$$カグラ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ミカゲ$$",
+        "$$カグラ$$"
+      ]
+    },
+    "stage0027_03:r_5557ccda2f7c3f23": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_03:r_5557ccda2f7c3f23"
+      ],
+      "required_tokens": [
+        "$$ミカゲ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ミカゲ$$"
+      ]
+    },
+    "stage0027_03:r_01fea60fea66c996": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_03:r_01fea60fea66c996"
+      ],
+      "required_tokens": [
+        "$$ミカゲ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ミカゲ$$"
+      ]
+    },
+    "stage0027_03:r_ae273a5479d64978": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_03:r_ae273a5479d64978"
+      ],
+      "required_tokens": [
+        "$$ミカゲ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ミカゲ$$"
+      ]
+    },
+    "stage0027_04:r_86d493e37a9799a7": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_04:r_86d493e37a9799a7"
+      ],
+      "required_tokens": [
+        "$$木下$$"
+      ],
+      "actual_tokens": [
+        "$$木下$$",
+        "$$ランカ$$"
+      ]
+    },
+    "stage0027_04:r_63249745ffae61b6": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_04:r_63249745ffae61b6"
+      ],
+      "required_tokens": [
+        "$$クラン$$"
+      ],
+      "actual_tokens": [
+        "$$クラン$$",
+        "$$時空震動|lc$$"
+      ]
+    },
+    "stage0027_04:r_e51ecf6d6aa42e75": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_04:r_e51ecf6d6aa42e75"
+      ],
+      "required_tokens": [
+        "$$桂$$"
+      ],
+      "actual_tokens": [
+        "$$桂$$",
+        "$$時空震動|lc$$"
+      ]
+    },
+    "stage0027_04:r_a9227573166977a9": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_04:r_a9227573166977a9"
+      ],
+      "required_tokens": [
+        "$$桂木桂$$"
+      ],
+      "actual_tokens": [
+        "$$桂$$",
+        "$$桂木桂$$"
+      ]
+    },
+    "stage0027_04:r_b0600ab9a9e8559d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_04:r_b0600ab9a9e8559d"
+      ],
+      "required_tokens": [
+        "$$カイエン$$"
+      ],
+      "actual_tokens": [
+        "$$カイエン$$",
+        "$$時空震動|lc$$"
+      ]
+    },
+    "stage0027_04:r_03b5db9ce98fb8d6": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_04:r_03b5db9ce98fb8d6"
+      ],
+      "required_tokens": [
+        "$$桂木桂$$"
+      ],
+      "actual_tokens": [
+        "$$桂$$",
+        "$$桂木桂$$"
+      ]
+    },
+    "stage0027_04:r_8fe40600ce62dfbc": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_04:r_8fe40600ce62dfbc"
+      ],
+      "required_tokens": [
+        "$$オットー$$"
+      ],
+      "actual_tokens": [
+        "$$オットー$$",
+        "$$時空震動|lc$$"
+      ]
+    },
+    "stage0027_04:r_9133b7e0b34de48f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_04:r_9133b7e0b34de48f"
+      ],
+      "required_tokens": [
+        "$$アマタ$$",
+        "$$ミコノ$$"
+      ],
+      "actual_tokens": [
+        "$$アマタ$$",
+        "$$ミコノ$$",
+        "$$ミコノ$$"
+      ]
+    },
+    "stage0027_04:r_d90c4affdd742a0e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_04:r_d90c4affdd742a0e"
+      ],
+      "required_tokens": [
+        "$$アマタ$$",
+        "$$ミコノ$$"
+      ],
+      "actual_tokens": [
+        "$$アマタ$$",
+        "$$ミコノ$$",
+        "$$ミコノ$$"
+      ]
+    },
+    "stage0027_04:r_59cb6a337266e5c9": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0027_04:r_59cb6a337266e5c9"
+      ],
+      "required_tokens": [
+        "$$アマタ$$",
+        "$$ミコノ$$"
+      ],
+      "actual_tokens": [
+        "$$アマタ$$",
+        "$$ミコノ$$",
+        "$$ミコノ$$"
+      ]
+    },
+    "stage0028_02:r_caaab7bad760e16d": {
+      "previous_status": "needs_review",
+      "issues": [
+        "Existing worktree review requirement retained"
+      ]
+    },
+    "stage0028_03:r_3599f0a4343fd95c": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0028_03:r_3599f0a4343fd95c"
+      ],
+      "required_tokens": [
+        "$$シン・アスカ$$",
+        "$$カイエン$$"
+      ],
+      "actual_tokens": [
+        "$$シン$$",
+        "$$シン・アスカ$$",
+        "$$カイエン$$"
+      ]
+    },
+    "stage0028_03:r_4dbfba00ba7744ee": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0028_03:r_4dbfba00ba7744ee"
+      ],
+      "required_tokens": [
+        "$$ゼシカ$$"
+      ],
+      "actual_tokens": [
+        "$$ゼシカ$$",
+        "$$アマタ$$"
+      ]
+    },
+    "stage0028_03:r_c2df6b71e3b4b6ec": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0028_03:r_c2df6b71e3b4b6ec"
+      ],
+      "required_tokens": [
+        "$$かなめ$$",
+        "$$竜馬$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$スズネ$$",
+        "$$竜馬$$"
+      ]
+    },
+    "stage0028_03:r_91c6d0bb53854ecc": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0028_03:r_91c6d0bb53854ecc"
+      ],
+      "required_tokens": [
+        "$$かなめ$$",
+        "$$林水$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$",
+        "$$林水$$"
+      ]
+    },
+    "stage0028_03:r_0149e3a5f2e5ef78": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0028_03:r_0149e3a5f2e5ef78"
+      ],
+      "required_tokens": [
+        "$$カミーユ・ビダン$$"
+      ],
+      "actual_tokens": [
+        "$$カミーユ$$",
+        "$$カミーユ・ビダン$$"
+      ]
+    },
+    "stage0028_03:r_a5774604a0f00702": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0028_03:r_a5774604a0f00702"
+      ],
+      "required_tokens": [
+        "$$椿一成$$"
+      ],
+      "actual_tokens": [
+        "$$一成$$",
+        "$$椿一成$$"
+      ]
+    },
+    "stage0028_03:r_7b3a37f5039eb1f6": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0028_03:r_7b3a37f5039eb1f6"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0028_03:r_2c37dd5b8f919a88": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0028_03:r_2c37dd5b8f919a88"
+      ],
+      "required_tokens": [
+        "$$かなめ$$",
+        "$$ボン太くん#robot$$",
+        "$n",
+        "$$ジェニオン$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$",
+        "$$ボン太くん#robot$$",
+        "$n",
+        "$$ジェニオン$$"
+      ]
+    },
+    "stage0028_03:r_082a55c75a163780": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0028_03:r_082a55c75a163780"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0028_03:r_ae273a5479d64978": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0028_03:r_ae273a5479d64978"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0028_03:r_9d00ee0ac3902eac": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0028_03:r_9d00ee0ac3902eac"
+      ],
+      "required_tokens": [
+        "$$かなめ$$",
+        "$$大貫$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$大貫$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0029_03:r_feee5c91826230e1": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_03:r_feee5c91826230e1"
+      ],
+      "required_tokens": [
+        "$$シン・アスカ$$",
+        "$$カイエン$$"
+      ],
+      "actual_tokens": [
+        "$$シン$$",
+        "$$シン・アスカ$$",
+        "$$カイエン$$"
+      ]
+    },
+    "stage0029_03:r_b4bc9e9435b58e6f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_03:r_b4bc9e9435b58e6f"
+      ],
+      "required_tokens": [
+        "$$赤城龍之介$$"
+      ],
+      "actual_tokens": [
+        "$$赤城$$",
+        "$$赤城龍之介$$"
+      ]
+    },
+    "stage0029_03:r_2b3479c4cf0680f4": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_03:r_2b3479c4cf0680f4"
+      ],
+      "required_tokens": [
+        "$$赤木駿介$$"
+      ],
+      "actual_tokens": [
+        "$$赤木$$",
+        "$$赤木駿介$$"
+      ]
+    },
+    "stage0029_03:r_e370696b8936b08c": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_03:r_e370696b8936b08c"
+      ],
+      "required_tokens": [
+        "$$赤木$$",
+        "$$赤木$$"
+      ],
+      "actual_tokens": [
+        "$$赤城$$",
+        "$$赤木$$"
+      ]
+    },
+    "stage0029_03:r_53128ce8f154fd06": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_03:r_53128ce8f154fd06"
+      ],
+      "required_tokens": [
+        "$$赤城龍之介$$"
+      ],
+      "actual_tokens": [
+        "$$赤城$$",
+        "$$赤城龍之介$$"
+      ]
+    },
+    "stage0029_03:r_473d9a88b4ca96e7": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_03:r_473d9a88b4ca96e7"
+      ],
+      "required_tokens": [
+        "$$飯塚$$",
+        "$$風間$$"
+      ],
+      "actual_tokens": [
+        "$$飯塚$$"
+      ]
+    },
+    "stage0029_03:r_7980fd37141d88d0": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_03:r_7980fd37141d88d0"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0029_03:r_9c13714b3efbc7a8": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_03:r_9c13714b3efbc7a8"
+      ],
+      "required_tokens": [
+        "$$赤木$$",
+        "$$赤木$$"
+      ],
+      "actual_tokens": [
+        "$$赤城$$",
+        "$$赤木$$"
+      ]
+    },
+    "stage0029_03:r_feb0390bba7fe1fb": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_03:r_feb0390bba7fe1fb"
+      ],
+      "required_tokens": [
+        "$$赤木$$",
+        "$$赤木$$"
+      ],
+      "actual_tokens": [
+        "$$赤木$$"
+      ]
+    },
+    "stage0029_03:r_ddd97a6ef823929a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_03:r_ddd97a6ef823929a"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0029_04:r_1c0f94acd5a8a143": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_04:r_1c0f94acd5a8a143"
+      ],
+      "required_tokens": [
+        "$$赤城龍之介$$"
+      ],
+      "actual_tokens": [
+        "$$赤城$$",
+        "$$赤城龍之介$$"
+      ]
+    },
+    "stage0029_04:r_d60d0818e965232f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_04:r_d60d0818e965232f"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0029_04:r_0827963cfd706e8d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_04:r_0827963cfd706e8d"
+      ],
+      "required_tokens": [
+        "$$ミサト$$",
+        "$$赤木$$",
+        "$$赤木$$",
+        "$$リツコ$$"
+      ],
+      "actual_tokens": [
+        "$$ミサト$$",
+        "$$赤木$$",
+        "$$赤城$$",
+        "$$リツコ$$"
+      ]
+    },
+    "stage0029_04:r_d1ec2522c87c361d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_04:r_d1ec2522c87c361d"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0029_04:r_d2f1bf5ab2f0e41a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_04:r_d2f1bf5ab2f0e41a"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0029_04:r_ec1a06a7023bf72c": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_04:r_ec1a06a7023bf72c"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0029_04:r_62ecd978c667bd29": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_04:r_62ecd978c667bd29"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0029_04:r_f97e6925c9e37332": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0029_04:r_f97e6925c9e37332"
+      ],
+      "required_tokens": [
+        "$$かなめ$$"
+      ],
+      "actual_tokens": [
+        "$$かなめ$$",
+        "$$宗介$$"
+      ]
+    },
+    "stage0030_03:r_79f2664edb1af798": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0030_03:r_79f2664edb1af798"
+      ],
+      "required_tokens": [
+        "$$ローレライ・ハインリッヒ$$",
+        "$$オックス$$"
+      ],
+      "actual_tokens": [
+        "$$ローレライ$$",
+        "$$ローレライ・ハインリッヒ$$",
+        "$$オックス$$"
+      ]
+    },
+    "stage0030_03:r_53bb64ee17750ee2": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0030_03:r_53bb64ee17750ee2"
+      ],
+      "required_tokens": [
+        "$$スズネ$$",
+        "$$錦織つばさ$$",
+        "$$甲児$$"
+      ],
+      "actual_tokens": [
+        "$$つばさ$$",
+        "$$スズネ$$",
+        "$$錦織つばさ$$",
+        "$$甲児$$"
+      ]
+    },
+    "stage0030_03:r_5d7a3adb077ad934": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0030_03:r_5d7a3adb077ad934"
+      ],
+      "required_tokens": [
+        "$$アンディ・Ｗ・ホール$$"
+      ],
+      "actual_tokens": [
+        "$$アンディ$$",
+        "$$アンディ・Ｗ・ホール$$"
+      ]
+    },
+    "stage0030_04:r_f527e012803f7f1c": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0030_04:r_f527e012803f7f1c"
+      ],
+      "required_tokens": [
+        "$$ＷＩＬＬ$$"
+      ],
+      "actual_tokens": [
+        "$$ＷＩＬＬ$$",
+        "$$宇宙魔王#pilot$$"
+      ]
+    },
+    "stage0031b_03:r_5cd353758cfe474d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0031b_03:r_5cd353758cfe474d"
+      ],
+      "required_tokens": [
+        "$$ミサト$$",
+        "$$メール$$"
+      ],
+      "actual_tokens": [
+        "$$ミサト$$"
+      ]
+    },
+    "stage0031b_04:r_ab97c2b2418ea732": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0031b_04:r_ab97c2b2418ea732"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0031b_04:r_9e994a4b926d9906": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0031b_04:r_9e994a4b926d9906"
+      ],
+      "required_tokens": [
+        "$$カレン$$"
+      ],
+      "actual_tokens": [
+        "$$カレン$$",
+        "$$ゼロ$$"
+      ]
+    },
+    "stage0031b_04:r_ffae76d2a77abf5a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0031b_04:r_ffae76d2a77abf5a"
+      ],
+      "required_tokens": [
+        "$$蜃気楼$$"
+      ],
+      "actual_tokens": [
+        "$$ゼロ$$",
+        "$$蜃気楼$$"
+      ]
+    },
+    "stage0031b_04:r_3ac462d37e5893ff": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0031b_04:r_3ac462d37e5893ff"
+      ],
+      "required_tokens": [
+        "$$シンジ$$"
+      ],
+      "actual_tokens": [
+        "$$シンジ$$",
+        "$$ゼロ$$"
+      ]
+    },
+    "stage0031b_04:r_0b3b19cddb871f90": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0031b_04:r_0b3b19cddb871f90"
+      ],
+      "required_tokens": [
+        "$$桂$$"
+      ],
+      "actual_tokens": [
+        "$$桂$$",
+        "$$ゼロ$$"
+      ]
+    },
+    "stage0031b_04:r_304e98dac43c9333": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0031b_04:r_304e98dac43c9333"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$ゼロ$$"
+      ]
+    },
+    "stage0031b_04:r_40e4c010d1b35b4c": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0031b_04:r_40e4c010d1b35b4c"
+      ],
+      "required_tokens": [],
+      "actual_tokens": [
+        "$$ゼロ$$"
+      ]
+    },
+    "stage0031b_04:r_432a29155221625f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0031b_04:r_432a29155221625f"
+      ],
+      "required_tokens": [
+        "$$カレン$$"
+      ],
+      "actual_tokens": [
+        "$$カレン$$",
+        "$$ゼロ$$"
+      ]
+    },
+    "stage0031b_04:r_38f89a2d27debb9e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0031b_04:r_38f89a2d27debb9e"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0032_04:r_7313331f4077d255": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0032_04:r_7313331f4077d255"
+      ],
+      "required_tokens": [
+        "$$紅月カレン$$"
+      ],
+      "actual_tokens": [
+        "$$カレン$$",
+        "$$紅月カレン$$"
+      ]
+    },
+    "stage0033a_03:r_1c208ca0cbf26f28": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0033a_03:r_1c208ca0cbf26f28"
+      ],
+      "required_tokens": [
+        "$$マリーメイア$$",
+        "$$クィーン$$",
+        "$$リリーナ$$",
+        "$$ナナリー$$"
+      ],
+      "actual_tokens": [
+        "$$マリーメイア$$",
+        "$$リリーナ$$",
+        "$$ナナリー$$"
+      ]
+    },
+    "stage0033a_03:r_d2f1bf5ab2f0e41a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0033a_03:r_d2f1bf5ab2f0e41a"
+      ],
+      "required_tokens": [
+        "$$マリーメイア$$",
+        "$$クィーン$$",
+        "$$リリーナ$$",
+        "$$ナナリー$$"
+      ],
+      "actual_tokens": [
+        "$$マリーメイア$$",
+        "$$リリーナ$$",
+        "$$ナナリー$$"
+      ]
+    },
+    "stage0033a_03:r_a9227573166977a9": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0033a_03:r_a9227573166977a9"
+      ],
+      "required_tokens": [
+        "$$マリーメイア$$",
+        "$$クィーン$$",
+        "$$リリーナ$$"
+      ],
+      "actual_tokens": [
+        "$$マリーメイア$$",
+        "$$リリーナ$$"
+      ]
+    },
+    "stage0033a_04:r_3599f0a4343fd95c": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0033a_04:r_3599f0a4343fd95c"
+      ],
+      "required_tokens": [
+        "$$ヒイロ$$",
+        "$$ゼロ$$",
+        "$$五飛$$"
+      ],
+      "actual_tokens": [
+        "$$ヒイロ$$",
+        "$$五飛$$"
+      ]
+    },
+    "stage0033a_04:r_adec86483b13599a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0033a_04:r_adec86483b13599a"
+      ],
+      "required_tokens": [
+        "$$ヒイロ$$",
+        "$$五飛$$",
+        "$$ゼロ$$"
+      ],
+      "actual_tokens": [
+        "$$ヒイロ$$",
+        "$$五飛$$"
+      ]
+    },
+    "stage0033a_04:r_a9227573166977a9": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0033a_04:r_a9227573166977a9"
+      ],
+      "required_tokens": [
+        "$$五飛$$",
+        "$$ヒイロ$$",
+        "$$ゼロ$$"
+      ],
+      "actual_tokens": [
+        "$$五飛$$",
+        "$$ヒイロ$$"
+      ]
+    },
+    "stage0033a_04:r_b0600ab9a9e8559d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0033a_04:r_b0600ab9a9e8559d"
+      ],
+      "required_tokens": [
+        "$$ヒイロ$$",
+        "$$ゼロ$$"
+      ],
+      "actual_tokens": [
+        "$$ヒイロ$$"
+      ]
+    },
+    "stage0033b_03:r_44f4742c3dcce39a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0033b_03:r_44f4742c3dcce39a"
+      ],
+      "required_tokens": [
+        "$$マリーメイア$$",
+        "$$クィーン$$",
+        "$$リリーナ$$"
+      ],
+      "actual_tokens": [
+        "$$マリーメイア$$",
+        "$$リリーナ$$"
+      ]
+    },
+    "stage0033b_04:r_0476ffd10c764b0e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0033b_04:r_0476ffd10c764b0e"
+      ],
+      "required_tokens": [
+        "$$リリーナ$$",
+        "$$ヒイロ$$"
+      ],
+      "actual_tokens": [
+        "$$リリーナ$$",
+        "$$ヒイロ・ユイ$$"
+      ]
+    },
+    "stage0034_03:r_6bbd5a3c5afb87e0": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0034_03:r_6bbd5a3c5afb87e0"
+      ],
+      "required_tokens": [
+        "$$シャア$$"
+      ],
+      "actual_tokens": [
+        "$$シャア$$",
+        "$$大統領$$"
+      ]
+    },
+    "stage0034_03:r_859dfa27bcaafe30": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0034_03:r_859dfa27bcaafe30"
+      ],
+      "required_tokens": [
+        "$$シャア$$"
+      ],
+      "actual_tokens": [
+        "$$シャア$$",
+        "$$大統領$$"
+      ]
+    },
+    "stage0034_03:r_71ebf05996a4b0fd": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0034_03:r_71ebf05996a4b0fd"
+      ],
+      "required_tokens": [
+        "$$カイザス$$"
+      ],
+      "actual_tokens": [
+        "$$カイザス$$",
+        "$$大統領$$"
+      ]
+    },
+    "stage0034_03:r_8eaf6f3098ffed12": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0034_03:r_8eaf6f3098ffed12"
+      ],
+      "required_tokens": [
+        "$$カイザス$$"
+      ],
+      "actual_tokens": [
+        "$$カイザス$$",
+        "$$大統領$$"
+      ]
+    },
+    "stage0034_03:r_34a510533cb8a9f5": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0034_03:r_34a510533cb8a9f5"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0035_03:r_91bf33c27ad39f0a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0035_03:r_91bf33c27ad39f0a"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0035_03:r_c304df6888eb78f7": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0035_03:r_c304df6888eb78f7"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0035_03:r_ffe0fca26da5cd38": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0035_03:r_ffe0fca26da5cd38"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0037_03:r_3f4035fd9db81258": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0037_03:r_3f4035fd9db81258"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0037_03:r_2103f6df2ea2e447": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0037_03:r_2103f6df2ea2e447"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0037_03:r_9796b3efa401a303": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0037_03:r_9796b3efa401a303"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0037_03:r_730ffe18400abfc2": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0037_03:r_730ffe18400abfc2"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0037_03:r_4b0e43ba6a5f2f5b": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0037_03:r_4b0e43ba6a5f2f5b"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0039_03:r_6e558bc69acf5bf3": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0039_03:r_6e558bc69acf5bf3"
+      ],
+      "required_tokens": [
+        "$$イズモ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$イズモ$$"
+      ]
+    },
+    "stage0039_03:r_d80a9688790ed583": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0039_03:r_d80a9688790ed583"
+      ],
+      "required_tokens": [
+        "$$イズモ$$",
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$イズモ$$",
+        "$$ジン$$"
+      ]
+    },
+    "stage0039_03:r_32eb462c1b4999cb": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0039_03:r_32eb462c1b4999cb"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0039_03:r_9af213fc64e0afec": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0039_03:r_9af213fc64e0afec"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0039_04:r_b0600ab9a9e8559d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0039_04:r_b0600ab9a9e8559d"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0039_04:r_1be6d12f616f04e4": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0039_04:r_1be6d12f616f04e4"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$カグラ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$",
+        "$$カグラ$$"
+      ]
+    },
+    "stage0040_03:r_3f4035fd9db81258": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0040_03:r_3f4035fd9db81258"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0040_03:r_f8736aaaa216c766": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0040_03:r_f8736aaaa216c766"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0040_03:r_24e1a808a1609a1a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0040_03:r_24e1a808a1609a1a"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0040_03:r_10340119af3ed6db": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0040_03:r_10340119af3ed6db"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0040_03:r_554ae12c4c170253": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0040_03:r_554ae12c4c170253"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$カグラ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$",
+        "$$カグラ$$"
+      ]
+    },
+    "stage0040_03:r_fa59c6df081e6ae4": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0040_03:r_fa59c6df081e6ae4"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0040_03:r_a5774604a0f00702": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0040_03:r_a5774604a0f00702"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0042_03:r_1c0f94acd5a8a143": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0042_03:r_1c0f94acd5a8a143"
+      ],
+      "required_tokens": [
+        "$$シャア$$"
+      ],
+      "actual_tokens": [
+        "$$シャア$$",
+        "$$大統領$$"
+      ]
+    },
+    "stage0042_03:r_4d863c3fb88a4c39": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0042_03:r_4d863c3fb88a4c39"
+      ],
+      "required_tokens": [
+        "$$シャア$$"
+      ],
+      "actual_tokens": [
+        "$$シャア$$",
+        "$$大統領$$"
+      ]
+    },
+    "stage0042_03:r_6fd81f4abebe60c5": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0042_03:r_6fd81f4abebe60c5"
+      ],
+      "required_tokens": [
+        "$$カイザス$$"
+      ],
+      "actual_tokens": [
+        "$$カイザス$$",
+        "$$大統領$$"
+      ]
+    },
+    "stage0042_03:r_495d61d3ec7e16f2": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0042_03:r_495d61d3ec7e16f2"
+      ],
+      "required_tokens": [
+        "$$カイザス$$"
+      ],
+      "actual_tokens": [
+        "$$カイザス$$",
+        "$$大統領$$"
+      ]
+    },
+    "stage0044a_03:r_cf507214fe955d75": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0044a_03:r_cf507214fe955d75"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0044a_03:r_feee5c91826230e1": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0044a_03:r_feee5c91826230e1"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0044a_03:r_00c55e25f87b71d0": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0044a_03:r_00c55e25f87b71d0"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0044a_03:r_b1e38da4e8775ffe": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0044a_03:r_b1e38da4e8775ffe"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0044a_03:r_e51ecf6d6aa42e75": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0044a_03:r_e51ecf6d6aa42e75"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0045_03:r_9e701cdeb3842c21": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0045_03:r_9e701cdeb3842c21"
+      ],
+      "required_tokens": [
+        "$$イズモ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$イズモ$$"
+      ]
+    },
+    "stage0045_03:r_a653c8dec4c0f06f": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0045_03:r_a653c8dec4c0f06f"
+      ],
+      "required_tokens": [
+        "$$イズモ$$",
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$イズモ$$",
+        "$$ジン$$"
+      ]
+    },
+    "stage0045_03:r_24e1a808a1609a1a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0045_03:r_24e1a808a1609a1a"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0045_03:r_de3cc1f733dcb073": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0045_03:r_de3cc1f733dcb073"
+      ],
+      "required_tokens": [
+        "$$アポロン$$",
+        "$$シルフィ$$"
+      ],
+      "actual_tokens": [
+        "$$シルフィ$$"
+      ]
+    },
+    "stage0045_03:r_0835ec3fff318aff": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0045_03:r_0835ec3fff318aff"
+      ],
+      "required_tokens": [
+        "$$アポロン$$",
+        "$$シルフィ$$"
+      ],
+      "actual_tokens": [
+        "$$シルフィ$$"
+      ]
+    },
+    "stage0045_03:r_c32efc7394910997": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0045_03:r_c32efc7394910997"
+      ],
+      "required_tokens": [
+        "$$アポロン$$",
+        "$$シルフィ$$"
+      ],
+      "actual_tokens": [
+        "$$シルフィ$$"
+      ]
+    },
+    "stage0045_04:r_9af213fc64e0afec": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0045_04:r_9af213fc64e0afec"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$"
+      ]
+    },
+    "stage0045_04:r_6f4f8dd80820f5e7": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0045_04:r_6f4f8dd80820f5e7"
+      ],
+      "required_tokens": [
+        "$$ジン$$",
+        "$$カグラ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ジン$$",
+        "$$カグラ$$"
+      ]
+    },
+    "stage0046a_03:r_09d0fcc600cdd3df": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0046a_03:r_09d0fcc600cdd3df"
+      ],
+      "required_tokens": [
+        "$$ミカゲ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ミカゲ$$"
+      ]
+    },
+    "stage0046b_04:r_99b162aa6aa286a2": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0046b_04:r_99b162aa6aa286a2"
+      ],
+      "required_tokens": [
+        "$$ミーナ#120$$",
+        "$$ＺＥＵＴＨ$$",
+        "$$ＺＥＸＩＳ$$"
+      ],
+      "actual_tokens": [
+        "$$ミーナ#182$$",
+        "$$ＺＥＵＴＨ$$",
+        "$$ＺＥＸＩＳ$$"
+      ]
+    },
+    "stage0047_03:r_5b7ee307a700171a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0047_03:r_5b7ee307a700171a"
+      ],
+      "required_tokens": [
+        "$$アルト$$",
+        "$$メール$$"
+      ],
+      "actual_tokens": [
+        "$$アルト$$"
+      ]
+    },
+    "stage0047_03:r_ec1a06a7023bf72c": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0047_03:r_ec1a06a7023bf72c"
+      ],
+      "required_tokens": [
+        "$$シェリル$$",
+        "$$アルト$$"
+      ],
+      "actual_tokens": [
+        "$$シェリル$$"
+      ]
+    },
+    "stage0047_03:r_4e91ccecf1dd0f66": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0047_03:r_4e91ccecf1dd0f66"
+      ],
+      "required_tokens": [
+        "$$ノイン$$",
+        "$$リリーナ$$"
+      ],
+      "actual_tokens": [
+        "$$ノイン$$",
+        "$$大統領$$",
+        "$$リリーナ$$"
+      ]
+    },
+    "stage0048_03:r_91c6d0bb53854ecc": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0048_03:r_91c6d0bb53854ecc"
+      ],
+      "required_tokens": [
+        "$$ヴィラル$$",
+        "$$ハンター$$"
+      ],
+      "actual_tokens": [
+        "$$ヴィラル$$"
+      ]
+    },
+    "stage0048_03:r_20aab898d4d14e51": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0048_03:r_20aab898d4d14e51"
+      ],
+      "required_tokens": [
+        "$$ガウルン$$"
+      ],
+      "actual_tokens": [
+        "$$ガウルン$$",
+        "$$クエント$$"
+      ]
+    },
+    "stage0049_03:r_7980fd37141d88d0": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0049_03:r_7980fd37141d88d0"
+      ],
+      "required_tokens": [
+        "$$アムロ$$"
+      ],
+      "actual_tokens": [
+        "$$アムロ$$",
+        "$$宇宙航行母艦ソレスタルビーイング$$"
+      ]
+    },
+    "stage0052_03:r_c6937f14a8985c35": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0052_03:r_c6937f14a8985c35"
+      ],
+      "required_tokens": [
+        "$$ＡＧ$$",
+        "$$竜馬$$",
+        "$$真ゲッタードラゴン$$"
+      ],
+      "actual_tokens": [
+        "$$ＡＧ$$",
+        "$$竜馬$$"
+      ]
+    },
+    "stage0053_04:r_99b162aa6aa286a2": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0053_04:r_99b162aa6aa286a2"
+      ],
+      "required_tokens": [
+        "$$ミーナ#120$$"
+      ],
+      "actual_tokens": [
+        "$$ミーナ#182$$"
+      ]
+    },
+    "stage0053_04:r_ef7426919f628d8a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0053_04:r_ef7426919f628d8a"
+      ],
+      "required_tokens": [
+        "$$ミーナ#120$$"
+      ],
+      "actual_tokens": [
+        "$$ミーナ#182$$"
+      ]
+    },
+    "stage0053_04:r_09227dec2bd6f4d8": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0053_04:r_09227dec2bd6f4d8"
+      ],
+      "required_tokens": [
+        "$$ミーナ#120$$"
+      ],
+      "actual_tokens": [
+        "$$ミーナ#182$$"
+      ]
+    },
+    "stage0054_03:r_33f7fd55913419e8": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0054_03:r_33f7fd55913419e8"
+      ],
+      "required_tokens": [
+        "$$ミカゲ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ミカゲ$$"
+      ]
+    },
+    "stage0056_03:r_caaab7bad760e16d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0056_03:r_caaab7bad760e16d"
+      ],
+      "required_tokens": [
+        "$$大統領$$"
+      ],
+      "actual_tokens": []
+    },
+    "stage0056_03:r_99b162aa6aa286a2": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0056_03:r_99b162aa6aa286a2"
+      ],
+      "required_tokens": [
+        "$$大統領$$"
+      ],
+      "actual_tokens": []
+    },
+    "stage0056_03:r_58fb02434a1c40b2": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0056_03:r_58fb02434a1c40b2"
+      ],
+      "required_tokens": [
+        "$$大統領$$"
+      ],
+      "actual_tokens": []
+    },
+    "stage0056_03:r_38762a09460d8b6b": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0056_03:r_38762a09460d8b6b"
+      ],
+      "required_tokens": [
+        "$$三島$$",
+        "$$大統領$$"
+      ],
+      "actual_tokens": [
+        "$$三島$$"
+      ]
+    },
+    "stage0056_03:r_b05f6a6e8f3d9b24": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0056_03:r_b05f6a6e8f3d9b24"
+      ],
+      "required_tokens": [
+        "$$キャシー$$",
+        "$$大統領$$"
+      ],
+      "actual_tokens": [
+        "$$キャシー$$"
+      ]
+    },
+    "stage0056_03:r_6fd81f4abebe60c5": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0056_03:r_6fd81f4abebe60c5"
+      ],
+      "required_tokens": [
+        "$$オズマ$$",
+        "$$大統領$$"
+      ],
+      "actual_tokens": [
+        "$$オズマ$$"
+      ]
+    },
+    "stage0057_03:r_4d863c3fb88a4c39": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0057_03:r_4d863c3fb88a4c39"
+      ],
+      "required_tokens": [
+        "$$イズモ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$イズモ$$"
+      ]
+    },
+    "stage0057_03:r_d73c21f119847e35": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0057_03:r_d73c21f119847e35"
+      ],
+      "required_tokens": [
+        "$$アムロ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$アムロ$$"
+      ]
+    },
+    "stage0057_04:r_feee5c91826230e1": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0057_04:r_feee5c91826230e1"
+      ],
+      "required_tokens": [
+        "$$イズモ$$",
+        "$$イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$イズモ$$"
+      ]
+    },
+    "stage0057_04:r_bccc48e1964ad22d": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0057_04:r_bccc48e1964ad22d"
+      ],
+      "required_tokens": [
+        "$$イズモ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$イズモ$$"
+      ]
+    },
+    "stage0057_04:r_f8736aaaa216c766": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0057_04:r_f8736aaaa216c766"
+      ],
+      "required_tokens": [
+        "$$バナージ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$バナージ$$"
+      ]
+    },
+    "stage0057_04:r_3599f0a4343fd95c": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0057_04:r_3599f0a4343fd95c"
+      ],
+      "required_tokens": [
+        "$$イズモ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$イズモ$$"
+      ]
+    },
+    "stage0057_04:r_c17c58fdba72005e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0057_04:r_c17c58fdba72005e"
+      ],
+      "required_tokens": [
+        "$$イズモ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$イズモ$$"
+      ]
+    },
+    "stage0057_04:r_00c55e25f87b71d0": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0057_04:r_00c55e25f87b71d0"
+      ],
+      "required_tokens": [
+        "$$イズモ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$イズモ$$"
+      ]
+    },
+    "stage0057_04:r_9af213fc64e0afec": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0057_04:r_9af213fc64e0afec"
+      ],
+      "required_tokens": [
+        "$$イズモ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$イズモ$$"
+      ]
+    },
+    "stage0058_04:r_2113dcbabdfc758a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0058_04:r_2113dcbabdfc758a"
+      ],
+      "required_tokens": [
+        "$$ミーナ#120$$"
+      ],
+      "actual_tokens": [
+        "$$ミーナ#182$$"
+      ]
+    },
+    "stage0061_03:r_b591d812c96c6c99": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0061_03:r_b591d812c96c6c99"
+      ],
+      "required_tokens": [
+        "$$加持$$",
+        "$$スズネ$$"
+      ],
+      "actual_tokens": [
+        "$$加持$$"
+      ]
+    },
+    "stage0062_03:r_0d24e9726dcc79f9": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0062_03:r_0d24e9726dcc79f9"
+      ],
+      "required_tokens": [
+        "$$ニア$$",
+        "$$カミナ$$"
+      ],
+      "actual_tokens": [
+        "$$ニア$$",
+        "$$カミナシティ$$"
+      ]
+    },
+    "stage0062_04:r_99b162aa6aa286a2": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0062_04:r_99b162aa6aa286a2"
+      ],
+      "required_tokens": [
+        "$$キヨウ$$",
+        "$$カミナ$$"
+      ],
+      "actual_tokens": [
+        "$$キヨウ$$",
+        "$$カミナシティ$$"
+      ]
+    },
+    "stage0062_04:r_1c0f94acd5a8a143": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0062_04:r_1c0f94acd5a8a143"
+      ],
+      "required_tokens": [
+        "$$ギンブレー$$",
+        "$$宇宙魔王#pilot$$",
+        "$$カミナ$$"
+      ],
+      "actual_tokens": [
+        "$$ギンブレー$$",
+        "$$宇宙魔王#pilot$$",
+        "$$カミナシティ$$"
+      ]
+    },
+    "stage0062_04:r_38762a09460d8b6b": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0062_04:r_38762a09460d8b6b"
+      ],
+      "required_tokens": [
+        "$$タケル$$",
+        "$$宇宙魔王#pilot$$",
+        "$$カミナ$$"
+      ],
+      "actual_tokens": [
+        "$$タケル$$",
+        "$$宇宙魔王#pilot$$",
+        "$$カミナシティ$$"
+      ]
+    },
+    "stage0062_04:r_ec335e69f984b8b3": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0062_04:r_ec335e69f984b8b3"
+      ],
+      "required_tokens": [
+        "$$ギミー$$",
+        "$$キタン$$",
+        "$$カミナ$$"
+      ],
+      "actual_tokens": [
+        "$$ギミー$$",
+        "$$キタン$$",
+        "$$カミナシティ$$"
+      ]
+    },
+    "stage0062_04:r_ce1b55e526b6277a": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0062_04:r_ce1b55e526b6277a"
+      ],
+      "required_tokens": [
+        "$$キタン$$",
+        "$$カミナ$$"
+      ],
+      "actual_tokens": [
+        "$$キタン$$",
+        "$$カミナシティ$$"
+      ]
+    },
+    "stage0062_04:r_859dfa27bcaafe30": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0062_04:r_859dfa27bcaafe30"
+      ],
+      "required_tokens": [
+        "$$キタン$$",
+        "$$カミナ$$"
+      ],
+      "actual_tokens": [
+        "$$キタン$$",
+        "$$カミナシティ$$"
+      ]
+    },
+    "stage0067_03:r_95fda74613c97b39": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0067_03:r_95fda74613c97b39"
+      ],
+      "required_tokens": [
+        "$$グノー$$",
+        "$$マーティアル$$",
+        "$$マーティアル$$"
+      ],
+      "actual_tokens": [
+        "$$グノー$$",
+        "$$マーティアル$$"
+      ]
+    },
+    "stage0068b_04:r_6ccd85652ef4ccf1": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0068b_04:r_6ccd85652ef4ccf1"
+      ],
+      "required_tokens": [
+        "$$ゲイツ$$",
+        "$$ジン$$"
+      ],
+      "actual_tokens": [
+        "$$ゲイツ$$"
+      ]
+    },
+    "stage0069_04:r_c33bd700553abf91": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0069_04:r_c33bd700553abf91"
+      ],
+      "required_tokens": [
+        "$$ヒイロ$$",
+        "$$シャア・アズナブル$$",
+        "$$ゼロ$$"
+      ],
+      "actual_tokens": [
+        "$$ヒイロ$$",
+        "$$シャア・アズナブル$$"
+      ]
+    },
+    "stage0070_03:r_0a597f4cd9c8309b": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0070_03:r_0a597f4cd9c8309b"
+      ],
+      "required_tokens": [
+        "$$甲児$$"
+      ],
+      "actual_tokens": [
+        "$$甲児$$",
+        "$$安$$"
+      ]
+    },
+    "stage0070_04:r_9be1a4c10bb62515": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0070_04:r_9be1a4c10bb62515"
+      ],
+      "required_tokens": [
+        "$$ミーナ#120$$",
+        "$$ボン太くん#robot$$"
+      ],
+      "actual_tokens": [
+        "$$ミーナ#182$$",
+        "$$ボン太くん#robot$$"
+      ]
+    },
+    "stage0071_04:r_99b162aa6aa286a2": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0071_04:r_99b162aa6aa286a2"
+      ],
+      "required_tokens": [
+        "$$安$$"
+      ],
+      "actual_tokens": [
+        "$$安$$",
+        "$$安$$"
+      ]
+    },
+    "stage0071_04:r_817b2773b4ed563e": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0071_04:r_817b2773b4ed563e"
+      ],
+      "required_tokens": [
+        "$$ミーナ#120$$",
+        "$$ボン太くん#robot$$"
+      ],
+      "actual_tokens": [
+        "$$ミーナ#182$$",
+        "$$ボン太くん#robot$$"
+      ]
+    },
+    "stage0072_04:r_e51ecf6d6aa42e75": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0072_04:r_e51ecf6d6aa42e75"
+      ],
+      "required_tokens": [
+        "$$ＷＩＬＬ$$",
+        "$$ＭＩＸ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ＷＩＬＬ$$",
+        "$$ＭＩＸ$$"
+      ]
+    },
+    "stage0073_04:r_63249745ffae61b6": {
+      "previous_status": "reviewed",
+      "issues": [
+        "Placeholder/glossary-token mismatch: stage0073_04:r_63249745ffae61b6"
+      ],
+      "required_tokens": [
+        "$$ミカゲ$$",
+        "$$イズモ$$",
+        "$$レア・イグラー$$"
+      ],
+      "actual_tokens": [
+        "$$ミカゲ$$",
+        "$$イズモ$$"
+      ]
+    }
+  }
+}

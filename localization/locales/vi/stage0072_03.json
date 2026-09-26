@@ -1,0 +1,986 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0072_03:r_caaab7bad760e16d": {
+      "text": "Phòng của $$シャア$$",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_99b162aa6aa286a2": {
+      "text": "Phòng của $$シャア$$",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_58fb02434a1c40b2": {
+      "text": "Phòng của $$シャア$$",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　\n　～ Phòng riêng của $$シャア・アズナブル$$ ～",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_1263541f4071624e": {
+      "text": "$$シャア$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_3bc300bbdc277d82": {
+      "text": "$$リリーナ$$\n「Dù thế nào ông cũng không định chấm dứt chiến tranh sao?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_38762a09460d8b6b": {
+      "text": "$$シャア$$\n「Về việc đó, tôi đã nói hết lời rồi.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_7ab28e70b4d4f641": {
+      "text": "$$リリーナ$$\n「Thỏa thuận đình chiến với $c\n　chẳng phải bước đầu hướng tới ngừng chiến sao?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$シャア$$\n「Đó chỉ là để tìm kiếm điểm kỳ dị.\n　Họ cũng đã chấp thuận điều ấy.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_ec335e69f984b8b3": {
+      "text": "$$リリーナ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_0abcaf0c31978670": {
+      "text": "$$シャア$$\n「Ngay cả tôi cũng hiểu $$エタニティ・フラット$$\n　là trở ngại mà toàn nhân loại phải cùng đối mặt.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_1d6bc48b7f246730": {
+      "text": "$$シャア$$\n「Vì thế tôi cũng tích cực trao đổi thông tin\n　với tiến sĩ $$トライア$$, chuyên gia hàng đầu\n　về vật lý siêu thời không.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_1af20fccc3c53cfc": {
+      "text": "$$リリーナ$$\n「Tôi cho rằng chiến tranh cũng là vấn đề\n　mà toàn nhân loại phải cùng đối mặt.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_f951916061232dcd": {
+      "text": "$$シャア$$\n「Thứ trưởng Ngoại giao Darlian...\n　Tôi đánh giá cao lý tưởng của cô.\n　Nhưng tôi đang nhìn thẳng vào thực tế.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_4d863c3fb88a4c39": {
+      "text": "$$リリーナ$$\n「Ý ông là... sự tồn tại của Chrono.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_44f4742c3dcce39a": {
+      "text": "$$シャア$$\n「Đúng vậy.\n　Thế giới này bị thao túng từ trong bóng tối bởi một tổ chức\n　mà ngay cả phía cô cũng chưa nắm rõ toàn bộ.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_9e701cdeb3842c21": {
+      "text": "$$シャア$$\n「Và mũi nhọn của chúng đang chĩa vào Spacenoid.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_6fd81f4abebe60c5": {
+      "text": "$$リリーナ$$\n「Ông phát động cuộc chiến này\n　để tiêu diệt Chrono sao?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_da2132b5038ec737": {
+      "text": "$$シャア$$\n「Tôi sẽ không làm thế chỉ để đánh vào\n　một cá nhân... hay một nhóm cụ thể nào đó.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_495d61d3ec7e16f2": {
+      "text": "$$シャア$$\n「Tôi... định nhìn xa hơn thế.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_5cd353758cfe474d": {
+      "text": "$$リリーナ$$\n「Xa hơn...?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_a653c8dec4c0f06f": {
+      "text": "$$シャア$$\n「Đúng vậy.\n　Tôi muốn mở đường cho nhân loại tiến về phía trước.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_86d493e37a9799a7": {
+      "text": "$$リリーナ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_09d0fcc600cdd3df": {
+      "text": "$$シャア$$\n「Tôi không định dùng lý tưởng trừu tượng để đánh lạc hướng cô.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_182faded068c15ed": {
+      "text": "$$シャア$$\n「Cảm ơn cô, Thứ trưởng Ngoại giao Darlian.\n　Dù không chính thức, cơ hội trao đổi thế này\n　cũng rất có ý nghĩa đối với tôi.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_9c206d19bfda4bd5": {
+      "text": "$$リリーナ$$\n「$$シャア・アズナブル$$... ông...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_6e558bc69acf5bf3": {
+      "text": "$$シャア$$\n「Cô định cười tôi là cái đuôi của $$トレーズ$$ sao?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_d60d0818e965232f": {
+      "text": "$$リリーナ$$\n「Không...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_5b23687574286204": {
+      "text": "$$リリーナ$$\n「Nhưng tôi không thể chấp nhận\n　việc ông chọn chiến tranh làm phương tiện.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_6fd86c96891ea942": {
+      "text": "$$シャア$$\n「Như vậy là được...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_43e4e548c0b28376": {
+      "text": "$$シャア$$\n「Người mà $$トレーズ$$ gửi gắm tương lai không phải tôi.\n　Mà là các cô cậu đấy.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_d80a9688790ed583": {
+      "text": "$$リリーナ$$\n「...Ông cũng muốn trở thành kẻ chiến bại sao?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_708bea61e3c43ada": {
+      "text": "$$シャア$$\n「Không phải vậy.\n　Tôi định giành lấy tương lai.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_7b6f159eeaf4de0f": {
+      "text": "$$シャア$$\n（Đúng thế...\n　Có vẻ đó là vai trò của mình...）",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_0827963cfd706e8d": {
+      "text": "Quán bar",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_ff6f8bdca2dd2bc9": {
+      "text": "Quán bar",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_3f4035fd9db81258": {
+      "text": "Quán bar",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_567b361a454c4b73": {
+      "text": "　\n　\n　～ Thành phố Paradigm, quán bar 'SPEAK EASY' ～",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_d22851aaafbbf8fc": {
+      "text": "$$アンナロッタ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_352534f64413d954": {
+      "text": "$$ガドライト$$\n「Định tiếp xúc với kẻ địch để tăng thêm cơn giận,\n　vậy mà lại đồng cảm với chúng rồi quay về...\n　Em đang làm gì thế, $$アンナロッタ$$...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_79f2664edb1af798": {
+      "text": "$$ガドライト$$\n「Muốn khuây khỏa thì cứ đi chỗ nào\n　chẳng liên quan đến chúng là được mà...\n　Thôi... tự làm tự chịu nhé.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$アンナロッタ$$\n「...Im đi...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_1c5aa0d15ae24846": {
+      "text": "$$ガドライト$$\n「Về phòng mình đi.\n　Em cũng biết tìm anh để được an ủi\n　là tìm nhầm người rồi mà, đúng không?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_53bb64ee17750ee2": {
+      "text": "$$アンナロッタ$$\n「...Cho tôi một ly với.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_7a7add80fde475ba": {
+      "text": "$$ガドライト$$\n「Không được đâu.\n　Vả lại, trốn vào rượu chẳng giống em chút nào.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_b2befefdbed1393d": {
+      "text": "$$アンナロッタ$$\n「Nói vậy thì anh thế nào đây...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_2103f6df2ea2e447": {
+      "text": "$$ガドライト$$\n「Anh nói rồi mà?\n　Anh chỉ uống vì thích thôi.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_a12e3e130d896ff7": {
+      "text": "$$ガドライト$$\n「Ranh giới giữa giận dữ và buông xuôi hòa tan trong ly này...\n　Đó là cuộc đời anh đấy.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_b6f7b219eb4bd64b": {
+      "text": "$$アンナロッタ$$\n「Đó là... điểm giống với\n　$F sao...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_91bf33c27ad39f0a": {
+      "text": "$$ガドライト$$\n「Vậy là em đã gặp cậu nhóc lái bản sao đó rồi nhỉ...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_ee220318b96ab538": {
+      "text": "$$アンナロッタ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_ce1b55e526b6277a": {
+      "text": "$$ガドライト$$\n「Đừng nhìn hoàn cảnh hành tinh này\n　rồi liên tưởng đến hành tinh Geminai nữa.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_c304df6888eb78f7": {
+      "text": "$$アンナロッタ$$\n「Nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_c26958634526e597": {
+      "text": "$$ガドライト$$\n「Mà thôi, cũng được.\n　Chúng không có cách nào phá được nhà tù thời gian...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_cdb750c9d380881a": {
+      "text": "$$ガドライト$$\n「Ngày 11 tháng 11 theo lịch của hành tinh này...\n　Nhà tù thời gian sẽ hoàn tất,\n　và thiên đường vĩnh hằng sẽ được hoàn thành.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_95fda74613c97b39": {
+      "text": "$$アンナロッタ$$\n「Tôi không thể coi thứ đó là lòng từ bi...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_1956994937f8171e": {
+      "text": "$$ガドライト$$\n「Đúng thế nhỉ～.\n　Chính vì vậy chúng ta mới hành động mà.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_48f49f6728c15612": {
+      "text": "$$アンナロッタ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ガドライト$$\n「Muốn rút khỏi chiến dịch không?\n　Cơ thể em đâu còn chỉ của riêng em nữa...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_f02c37d91387d0ad": {
+      "text": "$$アンナロッタ$$\n「$$ガドライト$$...!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$ガドライト$$\n「Đùa thôi.\n　Anh cũng biết tính em mà.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_9796b3efa401a303": {
+      "text": "$$ガドライト$$\n「Chết dần chết mòn thật tàn nhẫn.\n　Vậy thì cho chúng một kết cục dứt khoát\n　có lẽ còn khá hơn.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_643b6eebfc0186b3": {
+      "text": "$$ガドライト$$\n「Lòng từ bi của thần thánh gì chứ, dẹp mẹ đi.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_291280e5f7eb9d70": {
+      "text": "$$アンナロッタ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_32eb462c1b4999cb": {
+      "text": "$$ガドライト$$\n「Có điều, trước đó hung tinh sẽ phủ kín bầu trời...\n　Khi ấy, con người hẳn sẽ tuyệt vọng\n　trước sự bất lực của chính mình.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_1f4337d6d393fc37": {
+      "text": "$$ガドライト$$\n「Nào... nâng ly vì thần và ác quỷ!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_4740e748fae085ee": {
+      "text": "Chiến hạm của $$宇宙魔王#pilot$$",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_b76524cd840e1d37": {
+      "text": "Chiến hạm của $$宇宙魔王#pilot$$",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_730ffe18400abfc2": {
+      "text": "Chiến hạm của $$宇宙魔王#pilot$$",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_ffe0fca26da5cd38": {
+      "text": "　\n　\n　　～ $$巨大円盤$$, đài chỉ huy ～",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_bfb27f9eb2f7073e": {
+      "text": "$$グーラ$$\n「...Vậy là thời khắc ấy...?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_859dfa27bcaafe30": {
+      "text": "$$宇宙魔王#pilot$$\n「Đúng vậy, $$グーラ$$.\n　Hung tinh sắp phủ kín bầu trời rồi.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_71ebf05996a4b0fd": {
+      "text": "$$宇宙魔王#pilot$$\n「Khi ấy, người Trái Đất sẽ biết thế nào là tuyệt vọng thật sự.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_6214c11b1bca811e": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_8eaf6f3098ffed12": {
+      "text": "$$宇宙魔王#pilot$$\n「Con không phục sao?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_cf507214fe955d75": {
+      "text": "$$グーラ$$\n「Vâng.\n　Con đã quyết giành lấy Trái Đất bằng chính sức mình.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_2113dcbabdfc758a": {
+      "text": "$$グーラ$$\n「Dù những kẻ phụ vương nói đến có sức mạnh lớn đến đâu,\n　con cũng không thể để chúng muốn làm gì thì làm.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$宇宙魔王#pilot$$\n「Vậy hãy nhanh lên, $$グーラ$$.\n　Cho ta thấy sức mạnh của con trước khi thời khắc ấy tới.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_6a74519e1fc29c4b": {
+      "text": "$$グーラ$$\n「Con đã rõ.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_5b992878fee054b5": {
+      "text": "$$宇宙魔王#pilot$$\n「Ta trông đợi ở con đấy, con trai của ta.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$グーラ$$\n「...Kẻ mà ngay cả phụ vương cũng phải nể sao...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_4a14ec0c511c7f0d": {
+      "text": "$$ロビー$$\n「Suy cho cùng, người Trái Đất chỉ là sinh vật hạ đẳng...\n　Không vượt qua được thời đại Mặt Trời thì họ\n　chẳng thể nào đạt tới cảnh giới của $$宇宙魔王#pilot$$ hay những kẻ đó.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_20cf167c0ec0d4d5": {
+      "text": "$$グーラ$$\n「Rồi một ngày nào đó, ta cũng sẽ tới đó sao...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_b591d812c96c6c99": {
+      "text": "$$ロビー$$\n「Vốn dĩ, có lẽ đó là đích đến của mọi sinh vật có trí tuệ.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_e350fa099c1ab072": {
+      "text": "$$グーラ$$\n「...Báo với $$ダンカン$$.\n　Ta sẽ điều động toàn bộ binh lực của mình.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$ロビー$$\n「Tuân lệnh.\n　Cuối cùng cũng tổng tấn công rồi.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_c33bd700553abf91": {
+      "text": "$$グーラ$$\n（Cứ đợi đấy, $$正太郎$$.\n　Ta sẽ phân thắng bại với ngươi\n　trước khi có kẻ thừa thãi xen vào.）",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_feee5c91826230e1": {
+      "text": "Phòng sinh hoạt",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_bccc48e1964ad22d": {
+      "text": "Phòng sinh hoạt",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_f8736aaaa216c766": {
+      "text": "Phòng sinh hoạt",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_d1ec2522c87c361d": {
+      "text": "　\n　\n　～ Phòng sinh hoạt, chi nhánh Viễn Đông quân Liên bang ～",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_3599f0a4343fd95c": {
+      "text": "$$正太郎$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_3bc7834a5bf3ee76": {
+      "text": "$$ワッ太$$\n「Này, $$正太郎$$...\n　Về bài tập toán hôm nay ấy...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_366814efdc8b5800": {
+      "text": "$$正太郎$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_9be1a4c10bb62515": {
+      "text": "$$ワッ太$$\n「Cậu có nghe không đấy?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_94a88c90e557e16e": {
+      "text": "$$正太郎$$\n「À... xin lỗi nhé, $$ワッ太$$.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_1c208ca0cbf26f28": {
+      "text": "$$ワッ太$$\n「Để mình đoán nhé.\n　Cậu lại nghĩ về $$グーラ$$ phải không?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_5b7ee307a700171a": {
+      "text": "$$正太郎$$\n「Ừ...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_8d8f065c932da30a": {
+      "text": "$$ワッ太$$\n「Cậu ấy không ở đây thì cứ nghĩ cũng có ích gì đâu.\n　Nào... làm bài tập thôi.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_f5432119677514f7": {
+      "text": "$$柿小路$$\n「Với chủ tịch thì chẳng phải chỉ là\n　chép bài tập của cậu $$正太郎$$ thôi sao?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_4e5c8e989c4a7691": {
+      "text": "$$ワッ太$$\n「Ủa, bị lộ rồi à?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_adec86483b13599a": {
+      "text": "$$郁絵$$\n「Không tự làm bài cho đàng hoàng\n　thì khỏi ăn quà chiều nhé.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_2cf701bbcde3ec13": {
+      "text": "$$ワッ太$$\n「Mà hôm nay có món gì thế?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_c17c58fdba72005e": {
+      "text": "$$郁絵$$\n「Bánh Mont Blanc mà $$正太郎$$ thích nhất đấy.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_1fe8564d2b959317": {
+      "text": "$$正太郎$$\n「Em cảm ơn chị ạ.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_f527e012803f7f1c": {
+      "text": "$$ワッ太$$\n「Biết thế thì mình có động lực hẳn rồi.\n　Chờ ta nhé, Mont Blanc yêu quý!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_4b1247bd3ca4905d": {
+      "text": "$$タケル$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_00c55e25f87b71d0": {
+      "text": "$$ガムリン$$\n「Sao thế, $$タケル$$?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_338f3b27e51dcc41": {
+      "text": "$$タケル$$\n「Nhìn $$正太郎$$, tôi lại nhớ chuyện của mình với $$マーグ#pilot$$...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_d91d4bc2d52b61c4": {
+      "text": "$$ミレーヌ$$\n「$$マーグ#pilot$$ là anh trai của anh $$タケル$$ nhỉ?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_0c8ea89b07432421": {
+      "text": "$$ロゼ$$\n「Đúng vậy.\n　Anh ấy là người dịu dàng và mạnh mẽ.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_4dbfba00ba7744ee": {
+      "text": "$$タケル$$\n「$$マーグ#pilot$$ bị hoàng đế $$ズール$$ khống chế tâm trí,\n　chiến đấu như kẻ thù của chúng tôi, rồi...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_be100a32b731708d": {
+      "text": "$$ガムリン$$\n「Ra là vậy...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_702f82442fcec8a9": {
+      "text": "$$ミレーヌ$$\n「Bọn em... chỉ biết anh trai anh đã qua đời thôi...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_b1e38da4e8775ffe": {
+      "text": "$$タケル$$\n「Đừng buồn như thế, $$ミレーヌ$$.\n　$$マーグ#pilot$$ vẫn sống mãi trong lòng anh và $$ロゼ$$ mà.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$タケル$$\n「Nhưng tôi không muốn $$正太郎$$ và $$グーラ$$\n　phải lặp lại nỗi đau mà tôi và $$マーグ#pilot$$ đã nếm trải.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$ガムリン$$\n「Nhưng khó lắm...\n　Hoàng tử $$グーラ$$ đã bị cha mình, $$宇宙魔王#pilot$$,\n　khắc sâu sứ mệnh chinh phục Trái Đất vào tâm trí.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_3dad695c99e9e052": {
+      "text": "$$ミレーヌ$$\n「Cha mẹ ép con cái phải sống theo ý mình\n　thì theo một nghĩa nào đó cũng là khống chế tâm trí nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_66d4ae3a21caf881": {
+      "text": "$$サザンカ$$\n「Nói thế có ổn không đây～」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_0c18da7b3a37825d": {
+      "text": "$$ミレーヌ$$\n「C-cái gì hả, $$サザンカ$$...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_63249745ffae61b6": {
+      "text": "$$ユノハ$$\n「Chị $$ミレーヌ$$ quen đại úy $$ガムリン$$\n　trong buổi xem mắt do mẹ chị sắp xếp, đúng không ạ?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_abdb034ae8509702": {
+      "text": "$$ミレーヌ$$\n「Sao cậu biết chuyện đó!?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_3ff2e21207d1d1d3": {
+      "text": "$$ミコノ$$\n「Đội trưởng $$オズマ$$ kể cho bọn mình nghe mà.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_e51ecf6d6aa42e75": {
+      "text": "$$アマタ$$\n「Anh ấy còn kể bao nhiêu tin đồn với giai thoại\n　về Fire Bomber, nghe đến phát ngán luôn.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_47ddabb7b60131c2": {
+      "text": "$$ミレーヌ$$\n「Ưưư...!\n　Dù là fan thì cũng đâu được moi cả đời tư người ta ra!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_b025267f22788233": {
+      "text": "$$ガムリン$$\n「Có sao đâu, cô $$ミレーヌ$$.\n　Dù gì đó cũng đúng là cách chúng ta quen nhau mà.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_ec1a06a7023bf72c": {
+      "text": "$$ロゼ$$\n「Vậy là nghe lời cha mẹ không phải lúc nào cũng xấu nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_8805f96e52aaa462": {
+      "text": "$$タケル$$\n「Đúng vậy.\n　Tôi được cha mẹ trên Trái Đất nuôi nấng,\n　dạy cho biết yêu thương con người quan trọng thế nào.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_124591cb154fae64": {
+      "text": "$$アマタ$$\n「Yêu thương con người...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$ミコノ$$\n「Quan trọng thế nào...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_4bf9b05b5f948170": {
+      "text": "$$タケル$$\n「Hai người sao thế?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_eaa52d152f444bfd": {
+      "text": "$$シュレード$$\n「Có thể thản nhiên nói ra những lời như thế\n　chính là điểm mạnh của cậu đấy, $$タケル$$.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_b4bc9e9435b58e6f": {
+      "text": "$$タケル$$\n「Cảm ơn cậu, $$シュレード$$.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_a9227573166977a9": {
+      "text": "$$ガムリン$$\n（Thật điềm tĩnh...\n　Mình phải học hỏi mới được.）",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_b0600ab9a9e8559d": {
+      "text": "$$アンディ$$\n「Vấn đề là $$グーラ$$.\n　Cậu ta cứ răm rắp nghe lời ông già mình như thế\n　thì đời nào chịu nghe $$正太郎$$.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_7cbc63dad295f862": {
+      "text": "$$カイエン$$\n「Tôi nghĩ có thuyết phục thêm nữa cũng vô ích thôi...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_07f53c816e0a51f5": {
+      "text": "$$バサラ$$\n「Vô ích... à?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_2d09c6f6a2d990ea": {
+      "text": "$$カイエン$$\n「Có gì buồn cười?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_3c5fcfc484a51913": {
+      "text": "$$バサラ$$\n「Một khi đã bỏ cuộc thì mọi chuyện chấm dứt ở đó.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_0476ffd10c764b0e": {
+      "text": "$$カイエン$$\n「Cái tên đó bị sao vậy...!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$ガムリン$$\n「Đừng giận thế, $$カイエン$$.\n　$$バサラ$$ đang động viên theo cách của mình thôi.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_2b3479c4cf0680f4": {
+      "text": "$$カイエン$$\n「Dù vậy, nói kiểu đó\n　thì tôi cũng không chấp nhận được đâu.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_e370696b8936b08c": {
+      "text": "$$レイ#168$$\n「Để tôi thay cậu ấy xin lỗi chuyện đó.\n　...Cậu ấy là ca sĩ mà.\n　Ngoài ca hát ra thì vụng về trong việc bày tỏ cảm xúc lắm.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_9d7b02c5e728b7aa": {
+      "text": "$$タケル$$\n「Bỏ cuộc thì mọi chuyện chấm dứt ở đó sao...\n　Nhưng điều anh ấy nói là sự thật.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_9af213fc64e0afec": {
+      "text": "$$アンディ$$\n「Nhưng nói cách khác thì đó cũng chỉ là lý lẽ suông.\n　Mấy lời như thế không khoét nổi lỗ nào\n　trong trái tim tôi đâu.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_d7f1c506e78e55ff": {
+      "text": "$$レイ#168$$\n「Đúng thế.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_0c705091f748360e": {
+      "text": "$$ミレーヌ$$\n「Sao anh thản nhiên thế?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_9eb8599304125b2f": {
+      "text": "$$レイ#168$$\n「Chúng ta biết rõ hơn ai hết\n　rằng cậu ấy chẳng bao giờ bỏ cuộc mà, đúng không?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_a072aa25e5f521e0": {
+      "text": "$$ガムリン$$\n「Đúng vậy.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_24e1a808a1609a1a": {
+      "text": "$$ミレーヌ$$\n「Đồng ý!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_53128ce8f154fd06": {
+      "text": "$$アンディ$$\n「Đừng chỉ có người trong cuộc hào hứng với nhau thế,\n　chiều fan thêm chút đi chứ!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_03b5db9ce98fb8d6": {
+      "text": "$$レイ#168$$\n「Vậy tôi sẽ kể một giai thoại\n　mà ngay cả thiếu tá $$オズマ$$ cũng chưa biết.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_3915fb4102f1c1dd": {
+      "text": "$$レイ#168$$\n「$$バサラ$$ từng định dùng tiếng hát để dời núi đấy.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_817b2773b4ed563e": {
+      "text": "$$タケル$$\n「Hả...!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_1cc233cbc8c80af7": {
+      "text": "$$ユノハ$$\n「Dùng tiếng hát dời núi ư...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$$シュレード$$\n「Ra vậy...\n　Đúng là một giai thoại rất giống anh ấy.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_e180b22d18f48d38": {
+      "text": "$$カイエン$$\n「Anh ấy thực sự làm được chuyện đó sao?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_e598c2a0b27e7f50": {
+      "text": "$$レイ#168$$\n「...Ai biết được.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_4d2a9066c4e7b27f": {
+      "text": "$$サザンカ$$\n「Thế là sao chứ!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_10340119af3ed6db": {
+      "text": "$$アンディ$$\n「Rốt cuộc là không làm được chứ gì!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_23a9c7ab620ab112": {
+      "text": "$$レイ#168$$\n「Tôi cũng không rõ sự thật.\n　Nhưng đã có vô số con người và sự vật\n　được lay chuyển bởi tiếng hát của $$バサラ$$.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_4f0aca6deda07883": {
+      "text": "$$レイ#168$$\n「Tất nhiên, tôi cũng là một trong số đó.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_8fe40600ce62dfbc": {
+      "text": "$$タケル$$\n「Cảm giác ấy... tôi hiểu.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_ff4ce5f3cf96b617": {
+      "text": "$$モロイ$$\n「Có chuyện rồi, mọi người!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_d73c21f119847e35": {
+      "text": "$$正太郎$$\n「Có chuyện gì vậy, anh $$モロイ$$!?\n　Kẻ địch sao!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_89766f5ffaa912d4": {
+      "text": "$$ワッ太$$\n「Tha cho em đi!\n　Em còn chưa làm xong bài tập, cũng chưa được ăn quà nữa!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$モロイ$$\n「Giờ còn nói chuyện đó sao!\n　Đại quân của $$宇宙魔王#pilot$$ đang tiến về Odaiba đấy!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_451f726d4299ea35": {
+      "text": "$$タケル$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_e3d111e8bb190cb1": {
+      "text": "$$正太郎$$\n「$$グーラ$$...\n　Cậu đang tới sao...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_7c0d3c51f9a11ca0": {
+      "text": "$$巨大円盤$$",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_ab97c2b2418ea732": {
+      "text": "$$巨大円盤$$",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_2ddff5064af78db4": {
+      "text": "$$巨大円盤$$",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_050d0532c4b24bfe": {
+      "text": "　\n　\n　　～ $$巨大円盤$$, đài chỉ huy ～",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_d583fcea31bdad2e": {
+      "text": "$$ロビー$$\n「Mừng điện hạ $$グーラ$$ trở về.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_475f7653621a91b5": {
+      "text": "$$グーラ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_f228ae702350849b": {
+      "text": "$$ロビー$$\n「Chuyện lần này thật đáng tiếc.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_d69dc027cba3003f": {
+      "text": "$$グーラ$$\n「Nhân loại đã tự chọn con đường tuyệt vọng...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_3c3735172a480b72": {
+      "text": "$$ロビー$$\n「Đã đến nước này, chúng ta hãy ở đây\n　chứng kiến giờ phút cuối của người Trái Đất.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_1f418b5594cea300": {
+      "text": "$$グーラ$$\n「Thần và ác quỷ...\n　Hành tinh ấy lại sắp thành chiến trường sao...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_f87fb889124bfaef": {
+      "text": "Bầu trời đêm",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_79c90de32a79212d": {
+      "text": "Bầu trời đêm",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_33f7fd55913419e8": {
+      "text": "Bầu trời đêm",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_473d9a88b4ca96e7": {
+      "text": "$$あしゅら$$\n「Hỡi những vì sao phủ kín bầu trời...!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_4de6ac85c63bac12": {
+      "text": "$$あしゅら$$\n「Hỡi những vì sao được gọi là hung tinh...!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_4c92652c9b1adf6f": {
+      "text": "$$あしゅら$$\n「Cho chúng ta...!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_ce90563a934d49fb": {
+      "text": "$$あしゅら$$\n「Cho Mycenae...!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_4fb296e63cb1fb46": {
+      "text": "$$あしゅら$$\n「Hãy ban phước lành!!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_6d77e72dbbcd7dfe": {
+      "text": "$$あしゅら$$\n「Cuối cùng thời khắc này đã tới...!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_9dc59affd40f32fc": {
+      "text": "$$あしゅら$$\n「Hỡi những kẻ từ quá khứ xa xăm...!\n　Đã mơ về thời khắc này,\n　khi vòng luân hồi 12.000 năm khép lại!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_0cea115be526a319": {
+      "text": "$$あしゅら$$\n「Thời cơ đã chín muồi!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_d36072babd12aeb4": {
+      "text": "$$あしゅら$$\n「Giờ chỉ còn...!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_09ee921a85025fd3": {
+      "text": "$$あしゅら$$\n「Giờ chỉ còn...!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_fae689f2a1057b61": {
+      "text": "$$あしゅら$$\n「$$兜甲児$$!\n　Ta sẽ cùng ngươi đón giờ phút cuối cùng!!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_91c6d0bb53854ecc": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_42a3149105314ab8": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_62ecd978c667bd29": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_d441e6cc908ac01b": {
+      "text": "$$ＡＧ$$\n「Cô M-y-l-e-n-e ơi.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_b2aab8873350ea1f": {
+      "text": "$$ミレーヌ$$\n「C-cái gì hả, $$ＡＧ$$...\n　Sao lại nói cái giọng ghê thế...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_2c7af4c55d8ac938": {
+      "text": "$$ＡＧ$$\n「Cô $$ミレーヌ$$ đúng là người phụ nữ làm khổ trái tim kẻ khác nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_653b741d07545dff": {
+      "text": "$$ミレーヌ$$\n「Giờ mới nhận ra vẻ đẹp của tôi à?\n　Hay là giọng hát thiên thần?\n　Hay sức hút từ đường nét yêu kiều này?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_d584d4b5af55b1cf": {
+      "text": "$$ＡＧ$$\n「Không, không...\n　Tôi nói chuyện tình tay ba của cô\n　với anh $$バサラ$$ và anh $$ガムリン$$ cơ.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_db0ee69ece206fcd": {
+      "text": "$$ミレーヌ$$\n「Ch-chuyện đó thì tôi còn đang suy nghĩ nhiều thứ mà!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_f97e6925c9e37332": {
+      "text": "$$ＡＧ$$\n「Nhưng cô $$ミレーヌ$$ này...\n　Ở đời còn có chuyện gọi là\n　mùa xuân kéo dài quá lâu nữa đấy...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_422861e0b8d77d0c": {
+      "text": "$$ミレーヌ$$\n「Là sao?\n　Có liên quan tới $$エタニティ・フラット$$ à?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_ef16bcaa2b0e0c45": {
+      "text": "$$ＡＧ$$\n「Không phải vậy. Đó là khi một đôi nam nữ có tình ý,\n　cứ kéo dài mãi mà chẳng tiến tới bước quyết định,\n　rồi cuối cùng cũng không đến được với nhau.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_2b93cca10f1c36a8": {
+      "text": "$$ミレーヌ$$\n「Ch-chuyện đó... thì liên quan gì tới tôi?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_7980fd37141d88d0": {
+      "text": "$$ＡＧ$$\n「Cô chưa nhận ra sao?\n　Là chuyện anh $$ガムリン$$ đấy.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_ac21212c36d2b9ad": {
+      "text": "$$ミレーヌ$$\n「Hả...!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_a26e2108358af7a4": {
+      "text": "$$ＡＧ$$\n「Anh $$ガムリン$$... dạo này chẳng phải\n　đã để tâm tới người khác rồi sao?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_a8118b2e37aa1382": {
+      "text": "$$ミレーヌ$$\n「Hả... hả... là sức hút trưởng thành của trung úy $$エマ$$?\n　Hay chị $$ヨーコ$$ với vóc dáng đẹp?\n　Hay chị $$入江$$ bí ẩn của $$２１世紀警備保障$$?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_017a56991b7b8ca4": {
+      "text": "$$ミレーヌ$$\n「Hay là thiếu úy $$ミヒロ$$ nhỏ nhắn, đầy đặn?\n　À... hay bỗng thích người lớn tuổi hơn như chị $$スメラギ$$?\n　Hay gu lạ như $$Ｃ．Ｃ．$$ hoặc $$モーム$$...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_ad3e1db3419665fb": {
+      "text": "$$ＡＧ$$\n「Cô chẳng hiểu gì cả.\n　Người đó là anh $$バサラ$$ đấy.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_0149e3a5f2e5ef78": {
+      "text": "$$ミレーヌ$$\n「!!!!!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_3ad10e705167a3fa": {
+      "text": "$$ＡＧ$$\n「Lúc phối hợp thành công hôm nay,\n　anh $$ガムリン$$ cũng phấn chấn đến mức\n　tạo ra lượng Chip Z trị giá 50 Z.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_bdc546b199c80996": {
+      "text": "$$ＡＧ$$\n「À, tất nhiên tôi đã thêm số đó\n　vào kho dự trữ của đội rồi.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_22c8caf8c08c5119": {
+      "text": "$$ミレーヌ$$\n「Sao lại... anh $$ガムリン$$...\n　Chỉ vì mình chưa trả lời anh ấy rõ ràng mà...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_9c13714b3efbc7a8": {
+      "text": "$$ＡＧ$$\n「Muốn biết chi tiết hơn nữa,\n　xin cô hãy hỏi người này.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_96f156e19b53fc09": {
+      "text": "$$サザンカ$$\n「бббб」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_feb0390bba7fe1fb": {
+      "text": "$$ミレーヌ$$\n「SAZANKAAAAAA!!\n　Lại là trò hoang tưởng của cậuuuuuu sao!!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_8a78bcec22029401": {
+      "text": "$$ＡＧ$$\n（Dù vậy, cặp $$バサラ$$ × $$ガムリン$$\n　cũng từng lên báo Gin-Spo rồi.）",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_f42017dfce31dea9": {
+      "text": "$$ＡＧ$$\n（Một ngày nào đó, cô phải trả lời cho rõ ràng đấy,\n　cô $$ミレーヌ$$...）",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_ef7426919f628d8a": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_9e994a4b926d9906": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_ffae76d2a77abf5a": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_3ac462d37e5893ff": {
+      "text": "　\n　\n　　　～ D-Trader ～",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_fd6bdf7910d7d925": {
+      "text": "$$ＡＧ$$\n「Vất vả rồi, anh $$ガムリン$$, anh $$レイ#168$$.\n　Lần này hai anh đã lập công lớn nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_d38be46e6cd7a5e5": {
+      "text": "$$レイ#168$$\n「Cậu nên nói điều đó với $$バサラ$$ chứ?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_3fe2078328753c16": {
+      "text": "$$ガムリン$$\n「Đúng vậy.\n　Có thể nói tiếng hát của $$バサラ$$\n　đã đuổi tên $$ミカゲ$$ đó đi mà.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_c66844158d1ce600": {
+      "text": "$$ＡＧ$$\n「Không, không...\n　Đó là nhờ hai anh luôn hỗ trợ anh $$バサラ$$ đấy.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_d037ecbc1e348dc9": {
+      "text": "$$ＡＧ$$\n「Tôi vẫn luôn nể phục sự hỗ trợ tận tâm của hai anh.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_bcd53d14c4785426": {
+      "text": "$$レイ#168$$\n「Người âm thầm góp sức lại được chú ý thế này...\n　Thấy hơi ngượng thật.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_9ca55ea7feca954a": {
+      "text": "$$ガムリン$$\n「Có sao đâu.\n　Thỉnh thoảng như thế cũng tốt mà.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_554ae12c4c170253": {
+      "text": "$$オズマ$$\n「Khoan đã!\n　Nếu nói chuyện hỗ trợ $$バサラ$$\n　thì đừng quên tôi chứ!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_fa59c6df081e6ae4": {
+      "text": "$$ＡＧ$$\n「Anh $$オズマ$$... tự mình nói chuyện đó ra\n　thì hơi kém duyên đấy.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_ca3edf3b8b52aedf": {
+      "text": "$$オズマ$$\n「Không! Nhân cơ hội này cho tôi nói luôn!\n　Lần nào tôi cũng phải viết bản kiểm điểm để xin lỗi các bên\n　vì những màn trình diễn của $$バサラ$$ trên chiến trường đấy!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_aa5d235c78ebe19f": {
+      "text": "$$レイ#168$$\n「Thật sao, thiếu tá!?」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_0b3b19cddb871f90": {
+      "text": "$$ガムリン$$\n「Không ngờ anh đã làm những việc như vậy...」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_304e98dac43c9333": {
+      "text": "$$オズマ$$\n「Nhưng đừng nói chuyện này với $$バサラ$$.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_b740d817a14afd3a": {
+      "text": "$$オズマ$$\n「Tôi không muốn tiếng hát của cậu ấy\n　phải mang thêm những ràng buộc không cần thiết.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_40e4c010d1b35b4c": {
+      "text": "$$ガムリン$$\n「Tôi hiểu rồi, thiếu tá.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_c33abf00683a32bc": {
+      "text": "$$レイ#168$$\n「Cảm ơn sự quan tâm và hỗ trợ của anh, thiếu tá.」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_3036adce91d1f4a8": {
+      "text": "$$ＡＧ$$\n「Vậy hôm nay xin nhường lại\n　cho ba người đàn ông luôn hỗ trợ anh $$熱気バサラ$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_019293cb83599509": {
+      "text": "$$ガムリン$$\n「Hôm nay cũng hết mình nào～!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_9b949b9281aaeef1": {
+      "text": "$$レイ#168$$\n「Buôn bán, buôn bán nào!」",
+      "status": "reviewed"
+    },
+    "stage0072_03:r_b39a1dd705fe6cbf": {
+      "text": "$$オズマ$$\n「Bùng cháy hết cỡ!!」",
+      "status": "reviewed"
+    }
+  }
+}

@@ -1,0 +1,626 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0063_04:r_caaab7bad760e16d": {
+      "text": "$$田中司令$$\n「Theo lời Trưởng quan $$大塚$$,\n　đây là di tích được cho là đại bản doanh của quân đoàn Thú máy.」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_99b162aa6aa286a2": {
+      "text": "$$Ｆ．Ｓ．$$\n「$$ＷＩＬＬ$$... có cảm thấy gì không?」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_58fb02434a1c40b2": {
+      "text": "$$ＷＩＬＬ$$\n「Cảm biến và các thiết bị khác đều không có phản ứng.」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_1c0f94acd5a8a143": {
+      "text": "$$ミサト$$\n「Đã vậy thì chỉ còn cách\n　thử đào di tích lên thôi.」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_1263541f4071624e": {
+      "text": "$$田中司令$$\n「Đúng vậy.\n　Cao thủ đào hang của chúng ta cũng đang rất sung sức mà.」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_3bc300bbdc277d82": {
+      "text": "$$Ｆ．Ｓ．$$\n「Được... các đơn vị xuất kích.」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_38762a09460d8b6b": {
+      "text": "$$さやか$$\n「Nơi này hoàn toàn hoang tàn rồi.」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_7ab28e70b4d4f641": {
+      "text": "$$ボス$$\n「Tên $$あしゅら$$ thật sự ở nơi này sao?」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$甲児$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_ec335e69f984b8b3": {
+      "text": "$n\n「Sao vậy, $$甲児$$?」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_0abcaf0c31978670": {
+      "text": "$$甲児$$\n「...!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_1d6bc48b7f246730": {
+      "text": "$$さやか$$\n「$$甲児$$!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_1af20fccc3c53cfc": {
+      "text": "$$甲児$$\n「A...」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_f951916061232dcd": {
+      "text": "$$竜馬$$\n「Đừng lơ đãng.\n　Không biết Thú máy sẽ xuất hiện lúc nào đâu.」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_4d863c3fb88a4c39": {
+      "text": "$$ノリコ$$\n「Cậu vừa nằm mơ sao?」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_44f4742c3dcce39a": {
+      "text": "$$甲児$$\n「...Có lẽ vậy...」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_9e701cdeb3842c21": {
+      "text": "$$ミカ$$\n「Mọi người cẩn thận!\n　Có phản ứng năng lượng cực lớn dưới lòng đất!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_6fd81f4abebe60c5": {
+      "text": "$$タケル$$\n「Quả nhiên đây là đại bản doanh của chúng!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_da2132b5038ec737": {
+      "text": "$$甲児$$\n「Xuất hiện rồi sao!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_495d61d3ec7e16f2": {
+      "text": "$$ブロッケン$$\n「Đến đúng lúc lắm, $$兜甲児$$ và $c!\n　Hôm nay ta sẽ quyết thắng bại với các ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_5cd353758cfe474d": {
+      "text": "$$ワッ太$$\n「Nói cho mà biết,\n　bọn ta lúc nào cũng sẵn sàng!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_a653c8dec4c0f06f": {
+      "text": "$$赤木$$\n「Chính các ngươi mới cứ viện đủ cớ\n　rồi bỏ chạy đấy chứ!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_86d493e37a9799a7": {
+      "text": "$$ブロッケン$$\n「Gừừừ!\n　Một lũ lắm mồm!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_09d0fcc600cdd3df": {
+      "text": "$$あしゅら$$\n「Đừng mắc mưu khiêu khích của chúng, $$ブロッケン$$.」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_182faded068c15ed": {
+      "text": "$$ブロッケン$$\n「Ta biết...!\n　Ta chỉ cho lũ vô lễ nhận báo ứng xứng đáng thôi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_9c206d19bfda4bd5": {
+      "text": "$$隼人$$\n「Địch cũng tung hết Thú máy trong tay ra rồi sao.」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_6e558bc69acf5bf3": {
+      "text": "$$弁慶$$\n「Xem ra chúng thật sự muốn quyết thắng bại rồi.」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_d60d0818e965232f": {
+      "text": "$$竜馬$$\n「Đúng ý tôi đấy!\n　Đừng sơ suất, mọi người!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_5b23687574286204": {
+      "text": "$n\n「Rõ!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_6fd86c96891ea942": {
+      "text": "$$甲児$$\n「Lên nào, $$あしゅら$$, $$ブロッケン$$!\n　Ta sẽ kết thúc cuộc chiến với các ngươi tại đây!!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_43e4e548c0b28376": {
+      "text": "$$あしゅら$$\n（Hừ hừ...）",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_d80a9688790ed583": {
+      "text": "$$あしゅら$$\n（Kết thúc sao...）",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_708bea61e3c43ada": {
+      "text": "$$あしゅら$$\n（Sự kết thúc ấy sắp bắt đầu rồi...!）",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ブロッケン$$\n「Đừng coi thường ta, $c!\n　Ta là một người đàn ông bất khuất!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_0827963cfd706e8d": {
+      "text": "$$ブロッケン$$\n「Gừừừ!\n　Đúng là lũ đã từng khiến ta nếm mùi thất bại!\n　Khá lắm!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$あしゅら$$\n「Vậy thì bên ta cũng dùng con át chủ bài.」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_3f4035fd9db81258": {
+      "text": "$$ブロッケン$$\n「Con át chủ bài...\n　Ngươi có thứ như vậy sao?」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_567b361a454c4b73": {
+      "text": "$$あしゅら$$\n「Đúng!\n　Đó chính là một phần di sản kinh hoàng của Mycenae!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_d22851aaafbbf8fc": {
+      "text": "$$さやか$$\n「Lại có thứ gì đang lên từ lòng đất!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_352534f64413d954": {
+      "text": "$$ボス$$\n「Lũ khốn!\n　Chúng vẫn còn $$タロス像$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_79f2664edb1af798": {
+      "text": "$$正太郎$$\n「$$インベーダー#keyword$$ khổng lồ!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$タケル$$\n「Sao thứ đó lại ở dưới lòng đất!?」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_1c5aa0d15ae24846": {
+      "text": "Kedora\n「Hủy diệt... hủy diệt...」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_53bb64ee17750ee2": {
+      "text": "Kedora\n「Xóa sổ mọi nền văn minh ngoài Mycenae...」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_7a7add80fde475ba": {
+      "text": "$$甲児$$\n「$$タロス像$$ đó do Kedora điều khiển sao!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_b2befefdbed1393d": {
+      "text": "$$シモン$$\n「Cẩn thận!\n　Có thứ đó điều khiển thì nó khác hẳn\n　$$タロス像$$ thông thường đấy!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_2103f6df2ea2e447": {
+      "text": "$$ブロッケン$$\n「C-cái này...」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_a12e3e130d896ff7": {
+      "text": "$$あしゅら$$\n「Hừ hừ hừ...」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_b6f7b219eb4bd64b": {
+      "text": "$$あしゅら$$\n「Khà khà khà...」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_91bf33c27ad39f0a": {
+      "text": "$$あしゅら$$\n「Đây chính là di sản kinh hoàng...!\n　Sức mạnh Mycenae mà loài người không thể tưởng tượng nổi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_ee220318b96ab538": {
+      "text": "$$隼人$$\n「Người Mycenae đã dùng $$インベーダー#keyword$$ đó\n　làm lực lượng chiến đấu của mình sao!?」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_ce1b55e526b6277a": {
+      "text": "$$竜馬$$\n「Chuyện đó không quan trọng!\n　Giờ phải đập tan lũ này trước!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_c304df6888eb78f7": {
+      "text": "$$あしゅら$$\n「Nào, $$ブロッケン$$!\n　Dùng sức mạnh này chôn vùi chúng đi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_c26958634526e597": {
+      "text": "$$ブロッケン$$\n「Ừ-ừ...」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_cdb750c9d380881a": {
+      "text": "$$ブロッケン$$\n「Ha ha ha ha!\n　Run sợ đi, $c!\n　Giờ ta sẽ trừng phạt các ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_95fda74613c97b39": {
+      "text": "$$甲児$$\n「Khốn kiếp...!\n　Tên $$あしゅら$$!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_1956994937f8171e": {
+      "text": "$$あしゅら$$\n「Hừ hừ hừ...」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_48f49f6728c15612": {
+      "text": "$$ブロッケン$$\n「Nuoooo!\n　Kh-không thể nàoooo!!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$正太郎$$\n「$$タロス像$$ đó là!?」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_f02c37d91387d0ad": {
+      "text": "$$ワッ太$$\n「Nhìn lòng bàn tay nó kìa!\n　$$ブロッケン$$ đang ở trên đó!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$ブロッケン$$\n「Đ-đâu rồi, $$あしゅら$$!?\n　Ngươi bỏ ta lại rồi chạy trốn sao!?」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_9796b3efa401a303": {
+      "text": "$$ブロッケン$$\n「Hừ! Được thôi!\n　Dù chỉ còn một mình, ta vẫn chiến đấu!\n　Để báo thù cho Dr. Hell!!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_643b6eebfc0186b3": {
+      "text": "$$赤木$$\n「Hắn... vẫn định chiến đấu sao?」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_291280e5f7eb9d70": {
+      "text": "$$葵$$\n「Đến mức đó thì thật đáng thương...」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_32eb462c1b4999cb": {
+      "text": "$$甲児$$\n「Dừng lại đi, $$ブロッケン$$!\n　Tiếp tục nữa cũng vô ích thôi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_1f4337d6d393fc37": {
+      "text": "$$ブロッケン$$\n「Câm miệng! Câm miệng!!\n　Đã vậy, ta sẽ kéo các ngươi cùng xuống địa ngục,\n　càng nhiều càng tốt!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_4740e748fae085ee": {
+      "text": "$$あしゅら$$\n「Nói hay lắm, $$ブロッケン$$!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_b76524cd840e1d37": {
+      "text": "$$甲児$$\n「$$あしゅら$$!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_730ffe18400abfc2": {
+      "text": "$$あしゅら$$\n「Thiết bị tự hủy được đặt bên dưới di tích này\n　sắp khởi động.」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_ffe0fca26da5cd38": {
+      "text": "$$ブロッケン$$\n「C-cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_bfb27f9eb2f7073e": {
+      "text": "$$あしゅら$$\n「Đừng hoảng, $$ブロッケン$$!\n　Ngươi phải giữ chân chúng lại!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_859dfa27bcaafe30": {
+      "text": "$$ブロッケン$$\n「Nh-nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_71ebf05996a4b0fd": {
+      "text": "$$あしゅら$$\n「Ngươi quên ơn nghĩa với Dr. Hell rồi sao!?」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_6214c11b1bca811e": {
+      "text": "$$ブロッケン$$\n「Nói vậy mà ngươi lại định bỏ chạy sao!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_8eaf6f3098ffed12": {
+      "text": "$$あしゅら$$\n「Tất nhiên.\n　Ta còn một chủ nhân khác phải phụng sự.」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_cf507214fe955d75": {
+      "text": "$$甲児$$\n「Đứng lại, $$あしゅら$$!!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_2113dcbabdfc758a": {
+      "text": "$$あしゅら$$\n「Vĩnh biệt, $$兜甲児$$!\n　$c!!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$あしゅら$$\n「Hãy diệt vong cùng di tích đang mục nát này đi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_6a74519e1fc29c4b": {
+      "text": "$$あしゅら$$\n「Đó là lòng từ bi cuối cùng của $$あしゅら$$ này!!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_5b992878fee054b5": {
+      "text": "$$甲児$$\n「$$あしゅら$$...」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$ミサト$$\n「Các đơn vị, rút lui!\n　Chạy càng xa càng tốt!!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ブロッケン$$\n「Đ-đợi đã, $c!\n　Ta còn...!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_20cf167c0ec0d4d5": {
+      "text": "$n\n「Xin lỗi nhé.\n　Bọn ta không thể ở lại chơi với ngươi được.」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_b591d812c96c6c99": {
+      "text": "$$竜馬$$\n「Không muốn chết thì ngươi cũng mau chạy đi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_e350fa099c1ab072": {
+      "text": "$$ブロッケン$$\n「T-ta không chạy!\n　Để đền đáp ơn nghĩa của Dr. Hell,\n　ta sẽ xử các ngươi tại đây...!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$甲児$$\n「Tùy ngươi!\n　Bọn ta không thể chết ở nơi này được!!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_c33bd700553abf91": {
+      "text": "$$ブロッケン$$\n「Đ-đợi đã! Đứng lại!\n　Ta... ta...!!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_feee5c91826230e1": {
+      "text": "$$ブロッケン$$\n「Uoooooooo!!\n　Dr. Hell vạn tuế!!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_bccc48e1964ad22d": {
+      "text": "$$甲児$$\n「Cảm giác này là sao...\n　Từ rất lâu trước đây... trong quá khứ xa xôi,\n　mình có cảm giác đã từng chiến đấu như thế này...」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_f8736aaaa216c766": {
+      "text": "$$甲児$$\n「$$マジンガーＺ$$ đang muốn nói điều gì với mình sao...?\n　Cảm giác này... có liên quan tới vị thần vàng đó sao...?」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_d1ec2522c87c361d": {
+      "text": "$$ブロッケン$$\n「$$兜甲児$$!\n　Ta đã mong chờ ngày này từ lâu lắm rồi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_3599f0a4343fd95c": {
+      "text": "$$甲児$$\n「$$ブロッケン$$!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_3bc7834a5bf3ee76": {
+      "text": "$$ブロッケン$$\n「Từ ngày mất Dr. Hell, ta sống\n　chỉ để báo thù các ngươi!\n　Giờ ta sẽ hoàn thành tâm nguyện đó!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_366814efdc8b5800": {
+      "text": "$$甲児$$\n「Im đi, $$ブロッケン$$!\n　Ngươi có biết bao nhiêu người đã chịu khổ\n　vì mong muốn ích kỷ đó của ngươi không!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_9be1a4c10bb62515": {
+      "text": "$$甲児$$\n「$$あしゅら$$!\n　Ngươi cũng nghe đây!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_94a88c90e557e16e": {
+      "text": "$$あしゅら$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_1c208ca0cbf26f28": {
+      "text": "$$甲児$$\n「Ta tuyệt đối không tha cho kẻ cướp đi\n　hạnh phúc hay sự bình yên của người khác!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_5b7ee307a700171a": {
+      "text": "$$甲児$$\n「Dù các ngươi hồi sinh bao nhiêu lần,\n　dù có sức mạnh to lớn đến đâu,\n　ta và $$マジンガーＺ$$ nhất định sẽ đập tan dã tâm của các ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_8d8f065c932da30a": {
+      "text": "$$ブロッケン$$\n「Hết giờ chơi rồi, $$弓さやか$$!\n　Hôm nay ta sẽ đấu với ngươi thật sự!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_f5432119677514f7": {
+      "text": "$$さやか$$\n「Đúng ý ta đấy, $$ブロッケン伯爵$$!\n　Ta không định tha thứ cho những gì ngươi đã làm đâu!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_4e5c8e989c4a7691": {
+      "text": "$$さやか$$\n「Chờ xem!\n　Ta sẽ cho ngươi nếm lòng kiêu hãnh và cơn giận của phụ nữ!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_adec86483b13599a": {
+      "text": "$$ボス$$\n「Quyết thắng bại nào, $$ブロッケン伯爵$$ rách nát!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_2cf701bbcde3ec13": {
+      "text": "$$ブロッケン$$\n「Ta không muốn nghe lời đó\n　từ con robot sắt vụn như ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_c17c58fdba72005e": {
+      "text": "$$ボス$$\n「Tới giờ cả hai bên đều chuyên làm trò cười,\n　nhưng hôm nay ta sẽ nghiêm túc!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_1fe8564d2b959317": {
+      "text": "$$ブロッケン$$\n「Cứ tới đi!\n　Hôm nay ta cũng không hề định đùa giỡn!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_f527e012803f7f1c": {
+      "text": "$$ボス$$\n「Vậy ta sẽ không khách sáo nữa!\n　Hôm nay phải đấu tới cùng!!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_4b1247bd3ca4905d": {
+      "text": "$$正太郎$$\n「Dồn các ngươi vào đường cùng rồi, quân đoàn Thú máy!\n　Hôm nay ta nhất định không để các ngươi thoát!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_00c55e25f87b71d0": {
+      "text": "$$ブロッケン$$\n「Ngây thơ lắm, nhóc!\n　Chính các ngươi đã bị dụ tới đây!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_338f3b27e51dcc41": {
+      "text": "$$正太郎$$\n「Ta không khuất phục trước lời đe dọa đó đâu!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_d91d4bc2d52b61c4": {
+      "text": "$$正太郎$$\n「Lên nào, $$鉄人$$!\n　Đánh rơi pháo đài bay đó!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_0c8ea89b07432421": {
+      "text": "$$ブロッケン$$\n「Con robot nghèo kiết của công ty bé tí!\n　Sự tồn tại của ngươi thật chướng mắt!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_4dbfba00ba7744ee": {
+      "text": "$$ワッ太$$\n「Áo rách nhưng lòng bọn ta vẫn đẹp như gấm!\n　Ai thèm nghe lời những kẻ\n　chỉ toàn làm chuyện xấu như các ngươi chứ!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_be100a32b731708d": {
+      "text": "$$ワッ太$$\n「Lên nào, $$ブロッケン伯爵$$!\n　Hôm nay có muốn chạy cũng không được đâu!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_702f82442fcec8a9": {
+      "text": "$$竜馬$$\n「Xem ra ngươi đã hạ quyết tâm, $$ブロッケン$$!\n　Ta khen ngươi đã dám chấp nhận đấy!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_b1e38da4e8775ffe": {
+      "text": "$$ブロッケン$$\n「Hừ...!\n　Ta chẳng muốn nghe kẻ địch khen ngợi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ブロッケン$$\n「Ta chỉ muốn nghe tiếng ngươi van xin tha mạng\n　và gào thét lúc hấp hối thôi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$竜馬$$\n「Hôm nay làm thật hả!\n　Được lắm!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_3dad695c99e9e052": {
+      "text": "$$竜馬$$\n「Đối thủ đã như vậy\n　thì ta cũng sẽ dốc toàn lực!!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_66d4ae3a21caf881": {
+      "text": "$$葵$$\n「Nghĩ lại thì ta với ngươi cũng quen nhau lâu rồi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_0c18da7b3a37825d": {
+      "text": "$$ブロッケン$$\n「Lưu luyến khi phải chia tay ta sao.\n　Ngươi cũng có điểm dễ thương đấy chứ.」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_63249745ffae61b6": {
+      "text": "$$ブロッケン$$\n「Nhưng thứ ngươi nên lưu luyến\n　là thế giới mà ngươi sắp phải từ biệt kia!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_abdb034ae8509702": {
+      "text": "$$葵$$\n「Đến cuối vẫn làm người ta buồn cười!\n　Tưởng cái quyết tâm liều chết đó\n　ngăn nổi bản năng hoang dã của bọn ta thì lầm to rồi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_3ff2e21207d1d1d3": {
+      "text": "$$葵$$\n「Tạm biệt, $$ブロッケン伯爵$$!\n　Sang thế giới bên kia cũng khỏe nhé!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_e51ecf6d6aa42e75": {
+      "text": "$$タケル$$\n「Siêu năng lực của mình đang cảm nhận được...!\n　Linh cảm có chuyện cực kỳ lớn sắp xảy ra!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_47ddabb7b60131c2": {
+      "text": "$$ブロッケン$$\n「Run sợ rồi sao, $$明神タケル$$!\n　Cũng phải thôi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_b025267f22788233": {
+      "text": "$$タケル$$\n「Không phải...!\n　Linh cảm bất an này không đến từ ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_ec1a06a7023bf72c": {
+      "text": "$$あしゅら$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_8805f96e52aaa462": {
+      "text": "$$タケル$$\n「$$あしゅら男爵$$!\n　Ta sẽ ngăn ngươi ngay tại đây!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_124591cb154fae64": {
+      "text": "$$タケル$$\n「Ta có cảm giác nếu để ngươi thoát,\n　chuyện không thể cứu vãn sẽ xảy ra!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$赤木$$\n「Ở đây có thể chiến đấu hết sức\n　mà không lo thiệt hại cho thành phố!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_4bf9b05b5f948170": {
+      "text": "$$ブロッケン$$\n「Đừng làm ta cười, tên làm công ăn lương!\n　Ngươi dốc sức thì cũng chẳng đáng là bao!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_eaa52d152f444bfd": {
+      "text": "$$赤木$$\n「Ngươi đã thua bọn ta bao nhiêu lần\n　mà còn nói được câu đó sao!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_b4bc9e9435b58e6f": {
+      "text": "$$赤木$$\n「Lên nào, $$ブロッケン伯爵$$!\n　Hôm nay ta sẽ cho ngươi thấy rõ tinh thần và nghị lực\n　của người làm công ăn lương tạo ra được điều gì!!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_a9227573166977a9": {
+      "text": "$$ブロッケン$$\n「Ha ha ha, thằng nhóc nhát gan à!\n　Ta sẽ biến ngươi thành con thiêu thân lao vào lửa!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_b0600ab9a9e8559d": {
+      "text": "$$シンジ$$\n「Ta không chịu thua những lời đó đâu!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_7cbc63dad295f862": {
+      "text": "$$ブロッケン$$\n「C-cái gì!?\n　Khí thế khác hẳn trước đây!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_07f53c816e0a51f5": {
+      "text": "$$シンジ$$\n「Nếu ngươi định quyết thắng bại,\n　ta cũng không định bỏ chạy!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_2d09c6f6a2d990ea": {
+      "text": "$$シンジ$$\n「Ta cũng sẽ chiến đấu!\n　Để bảo vệ thế giới này... bảo vệ mọi người!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_3c5fcfc484a51913": {
+      "text": "$$シモン$$\n「Gan lắm, $$ブロッケン伯爵$$!\n　Ta sẽ đấu trực diện với ngươi đúng như ý ngươi muốn!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_0476ffd10c764b0e": {
+      "text": "$$ブロッケン$$\n「Vậy ta sẽ đập nát\n　mũi khoan mà ngươi tự hào!!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$シモン$$\n「Làm được thì cứ thử xem!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_2b3479c4cf0680f4": {
+      "text": "$$ブロッケン$$\n「C-cái tên này sao thế!?\n　Khí thế còn mạnh hơn trước nữa!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_e370696b8936b08c": {
+      "text": "$$シモン$$\n「Ta có người đang chờ mình!\n　Đừng tưởng hạng như ngươi phá nổi mối gắn bó giữa ta và $$ニア$$!!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_9d7b02c5e728b7aa": {
+      "text": "$$ブロッケン$$\n「Hừ!\n　Đối thủ dù khổng lồ đến đâu cũng có sơ hở!\n　Chỉ cần nhắm vào đó...!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_9af213fc64e0afec": {
+      "text": "$$ノリコ$$\n「Tưởng $$ガンバスター$$ này có sơ hở như thế\n　thì lầm to rồi, cô bé!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_d7f1c506e78e55ff": {
+      "text": "$$ブロッケン$$\n「Ngươi nói gì!?」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_0c705091f748360e": {
+      "text": "$$ノリコ$$\n「Ta tới đây, bá tước độc ác!\n　Ta sẽ đập tan dã tâm của các ngươi bằng sức mạnh trực diện!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_9eb8599304125b2f": {
+      "text": "$n\n「$$ブロッケン伯爵$$!\n　Mối thù giữa chúng ta cũng kéo dài lâu rồi nhỉ!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_a072aa25e5f521e0": {
+      "text": "$$ブロッケン$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_24e1a808a1609a1a": {
+      "text": "$$スズネ$$\n「Đừng nói là ngươi đã quên!\n　Chuyện tấn công THPT Jindai và bắt bọn ta làm con tin!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_53128ce8f154fd06": {
+      "text": "$$ブロッケン$$\n「Các ngươi vẫn còn ghim chuyện hồi đó sao!?」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_03b5db9ce98fb8d6": {
+      "text": "$n\n「Kẻ đang tìm cách báo thù như ngươi mà cũng nói thế sao...!\n　Tiện thể nói luôn,\n　ngươi chỉ đang oán hận sai người thôi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_3915fb4102f1c1dd": {
+      "text": "$$ブロッケン$$\n「Tên này...! Còn dám già mồm!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_817b2773b4ed563e": {
+      "text": "$n\n「Ta sẽ thay những người bị các ngươi cướp mất cuộc sống yên bình\n　trút hết cơn giận lên các ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0063_04:r_1cc233cbc8c80af7": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

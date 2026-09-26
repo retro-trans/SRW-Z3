@@ -1,5 +1,37 @@
 # Changelog
 
+## Public-repository preparation authorized (2026-09-26)
+
+- User authorized committing the Vietnamese integration, replacing hosted
+  history and making the repository public only after the hosted-content audit.
+- Read-only GitHub inventory confirms the repository is still private, with
+  one master branch, nine historical release tags and nine releases. Tags
+  retain old source history, so a master-only force push is insufficient.
+- User chose local backup followed by deletion of historical releases/tags.
+  Publication is pending renewed CLI authentication and backup/audit completion.
+  No remote history, release assets or repository visibility changed yet.
+  This authorization does not request a new game build or new patch release.
+
+## Vietnamese worktree content merge (2026-09-26)
+
+- Imported all 188 Vietnamese locale JSON files from codex/vietnamese-silver
+  at 5dd5d66, using the current canonical IDs. All 43,104 source/context/kind
+  identities match. Replaced the 244 obsolete opening drafts with the later
+  branch versions; preserved every imported Vietnamese text value exactly.
+- Current glossary-token guards reject 393 formerly accepted dialogue rows.
+  Retained their text and marked them needs_review, alongside the nine already
+  pending rows. Recorded all 402 review IDs, original statuses, six existing
+  title notes and input hashes in localization/qa/vi_worktree_merge_20260926.json.
+  No source definitions or shared validation rules were weakened.
+- 42,155 imported rows pass current catalog and glossary checks: 41,143
+  dialogue, 776 glossary, 118 UI and 118 titles. 547 imported entries remain
+  explicitly missing; including absent catalog entries, Vietnamese has 60,626
+  missing entries overall. This is not a new meaning/layout/gameplay review.
+- Content-only integration: no old Git history, English changes, Japanese
+  script dumps, fonts or Vietnamese build adapters imported. The original
+  linked worktree is untouched; old local drafts backed up under ignored
+  work/vi-merge-20260926/backup/. No build, installation, commit or publication.
+
 ## Local source privacy and fresh Git history (2026-09-26)
 
 - Excluded Japanese message definitions, the source-bearing PS3 compatibility

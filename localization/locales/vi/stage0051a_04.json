@@ -1,0 +1,722 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0051a_04:r_caaab7bad760e16d": {
+      "text": "$$ロジャー$$\n「Tên tôi là $$ロジャー・スミス$$.\n　Nhà đàm phán của thành phố đã đánh mất ký ức này.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_99b162aa6aa286a2": {
+      "text": "$$ドロシー#240$$\n「Có vẻ anh đã trở về đúng chỗ của mình rồi.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_58fb02434a1c40b2": {
+      "text": "$$ロジャー$$\n「Có vẻ tôi đã khiến cô lo lắng, $$ドロシー#240$$.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_1c0f94acd5a8a143": {
+      "text": "$$ロジャー$$\n「Vậy $$シュバルツ$$ và $$エンジェル$$ đâu?」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_1263541f4071624e": {
+      "text": "$$ドロシー#240$$\n「Tôi không biết.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_3bc300bbdc277d82": {
+      "text": "$$ロジャー$$\n「Vậy à...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_38762a09460d8b6b": {
+      "text": "$$アムロ$$\n「$$ロジャー$$...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_7ab28e70b4d4f641": {
+      "text": "$$ロジャー$$\n「Có vẻ tôi cũng đã gây phiền phức cho các cậu.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$キラ$$\n「Chuyện đó... không sao, nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_ec335e69f984b8b3": {
+      "text": "$$シン$$\n「Sao thế này...\n　Màn sương trong đầu... như đang tan đi.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_0abcaf0c31978670": {
+      "text": "$$カミーユ$$\n「Câu trả lời cho điều cứ vướng mắc trong lòng\n　đang dần hiện ra...!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_1d6bc48b7f246730": {
+      "text": "$$桂$$\n「Chuyện này cũng do anh đã nhớ lại vai trò của mình sao?」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_1af20fccc3c53cfc": {
+      "text": "$$ロジャー$$\n「Có lẽ vậy.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_f951916061232dcd": {
+      "text": "$n\n「Đây là... điều hắn đã nói...\n　Ý nghĩa của việc thế giới chúng ta và nơi này giống nhau sao...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_4d863c3fb88a4c39": {
+      "text": "$$スズネ$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_44f4742c3dcce39a": {
+      "text": "$$カミーユ$$\n「Thế là sao, $n?」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_9e701cdeb3842c21": {
+      "text": "$n\n「Có người nói với tôi rằng thế giới chúng ta\n　giống hệt thành phố Paradigm...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_6fd81f4abebe60c5": {
+      "text": "$$ロジャー$$\n「Câu chuyện rất thú vị, nhưng có vẻ có kẻ quấy rầy rồi.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_da2132b5038ec737": {
+      "text": "$$ベック$$\n「Tìm thấy mày rồi, $$ロジャー・スミス$$!!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_495d61d3ec7e16f2": {
+      "text": "$$モーム$$\n「Ngài $$桂$$! Người kia là...!?」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_5cd353758cfe474d": {
+      "text": "$$桂$$\n「Là ngài chủ tịch tập đoàn Paradigm sao!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_a653c8dec4c0f06f": {
+      "text": "$$ロジャー$$\n「Nực cười thật, $$ベック$$.\n　Một tên lưu manh lại kế nhiệm\n　Alex Rosewater kia sao.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_86d493e37a9799a7": {
+      "text": "$$ベック$$\n「Câm đi!\n　Tao thích tiền thật, nhưng cái ghế chủ tịch\n　tập đoàn lớn chẳng hợp với tao chút nào!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_09d0fcc600cdd3df": {
+      "text": "$$ベック$$\n「Chẳng biết tại sao,\n　nhưng tao đã tìm lại chính mình!\n　Giờ thì mở tiệc ăn mừng thôi!!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_182faded068c15ed": {
+      "text": "$$シン$$\n「Hắn bắn bừa vào mọi thứ kìa!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_9c206d19bfda4bd5": {
+      "text": "$$キラ$$\n「Hắn cũng... vẫn chứng nào tật nấy!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_6e558bc69acf5bf3": {
+      "text": "$$スズネ$$\n「$n!\n　Gọi $$ジェニオン$$ đi!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_d60d0818e965232f": {
+      "text": "$$ロジャー$$\n「Không cần đâu, thưa cô.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_5b23687574286204": {
+      "text": "$$スズネ$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_6fd86c96891ea942": {
+      "text": "$$ロジャー$$\n「$$ドロシー#240$$, đưa họ tới chỗ an toàn giúp tôi.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_43e4e548c0b28376": {
+      "text": "$$ロジャー$$\n「Và nhắn $$ノーマン$$ rằng\n　tối nay chúng ta sẽ mở một bữa tiệc nhỏ.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_d80a9688790ed583": {
+      "text": "$$ドロシー#240$$\n「Tôi hiểu rồi.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_708bea61e3c43ada": {
+      "text": "$n\n「Anh định làm gì...!?」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ロジャー$$\n「Tôi luôn cố cư xử như một quý ông.\n　Nhưng nếu đối phương là kẻ vô pháp,\n　tôi cũng hiểu phép lịch sự chẳng còn ý nghĩa.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_0827963cfd706e8d": {
+      "text": "$$ロジャー$$\n「Vậy thì hãy dùng luật của $$ロジャー$$\n　đáp lễ tên lưu manh kia.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$アムロ$$\n「Giao cho anh đấy, $$ロジャー$$.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_3f4035fd9db81258": {
+      "text": "$$桂$$\n「Cuối cùng cũng tới màn mong đợi rồi!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_567b361a454c4b73": {
+      "text": "$$ロジャー$$\n「Đúng vậy!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_d22851aaafbbf8fc": {
+      "text": "$$ロジャー$$\n「$$ビッグオー$$! Đến giờ diễn rồi!!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_352534f64413d954": {
+      "text": "$$ロジャー$$\n「Đúng là tay nghề bảo dưỡng của $$ノーマン$$.\n　$$ビッグオー$$ đang ở tình trạng hoàn hảo.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_79f2664edb1af798": {
+      "text": "$$ベック$$\n「Chịu ló mặt ra rồi hả, Megadeus!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$ロジャー$$\n「Ta cảnh cáo ngươi, $$ベック$$.\n　Nếu không rút lui ngay,\n　ngươi sẽ lại phải bẽ mặt đấy.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_1c5aa0d15ae24846": {
+      "text": "$$ダヴ$$\n「Đ-đại ca!\n　Chuyện này không ổn rồi ạ!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_53bb64ee17750ee2": {
+      "text": "$$Ｔボーン$$\n「Cứ thế này thì lại đi thẳng tới kết cục quen thuộc mất!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_7a7add80fde475ba": {
+      "text": "$$ベック$$\n「Câm đi!\n　Nó lớn lối như thế, bảo tao nhịn sao được!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_b2befefdbed1393d": {
+      "text": "$$ベック$$\n「Nằm mơ đi, $$ロジャー・スミス$$!\n　Đừng tưởng chiếc $$ベック・ビクトリー・デラックス$$ này\n　vẫn như trước nhé!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_2103f6df2ea2e447": {
+      "text": "$$ベック$$\n「Tao đã dùng tiền của tập đoàn Paradigm hoàn thiện nó.\n　Có thể nói đây là hàng cao cấp nhất trong số hàng cao cấp!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_a12e3e130d896ff7": {
+      "text": "$$キラ$$\n「Đó là biển thủ mà nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_b6f7b219eb4bd64b": {
+      "text": "$$シン$$\n「Giờ đâu phải lúc nói chuyện đó!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_91bf33c27ad39f0a": {
+      "text": "$$ベック$$\n「Chuẩn bị đi, $$ロジャー$$!\n　Hôm nay tao sẽ trả đủ mọi món nợ từ trước tới giờ!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_ee220318b96ab538": {
+      "text": "$$ロジャー$$\n「Chà... không biết đã bao lâu trôi qua,\n　nhưng lưu manh thì vẫn là lưu manh.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_ce1b55e526b6277a": {
+      "text": "$$ロジャー$$\n「Được thôi, $$ベック$$!\n　Nếu ngươi đã quên vai trò chuyên thua trận của mình,\n　ta sẽ dạy cho ngươi thêm lần nữa!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_c304df6888eb78f7": {
+      "text": "$$ベック$$\n「Cứ sủa đi!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_c26958634526e597": {
+      "text": "$$ロジャー$$\n「$$ビッグオー$$! Diễn thôi!!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_cdb750c9d380881a": {
+      "text": "$$ベック$$\n「Ư!\n　Lại cái kết cũ nữa sao!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_95fda74613c97b39": {
+      "text": "$$ロジャー$$\n「Đúng thế, $$ベック$$.\n　Đã đến lúc ngươi nhận thức được vai trò của mình rồi đấy.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_1956994937f8171e": {
+      "text": "$$ベック$$\n「Đừng coi thường tao!\n　Tao hôm nay khác xa mọi lần đấy!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_48f49f6728c15612": {
+      "text": "$$ベック$$\n「Thấy sao hả, thằng quạ đen!\n　Tao hôm nay khác xa mọi lần đấy!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ロジャー$$\n「Nhưng kết cục sẽ chẳng thay đổi.\n　Vì đó là vai trò của ngươi.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_f02c37d91387d0ad": {
+      "text": "$$ベック$$\n「Đừng coi thường tao!\n　Giờ mới là lúc phân thắng bại!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$ベック$$\n「C-cái gì!?\n　Đòn tấn công từ đâu tới vậy!?」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_9796b3efa401a303": {
+      "text": "$$ロジャー$$\n「Đó là...!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_643b6eebfc0186b3": {
+      "text": "$$ロジャー$$\n「The Big!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_291280e5f7eb9d70": {
+      "text": "$$シュバルツ$$\n「Chính xác, $$ロジャー・スミス$$.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_32eb462c1b4999cb": {
+      "text": "$$ロジャー$$\n「$$シュバルツ$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_1f4337d6d393fc37": {
+      "text": "$$シュバルツ$$\n「Nhìn đi!\n　Kẻ bảo hộ thiên đường tĩnh tại đang muốn loại bỏ dị vật!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_4740e748fae085ee": {
+      "text": "$$ロジャー$$\n「Dị vật đó là ta sao?」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_b76524cd840e1d37": {
+      "text": "$$シュバルツ$$\n「Và cả họ nữa.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_730ffe18400abfc2": {
+      "text": "$$ロジャー$$\n「$$ＺＥＸＩＳ$$ sao...!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_ffe0fca26da5cd38": {
+      "text": "$$葵$$\n「Lâu rồi không gặp, ngài Đàm Phán.\n　Giờ chúng tôi gọi là $c.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_bfb27f9eb2f7073e": {
+      "text": "$$シュバルツ$$\n「Những người tìm kiếm sự thật...!\n　Cứ tiến lên, rồi chắc chắn sẽ có những kẻ như\n　kẻ bảo hộ thiên đường kia cản đường các người!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_859dfa27bcaafe30": {
+      "text": "$$シュバルツ$$\n「Mạn phép để $$シュバルツバルト$$ ta\n　kiểm chứng quyết tâm của các người đến đâu!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_71ebf05996a4b0fd": {
+      "text": "$$桂$$\n「Tóm lại là ông muốn đánh với bọn tôi chứ gì?\n　Ông nói vòng vo quá đấy!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_6214c11b1bca811e": {
+      "text": "$$青山$$\n「Có vẻ các thành viên $$ＺＥＵＴＨ$$\n　từng chiến đấu với đạo quân đỏ và trắng kia.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_8eaf6f3098ffed12": {
+      "text": "$$いぶき$$\n「Trông rất giống $$ビッグオー$$ của $$ロジャー$$, nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_cf507214fe955d75": {
+      "text": "$$赤木$$\n「Dù sao, chúng đã lao tới thì chỉ còn cách đánh thôi!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_2113dcbabdfc758a": {
+      "text": "$n\n「Anh $$ロジャー$$!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ロジャー$$\n「Lời nói lúc nãy của cậu đã giúp tôi đấy.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_6a74519e1fc29c4b": {
+      "text": "$n\n「Không đâu... chẳng hiểu sao,\n　tôi chỉ cảm thấy anh chính là chủ nhân của ông $$ノーマン$$...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_5b992878fee054b5": {
+      "text": "$$ロジャー$$\n「Cậu đã quen cả $$ノーマン$$ rồi à.\n　Ra vậy...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_95a3dd16c2c4cc3e": {
+      "text": "$n\n「Sao ạ?」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ロジャー$$\n「Sức mạnh không chịu khuất phục trước tuyệt vọng của cậu...\n　Giống những người tôi quen.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_20cf167c0ec0d4d5": {
+      "text": "$n\n「Gã quấn băng kia đang nhắm vào anh...!\n　Tôi sẽ yểm trợ!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_b591d812c96c6c99": {
+      "text": "$$ロジャー$$\n「Tôi rất cảm kích và xin nhận lời đề nghị của cậu.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_e350fa099c1ab072": {
+      "text": "$$シュバルツ$$\n「Có vẻ các diễn viên đã tề tựu...!\n　Vậy thì bắt đầu thôi!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$シュバルツ$$\n「Định cản đường ta sao?」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_c33bd700553abf91": {
+      "text": "$$葵$$\n「Ông... là người tìm kiếm sự thật phải không?\n　Vậy thì tiếp chúng tôi một chút đi.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_feee5c91826230e1": {
+      "text": "$$シュバルツ$$\n「Được thôi.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_bccc48e1964ad22d": {
+      "text": "$$シュバルツ$$\n「Nhưng ta sẽ kết thúc ngay!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_f8736aaaa216c766": {
+      "text": "$$シュバルツ$$\n「Ha ha ha ha ha!\n　Hỡi mãnh thú phán xét, định ngủ vùi đến bao giờ nữa!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_d1ec2522c87c361d": {
+      "text": "$$ロジャー$$\n「$$葵$$!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_3599f0a4343fd95c": {
+      "text": "$$葵$$\n「Không sao đâu, $$ロジャー$$.\n　Như anh đã tìm lại chính mình,\n　chúng tôi sẽ vượt qua nỗi đau, lấy lại những điều quý giá!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_3bc7834a5bf3ee76": {
+      "text": "$$葵$$\n「Đòn đó thấm đấy, ông quấn băng ạ...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_366814efdc8b5800": {
+      "text": "$$くらら$$\n「Nhờ vậy, thứ gì đó trong chúng tôi\n　đã hoàn toàn thức tỉnh.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_9be1a4c10bb62515": {
+      "text": "$$朔哉$$\n「Cơ thể... trái tim đang rạo rực!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_94a88c90e557e16e": {
+      "text": "$$ジョニー$$\n「Sự thôi thúc từ bên trong này...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_1c208ca0cbf26f28": {
+      "text": "$$エイーダ$$\n「Ngọt ngào, da diết... và nóng bỏng!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_5b7ee307a700171a": {
+      "text": "$$葵$$\n「Không ai có thể ngăn cản chúng tôi nữa!!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_8d8f065c932da30a": {
+      "text": "$$アマタ$$\n「Đội D...!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_f5432119677514f7": {
+      "text": "$$シモン$$\n「Đúng rồi, $$葵$$!\n　Đó mới chính là các cậu!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_4e5c8e989c4a7691": {
+      "text": "$$シモン$$\n「Hãy cho tôi thấy sức mạnh từng vực tôi dậy\n　khi suy sụp vì mất đại ca!!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_adec86483b13599a": {
+      "text": "$$葵$$\n「Được thôi, $$シモン$$!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_2cf701bbcde3ec13": {
+      "text": "$$田中司令$$\n「Có vẻ cuối cùng họ cũng tỉnh dậy rồi.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_c17c58fdba72005e": {
+      "text": "$$ＷＩＬＬ$$\n「Mãnh thú ẩn sâu trong trái tim...\n　Tưởng rằng nó đã ngủ yên, nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_1fe8564d2b959317": {
+      "text": "$$Ｆ．Ｓ．$$\n「Giờ đây... nó lại thức tỉnh!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_f527e012803f7f1c": {
+      "text": "$$Ｆ．Ｓ．$$\n「Gầm lên đi, Đội D!\n　Theo tiếng gọi của trái tim mình!!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_4b1247bd3ca4905d": {
+      "text": "$$葵$$\n「Chơi tới cùng nào!!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_00c55e25f87b71d0": {
+      "text": "$$シュバルツ$$\n「Ha ha ha ha ha!\n　Các người cũng mở được cánh cửa sự thật rồi sao!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_338f3b27e51dcc41": {
+      "text": "$$ガドライト$$\n「Tệ hết chỗ nói...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_d91d4bc2d52b61c4": {
+      "text": "$$ガドライト$$\n「Hưởng ứng sự thức tỉnh của $$ロジャー・スミス$$,\n　dòng máu dã thú cuối cùng cũng tỉnh giấc...\n　Gọi bọn chúng tới đây nên mới thành ra thế đấy.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_0c8ea89b07432421": {
+      "text": "$$ガドライト$$\n「Thật tình... đây cũng là ý muốn của người ấy sao?」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_4dbfba00ba7744ee": {
+      "text": "$$ロゼ$$\n「Sức mạnh đó là gì vậy...!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_be100a32b731708d": {
+      "text": "$$タケル$$\n「Giờ thì tôi hiểu rồi!\n　Đây là sức mạnh của Đội D... sức mạnh hoang dã!!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_702f82442fcec8a9": {
+      "text": "$$バサラ$$\n「Hay lắm, hay lắm, các cậu!\n　Cháy hết mình rồi đấy!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_b1e38da4e8775ffe": {
+      "text": "$$ロジャー$$\n「Lâu rồi mới được thấy lại\n　tâm hồn cháy bỏng của các cậu.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$葵$$\n「Hy vọng lời chào tái ngộ này cũng được đấy chứ.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$くらら$$\n「Màn sương trong đầu đang tan đi...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_3dad695c99e9e052": {
+      "text": "$$朔哉$$\n「Cảm giác sảng khoái không chịu nổi!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_66d4ae3a21caf881": {
+      "text": "$$ジョニー$$\n「Tại sao chúng tôi lại quên mất\n　anh $$ロジャー$$ nhỉ...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_0c18da7b3a37825d": {
+      "text": "$$エイーダ$$\n「Không chỉ riêng anh $$ロジャー$$.\n　Chúng tôi còn quên rất nhiều điều quan trọng khác.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_63249745ffae61b6": {
+      "text": "$$葵$$\n「Nhưng rồi chúng tôi sẽ lấy lại tất cả...!\n　Từ bây giờ!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_abdb034ae8509702": {
+      "text": "$$シュバルツ$$\n「Đúng vậy!\n　Đó chính là con đường đến sự thật!\n　Tuyệt vời lắm, các người!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_3ff2e21207d1d1d3": {
+      "text": "$$ロジャー$$\n「Thôi đi, $$シュバルツバルト$$.\n　Lời khen của kẻ ám ảnh bởi hoang tưởng như ông\n　chỉ khiến cả tôi và họ khó chịu.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_e51ecf6d6aa42e75": {
+      "text": "$$シュバルツ$$\n「Cứ thế, $$ロジャー・スミス$$!\n　Hãy vượt qua cả ta mà tiến tới sự thật!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_47ddabb7b60131c2": {
+      "text": "$$シュバルツ$$\n「Rồi hãy tuyệt vọng đi!\n　Trước sự thật của thế giới này... tương lai chìm trong biển lửa!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_b025267f22788233": {
+      "text": "$$ロジャー$$\n「Được thôi, $$シュバルツ$$!\n　Ta sẽ tiếp ngươi như ý muốn!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_ec1a06a7023bf72c": {
+      "text": "$$ロジャー$$\n「Ta không thể chấp nhận kẻ tuôn ra hoang tưởng khó chịu,\n　cũng như những Megadeus\n　loại bỏ bất cứ ai trái ý mình!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_8805f96e52aaa462": {
+      "text": "$$田中司令$$\n「Đã xác nhận tiêu diệt toàn bộ địch.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_124591cb154fae64": {
+      "text": "$$Ｆ．Ｓ．$$\n「Người đã nhớ lại sứ mệnh của mình\n　tại thành phố bị tước mất ký ức, $$ロジャー・スミス$$...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$Ｆ．Ｓ．$$\n「Thành phố Paradigm và sự chấm dứt lịch sử nhân loại...\n　Sự tồn tại của anh ta có phải chìa khóa cho điều đó không...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_4bf9b05b5f948170": {
+      "text": "$$エンジェル$$\n（Đến lúc chia tay rồi, $$ロジャー$$...）",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_eaa52d152f444bfd": {
+      "text": "$$エンジェル$$\n（Thế này là tốt nhất rồi nhỉ.\n　Dù hơi cô đơn...）",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_b4bc9e9435b58e6f": {
+      "text": "$$ドロシー#240$$\n「Vất vả rồi, $$ロジャー$$.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_a9227573166977a9": {
+      "text": "$$ノーマン$$\n「Bữa tiệc sắp chuẩn bị xong rồi ạ.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_b0600ab9a9e8559d": {
+      "text": "$$ロジャー$$\n「Cảm ơn, $$ドロシー#240$$, $$ノーマン$$.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_7cbc63dad295f862": {
+      "text": "$n\n「!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_07f53c816e0a51f5": {
+      "text": "$$スズネ$$\n「Sao vậy, $n?」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_2d09c6f6a2d990ea": {
+      "text": "$n\n「Tìm thấy rồi!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_3c5fcfc484a51913": {
+      "text": "$$スズネ$$\n「$n!?」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_0476ffd10c764b0e": {
+      "text": "$$シュバルツ$$\n「Non nớt quá!\n　Bạc nhược như thế thì phía trước\n　chỉ có tuyệt vọng đang chờ thôi!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$シュバルツ$$\n「Đúng thế!\n　Rồi thế giới sẽ chìm trong biển lửa!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_2b3479c4cf0680f4": {
+      "text": "$$シュバルツ$$\n「Hẹn gặp lại vào ngày ấy!\n　Vĩnh biệt, $$ロジャー・スミス$$!\n　Vĩnh biệt, những kẻ lữ hành đáng thương mang $$烙印$$!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_e370696b8936b08c": {
+      "text": "$$ロジャー$$\n「$$シュバルツバルト$$...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_9d7b02c5e728b7aa": {
+      "text": "$$シモン$$\n「Từ 《$$烙印$$》 mà hắn nói...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_9af213fc64e0afec": {
+      "text": "$$桂$$\n「Giờ tôi nhớ rõ rồi.\n　Đó là lời của 《$$アイム$$》 Liard.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_d7f1c506e78e55ff": {
+      "text": "$$アムロ$$\n「Việc chúng ta bị đưa đến thành phố Paradigm\n　cũng liên quan tới điều đó sao...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_0c705091f748360e": {
+      "text": "$$ベック$$\n「Tao chờ ngày này lâu rồi, $$ロジャー・スミス$$!\n　Dạo này cứ thấy đứng ngồi không yên,\n　hóa ra tao đã quên phải phân thắng bại với mày!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_9eb8599304125b2f": {
+      "text": "$$ロジャー$$\n「Ra vậy.\n　Ngươi cũng như ta, đã bị thành phố Paradigm\n　tước đi ký ức.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_a072aa25e5f521e0": {
+      "text": "$$ベック$$\n「Giờ thì chuyện đó chẳng quan trọng nữa!\n　Dù tao vẫn biết ơn kẻ đã trả lại ký ức cho mình!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_24e1a808a1609a1a": {
+      "text": "$$ロジャー$$\n「Bánh răng tuột ra trở về đúng chỗ,\n　dòng chảy ngưng trệ sẽ lại vận hành bình thường...\n　Đó là vai trò của ta trong thành phố này sao...」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_53128ce8f154fd06": {
+      "text": "$$ベック$$\n「Đừng có lảm nhảm những thứ khó hiểu nữa!\n　Mau phân thắng bại thôi!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_03b5db9ce98fb8d6": {
+      "text": "$$ロジャー$$\n「Có vẻ ngươi chưa nhớ ra điều quan trọng, $$ベック$$ nhỉ?\n　Nghề chính của ta là tài hùng biện này đấy.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_3915fb4102f1c1dd": {
+      "text": "$$ロジャー$$\n「Dù ta cũng chẳng nghĩ một tên lưu manh hạ đẳng như ngươi\n　sẽ chịu lắng nghe lời ta.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_817b2773b4ed563e": {
+      "text": "$$ベック$$\n「Tóm lại là vẫn dùng vũ lực như mọi khi chứ gì!\n　Cái đồ đàm phán bạo lực!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_1cc233cbc8c80af7": {
+      "text": "$$ロジャー$$\n「Đến lúc ngươi im miệng rồi, $$ベック$$!\n　Ta sẽ khiến ngươi hối hận vì đã xúc phạm nghề nghiệp của ta!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$ベック$$\n「Chính cái cách làm đó mới là vấn đề đấy!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_e180b22d18f48d38": {
+      "text": "$$シュバルツ$$\n「$$ロジャー・スミス$$...!\n　Trước hết, ta hoan nghênh việc\n　ngươi đã lấy lại một phần ký ức!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_e598c2a0b27e7f50": {
+      "text": "$$シュバルツ$$\n「Có vẻ người ấy là một chìa khóa quan trọng với ngươi.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_4d2a9066c4e7b27f": {
+      "text": "$$ロジャー$$\n「Hoang tưởng trừu tượng, chẳng buồn\n　truyền đạt ý mình cho người khác... Thật khó chấp nhận.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_10340119af3ed6db": {
+      "text": "$$ロジャー$$\n「Từng làm phóng viên báo chí thì ít nhất\n　cũng nên cố truyền đạt cho người khác hiểu đi.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_23a9c7ab620ab112": {
+      "text": "$$シュバルツ$$\n「Truyền đạt sự thật đâu cần dùng bút.\n　Cứ đưa sự thật ra trước mắt là đủ.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_4f0aca6deda07883": {
+      "text": "$$ロジャー$$\n「Nếu kết quả là vụ náo loạn này thì thật đáng khinh!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_8fe40600ce62dfbc": {
+      "text": "$$シュバルツ$$\n「Vẫn chưa chấp nhận được sự thật sao?」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_ff4ce5f3cf96b617": {
+      "text": "$$ロジャー$$\n「Ta đã đối mặt với nỗi sợ trong lòng.\n　Sự thật ngươi nói là gì thì ta cũng không sợ!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_d73c21f119847e35": {
+      "text": "$$ロジャー$$\n「Và ta nhất định sẽ tới được!\n　Phía bên kia thế giới chìm trong biển lửa mà ngươi nói!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_89766f5ffaa912d4": {
+      "text": "$$ロジャー$$\n「Hỡi những Megadeus đáng thương không có Dominus.\n　Coi đây là chút lòng thương của ta.」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$ロジャー$$\n「$$ビッグオー$$ mang cùng danh hiệu này\n　sẽ cho các ngươi yên nghỉ!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_451f726d4299ea35": {
+      "text": "$$葵$$\n「Đúng rồi...!\n　Đây rồi... điều chúng ta đã quên!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_e3d111e8bb190cb1": {
+      "text": "$$くらら$$\n「$$破界事変$$ và $$再世戦争$$...!\n　Những gì chúng ta có được trong các trận chiến ấy!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$朔哉$$\n「Thứ khiến ta nóng lên tận đáy lòng...!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_ab97c2b2418ea732": {
+      "text": "$$ジョニー$$\n「Mối liên kết với đồng đội...!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_2ddff5064af78db4": {
+      "text": "$$エイーダ$$\n「Tình cảm dành cho người quý giá...!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_050d0532c4b24bfe": {
+      "text": "$$葵$$\n「Giờ tất cả hòa làm một!\n　Chúng ta đang rực cháy!!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_d583fcea31bdad2e": {
+      "text": "$$葵$$\n「Lên thôi, mọi người!\n　Chơi tới cùng nào!!」",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_475f7653621a91b5": {
+      "text": "$$アムロ$$\n（Nếu những Mobile Suit chúng ta đánh hôm trước\n　cũng hành động vì mục đích như các Megadeus này,\n　thì nguyên nhân là gì?）",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_f228ae702350849b": {
+      "text": "$$アムロ$$\n（Tại sao những Mobile Suit ấy\n　lại có mặt trong thành phố Paradigm...?）",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_d69dc027cba3003f": {
+      "text": "$n\n（Gã đó đang ở đâu đó trong thành phố này...）",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_3c3735172a480b72": {
+      "text": "$n\n（Đợi đấy, $$ガドライト・メオンサム$$...!\n　Ta nhất định sẽ dồn ngươi vào đường cùng!）",
+      "status": "reviewed"
+    },
+    "stage0051a_04:r_1f418b5594cea300": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0033a_04:r_caaab7bad760e16d": {
+      "text": "$$五飛$$\n「Đến rồi à.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_99b162aa6aa286a2": {
+      "text": "$$五飛$$\n「Ta đợi ngươi lâu rồi, $$ヒイロ$$.\n　Ta sẽ phân thắng bại với ngươi ở nơi không ai cản trở.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_58fb02434a1c40b2": {
+      "text": "$$ヒイロ$$\n「Đây là công lý mà cậu nói sao?」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_1c0f94acd5a8a143": {
+      "text": "$$五飛$$\n「Cái công lý mang tên hòa bình được xây trên sự hy sinh ấy...!\n　Ta chỉ muốn xác nhận xem nó có thật sự đúng đắn không!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_1263541f4071624e": {
+      "text": "$$ヒイロ$$\n「$$五飛$$!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_3bc300bbdc277d82": {
+      "text": "$$五飛$$\n「Vì thế, ta sẽ trở thành kẻ ác!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_38762a09460d8b6b": {
+      "text": "$$ヒイロ$$\n「Được, $$五飛$$...\n　Tôi sẽ đấu với cậu...!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_7ab28e70b4d4f641": {
+      "text": "$$ヒイロ$$\n「Quân $$マリーメイア$$ sao...!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$五飛$$\n「Các ngươi định làm gì!\n　Đừng cản trở cuộc chiến của ta!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_ec335e69f984b8b3": {
+      "text": "$$デキム$$\n「Kẻ đang cản trở là ngươi đấy, $$張五飛$$.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_0abcaf0c31978670": {
+      "text": "$$五飛$$\n「$$デキム$$...!\n　Là ngươi giật dây sao!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_1d6bc48b7f246730": {
+      "text": "$$デキム$$\n「Ta từng cho rằng một phi công Gundam của thuộc địa như ngươi\n　sẽ có ích cho chúng ta.\n　Nhưng đến đây là hết.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_1af20fccc3c53cfc": {
+      "text": "$$デキム$$\n「Ngươi cũng là một trong những kẻ bác bỏ 《$$オペレーション・メテオ$$》...\n　Phải trừng phạt các Gundam của thuộc địa.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_f951916061232dcd": {
+      "text": "$$五飛$$\n「Không quên được tư thù, đúng là kẻ nhỏ nhen...!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_4d863c3fb88a4c39": {
+      "text": "$$デキム$$\n「Chính kẻ đó sẽ xoay chuyển thế giới...!\n　Chẳng bao lâu nữa, tất cả sẽ thuộc về chúng ta!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_44f4742c3dcce39a": {
+      "text": "$$デキム$$\n「Trước đó, ta sẽ loại bỏ mọi phi công Gundam\n　đã bác bỏ $$オペレーション・メテオ$$ đích thực do ta đề xướng!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_9e701cdeb3842c21": {
+      "text": "???\n「Ông đúng là một kẻ tầm thường...!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_6fd81f4abebe60c5": {
+      "text": "$$ヒイロ$$\n「$$カレン$$ à.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_da2132b5038ec737": {
+      "text": "$$五飛$$\n「$$カレン$$!\n　Cô đến hỗ trợ $$ヒイロ$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_495d61d3ec7e16f2": {
+      "text": "$$カレン$$\n「Không, $$五飛$$!\n　Tôi đến đón cậu về!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_5cd353758cfe474d": {
+      "text": "$$五飛$$\n「Cái gì...?」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_a653c8dec4c0f06f": {
+      "text": "$$カレン$$\n「Tôi, cậu và cả những người ở A21\n　đều đã chiến đấu để giành lại hòa bình cơ mà!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_86d493e37a9799a7": {
+      "text": "$$カレン$$\n「Vì thế, tôi sẽ không để cậu tiếp tục\n　cuộc chiến đau buồn này nữa!\n　Họ cũng nghĩ như vậy đấy!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_09d0fcc600cdd3df": {
+      "text": "$$ヒイロ$$\n「$$トロワ$$ và $$カトル$$ à.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_182faded068c15ed": {
+      "text": "$$トロワ$$\n「Vì dẫn $c đến Brussels\n　nên chúng tôi đến muộn.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_9c206d19bfda4bd5": {
+      "text": "$$カトル$$\n「Nhưng họ đã tiếp cận\n　tuyến phòng thủ thứ nhất rồi.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_6e558bc69acf5bf3": {
+      "text": "$$ヒイロ$$\n「Vậy chúng ta cũng phải nhanh lên.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_d60d0818e965232f": {
+      "text": "$$五飛$$\n「$$トロワ$$, $$カトル$$!\n　Các cậu cũng chấp nhận nền hòa bình giả tạo này sao!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_5b23687574286204": {
+      "text": "$$カトル$$\n「$$五飛$$, người quyết định điều đó không phải chúng ta.\n　Mà là tất cả những người sống trên thế giới này.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_6fd86c96891ea942": {
+      "text": "$$トロワ$$\n「Việc chúng ta cần làm không phải là dùng vũ lực chỉ đường.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_43e4e548c0b28376": {
+      "text": "$$五飛$$\n「Không cần nhiều lời!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_d80a9688790ed583": {
+      "text": "$$カレン$$\n「Đồ cứng đầu!\n　Cậu muốn bị dùng vũ lực ngăn lại đến thế sao!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_708bea61e3c43ada": {
+      "text": "$$ヒイロ$$\n「Đừng can thiệp, $$カレン$$.\n　$$五飛$$ muốn đấu với tôi.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_7b6f159eeaf4de0f": {
+      "text": "$$カレン$$\n「Nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_0827963cfd706e8d": {
+      "text": "$$トロワ$$\n「Cả $$ヒイロ$$ lẫn $$五飛$$ đều không phải người nghe khuyên là chịu.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$カトル$$\n「$$カレン$$,\n　chúng ta hãy đối phó với quân địch xung quanh.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_3f4035fd9db81258": {
+      "text": "$$カレン$$\n「...Tôi hiểu rồi.\n　Nhưng tôi có điều muốn nói với $$五飛$$!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_567b361a454c4b73": {
+      "text": "$$トロワ$$\n「$$カトル$$ và tôi cũng vậy.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_d22851aaafbbf8fc": {
+      "text": "$$ヒイロ$$\n「...Tùy các cậu.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_352534f64413d954": {
+      "text": "$$五飛$$\n「$$ヒイロ$$!\n　Mưu đồ của $$デキム$$ không liên quan!\n　Đây là cuộc chiến giữa ta và ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_79f2664edb1af798": {
+      "text": "$$ヒイロ$$\n「Đến đi, $$五飛$$.\n　Tôi sẽ giải quyết dứt điểm với cậu... và cả $$マリーメイア$$...!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$五飛$$\n「Chưa xong đâu, $$ヒイロ$$!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_1c5aa0d15ae24846": {
+      "text": "$$ヒイロ$$\n「$$五飛$$!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_53bb64ee17750ee2": {
+      "text": "$$五飛$$\n「Nhân loại không hề thay đổi!\n　Dù đã đánh bại kẻ thù ở từng thế giới...!\n　Trái Đất vẫn không thay đổi!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_7a7add80fde475ba": {
+      "text": "$$ヒイロ$$\n「Nhưng cậu càng chiến đấu,\n　những hy sinh vì hòa bình càng trở nên vô nghĩa...!\n　Hẳn cậu đã nhận ra rồi!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_b2befefdbed1393d": {
+      "text": "$$ヒイロ$$\n「Cuộc chiến của chúng ta đã kết thúc!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_2103f6df2ea2e447": {
+      "text": "$$五飛$$\n「Vậy là không cần chiến binh nữa sao!\n　Những người lính chỉ sống vì chiến tranh sẽ bị vứt bỏ sao!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_a12e3e130d896ff7": {
+      "text": "$$五飛$$\n「Nhìn A21 đi!\n　Thế giới này đâu có chỗ cho họ!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_b6f7b219eb4bd64b": {
+      "text": "$$カレン$$\n「Không phải, $$五飛$$!\n　Họ không bị thế giới ruồng bỏ!\n　Chính họ đã quay lưng với thế giới!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_91bf33c27ad39f0a": {
+      "text": "$$カレン$$\n「Đúng là thế giới đã không đối xử tử tế với họ...!\n　Nhưng làm những chuyện như thế\n　chẳng khác gì phủ nhận tất cả những gì họ từng làm!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_ee220318b96ab538": {
+      "text": "$$ヒイロ$$\n「Người lính vốn chiến đấu vì hòa bình!\n　Hãy thử tin vào thế giới hiện tại đi!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_ce1b55e526b6277a": {
+      "text": "$$五飛$$\n「Ta lên tiếng thay cho những người bị coi như vũ khí!\n　Ta chiến đấu vì tất cả người lính, kể cả ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_c304df6888eb78f7": {
+      "text": "$$カトル$$\n「Không phải thế, $$五飛$$!\n　Mọi người đâu phải những cỗ máy chiến đấu...!\n　Họ là con người!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_c26958634526e597": {
+      "text": "$$トロワ$$\n「Kẻ dùng lời lẽ khéo léo để thao túng họ\n　mới là kẻ thù chúng ta phải đánh bại.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_cdb750c9d380881a": {
+      "text": "$$ヒイロ$$\n「Hãy thừa nhận đi, $$五飛$$!\n　Khi chiến tranh kết thúc, người lính sẽ có thể\n　tìm ra cách sống như một con người!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_95fda74613c97b39": {
+      "text": "$$五飛$$\n「$$ヒイロ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_1956994937f8171e": {
+      "text": "$$ヒイロ$$\n「Kh...!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_48f49f6728c15612": {
+      "text": "$$五飛$$\n「Ta và ngươi đang chiến đấu thế này đây!\n　Chẳng phải chính lúc chiến đấu,\n　cả ta lẫn ngươi đều thấy mình thật sự được sống sao!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$五飛$$\n「Ta và ngươi cùng một loại!\n　Chỉ trên chiến trường, chúng ta mới tìm được\n　ý nghĩa tồn tại của bản thân!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_f02c37d91387d0ad": {
+      "text": "$$カレン$$\n「Không phải!!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$五飛$$\n「Chính là như thế!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_9796b3efa401a303": {
+      "text": "$$カレン$$\n「Đừng tự tiện coi $$ヒイロ$$ là cỗ máy chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_643b6eebfc0186b3": {
+      "text": "$$カレン$$\n「Không chỉ $$ヒイロ$$!\n　$$デュオ$$, $$カトル$$, $$トロワ$$ và cả $$キリコ$$ cũng vậy!\n　Tất cả đều là con người!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_291280e5f7eb9d70": {
+      "text": "$$カレン$$\n「Họ đều là con người, biết giận, biết cười!\n　$$ヒイロ$$ liều mạng vì $$リリーナ$$,\n　sao có thể là một cỗ máy chiến đấu được!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_32eb462c1b4999cb": {
+      "text": "$$カレン$$\n「Cậu cũng thế, $$五飛$$!\n　Vì là con người nên cậu mới giận $$ゼロ$$,\n　mới không chấp nhận cuộc hôn nhân của Thiên tử, đúng không!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_1f4337d6d393fc37": {
+      "text": "$$五飛$$\n「...!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_4740e748fae085ee": {
+      "text": "$$カレン$$\n「Những người ở A21 cũng vậy!\n　Dù suy nghĩ lệch lạc, $$タクマ$$ vẫn chiến đấu vì chị mình!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_b76524cd840e1d37": {
+      "text": "$$カレン$$\n「Mọi người ở $$２１世紀警備保障$$\n　đã chiến đấu vì công ty, vì thành phố!\n　Người lính hay nhân viên công ty, tất cả đều là con người!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_730ffe18400abfc2": {
+      "text": "$$カレン$$\n「Ai cũng có lý do chiến đấu của riêng mình!\n　Đâu phải cứ cầm súng mới là chiến đấu!\n　Sống cũng chính là chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_ffe0fca26da5cd38": {
+      "text": "$$五飛$$\n「$$カレン$$... cô...」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_bfb27f9eb2f7073e": {
+      "text": "$$ヒイロ$$\n「Thừa nhận đi, $$五飛$$!\n　$$トレーズ$$ không còn nữa!\n　Chính cậu đã đánh bại ông ấy!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_859dfa27bcaafe30": {
+      "text": "$$五飛$$\n「Không!\n　Đến giờ ta vẫn đang chiến đấu với hắn!\n　Để đập tan nền hòa bình giả tạo hắn để lại!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_71ebf05996a4b0fd": {
+      "text": "$$五飛$$\n「Ta không chấp nhận $$リリーナ$$ Peacecraft!\n　Cho rằng vứt bỏ vũ khí, buộc người lính ngừng chiến đấu\n　là có hòa bình thì hoàn toàn sai lầm!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_6214c11b1bca811e": {
+      "text": "$$五飛$$\n「Chính điều đó khiến phe tôn sùng quyền tối thượng của Trái Đất\n　lộng hành, làm phong trào chống Liên bang ở các thuộc địa lan rộng!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_8eaf6f3098ffed12": {
+      "text": "$$五飛$$\n「Lựa chọn không chiến đấu sẽ tạo ra mầm mống\n　cho một cuộc chiến còn lớn hơn!\n　$$マリーメイア$$ chính là bằng chứng!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_cf507214fe955d75": {
+      "text": "$$ヒイロ$$\n「Vì thế cậu mới theo $$マリーメイア$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_2113dcbabdfc758a": {
+      "text": "$$五飛$$\n「Đó sẽ là chỗ dựa tinh thần cho những người chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$カトル$$\n「$$ヒイロ$$!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_6a74519e1fc29c4b": {
+      "text": "$$五飛$$\n「$$ヒイロ$$! Sao không tránh!?」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_5b992878fee054b5": {
+      "text": "$$ヒイロ$$\n「Tôi hiểu suy nghĩ của cậu rồi...\n　Đúng là tình trạng hiện tại của Trái Đất\n　và các thuộc địa đã méo mó...」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$ヒイロ$$\n「Nhưng dùng chiến tranh để thay đổi nó chỉ lặp lại lịch sử!\n　Lịch sử chiến tranh đau buồn và thảm khốc!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_4a14ec0c511c7f0d": {
+      "text": "$$五飛$$\n「Vậy là bắt người dân thuộc địa phải nhẫn nhục chịu đựng sao!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_20cf167c0ec0d4d5": {
+      "text": "$$ヒイロ$$\n「Thế giới có thể thay đổi bằng những cách ngoài chiến đấu...!\n　Cậu đã thấy khả năng đó trong $$再世戦争$$ rồi!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_b591d812c96c6c99": {
+      "text": "$$ヒイロ$$\n「Nếu không ngăn dòng chảy chiến tranh tại đây,\n　thế giới sẽ lại cần những người lính như chúng ta...\n　những người bị buộc phải từ bỏ tất cả để chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_e350fa099c1ab072": {
+      "text": "$$ヒイロ$$\n「Như thế, lịch sử mang tên bi kịch sẽ tiếp diễn mãi mãi!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$カレン$$\n（$$リリーナ$$ từng nói $$ヒイロ$$ đã bị buộc học cách chiến đấu\n　như một điệp viên từ thuở nhỏ...）",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_c33bd700553abf91": {
+      "text": "$$カレン$$\n（Nhưng có lẽ đó không phải\n　cuộc sống mà $$ヒイロ$$ mong muốn...）",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_feee5c91826230e1": {
+      "text": "$$ヒイロ$$\n「$$五飛$$, nói cho tôi biết.\n　Chúng ta còn phải giết bao nhiêu người nữa?」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_bccc48e1964ad22d": {
+      "text": "$$五飛$$\n「...!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_f8736aaaa216c766": {
+      "text": "$$ヒイロ$$\n「Tôi còn phải nhân danh nhiệm vụ...\n　tước đi sinh mạng của người khác bao nhiêu lần nữa...」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_d1ec2522c87c361d": {
+      "text": "$$五飛$$\n「$$ヒイロ$$...」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_3599f0a4343fd95c": {
+      "text": "$$ヒイロ$$\n「Zero không cho tôi câu trả lời nào cả...\n　Nói cho tôi biết đi, $$五飛$$!」",
+      "status": "needs_review"
+    },
+    "stage0033a_04:r_3bc7834a5bf3ee76": {
+      "text": "$$五飛$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_366814efdc8b5800": {
+      "text": "$$トロワ$$\n「Gundam của $$五飛$$ đã ngừng di chuyển.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_9be1a4c10bb62515": {
+      "text": "$$カトル$$\n「...Kết thúc rồi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_94a88c90e557e16e": {
+      "text": "$$トロワ$$\n「Vậy xử lý nốt số còn lại.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_1c208ca0cbf26f28": {
+      "text": "$$ヒイロ$$\n「Đi thôi...」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_5b7ee307a700171a": {
+      "text": "$$カレン$$\n「Còn $$五飛$$ thì sao?」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_8d8f065c932da30a": {
+      "text": "$$カトル$$\n「Lúc này, cậu ấy cần thời gian.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_f5432119677514f7": {
+      "text": "$$トロワ$$\n「Đúng vậy.\n　Nhưng chúng ta và thế giới không có thời gian để chờ.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_4e5c8e989c4a7691": {
+      "text": "$$五飛$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_adec86483b13599a": {
+      "text": "$$ヒイロ$$\n「$$五飛$$...\n　Nếu Zero không cho câu trả lời,\n　thì tôi chỉ có một con đường để đi.」",
+      "status": "needs_review"
+    },
+    "stage0033a_04:r_2cf701bbcde3ec13": {
+      "text": "$$ヒイロ$$\n「Tôi sẽ tự tay tìm lấy tương lai.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_c17c58fdba72005e": {
+      "text": "$$五飛$$\n「Tự tìm lấy tương lai bằng sức mình... sao...」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_1fe8564d2b959317": {
+      "text": "$$五飛$$\n「Ta...」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_f527e012803f7f1c": {
+      "text": "$$五飛$$\n「Khốn kiếếếp!!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_4b1247bd3ca4905d": {
+      "text": "$$五飛$$\n「Đừng cản đường ta!\n　Ta sẽ xử lý ngươi sau!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_00c55e25f87b71d0": {
+      "text": "$$トロワ$$\n「Dừng lại đi, $$五飛$$.\n　Nhìn cậu như thế, tôi cũng thấy đau lòng.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_338f3b27e51dcc41": {
+      "text": "$$五飛$$\n「Cậu không cảm thấy gì sao, $$トロワ$$!?\n　Khi chiến tranh kết thúc, chính cậu sẽ chẳng còn gì...\n　Ngay cả một cái tên cũng không có!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_d91d4bc2d52b61c4": {
+      "text": "$$トロワ$$\n「Đúng là trước $$オペレーション・メテオ$$,\n　tôi chẳng có gì cả.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_0c8ea89b07432421": {
+      "text": "$$トロワ$$\n「Nhưng bây giờ tôi là $$トロワ・バートン$$.\n　Và có lẽ cậu không biết,\n　tôi còn là ngôi sao của một đoàn xiếc.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_4dbfba00ba7744ee": {
+      "text": "$$五飛$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_be100a32b731708d": {
+      "text": "$$トロワ$$\n「Tôi không còn vô danh nữa.\n　Những người lính khác cũng sẽ tìm được cách sống của riêng mình.」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_702f82442fcec8a9": {
+      "text": "$$五飛$$\n「Làm sao tin được những lời đó...!\n　Cuộc chiến của ta chưa kết thúc!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_b1e38da4e8775ffe": {
+      "text": "$$カトル$$\n「$$五飛$$, xin hãy ngừng chiến đấu!\n　Chẳng phải chúng ta đã chiến đấu\n　để chấm dứt chiến tranh sao!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$五飛$$\n「Chính nền hòa bình giả tạo chúng ta dựng nên đã gây ra chuyện này!\n　Vì thế ta sẽ lại phá hủy thế giới!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$カトル$$\n「Cậu chấp nhận những sinh mạng\n　sẽ mất đi vì điều đó sao!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_3dad695c99e9e052": {
+      "text": "$$五飛$$\n「Vậy làm sao cứu những người lính\n　đang bị giết chết ngay khi còn sống!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_66d4ae3a21caf881": {
+      "text": "$$カトル$$\n「Phải làm điều đó bằng cách khác ngoài chiến đấu!\n　Nếu không, cũng có nghĩa là chấp nhận\n　chiến tranh kéo dài mãi mãi!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_0c18da7b3a37825d": {
+      "text": "$$五飛$$\n「Ta muốn sự vĩnh cửu đó!\n　Dù phải trở thành kẻ ác!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_63249745ffae61b6": {
+      "text": "$$カトル$$\n「Cậu quá nhân hậu, $$五飛$$...\n　Nhưng lòng nhân hậu ấy phải hướng đến\n　những điều lớn lao hơn nữa!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_abdb034ae8509702": {
+      "text": "$$カレン$$\n「Trở về đi, $$五飛$$!\n　$c cũng cần sức mạnh của cậu!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_3ff2e21207d1d1d3": {
+      "text": "$$五飛$$\n「Rồi các người lại dựng nên\n　một nền hòa bình giả tạo nữa sao!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_e51ecf6d6aa42e75": {
+      "text": "$$カレン$$\n「Cậu nói cuộc chiến của chúng ta là giả dối sao!?\n　Vậy cậu có dám nói điều đó\n　trước mặt những đồng đội đã hy sinh không!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_47ddabb7b60131c2": {
+      "text": "$$カレン$$\n「Nếu nền hòa bình giành được là giả tạo,\n　thì biến nó thành thật là được!\n　Bằng cách khác ngoài chiến tranh!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_b025267f22788233": {
+      "text": "$$五飛$$\n「$$カレン$$...」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_ec1a06a7023bf72c": {
+      "text": "$$カレン$$\n「Đến giờ tôi vẫn rất ghét $$トレーズ$$!\n　Nhưng hắn đã cho cả thế giới biết\n　chiến tranh thảm khốc đến nhường nào!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_8805f96e52aaa462": {
+      "text": "$$カレン$$\n「Cậu đã đánh bại hắn, vậy mà giờ\n　lại làm chuyện giống hắn,\n　thật quá ngu ngốc!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_124591cb154fae64": {
+      "text": "$$五飛$$\n「Không phải...!\n　Ta... khác với $$トレーズ$$...!\n　Đây là cuộc chiến của ta!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$カレン$$\n「$$五飛$$!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_4bf9b05b5f948170": {
+      "text": "$$五飛$$\n「$$ヒイロ$$!\n　Hãy dùng hệ thống Zero để nhìn tương lai!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_eaa52d152f444bfd": {
+      "text": "$$五飛$$\n「Nếu nền hòa bình giả tạo này cứ tiếp diễn,\n　thế giới chắc chắn sẽ chìm trong một cuộc chiến\n　còn lớn hơn cuộc chiến do $$マリーメイア$$ gây ra!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_b4bc9e9435b58e6f": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_a9227573166977a9": {
+      "text": "$$五飛$$\n「Sao im lặng, $$ヒイロ$$!\n　Chẳng phải ngươi đã làm chủ Zero rồi sao!」",
+      "status": "needs_review"
+    },
+    "stage0033a_04:r_b0600ab9a9e8559d": {
+      "text": "$$ヒイロ$$\n「Tôi sẽ không hỏi Zero về tương lai nữa.」",
+      "status": "needs_review"
+    },
+    "stage0033a_04:r_7cbc63dad295f862": {
+      "text": "$$ヒイロ$$\n「$$五飛$$...!\n　Bây giờ, tôi chiến đấu để ngăn cậu lại!」",
+      "status": "reviewed"
+    },
+    "stage0033a_04:r_07f53c816e0a51f5": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

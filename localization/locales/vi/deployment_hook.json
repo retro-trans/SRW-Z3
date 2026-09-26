@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "deployment_hook:r_479b340ccc6c572b": {
+      "text": "Được, toàn quân xuất kích!",
+      "status": "translated"
+    },
+    "deployment_hook:r_ca4acbac57a2a35e": {
+      "text": "Được, mẫu hạm xuất kích!",
+      "status": "translated"
+    },
+    "deployment_hook:r_77949221bf58f862": {
+      "text": "Thay đổi vị trí trên bản đồ.",
+      "status": "translated"
+    },
+    "deployment_hook:r_70b9c4b9f1f37eff": {
+      "text": "Khoan, chờ một chút.",
+      "status": "translated"
+    },
+    "deployment_hook:r_9fcb3754cb1773c7": {
+      "text": "Trở lại màn hình chuẩn bị xuất kích.",
+      "status": "translated"
+    },
+    "deployment_hook:r_3559d2fad32c2435": {
+      "text": "Xuất kích với đội hình này?",
+      "status": "translated"
+    },
+    "deployment_hook:r_f7570547e9f80a64": {
+      "text": "Xuất kích với mẫu hạm này?",
+      "status": "translated"
+    }
+  }
+}

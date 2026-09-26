@@ -1,0 +1,682 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0059_04:r_caaab7bad760e16d": {
+      "text": "$$墨田$$\n「$$赤木$$!\n　Tôi đã đại tu $$ダイ・ガード$$ cho cậu rồi đấy.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_99b162aa6aa286a2": {
+      "text": "$$赤木$$\n「Vậy à...」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_58fb02434a1c40b2": {
+      "text": "$$百目鬼$$\n「Sao thế... Với người chỉ được cái hăng hái như $$赤木$$,\n　phản ứng vậy là yếu quá đấy.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_1c0f94acd5a8a143": {
+      "text": "$$柿小路$$\n「Trông thế này, có vẻ bác sĩ $$桃井$$ đã khiến các cậu cứng họng.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_1263541f4071624e": {
+      "text": "$$木下$$\n「Sao ông biết chuyện đó!?」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_3bc300bbdc277d82": {
+      "text": "$$柿小路$$\n「Tất nhiên là tôi biết chứ!\n　Thật tình... chưa xác minh đúng sai\n　mà các cậu đã hấp tấp hành động...!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_38762a09460d8b6b": {
+      "text": "$$厚井$$\n「Giám đốc, giận quá thì dạ dày lại đau đấy.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_7ab28e70b4d4f641": {
+      "text": "$$柿小路$$\n「Không sao!\n　Cả tôi và Trider đều đã được bảo dưỡng kỹ rồi.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$ワッ太$$\n「Nhờ vậy mà công suất của Trider cũng tăng lên rồi!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_ec335e69f984b8b3": {
+      "text": "$$厚井$$\n「Đúng vậy, thưa chủ tịch.\n　Chúng tôi đã thay một phần giáp bị hao mòn\n　bằng 《$$ガバールニウム$$》.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_0abcaf0c31978670": {
+      "text": "$$ワッ太$$\n「Đó là hợp kim làm nên thân Trider phải không?」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_1d6bc48b7f246730": {
+      "text": "$$厚井$$\n「Lượng dự trữ của nó còn rất ít.\n　Hiện một số bộ phận đang dùng vật liệu giáp khác.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_1af20fccc3c53cfc": {
+      "text": "$$セイミー$$\n「Nói cách khác, nếu toàn bộ giáp đều là $$ガバールニウム$$,\n　Trider sẽ khôi phục hiệu năng theo thiết kế,\n　và phát huy sức mạnh lớn hơn hiện nay.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_f951916061232dcd": {
+      "text": "$$厚井$$\n「Nhưng giờ không kiếm được $$ガバールニウム$$,\n　nên chuyện đó là bất khả thi.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_4d863c3fb88a4c39": {
+      "text": "$$ワッ太$$\n「Giám đốc thường vụ và cô $$セイミー$$ đừng lo.\n　Cháu và Trider sẽ không thua $$バアル$$\n　hay bất cứ kẻ nào đâu!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_44f4742c3dcce39a": {
+      "text": "$$いぶき$$\n「Trước tiên phải chặn quân đoàn Thú Máy.\n　Odaiba đang đầy du khách nghỉ hè,\n　mà việc sơ tán vẫn chưa xong.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_9e701cdeb3842c21": {
+      "text": "$$赤木$$\n「Chị $$いぶき$$...」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_6fd81f4abebe60c5": {
+      "text": "$$いぶき$$\n「Gì thế?」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_da2132b5038ec737": {
+      "text": "$$赤木$$\n「Em xin lỗi...\n　Đã tự ý hành động mà không nghĩ đến cảm xúc của chị...」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_495d61d3ec7e16f2": {
+      "text": "$$いぶき$$\n「...Cậu $$赤木$$ và bố tôi giống nhau thật đấy...」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_5cd353758cfe474d": {
+      "text": "$$赤木$$\n「Ý chị là sao?」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_a653c8dec4c0f06f": {
+      "text": "$$青山$$\n「Để sau đi, $$赤木$$!\n　Lão bá tước không đầu quen thuộc đến rồi!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_86d493e37a9799a7": {
+      "text": "$$ブロッケン$$\n「Ta đợi các ngươi lâu rồi, $$兜甲児$$ và $c!\n　Odaiba này sẽ là mồ chôn các ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_09d0fcc600cdd3df": {
+      "text": "$$ボス$$\n「Lão đó sao thế!\n　Chẳng lẽ cố tình ngoan ngoãn\n　trong lúc chúng ta ra ngoài vũ trụ à!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_182faded068c15ed": {
+      "text": "$$シンジ$$\n「Không ngờ ông ta lại có vẻ biết giữ lễ nghĩa nhỉ...」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_9c206d19bfda4bd5": {
+      "text": "$$アスカ$$\n「Nhìn kiểu gì mà cậu lại nghĩ\n　tên $$デュラハン$$ đó là kẻ như thế hả!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_6e558bc69acf5bf3": {
+      "text": "$$甲児$$\n「$$アスカ$$ nói đúng!\n　Dù gì hắn cũng là kẻ lôi Odaiba vào chiến tranh!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_d60d0818e965232f": {
+      "text": "$$甲児$$\n「Tới đây, $$ブロッケン$$!\n　Muốn đánh với bọn ta đến thế thì ta tiếp ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_5b23687574286204": {
+      "text": "$n\n「Tiện thể cho ngươi nếm mùi thất bại như mọi khi luôn.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_6fd86c96891ea942": {
+      "text": "$$柿小路$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_43e4e548c0b28376": {
+      "text": "$$木下$$\n「Sao thế, giám đốc?\n　Dạ dày lại đau ạ?」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_d80a9688790ed583": {
+      "text": "$$柿小路$$\n「Không... là... trong lúc $$ブロッケン伯爵$$\n　đọc bài diễn văn mở màn chẳng có gì mới,\n　tôi đã tính toán thử...」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_708bea61e3c43ada": {
+      "text": "$$柿小路$$\n「Lần cải tạo Trider này\n　có vẻ sẽ khiến chúng ta thâm hụt nhiều hơn dự tính.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ワッ太$$\n「Hả!? Thật sao, giám đốc!?」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_0827963cfd706e8d": {
+      "text": "$$柿小路$$\n「Tiếc là vậy...」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$Ｆ．Ｓ．$$\n「Vậy thì, giám đốc $$柿小路$$...\n　Riêng trận này, tôi sẽ đề nghị trưởng quan $$大塚$$\n　trả thù lao theo số địch bị hạ.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_3f4035fd9db81258": {
+      "text": "$$柿小路$$\n「Th-thật sao, ông $$Ｆ．Ｓ．$$!?」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_567b361a454c4b73": {
+      "text": "$$Ｆ．Ｓ．$$\n「Võ sĩ dù đói bụng vẫn giữ thể diện...\n　Nhưng các vị là dân công sở mà.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_d22851aaafbbf8fc": {
+      "text": "$$ミサト$$\n「Cuộc đời khắc nghiệt thật.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_352534f64413d954": {
+      "text": "$$大杉$$\n「Quả đúng như vậy.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_79f2664edb1af798": {
+      "text": "$$木下$$\n「Nghe trả theo thành tích là phải hăng hái lên thôi!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$柿小路$$\n「Đúng vậy, $$木下$$!\n　Đội Công ty Takeo General chúng ta\n　hãy đặt mục tiêu kiếm ít nhất 30.000 tiền thưởng!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_1c5aa0d15ae24846": {
+      "text": "$$ワッ太$$\n「Cháu hiểu rồi, giám đốc!\n　Két tiền công ty, hòa bình của Trái Đất và Odaiba,\n　chúng ta sẽ bảo vệ tất cả!!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_53bb64ee17750ee2": {
+      "text": "$$ブロッケン$$\n「Nuôôô!\n　Chừng này mà đòi đánh bại ta sao!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_7a7add80fde475ba": {
+      "text": "$$甲児$$\n「Ngoan cố quá đấy, $$ブロッケン$$!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_b2befefdbed1393d": {
+      "text": "$$ブロッケン$$\n「Im đi!\n　Đó chính là vũ khí mạnh nhất của ta!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_2103f6df2ea2e447": {
+      "text": "$$田中司令$$\n「Nguy rồi...!\n　Quân của $$宇宙魔王#pilot$$ đã đến!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_a12e3e130d896ff7": {
+      "text": "$$タケル$$\n「Là $$巨大円盤$$ của $$宇宙魔王#pilot$$!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ダンカン$$\n「Có vẻ ngươi đang khổ chiến nhỉ, $$ブロッケン伯爵$$.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_91bf33c27ad39f0a": {
+      "text": "$$ブロッケン$$\n「Không đến lượt ngươi lo!\n　Tên vô lễ, ngay cả tên cũng không chịu xưng!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_ee220318b96ab538": {
+      "text": "$$ダンカン$$\n「Ta là Ma nhân Tướng quân $$ダンカン$$.\n　Thuộc hạ trung thành của $$宇宙魔王#pilot$$,\n　và cánh tay phải của hoàng tử $$グーラ$$.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_ce1b55e526b6277a": {
+      "text": "$$ブロッケン$$\n「Của $$宇宙魔王#pilot$$...!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_c304df6888eb78f7": {
+      "text": "$$ダンカン$$\n「Có vẻ ngươi đã biết danh ngài ấy rồi.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_c26958634526e597": {
+      "text": "$$ダンカン$$\n「Đội quân này là quà $$宇宙魔王#pilot$$ tặng ngươi.\n　Cứ tùy ý sử dụng đi.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_cdb750c9d380881a": {
+      "text": "$$正太郎$$\n「Đứng lại, $$ダンカン$$!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_95fda74613c97b39": {
+      "text": "$$ダンカン$$\n「Đừng nóng vội, $$金田正太郎$$.\n　Muốn đấu với ta thì hãy vượt qua tình thế này trước đi.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_1956994937f8171e": {
+      "text": "$$ダンカン$$\n「Hoàng tử $$グーラ$$ cũng mong như thế.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_48f49f6728c15612": {
+      "text": "$$正太郎$$\n「$$グーラ$$...!?」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ダンカン$$\n「Cố hết sức đi nhé, $c.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_f02c37d91387d0ad": {
+      "text": "$$タケル$$\n「$$宇宙魔王#pilot$$ định liên thủ với quân đoàn Thú Máy sao!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$竜馬$$\n「Chậc!\n　Bọn ác ôn lại thân thiết với nhau à!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_9796b3efa401a303": {
+      "text": "$$ブロッケン$$\n「Ngừừ...!\n　Ta không để kẻ mới đến coi thường đâu!\n　Đã vậy thì ta sẽ cho thấy sức mạnh của mình!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_643b6eebfc0186b3": {
+      "text": "$$ブロッケン$$\n「Ha ha ha ha!\n　Lũ đang hớn hở vì mùa hè kia!\n　Ta sẽ dùng lửa địa ngục khiến các ngươi nóng hơn nữa!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_291280e5f7eb9d70": {
+      "text": "$$シモン$$\n「Thằng khốn đó!\n　Hắn định đốt thành phố bừa bãi sao!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_32eb462c1b4999cb": {
+      "text": "$$ノリコ$$\n「Dừng lại ngay!\n　Ông nghĩ hành vi vô pháp như thế có thể được dung thứ sao!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_1f4337d6d393fc37": {
+      "text": "$$ブロッケン$$\n「Ha ha ha ha!\n　Ta chẳng cần ngươi cho phép!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_4740e748fae085ee": {
+      "text": "$$赤木$$\n「Tên đó!\n　Ta không để ngươi tiếp tục đâu!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_b76524cd840e1d37": {
+      "text": "$$青山$$\n「$$赤木$$!\n　Nhìn ngay bên dưới pháo đài bay kìa!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_730ffe18400abfc2": {
+      "text": "Người dân\n「A... aa...!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_ffe0fca26da5cd38": {
+      "text": "Người dân\n「B-bác sĩ! Sợ quá!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_bfb27f9eb2f7073e": {
+      "text": "$$桃井$$\n「Không sao đâu!\n　$c... $$ダイ・ガード$$ sẽ cứu chúng ta!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_859dfa27bcaafe30": {
+      "text": "$$いぶき$$\n「Bố!!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_71ebf05996a4b0fd": {
+      "text": "$$赤木$$\n「Uôôôôô!!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_6214c11b1bca811e": {
+      "text": "$$ブロッケン$$\n「Con robot giấy bồi à!\n　Dù gào thét thế nào,\n　ngươi cũng chỉ bò được trên mặt đất thôi!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_8eaf6f3098ffed12": {
+      "text": "$$赤木$$\n「Để ta dạy cho ngươi, $$ブロッケン$$!\n　Có khí thế và nghị lực thì hầu như chuyện gì cũng xoay xở được!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_cf507214fe955d75": {
+      "text": "$$ブロッケン$$\n「Vô lýyyyy!!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_2113dcbabdfc758a": {
+      "text": "$$墨田$$\n「Tốt lắm!\n　Giỏi lắm, $$赤木$$!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$百目鬼$$\n「Nho ho ho!\n　Có vẻ việc tăng công suất đã đáng công rồi nhỉ!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_6a74519e1fc29c4b": {
+      "text": "$$ブロッケン$$\n「Chết tiệt!\n　Không ngờ ngươi lại lao tới đấm kẻ địch trên không!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_5b992878fee054b5": {
+      "text": "$$赤木$$\n「Thấy chưa, đây là sức mạnh thật sự của $$ダイ・ガード$$!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$いぶき$$\n「Còn nhờ khả năng dẫn đường chính xác của tôi và...」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_4a14ec0c511c7f0d": {
+      "text": "$$青山$$\n「Cả việc tôi điều chỉnh công suất khéo léo nữa đấy.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_20cf167c0ec0d4d5": {
+      "text": "$$赤木$$\n「Cũng khen kỹ thuật lái của tôi nữa chứ!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_b591d812c96c6c99": {
+      "text": "$$アスカ$$\n「Cái đó là sao vậy!?\n　Sao lại nhảy cao được đến thế!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_e350fa099c1ab072": {
+      "text": "$$赤木$$\n「Anh đã nói rồi mà, $$アスカ$$?\n　Nhờ khí thế và nghị lực đấy.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ノリコ$$\n「Còn nhờ nỗ lực và nghị lực nữa nhỉ!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_c33bd700553abf91": {
+      "text": "$n\n（Nghị lực bị nhắc hai lần rồi...）",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_feee5c91826230e1": {
+      "text": "$$シンジ$$\n「Anh $$赤木$$ giỏi quá!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_bccc48e1964ad22d": {
+      "text": "$$赤木$$\n「Anh cũng không thể thua bố chị $$いぶき$$ được.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_f8736aaaa216c766": {
+      "text": "$$いぶき$$\n「Bố...」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_d1ec2522c87c361d": {
+      "text": "$$桃井$$\n「Cảm ơn con, $$いぶき$$.\n　Nào, mọi người... chạy thôi.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_3599f0a4343fd95c": {
+      "text": "Người dân\n「Vâng, bác sĩ $$桃井$$!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_3bc7834a5bf3ee76": {
+      "text": "$$青山$$\n「Liều mình bảo vệ bệnh nhân không kịp chạy thoát...\n　Bố chị thật đáng quý.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_366814efdc8b5800": {
+      "text": "$$いぶき$$\n「Bố tôi mà.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_9be1a4c10bb62515": {
+      "text": "$$赤木$$\n「Nhưng chẳng phải bố chị\n　không chấp nhận công việc của chị sao...」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_94a88c90e557e16e": {
+      "text": "$$いぶき$$\n「Hai chuyện đó khác nhau.\n　Nào... chiến đấu bảo vệ Odaiba thôi.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_1c208ca0cbf26f28": {
+      "text": "$$ミサト$$\n「Các máy hãy theo sau $$ダイ・ガード$$!\n　Chúng ta sẽ dốc sức tấn công ngay lúc này!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_5b7ee307a700171a": {
+      "text": "$$ワッ太$$\n「Được rồi! Em sẽ không thua anh $$赤木$$ đâu!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_8d8f065c932da30a": {
+      "text": "$$正太郎$$\n「Mình sẽ hạ cả đám robot vũ trụ của $$宇宙魔王#pilot$$ nữa!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_f5432119677514f7": {
+      "text": "$$赤木$$\n「Phải thế chứ, $$ワッ太$$, $$正太郎$$!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_4e5c8e989c4a7691": {
+      "text": "$$ミサト$$\n「Nào, mọi người...!\n　Hãy cùng cậu $$赤木$$ lên tinh thần lần nữa!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_adec86483b13599a": {
+      "text": "$$ワッ太$$\n「Dù là học sinh tiểu học!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_2cf701bbcde3ec13": {
+      "text": "$$シンジ$$\n「D-dù là học sinh cấp hai!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_c17c58fdba72005e": {
+      "text": "$$甲児$$\n「Dù là học sinh cấp ba!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_1fe8564d2b959317": {
+      "text": "$$赤木$$\n「Hay nhân viên văn phòng cũng có thể bảo vệ hòa bình!!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_f527e012803f7f1c": {
+      "text": "$$ミサト$$\n「Trước mắt có vẻ địch không còn viện binh nữa.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_4b1247bd3ca4905d": {
+      "text": "$$田中司令$$\n「Nhờ mọi người ở $$２１世紀警備保障$$ nhanh chóng hướng dẫn sơ tán,\n　thiệt hại trong thành phố cũng được giảm đến mức thấp nhất.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_00c55e25f87b71d0": {
+      "text": "$$Ｆ．Ｓ．$$\n「Mong rằng qua chuyện này, $$あしゅら男爵$$ và đồng bọn\n　sẽ hiểu những gì chúng làm đều vô ích.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_338f3b27e51dcc41": {
+      "text": "$$いぶき$$\n（Bố và mọi người cũng bình an phải không...）",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_d91d4bc2d52b61c4": {
+      "text": "Người dân\n「Cảm ơn $$ダイ・ガード$$!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_0c8ea89b07432421": {
+      "text": "$$桃井$$\n「Bác đã nói rồi mà?\n　$$ダイ・ガード$$ nhất định sẽ bảo vệ thành phố.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_4dbfba00ba7744ee": {
+      "text": "Người dân\n「Bác sĩ $$桃井$$ là bạn của $$ダイ・ガード$$ ạ?」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_be100a32b731708d": {
+      "text": "$$桃井$$\n「Đúng vậy.\n　Con gái bác đang ở trên con robot đó đấy.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_702f82442fcec8a9": {
+      "text": "$$郁絵$$\n「Đã vượt số tiền mục tiêu rồi!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_b1e38da4e8775ffe": {
+      "text": "$$ワッ太$$\n「Thành công rồi, mọi người!\n　Vậy là thoát cảnh thua lỗ rồi!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$柿小路$$\n「Vẫn chưa đâu, thưa chủ tịch!\n　Còn lâu két công ty mới đầy,\n　và Trái Đất mới có hòa bình!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$ワッ太$$\n「Cháu biết mà, giám đốc!\n　Từ giờ mọi người hãy tiếp tục cùng nhau cố gắng nhé!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_3dad695c99e9e052": {
+      "text": "$$ブロッケン$$\n「Hừ, hãy nhớ lấy!\n　Lần gặp tới ta nhất định sẽ trả món nợ này!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_66d4ae3a21caf881": {
+      "text": "$$葵$$\n「Cuống cuồng như thế mà còn buông lời hăm dọa,\n　chẳng ra dáng chút nào.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_0c18da7b3a37825d": {
+      "text": "$$甲児$$\n「Rốt cuộc kết quả vẫn như mọi lần nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_63249745ffae61b6": {
+      "text": "$$甲児$$\n「$$ブロッケン$$!\n　Mau về nói với $$あしゅら$$ đi!\n　Có cố bao nhiêu lần cũng vô ích thôi!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_abdb034ae8509702": {
+      "text": "$$ブロッケン$$\n「Im đi, $$兜甲児$$!\n　Ta không dễ dãi đến mức\n　ngoan ngoãn vâng dạ rồi về đâu!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_3ff2e21207d1d1d3": {
+      "text": "$$甲児$$\n「Vậy sao!\n　Thế thì ta sẽ tống cổ ngươi ngay bây giờ!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_e51ecf6d6aa42e75": {
+      "text": "$$ブロッケン$$\n「Nu hu hu, $$弓さやか$$!\n　Ta cũng mong được gặp ngươi lắm đấy!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_47ddabb7b60131c2": {
+      "text": "$$さやか$$\n「Lão hào hứng kiểu quái gì thế này!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_b025267f22788233": {
+      "text": "$$ブロッケン$$\n「Nu hô hô!\n　Ta sẽ tha hồ giở trò bậy bạ với ngươi và con robot của ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_ec1a06a7023bf72c": {
+      "text": "$$さやか$$\n「Biết ngay mà, lão bá tước dê xồm!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_8805f96e52aaa462": {
+      "text": "$$さやか$$\n「Kẻ thù của phụ nữ, $$ブロッケン伯爵$$!\n　Ta và Venus sẽ tiêu diệt ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_124591cb154fae64": {
+      "text": "$$竜馬$$\n「Chào, $$ブロッケン$$.\n　Ta cũng muốn gặp ngươi lắm.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$隼人$$\n「Ba người bọn ta cũng đã tụ họp đông đủ rồi.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_4bf9b05b5f948170": {
+      "text": "$$弁慶$$\n「Hay lấy đầu ngươi chơi ném bóng qua lại nhỉ?」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_eaa52d152f444bfd": {
+      "text": "$$ブロッケン$$\n「Q-quỷ dữ! Ác ma!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_b4bc9e9435b58e6f": {
+      "text": "$$竜馬$$\n「Để đối phó với lũ khốn,\n　ta cũng sẵn sàng hóa thành quỷ dữ dưới địa ngục!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_a9227573166977a9": {
+      "text": "$$竜馬$$\n「Là thế đấy!\n　Chuẩn bị tinh thần đi!!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_b0600ab9a9e8559d": {
+      "text": "$$赤木$$\n「Chúng ta nhất định sẽ bảo vệ những người\n　đang tận hưởng kỳ nghỉ hè quý giá!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_7cbc63dad295f862": {
+      "text": "$$ブロッケン$$\n「Ha ha ha!\n　Thói bao đồng đó sẽ hại chết ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_07f53c816e0a51f5": {
+      "text": "$$赤木$$\n「Bao đồng hay lo chuyện thiên hạ cũng mặc!\n　$$ダイ・ガード$$ là siêu robot bảo vệ hòa bình!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_2d09c6f6a2d990ea": {
+      "text": "$$赤木$$\n「Ta tới đây, bá tước không đầu!\n　Ta sẽ cho ngươi thấy sức mạnh của $$ダイ・ガード$$ sau nâng cấp!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_3c5fcfc484a51913": {
+      "text": "$$ブロッケン$$\n「Đến rồi à, chủ tịch nhí!\n　Đã làm xong bài tập hè chưa hả!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_0476ffd10c764b0e": {
+      "text": "$$ワッ太$$\n「N-nói đến chuyện đó thì...」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$郁絵$$\n「Cố lên, chủ tịch!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_2b3479c4cf0680f4": {
+      "text": "$$厚井$$\n「Cô $$スズネ$$, em $$かなめ$$ và chúng tôi\n　đều ở bên chủ tịch!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_e370696b8936b08c": {
+      "text": "$$木下$$\n「Nếu Trider bị bắn hạ thì công ty sẽ thiệt hại lớn đấy!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_9d7b02c5e728b7aa": {
+      "text": "$$柿小路$$\n「Vững tinh thần lên, chủ tịch!\n　Bài tập lẫn trận đấu đều còn ở phía trước!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_9af213fc64e0afec": {
+      "text": "$$ワッ太$$\n「Cháu hiểu rồi, mọi người!\n　Cháu sẽ không thua $$ブロッケン$$, $$バアル$$\n　hay bài tập đâu!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_d7f1c506e78e55ff": {
+      "text": "$$ワッ太$$\n「Tiện thể luôn!\n　Thua lỗ hay suy thoái cũng đừng hòng đánh bại taaa!!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_0c705091f748360e": {
+      "text": "$$正太郎$$\n（Quân đoàn của $$宇宙魔王#pilot$$\n　đã bắt đầu dốc sức xâm lược Trái Đất...）",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_9eb8599304125b2f": {
+      "text": "$$正太郎$$\n（$$グーラ$$... Rốt cuộc mình vẫn phải đấu với cậu sao...）",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_a072aa25e5f521e0": {
+      "text": "$n\n「Vẫn chơi bẩn như mọi khi nhỉ, $$ブロッケン伯爵$$!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_24e1a808a1609a1a": {
+      "text": "$$ブロッケン$$\n「Cứ nói tùy thích!\n　Ta sẽ sống lại từ đáy địa ngục bao nhiêu lần cũng được,\n　và nhấn chìm thế giới này trong nỗi kinh hoàng!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_53128ce8f154fd06": {
+      "text": "$n\n「Muốn chết đi chết lại mãi thế,\n　xem ra ngươi rất thích chịu hành hạ nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_03b5db9ce98fb8d6": {
+      "text": "$$ブロッケン$$\n「Ơ... không phải ý đó...」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_3915fb4102f1c1dd": {
+      "text": "$n\n「Ta sẽ chiều theo yêu cầu của ngươi...!\n　Lần này là xiên que!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_817b2773b4ed563e": {
+      "text": "$$ブロッケン$$\n「K-khoan đã, cậu kia!\n　Vừa rồi ta chỉ lỡ miệng thôi mà!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_1cc233cbc8c80af7": {
+      "text": "$$ブロッケン$$\n「Nu ồ!\n　Con robot to lớn quá!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$ノリコ$$\n「Ngạc nhiên rồi chứ gì.\n　Đây là $$ガンバスター$$ của ta.」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_e180b22d18f48d38": {
+      "text": "$$ブロッケン$$\n「Nu hu hu... Dưới thân hình đồ sộ ấy,\n　cô gái ngồi trong có vóc dáng hấp dẫn thế nào nhỉ?」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_e598c2a0b27e7f50": {
+      "text": "$$ノリコ$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_4d2a9066c4e7b27f": {
+      "text": "$$ブロッケン$$\n「Nu hô hô!\n　Ta sẽ lột giáp ngay và giở trò bậy bạ với ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_10340119af3ed6db": {
+      "text": "$$ノリコ$$\n「Đ-đồ dê xồmmm!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_23a9c7ab620ab112": {
+      "text": "$$ノリコ$$\n「Ta tuyệt đối không tha!\n　Kẻ thù vô liêm sỉ thế này,\n　ta sẽ dùng $$ガンバスター$$ giẫm bẹp!!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_4f0aca6deda07883": {
+      "text": "$$ノリコ$$\n（Đã lâu rồi mới về Trái Đất...\n　Quê hương của chúng ta...）",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_8fe40600ce62dfbc": {
+      "text": "$$ノリコ$$\n（Chị ơi...\n　Dù đây là Trái Đất của thế giới khác,\n　$$ノリコ$$ vẫn sẽ chiến đấu hết mình!）",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_ff4ce5f3cf96b617": {
+      "text": "$$スズネ$$\n「Lên nào, $n!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_d73c21f119847e35": {
+      "text": "$n\n「Quả nhiên thế này vẫn tốt hơn...」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_89766f5ffaa912d4": {
+      "text": "$$スズネ$$\n「Sao vậy?\n　Đang chiến đấu mà em lại có vẻ mặt như thế...!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_c2df6b71e3b4b6ec": {
+      "text": "$n\n「K-không có gì ạ!\n　Em lên đây!」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_451f726d4299ea35": {
+      "text": "$$スズネ$$\n「$n thật kỳ lạ...」",
+      "status": "reviewed"
+    },
+    "stage0059_04:r_e3d111e8bb190cb1": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

@@ -1,0 +1,918 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0006_03:r_caaab7bad760e16d": {
+      "text": "$$ネェル・アーガマ$$",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_99b162aa6aa286a2": {
+      "text": "$$ネェル・アーガマ$$",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_58fb02434a1c40b2": {
+      "text": "$$ネェル・アーガマ$$",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　\n　　　　～ $$ネェル・アーガマ$$, phòng họp tác chiến ～",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_1263541f4071624e": {
+      "text": "$$オットー$$\n「Chào mừng đến với $$ネェル・アーガマ$$.\n　Tôi là thuyền trưởng, đại tá $$オットー・ミタス$$.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_3bc300bbdc277d82": {
+      "text": "$$ジェフリー$$\n「Tôi là đại tá $$ジェフリー・ワイルダー$$,\n　thuyền trưởng Macross Quarter. Đây là thiếu tá\n　$$オズマ・リー$$, đội trưởng lực lượng cơ động.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_38762a09460d8b6b": {
+      "text": "$$オットー$$\n「Vậy tôi cũng xin giới thiệu nhân sự của mình.\n　Đây là thuyền phó, trung tá $$レイアム・ボーリンネア$$...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_7ab28e70b4d4f641": {
+      "text": "$$レイアム$$\n「Rất hân hạnh được gặp các anh.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$オットー$$\n「Còn đây là trung tá $$ダグザ・マックール$$ của ECOAS\n　và sĩ quan phụ tá, thiếu tá $$コンロイ・ハーゲンセン$$.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_ec335e69f984b8b3": {
+      "text": "$$ジェフリー$$\n「Ồ...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_0abcaf0c31978670": {
+      "text": "$$オズマ$$\n（Ra đó là ECOAS, những kẻ được gọi là Thợ săn người...）",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_1d6bc48b7f246730": {
+      "text": "$$ダグザ$$\n「Rất hân hạnh, đại tá $$ジェフリー$$.\n　Tôi cũng đã nghe danh $$Ｓ．Ｍ．Ｓ$$\n　của đoàn tàu Frontier.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_1af20fccc3c53cfc": {
+      "text": "$$ジェフリー$$\n「Tôi cũng đã nghe về những hoạt động của ECOAS.\n　Thấy hai anh có mặt trên tàu, tôi cũng phần nào\n　hiểu được mục tiêu tác chiến của chiến hạm này.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_f951916061232dcd": {
+      "text": "$$コンロイ$$\n「Thợ săn người...\n　Anh cũng biết nhiệm vụ chính của chúng tôi sao...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_4d863c3fb88a4c39": {
+      "text": "$$オットー$$\n「Vậy thì dễ nói chuyện rồi. Đúng như đại tá nghĩ,\n　nhiệm vụ chính của Londo Bell là điều tra Neo Zeon,\n　gần đây họ đang có những động thái đáng ngại.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_44f4742c3dcce39a": {
+      "text": "$$オットー$$\n「Dưới sự chỉ huy của tư lệnh, đại tá $$ブライト・ノア$$,\n　các chiến hạm đang làm nhiệm vụ\n　trên Trái Đất và ngoài vũ trụ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_9e701cdeb3842c21": {
+      "text": "$$ジェフリー$$\n「Vậy các anh đến đây để điều tra\n　hoạt động của họ trong khí quyển sao?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_6fd81f4abebe60c5": {
+      "text": "$$ダグザ$$\n「Đúng vậy.\n　Chúng tôi đang truy đuổi một đội Mobile Suit\n　nghi là của Neo Zeon, vừa đổ bộ xuống Trái Đất.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_da2132b5038ec737": {
+      "text": "$$ネェル・アーガマ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_495d61d3ec7e16f2": {
+      "text": "$$ネェル・アーガマ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_5cd353758cfe474d": {
+      "text": "$$ネェル・アーガマ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_a653c8dec4c0f06f": {
+      "text": "　\n　　\n　　　　～ $$ネェル・アーガマ$$, khoang chứa máy ～",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_86d493e37a9799a7": {
+      "text": "$$甲児$$\n「...Tớ hiểu nhiệm vụ của Londo Bell rồi,\n　nhưng Neo Zeon là tổ chức chính trị\n　đòi mở rộng quyền lợi cho các thuộc địa mà nhỉ?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_09d0fcc600cdd3df": {
+      "text": "$$甲児$$\n「Giờ Trái Đất và các thuộc địa đã hợp nhất\n　thành Liên bang Trái Đất, nên lực lượng Neo Zeon\n　cũng là một phần của quân Liên bang chứ?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_182faded068c15ed": {
+      "text": "$$カミーユ$$\n「Trên danh nghĩa thì đúng là vậy.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_9c206d19bfda4bd5": {
+      "text": "$$アルト$$\n「'Trên danh nghĩa' là sao?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_6e558bc69acf5bf3": {
+      "text": "$$カミーユ$$\n「$$甲児$$, $$アルト$$ và mọi người đến từ 《$$ＡＤＷ$$》,\n　nên có lẽ chưa hiểu rõ\n　Zeon là một thế lực như thế nào...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_d60d0818e965232f": {
+      "text": "$$カミーユ$$\n「Ở 《$$ＵＣＷ$$》, nơi tớ từng sống,\n　cái tên đó mang ý nghĩa đặc biệt.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_5b23687574286204": {
+      "text": "$$甲児$$\n「Nghĩa là sao?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_6fd86c96891ea942": {
+      "text": "$$カミーユ$$\n「Khoảng mười năm trước, tại một trong những thế giới\n　hợp thành 《$$ＵＣＷ$$》, Zeon đã phát động\n　chiến tranh giành độc lập khỏi Liên bang Trái Đất.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_43e4e548c0b28376": {
+      "text": "$$カミーユ$$\n「Từ đó, Zeon trở thành tiếng nói đại diện\n　cho bất mãn và phẫn nộ của Spacenoid...\n　những người sống ngoài vũ trụ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_d80a9688790ed583": {
+      "text": "$$アルト$$\n「Nhưng Zeon đã thua Liên bang Trái Đất rồi mà?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_708bea61e3c43ada": {
+      "text": "$$カミーユ$$\n「Đúng vậy.\n　Nhưng một phần lực lượng đã thoát khỏi khu vực Trái Đất,\n　chờ cơ hội tái khởi.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_7b6f159eeaf4de0f": {
+      "text": "$$カミーユ$$\n「Ngoài ra, nhiều người cũng bất mãn với chính sách\n　đối với cư dân vũ trụ của Liên bang sau đó.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_0827963cfd706e8d": {
+      "text": "$$カミーユ$$\n「Vì vậy, ảnh hưởng của Zeon vẫn bám rễ rất sâu.\n　Ngay cả sau $$大時空震動$$, điều đó cũng không thay đổi.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$ファ$$\n「Tại 《$$ＵＣＷ$$》, trong 《$$多元戦争$$》,\n　tàn quân Zeon là 《$$アクシズ$$》 cũng đã bắt tay\n　với 《$$プラント$$》 để chống lại Liên bang Trái Đất.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_3f4035fd9db81258": {
+      "text": "$$カミーユ$$\n「Sau cuộc chiến đó, trong lúc bọn tớ bị đưa đến $$ＡＤＷ$$,\n　ở $$ＵＣＷ$$, Zeon đã đổi tên thành Neo Zeon\n　và trở lại vũ đài chính trị.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_567b361a454c4b73": {
+      "text": "$$さやか$$\n「Nhưng $$新世時空震動$$ đã hợp nhất $$ＵＣＷ$$ với $$ＡＤＷ$$,\n　rồi Neo Zeon, $$プラント$$ cũng gia nhập Liên bang\n　như các quốc gia thuộc địa khác mà?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_d22851aaafbbf8fc": {
+      "text": "$$カミーユ$$\n「Không ít người cho rằng đó chỉ là tạm thời.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_352534f64413d954": {
+      "text": "$$カミーユ$$\n「Thực tế, ngay cả trong thế giới mới này,\n　một bộ phận cư dân vũ trụ đã bắt đầu\n　bất mãn với chính sách của Liên bang Trái Đất.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_79f2664edb1af798": {
+      "text": "$$ミシェル$$\n「Đúng vậy.\n　Ngay trong nghị viện Liên bang, Neo Zeon\n　và $$プラント$$ cũng giữ lập trường như phe đối lập.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$ルカ$$\n「Người đại diện Neo Zeon\n　là bà $$ハマーン・カーン$$ đó phải không ạ?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_1c5aa0d15ae24846": {
+      "text": "$$ミシェル$$\n「Tớ cũng thấy trên TV rồi.\n　Đẹp thật đấy, nhưng trông có vẻ khó đối phó.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_53bb64ee17750ee2": {
+      "text": "$$カミーユ$$\n「...Tớ từng chiến đấu với bà ấy.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_7a7add80fde475ba": {
+      "text": "$$甲児$$\n「Thật sao!?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_b2befefdbed1393d": {
+      "text": "$$カミーユ$$\n「Đúng như $$ミシェル$$ cảm nhận, bà ấy rất mạnh.\n　Cả với tư cách phi công lẫn lãnh đạo chính trị...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_2103f6df2ea2e447": {
+      "text": "$$カミーユ$$\n「Đồng thời, việc nội bộ Liên bang Trái Đất hiện nay\n　có xu hướng coi nhẹ cư dân vũ trụ cũng là sự thật.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_a12e3e130d896ff7": {
+      "text": "$$カミーユ$$\n「$$ハマーン$$ sẽ không bao giờ lùi bước\n　trước phe đó đâu.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_b6f7b219eb4bd64b": {
+      "text": "$$アルト$$\n「Ở 《$$ＡＤＷ$$》 cũng có xu hướng\n　coi nhẹ cư dân vũ trụ,\n　nhưng không ngờ 《$$ＵＣＷ$$》 cũng vậy...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_91bf33c27ad39f0a": {
+      "text": "$$カミーユ$$\n「Trong nội bộ Liên bang Trái Đất của $$ＵＣＷ$$,\n　những thế lực như 《$$ティターンズ$$》\n　và 《$$ブルーコスモス$$》 từng nắm rất nhiều quyền lực.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_ee220318b96ab538": {
+      "text": "$$カミーユ$$\n「Tớ tưởng các tổ chức đó đã bị xóa sổ\n　trong $$多元戦争$$, nhưng xem ra\n　gốc rễ của chúng sâu hơn tớ nghĩ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_ce1b55e526b6277a": {
+      "text": "$$さやか$$\n「Liên bang Trái Đất và Neo Zeon sẽ khai chiến sao...?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_c304df6888eb78f7": {
+      "text": "$$カミーユ$$\n「...Đúng là mâu thuẫn giữa hai bên đang tăng lên,\n　nhưng nếu không có biến cố lớn làm ngòi nổ,\n　tớ nghĩ sẽ chưa đến mức chiến tranh.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_c26958634526e597": {
+      "text": "$$カミーユ$$\n「Vả lại, đâu phải mọi cư dân vũ trụ\n　đều ủng hộ lập trường cứng rắn của $$ハマーン$$.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_cdb750c9d380881a": {
+      "text": "$$ルカ$$\n「Nhưng em nghe nói có người đang muốn đưa\n　một thành viên nhà Zabi, dòng họ từng lãnh đạo Zeon,\n　lên làm ngọn cờ tập hợp lực lượng.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_95fda74613c97b39": {
+      "text": "$$アルト$$\n「Thời buổi này mà còn coi trọng huyết thống sao?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_1956994937f8171e": {
+      "text": "$$カミーユ$$\n「Nghe có vẻ vô lý, nhưng muốn một tổ chức hành động,\n　cần có một biểu tượng nào đó.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_48f49f6728c15612": {
+      "text": "$$甲児$$\n「Xét về mặt đó thì bà $$ハマーン$$ ấy...\n　hơi đáng sợ, không giống kiểu lãnh đạo\n　có thể thu phục lòng mọi người.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ミシェル$$\n「Vậy thì yên tâm rồi.\n　Người nhà Zabi đó là cô bé tên $$ミネバ$$ Zabi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_f02c37d91387d0ad": {
+      "text": "$$ミシェル$$\n「Tớ thấy trên bản tin,\n　nghe nói cô bé còn chưa đến mười tuổi.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_6bbd5a3c5afb87e0": {
+      "text": "$n\n「...Không thể lạc quan được đâu.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_9796b3efa401a303": {
+      "text": "$$カミーユ$$\n「Cậu là...?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_643b6eebfc0186b3": {
+      "text": "$$甲児$$\n「À, quên chưa giới thiệu.\n　Đây là $F.\n　Cũng là bạn cùng lớp của bọn tớ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_291280e5f7eb9d70": {
+      "text": "$$カミーユ$$\n「Tớ là $$カミーユ・ビダン$$.\n　Từng cùng $$甲児$$ và mọi người chiến đấu trong\n　Chiến tranh Tái Thế. Giờ tớ là phi công thử nghiệm ở Anaheim.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_32eb462c1b4999cb": {
+      "text": "$$ファ$$\n「Mình là $$ファ・ユイリィ$$.\n　Mình làm trợ lý cho $$カミーユ$$ ở Anaheim.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_1f4337d6d393fc37": {
+      "text": "$n\n「Cảm ơn đã giúp trong trận chiến hôm trước.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_4740e748fae085ee": {
+      "text": "$$カミーユ$$\n「Vậy cậu là phi công của chiếc máy màu xanh đó...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_b76524cd840e1d37": {
+      "text": "$$カミーユ$$\n「Có vẻ $$ネェル・アーガマ$$ sẽ cùng hoạt động\n　với Quarter trong một thời gian.\n　Từ giờ mong được giúp đỡ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_730ffe18400abfc2": {
+      "text": "$n\n「Tôi cũng vậy.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_ffe0fca26da5cd38": {
+      "text": "$$アルト$$\n「$$カミーユ$$...\n　$$Ｚガンダム$$ của cậu đâu rồi?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_bfb27f9eb2f7073e": {
+      "text": "$$カミーユ$$\n「Zeta đang được đại tu ở Anaheim trên Mặt Trăng.\n　Nghe nói kiểm tra từng bộ phận sẽ mất khá nhiều thời gian.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_859dfa27bcaafe30": {
+      "text": "$$甲児$$\n「Đến cả những kẻ như hôm trước cũng đã xuất hiện...\n　Mong là nó sớm quay lại.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_71ebf05996a4b0fd": {
+      "text": "$$カミーユ$$\n「Ừ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_6214c11b1bca811e": {
+      "text": "$$カミーユ$$\n（Nhưng đợt bảo dưỡng Zeta lần này quá đột ngột.\n　Đến mức bất thường...）",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_8eaf6f3098ffed12": {
+      "text": "$$ミシェル$$\n「Này, $n...\n　Lúc nãy cậu nói không thể lạc quan là ý gì?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_cf507214fe955d75": {
+      "text": "$n\n「Một số trang web ngầm nói rằng\n　$$ミネバ$$ Zabi xuất hiện trước công chúng là người đóng thế,\n　còn người thật thì lớn tuổi hơn.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_2113dcbabdfc758a": {
+      "text": "$$ファ$$\n「Tại sao lại dùng người đóng thế nhỏ tuổi hơn?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$n\n「Chắc để đánh lạc hướng, khiến Liên bang bớt đề phòng.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_6a74519e1fc29c4b": {
+      "text": "$$ミシェル$$\n「Ra vậy.\n　Vì nghĩ đó vẫn là trẻ con nên Liên bang sẽ mất cảnh giác.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_5b992878fee054b5": {
+      "text": "$$カミーユ$$\n（Nghĩ đến cảm giác lạ khi gặp $$ミネバ$$\n　trong $$多元戦争$$,\n　cũng không thể khẳng định đó hoàn toàn là tin vịt...）",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$カミーユ$$\n（Nhưng cảm giác bất an này... là sao...?\n　Mình đang sợ uy áp của $$ハマーン$$ sao...?）",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_4a14ec0c511c7f0d": {
+      "text": "$$リディ$$\n「$$カミーユ$$, đoàn tụ cảm động xong rồi\n　thì giới thiệu cả bọn tôi nữa được không?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_20cf167c0ec0d4d5": {
+      "text": "$$カミーユ$$\n「A, vâng... thiếu úy $$リディ$$.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_b591d812c96c6c99": {
+      "text": "$$リディ$$\n「Vậy để tôi tự giới thiệu với các cô cậu.\n　Tôi là thiếu úy $$リディ・マーセナス$$,\n　phụ trách chiếc $$リゼル$$ số 2 trên tàu này.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_e350fa099c1ab072": {
+      "text": "$$甲児$$\n「Chiếc số 2...?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$リディ$$\n「Hỏi đúng chỗ khó nói rồi...\n　Chiếc số 1 do $$カミーユ$$ phụ trách.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_c33bd700553abf91": {
+      "text": "$$リディ$$\n「Đứng sau một thường dân thì cũng mất mặt thật,\n　nhưng tiếc là hiện giờ\n　kỹ năng phi công của $$カミーユ$$ vẫn hơn tôi.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_feee5c91826230e1": {
+      "text": "$$カミーユ$$\n「Đừng nói thế mà, thiếu úy $$リディ$$.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_bccc48e1964ad22d": {
+      "text": "$$リディ$$\n「Không, không, tôi đang chính thức\n　thách đấu với cậu lần nữa đấy.\n　Cậu nhận lời chứ, $$カミーユ$$?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_f8736aaaa216c766": {
+      "text": "$$カミーユ$$\n「Nếu thiếu úy muốn vậy.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_d1ec2522c87c361d": {
+      "text": "$$リディ$$\n「Tốt, quyết định vậy nhé.\n　...Các cậu làm chứng cho tôi. Tôi sẽ bằng thực lực\n　giành lấy vị trí phi công số một từ $$カミーユ$$!」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_3599f0a4343fd95c": {
+      "text": "$$甲児$$\n「Là quân nhân mà thân thiện thật nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_3bc7834a5bf3ee76": {
+      "text": "$$アルト$$\n「Nghe nói là tinh nhuệ của quân Liên bang,\n　tớ cứ tưởng sẽ là một người kiêu kỳ lắm,\n　nhưng chắc chúng ta sẽ hợp với anh ấy đấy.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_366814efdc8b5800": {
+      "text": "$$エマ$$\n「$$ネェル・アーガマ$$ chủ yếu được vận hành thử nghiệm,\n　nên có lẽ hơi đặc biệt.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_9be1a4c10bb62515": {
+      "text": "$$エマ$$\n「Tôi là trung úy $$エマ・シーン$$.\n　Tôi đã nghe $$カミーユ$$ và $$ファ$$ kể về các cậu.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_94a88c90e557e16e": {
+      "text": "$$カツ$$\n「Tôi là $$カツ・コバヤシ$$.\n　Cũng như $$カミーユ$$ và $$ファ$$,\n　tôi là phi công thử nghiệm ở Anaheim.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_1c208ca0cbf26f28": {
+      "text": "$$ファ$$\n「Trung úy $$エマ$$ và $$カツ$$ từng chiến đấu\n　cùng mình và $$カミーユ$$\n　trong $$多元戦争$$ ở $$ＵＣＷ$$.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_5b7ee307a700171a": {
+      "text": "$$アルト$$\n「Vậy cũng là thành viên của 《$$ＺＥＵＴＨ$$》 đó nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_8d8f065c932da30a": {
+      "text": "$$甲児$$\n「Thế thì đáng tin cậy quá rồi.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_f5432119677514f7": {
+      "text": "$$リディ$$\n「Này này, tôi không thuộc $$ＺＥＵＴＨ$$,\n　nhưng các cậu cũng có thể trông cậy vào tôi mà.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_4e5c8e989c4a7691": {
+      "text": "$$ミシェル$$\n「Nhân tiện, trung úy $$エマ$$...\n　'Vận hành thử nghiệm' chị vừa nói là sao ạ?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_adec86483b13599a": {
+      "text": "$$エマ$$\n「$$ネェル・アーガマ$$ là tàu kế nhiệm\n　của một chiến hạm tên Argama,\n　vốn được $$エゥーゴ$$ sử dụng.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_2cf701bbcde3ec13": {
+      "text": "$$アルト$$\n「《$$エゥーゴ$$》...\n　Tổ chức mà $$カミーユ$$ và mọi người từng tham gia.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_c17c58fdba72005e": {
+      "text": "$$エマ$$\n「Do những xáo trộn khi $$エゥーゴ$$\n　sáp nhập vào Liên bang Trái Đất,\n　chiến hạm này không có chiếc nào cùng lớp.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_1fe8564d2b959317": {
+      "text": "$$エマ$$\n「Vì thế, tàu thường được giao nhiệm vụ đơn độc,\n　hoạt động tách khỏi lực lượng chính của Londo Bell.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_f527e012803f7f1c": {
+      "text": "$$カミーユ$$\n「Tớ và thiếu úy $$リディ$$ đang thử nghiệm đánh giá\n　mẫu máy mới $$リゼル$$ trên tàu, nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_4b1247bd3ca4905d": {
+      "text": "$$カミーユ$$\n「Rồi khi truy đuổi đơn vị nghi là của Neo Zeon\n　đã hạ xuống khí quyển, bọn tớ tham chiến luôn.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_00c55e25f87b71d0": {
+      "text": "$$アルト$$\n「Chiếc $$リゼル$$ đó là bản sản xuất hàng loạt\n　của $$Ｚガンダム$$ mà cậu từng lái à?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_338f3b27e51dcc41": {
+      "text": "$$カミーユ$$\n「Nó kế thừa ý tưởng thiết kế, nhưng về kết cấu\n　thì gần với bản cải tiến của $$メタス$$ hơn.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_d91d4bc2d52b61c4": {
+      "text": "$$ファ$$\n「Vì vậy mình cũng tham gia thử nghiệm đấy.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_0c8ea89b07432421": {
+      "text": "$$甲児$$\n「Vậy chúng ta gặp lại nhau thế này\n　gần như là tình cờ nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_4dbfba00ba7744ee": {
+      "text": "$$アルト$$\n「Có thời gian, tớ sẽ dẫn cậu đi thăm $$第２新東京市$$.\n　$$沙慈$$ cũng đang học ở trường kỹ thuật Anaheim đấy.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_be100a32b731708d": {
+      "text": "$$カミーユ$$\n「Cậu ấy cũng đến Nhật rồi à.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_702f82442fcec8a9": {
+      "text": "$$リディ$$\n「Đoàn tụ với bạn cũ...\n　Thật tốt biết bao.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_b1e38da4e8775ffe": {
+      "text": "$$エマ$$\n「Thiếu úy... có lẽ tôi hơi nhiều chuyện,\n　nhưng nhân lúc ở Trái Đất, cậu về thăm nhà một lần đi?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$リディ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$エマ$$\n「Cậu vẫn chưa muốn về sao?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_3dad695c99e9e052": {
+      "text": "$$リディ$$\n「...Cho đến khi có thể tự hào rằng mình đã trưởng thành\n　bằng chính sức mình, không dựa vào uy thế của cha mẹ...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_66d4ae3a21caf881": {
+      "text": "$$リディ$$\n「Cũng vì thế mà tôi muốn thắng $$カミーユ$$.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_0c18da7b3a37825d": {
+      "text": "$$エマ$$\n「Tôi hiểu rồi.\n　Nhưng đừng nóng vội.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_63249745ffae61b6": {
+      "text": "$$リディ$$\n「Cảm ơn trung úy.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_abdb034ae8509702": {
+      "text": "$$コンロイ$$\n「Toàn bộ phi công tập trung tại phòng họp tác chiến.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_3ff2e21207d1d1d3": {
+      "text": "$$カツ$$\n「Có chuyện gì sao, thiếu tá $$コンロイ$$?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_e51ecf6d6aa42e75": {
+      "text": "$$コンロイ$$\n「Đội trinh sát báo đã phát hiện một máy\n　có vẻ thuộc đơn vị mà chúng ta đang truy đuổi.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_47ddabb7b60131c2": {
+      "text": "$$エマ$$\n「Neo Zeon sao?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_b025267f22788233": {
+      "text": "$$コンロイ$$\n「Chúng ta sẽ hành động để xác nhận.\n　Các thành viên thuộc Quarter cũng phối hợp nhé.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_ec1a06a7023bf72c": {
+      "text": "$$アルト$$\n「Rõ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_8805f96e52aaa462": {
+      "text": "$$甲児$$\n「Nếu có kẻ muốn châm ngòi chiến tranh lần nữa,\n　bọn tôi sẽ đối phó với chúng.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_124591cb154fae64": {
+      "text": "$$カミーユ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$ネェル・アーガマ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_4bf9b05b5f948170": {
+      "text": "$$ネェル・アーガマ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_eaa52d152f444bfd": {
+      "text": "$$ネェル・アーガマ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_b4bc9e9435b58e6f": {
+      "text": "　\n　　\n　　　　～ $$ネェル・アーガマ$$, khoang chứa máy ～",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_a9227573166977a9": {
+      "text": "$$リディ$$\n「...Đơn vị chúng ta giao chiến hôm nay...\n　quả nhiên là của Neo Zeon sao...?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_b0600ab9a9e8559d": {
+      "text": "$$エマ$$\n「Chắc chắn là có liên quan đến họ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_7cbc63dad295f862": {
+      "text": "$$カツ$$\n「$$ハマーン$$ định gây chiến với Liên bang Trái Đất sao?\n　Nếu vậy thì tôi không thể tha thứ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_07f53c816e0a51f5": {
+      "text": "$$カツ$$\n「$$ＵＣＷ$$ và $$ＡＤＷ$$ khó khăn lắm mới chung tay\n　xây dựng được Liên bang Trái Đất cơ mà...!」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_2d09c6f6a2d990ea": {
+      "text": "$$カミーユ$$\n「Nhưng Liên bang Trái Đất\n　cũng đâu phải hoàn toàn không có vấn đề.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_3c5fcfc484a51913": {
+      "text": "$$カツ$$\n「$$カミーユ$$...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_0476ffd10c764b0e": {
+      "text": "$$カミーユ$$\n「Thái độ coi thường cư dân vũ trụ đã ăn sâu như thế,\n　nếu bỏ mặc thì sớm muộn cũng dẫn tới chiến tranh lớn.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$カツ$$\n「Vậy $$カミーユ$$, cậu cho rằng nếu xảy ra chiến tranh\n　thì cũng đành chịu sao...!?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_2b3479c4cf0680f4": {
+      "text": "$$カミーユ$$\n「Tớ không có ý đó.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_e370696b8936b08c": {
+      "text": "$$カミーユ$$\n「Chính vì vậy, như thuyền trưởng $$ジェフリー$$ đã nói,\n　cách Liên bang xử lý sự việc hôm nay rất quan trọng.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_9d7b02c5e728b7aa": {
+      "text": "$$ファ$$\n「Họ sẽ không lấy chuyện này làm cớ\n　để đàn áp cư dân vũ trụ ngay đâu nhỉ...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_9af213fc64e0afec": {
+      "text": "$$エマ$$\n「Làm vậy chỉ gây thêm bất mãn không cần thiết,\n　rồi chiến tranh sẽ thực sự bùng nổ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_d7f1c506e78e55ff": {
+      "text": "$$エマ$$\n「Hơn nữa, phe ôn hòa trong Liên bang Trái Đất\n　chắc chắn sẽ không để một số người hành động quá khích.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_0c705091f748360e": {
+      "text": "$$カミーユ$$\n（Có lẽ ngay từ đầu, Neo Zeon đã điều quân\n　chỉ để thăm dò phản ứng của Liên bang...）",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_9eb8599304125b2f": {
+      "text": "$$カミーユ$$\n（Nhưng $$ハマーン$$ có chọn cách thận trọng như thế không...?\n　Nếu vậy, đứng sau chuyện này là...）",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_a072aa25e5f521e0": {
+      "text": "$$ファ$$\n「$$カミーユ$$...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_24e1a808a1609a1a": {
+      "text": "$$カツ$$\n「Tôi nói thẳng nhé, $$カミーユ$$.\n　Trong lòng cậu vẫn đang nghĩ đến đại úy $$クワトロ$$.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_53128ce8f154fd06": {
+      "text": "$$カミーユ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_03b5db9ce98fb8d6": {
+      "text": "$$カツ$$\n「Điều cậu sợ nhất lúc này là\n　đại úy $$クワトロ$$ đã trở thành lãnh đạo Neo Zeon,\n　và chính ông ấy ra lệnh cho trận chiến này.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_3915fb4102f1c1dd": {
+      "text": "$$リディ$$\n「Khoan đã. Đại úy $$クワトロ$$\n　là người từng lãnh đạo $$エゥーゴ$$ mà nhỉ?\n　Sao ông ấy lại ở Neo Zeon...?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_817b2773b4ed563e": {
+      "text": "$$カミーユ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_1cc233cbc8c80af7": {
+      "text": "$$カミーユ$$\n「Ông ấy là $$シャア・アズナブル$$...\n　Cũng là người được gọi là Sao Chổi Đỏ của Zeon.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$$リディ$$\n「Cái...!?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_e180b22d18f48d38": {
+      "text": "$$アルト$$\n「Sao Chổi Đỏ...?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_e598c2a0b27e7f50": {
+      "text": "$$甲児$$\n「Là ai vậy ạ?\n　Người tên $$シャア・アズナブル$$ đó.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_4d2a9066c4e7b27f": {
+      "text": "$$エマ$$\n「Các cậu ở $$ＡＤＷ$$ có lẽ chưa từng nghe tên,\n　nhưng ông ấy từng là phi công át chủ bài\n　của quân đội Công quốc Zeon.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_10340119af3ed6db": {
+      "text": "$$エマ$$\n「Không chỉ là một phi công xuất sắc,\n　nghe nói sức thu hút của ông ấy\n　còn vượt xa tầm vóc một sĩ quan bình thường.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_23a9c7ab620ab112": {
+      "text": "$$カツ$$\n「$$シャア$$ là đối thủ của anh $$アムロ$$.\n　Hai người từng nhiều lần giao chiến trong cuộc chiến\n　giữa Zeon và Liên bang, tức $$一年戦争$$.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_4f0aca6deda07883": {
+      "text": "$$甲児$$\n「Nhưng đại úy $$クワトロ$$ đã cùng $$カミーユ$$\n　và đại úy $$アムロ$$ chiến đấu trong $$エゥーゴ$$\n　suốt $$多元戦争$$ mà nhỉ?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_8fe40600ce62dfbc": {
+      "text": "$$カミーユ$$\n「Ông ấy đã suy nghĩ xem điều gì quan trọng\n　với thế giới lúc đó, rồi cùng chúng tôi chiến đấu.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_ff4ce5f3cf96b617": {
+      "text": "$$カミーユ$$\n「Ngay cả khi bị đưa đến $$ＡＤＷ$$\n　và chiến đấu trong $$ＺＥＸＩＳ$$, điều đó cũng không đổi.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_d73c21f119847e35": {
+      "text": "$$カミーユ$$\n「Vì vậy, tôi không muốn nghĩ rằng đại úy $$クワトロ$$\n　đã trở lại Neo Zeon và đang định gây chiến.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_89766f5ffaa912d4": {
+      "text": "$$リディ$$\n「Vậy cứ tiếp tục tin như thế đi.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$カミーユ$$\n「Thiếu úy $$リディ$$...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_451f726d4299ea35": {
+      "text": "$$リディ$$\n「Lo chuyện chưa xảy ra cũng chẳng ích gì.\n　Trước hết, cứ hết sức làm tốt việc trước mắt đã.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_e3d111e8bb190cb1": {
+      "text": "$$アルト$$\n「Anh lạc quan thật đấy.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_7c0d3c51f9a11ca0": {
+      "text": "$$リディ$$\n「Vì tôi muốn sống như vậy mà.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_ab97c2b2418ea732": {
+      "text": "$$カミーユ$$\n「Cảm ơn thiếu úy.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_2ddff5064af78db4": {
+      "text": "$$リディ$$\n「Muốn cảm ơn thì giúp tôi tổng hợp dữ liệu trận hôm nay đi.\n　Chiếc máy dẫn đầu đội $$ギラ・ドーガ$$ đó\n　có vẻ được chế tạo cho Người cường hóa.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_050d0532c4b24bfe": {
+      "text": "$$カミーユ$$\n「Vâng.\n　Nếu anh không chê thì tôi sẵn lòng giúp.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_d583fcea31bdad2e": {
+      "text": "$$甲児$$\n「Cố lên nhé, $$カミーユ$$.\n　Bọn tớ về đây.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_475f7653621a91b5": {
+      "text": "$$カミーユ$$\n「Về? Về Quarter à?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_f228ae702350849b": {
+      "text": "$$アルト$$\n「Không, về $$第２新東京市$$.\n　Phải chuẩn bị cho chuyến tham quan học tập tuần sau nữa.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_d69dc027cba3003f": {
+      "text": "$$カミーユ$$\n「Nhắc mới nhớ, các cậu vẫn còn đi học nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_3c3735172a480b72": {
+      "text": "$$アルト$$\n「Cậu cũng đâu thuộc quân Liên bang,\n　hay đến học ở THPT Jindai đi?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_1f418b5594cea300": {
+      "text": "$$カミーユ$$\n「Không... tớ tự nguyện làm phi công thử nghiệm mà.\n　Lúc này, tớ muốn dốc sức cho công việc đó.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_f87fb889124bfaef": {
+      "text": "$$甲児$$\n「Cậu với $n đều nghiêm túc quá đấy.\n　Đừng căng thẳng quá nhé.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_79c90de32a79212d": {
+      "text": "$$カミーユ$$\n「Cảm ơn.\n　Tớ sẽ ghi nhớ lời đó.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_33f7fd55913419e8": {
+      "text": "$$カミーユ$$\n（Đại úy $$クワトロ$$...\n　Người đã chiến đấu với 《$$トレーズ$$》 Khushrenada như ông,\n　tôi tin sẽ không làm điều gì dại dột.）",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_473d9a88b4ca96e7": {
+      "text": "$$カミーユ$$\n（Vì vậy, tôi sẽ không nghĩ ngợi lan man nữa,\n　mà tiến bước theo cách của mình.）",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_4de6ac85c63bac12": {
+      "text": "Phòng làm việc của quan chức cấp cao",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_4c92652c9b1adf6f": {
+      "text": "Phòng làm việc của quan chức cấp cao",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_ce90563a934d49fb": {
+      "text": "Phòng làm việc của quan chức cấp cao",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_4fb296e63cb1fb46": {
+      "text": "　\n　　\n　　　　　　　　～ Trụ sở đảng Neo Zeon ～",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_6d77e72dbbcd7dfe": {
+      "text": "$$カイザス$$\n「...Có vẻ đơn vị đổ bộ xuống Trái Đất\n　đã hoàn thành mục tiêu suôn sẻ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_9dc59affd40f32fc": {
+      "text": "$$ハマーン$$\n「$$ギュネイ・ガス$$...\n　Xem ra hữu dụng hơn ta tưởng.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_0cea115be526a319": {
+      "text": "$$カイザス$$\n「Giờ thì không biết ý định của Liên bang Trái Đất\n　có trở nên rõ ràng không đây...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_d36072babd12aeb4": {
+      "text": "$$ハマーン$$\n「Chưa chắc.\n　...Chúng ta đâu có dư dả thời gian\n　để áp dụng biện pháp mềm yếu thế này?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_09ee921a85025fd3": {
+      "text": "$$カイザス$$\n「Nhưng đây là ý định của người đó... của đại tá.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_fae689f2a1057b61": {
+      "text": "$$ハマーン$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_91c6d0bb53854ecc": {
+      "text": "$$カイザス$$\n「Sự hiện diện của ông ấy\n　có thể trở thành ngọn cờ tập hợp Neo Zeon.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_42a3149105314ab8": {
+      "text": "$$ハマーン$$\n「Gạt tiểu thư $$ミネバ$$ sang một bên sao?」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_62ecd978c667bd29": {
+      "text": "$$カイザス$$\n「Thời đại này cần ai trong hai người,\n　chắc các hạ cũng hiểu rõ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_d441e6cc908ac01b": {
+      "text": "$$ハマーン$$\n「Đúng là nhân vật thích hợp để tạm thay chỗ...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_b2aab8873350ea1f": {
+      "text": "$$カイザス$$\n「Cũng vì người ấy đã biến mất khỏi $$ＵＣＷ$$,\n　dù chỉ khoảng nửa năm.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_2c7af4c55d8ac938": {
+      "text": "$$カイザス$$\n「Bản thân tôi cũng mong người ấy sớm quyết định.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_653b741d07545dff": {
+      "text": "$$ハマーン$$\n「Hừ... cả hai chúng ta đều còn vương vấn.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_d584d4b5af55b1cf": {
+      "text": "$$カイザス$$\n「Không chỉ riêng tôi và các hạ đâu.\n　Với mọi cư dân vũ trụ,\n　sự hiện diện của người ấy đều rất đặc biệt.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_db0ee69ece206fcd": {
+      "text": "$$カイザス$$\n「Chính vì vậy, thời đại sắp tới cần có đại tá.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_f97e6925c9e37332": {
+      "text": "$$ハマーン$$\n「Ta hiểu điều đó.\n　Vì thế ta mới đứng ra trước công chúng,\n　gánh lấy những việc vụn vặt này.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_422861e0b8d77d0c": {
+      "text": "$$カイザス$$\n「Tôi hiểu những nhọc lòng của các hạ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_ef16bcaa2b0e0c45": {
+      "text": "$$ハマーン$$\n「Giờ chỉ còn chờ xem Liên bang phản ứng thế nào.\n　Tùy tình hình, chúng ta có thể sẽ bận rộn đấy.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_2b93cca10f1c36a8": {
+      "text": "$$カイザス$$\n「Vậy tôi sẽ chuẩn bị cho việc đàm phán với $$プラント$$.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_7980fd37141d88d0": {
+      "text": "$$ハマーン$$\n（$$シャア$$...\n　Không có ngươi, thế giới vẫn cứ vận hành...）",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_ac21212c36d2b9ad": {
+      "text": "$$ハマーン$$\n（Ở thế giới này, ta sẽ thực hiện tâm nguyện của Zeon.\n　Bằng chính đôi tay mình...）",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_a26e2108358af7a4": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_a8118b2e37aa1382": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_017a56991b7b8ca4": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_ad3e1db3419665fb": {
+      "text": "$$ＡＧ$$\n「...Ôi chao, cậu $$カミーユ$$...\n　Lần xuất kích này quả là vất vả nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_0149e3a5f2e5ef78": {
+      "text": "$$カミーユ$$\n「Anh là $$ＡＧ$$ sao...\n　Tôi đã nghe $$ルカ$$ kể,\n　nhưng đúng là một robot đáng kinh ngạc.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_3ad10e705167a3fa": {
+      "text": "$$ＡＧ$$\n「Không, không... tôi chỉ là một kẻ keo kiệt giữ Chip,\n　trong đầu chẳng có gì ngoài việc kiếm Chip Z thôi.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_bdc546b199c80996": {
+      "text": "$$ＡＧ$$\n「Nhưng lòng ganh đua của phi công tên $$ギュネイ$$\n　với cậu $$カミーユ$$ đã tạo ra Chip Z rất tốt đấy.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_22c8caf8c08c5119": {
+      "text": "$$ＡＧ$$\n「Giá trị lên đến 100 Z!\n　Tôi sẽ thêm số này vào kho nhé.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_9c13714b3efbc7a8": {
+      "text": "$$カミーユ$$\n「Ra Chip Z được tạo thành như thế...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_96f156e19b53fc09": {
+      "text": "$$ＡＧ$$\n「Nhưng hãy cẩn thận nhé.\n　Tên đó... chắc chắn sẽ lại nhắm vào\n　cậu $$カミーユ$$ ngay khi có cơ hội.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_feb0390bba7fe1fb": {
+      "text": "$$カミーユ$$\n「Cảm ơn.\n　Nhưng tôi cũng không định dễ dàng để bị hạ đâu.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_8a78bcec22029401": {
+      "text": "$$ＡＧ$$\n「Phải có tinh thần như vậy chứ.\n　Tôi lại mong chờ những Chip Z tuyệt vời tiếp theo đây.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_f42017dfce31dea9": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_ef7426919f628d8a": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_9e994a4b926d9906": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_ffae76d2a77abf5a": {
+      "text": "　\n　　\n　　　　　　　　　　　～ D-Trader ～",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_3ac462d37e5893ff": {
+      "text": "$$ＡＧ$$\n「Nếu Trái Đất và vũ trụ cứ thế chia thành hai phe\n　rồi khai chiến, chuyện gì sẽ xảy ra nhỉ...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_fd6bdf7910d7d925": {
+      "text": "$$ＡＧ$$\n「Thời loạn là lúc thương nhân kiếm bộn tiền,\n　nhưng tiếc là hiện giờ tôi chỉ có thể\n　hướng dẫn quý khách ở D-Trader...」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_d38be46e6cd7a5e5": {
+      "text": "$$ＡＧ$$\n「Ôi, mong trụ sở mau cử người đến đón...\n　Không thì có khi tôi sẽ cải tạo $$ジェニオン$$\n　thành thứ quái dị mất.」",
+      "status": "reviewed"
+    },
+    "stage0006_03:r_3fe2078328753c16": {
+      "text": "$$ＡＧ$$\n「Đùa vậy thôi, hôm nay cũng hăng hái lên...\n　buôn bán, buôn bán!」",
+      "status": "reviewed"
+    }
+  }
+}

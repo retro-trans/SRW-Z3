@@ -1,0 +1,702 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0054_04:r_caaab7bad760e16d": {
+      "text": "$$モニカ$$\n「Phát hiện máy địch phía sau Quarter!\n　Chúng đang tấn công ta!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_99b162aa6aa286a2": {
+      "text": "$$ジェフリー$$\n「Chúng đến đón kẻ đột nhập sao!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_58fb02434a1c40b2": {
+      "text": "$$レイアム$$\n「Đã xác nhận quân Altair.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_1c0f94acd5a8a143": {
+      "text": "$$オットー$$\n「Lũ đó...!\n　Chẳng biết tình hình thế giới này mà cứ...!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_1263541f4071624e": {
+      "text": "$$ブライト$$\n「Cho các máy xuất kích ngay!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_3bc300bbdc277d82": {
+      "text": "$$カイエン$$\n「Anh định làm gì khi lập đội hình\n　với chúng tôi vậy, $$熱気バサラ$$!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_38762a09460d8b6b": {
+      "text": "$$バサラ$$\n「$$アマタ$$!\n　Cậu định đấu với chiếc màu đỏ kia chứ gì!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_7ab28e70b4d4f641": {
+      "text": "$$アマタ$$\n「Em định thế, nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$バサラ$$\n「Vậy tôi sẽ hâm nóng không khí cho cậu!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_ec335e69f984b8b3": {
+      "text": "$$オズマ$$\n「Ưưư!\n　『PLANET DANCE』 sao!!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_0abcaf0c31978670": {
+      "text": "$$リディ$$\n「Chuyện này là sao vậy?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_1d6bc48b7f246730": {
+      "text": "$$カツ$$\n「$$熱気バサラ$$ đang cổ vũ chiến tranh sao?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_1af20fccc3c53cfc": {
+      "text": "$$バサラ$$\n「Đây đâu phải chiến tranh!\n　Mà là trận chiến tình yêu!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_f951916061232dcd": {
+      "text": "$n\n「Hả!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_4d863c3fb88a4c39": {
+      "text": "$$アルト$$\n「Anh nói cái gì vậy!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_44f4742c3dcce39a": {
+      "text": "$$桂$$\n「Hay đấy!\n　Tự dưng thấy dễ thương hẳn!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_9e701cdeb3842c21": {
+      "text": "$$モーム$$\n「Thật là! Đến cả ngài $$桂$$ cũng vậy!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_6fd81f4abebe60c5": {
+      "text": "$$ガムリン$$\n「$$アマタ$$!\n　Cứ để chúng tôi lo địch xung quanh,\n　cậu hãy nhắm vào máy chỉ huy kia!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_da2132b5038ec737": {
+      "text": "$$アマタ$$\n「Thế có được không ạ?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_495d61d3ec7e16f2": {
+      "text": "$$ガムリン$$\n「Hắn không đến vì Altair,\n　mà chỉ muốn giành lấy $$ミコノ$$.\n　Đúng là không thể gọi đây là chiến tranh nữa.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_5cd353758cfe474d": {
+      "text": "$$ガムリン$$\n「Nếu không muốn giao cô ấy cho hắn,\n　thì chính cậu phải chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_a653c8dec4c0f06f": {
+      "text": "$$ミレーヌ$$\n「Nếu thế thì tôi cũng cổ vũ!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_86d493e37a9799a7": {
+      "text": "$$アマタ$$\n「Rõ ạ!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_09d0fcc600cdd3df": {
+      "text": "$$カイエン$$\n「Dù sao đi nữa!\n　Không thể tha cho tên đó!\n　Lên nào!!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_182faded068c15ed": {
+      "text": "$$ゼシカ$$\n（Tình địch... trận chiến tình yêu...）",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_9c206d19bfda4bd5": {
+      "text": "$$カグラ$$\n「Tuyệt thật!\n　Người tao cứ nóng lên mãi!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_6e558bc69acf5bf3": {
+      "text": "$$カグラ$$\n「Chờ tao nhé, $$シルフィ$$!\n　Tao sẽ hạ thằng đó rồi đến đón mày ngay!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_d60d0818e965232f": {
+      "text": "$$アマタ$$\n「Đừng hòng!\n　Nhất định tao sẽ bảo vệ $$ミコノ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_5b23687574286204": {
+      "text": "$$レイアム$$\n「Phát hiện ranh giới chiều không gian bị bóp méo!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_6fd86c96891ea942": {
+      "text": "$$オットー$$\n「Lại sắp xảy ra $$時空震動$$ sao!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_43e4e548c0b28376": {
+      "text": "$$レイアム$$\n「Không... có vẻ quy mô nhỏ hơn nhiều!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_d80a9688790ed583": {
+      "text": "$$ミカゲ$$\n「Có vẻ cậu đang chật vật nhỉ, $$カグラ$$.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_708bea61e3c43ada": {
+      "text": "$$カグラ$$\n「$$ミカゲ$$ à!\n　Tao không định nhờ đến sức mày đâu!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ミカゲ$$\n「Đừng nói thế.\n　Ta đến đây cũng có mục đích riêng của mình.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_0827963cfd706e8d": {
+      "text": "$$ユノハ$$\n「Đó là...!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$アマタ$$\n「Vì hắn mà $$ジン$$ đã...!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_3f4035fd9db81258": {
+      "text": "$$ミカゲ$$\n「Hừ hừ... ta sẽ tặng lũ không cánh đáng thương\n　nỗi khiếp sợ và niềm ngưỡng vọng trong ký ức cổ xưa.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_567b361a454c4b73": {
+      "text": "$$クラン$$\n「Hắn gọi Vajra đến sao!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_d22851aaafbbf8fc": {
+      "text": "$$カナリア$$\n「Hẳn Vajra đã Fold xuyên qua\n　ranh giới chiều không gian bị hắn bóp méo.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_352534f64413d954": {
+      "text": "$$ランカ$$\n「Người đó... đang dùng Vajra để chiến đấu...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_79f2664edb1af798": {
+      "text": "$$シェリル$$\n「Dùng Vajra cho mục đích riêng của mình,\n　giống hệt 《$$グレイス$$》...!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$ミカゲ$$\n「Và rồi...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_1c5aa0d15ae24846": {
+      "text": "$$ゼシカ$$\n（Hắn... đang nhìn... mình sao...?）",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_53bb64ee17750ee2": {
+      "text": "$$ゼシカ$$\n（Không được... ý thức đang mờ dần...）",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_7a7add80fde475ba": {
+      "text": "$$ゼシカ$$\n「Không thể... sao lại có chuyện đó...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_b2befefdbed1393d": {
+      "text": "$$ユノハ$$\n「Chị $$ゼシカ$$!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_2103f6df2ea2e447": {
+      "text": "$$ＭＩＸ$$\n「Cậu sao vậy, $$ゼシカ$$!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_a12e3e130d896ff7": {
+      "text": "$$ゼシカ$$\n「Viễn cảnh vừa rồi... là sao chứ...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ミカゲ$$\n「Hừ hừ...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_91bf33c27ad39f0a": {
+      "text": "$$カグラ$$\n「Thằng $$ミカゲ$$!\n　Lại tự tiện làm bậy rồi!!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_ee220318b96ab538": {
+      "text": "$$オズマ$$\n「Các máy, cẩn thận!\n　Vajra đang nhắm vào cả chúng ta lẫn quân Altair!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_ce1b55e526b6277a": {
+      "text": "$$アンディ$$\n「Tên khốn đó!\n　Hắn đến để làm tình hình rối loạn sao!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_c304df6888eb78f7": {
+      "text": "$$桂$$\n「Để chuyện đó sau đi!\n　Lần này đến cả tàu mẹ Vajra cũng xuất hiện đấy!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_c26958634526e597": {
+      "text": "$$アルト$$\n「Chỉ còn cách chiến đấu thôi sao...!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_cdb750c9d380881a": {
+      "text": "$$カグラ$$\n「Khốn kiếếếp!!\n　Bất kể là thứ gì, cứ cản đường tao là tao đập nát!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_95fda74613c97b39": {
+      "text": "$$カイエン$$\n「Hắn tới đấy, $$アマタ$$!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_1956994937f8171e": {
+      "text": "$$アマタ$$\n「Tôi biết!\n　Aquarion sẽ ngăn hắn lại!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_48f49f6728c15612": {
+      "text": "$$ゼシカ$$\n（Hắn là... người định mệnh của $$ミコノ$$...）",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$カナリア$$\n「Có vẻ không còn viện quân nữa.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_f02c37d91387d0ad": {
+      "text": "$$ルカ$$\n「Vajra lần này có sức tấn công cùng các khả năng khác\n　được tăng cường so với những cá thể từng xuất hiện.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$ミシェル$$\n「Vậy là khả năng học hỏi đã có tác dụng...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_9796b3efa401a303": {
+      "text": "$$アンディ$$\n「$$インベーダー#keyword$$, Quái thú Vũ trụ, rồi Vajra...\n　Kẻ địch cứ từ vũ trụ kéo đến mãi.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_643b6eebfc0186b3": {
+      "text": "$$カイエン$$\n「$$バアル$$, thiên địch của nhân loại...\n　Vajra cũng nằm trong số đó sao.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_291280e5f7eb9d70": {
+      "text": "$$アルト$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_32eb462c1b4999cb": {
+      "text": "$$カグラ$$\n「Chưa đâu!\n　Hôm nay chỉ có thế thì chưa ngăn nổi tao!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_1f4337d6d393fc37": {
+      "text": "$$サザンカ$$\n「Dai sức hơn mọi khi nữa!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_4740e748fae085ee": {
+      "text": "$$バナージ$$\n「Nhưng... sao thế này?\n　Cảm giác khác hẳn mọi khi...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_b76524cd840e1d37": {
+      "text": "$$カミーユ$$\n「Đây không phải sát khí...?\n　Mà là cảm xúc tích cực hơn...!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_730ffe18400abfc2": {
+      "text": "$$カグラ$$\n「Sướng quá đi mất!\n　Chờ tao nhé, $$シルフィ$$!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_ffe0fca26da5cd38": {
+      "text": "$$ミレーヌ$$\n「Chẳng lẽ... hắn đang phấn khích\n　vì bài hát của $$バサラ$$ sao?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_bfb27f9eb2f7073e": {
+      "text": "$$バサラ$$\n「Khá lắm, cậu kia!\n　Đốt cháy tâm hồn hơn nữa đi!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_859dfa27bcaafe30": {
+      "text": "$$シン$$\n「Cứ thế thì bao giờ mới xong hả!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_71ebf05996a4b0fd": {
+      "text": "$$シュレード$$\n「Tình cảm thẳng thắn...\n　Hừ hừ, vì là dã thú nên mới thật lòng đến thế.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_6214c11b1bca811e": {
+      "text": "$$カグラ$$\n「Tao tới đây!!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_8eaf6f3098ffed12": {
+      "text": "$$アマタ$$\n「Uá!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_cf507214fe955d75": {
+      "text": "$$カグラ$$\n「Tao sẽ giành lấy $$シルフィ$$!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_2113dcbabdfc758a": {
+      "text": "$$ゼシカ$$\n「Không thắng nổi...\n　Không thể thắng được hắn...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ミコノ$$\n「$$ゼシカ$$...!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_6a74519e1fc29c4b": {
+      "text": "$$アマタ$$\n「Cậu sao vậy, $$ゼシカ$$!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_5b992878fee054b5": {
+      "text": "$$ゼシカ$$\n「Vì hắn là người định mệnh của $$ミコノ$$!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$アマタ$$\n「Ơ!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ゼシカ$$\n「$$アポロン$$ và $$シルフィ$$...\n　Hẳn hai người ấy đã là người định mệnh\n　của nhau từ 12.000 năm trước!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_20cf167c0ec0d4d5": {
+      "text": "$$アマタ$$\n「Không thể nào...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_b591d812c96c6c99": {
+      "text": "???\n「Số phận...\n　Con người chỉ có thể khuất phục trước nó sao?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_e350fa099c1ab072": {
+      "text": "$$ミコノ$$\n「Giọng nói này...!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$不動$$\n「Nước không chảy từ thấp lên cao...\n　Nhưng khi những dòng nước hòa vào nhau thành hồ lớn,\n　cao hay thấp cũng chẳng còn quan trọng.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_c33bd700553abf91": {
+      "text": "$$アマタ$$\n「Tổng tư lệnh $$不動$$!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_feee5c91826230e1": {
+      "text": "$$ＭＩＸ$$\n「Sao ông ấy lại ở đây!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_bccc48e1964ad22d": {
+      "text": "$$不動$$\n「Ta lén lên tàu.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_f8736aaaa216c766": {
+      "text": "$$アンディ$$\n「Đến cả ông cũng vậy sao!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_d1ec2522c87c361d": {
+      "text": "$$不動$$\n「Nào, em định làm gì, $$アマタ・ソラ$$?\n　Nếu người định mệnh của $$ミコノ・スズシロ$$ là hắn,\n　em sẽ khuất phục sao?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_3599f0a4343fd95c": {
+      "text": "$$アマタ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_3bc7834a5bf3ee76": {
+      "text": "$$不動$$\n「Đừng sợ, $$アマタ・ソラ$$.\n　Chẳng phải em đã vượt qua bóng tối rồi sao.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_366814efdc8b5800": {
+      "text": "$$アマタ$$\n「Đúng thế...\n　Trong bóng tối và cô độc,\n　mình đã trút bỏ những chấp niệm trói buộc bản thân...!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_9be1a4c10bb62515": {
+      "text": "$$不動$$\n「Đúng vậy...!\n　Chẳng phải em đã lấy lại đôi cánh rồi sao!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_94a88c90e557e16e": {
+      "text": "$$バサラ$$\n「Uôôôôôô!!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_1c208ca0cbf26f28": {
+      "text": "$$ガムリン$$\n「$$バサラ$$...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_5b7ee307a700171a": {
+      "text": "$$バサラ$$\n「$$アマタ$$...\n　Tình cảm của cậu dễ thua hắn đến thế sao?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_8d8f065c932da30a": {
+      "text": "$$アマタ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_f5432119677514f7": {
+      "text": "$$バサラ$$\n「Trái tim cậu không cháy lên sao!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_4e5c8e989c4a7691": {
+      "text": "$$アマタ$$\n「Uôôôôôô!!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_adec86483b13599a": {
+      "text": "$$アマタ$$\n「Không, tôi không muốn thua số phận!\n　Tôi tuyệt đối không chấp nhận!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_2cf701bbcde3ec13": {
+      "text": "$$ミコノ$$\n「$$アマタ$$...!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_c17c58fdba72005e": {
+      "text": "$$アマタ$$\n「Dù mọi thứ đã được định sẵn\n　từ 12.000 năm trước, tôi... tôi vẫn...!\n　Muốn chống lại số phận ấy!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_1fe8564d2b959317": {
+      "text": "$$ゼシカ$$\n「...$$アマタ$$ nói đúng.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_f527e012803f7f1c": {
+      "text": "$$アマタ$$\n「$$ゼシカ$$...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_4b1247bd3ca4905d": {
+      "text": "$$ゼシカ$$\n「Điều thật sự quan trọng không phải số phận,\n　mà là sự thật của chúng ta ngay lúc này!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_00c55e25f87b71d0": {
+      "text": "$$ゼシカ$$\n「Là tình cảm đang sống trong trái tim chúng ta lúc này!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_338f3b27e51dcc41": {
+      "text": "$$不動$$\n「Đổi Element!\n　$$ミコノ・スズシロ$$ sang $$ゲパルト$$!\n　$$ゼシカ・ウォン$$ sang $$スパーダ$$!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_d91d4bc2d52b61c4": {
+      "text": "$$ゼシカ$$\n「Mình đã luôn... luôn sợ hãi...\n　Vì nghĩ có khi thế giới sẽ kết thúc...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_0c8ea89b07432421": {
+      "text": "$$ゼシカ$$\n「Nhưng điều thật sự đáng sợ là\n　mọi thứ kết thúc khi mình chưa kịp nói ra tình cảm.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_4dbfba00ba7744ee": {
+      "text": "$$アルト$$\n「$$ゼシカ$$... cậu...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_be100a32b731708d": {
+      "text": "$$ゼシカ$$\n「Bây giờ, mình cảm thấy có thể nói ra...!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_702f82442fcec8a9": {
+      "text": "$$ミコノ$$\n「Nói ra... chuyện gì cơ?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_b1e38da4e8775ffe": {
+      "text": "$$ゼシカ$$\n「Này... $$アマタ$$...!\n　Mình... với cậu...!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$アマタ$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$ゼシカ$$\n「Mình... thích $$アマタ$$...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_3dad695c99e9e052": {
+      "text": "$$アマタ$$\n「Hảảả!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_66d4ae3a21caf881": {
+      "text": "$$ゼシカ$$\n「Mình thích $$アマタ$$ lắắắắm!!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_0c18da7b3a37825d": {
+      "text": "$$ＭＩＸ$$\n「Thích sao!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_63249745ffae61b6": {
+      "text": "$$ユノハ$$\n「Thích sao!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_abdb034ae8509702": {
+      "text": "$$サザンカ$$\n「Thích sao!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_3ff2e21207d1d1d3": {
+      "text": "$$モーム$$\n「Thích sao!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_e51ecf6d6aa42e75": {
+      "text": "$$スズネ$$\n「Thích sao!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_47ddabb7b60131c2": {
+      "text": "$$モニカ$$\n「Thích sao!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_b025267f22788233": {
+      "text": "$$ビヒーダ$$\n「Thích sao!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_ec1a06a7023bf72c": {
+      "text": "$$アマタ$$\n「À, ừm...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_8805f96e52aaa462": {
+      "text": "$$ゼシカ$$\n「A, a... nói ra mất rồi!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_124591cb154fae64": {
+      "text": "$$ミコノ$$\n「Z-$$ゼシカ$$...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$アマタ$$\n「Ừm... phải nói thế nào đây...\n　Mình rất vui vì tình cảm của cậu, nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_4bf9b05b5f948170": {
+      "text": "$$カグラ$$\n「Định bắt tao chờ đến bao giờ hả!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_eaa52d152f444bfd": {
+      "text": "$n\n「$$アマタ$$! Hắn tới kìa!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_b4bc9e9435b58e6f": {
+      "text": "$$アマタ$$\n「Oá á á á á!!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_a9227573166977a9": {
+      "text": "$$カイエン$$\n「Aquarion đang bốc cháy!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_b0600ab9a9e8559d": {
+      "text": "$$シュレード$$\n「Ngọn lửa rung động... ngọn lửa nhiệt tình...\n　Hừ... đây là sức mạnh thật sự của Aquarion sao.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_7cbc63dad295f862": {
+      "text": "$$アマタ$$\n「Uôôô!\n　Aquarioooon!!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_07f53c816e0a51f5": {
+      "text": "$$カグラ$$\n「Cái quái gì thế này!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_2d09c6f6a2d990ea": {
+      "text": "$$アンディ$$\n「Vô Hạn Quyền vừa rồi là sao!?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_3c5fcfc484a51913": {
+      "text": "$$不動$$\n「Tình yêu bị cấm đoán...\n　Khi vượt qua ranh giới cuối cùng ấy,\n　sóng Aquarion phát ra sẽ vượt qua mọi thời không...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_0476ffd10c764b0e": {
+      "text": "$$不動$$\n「Đây chính là... tình yêu cuồng loạn!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$アマタ$$\n「Hình ảnh đang tràn vào qua cú đấm!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_2b3479c4cf0680f4": {
+      "text": "$$カグラ$$\n「Khốn kiếp!\n　$$シルフィ$$yyy!!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_e370696b8936b08c": {
+      "text": "$$アマタ$$\n「Hình ảnh vừa rồi... là gì vậy...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_9d7b02c5e728b7aa": {
+      "text": "$$不動$$\n「Trái tim mong biết sự thật,\n　và trái tim tìm kiếm tình yêu chân thật...\n　Sự hòa hợp ấy lại đánh thức thêm một sức mạnh cấm kỵ...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_9af213fc64e0afec": {
+      "text": "$$ゼシカ$$\n「$$アマタ$$, $$ミコノ$$!\n　Có vẻ $$ゲパルト$$ cũng có thêm vũ khí mới đấy!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_d7f1c506e78e55ff": {
+      "text": "$$アマタ$$\n「$$ゼシカ$$...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_0c705091f748360e": {
+      "text": "$$ゼシカ$$\n「Ừm... giờ hãy tập trung vào chuyện trước mắt đi...\n　Dù sao thì... yêu đương cũng bị cấm mà.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_9eb8599304125b2f": {
+      "text": "$$ミコノ$$\n「Ừ-ừm... đúng vậy nhỉ...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_a072aa25e5f521e0": {
+      "text": "$$バサラ$$\n「Vậy bắt đầu nào!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_24e1a808a1609a1a": {
+      "text": "$$オズマ$$\n「Tuyệệệt!\n　Tiếp theo là 『Totsugeki Love Heart』 sao!!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_53128ce8f154fd06": {
+      "text": "$$不動$$\n「Hừ hừ... đến tận nơi cách xa hàng trăm triệu năm ánh sáng... sao.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_03b5db9ce98fb8d6": {
+      "text": "$$ミレーヌ$$\n「Có khi nào... chúng ta đang vô duyên không?」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_3915fb4102f1c1dd": {
+      "text": "$$レイ#168$$\n「Chà... vẫn như mọi khi thôi.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_817b2773b4ed563e": {
+      "text": "$$バサラ$$\n「Lên nào, Aquarion!\n　Bùng cháy thật mãnh liệt!!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_1cc233cbc8c80af7": {
+      "text": "$$カグラ$$\n「Đừng cản tao với $$シルフィ$$ chém giết nhau!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$アマタ$$\n「Mày nói nhảm gì vậy!\n　$$ミコノ$$ là chính cậu ấy, không phải $$シルフィ$$!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_e180b22d18f48d38": {
+      "text": "$$カグラ$$\n「Mày chẳng hiểu gì cả!\n　Cô ấy là $$シルフィ$$ của tao!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_e598c2a0b27e7f50": {
+      "text": "$$アマタ$$\n「Đừng có đùa! Tao không để kẻ như mày\n　vấy bẩn 『$$アクエリアの舞う空$$』\n　mà tao và $$ミコノ$$ trân trọng đâu!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_4d2a9066c4e7b27f": {
+      "text": "$$カグラ$$\n「Khá lắm, mày! Cứ hát nữa đi!\n　Bài hát của mày hợp với tao\n　hơn bài hát của $$アリシア$$ đấy!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_10340119af3ed6db": {
+      "text": "$$バサラ$$\n「Đáp lại yêu cầu, tôi sẽ hát hết mình!\n　Theo cho kịp nhé!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_23a9c7ab620ab112": {
+      "text": "$$ミレーヌ$$\n「Cứ như thế này...\n　có ổn không nhỉ...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_4f0aca6deda07883": {
+      "text": "$$レイ#168$$\n「Chà... vẫn như mọi khi thôi.」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_8fe40600ce62dfbc": {
+      "text": "$$バサラ$$\n「Bắt đầu nào!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_ff4ce5f3cf96b617": {
+      "text": "$$カグラ$$\n「Bùng cháy thật mãnh liệt!!\n　Tu ra ra ra ra!!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_d73c21f119847e35": {
+      "text": "$$バサラ$$\n「Tôi sẽ hát mãi, hát mãi,\n　đến khi tiếng hát đến được với các người!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_89766f5ffaa912d4": {
+      "text": "$$バサラ$$\n「Bắt đầu nào, Vajra!\n　Hãy nghe bài hát của tôi đâââây!!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$アルト$$\n「Tôi tin một ngày nào đó, tiếng hát của $$シェリル$$ và $$ランカ$$\n　sẽ đến được với các người, để các người hiểu chúng tôi...!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_451f726d4299ea35": {
+      "text": "$$アルト$$\n「Nhưng giờ chúng tôi sẽ chiến đấu!\n　Đó là việc chúng tôi phải làm!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_e3d111e8bb190cb1": {
+      "text": "$$スズネ$$\n「Lên nào, $n!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_7c0d3c51f9a11ca0": {
+      "text": "$n\n「Quả nhiên thế này vẫn tốt hơn...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_ab97c2b2418ea732": {
+      "text": "$$スズネ$$\n「Sao thế!?\n　Đang chiến đấu mà lại làm vẻ mặt đó...!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_2ddff5064af78db4": {
+      "text": "$n\n「K-không có gì ạ!\n　Em lên đây!」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_050d0532c4b24bfe": {
+      "text": "$$スズネ$$\n「$n thật kỳ lạ...」",
+      "status": "reviewed"
+    },
+    "stage0054_04:r_d583fcea31bdad2e": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

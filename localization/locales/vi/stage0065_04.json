@@ -1,0 +1,858 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0065_04:r_caaab7bad760e16d": {
+      "text": "$$宗介$$\n「Trò chơi sao? Trận đấu giả này à...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_99b162aa6aa286a2": {
+      "text": "$$クルーゾー$$\n「Đúng vậy.\n　Tôi sẽ cho các cậu thấy mình bất lực đến mức nào.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_58fb02434a1c40b2": {
+      "text": "$$クルツ$$\n「Chậc...!\n　Một chọi hai cơ đấy, tự tin ghê nhỉ!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_1c0f94acd5a8a143": {
+      "text": "$$宗介$$\n「$$アル$$... đưa dữ liệu máy của hắn ra.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_1263541f4071624e": {
+      "text": "$$アル$$\n「Đây là nguyên mẫu dòng D của loại máy tương tự loại M.\n　Thông số không khác nhiều so với dòng E hiện hành.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_3bc300bbdc277d82": {
+      "text": "$$クルーゾー$$\n「Nhắc mới nhớ, tôi vẫn chưa tự giới thiệu.\n　Tôi là trung úy $$ベルファンガン・クルーゾー$$,\n　chuyển đến từ hạm đội Địa Trung Hải.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_38762a09460d8b6b": {
+      "text": "$$クルーゾー$$\n「Từ hôm nay, tôi được biên chế vào\n　$$ＳＲＴ$$ của hạm đội Tây Thái Bình Dương,\n　đồng thời vào $c.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_7ab28e70b4d4f641": {
+      "text": "$$クルーゾー$$\n「Mật danh là $$ウルズ$$ 1.\n　Tức là tôi sẽ làm đội trưởng của các cậu.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$宗介$$\n「Vậy anh là người kế nhiệm đại úy $$マッカラン$$...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_ec335e69f984b8b3": {
+      "text": "$n\n「Chị $$マオ$$, không ngăn họ lại sao?」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_0abcaf0c31978670": {
+      "text": "$$マオ$$\n「Cứ mặc họ đi.\n　Coi như màn chào hỏi khi nhận chức thôi.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_1d6bc48b7f246730": {
+      "text": "$n\n「Nhưng anh ta đã sỉ nhục đại úy $$マッカラン$$...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_1af20fccc3c53cfc": {
+      "text": "$$スズネ$$\n「Cô không nghĩ là vậy đâu.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_f951916061232dcd": {
+      "text": "$n\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_4d863c3fb88a4c39": {
+      "text": "$$ゼクス$$\n「Ít nhất thì anh ta có thực lực.\n　Một mình một máy vượt qua vòng vây Amalgam\n　để đến được đây cơ mà.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_44f4742c3dcce39a": {
+      "text": "$$刹那$$\n「Dù hai chọi một, trận này... vẫn chưa biết ai thắng.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_9e701cdeb3842c21": {
+      "text": "$$ヒイロ$$\n「Nhất là với tình trạng của $$宗介$$ hiện giờ.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_6fd81f4abebe60c5": {
+      "text": "$$スザク$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_da2132b5038ec737": {
+      "text": "$n\n「$$スザク$$...\n　Cậu thấy trận này thế nào?」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_495d61d3ec7e16f2": {
+      "text": "$$スザク$$\n「Kết quả đã quá rõ rồi...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_5cd353758cfe474d": {
+      "text": "$$スザク$$\n「Và cứ thế này thì $$宗介$$... sớm muộn cũng sẽ chết...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_a653c8dec4c0f06f": {
+      "text": "$n\n「Cái...!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_86d493e37a9799a7": {
+      "text": "$$クルーゾー$$\n「Khán giả cũng sốt ruột rồi.\n　Bắt đầu thôi.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_09d0fcc600cdd3df": {
+      "text": "$$クルーゾー$$\n「Ba phút...!\n　Một hiệp duy nhất!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_182faded068c15ed": {
+      "text": "$$クルツ$$\n「Nhào vô!\n　Chuông đã reo thì cấp trên cũng mặc!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_9c206d19bfda4bd5": {
+      "text": "$$クルツ$$\n「Lên nào, $$宗介$$!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_6e558bc69acf5bf3": {
+      "text": "$$宗介$$\n「Rõ...!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_d60d0818e965232f": {
+      "text": "$$クルツ$$\n「Được rồi!\n　Bọn tôi thắng!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_5b23687574286204": {
+      "text": "$$クルーゾー$$\n「Đánh giá tình hình còn non lắm.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_6fd86c96891ea942": {
+      "text": "$$宗介$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_43e4e548c0b28376": {
+      "text": "$$クルーゾー$$\n「Tôi đã nắm được thực lực của các cậu.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_d80a9688790ed583": {
+      "text": "$$クルツ$$\n「Đừng có tự tiện kết luận như thế!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_708bea61e3c43ada": {
+      "text": "$$クルーゾー$$\n「Vẫn chưa hiểu sao...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_7b6f159eeaf4de0f": {
+      "text": "$$クルーゾー$$\n「Hết giờ.\n　Tôi đã nắm được thực lực của các cậu.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_0827963cfd706e8d": {
+      "text": "$$クルツ$$\n「Đừng có tự tiện kết luận như thế!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$クルーゾー$$\n「Vẫn chưa hiểu sao...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_3f4035fd9db81258": {
+      "text": "$$クルーゾー$$\n「Tôi tới đây, trung sĩ Sagara!\n　Thử tránh đòn của tôi xem!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_567b361a454c4b73": {
+      "text": "$$宗介$$\n「...!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_d22851aaafbbf8fc": {
+      "text": "$$クルーゾー$$\n「Chậm quá!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_352534f64413d954": {
+      "text": "$$宗介$$\n「Hự!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_79f2664edb1af798": {
+      "text": "$$クルツ$$\n「$$宗介$$!!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$スメラギ$$\n「Xem ra đã phân thắng bại rồi.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_1c5aa0d15ae24846": {
+      "text": "$$テッサ$$\n「Vâng...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_53bb64ee17750ee2": {
+      "text": "$$スメラギ$$\n「Quả nhiên Lambda Driver đã không hoạt động.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_7a7add80fde475ba": {
+      "text": "$$テッサ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_b2befefdbed1393d": {
+      "text": "$$イアン$$\n「Theo góc nhìn của dân kỹ thuật,\n　điều sống còn với vũ khí là độ tin cậy:\n　phải hoạt động chắc chắn khi cần đến.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_2103f6df2ea2e447": {
+      "text": "$$イアン$$\n「Nói vậy chứ chính tôi cũng từng\n　bắt $$刹那$$ phải dùng\n　cái thứ Twin Drive đó...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_a12e3e130d896ff7": {
+      "text": "$$テッサ$$\n「Ý ông là Arbalest có khiếm khuyết sao?」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_b6f7b219eb4bd64b": {
+      "text": "$$イアン$$\n「Tôi không có ý đó.\n　Ngược lại, nó khơi gợi những giấc mơ đấy.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_91bf33c27ad39f0a": {
+      "text": "$$テッサ$$\n「Giấc mơ... sao ạ?」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_ee220318b96ab538": {
+      "text": "$$イアン$$\n「Tôi thấy ở nó tiềm năng vượt ngoài khuôn khổ một vũ khí.\n　Về mặt đó, nó gợi cho tôi cảm giác giống\n　GN Drive hay $$ユニコーンガンダム$$.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_ce1b55e526b6277a": {
+      "text": "$$スメラギ$$\n「Vấn đề là chính $$宗介$$, người điều khiển nó,\n　lại căm ghét Lambda Driver.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_c304df6888eb78f7": {
+      "text": "$$イアン$$\n「Cậu ấy là một người lính cứng nhắc mà.\n　Chắc cậu ấy nhìn Arbalest còn khắt khe hơn\n　cả một kỹ sư như tôi.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_c26958634526e597": {
+      "text": "$$テッサ$$\n（Anh Sagara...）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_cdb750c9d380881a": {
+      "text": "$$宗介$$\n「Khốn kiếp...!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_95fda74613c97b39": {
+      "text": "$$クルーゾー$$\n「Thật khó coi... quá khó coi...\n　Vụng về, thô bạo, chẳng chút linh hoạt.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_1956994937f8171e": {
+      "text": "$$クルーゾー$$\n「Đứng lên, trung sĩ!\n　Phát huy toàn bộ khả năng của cỗ máy đó đi!\n　Hiểu không? Toàn bộ!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_48f49f6728c15612": {
+      "text": "$$宗介$$\n「Toàn bộ...\n　Ý anh là Lambda Driver...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$宗介$$\n（Nhưng mình...）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_f02c37d91387d0ad": {
+      "text": "$$クルツ$$\n「$$宗介$$...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$クルーゾー$$\n「Rốt cuộc cũng chỉ là một con chó được thuần dưỡng...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_9796b3efa401a303": {
+      "text": "$$マオ$$\n「Trung úy $$クルーゾー$$, cẩn thận.\n　Có một đội quân đang đến, có vẻ là Amalgam.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_643b6eebfc0186b3": {
+      "text": "$$ゲイツ$$\n「Gì thế này, gì thế này!\n　Ta buồn lắm đấy!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_291280e5f7eb9d70": {
+      "text": "$$ゲイツ$$\n「Nghe nói các ngươi đang đấu đá nội bộ,\n　ta đã định ngồi hàng đầu xem cho rõ...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_32eb462c1b4999cb": {
+      "text": "$$ゲイツ$$\n「Ta còn cất công mang cả bắp rang với cola!\n　Giờ tính sao đây hả!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_1f4337d6d393fc37": {
+      "text": "$$ゲイツ$$\n「Trước mắt cứ tu hết cola đã!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_4740e748fae085ee": {
+      "text": "$$スメラギ$$\n「Tất cả xuất kích!\n　Trung úy $$クルーゾー$$, $$クルツ$$, $$宗介$$,\n　mau chỉnh đốn lại!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_b76524cd840e1d37": {
+      "text": "$$カレン$$\n「Có vẻ $$五飛$$ và A21 không ở đây.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_730ffe18400abfc2": {
+      "text": "$$デュオ$$\n「Vậy cũng nhẹ lòng được chút.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_ffe0fca26da5cd38": {
+      "text": "$$トロワ$$\n「Nhưng hãy cẩn thận.\n　Chiếc AS dẫn đầu đó... không bình thường đâu.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_bfb27f9eb2f7073e": {
+      "text": "$n\n「Ý cậu là nó mạnh?」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_859dfa27bcaafe30": {
+      "text": "$$トロワ$$\n「Cũng đúng.\n　Nhưng còn cả nghĩa đen nữa.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_71ebf05996a4b0fd": {
+      "text": "$$トロワ$$\n「Có cái cảm giác rất riêng mà loại người đó tỏa ra.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_6214c11b1bca811e": {
+      "text": "$$ロジャー$$\n「Tôi đồng ý với $$トロワ$$.\n　Nói ngắn gọn thì hắn là một kẻ bất thường.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_8eaf6f3098ffed12": {
+      "text": "$$スズネ$$\n「Tôi... chưa hiểu lắm...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_cf507214fe955d75": {
+      "text": "$$ロジャー$$\n「Nói cách khác, người lái nó là một gã giống $$ＡＧ$$.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_2113dcbabdfc758a": {
+      "text": "$$スズネ$$\n「...Giá mà tôi đừng hiểu...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$クルーゾー$$\n「Weber, yểm trợ cho tôi.\n　Sagara, một mình đánh rối loạn địch đi.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_6a74519e1fc29c4b": {
+      "text": "$$クルツ$$\n「Khoan đã!\n　Chính anh vừa đánh gục Sousuke,\n　giờ còn bắt cậu ấy chiến đấu nữa sao!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_5b992878fee054b5": {
+      "text": "$$クルーゾー$$\n「Tôi đã nương tay rồi.\n　Chắc cậu ta vẫn có thể chiến đấu.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$宗介$$\n「...Rõ.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_4a14ec0c511c7f0d": {
+      "text": "$$クルツ$$\n「Đừng quá sức đấy, $$宗介$$.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_20cf167c0ec0d4d5": {
+      "text": "$$ゲイツ$$\n「Ợợợ!\n　Để ta chờ lâu quá nên ợ luôn rồi thấy chưa.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_b591d812c96c6c99": {
+      "text": "$$ゲイツ$$\n「Xin lỗi nhé, các bé mèo con.\n　Chú đây chẳng biết nhịn là gì.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_e350fa099c1ab072": {
+      "text": "$$玉芳$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$玉蘭$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_c33bd700553abf91": {
+      "text": "$$ゲイツ$$\n「Hừ! Chẳng biết hưởng ứng gì cả!\n　Phải nói là: Ngài $$ゲイツ$$ tuyệt quá!\n　Hay: Ngài $$ゲイツ$$ ơi, ôm em đi! Chứ...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_feee5c91826230e1": {
+      "text": "$$玉蘭$$\n（Chị ơi...\n　Em ghét gã đó...）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_bccc48e1964ad22d": {
+      "text": "$$玉芳$$\n（Chị cũng vậy...）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_f8736aaaa216c766": {
+      "text": "$$ゲイツ$$\n「À à... chán quá rồi,\n　thôi giết sạch bọn chúng cho nhanh vậy!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_d1ec2522c87c361d": {
+      "text": "$$ゲイツ$$\n「Nhất là con màu trắng đó, đập nó chắc đã tay lắm.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_3599f0a4343fd95c": {
+      "text": "$$宗介$$\n「Hắn tới...!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_3bc7834a5bf3ee76": {
+      "text": "$$ゲイツ$$\n「Ta tới đây, $c!\n　Bữa tiệc vui ơi là vui bắt đầu rồi!!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_366814efdc8b5800": {
+      "text": "$$ゲイツ$$\n「Khá lắm...\n　Xem ra gặp được đối thủ để chơi lâu dài rồi.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_9be1a4c10bb62515": {
+      "text": "$$ゲイツ$$\n「Mẹ và cha xứ nói đúng thật!\n　Đời vẫn còn đáng sống lắm!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_94a88c90e557e16e": {
+      "text": "$$宗介$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_1c208ca0cbf26f28": {
+      "text": "$n\n「Đó cũng là sức mạnh của Lambda Driver sao!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_5b7ee307a700171a": {
+      "text": "$$ゲイツ$$\n「Nào...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_8d8f065c932da30a": {
+      "text": "$$宗介$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_f5432119677514f7": {
+      "text": "$$ゲイツ$$\n「Ư...!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_4e5c8e989c4a7691": {
+      "text": "$$ゲイツ$$\n「Không ổn rồi!\n　Tu hết cola một hơi làm bụng đau quặn rồi!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_adec86483b13599a": {
+      "text": "$$ゲイツ$$\n「Có thắng mà bẩn cả quần thì cũng bằng không!\n　Ta về đây!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_2cf701bbcde3ec13": {
+      "text": "$$宗介$$\n「Đừng hòng chạy!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_c17c58fdba72005e": {
+      "text": "$$ゲイツ$$\n「Thế thì thôi vậy.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_1fe8564d2b959317": {
+      "text": "$$宗介$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_f527e012803f7f1c": {
+      "text": "$$宗介$$\n「Hự!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_4b1247bd3ca4905d": {
+      "text": "$n\n「$$宗介$$!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_00c55e25f87b71d0": {
+      "text": "$$ゲイツ$$\n「Bu ha ha ha!\n　Bảo bối của $$ミスリル$$ mà thảm hại thế này à!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_338f3b27e51dcc41": {
+      "text": "$$ゲイツ$$\n「Nào, đòn kết liễu!!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_d91d4bc2d52b61c4": {
+      "text": "$$スザク$$\n「$$宗介$$!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_0c8ea89b07432421": {
+      "text": "$$スザク$$\n「Ư!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_4dbfba00ba7744ee": {
+      "text": "$$ゼロ$$\n「$$スザク$$!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_be100a32b731708d": {
+      "text": "$$宗介$$\n「Cậu đã đỡ đòn cho tôi...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_702f82442fcec8a9": {
+      "text": "$$ゲイツ$$\n「A! Ta biết ngươi!\n　Knight of Zero chứ gì!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_b1e38da4e8775ffe": {
+      "text": "$$スザク$$\n「Ta không để ngươi... hại $$宗介$$ đâu!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ゲイツ$$\n「Bu ha ha ha, tuyệt thật!\n　Hiệp sĩ mạnh nhất, Knight of Zero, lại bảo vệ một gã\n　lính đánh thuê bẩn thỉu rồi quỳ gối trước ta!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$ゲイツ$$\n「Aaa!\n　Cười nhiều quá, đau cả hàm lẫn cơ bụng!\n　Hôm nay về thôi!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_3dad695c99e9e052": {
+      "text": "$$スザク$$\n「Hắn rút lui rồi sao...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_66d4ae3a21caf881": {
+      "text": "$$宗介$$\n「$$スザク$$...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_0c18da7b3a37825d": {
+      "text": "$$スザク$$\n「$$宗介$$... cậu phải sống.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_63249745ffae61b6": {
+      "text": "$$宗介$$\n「Cậu nói gì...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_abdb034ae8509702": {
+      "text": "$$デュオ$$\n「Nói chuyện đến đây thôi!\n　Lại có gì đó tới kìa!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_3ff2e21207d1d1d3": {
+      "text": "$$宗介$$\n「Hự!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_e51ecf6d6aa42e75": {
+      "text": "$n\n「$$宗介$$!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_47ddabb7b60131c2": {
+      "text": "$$ゲイツ$$\n「Bu ha ha ha!\n　Bảo bối của $$ミスリル$$ mà thảm hại thế này à!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_b025267f22788233": {
+      "text": "$$ゲイツ$$\n「Aaa!\n　Cười nhiều quá, đau cả hàm lẫn cơ bụng!\n　Hôm nay về thôi!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_ec1a06a7023bf72c": {
+      "text": "$$ゼロ$$\n「Hắn rút lui rồi sao...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_8805f96e52aaa462": {
+      "text": "$$宗介$$\n「Khốn kiếp...!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_124591cb154fae64": {
+      "text": "$$スザク$$\n「$$宗介$$...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$宗介$$\n「Gì vậy, $$スザク$$?」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_4bf9b05b5f948170": {
+      "text": "$$スザク$$\n「Cậu phải sống.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_eaa52d152f444bfd": {
+      "text": "$$宗介$$\n「Cậu nói gì...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_b4bc9e9435b58e6f": {
+      "text": "$$デュオ$$\n「Nói chuyện đến đây thôi!\n　Lại có gì đó tới kìa!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_a9227573166977a9": {
+      "text": "$$Ｃ．Ｃ．$$\n「$$マーティアル$$ sao...!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_b0600ab9a9e8559d": {
+      "text": "$$シャッコ$$\n「$$キリコ$$, nhìn chiếc AT dẫn đầu đi!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_7cbc63dad295f862": {
+      "text": "$$キリコ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_07f53c816e0a51f5": {
+      "text": "$$テイタニア$$\n「Kẻ Bất Khả Xâm Phạm, $$キリコ・キュービィー$$...\n　Rồi sẽ có ngày ta phân thắng bại với ngươi.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_2d09c6f6a2d990ea": {
+      "text": "$$カトル$$\n「Máy chỉ huy đang lùi lại.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_3c5fcfc484a51913": {
+      "text": "$$ゼロ$$\n「Hôm nay chỉ đến thăm dò thôi sao.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_0476ffd10c764b0e": {
+      "text": "$$Ｃ．Ｃ．$$\n（Thì ra chỉ đến nhìn mặt $$キリコ$$...）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_2b3479c4cf0680f4": {
+      "text": "$$クルツ$$\n「Người phụ nữ đó... là kẻ đã bắt cóc bạn gái $$キリコ$$ sao?」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_e370696b8936b08c": {
+      "text": "$$マオ$$\n「Xem ra $$マーティアル$$ cũng đã thực sự\n　bắt tay với Amalgam mà hành động rồi.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_9d7b02c5e728b7aa": {
+      "text": "$$スメラギ$$\n「Tất cả nghênh kích đội AT của $$マーティアル$$!\n　Nhanh chóng hạ địch rồi rời khỏi đây!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_9af213fc64e0afec": {
+      "text": "$$キリコ$$\n（$$マーティアル$$... thần chiến tranh...\n　Tại sao lại nhắm vào ta...）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_d7f1c506e78e55ff": {
+      "text": "$$フェルト$$\n「Đã xác nhận tiêu diệt toàn bộ quân Amalgam và $$マーティアル$$.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_0c705091f748360e": {
+      "text": "$$ラッセ$$\n「Cuối cùng cả $$マーティアル$$ cũng thực sự ra tay rồi à.\n　Xem ra sắp rắc rối to rồi.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_9eb8599304125b2f": {
+      "text": "$$スメラギ$$\n「Nhưng cũng có người mong điều đó xảy ra.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_a072aa25e5f521e0": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_24e1a808a1609a1a": {
+      "text": "$$カレン$$\n「$$キリコ$$...」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_53128ce8f154fd06": {
+      "text": "$$キリコ$$\n（Chờ anh, $$フィアナ$$...）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_03b5db9ce98fb8d6": {
+      "text": "$$スメラギ$$\n「Tất cả rút lui.\n　Rời khu vực này trước khi quân truy kích tới.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_3915fb4102f1c1dd": {
+      "text": "$$玉芳$$\n「Không thể tiếp tục chiến đấu.\n　$$夏玉芳$$ xin rút lui.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_817b2773b4ed563e": {
+      "text": "$$玉蘭$$\n（Chị...）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_1cc233cbc8c80af7": {
+      "text": "$$玉芳$$\n（Bắt đầu hành động thôi, $$玉蘭$$.）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$玉芳$$\n「Không thể tiếp tục chiến đấu.\n　$$夏玉芳$$ xin rút lui.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_e180b22d18f48d38": {
+      "text": "$$玉芳$$\n（$$玉蘭$$... tiếp theo cứ theo kế hoạch...）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_e598c2a0b27e7f50": {
+      "text": "$$玉蘭$$\n「Không thể tiếp tục nữa.\n　Tôi về đây.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_4d2a9066c4e7b27f": {
+      "text": "$$玉芳$$\n（$$玉蘭$$... còn lại cứ để chị lo.）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_10340119af3ed6db": {
+      "text": "$$玉蘭$$\n（Vâng...\n　Em đi đây, chị.）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_23a9c7ab620ab112": {
+      "text": "$$玉蘭$$\n「Không thể tiếp tục nữa.\n　Tôi về đây.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_4f0aca6deda07883": {
+      "text": "$$玉蘭$$\n（Em đi đây, chị.）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_8fe40600ce62dfbc": {
+      "text": "$$クルーゾー$$\n「Sức mạnh ngang nhau... kỹ thuật cũng không tệ.\n　Nhưng...!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_ff4ce5f3cf96b617": {
+      "text": "$$宗介$$\n「Mạnh quá...!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_d73c21f119847e35": {
+      "text": "$$クルーゾー$$\n「Quả nhiên chỉ là phi công hạng hai.\n　Cách chiến đấu của cậu có kỹ năng, nhưng không có nghệ thuật.\n　...Hiểu khác nhau ở đâu không?」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_89766f5ffaa912d4": {
+      "text": "$$宗介$$\n「Còn hỏi đáp kiểu đó...!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$クルーゾー$$\n「Quả nhiên lời nói không truyền đạt được.\n　Vậy đành để cậu cảm nhận bằng chính cơ thể...!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_451f726d4299ea35": {
+      "text": "$$クルツ$$\n「Yên tâm đi, ngài trung úy!\n　Tôi còn chút lòng thương nên sẽ tránh buồng lái!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_e3d111e8bb190cb1": {
+      "text": "$$クルーゾー$$\n「Cậu còn rảnh mà lo chuyện thừa thãi sao?\n　Một xạ thủ bắn tỉa mà đấm sát rạt còn hụt.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$クルツ$$\n「Đừng có giỡn mặt!\n　Đã ngắm qua ống ngắm thì tôi bách phát bách trúng!\n　Tôi sẽ cho anh khắc cốt ghi tâm điều đó!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_ab97c2b2418ea732": {
+      "text": "$$クルーゾー$$\n（Đại úy $$マッカラン$$... xin thứ lỗi cho sự vô lễ của tôi.）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_2ddff5064af78db4": {
+      "text": "$$クルーゾー$$\n（Đã kế thừa mật danh $$ウルズ$$ 1 từ ngài,\n　tôi nhất định sẽ đưa họ lên một tầm cao mới.）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_050d0532c4b24bfe": {
+      "text": "$$ゲイツ$$\n「Tìm thấy rồi, em màu trắng!\n　Đẹp đúng như lời đồn đấy chứ!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_d583fcea31bdad2e": {
+      "text": "$$宗介$$\n「Gã này đang đùa giỡn sao!?」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_475f7653621a91b5": {
+      "text": "$$アル$$\n「Cảnh báo.\n　AS địch đang vận hành Lambda Driver.\n　Đề nghị kích hoạt hệ thống của máy ta.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_f228ae702350849b": {
+      "text": "$$宗介$$\n「Ngươi tự làm đi!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_d69dc027cba3003f": {
+      "text": "$$アル$$\n「Việc vận hành đòi hỏi ý chí của người điều khiển.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_3c3735172a480b72": {
+      "text": "$$ゲイツ$$\n「Sao thế, sao thế, người đẹp!\n　Vui vẻ với ngài Gates đây nào!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_1f418b5594cea300": {
+      "text": "$$玉芳$$\n（$$相良宗介$$...\n　Mình sẽ đối phó với người đàn ông này.）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_f87fb889124bfaef": {
+      "text": "$$玉芳$$\n（Tất cả vì thầy.）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_79c90de32a79212d": {
+      "text": "$$玉蘭$$\n（$$相良宗介$$...\n　Mình sẽ giết cậu ta.）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_33f7fd55913419e8": {
+      "text": "$$玉蘭$$\n（Tất cả vì thầy.）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_473d9a88b4ca96e7": {
+      "text": "$$ゲイツ$$\n「Cấm sờ vào sao!?\n　Cứng nhắc quá đấy, bé $$キリコ・キュービィー$$!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_4de6ac85c63bac12": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_4c92652c9b1adf6f": {
+      "text": "$$ゲイツ$$\n「Hưởng ứng đi chứ, này!\n　Thế này ngài $$ゲイツ$$ cứ như thằng hề vậy!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_ce90563a934d49fb": {
+      "text": "$$ゲイツ$$\n「Ngươi là $$ヒイロ・ユイ$$ sao!\n　Vui quá, được gặp người nổi tiếng!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_4fb296e63cb1fb46": {
+      "text": "$$ヒイロ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$ゲイツ$$\n「À, bơ ta hả! Bơ luôn chứ gì!\n　Mẹ không dạy ngươi là không được bắt nạt người khác sao!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_9dc59affd40f32fc": {
+      "text": "$$ゲイツ$$\n「Được, hiểu rồi!\n　Với loại như ngươi, ta phải trả đũa gấp trăm lần!\n　Ngài $$ゲイツ$$ hoa lệ biến từ kẻ bị bắt nạt thành kẻ bắt nạt!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_0cea115be526a319": {
+      "text": "$$ゲイツ$$\n「Tìm được nhân vật hiếm rồi!\n　Bắt được ngươi rồi, Innovator!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_d36072babd12aeb4": {
+      "text": "$$刹那$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_09ee921a85025fd3": {
+      "text": "$$ゲイツ$$\n「Này! Ngươi sao thế hả!\n　Đánh nhau thì hăng hái mà nói chuyện thì dở ẹc!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_fae689f2a1057b61": {
+      "text": "$$刹那$$\n（Mình và một kẻ thế này liệu có thể thấu hiểu nhau không...）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_91c6d0bb53854ecc": {
+      "text": "$$ゲイツ$$\n「Hừ! Tà ma lui mau!\n　Hồn ma hãy về địa ngục đi!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_42a3149105314ab8": {
+      "text": "$$ゼロ$$\n「Tiếc cho ngươi rồi.\n　Chừng nào còn người mong mỏi phép màu và tương lai,\n　$$ゼロ$$ vẫn bất diệt.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_62ecd978c667bd29": {
+      "text": "$$ゲイツ$$\n「Cái gì!\n　Ngươi tưởng chuyện phi lý như vậy có thể được chấp nhận sao!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_d441e6cc908ac01b": {
+      "text": "$$ゲイツ$$\n「Vậy để ta dạy ngươi.\n　Chỉ có tóc mai của ngài $$ゲイツ$$ đây\n　mới xứng với hai chữ bất diệt!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_b2aab8873350ea1f": {
+      "text": "$$ゼロ$$\n「Cái quái gì vậy...!?」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_2c7af4c55d8ac938": {
+      "text": "$$ゲイツ$$\n「Bảnh thật đấy!\n　Màu đen đúng là nét lịch lãm của đàn ông!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_653b741d07545dff": {
+      "text": "$$ロジャー$$\n「Ồ... ngươi hiểu gu của ta sao.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_d584d4b5af55b1cf": {
+      "text": "$$ゲイツ$$\n「Nhưng đàn ông đích thực phải chăm chút tóc mai!\n　Chưa hiểu điều đó thì cùng lắm cũng chỉ hạng ba thôi!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_db0ee69ece206fcd": {
+      "text": "$$ロジャー$$\n「...Cho ta rút lại lời vừa rồi.\n　Xem ra chúng ta quả là không thể dung hòa.」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_f97e6925c9e37332": {
+      "text": "$$ロジャー$$\n「Một gã giọng khàn cứ chăm chăm vào tóc mai và râu ria thô tục\n　hoàn toàn trái với quan điểm thẩm mỹ của ta!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_422861e0b8d77d0c": {
+      "text": "$$ゲイツ$$\n「Này! Ngươi quá quắt lắm rồi đấy!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_ef16bcaa2b0e0c45": {
+      "text": "$$ゲイツ$$\n「Hử! Hửm!\n　Ta cảm nhận được có một cô nàng xinh xắn!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_2b93cca10f1c36a8": {
+      "text": "$n\n「Gã này...!\n　Là Newtype sao!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_7980fd37141d88d0": {
+      "text": "$$ゲイツ$$\n「Đây là cảm biến tóc mai của ngài $$ゲイツ$$!\n　Ta đoán trong buồng lái có một ác nữ sành điệu, gợi cảm!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_ac21212c36d2b9ad": {
+      "text": "$$スズネ$$\n「Sai bét rồi!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_a26e2108358af7a4": {
+      "text": "$n\n「Gã này... chắc chắn là nguy hiểm!\n　Loại như hắn phải xử lý ngay!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_a8118b2e37aa1382": {
+      "text": "$$ゲイツ$$\n「Này này!\n　Đừng coi ngài $$ゲイツ$$ đây như hạng tép riu ngoài đường!」",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_017a56991b7b8ca4": {
+      "text": "$$キリコ$$\n（$$マーティアル$$...\n　$$フィアナ$$ cũng ở đó...）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_ad3e1db3419665fb": {
+      "text": "$$キリコ$$\n（Đánh bại chúng thì mình có thể giành lại $$フィアナ$$ sao...）",
+      "status": "reviewed"
+    },
+    "stage0065_04:r_0149e3a5f2e5ef78": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

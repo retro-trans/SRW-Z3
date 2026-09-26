@@ -1,0 +1,958 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0072_04:r_caaab7bad760e16d": {
+      "text": "$$墨田$$\n「R-Rika, mau chạy thôi!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_99b162aa6aa286a2": {
+      "text": "$$百目鬼$$\n「Tại sao chứ?\n　Sự kiện thú vị thế này cơ mà.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_58fb02434a1c40b2": {
+      "text": "$$墨田$$\n「Hả...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_1c0f94acd5a8a143": {
+      "text": "$$百目鬼$$\n「Chúng không định phá hủy thành phố.\n　Nhìn kiểu gì cũng thấy chúng chỉ đang đợi thôi.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_1263541f4071624e": {
+      "text": "$$墨田$$\n「Đợi... ai cơ...?」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_3bc300bbdc277d82": {
+      "text": "$$百目鬼$$\n「Còn ai vào đây nữa!\n　Là $c chứ ai!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_38762a09460d8b6b": {
+      "text": "$$グーラ$$\n「Đến rồi sao, $c.\n　Và cả $$金田正太郎$$.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_7ab28e70b4d4f641": {
+      "text": "$$ワッ太$$\n「Cái tên này!\n　Đừng quên còn có $$竹尾ワッ太$$ ta đây nữa!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$正太郎$$\n「$$グーラ$$!\n　Rốt cuộc cậu muốn gì!?」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_ec335e69f984b8b3": {
+      "text": "$$グーラ$$\n「Phải nói ra ngươi mới hiểu sao?\n　Là phân thắng bại với các ngươi.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_0abcaf0c31978670": {
+      "text": "$$甲児$$\n「Huy động nhiều quân thế này...!\n　Có vẻ là nghiêm túc đấy!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_1d6bc48b7f246730": {
+      "text": "$$ノリコ$$\n「Vậy đây chính là trận quyết chiến định đoạt tất cả nhỉ!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_1af20fccc3c53cfc": {
+      "text": "$$葵$$\n「Vậy thì nhận lời tuyên chiến của hoàng tử bướng bỉnh ấy thôi.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_f951916061232dcd": {
+      "text": "$$正太郎$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_4d863c3fb88a4c39": {
+      "text": "$$タケル$$\n「$$正太郎$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_44f4742c3dcce39a": {
+      "text": "$$バサラ$$\n「Không nhìn nổi nữa rồi!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_9e701cdeb3842c21": {
+      "text": "$$グーラ$$\n「Kẻ sử dụng sức mạnh của sự sống sao...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_6fd81f4abebe60c5": {
+      "text": "$$オズマ$$\n「Totsugeki Love Heart!\n　Ra vậy, nghĩa là hãy xông lên tấn công một lượt!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_da2132b5038ec737": {
+      "text": "$$ガムリン$$\n「Không phải vậy đâu, thiếu tá $$オズマ$$.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_495d61d3ec7e16f2": {
+      "text": "$$ワッ太$$\n「Ngẩng đầu lên đi, $$正太郎$$!\n　$$バサラ$$ đang động viên cậu đấy!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_5cd353758cfe474d": {
+      "text": "$$正太郎$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_a653c8dec4c0f06f": {
+      "text": "$$アマタ$$\n「Không chỉ có $$バサラ$$\n　đang cổ vũ $$正太郎$$ đâu.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_86d493e37a9799a7": {
+      "text": "$$カレン$$\n「Bọn chị cũng ở bên em mà, $$正太郎$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_09d0fcc600cdd3df": {
+      "text": "$$シンジ$$\n「Nếu em coi hoàng tử $$グーラ$$ là bạn\n　thì hãy cố gắng lên!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_182faded068c15ed": {
+      "text": "$$赤木$$\n「Đúng đấy, $$正太郎$$!\n　Chưa thử thì sao biết kết quả thế nào!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_9c206d19bfda4bd5": {
+      "text": "$$正太郎$$\n「Mọi người...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_6e558bc69acf5bf3": {
+      "text": "$$マリーダ$$\n「Thấu hiểu kẻ địch... người ngoài hành tinh sao...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_d60d0818e965232f": {
+      "text": "$$クェス$$\n「Thế này... cũng hay thật đấy!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_5b23687574286204": {
+      "text": "$$ギュネイ$$\n「Nhìn vào thực tế đi, $$クェス$$!\n　Làm thế này chắc chắn chỉ vô ích thôi!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_6fd86c96891ea942": {
+      "text": "$$アムロ$$\n「Chuyện đó không phải do cậu quyết định.\n　Mà là $$正太郎$$ và $$グーラ$$.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_43e4e548c0b28376": {
+      "text": "$$ミサト$$\n「Ông có điều gì muốn nói không, $$Ｆ．Ｓ．$$?」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_d80a9688790ed583": {
+      "text": "$$Ｆ．Ｓ．$$\n「$$正太郎$$...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_708bea61e3c43ada": {
+      "text": "$$Ｆ．Ｓ．$$\n「Đã làm thì phải dốc hết sức!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_7b6f159eeaf4de0f": {
+      "text": "$$正太郎$$\n「Vâng!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_0827963cfd706e8d": {
+      "text": "$$正太郎$$\n「Mình tới đây, $$グーラ$$!\n　Nhất định mình sẽ ngăn cậu lại!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$グーラ$$\n「Dai dẳng quá đấy, $$正太郎$$!\n　Ta là $$グーラ・キング・Ｊｒ．$$...!\n　Là con của $$宇宙魔王#pilot$$...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_3f4035fd9db81258": {
+      "text": "$$正太郎$$\n「Chuyện đó thì liên quan gì chứ!\n　Cậu là bạn của mình!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_567b361a454c4b73": {
+      "text": "$$グーラ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_d22851aaafbbf8fc": {
+      "text": "$$バサラ$$\n「Đúng thế!\n　Hãy dời ngọn núi đi, $$正太郎$$!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_352534f64413d954": {
+      "text": "$$正太郎$$\n「Đợi mình nhé, $$グーラ$$!\n　Nhất định mình sẽ lay chuyển được trái tim cậu!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_79f2664edb1af798": {
+      "text": "$$グーラ$$\n「Chậc!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$正太郎$$\n「Dừng lại đi, $$グーラ$$!\n　Cho quân rút lui đi!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_1c5aa0d15ae24846": {
+      "text": "$$グーラ$$\n「$$正太郎$$!\n　Ngươi định thương hại ta sao!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_53bb64ee17750ee2": {
+      "text": "$$正太郎$$\n「Không phải vậy!\n　Mình không muốn đánh nhau với cậu!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_7a7add80fde475ba": {
+      "text": "$$正太郎$$\n「Trả lời mình đi, $$グーラ$$!\n　Cậu muốn đánh nhau với mình sao!?」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_b2befefdbed1393d": {
+      "text": "$$グーラ$$\n「Hỏi ngớ ngẩn thật, $$正太郎$$.\n　Mọi sinh vật đều được sinh ra để chiến đấu.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_2103f6df2ea2e447": {
+      "text": "$$グーラ$$\n「Cuộc chiến giữa thần và ác quỷ...\n　Đó chính là sứ mệnh đặt lên mọi sinh vật!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_a12e3e130d896ff7": {
+      "text": "$$竜馬$$\n「Ác quỷ là chỉ $$バアル$$ sao...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_b6f7b219eb4bd64b": {
+      "text": "$$隼人$$\n「Thần và ác quỷ...\n　Khái niệm về cuộc chiến giữa thiện và ác sao.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_91bf33c27ad39f0a": {
+      "text": "$$シモン$$\n「Nói cách khác, loài người mang số mệnh\n　phải chiến đấu với $$バアル$$ sao...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_ee220318b96ab538": {
+      "text": "$$グーラ$$\n「Hừ...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_ce1b55e526b6277a": {
+      "text": "$$ワッ太$$\n「Có gì buồn cười hả, $$グーラ$$!\n　Chỉ biết hơn chút xíu mà\n　cậu đã lên mặt rồi!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_c304df6888eb78f7": {
+      "text": "$$ミカゲ$$\n「Cũng chẳng trách hoàng tử bóng tối cười nhạo.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_c26958634526e597": {
+      "text": "$$アマタ$$\n「Đó là!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_cdb750c9d380881a": {
+      "text": "$$アンディ$$\n「Cái gã tên $$ミカゲ$$ gì đó của Altair à!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_95fda74613c97b39": {
+      "text": "$$ゼシカ$$\n「A... aaa...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_1956994937f8171e": {
+      "text": "$$ミコノ$$\n「Sao thế, $$ゼシカ$$...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_48f49f6728c15612": {
+      "text": "$$ミカゲ$$\n「Hừ hừ...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$アルト$$\n「Cái điệu cười coi thường người khác đó...!\n　Thật khó ưa!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_f02c37d91387d0ad": {
+      "text": "$$ミカゲ$$\n「Thật thất lễ...\n　Vì màn kịch của hoàng tử bóng tối\n　và cậu bé bên đó quá đỗi thú vị thôi.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$カミーユ$$\n「Ngươi gọi nỗ lực thuyết phục hết lòng\n　của $$正太郎$$ là trò hề sao!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_9796b3efa401a303": {
+      "text": "$$刹那$$\n「Ngươi thì hiểu được gì chứ...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_643b6eebfc0186b3": {
+      "text": "$$ミカゲ$$\n「Ta hiểu chứ.\n　Vì ta đã vượt lên trên tình bạn, hy vọng, tình yêu... tất cả.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_291280e5f7eb9d70": {
+      "text": "$$ミレーヌ$$\n「Im đi!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_32eb462c1b4999cb": {
+      "text": "$$ガムリン$$\n「Cô $$ミレーヌ$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_1f4337d6d393fc37": {
+      "text": "$$クラン$$\n「Bài hát này...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_4740e748fae085ee": {
+      "text": "$$カナリア$$\n「『MY FRIENDS』...\n　Lời cổ vũ theo cách của $$ミレーヌ$$ sao.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_b76524cd840e1d37": {
+      "text": "$$ミカゲ$$\n「Bài hát khó chịu thật...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_730ffe18400abfc2": {
+      "text": "$$オズマ$$\n「Ta thấy rõ bản chất của ngươi rồi, tên $$ミカゲ$$ kia!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_ffe0fca26da5cd38": {
+      "text": "$$ミカゲ$$\n「Cái gì...?」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_bfb27f9eb2f7073e": {
+      "text": "$$オズマ$$\n「Kẻ phải cố tình nói rằng mình không tin vào tình yêu hay tình bạn\n　thì sâu thẳm trong lòng\n　lại đang khao khát những điều đó đấy!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_859dfa27bcaafe30": {
+      "text": "$$ミカゲ$$\n「...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_71ebf05996a4b0fd": {
+      "text": "$$オズマ$$\n「Tiếng hát của Fire Bomber\n　sẽ đánh thức những cảm xúc đó!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_6214c11b1bca811e": {
+      "text": "$$オズマ$$\n「Ngươi thấy khó chịu với điều đó,\n　thì hẳn phải là một kẻ cô độc lắm!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_8eaf6f3098ffed12": {
+      "text": "$$ミカゲ$$\n「Được đà lấn tới...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_cf507214fe955d75": {
+      "text": "$$桂$$\n「Tên khốn đó!\n　Hắn không chỉ gọi quân Altair\n　mà còn gọi cả Vajra đến sao!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_2113dcbabdfc758a": {
+      "text": "$$モーム$$\n「Rốt cuộc người đó là ai vậy...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ロジャー$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_6a74519e1fc29c4b": {
+      "text": "$$ロジャー$$\n（Đây là Memory trong mình...\n　hay là ký ức bị phong ấn...?）",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_5b992878fee054b5": {
+      "text": "$$ロジャー$$\n（Mình... biết người đó...）",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$ミカゲ$$\n「Lũ không cánh phát ra những âm thanh khó chịu...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ミレーヌ$$\n「Ááá!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_20cf167c0ec0d4d5": {
+      "text": "$$ガムリン$$\n「Cô $$ミレーヌ$$, cô không sao chứ!?」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_b591d812c96c6c99": {
+      "text": "$$ミレーヌ$$\n「V-vẫn ổn...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_e350fa099c1ab072": {
+      "text": "$$バサラ$$\n「Âm nhạc của chúng ta\n　không dừng lại vì thứ đó đâu!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$ミレーヌ$$\n「$$バサラ$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_c33bd700553abf91": {
+      "text": "$$レイ#168$$\n「Lâu rồi mới làm lại nhỉ!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_feee5c91826230e1": {
+      "text": "$$ビヒーダ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_bccc48e1964ad22d": {
+      "text": "$$バサラ$$\n「Lên nào!\n　Cho linh hồn chúng ta bùng nổ!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_f8736aaaa216c766": {
+      "text": "$$バサラ$$\n「Nghe tôi hát đâyyyy!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_d1ec2522c87c361d": {
+      "text": "$$ミカゲ$$\n「Đây là...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_3599f0a4343fd95c": {
+      "text": "$$バサラ$$\n「Bùng cháy thật mãnh liệt!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_3bc7834a5bf3ee76": {
+      "text": "$$オズマ$$\n「Đ-đến rồi!!\n　Là 『DYNAMITE EXPLOSION』!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_366814efdc8b5800": {
+      "text": "$$ミカゲ$$\n「Kh...!\n　Sức mạnh của hắn là gì thế...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_9be1a4c10bb62515": {
+      "text": "$$ミカゲ$$\n「Khó chịu thật...!\n　Ta không thể ở đây thêm nữa!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_94a88c90e557e16e": {
+      "text": "$$アマタ$$\n「Hắn... quay về rồi...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_1c208ca0cbf26f28": {
+      "text": "$$カイエン$$\n「Sức mạnh từ tiếng hát của $$熱気バサラ$$ sao...?」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_5b7ee307a700171a": {
+      "text": "$$シュレード$$\n「Có lẽ thiếu tá $$オズマ$$ đã nói trúng tim đen rồi.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_8d8f065c932da30a": {
+      "text": "$$アンディ$$\n「Đứng lại đó!!\n　Ta bảo trả $$ＭＩＸ$$ lại đây!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_f5432119677514f7": {
+      "text": "???\n「Ngài $$ミカゲ$$ đã trở về.\n　Nơi này được giao cho chúng ta rồi.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_4e5c8e989c4a7691": {
+      "text": "$n\n「Quân Altair định đánh tiếp sao...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_adec86483b13599a": {
+      "text": "$$グーラ$$\n「Đuổi được cả kẻ có cánh sao...\n　Sức mạnh của sự sống thật đáng sợ...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_2cf701bbcde3ec13": {
+      "text": "$$正太郎$$\n「$$グーラ$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_c17c58fdba72005e": {
+      "text": "$$グーラ$$\n「...Tiếc thật, $$正太郎$$.\n　Vì bị xen ngang nên ta không thể\n　phân thắng bại với ngươi...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_1fe8564d2b959317": {
+      "text": "$$グーラ$$\n「Và dù các ngươi có vùng vẫy thế nào,\n　sức người cũng không thắng được chúng đâu.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_f527e012803f7f1c": {
+      "text": "$$正太郎$$\n「Chúng...!?」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_4b1247bd3ca4905d": {
+      "text": "$$グーラ$$\n「Khi hung tinh phủ kín bầu trời,\n　nhân loại trên hành tinh này sẽ biết tuyệt vọng thật sự...\n　Vĩnh biệt, $$正太郎$$.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_00c55e25f87b71d0": {
+      "text": "$$ダンカン$$\n「Hoàng tử $$グーラ$$ đã trở về.\n　Ta cũng rút lui thôi.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_338f3b27e51dcc41": {
+      "text": "$$正太郎$$\n「$$グーラ$$...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_d91d4bc2d52b61c4": {
+      "text": "$$タケル$$\n「Khi hung tinh phủ kín bầu trời...\n　Rốt cuộc có nghĩa là gì...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_0c8ea89b07432421": {
+      "text": "$$赤木$$\n「Chuyện đó để sau!\n　Đối phó với số địch còn lại và quân Altair trước đã!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_4dbfba00ba7744ee": {
+      "text": "$$バサラ$$\n「Lên nào, các người!\n　Ta sẽ cho nghe thỏa thích tiếng hát của ta!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_be100a32b731708d": {
+      "text": "$$アルト$$\n「Có vẻ tên $$ミカゲ$$ đó\n　lại châm lửa cho $$バサラ$$ rồi.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_702f82442fcec8a9": {
+      "text": "$$ガムリン$$\n「$$バサラ$$ đã thế này thì không ai cản nổi đâu!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_b1e38da4e8775ffe": {
+      "text": "$$バサラ$$\n「Vậy thì cứ đứng đó mà xem đi, $$ガムリン$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ガムリン$$\n「Đừng đùa nữa!\n　Cậu hát thì tôi chiến đấu!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$ガムリン$$\n「Cuộc chiến bảo vệ mọi người của tôi\n　chẳng ai ngăn được đâu!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_3dad695c99e9e052": {
+      "text": "$$バサラ$$\n「Nói hay lắm!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_66d4ae3a21caf881": {
+      "text": "$$ミサト$$\n「Tất cả tiếp tục chiến đấu!\n　Đón đánh quân Altair và Vajra!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_0c18da7b3a37825d": {
+      "text": "$$アンディ$$\n「Chuẩn bị đi, Altair!\n　Ta sẽ hạ các ngươi, tìm ra manh mối\n　để đưa $$ＭＩＸ$$ trở về!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_63249745ffae61b6": {
+      "text": "$$田中司令$$\n「Quân của $$宇宙魔王#pilot$$, quân Altair, Vajra...\n　Tất cả đều đã bị đẩy lui.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_abdb034ae8509702": {
+      "text": "$$Ｆ．Ｓ．$$\n「$$ＷＩＬＬ$$, ông đánh giá tình hình thế nào?」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_3ff2e21207d1d1d3": {
+      "text": "$$ＷＩＬＬ$$\n「Quân Altair xuất hiện ít đi\n　hẳn là do ranh giới thứ nguyên đang bị cố định hóa.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_e51ecf6d6aa42e75": {
+      "text": "$$ＷＩＬＬ$$\n「Nhưng chúng đã bắt $$ＭＩＸ$$ làm ứng viên Rare Igura mạnh nhất,\n　mà nay lại đưa quân tới đây,\n　thì phải xem là mục tiêu ấy vẫn chưa đạt được.」",
+      "status": "needs_review"
+    },
+    "stage0072_04:r_47ddabb7b60131c2": {
+      "text": "$$Ｆ．Ｓ．$$\n「Vậy thì có lẽ Altair sẽ mở một chiến dịch quy mô lớn\n　trước khi $$エタニティ・フラット$$ hoàn tất.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_b025267f22788233": {
+      "text": "$$ミサト$$\n「Hoàng tử $$グーラ$$ có lẽ cũng vậy.\n　Hôm nay tuy bị xen ngang,\n　nhưng tôi cảm nhận được quyết tâm phi thường của cậu ấy.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_ec1a06a7023bf72c": {
+      "text": "$$Ｆ．Ｓ．$$\n「Và thời khắc hung tinh phủ kín trời mà cậu ta nói tới...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_8805f96e52aaa462": {
+      "text": "$$田中司令$$\n「Chuyển động của các vì sao\n　không có gì bất thường, nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_124591cb154fae64": {
+      "text": "$$Ｆ．Ｓ．$$\n「Đừng quên rằng\n　các ngôi sao là những khối $$次元力$$.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$Ｆ．Ｓ．$$\n「Như Trái Đất là nơi lý tưởng để rút $$次元力$$\n　từ 12 chòm sao hoàng đạo, có lẽ sắp tới\n　một thế sao thuận lợi cho mục đích nào đó.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_4bf9b05b5f948170": {
+      "text": "$$ミサト$$\n「Chúng ta phải cảnh giác.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_eaa52d152f444bfd": {
+      "text": "$$甲児$$\n「...Hung tinh sao...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_b4bc9e9435b58e6f": {
+      "text": "$$甲児$$\n（Lẽ nào mẹ đang hành động là vì...）",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_a9227573166977a9": {
+      "text": "$$さやか$$\n「$$甲児$$!\n　Nhìn kia kìa!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_b0600ab9a9e8559d": {
+      "text": "$$甲児$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_7cbc63dad295f862": {
+      "text": "$$あしゅら$$\n「Lâu rồi không gặp, $$兜甲児$$.\n　Và cả $c nữa.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_07f53c816e0a51f5": {
+      "text": "$$甲児$$\n「$$あしゅら男爵$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_2d09c6f6a2d990ea": {
+      "text": "$$竜馬$$\n「Quả nhiên ngươi vẫn còn sống!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_3c5fcfc484a51913": {
+      "text": "$$あしゅら$$\n「...Nhưng ta cũng chán điều đó rồi.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_0476ffd10c764b0e": {
+      "text": "$$甲児$$\n「Cái gì...!?」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$あしゅら$$\n「Bị bỏ lại một mình từ quê hương đã diệt vong,\n　dù hạ được kẻ thù không đội trời chung Dr. Hell,\n　ta cũng mất luôn binh đoàn Thú máy...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_2b3479c4cf0680f4": {
+      "text": "$$あしゅら$$\n「Giờ ta chỉ còn lại\n　nỗi chấp niệm với các ngươi, những kẻ thù truyền kiếp.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_e370696b8936b08c": {
+      "text": "$$甲児$$\n「$$あしゅら$$...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_9d7b02c5e728b7aa": {
+      "text": "$$あしゅら$$\n「Ta sẽ tự quyết định cách hạ màn đời mình...!\n　$$兜甲児$$... các ngươi sẽ giúp ta việc đó!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_9af213fc64e0afec": {
+      "text": "$$あしゅら$$\n「Ba ngày nữa, hãy đợi ở Viện Pháo đài Khoa học!\n　Ta sẽ tập hợp toàn bộ sức mạnh còn lại\n　để thách các ngươi một trận cuối cùng!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_d7f1c506e78e55ff": {
+      "text": "$$あしゅら$$\n「Đây là thỉnh cầu cuối cùng của ta, $$兜甲児$$!\n　Hãy tô điểm con đường tiễn ta về cõi chết!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_0c705091f748360e": {
+      "text": "$$甲児$$\n「$$あしゅら$$... ngươi...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_9eb8599304125b2f": {
+      "text": "$$竜馬$$\n「Cuối cùng cũng hạ quyết tâm rồi sao...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_a072aa25e5f521e0": {
+      "text": "$$ノリコ$$\n「Em định làm gì, $$甲児$$?」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_24e1a808a1609a1a": {
+      "text": "$$甲児$$\n「Em đã quyết rồi.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_53128ce8f154fd06": {
+      "text": "$$甲児$$\n「$$あしゅら$$...\n　Có vẻ đã tới lúc ta và ngươi\n　phân định cuộc chiến dai dẳng này rồi.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_03b5db9ce98fb8d6": {
+      "text": "$$ダンカン$$\n「Khốn kiếp!\n　Thật thất thố trước mặt hoàng tử $$グーラ$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_3915fb4102f1c1dd": {
+      "text": "$$グーラ$$\n「Lui đi, $$ダンカン$$.\n　Còn lại cứ giao cho ta.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_817b2773b4ed563e": {
+      "text": "$$ダンカン$$\n「Thần có lỗi, thưa điện hạ.\n　Ma nhân Tướng quân $$ダンカン$$ xin được rút lui.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_1cc233cbc8c80af7": {
+      "text": "$$葵$$\n「Dịu dàng đấy chứ, $$グーラ$$.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$グーラ$$\n「Khoan dung với thuộc hạ là phẩm chất\n　cần có ở người đứng đầu.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_e180b22d18f48d38": {
+      "text": "$$グーラ$$\n「Và cả tàn khốc với kẻ địch nữa!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_e598c2a0b27e7f50": {
+      "text": "$$シモン$$\n「Rốt cuộc vẫn là thế sao!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_4d2a9066c4e7b27f": {
+      "text": "$$正太郎$$\n「Nghe mình nói đi, $$グーラ$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_10340119af3ed6db": {
+      "text": "$$グーラ$$\n「Lải nhải quá, $$正太郎$$!\n　Dù ngươi có nói gì thì cũng không thay đổi được\n　việc ngươi là kẻ thù của ta!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_23a9c7ab620ab112": {
+      "text": "$$正太郎$$\n「Dù vậy đi nữa!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_4f0aca6deda07883": {
+      "text": "$$バナージ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_8fe40600ce62dfbc": {
+      "text": "$$マリーダ$$\n「$$バナージ$$...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_ff4ce5f3cf96b617": {
+      "text": "$$バナージ$$\n（$$正太郎$$ đang đặt cược vào khả năng ấy...!\n　Không bao giờ bỏ cuộc!）",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_d73c21f119847e35": {
+      "text": "$$バナージ$$\n「Cố lên, $$正太郎$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_89766f5ffaa912d4": {
+      "text": "$$リディ$$\n「$$バナージ$$, cậu làm gì...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$バナージ$$\n「Giờ chúng ta chỉ có thể cổ vũ cho $$正太郎$$ thôi mà!\n　Vậy nên tôi sẽ làm hết sức!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_451f726d4299ea35": {
+      "text": "$$カミーユ$$\n「Cố lên, $$正太郎$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_e3d111e8bb190cb1": {
+      "text": "$$キラ$$\n「Đừng chịu thua!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$刹那$$\n「Đừng bỏ cuộc, $$正太郎$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_ab97c2b2418ea732": {
+      "text": "$$竜馬$$\n「Bọn ta sẽ yểm hộ $$鉄人$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_2ddff5064af78db4": {
+      "text": "$$宗介$$\n「Em cứ yên tâm nói chuyện với $$グーラ$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_050d0532c4b24bfe": {
+      "text": "$$ノリコ$$\n「Vậy nên! Tiến lêêêên!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_d583fcea31bdad2e": {
+      "text": "$$正太郎$$\n「Em cảm ơn mọi người!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_475f7653621a91b5": {
+      "text": "$$グーラ$$\n「Cái gì...!?\n　Sức mạnh đang tập trung quanh $$正太郎$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_f228ae702350849b": {
+      "text": "$$正太郎$$\n「$$グーラ$$!\n　Cha cậu, $$宇宙魔王#pilot$$,\n　dùng lỗ đen hút mọi thứ vào!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_d69dc027cba3003f": {
+      "text": "$$グーラ$$\n「Đúng vậy!\n　Đó là sức mạnh của phụ vương...\n　sức mạnh vượt xa trí tưởng tượng của loài người!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_3c3735172a480b72": {
+      "text": "$$正太郎$$\n「Chúng mình cũng vậy!\n　Trái tim mọi người hợp làm một,\n　tạo nên sức mạnh to lớn!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_1f418b5594cea300": {
+      "text": "$$グーラ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_f87fb889124bfaef": {
+      "text": "$$正太郎$$\n「Đó là sự gắn kết giữa con người... là tình bạn!\n　Vì thế, $$グーラ$$!\n　Mình cũng tin vào sức mạnh tình bạn giữa hai chúng ta!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_79c90de32a79212d": {
+      "text": "$$グーラ$$\n「Cái thứ sức mạnh giả dối ấy...!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_33f7fd55913419e8": {
+      "text": "$$正太郎$$\n「$$グーラ$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_473d9a88b4ca96e7": {
+      "text": "$$ワッ太$$\n「Không được rồi, $$正太郎$$!\n　Phải tước đi khả năng chiến đấu của $$グーラ$$\n　thì mới nói chuyện được!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_4de6ac85c63bac12": {
+      "text": "$$タケル$$\n「Phải ngăn $$スペースロボ$$ của cậu ấy lại!\n　Trước hết phải làm thế đã!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_4c92652c9b1adf6f": {
+      "text": "$$正太郎$$\n「Em hiểu rồi!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_ce90563a934d49fb": {
+      "text": "$$グーラ$$\n「Tới đi, $$正太郎$$!\n　Nếu ngươi ngăn được ta thì cứ thử xem!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_4fb296e63cb1fb46": {
+      "text": "???\n「Khốn kiếp!\n　Không thể chiến đấu tiếp nữa sao!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$カイエン$$\n「Có vẻ tên đó là đội trưởng quân Altair!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_9dc59affd40f32fc": {
+      "text": "$$アンディ$$\n「Đừng hòng chạy!\n　Ta sẽ bắt ngươi, moi thông tin về $$ＭＩＸ$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_0cea115be526a319": {
+      "text": "???\n「Im đi!\n　Đời nào ta để lũ Vega ngu ngốc bắt được!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_d36072babd12aeb4": {
+      "text": "???\n「Món nợ hôm nay nhất định ta sẽ trả!\n　Cứ nhớ lấy!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_09ee921a85025fd3": {
+      "text": "$$アマタ$$\n「Để tên đó thoát rồi!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_fae689f2a1057b61": {
+      "text": "$$サザンカ$$\n「Đúng là kẻ ngạo mạn!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_91c6d0bb53854ecc": {
+      "text": "$$アンディ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_42a3149105314ab8": {
+      "text": "$$ミコノ$$\n「Sao thế, $$アンディ$$?」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_62ecd978c667bd29": {
+      "text": "$$アンディ$$\n「K-không... không có gì...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_d441e6cc908ac01b": {
+      "text": "$$アンディ$$\n（Mình... bị làm sao rồi nhỉ...\n　Chiến đấu với kẻ vừa rồi, mình lại thấy quen thuộc đâu đó...）",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_b2aab8873350ea1f": {
+      "text": "$$ミレーヌ$$\n「Giỏi lắm, anh $$ガムリン$$!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_2c7af4c55d8ac938": {
+      "text": "$$レイ#168$$\n「Đúng là thành viên hỗ trợ của Fire Bomber có khác.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_653b741d07545dff": {
+      "text": "$$ガムリン$$\n「Được anh nói vậy thật vinh dự.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_d584d4b5af55b1cf": {
+      "text": "$$バサラ$$\n「Đắc ý còn sớm lắm, $$ガムリン$$.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_db0ee69ece206fcd": {
+      "text": "$$ガムリン$$\n「Cậu nói rồi đấy, $$バサラ$$!\n　Vậy hãy làm tôi hưng phấn hơn nữa xem nào!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_f97e6925c9e37332": {
+      "text": "$$バサラ$$\n「OK!\n　Tôi sẽ kéo cậu thẳng lên vùng đỏ luôn!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_422861e0b8d77d0c": {
+      "text": "$$ミレーヌ$$\n（Dù nói gì thì dạo này hai người ấy...\n　phối hợp ăn ý thật đấy...）",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_ef16bcaa2b0e0c45": {
+      "text": "$$ミレーヌ$$\n（Có khi mình hơi ghen rồi...）",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_2b93cca10f1c36a8": {
+      "text": "$$正太郎$$\n「$$グーラ$$!\n　Dù thế nào cậu cũng không chịu ngừng chiến sao!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_7980fd37141d88d0": {
+      "text": "$$グーラ$$\n「Đồ hèn nhát!\n　Nếu ngươi cũng là chiến binh bảo vệ Trái Đất thì đấu với ta!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_ac21212c36d2b9ad": {
+      "text": "$$正太郎$$\n「Đã vậy, mình sẽ hạ $$スペースロボ$$\n　để $$グーラ$$ tỉnh ngộ!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_a26e2108358af7a4": {
+      "text": "$$グーラ$$\n「Làm được thì cứ thử xem!\n　Trước đó, ta sẽ phá hủy $$鉄人$$ mà ngươi tự hào!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_a8118b2e37aa1382": {
+      "text": "$$正太郎$$\n「Mình tới đây, $$グーラ$$!\n　Mình sẽ cho cậu thấy sức mạnh của mình và $$鉄人$$...\n　sức mạnh của chiến binh bảo vệ Trái Đất!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_017a56991b7b8ca4": {
+      "text": "$$ワッ太$$\n「Vừa phải thôi, $$グーラ$$!\n　$$正太郎$$ quan tâm đến cậu như thế\n　mà cậu cứ phớt lờ!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_ad3e1db3419665fb": {
+      "text": "$$グーラ$$\n「Chính ta mới là kẻ bị đeo bám làm phiền.」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_0149e3a5f2e5ef78": {
+      "text": "$$ワッ太$$\n「Cái tên này!\n　Cậu đã nói đến thế thì mình cũng có cách của mình!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_3ad10e705167a3fa": {
+      "text": "$$ワッ太$$\n「Mình sẽ làm bạn với cậu\n　bằng cách khác với $$正太郎$$!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_bdc546b199c80996": {
+      "text": "$$グーラ$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_22c8caf8c08c5119": {
+      "text": "$$ワッ太$$\n「Mình tới đây, $$グーラ$$!\n　Đánh nhau hết sức rồi,\n　ta sẽ siết tay nhau và thành bạn!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_9c13714b3efbc7a8": {
+      "text": "$$タケル$$\n「$$グーラ$$!\n　Sao cậu không nhận ra chiến đấu vô nghĩa và trống rỗng thế nào!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_96f156e19b53fc09": {
+      "text": "$$グーラ$$\n「Nực cười thật, Mars!\n　Kẻ từng đánh nhau với anh ruột như ngươi lại dạy đời ta sao!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_feb0390bba7fe1fb": {
+      "text": "$$タケル$$\n「Chính vì thế tôi mới không muốn cậu và $$正太郎$$\n　phải nếm trải nỗi buồn và đau khổ của tôi!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_8a78bcec22029401": {
+      "text": "$$グーラ$$\n「Ngươi...」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_f42017dfce31dea9": {
+      "text": "$$タケル$$\n「Hiểu cho tôi đi, $$グーラ$$!\n　Cuộc chiến thế này chẳng đem hạnh phúc cho ai cả!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_ef7426919f628d8a": {
+      "text": "$$ガムリン$$\n「Cậu cũng hãy nghe $$バサラ$$ hát và mở lòng ra!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_9e994a4b926d9906": {
+      "text": "$$グーラ$$\n「Ngươi nói gì!?」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_ffae76d2a77abf5a": {
+      "text": "$$ガムリン$$\n「Nếu trái tim cậu chưa đóng băng,\n　những tình cảm nóng bỏng còn sót lại tận đáy lòng\n　nhất định sẽ hồi sinh!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_3ac462d37e5893ff": {
+      "text": "$$グーラ$$\n「Lý lẽ vô lý thật!\n　Ai thèm nghe những lời đó chứ!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_fd6bdf7910d7d925": {
+      "text": "$$ガムリン$$\n「Không phải lý lẽ!\n　Hãy cảm nhận bằng trái tim!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_d38be46e6cd7a5e5": {
+      "text": "$$バサラ$$\n「Tránh ra, $$ガムリン$$!\n　Nếu không muốn nghe lời nói\n　thì chỉ còn một việc phải làm thôi!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_3fe2078328753c16": {
+      "text": "$$バサラ$$\n「Tôi tới đây, hoàng tử $$グーラ$$!\n　Nghe tôi hát đâyyyy!!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_c66844158d1ce600": {
+      "text": "$$グーラ$$\n（Linh hồn ta đang rung động...!\n　Đây là sức mạnh của sự sống sao!!）",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_d037ecbc1e348dc9": {
+      "text": "???\n「Chính ta sẽ hạ Thiên thần Máy!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_bcd53d14c4785426": {
+      "text": "???\n（Nhưng đây là gì...\n　Nỗi đau sâu trong lồng ngực này...）",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_9ca55ea7feca954a": {
+      "text": "???\n（Như thể có ai khoét một lỗ trong lồng ngực mình...）",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_554ae12c4c170253": {
+      "text": "$$ボン太くん#pilot$$\n「Fumomo, fumo! Fumoffu!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_fa59c6df081e6ae4": {
+      "text": "$$グーラ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_ca3edf3b8b52aedf": {
+      "text": "$$ボン太くん#pilot$$\n「Fumofu! Fumomofu, fumoffu!」",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_aa5d235c78ebe19f": {
+      "text": "$$グーラ$$\n（Cảm giác này là sao...）",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_0b3b19cddb871f90": {
+      "text": "$$グーラ$$\n（Mình... muốn chạm vào con vật đó...）",
+      "status": "reviewed"
+    },
+    "stage0072_04:r_304e98dac43c9333": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0073_03:r_caaab7bad760e16d": {
+      "text": "Bầu trời đêm",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_99b162aa6aa286a2": {
+      "text": "Bầu trời đêm",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_58fb02434a1c40b2": {
+      "text": "Bầu trời đêm",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_1c0f94acd5a8a143": {
+      "text": "$$つばさ$$\n「Tên $$あしゅら$$ cũng đã hạ quyết tâm rồi sao...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_1263541f4071624e": {
+      "text": "$$つばさ$$\n「Giờ chỉ cần ta kết liễu người đàn ông đó,\n　mọi ân oán quanh đảo Bardos sẽ chấm dứt.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_3bc300bbdc277d82": {
+      "text": "$$つばさ$$\n「Cứ chờ đấy...\n　Ta đã tìm ra nơi ngươi đang ở rồi.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_38762a09460d8b6b": {
+      "text": "$$つばさ$$\n「Kenzo...\n　Lần này, ta sẽ lấy mạng ngươi cho bằng được.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_7ab28e70b4d4f641": {
+      "text": "$$ドラゴンズハイヴ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$ドラゴンズハイヴ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_ec335e69f984b8b3": {
+      "text": "$$ドラゴンズハイヴ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_0abcaf0c31978670": {
+      "text": "　\n　\n　～ $$ドラゴンズハイヴ$$, khoang chứa máy ～",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_1d6bc48b7f246730": {
+      "text": "$$竜馬$$\n「Cuối cùng cũng đến trận quyết chiến với $$あしゅら$$...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_1af20fccc3c53cfc": {
+      "text": "$$隼人$$\n「Có vẻ đến hắn cũng đã hạ quyết tâm rồi mà.\n　Lần này chắc hắn sẽ không chạy trốn hay ẩn nấp nữa đâu.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_f951916061232dcd": {
+      "text": "$$弁慶$$\n「Hơn nữa, nơi quyết chiến là Viện Pháo đài Khoa học.\n　Hắn cũng chẳng giăng bẫy được.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_4d863c3fb88a4c39": {
+      "text": "$$甲児$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_44f4742c3dcce39a": {
+      "text": "$$竜馬$$\n「Sao thế, $$甲児$$?」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_9e701cdeb3842c21": {
+      "text": "$$甲児$$\n「Em ra ngoài cho đầu óc bình tĩnh lại một chút.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_6fd81f4abebe60c5": {
+      "text": "$$キタン$$\n「Thằng nhóc cũng căng thẳng trước trận quyết chiến à?」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_da2132b5038ec737": {
+      "text": "$$ヨーコ$$\n「Nhìn cậu ấy... hình như không phải vậy đâu.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_495d61d3ec7e16f2": {
+      "text": "$$ボス$$\n「$$甲児$$ thấy trống trải đấy.\n　Với cậu ấy, $$あしゅら$$ chính là cả chặng đường\n　chiến đấu cùng Mazinger mà.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_5cd353758cfe474d": {
+      "text": "$$ヴィラル$$\n「Ra vậy...\n　Ta cũng phần nào hiểu được cảm giác ấy...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_a653c8dec4c0f06f": {
+      "text": "$$シモン$$\n「Sao thế, $$ヴィラル$$?」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_86d493e37a9799a7": {
+      "text": "$$ヴィラル$$\n「Hừ... Chuyện xưa rồi.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_09d0fcc600cdd3df": {
+      "text": "$$竜馬$$\n「Thằng nhóc $$甲児$$ lại đa sầu đa cảm, chẳng giống nó chút nào.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_182faded068c15ed": {
+      "text": "$$シモン$$\n「Sao đây, $$竜馬$$?\n　Có nên ra nói chuyện với cậu ấy không?」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_9c206d19bfda4bd5": {
+      "text": "$$竜馬$$\n「Chuyện đó không đến lượt tôi đâu.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_6e558bc69acf5bf3": {
+      "text": "$$シモン$$\n「Cũng phải.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_d60d0818e965232f": {
+      "text": "Bầu trời đêm",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_5b23687574286204": {
+      "text": "Bầu trời đêm",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_6fd86c96891ea942": {
+      "text": "Bầu trời đêm",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_43e4e548c0b28376": {
+      "text": "$$甲児$$\n（$$あしゅら$$...）",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_d80a9688790ed583": {
+      "text": "$$甲児$$\n（Ngươi là kẻ thù đã giết ông nội,\n　là kẻ đã lôi ta vào cuộc chiến địa ngục...）",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_708bea61e3c43ada": {
+      "text": "$$甲児$$\n（Nhưng chẳng phải vì ngươi đã bị Tiến sĩ Hell lừa sao...?）",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_7b6f159eeaf4de0f": {
+      "text": "$$甲児$$\n（Khi hợp sức đánh bại Tiến sĩ Hell,\n　hẳn giữa chúng ta đã có thứ gì đó như một mối gắn kết.\n　Vậy mà...）",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_0827963cfd706e8d": {
+      "text": "$$さやか$$\n「$$甲児$$...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$甲児$$\n「$$さやか$$...\n　Mai đã là trận quyết chiến rồi,\n　cậu còn ra đây làm gì giờ này?」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_3f4035fd9db81258": {
+      "text": "$$さやか$$\n「Mình đến ngắm sao.\n　Cùng với cậu đấy, $$甲児$$.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_567b361a454c4b73": {
+      "text": "$$甲児$$\n「Sao à... Ý cậu là hung tinh mà $$グーラ$$ nói tới sao?」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_d22851aaafbbf8fc": {
+      "text": "$$さやか$$\n「Không phải thế.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_352534f64413d954": {
+      "text": "$$甲児$$\n「C-cậu đứng gần quá rồi đấy...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_79f2664edb1af798": {
+      "text": "$$さやか$$\n「Có sao đâu.\n　Đâu có ai nhìn thấy.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$甲児$$\n「Ơ... nhưng có $n ở đây mà...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_1c5aa0d15ae24846": {
+      "text": "$$さやか$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_53bb64ee17750ee2": {
+      "text": "$n\n「X-xin lỗi...!\n　Tôi không định nhìn trộm hay làm phiền hai cậu đâu...!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_7a7add80fde475ba": {
+      "text": "$$カレン$$\n「Cũng như $$さやか$$, mình thấy lo cho $$甲児$$.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_b2befefdbed1393d": {
+      "text": "$$さやか$$\n「Vậy nghĩa là $$カレン$$ cũng thích $$甲児$$...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_2103f6df2ea2e447": {
+      "text": "$$カレン$$\n「Mình không có ý đó!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_a12e3e130d896ff7": {
+      "text": "$$アルト$$\n「Ý cậu ấy là với tư cách bạn bè.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_b6f7b219eb4bd64b": {
+      "text": "$$宗介$$\n「Nói chính xác hơn là với tư cách chiến hữu.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_91bf33c27ad39f0a": {
+      "text": "$$甲児$$\n「Mọi người...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_ee220318b96ab538": {
+      "text": "$n\n「Đừng tự cho đây là trận chiến cuối cùng, $$甲児$$.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_ce1b55e526b6277a": {
+      "text": "$$アルト$$\n「Dù đánh bại $$あしゅら$$, cuộc chiến của chúng ta vẫn còn tiếp diễn.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_c304df6888eb78f7": {
+      "text": "$$シンジ$$\n「Vậy nên, anh $$甲児$$... cùng cố gắng nhé.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_c26958634526e597": {
+      "text": "$$甲児$$\n「...Không ngờ lại được $$シンジ$$ động viên đấy.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_cdb750c9d380881a": {
+      "text": "$$シンジ$$\n「E-em xin lỗi!\n　Em đã nói năng quá phận...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_95fda74613c97b39": {
+      "text": "$$甲児$$\n「Qua những trận chiến, em cũng trưởng thành rồi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_1956994937f8171e": {
+      "text": "$$シンジ$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_48f49f6728c15612": {
+      "text": "$$甲児$$\n「Nếu không lái Mazinger, chắc anh vẫn chỉ là\n　đại ca ngầm của trường cấp ba thôi...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$シンジ$$\n「Đ-đại ca ngầm ạ...?」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_f02c37d91387d0ad": {
+      "text": "$n\n「Nhưng $$あしゅら男爵$$ là kẻ thù của chúng ta.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$甲児$$\n「Tôi biết.\n　Vì vậy tôi sẽ tự tay giải quyết cho dứt điểm.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_9796b3efa401a303": {
+      "text": "$n\n「Vậy thì vừa hay.\n　Hắn cũng mong điều đó.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_643b6eebfc0186b3": {
+      "text": "$$甲児$$\n「Vậy thì tôi sẽ làm.\n　Đúng như các cậu nói, cuộc chiến của tôi vẫn còn tiếp diễn.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_291280e5f7eb9d70": {
+      "text": "$$さやか$$\n「$$甲児$$...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_32eb462c1b4999cb": {
+      "text": "$$アルト$$\n「Thế nhé, $$甲児$$.\n　Bọn tôi đi ngủ đây.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_1f4337d6d393fc37": {
+      "text": "$$カレン$$\n「$$さやか$$ cũng cố lên nhé.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_4740e748fae085ee": {
+      "text": "$$さやか$$\n「Thiệt tình... $$カレン$$ này...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_b76524cd840e1d37": {
+      "text": "$$甲児$$\n「Cậu tính sao, $$さやか$$?\n　Mình... sẽ ở đây thêm chút nữa...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_730ffe18400abfc2": {
+      "text": "$$さやか$$\n「Mình cũng sẽ ở lại cùng cậu.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_ffe0fca26da5cd38": {
+      "text": "$$甲児$$\n「Vậy qua đây đi.\n　Sắp hết tháng chín rồi, đêm cũng lạnh nữa.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_bfb27f9eb2f7073e": {
+      "text": "$$さやか$$\n「Ừ...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_859dfa27bcaafe30": {
+      "text": "$$甲児$$\n（Trời sáng là trận quyết chiến bắt đầu...\n　$$あしゅら$$... Ta sẽ giải quyết dứt điểm ân oán giữa chúng ta.）",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_71ebf05996a4b0fd": {
+      "text": "Tối đen",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_6214c11b1bca811e": {
+      "text": "Tối đen",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_8eaf6f3098ffed12": {
+      "text": "Tối đen",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_cf507214fe955d75": {
+      "text": "$$つばさ$$\n「...Ngươi ở đó, đúng không?」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_2113dcbabdfc758a": {
+      "text": "???\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$つばさ$$\n「Trả lời đi, Kenzo Kabuto!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_6a74519e1fc29c4b": {
+      "text": "Kenzo\n「Nhìn tình trạng của em,\n　có vẻ cậu $$暗黒寺$$ đã thất bại rồi...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_5b992878fee054b5": {
+      "text": "$$つばさ$$\n「Ngươi đang nói nhảm cái gì vậy...!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_95a3dd16c2c4cc3e": {
+      "text": "Kenzo\n「$$つばさ$$...\n　Em đến để giết anh, đúng không?」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_4a14ec0c511c7f0d": {
+      "text": "$$つばさ$$\n「Đúng vậy.\n　Nhưng ta cũng chẳng định giết cha của $$甲児$$ và $$シロー$$\n　rồi một mình sống nhởn nhơ đâu.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_20cf167c0ec0d4d5": {
+      "text": "$$つばさ$$\n「Quả bom quang tử này sẽ tiễn cả ta lẫn ngươi xuống địa ngục!\n　Ân oán quanh đảo Bardos sẽ chấm dứt tại đây!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_b591d812c96c6c99": {
+      "text": "Kenzo\n「Khoan đã.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_e350fa099c1ab072": {
+      "text": "$$つばさ$$\n「Đến nước này còn cầu xin tha mạng sao!\n　Thật thảm hại!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_fb05d8e5f1ee93e5": {
+      "text": "Kenzo\n「Trước đó, hãy nghe anh nói đã.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_c33bd700553abf91": {
+      "text": "$$つばさ$$\n「Câm đi!\n　Đến giờ này còn gì để nói nữa!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_feee5c91826230e1": {
+      "text": "Kenzo\n「Vậy ít nhất hãy nhìn anh trước đã...\n　Phải... Hãy nhìn bộ dạng thảm hại này của anh...!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_bccc48e1964ad22d": {
+      "text": "Kenzo",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_f8736aaaa216c766": {
+      "text": "Kenzo",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_d1ec2522c87c361d": {
+      "text": "Kenzo",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_3599f0a4343fd95c": {
+      "text": "$$つばさ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_3bc7834a5bf3ee76": {
+      "text": "Kenzo\n「Đây là bộ dạng của anh lúc này.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_366814efdc8b5800": {
+      "text": "$$つばさ$$\n「Kết cục của việc bị Kedora ký sinh sao...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_9be1a4c10bb62515": {
+      "text": "Kenzo\n「Đúng vậy.\n　Để lấy lại ý thức của mình, anh chỉ còn cách\n　vứt bỏ cơ thể đã bị Kedora ký sinh.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_94a88c90e557e16e": {
+      "text": "$$つばさ$$\n「Chẳng phải do ngươi tự chuốc lấy sao!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_1c208ca0cbf26f28": {
+      "text": "Kenzo\n「Đúng là anh đã mê đắm những bí mật của Mycenae...\n　Rồi bị Kedora ký sinh khi đang nghiên cứu nó,\n　anh đã định giết cha mình, Juzo Kabuto, và cả em.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_5b7ee307a700171a": {
+      "text": "Kenzo\n「Nhưng khi chạm vào cánh tay phải của $$ゼウス$$\n　mà mọi người định mang khỏi đảo Bardos,\n　nhờ sức mạnh ánh sáng ấy, anh đã lấy lại được ý thức.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_8d8f065c932da30a": {
+      "text": "$$つばさ$$\n「Rồi ngươi vứt bỏ cơ thể\n　để thoát khỏi sự khống chế của Kedora chứ gì?」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_f5432119677514f7": {
+      "text": "Kenzo\n「Đúng vậy.\n　Và anh đã sống sót trong bộ dạng này\n　để giám sát Tiến sĩ Hell.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_4e5c8e989c4a7691": {
+      "text": "$$つばさ$$\n「Vậy nên ngươi đã dùng Gamia\n　để âm thầm giúp ta và $$甲児$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_adec86483b13599a": {
+      "text": "Kenzo\n「Đúng vậy.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_2cf701bbcde3ec13": {
+      "text": "$$つばさ$$\n「Đừng có đùa!\n　Ngươi tưởng nói thế là giờ ta có thể tha thứ sao!!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_c17c58fdba72005e": {
+      "text": "Kenzo\n「...Anh hiểu điều đó.\n　Vì vậy, giờ Tiến sĩ Hell đã bị đánh bại,\n　anh đã định cứ thế này mà mục nát dần.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_1fe8564d2b959317": {
+      "text": "Kenzo\n「Nhưng nếu hắn... nếu $$あしゅら男爵$$ còn sống\n　thì lại là chuyện khác.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_f527e012803f7f1c": {
+      "text": "$$つばさ$$\n「Tên chết hụt ấy thì có ý nghĩa gì!?」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_4b1247bd3ca4905d": {
+      "text": "Kenzo\n「Nghĩ lại, cuộc chiến quanh đảo Bardos\n　là chuỗi phản bội liên tiếp: lừa địch,\n　giả dạng người khác, che giấu bí mật...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_00c55e25f87b71d0": {
+      "text": "Kenzo\n「Và đỉnh điểm của tất cả chính là hắn... $$あしゅら男爵$$.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_338f3b27e51dcc41": {
+      "text": "$$つばさ$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_d91d4bc2d52b61c4": {
+      "text": "Kenzo\n「Giờ hung tinh đã phủ kín bầu trời, hắn...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_0c8ea89b07432421": {
+      "text": "Quán bar",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_4dbfba00ba7744ee": {
+      "text": "Quán bar",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_be100a32b731708d": {
+      "text": "Quán bar",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_702f82442fcec8a9": {
+      "text": "　\n　\n　～ Thành phố Paradigm, quán bar 'SPEAK EASY' ～",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_b1e38da4e8775ffe": {
+      "text": "$$ガドライト$$\n「Ha ha ha ha ha ha!\n　Ha ha, ha ha ha ha ha ha!\n　Ha ha ha, bwa ha ha ha ha!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ガドライト$$\n「Hắn làm thật rồi...!\n　Tên $$あしゅら$$ đó làm thật rồi!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$ガドライト$$\n「Hay lắm, hay lắm!\n　Những vị thần phẫn nộ giáng lâm!\n　Thế này thì Trái Đất loạn hết cả lên rồi!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_3dad695c99e9e052": {
+      "text": "$$ガドライト$$\n「Giờ tính sao đây, lũ người Trái Đất?\n　Đối thủ là thần đấy, cách thông thường làm sao thắng nổi!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_66d4ae3a21caf881": {
+      "text": "$$ガドライト$$\n「Để ta xem nào.\n　Màn lật ngược thế cờ sở trường của các ngươi ấy...!\n　Mà... đó là nếu các ngươi làm được!」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_0c18da7b3a37825d": {
+      "text": "$$エンジェル$$\n「Làm ầm ĩ ở một nơi thế này không thấy phiền người khác sao?」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_63249745ffae61b6": {
+      "text": "$$ガドライト$$\n「Thật thất lễ...\n　Tôi chỉ đang uống chút rượu ăn mừng thôi.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_abdb034ae8509702": {
+      "text": "$$ガドライト$$\n「Vừa hay.\n　Cô uống cùng tôi một ly nhé?\n　Tất nhiên là tôi mời.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_3ff2e21207d1d1d3": {
+      "text": "$$エンジェル$$\n「...Cũng được.\n　Tôi cũng đang hơi chán.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_e51ecf6d6aa42e75": {
+      "text": "$$ガドライト$$\n「Buồn chán, trụy lạc và lười biếng đều được dung thứ...\n　Tôi thấy thành phố này chẳng khác nào thiên đường.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_47ddabb7b60131c2": {
+      "text": "$$エンジェル$$\n「Có thật vậy không...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_b025267f22788233": {
+      "text": "$$ガドライト$$\n「Hửm?」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_ec1a06a7023bf72c": {
+      "text": "$$エンジェル$$\n「Không quá khứ, cũng chẳng tương lai,\n　thành phố này có lẽ là một nhà tù...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_8805f96e52aaa462": {
+      "text": "$$ガドライト$$\n「...Này người đẹp... cô tên gì?」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_124591cb154fae64": {
+      "text": "$$エンジェル$$\n「Angel...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$ガドライト$$\n「Hừm...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_4bf9b05b5f948170": {
+      "text": "$$エンジェル$$\n「Có vẻ anh không thích nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_eaa52d152f444bfd": {
+      "text": "$$ガドライト$$\n「Chỉ cái tên đó thôi.\n　Ngoài ra, mọi thứ ở cô đều hoàn hảo.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_b4bc9e9435b58e6f": {
+      "text": "$$ガドライト$$\n「Nhưng hôm nay, tôi sẽ quên hết mọi chuyện chán ngắt.\n　Cứ tận hưởng hết mình đi, $$エンジェル$$.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_a9227573166977a9": {
+      "text": "$$エンジェル$$\n「Nếu có thể quên, tôi muốn được quên mãi mãi,\n　chứ không chỉ hôm nay.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_b0600ab9a9e8559d": {
+      "text": "$$ガドライト$$\n「Vậy thì...」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_7cbc63dad295f862": {
+      "text": "$$エンジェル$$\n「Nâng ly vì ngày hôm nay vĩnh cửu.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_07f53c816e0a51f5": {
+      "text": "Phông nền D-Trader",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_2d09c6f6a2d990ea": {
+      "text": "Phông nền D-Trader",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_3c5fcfc484a51913": {
+      "text": "Phông nền D-Trader",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_0476ffd10c764b0e": {
+      "text": "　\n　\n　　　～ D-Trader ～",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$ＡＧ$$\n「...Thành thật xin lỗi.\n　Hôm nay tôi hơi bận nên không thể tiếp chuyện quý khách.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_2b3479c4cf0680f4": {
+      "text": "$$ＡＧ$$\n「Việc chúc mừng phi công át chủ bài\n　cũng xin để dịp khác.」",
+      "status": "reviewed"
+    },
+    "stage0073_03:r_e370696b8936b08c": {
+      "text": "$$ＡＧ$$\n「D-Trader vẫn mở cửa,\n　xin quý khách cứ tự nhiên.」",
+      "status": "reviewed"
+    }
+  }
+}

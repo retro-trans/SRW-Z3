@@ -1,5 +1,29 @@
 # Handoff
 
+**2026-09-26 public-repository preparation authorized, not published:** user
+approved committing VI content, replacing hosted history and publication after
+audit. GitHub connector confirms PRIVATE, one master branch, nine releases and
+nine old tags; those tags must be handled or source history remains reachable.
+CLI accounts report invalid authentication; prompted user to re-authenticate.
+User chose local backup, then removal of historical GitHub releases/tags.
+No remote writes or visibility change yet. Do not publish before audit and
+tag handling. No new game build or release requested.
+
+**2026-09-26 Vietnamese content merged from the linked worktree:** imported
+188 locale JSON files /43,104 entries from codex/vietnamese-silver 5dd5d66.
+IDs/source/context/kind all match current main; wording preserved exactly.
+244 old opening drafts upgraded. 42,155 accepted by current structural and
+glossary checks;393 glossary-token mismatches marked needs_review (402 total
+including9 inherited reviews),547 explicit missing. Global VI missing count
+is60,626 including absent rows. See localization/locales/vi/README.md and the
+402-ID QA report localization/qa/vi_worktree_merge_20260926.json. Six inherited
+title notes moved into the report to keep locale rows schema-conformant.
+No English/shared source edits or old history imported. Branch font/build
+adapters were not ported: game_build_ready stays false. Worktree untouched;
+draft backups and dry-run/import script under ignored work/vi-merge-20260926/.
+No build/install/commit/push. Next translation checkpoint remains Stage75
+story81-160, but this merge did not perform additional translation or review.
+
 **2026-09-26 local source privacy / fresh-history reset:** Japanese messages/,
 PS3 localization/legacy.json and generated translation JSON/TSV are local-only
 and ignored, not deleted. Locale translations/code/glossary remain tracked.

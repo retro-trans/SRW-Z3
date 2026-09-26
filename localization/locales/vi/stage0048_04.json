@@ -1,0 +1,446 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0048_04:r_caaab7bad760e16d": {
+      "text": "$$テッサ$$\n「Tình hình thế nào rồi?」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_99b162aa6aa286a2": {
+      "text": "$$マデューカス$$\n「Mục tiêu chưa rõ danh tính dưới nước sắp vào tầm.\n　Toàn bộ thành viên, kể cả $c,\n　đã vào vị trí.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_58fb02434a1c40b2": {
+      "text": "$$テッサ$$\n「Dù chúng là ai, hãy cho chúng biết\n　thách thức Danaan dưới nước\n　là ngu ngốc đến mức nào.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_1c0f94acd5a8a143": {
+      "text": "$$マデューカス$$\n「Đã xác định mục tiêu...!\n　Là UG.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_1263541f4071624e": {
+      "text": "$$テッサ$$\n「Hoạt động của chúng...\n　đang dần trở nên mạnh hơn nhỉ...」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_3bc300bbdc277d82": {
+      "text": "$$マデューカス$$\n「Vậy thì chúng ta càng không thể thua.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_38762a09460d8b6b": {
+      "text": "$$テッサ$$\n「Ra lệnh cho các máy của $c xuất kích...!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_7ab28e70b4d4f641": {
+      "text": "$$アムロ$$\n「Chỉ có chừng này máy xuất kích được thôi sao...!?」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$エマ$$\n「Cửa khoang bị đóng giữa lúc đang xuất kích...」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_ec335e69f984b8b3": {
+      "text": "$$甲児$$\n「Có trục trặc gì sao...?」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_0abcaf0c31978670": {
+      "text": "$$タケル$$\n「Không liên lạc được với phòng chỉ huy Danaan,\n　nên chỉ có thể nghĩ vậy thôi.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_1d6bc48b7f246730": {
+      "text": "$$シモン$$\n「Vậy thì cứ chiến đấu với lực lượng hiện có!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_1af20fccc3c53cfc": {
+      "text": "$$竜馬$$\n「Kẻ địch đều ở dưới nước à...!\n　Vụ này xem ra phiền phức rồi đây!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_f951916061232dcd": {
+      "text": "$$ガウルン$$\n「Ồ... viện quân cũng đến rồi à.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_4d863c3fb88a4c39": {
+      "text": "$$マデューカス$$\n「Khốn thật!\n　Chẳng phải mục tiêu của chúng là chiếm tàu sao!?」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_44f4742c3dcce39a": {
+      "text": "$$ガウルン$$\n「À, tao đã cho đổi rồi.\n　Thành đánh chìm con tàu này.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_9e701cdeb3842c21": {
+      "text": "$$テッサ$$\n「Ông đã làm gì thế!?」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_6fd81f4abebe60c5": {
+      "text": "$$ガウルン$$\n「Tao cũng nghe nói con tàu này lợi hại lắm.\n　Nào... thử xem nó né được\n　bao nhiêu đòn tấn công của chúng nhé.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_da2132b5038ec737": {
+      "text": "$$テッサ$$\n「Tệ quá rồi!\n　Giao quyền điều khiển tàu lại cho tôi ngay!\n　Cởi trói cho nhân viên lái tàu và sonar nữa!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_495d61d3ec7e16f2": {
+      "text": "$$ガウルン$$\n「Không đượ~c.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_5cd353758cfe474d": {
+      "text": "$$テッサ$$\n「Đây là lúc quyết định con tàu có bị chìm hay không!\n　Ngay cả tôi cũng chưa chắc né được...!\n　Ông tuyệt đối không làm nổi đâu!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_a653c8dec4c0f06f": {
+      "text": "$$ガウルン$$\n「Chưa thử thì sao biết được?」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_86d493e37a9799a7": {
+      "text": "$$マデューカス$$\n「Tên này...」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_09d0fcc600cdd3df": {
+      "text": "$$ガウルン$$\n「Nào... loạt thứ hai đến rồi...!\n　Thành công thì cũng vui đấy!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_182faded068c15ed": {
+      "text": "$$ガウルン$$\n「Nào, né đây!\n　Liệu tao có làm nổi không nhỉ?\n　Hay là không nổi đây... ahahahaha!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_9c206d19bfda4bd5": {
+      "text": "$$テッサ$$\n（Ngay bây giờ, $$かなめ$$!）",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_6e558bc69acf5bf3": {
+      "text": "$$テッサ$$\n「Từ giờ tàu ta cũng sẽ yểm trợ $c,\n　đánh chặn lực lượng địch!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_d60d0818e965232f": {
+      "text": "$$マデューカス$$\n「Rõ, thưa hạm trưởng!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_5b23687574286204": {
+      "text": "$n\n「Còn $$宗介$$...!?」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_6fd86c96891ea942": {
+      "text": "$$ヒイロ$$\n「Nhìn cửa khoang xuất kích đi...!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_43e4e548c0b28376": {
+      "text": "$$スズネ$$\n「$$宗介$$ và một AS của địch!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_d80a9688790ed583": {
+      "text": "$$ガウルン$$\n「Vui thật đấy, Kashim!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_708bea61e3c43ada": {
+      "text": "$$宗介$$\n「Bỏ cuộc đi, $$ガウルン$$!\n　Mày đã thành chuột trong rọ rồi!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_7b6f159eeaf4de0f": {
+      "text": "$$ガウルン$$\n「Chưa chắc đâu.\n　Tao vẫn còn quân bài tẩy để lật ngược tình thế!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_0827963cfd706e8d": {
+      "text": "$$宗介$$\n「Đến nước này mà còn hù dọa sao!?」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$ガウルン$$\n「Không đâu.\n　AS của tao mang đủ thuốc nổ\n　để dễ dàng thổi bay con tàu này đấy.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_3f4035fd9db81258": {
+      "text": "$$宗介$$\n「Thằng khốn...!\n　Mày định kéo cả $$トゥアハー・デ・ダナン$$ chết cùng sao!?」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_567b361a454c4b73": {
+      "text": "$$ガウルン$$\n「Không chỉ con tàu đâu, Kashim!\n　Cả mày nữa!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_d22851aaafbbf8fc": {
+      "text": "$$宗介$$\n「Khốn thật!\n　Phải làm sao đây!?」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_352534f64413d954": {
+      "text": "$$かなめ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_79f2664edb1af798": {
+      "text": "$$宗介$$\n「Chidori...!?」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$かなめ$$\n「Đừng lo.\n　Mọi chuyện rồi sẽ\n　vui vẻ thôiб」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_1c5aa0d15ae24846": {
+      "text": "$$宗介$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_53bb64ee17750ee2": {
+      "text": "$$テッサ$$\n「Anh Sagara!\n　Giờ $$かなめ$$ đã hòa làm một với Danaan!\n　Danaan chẳng khác nào tay chân của cậu ấy!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_7a7add80fde475ba": {
+      "text": "$$宗介$$\n「Được...!\n　Chidori, trông cậy vào cậu đấy!!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_b2befefdbed1393d": {
+      "text": "$$ガウルン$$\n「Không biết mày định làm gì,\n　nhưng ngón tay tao đã đặt trên nút kích nổ rồi!\n　Mày chỉ còn 30 giây thôi!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_2103f6df2ea2e447": {
+      "text": "$$ガウルン$$\n「Định thế, nhưng tao đổi ý rồi!\n　Sửa lại thành 10 giây!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_a12e3e130d896ff7": {
+      "text": "$$宗介$$\n「$$ガウルン$$!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_b6f7b219eb4bd64b": {
+      "text": "$$マデューカス$$\n「AS của địch và Arbalest\n　đã lên máy phóng!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_91bf33c27ad39f0a": {
+      "text": "$$テッサ$$\n「Ngay bây giờ, $$かなめ$$!!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_ee220318b96ab538": {
+      "text": "$$テッサ$$\n「Thành công rồi!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_ce1b55e526b6277a": {
+      "text": "$$ガウルン$$\n「Bất ngờ thật!\n　Hóa ra mày đẩy tao lên máy phóng là để làm thế này!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_c304df6888eb78f7": {
+      "text": "$$ガウルン$$\n「Cũng được!\n　Mày đã cất công chuẩn bị sân khấu rồi,\n　thì cùng vui chơi hết mình nào, Kashim!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_c26958634526e597": {
+      "text": "$$宗介$$\n「Rốt cuộc mày còn định điên đến mức nào...!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_cdb750c9d380881a": {
+      "text": "$$ガウルン$$\n「Chưa được! Sát khí vẫn chưa đủ!\n　Thế này còn chưa bằng Kashim\n　mà tao yêu thích đâu!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_95fda74613c97b39": {
+      "text": "$$宗介$$\n「Ư...!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_1956994937f8171e": {
+      "text": "$$ヒイロ$$\n「$$宗介$$...!\n　Đối diện với bản thân hiện tại đi!\n　Cậu chính là cậu!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_48f49f6728c15612": {
+      "text": "$$宗介$$\n「$$ヒイロ$$...」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$クルツ$$\n「Thật tình, đừng ra vẻ nhạy cảm để làm màu nữa,\n　trung sĩ kín như bưng kia!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_f02c37d91387d0ad": {
+      "text": "$$マオ$$\n「Mau đập nát thằng khốn đó đi!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_6bbd5a3c5afb87e0": {
+      "text": "$n\n「$$宗介$$!\n　Cậu có chuyện muốn xin lỗi Chidori mà!\n　Vậy thì phải sống sót trở về!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_9796b3efa401a303": {
+      "text": "$n\n「Đó mới là nhiệm vụ quan trọng nhất của cậu!!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_643b6eebfc0186b3": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_291280e5f7eb9d70": {
+      "text": "$$ガウルン$$\n「Lạ thật đấy, Kashim!\n　Tao đâu muốn thấy mày được bạn bè cổ vũ như thế!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_32eb462c1b4999cb": {
+      "text": "$$宗介$$\n「Câm miệng, $$ガウルン$$!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_1f4337d6d393fc37": {
+      "text": "$$ガウルン$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_4740e748fae085ee": {
+      "text": "$$宗介$$\n「$$ガウルン$$... tao sẽ giết mày!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_b76524cd840e1d37": {
+      "text": "$$ガウルン$$\n「Vui lắm, Kashim!\n　Chẳng biết vì lý do gì, nhưng nếu mày chịu đánh\n　thì tao chẳng có gì phàn nàn cả!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_730ffe18400abfc2": {
+      "text": "$$ガウルン$$\n「Nào, cùng tận hưởng hết mình đi!\n　Một trận đấu bẩn thỉu hết chỗ nói!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_ffe0fca26da5cd38": {
+      "text": "$$宗介$$\n「Chấm dứt ở đây thôi!\n　Tao chán ngấy cái mặt mày rồi!!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_bfb27f9eb2f7073e": {
+      "text": "$$マデューカス$$\n「Xác nhận toàn bộ kẻ địch đã bị tiêu diệt.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_859dfa27bcaafe30": {
+      "text": "$$テッサ$$\n「Tuy chúng ta cũng chịu thiệt hại nặng,\n　nhưng đã thu được nhiều thông tin quan trọng.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_71ebf05996a4b0fd": {
+      "text": "$$マデューカス$$\n「Amalgam sao...」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_6214c11b1bca811e": {
+      "text": "$$テッサ$$\n「Và việc chúng đã liên kết với UG nữa.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_8eaf6f3098ffed12": {
+      "text": "$n\n「Kết thúc rồi, $$宗介$$.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_cf507214fe955d75": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_2113dcbabdfc758a": {
+      "text": "$n\n「$$宗介$$?」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$宗介$$\n「Kashim, Kashim, đừng có gọi như thể thân thiết lắm,\n　thằng khốn kiếp!!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_6a74519e1fc29c4b": {
+      "text": "$$かなめ$$\n（Vất vả rồi, $$宗介$$...）",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_5b992878fee054b5": {
+      "text": "$$かなめ$$\n（Xin lỗi vì đã nói những lời vô tâm.\n　Nghĩ lại thì...\n　tôi vẫn chưa biết gì về cậu cả.）",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$かなめ$$\n（Cậu thật phi thường...\n　Thật lòng, tôi thấy cậu rất ngầu, $$宗介$$ à...）",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_4a14ec0c511c7f0d": {
+      "text": "$$ガウルン$$\n「Cũng vui ra phết đấy, Ka~shim~!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_20cf167c0ec0d4d5": {
+      "text": "$$クルツ$$\n「Thành công rồi!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_b591d812c96c6c99": {
+      "text": "$$マオ$$\n「Đúng như hắn nói,\n　có vẻ hắn đã mang theo khá nhiều thuốc nổ.\n　Nổ hoành tráng thật đấy.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_e350fa099c1ab072": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$宗介$$\n（$$ガウルン$$...\n　Dù mày có nói gì, tao vẫn là $$相良宗介$$...）",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_c33bd700553abf91": {
+      "text": "$$テッサ$$\n「Danaan!!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_feee5c91826230e1": {
+      "text": "$$ガウルン$$\n「Nực cười thật!\n　Không ngờ lại kết thúc thế này!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_bccc48e1964ad22d": {
+      "text": "$$ガウルン$$\n「Đừng có cản đường tao!\n　Xong với Kashim rồi tao sẽ xử mày,\n　nên cứ ngoan ngoãn chờ ở đó đi!!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_f8736aaaa216c766": {
+      "text": "$$テッサ$$\n「Nếu mục tiêu của địch là Danaan thì càng tiện.\n　Hãy cho chúng biết mình đã khơi mào\n　một cuộc chiến ngu ngốc và liều lĩnh đến mức nào.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_d1ec2522c87c361d": {
+      "text": "$$マデューカス$$\n「Toàn thể thủy thủ đã nghe rõ rồi đấy.\n　Hãy xem đây là dịp giải tỏa uất ức bấy lâu nay.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_3599f0a4343fd95c": {
+      "text": "$$テッサ$$\n（Vậy bắt đầu nhé, $$かなめ$$...!）",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_3bc7834a5bf3ee76": {
+      "text": "$$ガウルン$$\n「Tao chờ mãi rồi, Kashim!\n　Chính là thời khắc này đây!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_366814efdc8b5800": {
+      "text": "$$宗介$$\n「Tao cũng vậy, $$ガウルン$$!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_9be1a4c10bb62515": {
+      "text": "$$ガウルン$$\n「Nhưng tao vẫn chưa thể yên tâm, Kashim!\n　Chừng nào mày còn do dự, thì chẳng biết lúc nào\n　mày lại trở về cái bộ dạng vô dụng đó!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_94a88c90e557e16e": {
+      "text": "$$宗介$$\n「Mày không có tư cách\n　phán xét cách sống của tao!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_1c208ca0cbf26f28": {
+      "text": "$$ガウルン$$\n「Đừng lạnh lùng thế, Kashim!\n　Tao với mày thân thiết thế còn gì!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_5b7ee307a700171a": {
+      "text": "$$宗介$$\n「Câm miệng!\n　Tao không muốn nghe thêm lời nào của mày nữa!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_8d8f065c932da30a": {
+      "text": "$$ガウルン$$\n「Tại sao chứ, Ka~shim~!!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_f5432119677514f7": {
+      "text": "$$宗介$$\n「Cứ Kashim, Kashim mãi...!!」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_4e5c8e989c4a7691": {
+      "text": "$n\n「$$ヒイロ$$...\n　Sao cậu lại quan tâm đến $$宗介$$ nhiều như vậy?」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_adec86483b13599a": {
+      "text": "$$ヒイロ$$\n「Tôi không định trả lời.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_2cf701bbcde3ec13": {
+      "text": "$n\n「...Cũng được.\n　Nhưng cảm ơn cậu đã giúp sức.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_c17c58fdba72005e": {
+      "text": "$$ヒイロ$$\n「Với tư cách bạn của cậu ta à?」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_1fe8564d2b959317": {
+      "text": "$n\n「Cũng một phần.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_f527e012803f7f1c": {
+      "text": "$n\n「Nhưng vấn đề thiết thực hơn là\n　mỗi lần $$宗介$$ cãi nhau với Chidori,\n　tôi lại bị vạ lây.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_4b1247bd3ca4905d": {
+      "text": "$$ヒイロ$$\n「Cậu ta may mắn có những người tốt bên cạnh nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_00c55e25f87b71d0": {
+      "text": "$n\n「Đồng ý.\n　Giờ dọn sạch kẻ địch thôi.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_338f3b27e51dcc41": {
+      "text": "$$ヒイロ$$\n「Rõ.」",
+      "status": "reviewed"
+    },
+    "stage0048_04:r_d91d4bc2d52b61c4": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

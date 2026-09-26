@@ -1,0 +1,990 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0022_03:r_caaab7bad760e16d": {
+      "text": "$$地上戦艦$$, đài chỉ huy",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_99b162aa6aa286a2": {
+      "text": "$$地上戦艦$$, đài chỉ huy",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_58fb02434a1c40b2": {
+      "text": "$$地上戦艦$$, đài chỉ huy",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　\n　　　　～ $$地上戦艦$$, đài chỉ huy ～",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_1263541f4071624e": {
+      "text": "$$ボーソン$$\n「...Trên đây là tình hình thành phố $$ア・コバ$$.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_3bc300bbdc277d82": {
+      "text": "$$テイタニア$$\n「Tên $$ＰＳ$$ mà các ngươi đang điều chỉnh...\n　$$ラダァ・ニーバ$$ giờ thế nào rồi?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_38762a09460d8b6b": {
+      "text": "$$ボーソン$$\n「Thưa, các cuộc thử nghiệm đều thuận lợi.\n　Tôi nghĩ chỉ cần thêm vài trận thực chiến nữa\n　là có thể đưa vào sử dụng.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_7ab28e70b4d4f641": {
+      "text": "$$テイタニア$$\n「Một phần công nghệ 《$$ネクスタント$$》 đã được ứng dụng vào hắn.\n　Ta không cho phép thất bại.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$ボーソン$$\n「Tôi hiểu rõ.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_ec335e69f984b8b3": {
+      "text": "$$テイタニア$$\n「Khi thử nghiệm kết thúc và $$ＰＳ$$ được sản xuất hàng loạt,\n　chúng sẽ trở thành sức mạnh của 《$$マーティアル$$》.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_0abcaf0c31978670": {
+      "text": "$$ボーソン$$\n「Đó sẽ là niềm vinh hạnh lớn lao của tôi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_1d6bc48b7f246730": {
+      "text": "$$テイタニア$$\n「Ta cũng đang trên đường tới $$ア・コバ$$.\n　Ta muốn tận mắt xác nhận về 『Kẻ bất khả xâm phạm』.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_1af20fccc3c53cfc": {
+      "text": "$$ボーソン$$\n「Đích thân ngài $$テイタニア$$ sẽ tới đây sao!?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_f951916061232dcd": {
+      "text": "$$テイタニア$$\n「Ngươi có bất mãn gì sao?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_4d863c3fb88a4c39": {
+      "text": "$$ボーソン$$\n「Không ạ...! Tôi rất vinh hạnh được trực tiếp gặp\n　ngài $$テイタニア$$,\n　người mang danh hiệu 『Lá chắn Trật tự』!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_44f4742c3dcce39a": {
+      "text": "$$テイタニア$$\n「Nếu các ngươi tự hạ được hắn thì càng tốt.\n　Ta giao cho các ngươi xử lý đến khi ta tới.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_9e701cdeb3842c21": {
+      "text": "$$ボーソン$$\n「Phù...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_6fd81f4abebe60c5": {
+      "text": "$$ニーバ$$\n「《$$マーティアル$$》...\n　Đó là 《$$ネクスタント$$》 của chúng sao...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_da2132b5038ec737": {
+      "text": "$$ボーソン$$\n「Đó là ngài $$テイタニア・ダ・モンテ＝ウェルズ$$.\n　Ngài được ban cấp bậc thứ 13, 『Lá chắn Trật tự』.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_495d61d3ec7e16f2": {
+      "text": "$$ニーバ$$\n「Ngươi cũng khổ nhỉ.\n　Chỉ vì cấp trên theo $$マーティアル$$\n　mà không được gia nhập quân Liên bang.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_5cd353758cfe474d": {
+      "text": "$$ボーソン$$\n「...Đừng nhắc nữa.\n　Nhưng khi hoàn thiện ngươi thành một $$ＰＳ$$,\n　mọi vất vả của chúng ta sẽ được đền đáp.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_a653c8dec4c0f06f": {
+      "text": "$$ニーバ$$\n「Tóm lại, chỉ cần giết $$キリコ・キュービィー$$\n　trước khi con đàn bà đó tới là được chứ gì?」",
+      "status": "needs_review"
+    },
+    "stage0022_03:r_86d493e37a9799a7": {
+      "text": "$$ニーバ$$\n「Vậy thì khỏi lo.\n　Ta nhất định sẽ tự tay tiễn hắn xuống địa ngục.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_09d0fcc600cdd3df": {
+      "text": "$$ボーソン$$\n「T-trông cậy vào ngươi đấy.\n　Ta đi nghỉ đây.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_182faded068c15ed": {
+      "text": "$$ニーバ$$\n「Khà khà khà... Hắn là con mồi của ta.\n　Ta không đời nào nhường cho lũ $$マーティアル$$...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_9c206d19bfda4bd5": {
+      "text": "$$カン・ユー$$\n「Về tên $$キリコ$$ đó,\n　từ hôm qua hắn đã có những hành động kỳ lạ.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_6e558bc69acf5bf3": {
+      "text": "$$カン・ユー$$\n「Hình như hắn định tiếp xúc\n　với người của Gilgamesh đang ở $$ア・コバ$$.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_d60d0818e965232f": {
+      "text": "$$ニーバ$$\n「Để làm gì?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_5b23687574286204": {
+      "text": "$$カン・ユー$$\n「Người đàn bà của $$キリコ$$ là 《$$ＰＳ$$》 do Gilgamesh tạo ra.\n　Có lẽ vì cô ta mà hắn cần gặp\n　một nhà nghiên cứu của Gilgamesh.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_6fd86c96891ea942": {
+      "text": "$$カン・ユー$$\n「Nói cách khác, người đàn bà $$ＰＳ$$ ấy\n　chính là điểm yếu của $$キリコ$$.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_43e4e548c0b28376": {
+      "text": "$$ニーバ$$\n「Có vẻ ngươi có kế rồi nhỉ?\n　Nói ta nghe.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_d80a9688790ed583": {
+      "text": "Quarter, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_708bea61e3c43ada": {
+      "text": "Quarter, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_7b6f159eeaf4de0f": {
+      "text": "Quarter, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_0827963cfd706e8d": {
+      "text": "　\n　\n　　　　～ Macross Quarter, khoang chứa máy ～",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$アルト$$\n「...Vậy là $$キリコ$$ đi cùng $$バニラ$$ và mọi người\n　để gặp người của Gilgamesh đó à?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_3f4035fd9db81258": {
+      "text": "$$マオ$$\n「Nói là đi gặp, chứ theo chị thấy\n　thì cậu ấy định bắt cóc người bên đó mới đúng.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_567b361a454c4b73": {
+      "text": "$$スズネ$$\n「Sao lại làm chuyện như thế...!?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_d22851aaafbbf8fc": {
+      "text": "$$ルカ$$\n「Vì chị $$フィアナ$$ là 《$$ＰＳ$$》,\n　rất quý giá đối với Gilgamesh mà.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_352534f64413d954": {
+      "text": "$$ルカ$$\n「Họ tìm chị $$フィアナ$$ ở $$ア・コバ$$\n　hẳn là để giành chị ấy về.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_79f2664edb1af798": {
+      "text": "$$ミシェル$$\n「Không thể đưa cô ấy tới chỗ đó,\n　nên cậu ta khiến bên kia phải tới chỗ mình à.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$スズネ$$\n「Nhưng vì thế mà làm chuyện\n　khiến quân Liên bang trở thành kẻ thù thì...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_1c5aa0d15ae24846": {
+      "text": "$$マオ$$\n「Chính vì hiểu điều đó\n　nên $$キリコ$$ mới hành động một mình đấy.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_53bb64ee17750ee2": {
+      "text": "$$クルツ$$\n「Về tình thì tôi muốn giúp $$キリコ$$ lắm,\n　nhưng tình hình thế này rồi.\n　Giờ đành dõi theo cậu ấy thôi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_7a7add80fde475ba": {
+      "text": "$$宗介$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_b2befefdbed1393d": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_2103f6df2ea2e447": {
+      "text": "$$アルト$$\n「Nhìn mặt là biết các cậu không đồng tình rồi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_a12e3e130d896ff7": {
+      "text": "$$宗介$$\n「...Có vẻ tôi đã đánh giá quá cao người tên $$キリコ$$ đó.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_b6f7b219eb4bd64b": {
+      "text": "$$宗介$$\n「Tôi tưởng đó là một người lính điềm tĩnh.\n　Vậy mà lại để cảm xúc chi phối,\n　tự đẩy mình vào thế bất lợi...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_91bf33c27ad39f0a": {
+      "text": "$n\n「Lần này tôi cũng đồng ý với $$宗介$$.\n　Tôi hiểu hoàn cảnh của cậu ấy,\n　nhưng nghĩ vẫn có cách khôn ngoan hơn.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_ee220318b96ab538": {
+      "text": "$$ジェフリー$$\n「Có thật vậy không?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_ce1b55e526b6277a": {
+      "text": "$n\n「Thuyền trưởng $$ジェフリー$$...!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_c304df6888eb78f7": {
+      "text": "$$宗介$$\n「Thưa đại tá $$ジェフリー$$, ngài có việc gì ạ!?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_c26958634526e597": {
+      "text": "$$ジェフリー$$\n「Không cần câu nệ như vậy.\n　...Tôi cũng xuất thân là phi công.\n　Ghé khoang chứa máy thế này giúp tôi thư giãn.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_cdb750c9d380881a": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_95fda74613c97b39": {
+      "text": "$$ジェフリー$$\n「Cậu đang nghĩ về ý nghĩa lời tôi vừa nói à...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_1956994937f8171e": {
+      "text": "$$ジェフリー$$\n「Đúng là cách của $$キリコ$$ không thể gọi là khôn ngoan.\n　Nhưng như vậy không có nghĩa là sai.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_48f49f6728c15612": {
+      "text": "$$ジェフリー$$\n「Để bảo vệ cô $$フィアナ$$...\n　Để không gây phiền phức cho chúng ta...\n　Vì tình thế không cho phép chậm trễ...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$ジェフリー$$\n「Trong mắt người ngoài, đó có thể là hành động liều lĩnh,\n　nhưng cậu ấy có lý do chính đáng của riêng mình.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_f02c37d91387d0ad": {
+      "text": "$n\n「Nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$ジェフリー$$\n「Thiếu úy $$アルト$$.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_9796b3efa401a303": {
+      "text": "$$アルト$$\n「V-vâng...!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_643b6eebfc0186b3": {
+      "text": "$$ジェフリー$$\n「Phần còn lại, cậu hãy tự giải thích cho họ.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_291280e5f7eb9d70": {
+      "text": "$$アルト$$\n「Rõ.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_32eb462c1b4999cb": {
+      "text": "$$宗介$$\n「Cậu biết câu trả lời à?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_1f4337d6d393fc37": {
+      "text": "$$アルト$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_4740e748fae085ee": {
+      "text": "$n\n「Sao vậy?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_b76524cd840e1d37": {
+      "text": "$$アルト$$\n「Hành động để bảo vệ một người quan trọng với mình\n　thì không có đúng hay sai.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_730ffe18400abfc2": {
+      "text": "$n\n「Bảo vệ... một người quan trọng...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_ffe0fca26da5cd38": {
+      "text": "$$宗介$$\n「Nhân vật quan trọng về mặt chiến lược à?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_bfb27f9eb2f7073e": {
+      "text": "$$アルト$$\n「Không phải ý đó.\n　Ví dụ như $$かなめ$$ đối với cậu ấy.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_859dfa27bcaafe30": {
+      "text": "$$宗介$$\n「Sao lại nhắc tới Chidori ở đây?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_71ebf05996a4b0fd": {
+      "text": "$$アルト$$\n「Linh cảm của tôi thôi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_6214c11b1bca811e": {
+      "text": "$n\n「...Tôi hiểu rồi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_8eaf6f3098ffed12": {
+      "text": "$$宗介$$\n「$n...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_cf507214fe955d75": {
+      "text": "$n\n「Ra vậy...\n　$$キリコ$$ và tôi cũng giống nhau nhỉ...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_2113dcbabdfc758a": {
+      "text": "$$宗介$$\n「...Nghe giải thích như vậy mà cũng hiểu được,\n　tôi lại thấy cậu và $$アルト$$ mới là những người khó hiểu.」",
+      "status": "needs_review"
+    },
+    "stage0022_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$アルト$$\n「Rồi sẽ đến lúc cậu hiểu $$キリコ$$ thôi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_6a74519e1fc29c4b": {
+      "text": "$$アルト$$\n（Không... Có khi lúc đó đã đến từ lâu rồi,\n　chỉ là chính cậu ta chưa nhận ra...）",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_5b992878fee054b5": {
+      "text": "$$ミシェル$$\n「Nói hay lắm, chủ nhiệm câu lạc bộ tình nguyện.\n　Dạy hai anh chàng lầm lì chuyện yêu đương à?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$アルト$$\n「So với hai tên này\n　thì tôi vẫn còn khá hơn đấy.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_4a14ec0c511c7f0d": {
+      "text": "$$クルツ$$\n「Ồ... Tuyên bố mình là cao thủ tình trường à?\n　Tôi xem đây là lời thách đấu với mình đấy.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_20cf167c0ec0d4d5": {
+      "text": "$$ミシェル$$\n「Không, không...\n　Là thách đấu với tôi mới đúng chứ.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_b591d812c96c6c99": {
+      "text": "$$マオ$$\n「Thôi đi, hai xạ thủ săn tình.\n　Ít nhất về ngoại hình thì $$アルト$$ thắng đứt hai cậu.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_e350fa099c1ab072": {
+      "text": "$$クルツ$$\n「Chậc... Khoản đó thì tôi cũng phải chịu thua.\n　Với khuôn mặt ấy, chắc cậu ta dày dạn kinh nghiệm lắm.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$宗介$$\n「Kinh nghiệm?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_c33bd700553abf91": {
+      "text": "$$クルツ$$\n「Tóm lại, $$アルト$$ là một phi công át chủ bài.\n　Về đêm ấy.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_feee5c91826230e1": {
+      "text": "$$宗介$$\n「Cậu ta giỏi tác chiến ban đêm à?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_bccc48e1964ad22d": {
+      "text": "$$クルツ$$\n「Không phải thế!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_f8736aaaa216c766": {
+      "text": "$$ミシェル$$\n「Nói đơn giản là cưa đổ hết cô này đến cô khác ấy.\n　Tiện thể, tuyệt chiêu là khóa nhiều mục tiêu cùng lúc.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_d1ec2522c87c361d": {
+      "text": "$$アルト$$\n「$$ミシェル$$!\n　Đừng nhồi mấy chuyện vớ vẩn vào đầu $$宗介$$!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_3599f0a4343fd95c": {
+      "text": "$n\n「Ra vậy...\n　Quả nhiên cậu là loại người đó.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_3bc7834a5bf3ee76": {
+      "text": "$$アルト$$\n「Quả nhiên là sao hả!?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_366814efdc8b5800": {
+      "text": "$$マオ$$\n「Đẹp trai đúng là có tội nhỉ.\n　Chỉ thế thôi đã bị đàn ông xung quanh coi là kẻ thù rồi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_9be1a4c10bb62515": {
+      "text": "$$ジェフリー$$\n（Những lúc thế này, cậu ấy cũng chỉ là một thanh niên bình thường...）",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_94a88c90e557e16e": {
+      "text": "$$スズネ$$\n「Cảm ơn thuyền trưởng $$ジェフリー$$.\n　Nhờ ngài mà $n\n　cũng đã hiểu được anh $$キリコ$$ rồi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_1c208ca0cbf26f28": {
+      "text": "$$ジェフリー$$\n「...Cô $$スズネ$$, sau chiến dịch này,\n　cô có thể dành cho tôi chút thời gian được không?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_5b7ee307a700171a": {
+      "text": "$$スズネ$$\n「V-vâng...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_8d8f065c932da30a": {
+      "text": "$$ジェフリー$$\n「Tôi có chuyện muốn trao đổi về\n　$F.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_f5432119677514f7": {
+      "text": "Sào huyệt của $$ゴウト$$",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_4e5c8e989c4a7691": {
+      "text": "Sào huyệt của $$ゴウト$$",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_adec86483b13599a": {
+      "text": "Sào huyệt của $$ゴウト$$",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_2cf701bbcde3ec13": {
+      "text": "　\n　\n　　　　～ Sào huyệt của $$ゴウト$$ ～",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_c17c58fdba72005e": {
+      "text": "$$トムス$$\n「C-các người làm trò gì thế hả!?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_1fe8564d2b959317": {
+      "text": "$$バニラ$$\n「Xin lỗi nhé, ông bác.\n　Trước hết, chào mừng tới sào huyệt của chúng tôi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_f527e012803f7f1c": {
+      "text": "$$トムス$$\n「C-các người bắt cóc tôi để làm gì!?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_4b1247bd3ca4905d": {
+      "text": "$$ココナ$$\n「Bình tĩnh chút đi.\n　Tụi này biết các ông đang tìm chị $$フィアナ$$ mà.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_00c55e25f87b71d0": {
+      "text": "$$トムス$$\n「$$フィアナ$$...!?\n　$$ＰＳ$$ số một bị 《$$秘密結社$$》 bắt cóc sao...!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_338f3b27e51dcc41": {
+      "text": "$$キリコ$$\n「$$カルマン・トムス$$...\n　Ông là một sĩ quan kỹ thuật thuộc quân Gilgamesh,\n　từng tham gia kế hoạch $$ＰＳ$$, đúng không?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_d91d4bc2d52b61c4": {
+      "text": "$$トムス$$\n「Đ-đúng vậy.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_0c8ea89b07432421": {
+      "text": "$$ココナ$$\n「Đừng sợ thế.\n　Tụi này sẽ cho ông gặp chị $$フィアナ$$\n　mà ông đang tìm.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_4dbfba00ba7744ee": {
+      "text": "$$キリコ$$\n「Khám cho cô ấy đi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_be100a32b731708d": {
+      "text": "$$フィアナ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_702f82442fcec8a9": {
+      "text": "$$トムス$$\n「...Tình trạng suy nhược này... Quả nhiên...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_b1e38da4e8775ffe": {
+      "text": "$$キリコ$$\n「Là sao?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$トムス$$\n「Chính vì lo chuyện này xảy ra\n　mà chúng tôi đã tìm kiếm $$ＰＳ$$.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$トムス$$\n「Nghe đây. $$ＰＳ$$ là con người được cường hóa chức năng sinh học.\n　Vì thế, họ luôn cần được điều chỉnh tỉ mỉ\n　và kiểm soát tình trạng sức khỏe.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_3dad695c99e9e052": {
+      "text": "$$トムス$$\n「Dù vậy vẫn có giới hạn.\n　Cái giá của việc cường hóa là $$ＰＳ$$ sẽ...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_66d4ae3a21caf881": {
+      "text": "???\n「Cho ta chen ngang chút nhé.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_0c18da7b3a37825d": {
+      "text": "$$バニラ$$\n「N-ngươi là ai!?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_63249745ffae61b6": {
+      "text": "$$ニーバ$$\n「Ta tên là $$ラダァ・ニーバ$$.\n　Cũng là $$ＰＳ$$ như người đàn bà đằng kia.」",
+      "status": "needs_review"
+    },
+    "stage0022_03:r_abdb034ae8509702": {
+      "text": "$$トムス$$\n「Ngươi... là $$ＰＳ$$ của Balarant sao!?\n　Nhưng dự án đó đáng lẽ chỉ nằm trên giấy thôi chứ!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_3ff2e21207d1d1d3": {
+      "text": "$$トムス$$\n「C-chẳng lẽ...!\n　Các ngươi đã tích hợp công nghệ của $$マーティアル$$...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_e51ecf6d6aa42e75": {
+      "text": "$$ニーバ$$\n「Câm cái miệng ngươi lại!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_47ddabb7b60131c2": {
+      "text": "$$トムス$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_b025267f22788233": {
+      "text": "$$ニーバ$$\n「Ối... Hình như ta hơi mạnh tay.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_ec1a06a7023bf72c": {
+      "text": "$$バニラ$$\n「H-h-hắn...!\n　Giết người chỉ bằng tay không!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_8805f96e52aaa462": {
+      "text": "$$ニーバ$$\n「$$キリコ・キュービィー$$,\n　đấu AT với ta.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_124591cb154fae64": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$ニーバ$$\n「Ánh mắt đó...\n　Quả nhiên ngươi là lính $$レッドショルダー$$.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_4bf9b05b5f948170": {
+      "text": "$$ニーバ$$\n「Nếu ngươi không chịu đấu, ta có cách của ta.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_eaa52d152f444bfd": {
+      "text": "$$シャッコ$$\n「Nguy rồi!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_b4bc9e9435b58e6f": {
+      "text": "$$ニーバ$$\n「Tránh ra, tên người $$クエント$$ kia!」",
+      "status": "needs_review"
+    },
+    "stage0022_03:r_a9227573166977a9": {
+      "text": "$$フィアナ$$\n「Á!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_b0600ab9a9e8559d": {
+      "text": "$$ココナ$$\n「Đồ quái vật!\n　Thả chị $$フィアナ$$ ra!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_7cbc63dad295f862": {
+      "text": "$$バニラ$$\n「Khốn kiếp!\n　Ngay từ đầu mục tiêu của ngươi đã là $$フィアナ$$ sao!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_07f53c816e0a51f5": {
+      "text": "$$フィアナ$$\n「$$キリコ$$!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_2d09c6f6a2d990ea": {
+      "text": "$$キリコ$$\n「$$フィアナ$$!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_3c5fcfc484a51913": {
+      "text": "$$ニーバ$$\n「$$キリコ・キュービィー$$!\n　Muốn lấy lại người đàn bà này\n　thì tới ngoại ô $$ア・コバ$$ lúc 8 giờ sáng mai!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_0476ffd10c764b0e": {
+      "text": "$$ニーバ$$\n「Chúng ta sẽ đấu hai chọi hai!\n　Cứ mang theo một kẻ mà ngươi tin tưởng!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$フィアナ$$\n「$$キリコ$$oo!!」",
+      "status": "needs_review"
+    },
+    "stage0022_03:r_2b3479c4cf0680f4": {
+      "text": "$$キリコ$$\n「$$フィアナ$$!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_e370696b8936b08c": {
+      "text": "$$バニラ$$\n「Đừng, $$キリコ$$!\n　Bắn ở đây sẽ trúng cả $$フィアナ$$ đấy!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_9d7b02c5e728b7aa": {
+      "text": "$$ココナ$$\n「Hắn bị cái quái gì vậy!?\n　Bắt cóc chị $$フィアナ$$\n　chỉ để ép anh $$キリコ$$ chịu đấu sao!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_9af213fc64e0afec": {
+      "text": "$$シャッコ$$\n「$$キリコ$$...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_d7f1c506e78e55ff": {
+      "text": "$$キリコ$$\n「$$ラダァ・ニーバ$$...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_0c705091f748360e": {
+      "text": "Viện nghiên cứu",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_9eb8599304125b2f": {
+      "text": "Viện nghiên cứu",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_a072aa25e5f521e0": {
+      "text": "Viện nghiên cứu",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_24e1a808a1609a1a": {
+      "text": "　\n　\n　　　　～ $$地上戦艦$$, cơ sở nghiên cứu ～",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_53128ce8f154fd06": {
+      "text": "$$ニーバ$$\n「Ngươi giở trò gì vậy, $$ボーソン$$!\n　Ta yêu cầu viện binh lúc nào hả!?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_03b5db9ce98fb8d6": {
+      "text": "$$ボーソン$$\n「Bình tĩnh đi, $$ニーバ$$.\n　Ta chỉ hành động để nắm chắc chiến thắng hơn thôi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_3915fb4102f1c1dd": {
+      "text": "$$ニーバ$$\n「Có vẻ ngươi muốn lập công lắm nhỉ,\n　trước khi con đàn bà $$マーティアル$$ đó tới.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_817b2773b4ed563e": {
+      "text": "$$ボーソン$$\n「Ư...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_1cc233cbc8c80af7": {
+      "text": "$$ニーバ$$\n「Nhưng đừng quên!\n　Tên $$レッドショルダー$$ đó là con mồi của ta!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$$ボーソン$$\n「Biết rồi.\n　Ta sẽ cho phép ngươi tái đấu với hắn.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_e180b22d18f48d38": {
+      "text": "$$ボーソン$$\n「Trước hết, ta muốn lấy dữ liệu trận đấu hôm nay.\n　Nằm lên giường đi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_e598c2a0b27e7f50": {
+      "text": "$$ニーバ$$\n「Chậc...\n　Đừng quên lời ngươi vừa nói đấy.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_4d2a9066c4e7b27f": {
+      "text": "$$ニーバ$$\n「Đồ trói sao!?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_10340119af3ed6db": {
+      "text": "$$ボーソン$$\n「Dù là ngươi cũng không thể\n　giật đứt dụng cụ bằng thép đâu.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_23a9c7ab620ab112": {
+      "text": "$$ニーバ$$\n「$$ボーソン$$!\n　Tên khốốốốn!!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_4f0aca6deda07883": {
+      "text": "$$ボーソン$$\n「Đừng trách ta, $$ニーバ$$.\n　Cuộc thử nghiệm của ngươi đã kết thúc rồi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_8fe40600ce62dfbc": {
+      "text": "$$ボーソン$$\n「Ta tuyệt đối không thể để một sai lầm lúc này\n　khiến chúng ta mất ngươi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_ff4ce5f3cf96b617": {
+      "text": "$$ニーバ$$\n「Thả ta ra!\n　Để ta đấu với hắn!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_d73c21f119847e35": {
+      "text": "$$ボーソン$$\n「Câm miệng!\n　Ta sẽ trừng phạt ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_89766f5ffaa912d4": {
+      "text": "$$ニーバ$$\n「Ưaaaaa!!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$ボーソン$$\n「Đến giờ ngươi đã quá lộng hành rồi!\n　Vì con tin ngươi mang về\n　mà chúng ta phải gánh thêm phiền phức đấy!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_451f726d4299ea35": {
+      "text": "$$ボーソン$$\n「Giờ chỉ còn cách thả con tin để đánh lạc hướng chúng,\n　rồi tranh thủ rút lui!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_e3d111e8bb190cb1": {
+      "text": "$$ニーバ$$\n「Ta... không cho phép!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_7c0d3c51f9a11ca0": {
+      "text": "$$ボーソン$$\n「Dòng điện vẫn chưa đủ sao!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_ab97c2b2418ea732": {
+      "text": "$$ニーバ$$\n「Ưaaaaaa!!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_2ddff5064af78db4": {
+      "text": "$$ボーソン$$\n「Bỏ cuộc đi, $$ニーバ$$.\n　Ngươi suy cho cùng cũng chỉ là chó nuôi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_050d0532c4b24bfe": {
+      "text": "$$ニーバ$$\n「Đừng hòng!\n　Ta sẽ đấu với hắn!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_d583fcea31bdad2e": {
+      "text": "$$ボーソン$$\n「Đừng quên!\n　Mệnh lệnh là tuyệt đối!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_475f7653621a91b5": {
+      "text": "$$ニーバ$$\n「Ta lái AT không phải vì quân đội hay tiền bạc.\n　Mà là để giết chóc...!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_f228ae702350849b": {
+      "text": "$$ボーソン$$\n「Ngươi...!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_d69dc027cba3003f": {
+      "text": "$$ニーバ$$\n「Đúng là quân đội cũng hay.\n　Chúng tung hô một tên giết người là sức mạnh chiến đấu...\n　Nhưng chỉ có thế thôi!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_3c3735172a480b72": {
+      "text": "$$ニーバ$$\n「Chẳng mấy chốc sẽ thấy chưa đủ...!\n　Và ta phải đấu với hắn!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_1f418b5594cea300": {
+      "text": "$$ボーソン$$\n「Vậy thì ta sẽ kiểm soát tâm trí ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_f87fb889124bfaef": {
+      "text": "$$ニーバ$$\n「Ưaaaa!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_79c90de32a79212d": {
+      "text": "$$ボーソン$$\n「Thề phục tùng đi, $$ニーバ$$!\n　Ngươi là lính, phải tuân lệnh!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_33f7fd55913419e8": {
+      "text": "$$ニーバ$$\n「Ư...! Không!\n　Hắn là $$レッドショルダー$$!\n　Không thể để hắn sống...!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_473d9a88b4ca96e7": {
+      "text": "$$ニーバ$$\n「Ta tình nguyện cải tạo thành $$ＰＳ$$,\n　chịu sống với nửa cơ thể bị cấy máy móc,\n　tất cả đều để giết hắn... giết $$レッドショルダー$$!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_4de6ac85c63bac12": {
+      "text": "$$ボーソン$$\n「Câm miệng! Câm miệng, $$ニーバ$$!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_4c92652c9b1adf6f": {
+      "text": "$$ニーバ$$\n「Ta sẽ giết hắn!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_ce90563a934d49fb": {
+      "text": "$$ボーソン$$\n「Quân nhân chỉ cần tuân lệnh!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_4fb296e63cb1fb46": {
+      "text": "$$ニーバ$$\n「Ta thì không!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_6d77e72dbbcd7dfe": {
+      "text": "$$ボーソン$$\n「Quân lệnh là tuyệt đối!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_9dc59affd40f32fc": {
+      "text": "$$ニーバ$$\n「KHÔNG! KHÔNG! KHÔNG! KHÔÔÔNG!!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_0cea115be526a319": {
+      "text": "$$ボーソン$$\n「Vô lý!\n　Hắn giật đứt đồ trói rồi sao!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_d36072babd12aeb4": {
+      "text": "$$ニーバ$$\n「Ưaaaaaaa!!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_09ee921a85025fd3": {
+      "text": "$$ボーソン$$\n「Á!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_fae689f2a1057b61": {
+      "text": "$$ボーソン$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_91c6d0bb53854ecc": {
+      "text": "$$ニーバ$$\n「Giờ thì chẳng còn ai cản đường ta nữa...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_42a3149105314ab8": {
+      "text": "$$ニーバ$$\n「Đợi đấy, $$レッドショルダー$$...!\n　Ta sẽ chuẩn bị một sân khấu hoàn hảo\n　để phân định thắng bại giữa ta và ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_62ecd978c667bd29": {
+      "text": "Sào huyệt của $$ゴウト$$",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_d441e6cc908ac01b": {
+      "text": "Sào huyệt của $$ゴウト$$",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_b2aab8873350ea1f": {
+      "text": "Sào huyệt của $$ゴウト$$",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_2c7af4c55d8ac938": {
+      "text": "　\n　\n　　　　～ Sào huyệt của $$ゴウト$$ ～",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_653b741d07545dff": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_d584d4b5af55b1cf": {
+      "text": "$$アルト$$\n「$$キリコ$$...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_db0ee69ece206fcd": {
+      "text": "$$オズマ$$\n「Giờ cứ để cậu ấy một mình.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_f97e6925c9e37332": {
+      "text": "$$クルツ$$\n「Vậy tổ chức kia giờ thế nào rồi?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_422861e0b8d77d0c": {
+      "text": "$$マオ$$\n「Chưa có báo cáo từ thiếu tá $$カリーニン$$.\n　Nghĩa là chúng vẫn đang trốn ở đâu đó.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_ef16bcaa2b0e0c45": {
+      "text": "$$バニラ$$\n「Sốt ruột quá!\n　Ngay cả $$ミスリル$$ và $$Ｓ．Ｍ．Ｓ$$ lừng danh\n　cũng không làm gì được sao!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_2b93cca10f1c36a8": {
+      "text": "$$ゴウト$$\n「Bình tĩnh, $$バニラ$$.\n　Chúng chỉ còn một con đường là đấu với chúng ta thôi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_7980fd37141d88d0": {
+      "text": "$$オズマ$$\n「Còn lại là tìm cách đón đánh chúng,\n　đồng thời giải cứu $$フィアナ$$.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_ac21212c36d2b9ad": {
+      "text": "$$ゴウト$$\n「Nhưng bị dồn vào đường cùng thế này...\n　Chúng sẽ giở trò gì đây...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_a26e2108358af7a4": {
+      "text": "$$チェロキー$$\n「$$ゴウト$$! $$ゴウト$$ có đây không!?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_a8118b2e37aa1382": {
+      "text": "$$ゴウト$$\n「Gì vậy, $$チェロキー$$?\n　Ta đã nói là không làm ăn\n　với kẻ hám tiền như ngươi nữa rồi mà.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_017a56991b7b8ca4": {
+      "text": "$$チェロキー$$\n「Giờ không phải lúc nói chuyện đó!\n　Có kẻ nhờ ta sắp xếp một trận đấu kinh khủng\n　với đám người của ngươi đấy!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_ad3e1db3419665fb": {
+      "text": "$$アルト$$\n「Chuyện đó...!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_0149e3a5f2e5ef78": {
+      "text": "$$オズマ$$\n「Ừ... Có vẻ đến rồi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_3ad10e705167a3fa": {
+      "text": "$$キリコ$$\n「Nói đi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_bdc546b199c80996": {
+      "text": "$$アルト$$\n「$$キリコ$$...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_22c8caf8c08c5119": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_9c13714b3efbc7a8": {
+      "text": "$$チェロキー$$\n「Nghe cho kỹ rồi hẵng kinh ngạc nhé!\n　Đối thủ sẽ mang $$地上戦艦$$ ra!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_96f156e19b53fc09": {
+      "text": "$$クルツ$$\n「$$地上戦艦$$,\n　ý ông là loại mà đám người $$アストラギウス$$ đã dùng à!?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_feb0390bba7fe1fb": {
+      "text": "$$チェロキー$$\n「Đúng thế!\n　Một trận đại chiến lớn nhất lịch sử\n　giữa nó và các cậu!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_8a78bcec22029401": {
+      "text": "Phông nền tùy chọn",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_f42017dfce31dea9": {
+      "text": "Phông nền tùy chọn",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_ef7426919f628d8a": {
+      "text": "Phông nền tùy chọn",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_9e994a4b926d9906": {
+      "text": "$$ＡＧ$$\n「Chà... Hôm nay tôi đã được thưởng thức tài nghệ\n　của anh $$キリコ$$, 『Kẻ bất khả xâm phạm』,\n　『$$異能生存体$$』, thật thỏa thích.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_ffae76d2a77abf5a": {
+      "text": "$$ＡＧ$$\n「Hạ được cả chiếc AT tối tân $$エクルビス$$ ấy,\n　quả là tài nghệ còn hơn lời đồn.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_3ac462d37e5893ff": {
+      "text": "$$ＡＧ$$\n「Và tiếng gào đầy oán hận của người tên $$ニーバ$$ đó...\n　Đã tạo ra những Z-Chip rất tốt đấy.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_fd6bdf7910d7d925": {
+      "text": "$$ＡＧ$$\n「Tổng cộng lên tới 200 Z!\n　Tôi sẽ thêm vào kho của đội nhé.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_d38be46e6cd7a5e5": {
+      "text": "$$ＡＧ$$\n「Thế này thì trận đại chiến tới càng đáng mong chờ!\n　Hy vọng sẽ sinh ra những Z-Chip tuyệt vời!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_3fe2078328753c16": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_c66844158d1ce600": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_d037ecbc1e348dc9": {
+      "text": "D-Trader",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_bcd53d14c4785426": {
+      "text": "　\n　\n　　　　～ D-Trader ～",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_9ca55ea7feca954a": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_554ae12c4c170253": {
+      "text": "$$ＡＧ$$\n「Ồ... Anh $$キリコ$$.\n　Anh tới tùy chỉnh máy cho trận quyết chiến nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_fa59c6df081e6ae4": {
+      "text": "$$キリコ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_ca3edf3b8b52aedf": {
+      "text": "$$ＡＧ$$\n「Nếu được, anh có muốn mua\n　$$ミッションディスク$$ mà tôi đã chuẩn bị không?」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_aa5d235c78ebe19f": {
+      "text": "$$ＡＧ$$\n「Đây là bản đặc biệt, được tạo sau khi phân tích\n　đặc điểm điều khiển của anh $$キリコ$$ từ trước tới giờ,\n　và nhập thêm dữ liệu $$ＰＳ$$ đã giao chiến hôm nay.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_0b3b19cddb871f90": {
+      "text": "$$キリコ$$\n「Không cần.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_304e98dac43c9333": {
+      "text": "$$ＡＧ$$\n「Khoan đã nào!\n　Dùng $$ミッションディスク$$ thông thường\n　mà đấu với con quái vật đó thì liều quá!」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_b740d817a14afd3a": {
+      "text": "$$キリコ$$\n「Tôi đã chuẩn bị xong rồi.\n　Chỉ còn cải tạo AT thôi.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_40e4c010d1b35b4c": {
+      "text": "$$ＡＧ$$\n「À... Vậy sao?\n　Thế thì tôi sẽ hỗ trợ về vũ khí.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_c33abf00683a32bc": {
+      "text": "$$ＡＧ$$\n「Handy Solid Shooter, ba lô rải mìn,\n　Log Gun...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_3036adce91d1f4a8": {
+      "text": "$$ＡＧ$$\n「Nếu cần, tôi còn có thể chuẩn bị Mega Bazooka Launcher,\n　đạn MDE, Knot Punisher và nhiều thứ khác.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_019293cb83599509": {
+      "text": "$$ＡＧ$$\n「Nếu anh muốn, tôi cũng thu xếp được pháo tia cỡ lớn\n　nhận năng lượng vi ba, hệ thống rải nanomachine,\n　hay cả đạn ICBM từ Cựu Thế giới...」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_9b949b9281aaeef1": {
+      "text": "$$キリコ$$\n「...Đấu AT không phân thắng bại bằng hỏa lực.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_b39a1dd705fe6cbf": {
+      "text": "$$ＡＧ$$\n「Hừm... Lời người trong nghề đúng là có trọng lượng.」",
+      "status": "reviewed"
+    },
+    "stage0022_03:r_c9016e3ab05470b0": {
+      "text": "$$ＡＧ$$\n「Nhưng tôi cũng có lòng tự tôn của thương nhân thứ nguyên!\n　Vậy nên hôm nay cũng phải hăng hái...\n　Buôn bán, buôn bán thôi!」",
+      "status": "reviewed"
+    }
+  }
+}

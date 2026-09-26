@@ -1,0 +1,1402 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0019_03:r_caaab7bad760e16d": {
+      "text": "Nền chuyển sắc",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_99b162aa6aa286a2": {
+      "text": "Nền chuyển sắc",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_58fb02434a1c40b2": {
+      "text": "Nền chuyển sắc",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_1c0f94acd5a8a143": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_1263541f4071624e": {
+      "text": "$$ミサト$$\n「Sẵn sàng chưa, $$シンジ$$?\n　Chị bắt đầu mô phỏng nhé.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_3bc300bbdc277d82": {
+      "text": "$$シンジ$$\n「Vâng.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_38762a09460d8b6b": {
+      "text": "$$ミサト$$\n「Thiên Sứ nào cũng có một bộ phận gọi là lõi.\n　Phá hủy nó là cách duy nhất để tiêu diệt thể xác chúng.\n　Vì vậy, hãy nhắm vào đó, đưa mục tiêu vào tâm ngắm rồi bấm nút...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_7ab28e70b4d4f641": {
+      "text": "$$ミサト$$\n「Thao tác cho thật chuẩn,\n　luyện đến khi cơ thể nhớ được cảm giác ấy.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$シンジ$$\n「Vâng.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ec335e69f984b8b3": {
+      "text": "$$ミサト$$\n「Nhớ nhé, $$シンジ$$.\n　Việc luyện tập này chắc chắn sẽ giúp em sau này.\n　Vì vậy, chúng ta phải luyện cho thật kỹ.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_0abcaf0c31978670": {
+      "text": "$$シンジ$$\n「Vâng.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_1d6bc48b7f246730": {
+      "text": "$$ミサト$$\n「Được rồi, khởi động... chương trình.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_1af20fccc3c53cfc": {
+      "text": "$$シンジ$$\n「Đưa mục tiêu vào tâm ngắm rồi bấm nút...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_f951916061232dcd": {
+      "text": "$$シンジ$$\n「Đưa mục tiêu vào tâm ngắm rồi bấm nút...\n　Đưa mục tiêu vào tâm ngắm rồi bấm nút...\n　Đưa mục tiêu vào tâm ngắm rồi bấm nút...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_4d863c3fb88a4c39": {
+      "text": "$$ドラゴンズハイヴ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_44f4742c3dcce39a": {
+      "text": "$$ドラゴンズハイヴ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_9e701cdeb3842c21": {
+      "text": "$$ドラゴンズハイヴ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_6fd81f4abebe60c5": {
+      "text": "　\n　\n　　　　～ $$ドラゴンズハイヴ$$, khoang chứa máy ～",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_da2132b5038ec737": {
+      "text": "$$甲児$$\n「$$シンジ$$ luyện tập bền bỉ thật...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_495d61d3ec7e16f2": {
+      "text": "$$葵$$\n「Về độ chăm chỉ, chắc cũng ngang ngửa $n nhỉ?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_5cd353758cfe474d": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_a653c8dec4c0f06f": {
+      "text": "$$甲児$$\n「Sao thế, thấy có đối thủ cạnh tranh à?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_86d493e37a9799a7": {
+      "text": "$n\n「Không phải thế.\n　Tôi chỉ làm việc mình cần làm thôi.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_09d0fcc600cdd3df": {
+      "text": "$$葵$$\n「Vậy buổi đấu tập hôm nay để bọn chị giúp em nhé.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_182faded068c15ed": {
+      "text": "$$くらら$$\n「Chuẩn bị tinh thần đi.\n　Bọn chị sẽ dùng cả năm Variable Beast Machine\n　để đấu với em đấy.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_9c206d19bfda4bd5": {
+      "text": "$n\n「Một chọi nhiều sao...\n　Đúng ý tôi.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_6e558bc69acf5bf3": {
+      "text": "$$朔哉$$\n「Tốc độ của Rhinos là tuyệt đỉnh!\n　Có giỏi thì thử né cú húc của tôi xem!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d60d0818e965232f": {
+      "text": "$$ジョニー$$\n「Không được, $$朔哉$$.\n　Lúc này phải nói là tốc độ của Rhinos\n　khiến người ta tê tái chứ.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_5b23687574286204": {
+      "text": "$$エイーダ$$\n「Tiện thể, thay vì nói thử né cú húc xem,\n　em nghĩ nên nói là né đi,\n　không thì tê cả người đấy.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_6fd86c96891ea942": {
+      "text": "$$朔哉$$\n「Đừng lái hình tượng của tôi theo hướng đó chứ!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_43e4e548c0b28376": {
+      "text": "$$スズネ$$\n「Đã một tuần từ khi $$シンジ$$ gia nhập đội Crusher...\n　Không biết em ấy đã quen hơn chút nào chưa...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d80a9688790ed583": {
+      "text": "$$竜馬$$\n「Ngay cả tên lầm lì $n\n　còn hòa nhập được mà.\n　Chẳng cần lo đâu.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_708bea61e3c43ada": {
+      "text": "$$スズネ$$\n「Nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_7b6f159eeaf4de0f": {
+      "text": "$$竜馬$$\n「Tôi hiểu cô muốn nói gì.\n　Cô $$スズネ$$ đang băn khoăn vì thằng nhóc nhút nhát,\n　thu mình ấy lại chịu lái EVA, đúng không?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_0827963cfd706e8d": {
+      "text": "$$スズネ$$\n「Vâng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$竜馬$$\n「Đó đâu phải ý muốn của nó.\n　...Ngoan ngoãn nghe theo lời người khác...\n　Chắc đó là cách nó đối mặt với cuộc đời.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_3f4035fd9db81258": {
+      "text": "$$スズネ$$\n「Rốt cuộc, $$シンジ$$ chỉ đang bị cuốn theo\n　những toan tính của người lớn thôi sao...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_567b361a454c4b73": {
+      "text": "$$竜馬$$\n「...Không phủ nhận được.\n　Nhưng chỉ biết ép trẻ con làm theo ý mình\n　thì chẳng xứng làm người lớn.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d22851aaafbbf8fc": {
+      "text": "$$竜馬$$\n「Đã tự coi mình là người lớn\n　thì phải chỉ đường cho bọn trẻ,\n　kể cả thằng nhóc ấy.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_352534f64413d954": {
+      "text": "$$スズネ$$\n「Liệu chúng ta có làm được không...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_79f2664edb1af798": {
+      "text": "$$竜馬$$\n「Vững vàng lên, cô giáo.\n　Cô muốn trở thành người lớn như thế\n　nên mới đi dạy, đúng không?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$スズネ$$\n「Em cũng định như vậy, nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_1c5aa0d15ae24846": {
+      "text": "$$竜馬$$\n「Mà... cô thì bận suốt với học sinh cá biệt,\n　còn tôi, đánh nhau thì được\n　chứ mấy chuyện đó chẳng biết chút nào...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_53bb64ee17750ee2": {
+      "text": "$$竜馬$$\n「Tôi biết một người rất hợp để làm việc này,\n　tiếc là người đó không ở đây...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_7a7add80fde475ba": {
+      "text": "$$ワッ太$$\n「A, anh $$竜馬$$ đang tán cô $$スズネ$$ kìa!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b2befefdbed1393d": {
+      "text": "$$竜馬$$\n「K-không phải thế!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_2103f6df2ea2e447": {
+      "text": "$$正太郎$$\n「Đáng ngờ thật.\n　Anh $$竜馬$$ mà cũng luống cuống thế này sao.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_a12e3e130d896ff7": {
+      "text": "$$竜馬$$\n「Cả $$正太郎$$ cũng nói nhảm gì thế hả!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b6f7b219eb4bd64b": {
+      "text": "$$スズネ$$\n「...Bị đồn là có tình ý với em\n　khiến anh phiền đến vậy sao...?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_91bf33c27ad39f0a": {
+      "text": "$$竜馬$$\n「K-không phải thế, nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ee220318b96ab538": {
+      "text": "$$ワッ太$$\n「Thế này có ổn không, anh $$竜馬$$?\n　Anh $n đang lườm anh đấy.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ce1b55e526b6277a": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_c304df6888eb78f7": {
+      "text": "$$竜馬$$\n「K-không phải đâu, $n!\n　Cùng là nhân viên trường THPT Jindai,\n　tôi chỉ đang nói về cách làm người lớn...!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_c26958634526e597": {
+      "text": "$n\n「...Anh cứ làm gì mình thích đi.\n　Em và cô $$スズネ$$ chỉ là cộng sự\n　khi lái $$ジェニオン$$ thôi.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_cdb750c9d380881a": {
+      "text": "$$竜馬$$\n「Vậy đừng nhìn tôi bằng cặp mắt đó nữa!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_95fda74613c97b39": {
+      "text": "$$甲児$$\n「Ồ... cảnh này hiếm thấy thật đấy.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_1956994937f8171e": {
+      "text": "$$葵$$\n「$$流竜馬$$ đáng sợ như quỷ\n　mà cũng cuống lên thế này cơ đấy.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_48f49f6728c15612": {
+      "text": "$$くらら$$\n「Cả chuyện $n ghen nữa.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$n\n「...Đã bảo không phải thế rồi mà...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_f02c37d91387d0ad": {
+      "text": "$$スズネ$$\n「Thôi nào, mọi người.\n　$$シンジ$$ cũng sắp tập xong rồi đấy.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$竜馬$$\n「Cô $$スズネ$$ nói đúng!\n　Cục trưởng $$大塚$$ đã dặn rồi còn gì!\n　Mấy đứa cùng ra đón nó đi!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_9796b3efa401a303": {
+      "text": "$$ワッ太$$\n「Rõ ạ!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_643b6eebfc0186b3": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_291280e5f7eb9d70": {
+      "text": "$$甲児$$\n「Vất vả rồi, $$シンジ$$.\n　Cũng đến giờ ăn rồi đấy.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_32eb462c1b4999cb": {
+      "text": "$$シンジ$$\n「A... vâng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_1f4337d6d393fc37": {
+      "text": "$$シンジ$$\n「Nhưng em còn phải thay bộ đồ lái ra,\n　mọi người cứ đi trước đi ạ.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_4740e748fae085ee": {
+      "text": "$$葵$$\n「Chừng đó thì bọn chị đợi được mà.\n　Ăn cùng nhau mới ngon chứ.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b76524cd840e1d37": {
+      "text": "$$シンジ$$\n「Vậy em sẽ thay đồ thật nhanh.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_730ffe18400abfc2": {
+      "text": "$$タケル$$\n「Có vẻ vẫn chưa gần gũi hơn được nhỉ...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ffe0fca26da5cd38": {
+      "text": "$$ジョニー$$\n「Cũng đành chịu thôi.\n　Cậu ấy vẫn chưa thực sự cảm thấy\n　mình là một thành viên của đơn vị này.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_bfb27f9eb2f7073e": {
+      "text": "$$朔哉$$\n「Nói cách khác, cậu ấy chưa tìm thấy\n　chỗ của mình giữa chúng ta...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_859dfa27bcaafe30": {
+      "text": "$$ミサト$$\n「Có vẻ sẽ mất thời gian đây.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_71ebf05996a4b0fd": {
+      "text": "$$アキラ$$\n「Chị $$ミサト$$ vất vả rồi!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_6214c11b1bca811e": {
+      "text": "$$ナオト$$\n「Giám sát $$シンジ$$ luyện tập... chắc vất vả lắm nhỉ!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_8eaf6f3098ffed12": {
+      "text": "$$ミサト$$\n「Cảm ơn các em.\n　Nhưng đó là công việc của chị mà.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_cf507214fe955d75": {
+      "text": "$$さやか$$\n「Chị $$ミサト$$ thì đã hòa nhập hẳn rồi...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_2113dcbabdfc758a": {
+      "text": "$$くらら$$\n「Chủ yếu vì cánh đàn ông\n　rất tích cực tiếp cận chị ấy mà.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$$ロゼ$$\n「Nhưng cứ thế này,\n　$$シンジ$$ sẽ mãi ở trong trạng thái lưng chừng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_6a74519e1fc29c4b": {
+      "text": "$$アキラ$$\n「Có cách nào không, $$ロゼ$$?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_5b992878fee054b5": {
+      "text": "$$ロゼ$$\n「Sao chuyện đó lại hỏi tôi?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$ナオト$$\n「Lúc đầu cậu cũng khép lòng\n　với bọn tôi còn gì.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_4a14ec0c511c7f0d": {
+      "text": "$$ロゼ$$\n「Đó là vì tôi thấy có lỗi\n　do từng là thuộc hạ của $$ズール$$...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_20cf167c0ec0d4d5": {
+      "text": "$$タケル$$\n「Nhưng $$ロゼ$$ đã hối hận về quá khứ,\n　và quyết định chiến đấu vì hòa bình giống chúng ta.\n　Thế là cô ấy trở thành đồng đội của chúng ta.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b591d812c96c6c99": {
+      "text": "$$ロゼ$$\n「Vậy nếu $$シンジ$$ cũng có cùng tâm nguyện với chúng ta...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_e350fa099c1ab072": {
+      "text": "$n\n「Nhưng không ai có thể ép buộc điều đó.\n　Chỉ bản thân mỗi người mới quyết định được\n　mình cảm thấy thế nào.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$タケル$$\n「Đúng vậy...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_c33bd700553abf91": {
+      "text": "$$ミサト$$\n（Hừm... Mình cứ nghĩ tiếp xúc với bạn bè cùng lứa\n　sẽ giúp em ấy thay đổi theo hướng tốt hơn,\n　nhưng phía trước còn lắm gian nan đây...）",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_feee5c91826230e1": {
+      "text": "$$ケンジ$$\n「Mọi người ở đây cả à.\n　Tập trung ở phòng sinh hoạt ngay nhé.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_bccc48e1964ad22d": {
+      "text": "$$ワッ太$$\n「Ơ... tức là phải ăn cơm thật nhanh ạ?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_f8736aaaa216c766": {
+      "text": "$$ケンジ$$\n「Không phải.\n　Đội Crusher đã nhận lệnh xuất kích.\n　Đây là buổi phổ biến nhiệm vụ.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d1ec2522c87c361d": {
+      "text": "Khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_3599f0a4343fd95c": {
+      "text": "Khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_3bc7834a5bf3ee76": {
+      "text": "Khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_366814efdc8b5800": {
+      "text": "　\n　\n　　　　～ $$ドラゴンズハイヴ$$, khoang chứa máy ～",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_9be1a4c10bb62515": {
+      "text": "$$甲児$$\n「...Cảnh báo 《$$界震$$》 ở Nagano sao...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_94a88c90e557e16e": {
+      "text": "$$さやか$$\n「Từ sau $$新世時空震動$$, ranh giới các chiều đã ổn định,\n　nên gần như chẳng có $$界震$$ nữa mà.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_1c208ca0cbf26f28": {
+      "text": "$$さやか$$\n「Mong là không phải điềm báo gì...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_5b7ee307a700171a": {
+      "text": "$$甲児$$\n「Nhưng thế này có ổn không?\n　Chúng ta... rời khỏi $$第３新東京市$$ ấy...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_8d8f065c932da30a": {
+      "text": "$$タケル$$\n「Theo cục trưởng $$大塚$$, tư lệnh Ikari của NERV nói\n　hiện chưa có dấu hiệu Thiên Sứ xuất hiện\n　trong thời gian tới.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_f5432119677514f7": {
+      "text": "$$ワッ太$$\n「Có thể biết trước lúc nào Thiên Sứ xuất hiện sao?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_4e5c8e989c4a7691": {
+      "text": "$$タケル$$\n「Hình như đó là bí mật của NERV,\n　nhưng chỉ họ mới có thông tin về Thiên Sứ,\n　nên ta đành nghe theo thôi.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_adec86483b13599a": {
+      "text": "$$ワッ太$$\n「Ra vậy...\n　Thế những Thiên Sứ đó đến từ thế giới thứ ba\n　mà người của NERV từng sống ở đó chăng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_2cf701bbcde3ec13": {
+      "text": "$$タケル$$\n「Hiện chỉ có thể nhận định như vậy, nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_c17c58fdba72005e": {
+      "text": "$$甲児$$\n「$$シンジ$$, cậu chưa nghe gì về chuyện đó à?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_1fe8564d2b959317": {
+      "text": "$$シンジ$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_f527e012803f7f1c": {
+      "text": "$$甲児$$\n「Cậu không nghe bọn tôi nói chuyện sao...?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_4b1247bd3ca4905d": {
+      "text": "$$シンジ$$\n「Em xin lỗi...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_00c55e25f87b71d0": {
+      "text": "$$タケル$$\n（Có vẻ tâm trí cậu ấy chẳng ở đây...）",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_338f3b27e51dcc41": {
+      "text": "$$甲児$$\n「Tỉnh táo lên chứ, $$シンジ$$.\n　Nhiệm vụ này EVA sẽ chờ ở $$ドラゴンズハイヴ$$,\n　nhưng cậu cũng là thành viên đội Crusher mà.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d91d4bc2d52b61c4": {
+      "text": "$$シンジ$$\n「Vâng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_0c8ea89b07432421": {
+      "text": "$$タケル$$\n「Khi có $$界震$$,\n　《$$ヘテロダイン$$》 có thể xuất hiện từ đó.\n　Nhiệm vụ của chúng ta là đối phó với chúng.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_4dbfba00ba7744ee": {
+      "text": "$$シンジ$$\n「$$ヘテロダイン$$...?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_be100a32b731708d": {
+      "text": "$$ワッ太$$\n「À phải, anh $$シンジ$$\n　vừa mới đến thế giới này,\n　nên chưa biết về $$ヘテロダイン$$ nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_702f82442fcec8a9": {
+      "text": "$$甲児$$\n「Nói đơn giản, $$ヘテロダイン$$ giống như\n　một khối năng lượng xuất hiện từ $$界震$$.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b1e38da4e8775ffe": {
+      "text": "$$甲児$$\n「Nó mang hình dạng quái vật,\n　nhưng về cơ bản không phải sinh vật\n　nên cũng không có ý thức.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$甲児$$\n「Nhưng vì nó quá to,\n　nếu cứ để mặc thì sẽ gây thiệt hại khắp nơi,\n　nên phải nhanh chóng tiêu diệt.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$シンジ$$\n「Quái vật tạo từ một khối năng lượng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_3dad695c99e9e052": {
+      "text": "$$ワッ太$$\n「Anh không cần lo đâu.\n　Thế giới này có dân chuyên xử lý $$ヘテロダイン$$ mà.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_66d4ae3a21caf881": {
+      "text": "$$赤木$$\n「Chính xác!\n　Cứ giao $$ヘテロダイン$$ cho\n　$$ダイ・ガード$$ của 《$$２１世紀警備保障$$》!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_0c18da7b3a37825d": {
+      "text": "$$甲児$$\n「Bọn em chờ mãi đấy, anh $$赤木$$!\n　Cả chị $$いぶき$$ và anh $$青山$$ nữa!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_63249745ffae61b6": {
+      "text": "$$いぶき$$\n「Lâu rồi không gặp, mọi người.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_abdb034ae8509702": {
+      "text": "$$青山$$\n「Không chỉ có ba người bọn anh đâu.\n　Tất nhiên, cả Phòng Truyền thông 2 đều đi công tác.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_3ff2e21207d1d1d3": {
+      "text": "$n\n「Những người này là...?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_e51ecf6d6aa42e75": {
+      "text": "$$赤木$$\n「Em là $n đúng không?\n　Anh đã nghe $$ワッ太$$ kể về em.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_47ddabb7b60131c2": {
+      "text": "$n\n「V-vâng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b025267f22788233": {
+      "text": "$$赤木$$\n「Anh là $$赤木駿介$$,\n　thuộc Phòng Truyền thông 2 của 《$$２１世紀警備保障$$》,\n　kiêm luôn người lái $$ダイ・ガード$$.」",
+      "status": "needs_review"
+    },
+    "stage0019_03:r_ec1a06a7023bf72c": {
+      "text": "$n\n「$$ダイ・ガード$$...?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_8805f96e52aaa462": {
+      "text": "$$甲児$$\n「Nhắc mới nhớ, $n\n　cũng mới đến Nhật gần đây nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_124591cb154fae64": {
+      "text": "$$タケル$$\n「$$界震$$ là hiện tượng riêng có ở vùng quanh Nhật Bản,\n　nên em không biết $$ダイ・ガード$$, robot chuyên chống\n　$$ヘテロダイン$$, cũng dễ hiểu.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$いぶき$$\n「$$ダイ・ガード$$ do Quân đội An ninh thời đó chế tạo\n　để đối phó với $$ヘテロダイン$$,\n　thứ xuất hiện lần đầu khoảng 15 năm trước.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_4bf9b05b5f948170": {
+      "text": "$$青山$$\n「Nhưng từ đó $$ヘテロダイン$$ chẳng xuất hiện nữa,\n　nên nó thành thứ cồng kềnh vô dụng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_eaa52d152f444bfd": {
+      "text": "$$青山$$\n「Vì thế, quân đội lập một công ty tư nhân\n　để bảo trì và quản lý $$ダイ・ガード$$.\n　Đó chính là $$２１世紀警備保障$$, công ty của bọn anh.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b4bc9e9435b58e6f": {
+      "text": "$$いぶき$$\n「Chị là $$桃井いぶき$$,\n　hoa tiêu của $$ダイ・ガード$$.」",
+      "status": "needs_review"
+    },
+    "stage0019_03:r_a9227573166977a9": {
+      "text": "$$青山$$\n「Anh là $$青山圭一郎$$, kỹ sư máy của $$ダイ・ガード$$.\n　Mong em giúp đỡ.」",
+      "status": "needs_review"
+    },
+    "stage0019_03:r_b0600ab9a9e8559d": {
+      "text": "$n\n「Nhân viên công ty chiến đấu với $$ヘテロダイン$$...\n　Đúng như $$ワッ太$$ nói,\n　họ là dân chuyên theo đúng nghĩa đen.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_7cbc63dad295f862": {
+      "text": "$$赤木$$\n「Còn đây là các thành viên Phòng Truyền thông 2,\n　những người hỗ trợ $$ダイ・ガード$$ từ phía sau.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_07f53c816e0a51f5": {
+      "text": "$$大杉$$\n「Tôi là trưởng phòng $$大杉$$.\n　Việc hỗ trợ Chi nhánh Viễn Đông đã được phê duyệt,\n　nên chúng tôi sẽ đồng hành cùng mọi người.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_2d09c6f6a2d990ea": {
+      "text": "$$柿小路$$\n「Ồ, trưởng phòng $$大杉$$.\n　Chúng ta lại được hợp tác rồi.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_3c5fcfc484a51913": {
+      "text": "$$大杉$$\n「Vâng, rất mong tiếp tục nhận được sự giúp đỡ của ông.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_0476ffd10c764b0e": {
+      "text": "$$ワッ太$$\n「Công ty Takeo General, chuyên nhận mọi việc ngoài vũ trụ,\n　là đối thủ của $$２１世紀警備保障$$ đấy.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$ワッ太$$\n「Nói thế thôi, chứ quy mô công ty\n　thì $$２１世紀警備保障$$ lớn hơn nhiều.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_2b3479c4cf0680f4": {
+      "text": "$$大杉$$\n「Lần trước cũng nhờ chủ tịch $$ワッ太$$ giúp đỡ nhiều.\n　Chủ tịch $$大河内$$ của chúng tôi\n　cũng nhiều lần nhờ chuyển lời chào đến cậu.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_e370696b8936b08c": {
+      "text": "$$ワッ太$$\n「Cháu lại nhờ bác giúp nhé, trưởng phòng.\n　Từ hôm nay, chúng ta là đồng đội cùng chiến đấu mà.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_9d7b02c5e728b7aa": {
+      "text": "$$横沢$$\n「Đúng là chủ tịch $$ワッ太$$.\n　Vẫn thẳng thắn, hào sảng như ngày nào.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_9af213fc64e0afec": {
+      "text": "$$スズネ$$\n「Còn anh là...?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d7f1c506e78e55ff": {
+      "text": "$$横沢$$\n「Tôi là $$横沢晋也$$, trợ lý trưởng phòng.\n　Đây là các thành viên trong phòng chúng tôi.」",
+      "status": "needs_review"
+    },
+    "stage0019_03:r_0c705091f748360e": {
+      "text": "$$大山$$\n「Tôi là $$大山紀子$$.\n　Sau $$ＺＥＸＩＳ$$, lần này chúng tôi\n　sẽ hỗ trợ đội Crusher.」",
+      "status": "needs_review"
+    },
+    "stage0019_03:r_9eb8599304125b2f": {
+      "text": "$$中原$$\n「Tôi là $$中原千秋$$.\n　Tôi sẽ cố gắng hết sức.」",
+      "status": "needs_review"
+    },
+    "stage0019_03:r_a072aa25e5f521e0": {
+      "text": "$$谷川$$\n「Mình là $$谷川風花$$.\n　Mong mọi người giúp đỡ nhé.」",
+      "status": "needs_review"
+    },
+    "stage0019_03:r_24e1a808a1609a1a": {
+      "text": "$$入江$$\n「Tôi là $$入江静香$$.\n　Rất hân hạnh được làm quen.」",
+      "status": "needs_review"
+    },
+    "stage0019_03:r_53128ce8f154fd06": {
+      "text": "$$石塚$$\n「Tôi là $$石塚智美$$.\n　Còn đây là $$田口友朗$$ và $$伊集院博孝$$.」",
+      "status": "needs_review"
+    },
+    "stage0019_03:r_03b5db9ce98fb8d6": {
+      "text": "$$田口$$\n「Rất mong được mọi người giúp đỡ.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_3915fb4102f1c1dd": {
+      "text": "$$伊集院$$\n「Nice to meet you.\n　Rất vui được gặp mọi người.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_817b2773b4ed563e": {
+      "text": "$$スズネ$$\n「Tôi đã nghe danh mọi người,\n　những chuyên gia đối phó với $$ヘテロダイン$$.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_1cc233cbc8c80af7": {
+      "text": "$$大山$$\n「Chủ tịch $$大河内$$ chủ trương mở rộng hoạt động,\n　nên chúng tôi đã gia nhập $$ＺＥＸＩＳ$$\n　trong $$破界事変$$ và $$再世戦争$$.」",
+      "status": "needs_review"
+    },
+    "stage0019_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$$谷川$$\n「Anh chàng cuồng chính nghĩa $$赤木$$ nhà mình\n　thì có vẻ mãn nguyện lắm.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_e180b22d18f48d38": {
+      "text": "$$赤木$$\n「Đâu cần khen tôi đến thế!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_e598c2a0b27e7f50": {
+      "text": "$n\n（Anh ấy không nhận ra câu mỉa mai sao...?）",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_4d2a9066c4e7b27f": {
+      "text": "$$スズネ$$\n（Hì hì... Có vẻ anh ấy thật lòng\n　muốn cống hiến cho đời, cho mọi người.）",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_10340119af3ed6db": {
+      "text": "$$甲児$$\n「Vậy các anh chị gia nhập đội Crusher sớm hơn\n　có phải tốt không.\n　Gần đây $$ヘテロダイン$$ cũng chẳng xuất hiện mà...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_23a9c7ab620ab112": {
+      "text": "$$赤木$$\n「Hừ, hừ hừ, hừ hừ hừ...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_4f0aca6deda07883": {
+      "text": "$$甲児$$\n「S-sao vậy ạ?\n　Anh cười rợn người thế, chẳng hợp chút nào...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_8fe40600ce62dfbc": {
+      "text": "$$赤木$$\n「$$２１世紀警備保障$$ đâu có ngồi chơi.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ff4ce5f3cf96b617": {
+      "text": "$$赤木$$\n「Tất cả là vì dự án\n　làm cho $$ダイ・ガード$$ lột xác!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d73c21f119847e35": {
+      "text": "$$甲児$$\n「$$ダイ・ガード$$ lột xác...!?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_89766f5ffaa912d4": {
+      "text": "$$いぶき$$\n「Khoản ngân sách xin từ trước đã được duyệt,\n　nên $$ダイ・ガード$$ được nâng cấp toàn diện.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$甲児$$\n「Vì còn phải cải tạo\n　nên $$ダイ・ガード$$ chưa xuất hiện được, đúng không ạ?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_451f726d4299ea35": {
+      "text": "$$柿小路$$\n「Ừm... quả nhiên việc tinh chỉnh cuối cùng\n　tốn khá nhiều thời gian nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_e3d111e8bb190cb1": {
+      "text": "$$いぶき$$\n「Đúng vậy ạ.\n　Vì thế mà cậu $$赤木$$ có vẻ bứt rứt lắm.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_7c0d3c51f9a11ca0": {
+      "text": "$$青山$$\n「Nhưng nâng cấp xong thì $$界震$$ lại chẳng xảy ra nữa,\n　thành ra $$ダイ・ガード$$ mới tinh\n　cũng đành nằm không.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ab97c2b2418ea732": {
+      "text": "$$青山$$\n「Vì thế, lời đề nghị hợp tác của Chi nhánh Viễn Đông\n　đến đúng lúc bọn anh đang cần.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_2ddff5064af78db4": {
+      "text": "$$赤木$$\n「Không có $$界震$$ là chuyện tốt,\n　nhưng thế giới đang ngày càng bất ổn,\n　đâu thể để $$ダイ・ガード$$ ngồi không mãi.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_050d0532c4b24bfe": {
+      "text": "$n\n「Mọi người tràn đầy năng lượng thật...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d583fcea31bdad2e": {
+      "text": "$$スズネ$$\n「Rất có phong thái tận tụy\n　của nhân viên Nhật thời trước, tốt mà.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_475f7653621a91b5": {
+      "text": "$$赤木$$\n「Không làm thì lấy gì mà ăn, đúng không ạ.\n　Bọn tôi cũng sẽ hết sức bảo vệ hòa bình.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_f228ae702350849b": {
+      "text": "$n\n「Vì hòa bình... sao.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d69dc027cba3003f": {
+      "text": "$n\n「...Em cũng có cùng tâm nguyện đó...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_3c3735172a480b72": {
+      "text": "$$スズネ$$\n「$n...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_1f418b5594cea300": {
+      "text": "$$赤木$$\n「Vậy à, $n!\n　Anh nghĩ chúng ta sẽ hợp nhau lắm đấy!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_f87fb889124bfaef": {
+      "text": "$n\n「Từ nay mong anh giúp đỡ, anh $$赤木$$.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_79c90de32a79212d": {
+      "text": "$$甲児$$\n「Ồ... ngay cả $n\n　cũng chịu cởi mở trước sự thẳng thắn của anh $$赤木$$...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_33f7fd55913419e8": {
+      "text": "$$青山$$\n「Trước sự vô tư của cậu ấy,\n　cứ suy nghĩ nặng nề hay cố tỏ ra ngầu\n　cũng thấy thật ngớ ngẩn.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_473d9a88b4ca96e7": {
+      "text": "$$赤木$$\n「Thế còn cậu lính mới tên $$シンジ$$\n　đang ở đâu?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_4de6ac85c63bac12": {
+      "text": "$$スズネ$$\n「Ơ... vừa rồi em ấy còn ở đó mà...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_4c92652c9b1adf6f": {
+      "text": "$$中原$$\n「Em mặc đồng phục, trông tầm học sinh cấp hai ấy à?\n　Em ấy đi ra ngoài rồi...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ce90563a934d49fb": {
+      "text": "$$谷川$$\n「Trông cậu bé có vẻ nhạy cảm.\n　Chắc không theo nổi\n　sự hăng hái quá mức của anh $$赤木$$ nhỉ?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_4fb296e63cb1fb46": {
+      "text": "$$赤木$$\n「Á...!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_6d77e72dbbcd7dfe": {
+      "text": "Trong núi",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_9dc59affd40f32fc": {
+      "text": "Trong núi",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_0cea115be526a319": {
+      "text": "Trong núi",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d36072babd12aeb4": {
+      "text": "$$シンジ$$\n（...Nhiệm vụ lần này... nghe nói mình không cần xuất kích...）",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_09ee921a85025fd3": {
+      "text": "$$シンジ$$\n（Vậy thì... mình ở đây để làm gì nhỉ...）",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_fae689f2a1057b61": {
+      "text": "$$シンジ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_91c6d0bb53854ecc": {
+      "text": "$$赤木$$\n「Xin lỗi!\n　Anh không có ý làm em giật mình!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_42a3149105314ab8": {
+      "text": "$$シンジ$$\n「K-không ạ... em mới phải xin lỗi...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_62ecd978c667bd29": {
+      "text": "$$赤木$$\n「Em có làm gì sai đâu\n　mà phải xin lỗi.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d441e6cc908ac01b": {
+      "text": "$$シンジ$$\n「Dạ...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b2aab8873350ea1f": {
+      "text": "$$赤木$$\n「Em là $$シンジ$$... đúng không?\n　Anh là $$赤木駿介$$.\n　Từ nay mong em giúp đỡ nhé.」",
+      "status": "needs_review"
+    },
+    "stage0019_03:r_2c7af4c55d8ac938": {
+      "text": "$$シンジ$$\n「A, vâng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_653b741d07545dff": {
+      "text": "$$赤木$$\n「Có phải... em đang lo lắng không, $$シンジ$$?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d584d4b5af55b1cf": {
+      "text": "$$シンジ$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_db0ee69ece206fcd": {
+      "text": "$$赤木$$\n「Không sao đâu!\n　$$ヘテロダイン$$ đúng là địch mạnh,\n　nhưng nếu cùng hợp sức thì chẳng có gì đáng sợ cả.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_f97e6925c9e37332": {
+      "text": "$$シンジ$$\n「Em... hình như không cần xuất kích...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_422861e0b8d77d0c": {
+      "text": "$$赤木$$\n「Vậy em cổ vũ bọn anh chiến đấu nhé.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ef16bcaa2b0e0c45": {
+      "text": "$$シンジ$$\n「Dạ...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_2b93cca10f1c36a8": {
+      "text": "$$赤木$$\n「Ừm...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_7980fd37141d88d0": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ac21212c36d2b9ad": {
+      "text": "$$赤木$$\n「E-em có muốn hỏi gì không?\n　Anh cũng từng chiến đấu trong $$ＺＥＸＩＳ$$,\n　và trông thế thôi chứ anh là thầy dạy lái của $$甲児$$ đấy.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_a26e2108358af7a4": {
+      "text": "$$赤木$$\n「Mẹo lái robot,\n　cách lật ngược tình thế khi gặp nguy...\n　Em cứ hỏi gì cũng được.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_a8118b2e37aa1382": {
+      "text": "$$シンジ$$\n「Dạ...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_017a56991b7b8ca4": {
+      "text": "$$赤木$$\n「À, anh cũng là nhân viên công ty mà.\n　Em hỏi về công ty hay cuộc sống đi làm cũng được.\n　Chứ chuyện học hành hay tình yêu thì anh dở lắm!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ad3e1db3419665fb": {
+      "text": "$$シンジ$$\n「Dạ...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_0149e3a5f2e5ef78": {
+      "text": "$$赤木$$\n「...Ừm... không có gì muốn hỏi sao?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_3ad10e705167a3fa": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_bdc546b199c80996": {
+      "text": "$$シンジ$$\n「...Anh $$赤木$$... chiến đấu vì điều gì vậy?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_22c8caf8c08c5119": {
+      "text": "$$赤木$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_9c13714b3efbc7a8": {
+      "text": "$$シンジ$$\n「Anh chiến đấu vì đó là công việc sao?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_96f156e19b53fc09": {
+      "text": "$$赤木$$\n「Không phải thế.\n　Anh lái $$ダイ・ガード$$ vì muốn bảo vệ hòa bình.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_feb0390bba7fe1fb": {
+      "text": "$$赤木$$\n「Không chỉ anh đâu.\n　$$甲児$$, $$タケル$$, $n... cả $$ワッ太$$ cũng vậy.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_8a78bcec22029401": {
+      "text": "$$シンジ$$\n「...Nếu đã có những người như vậy,\n　thì đâu nhất thiết em phải lái EVA...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_f42017dfce31dea9": {
+      "text": "$$赤木$$\n「$$シンジ$$...\n　Em không muốn chiến đấu sao?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ef7426919f628d8a": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_9e994a4b926d9906": {
+      "text": "$$赤木$$\n「Được...!\n　Vậy anh sẽ nói với cấp trên về chuyện của em.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ffae76d2a77abf5a": {
+      "text": "$$シンジ$$\n「Anh làm được thế sao?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_3ac462d37e5893ff": {
+      "text": "$$赤木$$\n「Anh không biết có làm được không.\n　Nhưng không thử thì làm sao biết, đúng không?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_fd6bdf7910d7d925": {
+      "text": "$$シンジ$$\n「Nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d38be46e6cd7a5e5": {
+      "text": "$$赤木$$\n「Sao nào?\n　Em muốn chiến đấu hay không muốn,\n　nói rõ đi chứ.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_3fe2078328753c16": {
+      "text": "$$シンジ$$\n「Em... cũng không rõ nữa...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_c66844158d1ce600": {
+      "text": "$$赤木$$\n「Vậy tại sao em lại ở trong đội Crusher?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d037ecbc1e348dc9": {
+      "text": "$$シンジ$$\n「...Đó là... vì cha em muốn thế...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_bcd53d14c4785426": {
+      "text": "$$赤木$$\n「Thì ra là vậy!\n　Em có lý do chiến đấu đàng hoàng còn gì.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_9ca55ea7feca954a": {
+      "text": "$$シンジ$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_554ae12c4c170253": {
+      "text": "$$赤木$$\n「Em chiến đấu vì muốn đáp lại kỳ vọng của cha, đúng không?\n　Vậy là được rồi còn gì.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_fa59c6df081e6ae4": {
+      "text": "$$シンジ$$\n「...Lý do như vậy cũng được sao?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ca3edf3b8b52aedf": {
+      "text": "$$赤木$$\n「Mỗi người một lý do mà.\n　Có người anh quen còn vì nợ nần...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_aa5d235c78ebe19f": {
+      "text": "$$赤木$$\n「Á...!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_0b3b19cddb871f90": {
+      "text": "$$シンジ$$\n「Anh có sao không?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_304e98dac43c9333": {
+      "text": "$$赤木$$\n「À, ừ... chỉ hơi đau đầu thôi...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b740d817a14afd3a": {
+      "text": "$$赤木$$\n「Tóm lại là!\n　Mỗi người có một lý do chiến đấu,\n　nên cảm xúc của bản thân mới là điều quan trọng nhất.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_40e4c010d1b35b4c": {
+      "text": "$$赤木$$\n「Em cứ làm điều mình muốn.\n　Nếu muốn đáp lại kỳ vọng mà không muốn chiến đấu,\n　thì đừng chiến đấu, hãy tìm một cách khác.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_c33abf00683a32bc": {
+      "text": "$$シンジ$$\n「Anh $$赤木$$ không tìm cách khác đó sao?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_3036adce91d1f4a8": {
+      "text": "$$赤木$$\n「Hả...?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_019293cb83599509": {
+      "text": "$$シンジ$$\n「Vì chiến đấu... đáng sợ lắm mà...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_9b949b9281aaeef1": {
+      "text": "$$シンジ$$\n「Bị tấn công thì vừa sợ, vừa đau...\n　Tệ nhất còn có thể chết nữa...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b39a1dd705fe6cbf": {
+      "text": "$$赤木$$\n「Chính vì thế anh mới chiến đấu.\n　Anh không muốn ai khác phải chịu nỗi sợ đó.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_c9016e3ab05470b0": {
+      "text": "$$シンジ$$\n「Anh $$赤木$$...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_a684e6cea428e518": {
+      "text": "$$赤木$$\n「Tất nhiên, sức mạnh của $$ダイ・ガード$$ rất nhỏ bé,\n　nên những gì nó làm được cũng có giới hạn...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_cf907a4d5de8b5c9": {
+      "text": "$$赤木$$\n「Nhưng chỉ cần dùng $$ダイ・ガード$$ bảo vệ được ai đó,\n　anh vẫn sẽ cố hết sức chiến đấu.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_a5774604a0f00702": {
+      "text": "$$赤木$$\n「Ai cũng đang gắng hết sức để sống.\n　Anh chỉ muốn bảo vệ điều đó thôi.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b4fa30f33e84207f": {
+      "text": "$$シンジ$$\n「Ai cũng đang gắng hết sức để sống...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_9133b7e0b34de48f": {
+      "text": "$$赤木$$\n「Còn một điều nữa anh muốn nói.\n　Nghĩ rằng đã có người khác làm rồi nên mình khỏi cần làm,\n　anh thấy như vậy không đúng.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_4ae9c4bd77494c4a": {
+      "text": "$$シンジ$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_7313331f4077d255": {
+      "text": "$$赤木$$\n「Vì như thế cũng giống như trốn tránh\n　những gì đang xảy ra xung quanh mình.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_a84ab0c3c1ba44d4": {
+      "text": "$$赤木$$\n「Cứ nói như vậy thì có khác gì\n　coi cả thế giới chỉ là khoảng nhỏ quanh mình đâu?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_414e6e90094d1413": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_83a9e41e15444c69": {
+      "text": "$$シンジ$$\n（Chị $$ミサト$$ cũng từng nói...\n　Bảo vệ... mình bảo vệ... những gì mình có thể bảo vệ...）",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_09227dec2bd6f4d8": {
+      "text": "$$シンジ$$\n（Không biết mọi người trong đội Crusher có vậy không...\n　Dù sợ, ai cũng có lý do để chiến đấu,\n　nên mới liều mình chiến đấu như thế chăng...）",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_7b3a37f5039eb1f6": {
+      "text": "$$佐伯$$\n「Anh ở đây à, anh $$赤木$$!\n　Buổi phổ biến nhiệm vụ sắp bắt đầu rồi đấy!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_cb6d9ee71c24b042": {
+      "text": "$$赤木$$\n「Ặc... anh $$佐伯$$!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ddd97a6ef823929a": {
+      "text": "$$佐伯$$\n「Đừng có ặc với tôi.\n　Anh có biết mình là trọng tâm của chiến dịch này không?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_df349052cd9cdd0c": {
+      "text": "$$佐伯$$\n「Thế này thì $$ダイ・ガード$$ mới\n　vất vả lắm mới hoàn thành cũng vô nghĩa thôi.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_a7ce9f908380694c": {
+      "text": "$$赤木$$\n「$$シンジ$$...\n　Người hay cằn nhằn này là anh $$佐伯$$, cố vấn chiến thuật.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_de3cc1f733dcb073": {
+      "text": "$$佐伯$$\n「Chào em, $$碇シンジ$$.\n　Dù không tham gia nhiệm vụ lần này,\n　em vẫn phải có mặt ở buổi phổ biến.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_0835ec3fff318aff": {
+      "text": "$$シンジ$$\n「A... vâng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_c32efc7394910997": {
+      "text": "$$赤木$$\n「Đi thôi, $$シンジ$$.\n　Có vẻ mọi người đang chờ chúng ta đấy.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b01db8213417811e": {
+      "text": "$$シンジ$$\n（Có người... đang chờ mình...）",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_bc0273c6ae91c929": {
+      "text": "$$ドラゴンズハイヴ$$, phòng sinh hoạt",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_8deea7c70d7a76e7": {
+      "text": "$$ドラゴンズハイヴ$$, phòng sinh hoạt",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_660c72e627d873c7": {
+      "text": "$$ドラゴンズハイヴ$$, phòng sinh hoạt",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_5d8b67b5bd8ce190": {
+      "text": "　\n　\n　　　　～ $$ドラゴンズハイヴ$$, phòng sinh hoạt ～",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_7cf3c91395139f5c": {
+      "text": "$$ミサト$$\n「...Chị ngạc nhiên đấy, $$シンジ$$.\n　Không ngờ em lại tự muốn xuất kích.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_6ccd85652ef4ccf1": {
+      "text": "$$シンジ$$\n「Em xin lỗi...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_fbe7bf7d854012a7": {
+      "text": "$$赤木$$\n「Không cần xin lỗi đâu, $$シンジ$$.\n　Em đã làm việc tốt mà.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_1f438885dbc1359e": {
+      "text": "$$佐伯$$\n「Anh cũng muốn cảm ơn em, $$シンジ$$.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_2e59226caa35f6e5": {
+      "text": "$$シンジ$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_5d7a3adb077ad934": {
+      "text": "$$佐伯$$\n「Nhờ em mà ngôi làng đó được cứu.\n　Nhờ cú xung phong liều mình của em.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_78d3b2a75e38d6f7": {
+      "text": "$$甲児$$\n「Tinh thần gan lì của cậu khiến tôi phục thật, $$シンジ$$.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_8d461de418389bf8": {
+      "text": "$$ワッ太$$\n「Có điều, cách xông thẳng vào như vậy\n　giống anh $$赤木$$ lắm.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_5cb2acefa1e7c7fb": {
+      "text": "$$赤木$$\n「$$ワッ太$$!\n　Em nói thế là sao hả!?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_59ce7fd9524ec8be": {
+      "text": "$$いぶき$$\n「Thì đúng như lời em ấy nói chứ sao.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_33f67c683bda9203": {
+      "text": "$$青山$$\n「Nói thêm thì đó cũng chẳng phải chiến thuật hay.\n　Đó là cảm nhận thật lòng\n　của bọn tôi ngồi cùng cậu trên máy.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_476fb20ab9d18957": {
+      "text": "$$いぶき$$\n「Vậy đấy, $$シンジ$$.\n　Học tinh thần bảo vệ chính nghĩa của cậu $$赤木$$ thì tốt,\n　nhưng đừng bắt chước cả cách đánh nhé.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_6be0d6139fac197c": {
+      "text": "$$シンジ$$\n「V-vâng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_df899b8031b4ca06": {
+      "text": "$$赤木$$\n「Sao vậy, $$シンジ$$...\n　Cả em cũng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_c5d048c7db7cac75": {
+      "text": "$$シンジ$$\n「E-em xin lỗi...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_308e8ac66b1141ef": {
+      "text": "$$ワッ太$$\n「Anh $$シンジ$$ lại xin lỗi nữa rồi.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_64f25294d71a5d55": {
+      "text": "$$シンジ$$\n「Nhưng lần này anh thật sự thấy mình có lỗi...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b6ca80db4741a62c": {
+      "text": "$$ミサト$$\n「Như thế là được rồi, $$シンジ$$.\n　Em không cần hùa theo mọi người,\n　cứ nói ra những gì mình nghĩ và cảm nhận là được.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_432a29155221625f": {
+      "text": "$$シンジ$$\n「Vâng.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_9f7c18d1ea1b55c9": {
+      "text": "$$郁絵$$\n「Để mọi người đợi lâu rồi.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_56688ad8e41b7b42": {
+      "text": "$$谷川$$\n「Mình dùng rau dân làng tặng để cảm ơn\n　nấu canh miso thịt heo đây.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_34a510533cb8a9f5": {
+      "text": "$$赤木$$\n「Ồ, trông ngon quá!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_1afedc9fa466f321": {
+      "text": "$$中原$$\n「Có cả cơm nắm nữa.\n　Mọi người cứ ăn thật nhiều nhé.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_9547b3241808695f": {
+      "text": "$$大山$$\n「Cậu $$赤木$$ nhớ rửa tay sạch sẽ trước đã nhé.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_32b2a8ce24deeb9f": {
+      "text": "$$赤木$$\n「Rõ!\n　Đi thôi, $$シンジ$$!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_c7ef92060bb8199d": {
+      "text": "$$シンジ$$\n「Vâng!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_1be6d12f616f04e4": {
+      "text": "$$スズネ$$\n「Mọi chuyện suôn sẻ rồi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_80f948aeaed93de8": {
+      "text": "$$竜馬$$\n「$$赤木$$ là gã thẳng thắn đến cực đoan mà.\n　Với đứa hay nghĩ ngợi quá nhiều như $$シンジ$$,\n　cậu ta đúng là người thầy lý tưởng.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_0d24e9726dcc79f9": {
+      "text": "$$スズネ$$\n「Làm gương bằng hành động thay vì lời nói...\n　Em cũng phải học điều đó.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_da648116badd491a": {
+      "text": "$$竜馬$$\n「Cố lên nhé, cô $$スズネ$$.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_4e91ccecf1dd0f66": {
+      "text": "$$スズネ$$\n「Vâng!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_668b7114a3ac1d77": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ef339c6f71e7560f": {
+      "text": "$$竜馬$$\n「S-sao thế, $n...!\n　Tôi chỉ đang nói với cô $$スズネ$$\n　trên tư cách đồng nghiệp...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ce68dd10a19e01ea": {
+      "text": "$n\n「Anh không cần phân bua đâu.\n　Em... chỉ mang canh miso thịt heo tới thôi.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_13ce8d4e4858b193": {
+      "text": "$$スズネ$$\n「Cảm ơn em, $n.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_075101b23517fbaa": {
+      "text": "$$竜馬$$\n「Này...!\n　Không có phần tôi à?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_13c2ae299018c9ee": {
+      "text": "$n\n「Em không biết.\n　Anh $$竜馬$$ đâu phải cộng sự của em.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_6f4f8dd80820f5e7": {
+      "text": "$$竜馬$$\n「Chậc... cậu cũng gan lắm đấy.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_afa513b4815df4c9": {
+      "text": "$$スズネ$$\n（Chẳng lẽ $n...\n　đã ghen sao...?）",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_6cf1e5ed68d98bd4": {
+      "text": "Nền chuyển sắc",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_e62eb587b8d34cb9": {
+      "text": "Nền chuyển sắc",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d72cc2c0739c9088": {
+      "text": "Nền chuyển sắc",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ecf4e1c8c0f8d2d7": {
+      "text": "$$ゲンドウ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_e5a692ea5ce09cac": {
+      "text": "$$ＳＥＥＬＥ$$\n「$$第４の使徒$$ và việc tiêu diệt nó...\n　Tiếp nhận Đứa Trẻ Thứ Ba,\n　cùng lần khởi động đầu tiên của EVA số 01...」",
+      "status": "needs_review"
+    },
+    "stage0019_03:r_e793fc3ce3a0c28d": {
+      "text": "$$ＳＥＥＬＥ$$\n「Nhìn chung đều đúng theo kế hoạch.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_2be6c657d0e12c4b": {
+      "text": "$$ＳＥＥＬＥ$$\n「Dù chi phí sửa chữa khổng lồ\n　của số 01 nằm ngoài dự tính.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_f89f6c6c4b076e16": {
+      "text": "$$ＳＥＥＬＥ$$\n「So với số 00 đang bị đình chỉ hoạt động,\n　chuyện đó cũng chẳng đáng ngại.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_7569f965fff4d791": {
+      "text": "$$ＳＥＥＬＥ$$\n「Có vài trục trặc cũng được, miễn là hữu dụng\n　khi $$第５の使徒$$ xuất hiện.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b43bdba9393d4d68": {
+      "text": "$$ゲンドウ$$\n「Xin đừng lo.\n　Sau khi số 01 được triển khai, số 02 cùng phi công\n　đang được thử nghiệm đánh giá tại Đức.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_3ec159d1a3492877": {
+      "text": "$$ＳＥＥＬＥ$$\n「Việc chế tạo từ số 03 trở đi cũng phải đúng kế hoạch.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_4e2fbafa9ebef558": {
+      "text": "$$ＳＥＥＬＥ$$\n「Vận hành NERV và EVA đúng cách là trách nhiệm của anh.\n　Mong anh đừng để chúng tôi thất vọng.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_bde2e27bac7e3317": {
+      "text": "$$ＳＥＥＬＥ$$\n「Đúng vậy... Tiêu diệt Thiên Sứ chỉ là\n　một phần rất nhỏ trong giao ước với $$リリス$$.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_631834aa1545ba7b": {
+      "text": "$$ＳＥＥＬＥ$$\n「Về chuyện Mycenae đó,\n　chúng tôi cũng sẽ tiến hành điều tra.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_0cd6aab432ee5af7": {
+      "text": "$$ゲンドウ$$\n「Xin nhờ các vị.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_c8b75f3bca245a85": {
+      "text": "$$ＳＥＥＬＥ$$\n「Kế hoạch Hoàn thiện Nhân loại...\n　Thực hiện nó chính là ước nguyện tối thượng của chúng tôi.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b26be73e3c0c8bed": {
+      "text": "$$ゲンドウ$$\n「Tôi hiểu.\n　Tất cả sẽ theo đúng kịch bản của $$ＳＥＥＬＥ$$.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_1a4dc288e81719ee": {
+      "text": "Nền D-Trader",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b8902c992035da79": {
+      "text": "Nền D-Trader",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_df10ad0a71c307da": {
+      "text": "Nền D-Trader",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_9293c52555ba1457": {
+      "text": "　\n　\n　　　　　～ D-Trader ～",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_6c41647935e2574a": {
+      "text": "$$ＡＧ$$\n「Tôi chờ mãi đấy, ngài $$赤木$$.\n　Chờ mọi người ở $$２１世紀警備保障$$ gia nhập chúng tôi.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_ca702b5726ebd4da": {
+      "text": "$$赤木$$\n「Cậu là $$ＡＧ$$ à.\n　Tôi đã nghe đồn về cậu.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_51ce1d8caa34c103": {
+      "text": "$$ＡＧ$$\n「Nhân tiện, ngài $$赤木$$...\n　Lương của ngài là bao nhiêu vậy?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d00313056b19262c": {
+      "text": "$$赤木$$\n「Vừa gặp đã hỏi thẳng thế...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d41f1e36365baa6f": {
+      "text": "$$ＡＧ$$\n「Thật ra... dù là thành viên của $$ＤＥＭ$$,\n　nhưng vì là robot nên tôi\n　chẳng được nhận lấy một yên tiền lương.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_2c37dd5b8f919a88": {
+      "text": "$$赤木$$\n「Tức là cậu làm không công sao...!?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_53f5199f05a9aad8": {
+      "text": "$$ＡＧ$$\n「Đúng vậy.\n　Vì thế, tùy vào điều kiện đãi ngộ, tôi đang cân nhắc\n　chuyển sang làm cho $$２１世紀警備保障$$.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_c6937f14a8985c35": {
+      "text": "$$赤木$$\n「Khoan đã!\n　Làm không công đúng là vô lý,\n　nhưng chọn việc chỉ dựa vào tiền lương có được không!?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_07513334490fbdf9": {
+      "text": "$$赤木$$\n「Công việc đâu chỉ có thế!\n　Phải nói sao nhỉ... đó là thứ để mình\n　dồn cả nhiệt huyết vào và làm hết sức chứ!」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d90c4affdd742a0e": {
+      "text": "$$ＡＧ$$\n「Nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_082a55c75a163780": {
+      "text": "$$赤木$$\n「Nghĩ kỹ đi, $$ＡＧ$$.\n　Cậu... ghét công việc hiện tại sao?」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_fa09fad95980b867": {
+      "text": "$$ＡＧ$$\n「Cũng không hẳn là thế...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_f5507082e5c31362": {
+      "text": "$$赤木$$\n「Công việc đó cũng có niềm vui,\n　có những điều khiến cậu thấy đáng làm, đúng không?\n　Đừng quên chúng.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_3c9956c9d519d2a2": {
+      "text": "$$ＡＧ$$\n「...Đúng vậy.\n　Tôi cũng có trách nhiệm\n　với $$ジェニオン$$ và cậu $n...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d150caab246bbd7a": {
+      "text": "$$ＡＧ$$\n「Cảm ơn ngài, ngài $$赤木$$.\n　Quả nhiên tôi đã đúng khi hỏi ý kiến ngài.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_d23d30b65284f69d": {
+      "text": "$$赤木$$\n「Giúp được cậu, tôi cũng vui.\n　Từ nay mong cậu giúp đỡ nhé, $$ＡＧ$$.」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_b2f67d46499f2bbd": {
+      "text": "$$ＡＧ$$\n「Nhân tiện, ngài $$赤木$$...\n　Ngài có quan hệ gì với tiến sĩ $$赤木リツコ$$ của NERV?」",
+      "status": "needs_review"
+    },
+    "stage0019_03:r_fc1b13eaa4071b9a": {
+      "text": "$$赤木$$\n「Chắc là chẳng có họ hàng gì đâu...」",
+      "status": "reviewed"
+    },
+    "stage0019_03:r_c4cdd41ba9207e9c": {
+      "text": "$$ＡＧ$$\n「Thắc mắc đã được giải đáp,\n　tôi sẽ làm việc với tinh thần mới!\n　Hôm nay cũng hăng hái lên... buôn bán, buôn bán thôi!」",
+      "status": "reviewed"
+    }
+  }
+}

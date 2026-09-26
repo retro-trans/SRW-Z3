@@ -1,0 +1,542 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0025_04:r_caaab7bad760e16d": {
+      "text": "$$甲児$$\n「Lại là thằng khốn hình dơi đó sao!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_99b162aa6aa286a2": {
+      "text": "$$アルト$$\n「Không chỉ có nó!\n　Còn có máy của đủ các tổ chức nữa!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_58fb02434a1c40b2": {
+      "text": "$n\n「$$ジェニオン$$!!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_1c0f94acd5a8a143": {
+      "text": "$$スズネ$$\n「$n...!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_1263541f4071624e": {
+      "text": "$n\n「Không còn cách nào khác, thưa cô!\n　Trước khi Quarter và $$ネェル・アーガマ$$ đến,\n　chúng ta phải tự bảo vệ thành phố!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_3bc300bbdc277d82": {
+      "text": "$$スズネ$$\n「Cô biết chứ!\n　Nhưng em có chiến đấu được không!?」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_38762a09460d8b6b": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_7ab28e70b4d4f641": {
+      "text": "$$スズネ$$\n（Em ấy đang sợ...?\n　Có liên quan đến việc mắt chuyển đỏ không...）",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_b05f6a6e8f3d9b24": {
+      "text": "$n\n「Dù vậy... em cũng không còn lựa chọn nào khác...!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_ec335e69f984b8b3": {
+      "text": "$$スズネ$$\n「...Cô hiểu rồi.\n　Nhưng tuyệt đối đừng quá sức nhé.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_0abcaf0c31978670": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_1d6bc48b7f246730": {
+      "text": "$$ワッ太$$\n「Nhờ anh $n và cô $$スズネ$$ nhé!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_1af20fccc3c53cfc": {
+      "text": "$$カレン$$\n「$$トウジ$$, $$ケンスケ$$, $$ヒカリ$$!\n　Tuyệt đối đừng rời xa bọn chị!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_f951916061232dcd": {
+      "text": "$$ヒカリ$$\n「V-vâng!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_4d863c3fb88a4c39": {
+      "text": "$$スズネ$$\n「Nó đến kìa, $n!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_44f4742c3dcce39a": {
+      "text": "$n\n（Phải chiến đấu...!\n　Cảm giác này... chắc chắn kẻ đó đang ở gần đây...）",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_9e701cdeb3842c21": {
+      "text": "$$ガドライト$$\n「Chẳng ưa nổi cái máy màu xanh đó...」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_6fd81f4abebe60c5": {
+      "text": "$$ガドライト$$\n「Nhìn gần lại càng ngứa mắt.\n　Thật tình...」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_da2132b5038ec737": {
+      "text": "$$スズネ$$\n「$n!\n　Mọi người đến giúp chúng ta rồi!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_495d61d3ec7e16f2": {
+      "text": "$$田中司令$$\n「Nhóm $$甲児$$ và các bạn học đã được đưa lên tàu an toàn.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_5cd353758cfe474d": {
+      "text": "$$Ｆ．Ｓ．$$\n「Tốt...\n　Máy nào chuẩn bị xong thì cho xuất kích ngay.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_a653c8dec4c0f06f": {
+      "text": "$$Ｃ．Ｃ．$$\n「Lâu rồi không gặp, $$カレン$$.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_86d493e37a9799a7": {
+      "text": "$$カレン$$\n「$$Ｃ．Ｃ．$$!\n　Cậu cũng ở trên Quarter sao!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_09d0fcc600cdd3df": {
+      "text": "$$Ｃ．Ｃ．$$\n「Chắc có nhiều chuyện muốn nói, nhưng để sau đi.\n　Tôi có thứ mà $$ルルーシュ$$ nhờ giữ hộ.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_182faded068c15ed": {
+      "text": "$$カレン$$\n「Đây là...!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_9c206d19bfda4bd5": {
+      "text": "$$Ｃ．Ｃ．$$\n「Khăn buộc đầu cũng chuẩn bị rồi.\n　Dùng đi.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_6e558bc69acf5bf3": {
+      "text": "$$カレン$$\n「Cảm ơn!\n　Có thứ này thì mình cũng chiến đấu được rồi!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_d60d0818e965232f": {
+      "text": "$$デュオ$$\n「Đó là Guren sao!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_5b23687574286204": {
+      "text": "$$キリコ$$\n「Là $$カレン$$ à?」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_6fd86c96891ea942": {
+      "text": "$$カレン$$\n「Đúng rồi, $$キリコ$$!\n　$$紅月カレン$$... đã trở lại!」",
+      "status": "needs_review"
+    },
+    "stage0025_04:r_43e4e548c0b28376": {
+      "text": "$$クラン$$\n「Thì ra món hàng $$Ｃ．Ｃ．$$ mang lên tàu\n　là S.E.I.T.E.N. Eight Elements!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_d80a9688790ed583": {
+      "text": "$$アルト$$\n「$$カレン$$!\n　Nhờ cậu hỗ trợ $n!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_708bea61e3c43ada": {
+      "text": "$$カレン$$\n「Được rồi!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_7b6f159eeaf4de0f": {
+      "text": "$n\n「Cậu định làm gì?」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_0827963cfd706e8d": {
+      "text": "$$カレン$$\n「Tôi là $$紅月カレン$$.\n　Từng là đội trưởng đội cận vệ của $$ゼロ$$\n　trong Đoàn Kỵ sĩ Đen.」",
+      "status": "needs_review"
+    },
+    "stage0025_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$カレン$$\n「Tôi sẽ dẫn đầu!\n　Cậu yểm trợ cho tôi!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_3f4035fd9db81258": {
+      "text": "$n\n「Tôi không cần giúp đỡ...!\n　Tôi...!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_567b361a454c4b73": {
+      "text": "$$カレン$$\n「Thôi ngay đi!\n　Sao tôi có thể bỏ mặc một người vừa sợ hãi vừa chiến đấu chứ!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_d22851aaafbbf8fc": {
+      "text": "$n\n「!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_352534f64413d954": {
+      "text": "$$カレン$$\n「Muốn tỏ ra mạnh mẽ thì trước hết\n　hãy làm cho giọng mình hết run đi đã.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_79f2664edb1af798": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$オズマ$$\n「Skull Leader gọi toàn đội!\n　Giao $n cho $$カレン$$,\n　chúng ta sẽ đánh đám máy chưa rõ lai lịch kia!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_1c5aa0d15ae24846": {
+      "text": "$$アムロ$$\n「Chúng... quả nhiên là quân xâm lược từ chiều không gian khác sao...」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_53bb64ee17750ee2": {
+      "text": "$$カミーユ$$\n「Lại có thể dịch chuyển đến\n　trong lúc ranh giới chiều không gian đang ổn định thế này...」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_7a7add80fde475ba": {
+      "text": "$$赤木$$\n「Dù các ngươi là ai, từ đâu đến,\n　nếu định cướp đi hòa bình của mọi người\n　thì chúng ta sẽ làm đối thủ của các ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_b2befefdbed1393d": {
+      "text": "$$ジェフリー$$\n「Toàn đội, bắt đầu tấn công!\n　Đánh chặn các máy chưa rõ lai lịch!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_2103f6df2ea2e447": {
+      "text": "$$カレン$$\n「Tới đây!\n　Các ngươi sẽ là đối thủ trong trận tái xuất của ta!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_a12e3e130d896ff7": {
+      "text": "$$キャシー$$\n「Ranh giới chiều không gian đang bị bóp méo!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_b6f7b219eb4bd64b": {
+      "text": "$$ジェフリー$$\n「Chấn động không gian... hay sắp có $$時空震動$$!?」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_91bf33c27ad39f0a": {
+      "text": "$$オットー$$\n「Chuyện gì thế này!?\n　Chẳng phải sẽ không còn $$時空震動$$ nữa sao!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_ee220318b96ab538": {
+      "text": "$$Ｆ．Ｓ．$$\n「Đến rồi...!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_ce1b55e526b6277a": {
+      "text": "$$シン$$\n「Viện binh của chúng sao!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_c304df6888eb78f7": {
+      "text": "$$竜馬$$\n「Khác với đám dơi trước đây đấy!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_c26958634526e597": {
+      "text": "$$正太郎$$\n「Chiếc máy hình người ấy cũng đã xuất hiện\n　khi $$ジェニオン$$ đến thế giới này!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_cdb750c9d380881a": {
+      "text": "$$アンナロッタ$$\n「Toàn đội, tản ra...\n　Tiêu diệt lực lượng địch.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_95fda74613c97b39": {
+      "text": "$$バナージ$$\n「Nó nói chuyện...!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_1956994937f8171e": {
+      "text": "$$リディ$$\n「Vậy là có người điều khiển sao...!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_48f49f6728c15612": {
+      "text": "$$ミヒロ$$\n「Thuyền trưởng!\n　Các máy chưa rõ lai lịch phớt lờ liên lạc của chúng ta!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$レイアム$$\n「Có thể chắc chắn rằng chúng không có ý định ngừng bắn.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_f02c37d91387d0ad": {
+      "text": "$$オットー$$\n「Không còn cách nào khác!\n　Bắn trả!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$アムロ$$\n「Toàn đội, nhắm vào chiếc máy đang ở phía sau!\n　Đó là máy của chỉ huy!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_9796b3efa401a303": {
+      "text": "$$アンナロッタ$$\n「Định xông tới sao, lũ người Trái Đất...」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_643b6eebfc0186b3": {
+      "text": "$$アンナロッタ$$\n「Lũ ngu dốt nơi biên viễn.\n　Ta sẽ cho các ngươi thấy sức mạnh của G...!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_291280e5f7eb9d70": {
+      "text": "$$アンナロッタ$$\n「Các ngươi làm được hơn ta tưởng...\n　Có lẽ ta nên thừa nhận các ngươi là trở ngại cho kế hoạch.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_32eb462c1b4999cb": {
+      "text": "$$アンナロッタ$$\n「Các ngươi làm được hơn ta tưởng...!\n　Nhưng!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_1f4337d6d393fc37": {
+      "text": "$$アンナロッタ$$\n「Tạm thời, ta có thể thừa nhận\n　các ngươi là trở ngại cho kế hoạch.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_4740e748fae085ee": {
+      "text": "$$カレン$$\n「Nói gì chẳng hiểu cả...!\n　Rốt cuộc các ngươi là ai!?」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_b76524cd840e1d37": {
+      "text": "$$スズネ$$\n「$n...!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_730ffe18400abfc2": {
+      "text": "$n\n「Không chịu trả lời thì ta sẽ dùng vũ lực moi ra!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_ffe0fca26da5cd38": {
+      "text": "$$宗介$$\n「Đừng liều lĩnh, $n!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_bfb27f9eb2f7073e": {
+      "text": "$n\n「Uô ô ô!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_859dfa27bcaafe30": {
+      "text": "$$カレン$$\n「Cái cậu này!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_71ebf05996a4b0fd": {
+      "text": "$$スズネ$$\n「$$カレン$$!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_6214c11b1bca811e": {
+      "text": "$n\n「Cậu... đã che chắn cho tôi...」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_8eaf6f3098ffed12": {
+      "text": "$$カレン$$\n「Đừng hiểu lầm...\n　Tôi chỉ không muốn để cậu\n　tiếp tục liều mạng như thế nữa...!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_cf507214fe955d75": {
+      "text": "$$カレン$$\n「Kẻ ngoảnh mặt trốn tránh nỗi sợ trong lòng mình\n　thì đừng ra chiến trường!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_2113dcbabdfc758a": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$アンナロッタ$$\n「Ta không muốn nghe chuyện riêng của các ngươi!\n　Nhưng đã đuổi theo ta thì hãy chuẩn bị tinh thần đi!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_6a74519e1fc29c4b": {
+      "text": "$$スズネ$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_5b992878fee054b5": {
+      "text": "$n\n「Khốn thật!!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_95a3dd16c2c4cc3e": {
+      "text": "$n\n「Sao ta có thể chết ở nơi thế này được!!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_4a14ec0c511c7f0d": {
+      "text": "$$アンナロッタ$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_20cf167c0ec0d4d5": {
+      "text": "$n\n「Á á á á á!!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_b591d812c96c6c99": {
+      "text": "$$アンナロッタ$$\n「Khốn... chiếc máy đó...!\n　Thế này là sao!?」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_e350fa099c1ab072": {
+      "text": "$$バナージ$$\n「Con robot đó... đã biến hình...」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$葵$$\n「Không ngờ $$ジェニオン$$ lại có chức năng như thế...」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_c33bd700553abf91": {
+      "text": "$$甲児$$\n「Tuyệt quá, $n!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_feee5c91826230e1": {
+      "text": "$n\n「...Tôi...」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_bccc48e1964ad22d": {
+      "text": "$$宗介$$\n「$n!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_f8736aaaa216c766": {
+      "text": "$$マオ$$\n「Nguy rồi!\n　Cậu ấy bất tỉnh rồi!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_d1ec2522c87c361d": {
+      "text": "$$スズネ$$\n「$n...!\n　Tỉnh lại đi, $n!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_3599f0a4343fd95c": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_3bc7834a5bf3ee76": {
+      "text": "$$ガドライト$$\n「Càng lúc càng ngứa mắt cái máy màu xanh đó...」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_366814efdc8b5800": {
+      "text": "$$ガドライト$$\n「Không chỉ làm $$アンナロッタ$$ bị thương,\n　mà còn lôi cả thứ như thế ra nữa...」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_9be1a4c10bb62515": {
+      "text": "$$ガドライト$$\n「Mà thôi...\n　Ta còn có việc lớn phải làm...\n　Tạm thời cứ bỏ qua cho chúng vậy.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_94a88c90e557e16e": {
+      "text": "???\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_1c208ca0cbf26f28": {
+      "text": "Binh sĩ\n「Đội trưởng...」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_5b7ee307a700171a": {
+      "text": "Binh sĩ\n「Quả nhiên, tôi cho rằng họ là những người thích hợp...」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_8d8f065c932da30a": {
+      "text": "???\n「Thật đáng mừng.\n　Vậy hãy tìm cơ hội để chủ động tiếp xúc với họ.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_f5432119677514f7": {
+      "text": "$$アムロ$$\n「Tình hình ngoài vũ trụ đã bất ổn,\n　vậy mà lại có thêm những kẻ thế này xuất hiện...!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_4e5c8e989c4a7691": {
+      "text": "$$アムロ$$\n「Cậu đang ở đâu, $$シャア$$...!\n　Nhân loại không còn dư sức\n　để Trái Đất và các thuộc địa đánh nhau nữa đâu!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_adec86483b13599a": {
+      "text": "$$シン$$\n「Không biết các ngươi là ai,\n　nhưng muốn gây chiến thì ta sẽ làm đối thủ của các ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_2cf701bbcde3ec13": {
+      "text": "$$シン$$\n「Ta nhất định sẽ bảo vệ!\n　Trái Đất, $$プラント$$ và tất cả mọi người!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_c17c58fdba72005e": {
+      "text": "$$ヒイロ$$\n（$$リリーナ$$...）",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_1fe8564d2b959317": {
+      "text": "$$ヒイロ$$\n（Tôi sẽ chiến đấu vì hòa bình theo cách của mình...!）",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_f527e012803f7f1c": {
+      "text": "$$ゼクス$$\n「Ngay cả một kẻ như tôi cũng có thể làm gì đó cho thế giới...!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_4b1247bd3ca4905d": {
+      "text": "$$ゼクス$$\n「$$リリーナ$$...!\n　Anh nhất định sẽ bảo vệ nền hòa bình mà các em đã xây dựng!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_00c55e25f87b71d0": {
+      "text": "$$ゼクス$$\n「Vì vậy, $$トレーズ$$...!\n　Có lẽ còn lâu nữa tôi mới đến chỗ cậu được!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_338f3b27e51dcc41": {
+      "text": "$$バナージ$$\n「Ở trong đơn vị này,\n　mình sẽ phải chiến đấu với cả những kẻ như thế sao...!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_d91d4bc2d52b61c4": {
+      "text": "$$バナージ$$\n「Nhưng...!\n　$$オードリー$$ cũng đã hành động để ngăn chiến tranh!\n　Vậy thì mình cũng phải làm được!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_0c8ea89b07432421": {
+      "text": "$$赤木$$\n「$$界震$$ đã ít xảy ra hơn,\n　nhưng $$ダイ・ガード$$ đã được tăng cường sức mạnh!\n　Tôi sẽ tận dụng hết sức mạnh đó!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_4dbfba00ba7744ee": {
+      "text": "$$いぶき$$\n「Cậu hăng hái thật đấy, $$赤木$$.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_be100a32b731708d": {
+      "text": "$$青山$$\n「Có vẻ cậu ấy rất vui\n　vì được chiến đấu cho hòa bình nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_702f82442fcec8a9": {
+      "text": "$$赤木$$\n「Đừng hiểu lầm, $$青山$$.\n　Tôi vẫn nghĩ tốt nhất là $$ダイ・ガード$$\n　không còn phải xuất động nữa.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_b1e38da4e8775ffe": {
+      "text": "$$赤木$$\n「Nhưng nếu cần đến sức mạnh của $$ダイ・ガード$$,\n　tôi sẽ cố hết sức mình!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$いぶき$$\n「Tôi biết mà, $$赤木$$.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$青山$$\n「Vậy hô khẩu hiệu quen thuộc đi nào.」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_3dad695c99e9e052": {
+      "text": "$$赤木$$\n「Lên nào!\n　Nhân viên công ty cũng có thể bảo vệ hòa bình!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_66d4ae3a21caf881": {
+      "text": "$$タケル$$\n「Mối đe dọa từ Ma Vương đang đến gần,\n　giờ lại có kẻ địch mới xuất hiện sao...!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_0c18da7b3a37825d": {
+      "text": "$$タケル$$\n「Nhưng chúng ta sẽ không thua!\n　Chừng nào lời thề vì hòa bình còn trong tim,\n　ta sẽ không lùi bước trước bất cứ kẻ địch nào!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_63249745ffae61b6": {
+      "text": "$$シンジ$$\n（Không chỉ mình đang chiến đấu...）",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_abdb034ae8509702": {
+      "text": "$$シンジ$$\n（Còn có anh $$赤木$$, anh $$甲児$$ và cả Ayanami nữa...）",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_3ff2e21207d1d1d3": {
+      "text": "$$シンジ$$\n（Thầy $$扇$$... thầy không cần lo đâu ạ.\n　Em sẽ làm những gì mình có thể.）",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_e51ecf6d6aa42e75": {
+      "text": "$$カレン$$\n「Mình đã định yên ổn làm học sinh,\n　nhưng có vẻ tình hình không cho phép nữa rồi!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_47ddabb7b60131c2": {
+      "text": "$$カレン$$\n「Được thôi...!\n　Mình cũng sẽ hạ quyết tâm!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_b025267f22788233": {
+      "text": "$$カレン$$\n「Đây là nền hòa bình mà bao người hằng mong ước...!\n　Mình cũng sẽ chiến đấu để bảo vệ nó!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_ec1a06a7023bf72c": {
+      "text": "$n\n「Ở đâu...?\n　Kẻ đó đang ở đâu...!?」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_8805f96e52aaa462": {
+      "text": "$$スズネ$$\n「Bình tĩnh lại, $n...!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_124591cb154fae64": {
+      "text": "$n\n「...Em xin lỗi, cô $$スズネ$$...\n　Nhưng có lẽ em... đã chiến đấu suốt thời gian qua\n　chính là để chờ đến ngày hôm nay!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$アンナロッタ$$\n「Sự tồn tại của chiếc máy đó thật chướng mắt...!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_4bf9b05b5f948170": {
+      "text": "$n\n「Kẻ này...!\n　Ngươi biết $$ジェニオン$$ sao!?」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_eaa52d152f444bfd": {
+      "text": "$$アンナロッタ$$\n「Ta không quan tâm đến cái tên...!\n　Nhưng nắm giữ sức mạnh vượt quá khả năng của mình,\n　các ngươi đã tự chuốc lấy diệt vong!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_b4bc9e9435b58e6f": {
+      "text": "$$アンナロッタ$$\n「Trước khi các ngươi nếm trải tuyệt vọng thật sự,\n　chính ta sẽ tiễn các ngươi lên đường!」",
+      "status": "reviewed"
+    },
+    "stage0025_04:r_a9227573166977a9": {
+      "text": "$n\n「Á!」",
+      "status": "reviewed"
+    }
+  }
+}

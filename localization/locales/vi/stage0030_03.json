@@ -1,0 +1,1154 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0030_03:r_caaab7bad760e16d": {
+      "text": "Khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_99b162aa6aa286a2": {
+      "text": "Khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_58fb02434a1c40b2": {
+      "text": "Khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_1c0f94acd5a8a143": {
+      "text": "　\n　\n　　～ Căn cứ đội Crusher, khoang chứa máy ～",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_1263541f4071624e": {
+      "text": "$$ブラックオックス#pilot$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_3bc300bbdc277d82": {
+      "text": "$$正太郎$$\n「Cậu sao thế, $$オックス$$?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_38762a09460d8b6b": {
+      "text": "$$ブラックオックス#pilot$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_7ab28e70b4d4f641": {
+      "text": "$$正太郎$$\n「Sắp lên vũ trụ rồi mà,\n　cậu còn không vừa ý chuyện gì nữa?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_b05f6a6e8f3d9b24": {
+      "text": "$$ブラックオックス#pilot$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_ec335e69f984b8b3": {
+      "text": "$$スズネ$$\n「$$正太郎$$... cứ để cô lo.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_0abcaf0c31978670": {
+      "text": "$$正太郎$$\n「Cô $$スズネ$$...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_1d6bc48b7f246730": {
+      "text": "$$スズネ$$\n「Dù sao cô cũng đang học nghề giáo mà.\n　Cô nhất định sẽ khiến $$ブラックオックス#robot$$ mở lòng.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_1af20fccc3c53cfc": {
+      "text": "$$ブラックオックス#pilot$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_f951916061232dcd": {
+      "text": "$$スズネ$$\n「Này, $$オックス$$... em nghe cô nói được không?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_4d863c3fb88a4c39": {
+      "text": "$$ブラックオックス#pilot$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_44f4742c3dcce39a": {
+      "text": "$$スズネ$$\n「Em sao thế?\n　Em thấy không khỏe ở đâu à?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_9e701cdeb3842c21": {
+      "text": "$$ブラックオックス#pilot$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_6fd81f4abebe60c5": {
+      "text": "$$スズネ$$\n「$$オックス$$... em không muốn nghe cô nói sao?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_da2132b5038ec737": {
+      "text": "$$ブラックオックス#pilot$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_495d61d3ec7e16f2": {
+      "text": "$$スズネ$$\n「$$オックス$$...!\n　Sức chịu đựng của cô cũng có giới hạn đấy!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_5cd353758cfe474d": {
+      "text": "$$正太郎$$\n「C-cô $$スズネ$$...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_a653c8dec4c0f06f": {
+      "text": "$$郁絵$$\n「$$正太郎$$ và cô $$スズネ$$ đang làm gì vậy?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_86d493e37a9799a7": {
+      "text": "$$ワッ太$$\n「Không hiểu vì sao, nhưng $$オックス$$\n　đang giận dỗi đến 'vẹo cả rốn'.\n　Bọn em đang tìm hiểu lý do.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_09d0fcc600cdd3df": {
+      "text": "$$モーム$$\n「Rốn!?\n　$$ブラックオックス#robot$$ là robot\n　mà cũng có rốn sao!?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_182faded068c15ed": {
+      "text": "$$厚井$$\n「Không phải đâu, $$モーム$$.\n　'Vẹo rốn' chỉ là cách nói\n　ai đó đang khó ở thôi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_9c206d19bfda4bd5": {
+      "text": "$$桂$$\n「Ồ... robot mà cũng biết buồn vui cơ à.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_6e558bc69acf5bf3": {
+      "text": "$$モーム$$\n「Tất nhiên rồi, ngài $$桂$$!\n　$$ブラックオックス#robot$$ tuy không nói được,\n　nhưng vẫn có tâm hồn đàng hoàng đấy!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_d60d0818e965232f": {
+      "text": "$$モーム$$\n「Chắc chính thái độ vô tâm như thế\n　đã khiến $$オックス$$ tổn thương đấy!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_5b23687574286204": {
+      "text": "$$桂$$\n「Xin lỗi, xin lỗi.\n　Là lỗi của tôi, $$モーム$$.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_6fd86c96891ea942": {
+      "text": "$$厚井$$\n「Nhưng $c\n　sắp phải lên vũ trụ rồi\n　mà lại thế này thì thật khó xử.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_43e4e548c0b28376": {
+      "text": "$$郁絵$$\n「Vụ nổ bí ẩn ở trạm quan trắc tầm siêu xa...\n　Điều tra vụ đó sẽ là nhiệm vụ xuất kích\n　đầu tiên của $c nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_d80a9688790ed583": {
+      "text": "$$木下$$\n「Trạm đó dùng để quan sát vùng vũ trụ xa xôi...\n　Công ty Takeo General cũng góp sức xây dựng,\n　vậy mà đã bị phá hủy rồi...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_708bea61e3c43ada": {
+      "text": "$$ワッ太$$\n「Đúng là đáng ngờ thật,\n　nên mới đến lượt chúng ta xuất quân điều tra nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_7b6f159eeaf4de0f": {
+      "text": "$$桂$$\n「Nghĩa là có khả năng\n　trạm đó đã bị kẻ nào tấn công...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_0827963cfd706e8d": {
+      "text": "$$厚井$$\n「Nhưng cứ thế kia thì\n　chỉ còn cách để $$オックス$$ lại Trái Đất thôi...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_ff6f8bdca2dd2bc9": {
+      "text": "$$柿小路$$\n「Thế nào, cô $$モーム$$?\n　Cùng là robot, cô có thể hỏi giúp\n　xem $$オックス$$ gặp chuyện gì không?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_3f4035fd9db81258": {
+      "text": "$$モーム$$\n「Nếu vậy thì hình như\n　có một cô bé phù hợp hơn tôi vừa tới rồi đấy.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_567b361a454c4b73": {
+      "text": "$$ローレライ$$\n「...Không được như thế, $$オックス$$.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_d22851aaafbbf8fc": {
+      "text": "$$ブラックオックス#pilot$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_352534f64413d954": {
+      "text": "$$スズネ$$\n「Em là...?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_79f2664edb1af798": {
+      "text": "$$ローレライ$$\n「Em tên là $$ローレライ・ハインリッヒ$$.\n　Em cũng là robot như $$オックス$$ ạ.」",
+      "status": "needs_review"
+    },
+    "stage0030_03:r_a62c4e7f3c09f7ed": {
+      "text": "$$スズネ$$\n「Ơ...!?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_1c5aa0d15ae24846": {
+      "text": "$$つばさ$$\n「Có điều, cơ thể thật của con bé\n　đã được phong ấn theo nguyện vọng của chính nó.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_53bb64ee17750ee2": {
+      "text": "$$つばさ$$\n「Rất hân hạnh, cô $$スズネ$$.\n　Tôi là $$錦織つばさ$$, mẹ của $$甲児$$.\n　Đứa con trai vụng dại này đã làm phiền cô nhiều rồi.」",
+      "status": "needs_review"
+    },
+    "stage0030_03:r_7a7add80fde475ba": {
+      "text": "$$スズネ$$\n「Ôi... chị là mẹ của em $$甲児$$ sao?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_b2befefdbed1393d": {
+      "text": "$$つばさ$$\n「Tôi mở nhà trọ suối nước nóng $$くろがね屋$$ ở Atami.\n　Hôm nay tôi đến đây cùng $$ローレライ$$.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_2103f6df2ea2e447": {
+      "text": "$$ローレライ$$\n「Em cũng được nhận vào làm ở đó ạ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_a12e3e130d896ff7": {
+      "text": "$$正太郎$$\n「$$ローレライ$$ đóng vai chị gái của $$ブラックオックス#robot$$.\n　Vì vậy, em tin cậu ấy nhất định\n　sẽ khiến cậu ta mở lòng.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_b6f7b219eb4bd64b": {
+      "text": "$$ローレライ$$\n「$$オックス$$...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_91bf33c27ad39f0a": {
+      "text": "$$ブラックオックス#pilot$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_ee220318b96ab538": {
+      "text": "$$ローレライ$$\n「Em phải nghe lời $$正太郎$$ và mọi người chứ.\n　Từ bao giờ em lại trở thành\n　một đứa trẻ không biết nghe lời như thế?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_ce1b55e526b6277a": {
+      "text": "$$ブラックオックス#pilot$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_c304df6888eb78f7": {
+      "text": "$$ローレライ$$\n「$$オックス$$!\n　Thái độ đó là sao hả!?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_c26958634526e597": {
+      "text": "$$正太郎$$\n「Đến cả $$ローレライ$$ cũng không được sao...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_cdb750c9d380881a": {
+      "text": "$$ローレライ$$\n「Chờ đã, $$正太郎$$.\n　Tôi sẽ thử thuyết phục $$オックス$$ một lần nữa.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_95fda74613c97b39": {
+      "text": "$$つばさ$$\n「Thôi đi, $$ローレライ$$.\n　Có cố bao nhiêu cũng vô ích thôi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_1956994937f8171e": {
+      "text": "$$ローレライ$$\n「Nhưng bác ơi...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_48f49f6728c15612": {
+      "text": "$$つばさ$$\n「$$ブラックオックス#robot$$ có trí tuệ ngang đứa trẻ ba tuổi.\n　Đây là cái gọi là giai đoạn bướng bỉnh đấy.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_0ebc5a6f1e0f81bf": {
+      "text": "$$正太郎$$\n「Giai đoạn bướng bỉnh...!?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_f02c37d91387d0ad": {
+      "text": "$$つばさ$$\n「Đứa trẻ nào cũng phải trải qua thôi.\n　Người lớn nói gì cũng chỉ biết\n　lắc đầu bảo không chịu.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_6bbd5a3c5afb87e0": {
+      "text": "$$つばさ$$\n「Nhất là $$オックス$$ lại là con trai.\n　Có nói bao nhiêu cũng vô ích thôi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_9796b3efa401a303": {
+      "text": "$$甲児$$\n「Ồ... $$オックス$$ đang ở giai đoạn bướng bỉnh à...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_643b6eebfc0186b3": {
+      "text": "$$タケル$$\n「Đó là dấu hiệu cho thấy cậu ấy lớn lên khỏe mạnh.\n　Chỉ tội $$正太郎$$ phải chăm sóc thôi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_291280e5f7eb9d70": {
+      "text": "$$静子$$\n「Đúng vậy.\n　Giai đoạn bướng bỉnh của $$タケル$$\n　cũng kéo dài lắm đấy.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_32eb462c1b4999cb": {
+      "text": "$$タケル$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_1f4337d6d393fc37": {
+      "text": "$$ナミダ$$\n「Thì ra anh $$タケル$$\n　cũng từng có giai đoạn như thế nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_4740e748fae085ee": {
+      "text": "$$静子$$\n「Đúng rồi, $$ナミダ$$.\n　Hơn nữa, mãi mà $$タケル$$\n　vẫn chưa bỏ được tã đấy.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_b76524cd840e1d37": {
+      "text": "$$ロゼ$$\n「Bác kể kỹ hơn cho cháu nghe đi ạ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_730ffe18400abfc2": {
+      "text": "$$タケル$$\n「R-$$ロゼ$$...!\n　Thôi đi mà!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_ffe0fca26da5cd38": {
+      "text": "$$甲児$$\n「Hiếm khi thấy cậu luống cuống đến thế đấy, $$タケル$$.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_bfb27f9eb2f7073e": {
+      "text": "$$タケル$$\n「Bị lôi chuyện hồi bé ra kể\n　thì còn biết làm gì nữa.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_859dfa27bcaafe30": {
+      "text": "$$つばさ$$\n「Chỉ để mình $$タケル$$ xấu hổ thì tội quá nhỉ.\n　Vậy tiếp theo, kể chuyện hồi bé của $$甲児$$ nhé.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_71ebf05996a4b0fd": {
+      "text": "$$さやか$$\n「Vâng, bác kể đi ạ!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_6214c11b1bca811e": {
+      "text": "$$甲児$$\n「K-khoan đã, mẹ ơi!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_8eaf6f3098ffed12": {
+      "text": "$$スズネ$$\n「Dù là những chiến binh dày dạn trận mạc,\n　$$甲児$$ và $$タケル$$ vẫn chỉ là những đứa trẻ\n　trước mặt mẹ mình nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_cf507214fe955d75": {
+      "text": "$n\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_2113dcbabdfc758a": {
+      "text": "$$スズネ$$\n「Em sao thế, $n...?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_4b0e43ba6a5f2f5b": {
+      "text": "$n\n「Không có gì ạ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_6a74519e1fc29c4b": {
+      "text": "$$スズネ$$\n（Mình đã nghe chuyện về bố và chị gái của em ấy...\n　Giờ mới nhớ, mẹ của $n\n　cũng đã qua đời rồi...）",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_5b992878fee054b5": {
+      "text": "$$ケンジ$$\n「Sắp đến giờ khởi hành rồi.\n　Tất cả lên $$ドラゴンズハイヴ$$ đi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_95a3dd16c2c4cc3e": {
+      "text": "$$正太郎$$\n「Anh $$ケンジ$$, còn $$オックス$$ thì sao ạ?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_4a14ec0c511c7f0d": {
+      "text": "$$ケンジ$$\n「Nếu bản thân cậu ấy không muốn\n　thì chỉ còn cách để cậu ấy ở lại thôi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_20cf167c0ec0d4d5": {
+      "text": "$$静子$$\n「Vậy nhé, $$タケル$$... con nhớ cẩn thận đấy.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_b591d812c96c6c99": {
+      "text": "$$タケル$$\n「Con đi đây, mẹ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_e350fa099c1ab072": {
+      "text": "$$つばさ$$\n「Cả con nữa, $$甲児$$, cố gắng lên đấy.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_fb05d8e5f1ee93e5": {
+      "text": "$$甲児$$\n「Mẹ cũng phải cẩn thận với $$あしゅら$$ đấy nhé.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_c33bd700553abf91": {
+      "text": "$$ローレライ$$\n「Chào nhé, $$オックス$$.\n　Chị... mặc kệ em đấy.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_feee5c91826230e1": {
+      "text": "$$ブラックオックス#pilot$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_bccc48e1964ad22d": {
+      "text": "???\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_f8736aaaa216c766": {
+      "text": "$$ブラックオックス#pilot$$\n「?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_d1ec2522c87c361d": {
+      "text": "???\n「À...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_3599f0a4343fd95c": {
+      "text": "$$ブラックオックス#pilot$$\n「!?!?!?!?!?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_3bc7834a5bf3ee76": {
+      "text": "$$ドラゴンズハイヴ$$, phòng khách",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_366814efdc8b5800": {
+      "text": "$$ドラゴンズハイヴ$$, phòng khách",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_9be1a4c10bb62515": {
+      "text": "$$ドラゴンズハイヴ$$, phòng khách",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_94a88c90e557e16e": {
+      "text": "　\n　\n　　～ $$ドラゴンズハイヴ$$, phòng khách ～",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_1c208ca0cbf26f28": {
+      "text": "$$エイーダ$$\n「...Cuối cùng, ngay trước lúc khởi hành,\n　$$オックス$$ lại vội vã lên tàu nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_5b7ee307a700171a": {
+      "text": "$$カイエン$$\n「Dù sao cũng chỉ là trẻ con.\n　Người chăm sóc là $$正太郎$$ đi mất,\n　chắc nó thấy bất an thôi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_8d8f065c932da30a": {
+      "text": "$$アンディ$$\n「Có khi nó thấy bất an\n　không chỉ vì $$正太郎$$ đi mất đâu.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_f5432119677514f7": {
+      "text": "$$朔哉$$\n「Ý cậu là sao?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_4e5c8e989c4a7691": {
+      "text": "$$アンディ$$\n「Cái khoang chứa máy đó...\n　tắt đèn đi là tối đen như mực đấy.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_adec86483b13599a": {
+      "text": "$$くらら$$\n「Ý cậu là $$オックス$$ sợ bóng tối sao?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_2cf701bbcde3ec13": {
+      "text": "$$ジョニー$$\n「Bò đen giữa đêm đen...\n　Chẳng phải gần như là cách nói\n　về bóng tối mịt mùng sao?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_c17c58fdba72005e": {
+      "text": "$$カイエン$$\n「Vớ vẩn.\n　Robot mà lại sợ bóng tối được sao.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_1fe8564d2b959317": {
+      "text": "$$アンディ$$\n「Đừng vội kết luận như thế.\n　Thứ đáng sợ không phải bóng tối...\n　mà là thứ ẩn nấp trong đó.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_f527e012803f7f1c": {
+      "text": "$$葵$$\n「Gì thế...? Chuyện ma à?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_4b1247bd3ca4905d": {
+      "text": "$$朔哉$$\n「Muốn nghe chuyện huyền bí\n　thì để tôi gọi $n tới.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_00c55e25f87b71d0": {
+      "text": "$$アンディ$$\n「Không cần đâu.\n　...Nhân dịp này, tôi sẽ kể cho mọi người\n　chuyện ma lưu truyền ở $$聖天使学園$$.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_338f3b27e51dcc41": {
+      "text": "$$ＭＩＸ$$\n「Chuyện gì thế?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_d91d4bc2d52b61c4": {
+      "text": "$$アンディ$$\n「Lời đồn ở Neo-DEAVA\n　về một Element đã biến mất.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_0c8ea89b07432421": {
+      "text": "$$アマタ$$\n「Một Element đã biến mất...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_4dbfba00ba7744ee": {
+      "text": "$$アンディ$$\n「Chuyện xảy ra vài năm trước...\n　Có một cô bé chuyển đến $$聖天使学園$$.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_be100a32b731708d": {
+      "text": "$$アンディ$$\n「Nhưng vì quá nhút nhát,\n　cô bé chẳng kết bạn được với ai.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_702f82442fcec8a9": {
+      "text": "$$アンディ$$\n「Không chịu nổi nỗi cô đơn, một ngày nọ,\n　cô bé bỗng biến mất khỏi trường\n　mà không để lại dấu vết...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_b1e38da4e8775ffe": {
+      "text": "$$エイーダ$$\n「Chẳng lẽ...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ミコノ$$\n「Vì chán ghét cuộc đời nên...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_2acc8ade0cc6dfa2": {
+      "text": "$$アンディ$$\n「Người bạn duy nhất của cô bé là một con thú bông...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_3dad695c99e9e052": {
+      "text": "$$アンディ$$\n「Từ đó, đêm nào cũng có người thấy\n　một con thú bông lang thang trong trường,\n　như muốn truyền lại nỗi uất hận của cô bé...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_66d4ae3a21caf881": {
+      "text": "$$アンディ$$\n「Nghe nói con thú bông ấy lúc nào cũng hát\n　bằng giọng ca tuyệt đẹp mà buồn bã.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_0c18da7b3a37825d": {
+      "text": "$$アンディ$$\n「Một bài ca thù hận!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_63249745ffae61b6": {
+      "text": "$$ゼシカ$$\n「Á á á á á á!!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_abdb034ae8509702": {
+      "text": "$$アマタ$$\n「K-khoan đã, $$ゼシカ$$!\n　Cậu cứ áp sát như thế thì...!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_3ff2e21207d1d1d3": {
+      "text": "$$アマタ$$\n「Oá á á á á!!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_e51ecf6d6aa42e75": {
+      "text": "$$ミコノ$$\n「Rời $$アマタ$$ ra đi, $$ゼシカ$$!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_47ddabb7b60131c2": {
+      "text": "$$ゼシカ$$\n「Xin lỗi, xin lỗi!\n　Giọng của $$アンディ$$ làm mình giật mình thôi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_b025267f22788233": {
+      "text": "$$ゼシカ$$\n「Nói trước nhé,\n　mình tuyệt đối không sợ ma đâu đấy.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_ec1a06a7023bf72c": {
+      "text": "$$アマタ$$\n「D-dù sao thì!\n　Đừng ôm mình nữa!!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_8805f96e52aaa462": {
+      "text": "$$朔哉$$\n「Chà chà... $$アマタ$$,\n　mỗi mình cậu được tận hưởng không trọng lực nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_124591cb154fae64": {
+      "text": "$$ジョニー$$\n「Cứ như bài hát nổi tiếng của $$リン・ミンメイ$$ nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_7bdb6fecc8b3bde8": {
+      "text": "$$エイーダ$$\n「'0-G Love'!\n　Đúng là bài hát dành cho em và anh $$ジョニー$$\n　đang ở ngoài vũ trụ này nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_4bf9b05b5f948170": {
+      "text": "$$朔哉$$\n「Thôi, thích làm gì thì làm...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_eaa52d152f444bfd": {
+      "text": "$$ＭＩＸ$$\n「Thôi mấy chuyện nhảm nhí đó đi, $$アンディ$$.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_b4bc9e9435b58e6f": {
+      "text": "$$カイエン$$\n「Sắp tới vị trí trạm từng tọa lạc rồi.\n　Chuẩn bị xuất kích thôi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_a9227573166977a9": {
+      "text": "$$くらら$$\n「$$オックス$$ đang ở giai đoạn bướng bỉnh\n　có chịu xuất kích không nhỉ?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_b0600ab9a9e8559d": {
+      "text": "$$葵$$\n「Chẳng biết nữa...\n　Nhưng tôi không nghĩ đội trưởng $$ケンジ$$\n　của đội Crusher sẽ cho phép cậu ta tùy tiện đâu.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_7cbc63dad295f862": {
+      "text": "$$アンディ$$\n「Được rồi!\n　Chúng ta sẽ cố gắng cả phần của $$オックス$$ nữa!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_07f53c816e0a51f5": {
+      "text": "$$ＭＩＸ$$\n「Mà này, $$アンディ$$... con thú bông đó là sao?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_2d09c6f6a2d990ea": {
+      "text": "$$アンディ$$\n「Thú bông?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_3c5fcfc484a51913": {
+      "text": "???\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_0476ffd10c764b0e": {
+      "text": "$$アンディ$$\n「Oái! Nó ở đây từ bao giờ!?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_48c6c1ecfea6fe4a": {
+      "text": "$$くらら$$\n「Đồ của ai thế?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_2b3479c4cf0680f4": {
+      "text": "$$ミコノ$$\n「Em cũng không biết của ai nữa...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_e370696b8936b08c": {
+      "text": "$$アンディ$$\n「Ch-chẳng lẽ đây là...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_9d7b02c5e728b7aa": {
+      "text": "$$アマタ$$\n「C-con thú bông của cô học sinh chuyển trường\n　đã biến mất trong lời đồn...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_9af213fc64e0afec": {
+      "text": "$$ゼシカ$$\n「Á á á á á á!!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_d7f1c506e78e55ff": {
+      "text": "$$ミコノ$$\n「K-khoan đã! $$ゼシカ$$!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_0c705091f748360e": {
+      "text": "$$葵$$\n「D-dù sao thì! Xuất kích thôi!!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_9eb8599304125b2f": {
+      "text": "???\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_a072aa25e5f521e0": {
+      "text": "$$宇宙魔王#pilot$$",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_24e1a808a1609a1a": {
+      "text": "$$宇宙魔王#pilot$$",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_53128ce8f154fd06": {
+      "text": "$$宇宙魔王#pilot$$",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_03b5db9ce98fb8d6": {
+      "text": "$$タケル$$\n「Hắn là cái gì vậy!?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_3915fb4102f1c1dd": {
+      "text": "$$甲児$$\n「To quá...!\n　To khủng khiếp luôn!!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_817b2773b4ed563e": {
+      "text": "$$ロゼ$$\n「Vô lý!\n　Không thể có hiện tượng như thế này!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_1cc233cbc8c80af7": {
+      "text": "$$ケンジ$$\n「Có chuyện gì, $$ロゼ$$!?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_3ce2f3e58cfdc3ba": {
+      "text": "$$ロゼ$$\n「Phát hiện sóng hấp dẫn\n　từ trung tâm của thực thể khổng lồ đó!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_e180b22d18f48d38": {
+      "text": "$$アルト$$\n「Ý cô là hố đen sao!?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_e598c2a0b27e7f50": {
+      "text": "$$ルカ$$\n「Không thể nào!\n　Nếu hố đen xuất hiện, chúng ta đã bị\n　lực hấp dẫn cực lớn của nó hút vào từ lâu rồi!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_4d2a9066c4e7b27f": {
+      "text": "$$正太郎$$\n「Rốt cuộc đó là cái gì...!?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_10340119af3ed6db": {
+      "text": "$$宇宙魔王#pilot$$\n「Hỡi người Trái Đất...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_23a9c7ab620ab112": {
+      "text": "$$ワッ太$$\n「Hắn nói kìa!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_4f0aca6deda07883": {
+      "text": "$$宇宙魔王#pilot$$\n「Ta là kẻ thống trị vũ trụ...\n　Hiện thân của hố đen, $$宇宙魔王#pilot$$.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_8fe40600ce62dfbc": {
+      "text": "$$正太郎$$\n「Đó chính là...!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_ff4ce5f3cf96b617": {
+      "text": "$$タケル$$\n「$$宇宙魔王#pilot$$...!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_d73c21f119847e35": {
+      "text": "$$宇宙魔王#pilot$$\n「Nghe đây, lũ người Trái Đất.\n　Hãy từ bỏ kháng cự và đầu hàng ngay lập tức.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_89766f5ffaa912d4": {
+      "text": "$$宇宙魔王#pilot$$\n「Bằng không, chính các ngươi sẽ từ bỏ mạng sống.\n　Hãy mau quyết định đầu hàng đi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_c2df6b71e3b4b6ec": {
+      "text": "$$葵$$\n「Tên đó...!\n　Hắn đang nói cái gì vậy!?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_451f726d4299ea35": {
+      "text": "$$アマタ$$\n「Ý hắn là sẽ giết sạch người Trái Đất\n　nếu chúng ta không đầu hàng sao...?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_e3d111e8bb190cb1": {
+      "text": "???\n「Ai thèm nghe lời nói nhảm đó chứ!!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_7c0d3c51f9a11ca0": {
+      "text": "$$ドラゴンズハイヴ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_ab97c2b2418ea732": {
+      "text": "$$ドラゴンズハイヴ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_2ddff5064af78db4": {
+      "text": "$$ドラゴンズハイヴ$$, khoang chứa máy",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_050d0532c4b24bfe": {
+      "text": "　\n　\n　　～ $$ドラゴンズハイヴ$$, khoang chứa máy ～",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_d583fcea31bdad2e": {
+      "text": "$$ブラックオックス#pilot$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_475f7653621a91b5": {
+      "text": "$$正太郎$$\n「$$オックス$$!!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_f228ae702350849b": {
+      "text": "$$ブラックオックス#pilot$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_d69dc027cba3003f": {
+      "text": "$$正太郎$$\n「Đau không, $$オックス$$!\n　Nhưng hôm nay thì tớ phải làm cho ra lẽ!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_3c3735172a480b72": {
+      "text": "$$ワッ太$$\n「Người đau phải là $$正太郎$$ mới đúng...\n　Cậu ấy đang đấm $$オックス$$ bằng tay không mà...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_1f418b5594cea300": {
+      "text": "$$タケル$$\n「Không dùng $$鉄人$$ trong lúc này\n　chính là điểm đáng nể ở $$正太郎$$ đấy.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_f87fb889124bfaef": {
+      "text": "$$ワッ太$$\n「Tại sao ạ?\n　Em nghĩ dùng $$鉄人$$ đánh\n　thì $$オックス$$ sẽ nghe lời hơn chứ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_79c90de32a79212d": {
+      "text": "$$タケル$$\n「$$正太郎$$ không dùng sức mạnh bắt $$オックス$$ phục tùng.\n　Cậu ấy muốn cho thấy mình đang thật sự tức giận.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_33f7fd55913419e8": {
+      "text": "$$ワッ太$$\n「Em hiểu rồi.\n　Nghĩa là cậu ấy đang đối mặt bằng cả tâm hồn nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_473d9a88b4ca96e7": {
+      "text": "$$甲児$$\n「Đúng vậy.\n　Nhờ thế, $$オックス$$ sẽ biết hối lỗi\n　về việc mình đã làm.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_4de6ac85c63bac12": {
+      "text": "$$竜馬$$\n「Vậy rốt cuộc... $$オックス$$ dỗi vì chuyện gì thế?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_4c92652c9b1adf6f": {
+      "text": "$$シモン$$\n「Là đàn ông thì ai cũng thế thôi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_ce90563a934d49fb": {
+      "text": "$$ワッ太$$\n「Nghĩa là sao ạ?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_4fb296e63cb1fb46": {
+      "text": "$$シモン$$\n「$$オックス$$ muốn mọi người công nhận\n　mình đã là một người đàn ông trưởng thành.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_6d77e72dbbcd7dfe": {
+      "text": "$$シモン$$\n「Vậy mà ai cũng coi cậu ta là con nít,\n　nên mới giận dỗi đấy.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_9dc59affd40f32fc": {
+      "text": "$$タケル$$\n「Thì ra vừa bướng bỉnh vừa nổi loạn...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_0cea115be526a319": {
+      "text": "$$甲児$$\n「Chỉ vì chuyện đó mà gây phiền cho mọi người...!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_d36072babd12aeb4": {
+      "text": "$$竜馬$$\n「Tha cho nó đi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_09ee921a85025fd3": {
+      "text": "$$ワッ太$$\n「Nhưng anh $$竜馬$$ à!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_fae689f2a1057b61": {
+      "text": "$$竜馬$$\n「Mấy đứa cũng từng cố tỏ ra mình trưởng thành\n　vì muốn được mọi người công nhận còn gì.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_91c6d0bb53854ecc": {
+      "text": "$$タケル$$\n「Chuyện đó thì...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_42a3149105314ab8": {
+      "text": "$$甲児$$\n「Không thể phủ nhận...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_62ecd978c667bd29": {
+      "text": "$$シモン$$\n「Đúng thế đấy.\n　Giống như $$オックス$$ và $$正太郎$$ bây giờ,\n　tôi cũng từng bị đại ca mắng không ít.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_d441e6cc908ac01b": {
+      "text": "$$シモン$$\n「Nhưng giờ nghĩ lại, tôi mới hiểu...\n　Đại ca đối mặt với tôi bằng tất cả tấm lòng\n　vì anh ấy đã công nhận tôi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_b2aab8873350ea1f": {
+      "text": "$$ヴィラル$$\n「Hừ... đúng là cách làm của hắn.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_2c7af4c55d8ac938": {
+      "text": "$$シモン$$\n「Đàn ông với nhau là thế đấy.\n　Vì vậy, chắc chắn $$オックス$$ cũng sẽ\n　thật lòng tiếp nhận lời của $$正太郎$$.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_653b741d07545dff": {
+      "text": "$$竜馬$$\n「Riêng chuyện này thì $$ローレライ$$\n　hay cô $$スズネ$$ cũng đành bó tay thôi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_d584d4b5af55b1cf": {
+      "text": "$$ブラックオックス#pilot$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_db0ee69ece206fcd": {
+      "text": "$$正太郎$$\n「Cậu hiểu ra là được rồi, $$オックス$$.\n　Xin lỗi vì đã đánh cậu.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_f97e6925c9e37332": {
+      "text": "$$正太郎$$\n「Và xin lỗi vì tớ đã không nhận ra\n　cảm xúc của cậu.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_422861e0b8d77d0c": {
+      "text": "$$ブラックオックス#pilot$$\n「!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_ef16bcaa2b0e0c45": {
+      "text": "$$正太郎$$\n「$$宇宙魔王#pilot$$ cuối cùng đã lộ diện.\n　Từ giờ, chúng ta sẽ phải chiến đấu với hắn.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_2b93cca10f1c36a8": {
+      "text": "$$正太郎$$\n「Tớ trông cậy vào cậu đấy, $$オックス$$.\n　Từ hôm nay, chúng mình lại cùng cố gắng nhé.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_7980fd37141d88d0": {
+      "text": "$$ブラックオックス#pilot$$\n「!!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_ac21212c36d2b9ad": {
+      "text": "$$ワッ太$$\n「Có vẻ mọi chuyện đã êm đẹp rồi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_a26e2108358af7a4": {
+      "text": "$$竜馬$$\n「Nhờ cậu mà thoát nạn đấy, $$シモン$$.\n　Nếu các cậu đến muộn hơn chút nữa,\n　có lẽ $$オックス$$ đã bị hạ rồi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_a8118b2e37aa1382": {
+      "text": "$$正太郎$$\n「Em cũng xin được cảm ơn anh.\n　Cảm ơn anh rất nhiều, anh $$シモン$$.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_017a56991b7b8ca4": {
+      "text": "$$シモン$$\n「Không cần cảm ơn đâu.\n　Từ hôm nay, bọn anh cũng là\n　thành viên của $c mà.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_ad3e1db3419665fb": {
+      "text": "$$葵$$\n「Nhưng hôm nay $$シモン$$ ngầu lắm đấy.\n　Cứ như $$カミナ$$ vậy.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_0149e3a5f2e5ef78": {
+      "text": "$$シモン$$\n「Tôi còn lâu mới sánh được với đại ca.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_3ad10e705167a3fa": {
+      "text": "$$正太郎$$\n「...Em chưa từng gặp anh $$カミナ$$,\n　nên cũng không rõ lắm...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_bdc546b199c80996": {
+      "text": "$$正太郎$$\n「Nhưng anh $$シモン$$ hôm nay\n　rất xứng với cách gọi 'đại ca' đấy ạ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_22c8caf8c08c5119": {
+      "text": "$$シモン$$\n「Cảm ơn em nhé, $$正太郎$$.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_9c13714b3efbc7a8": {
+      "text": "$$葵$$\n「Thế lần này không phải cậu bị trục xuất\n　khỏi $$暗黒大陸$$ nữa đấy chứ?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_96f156e19b53fc09": {
+      "text": "$$シモン$$\n「Đừng nhầm nhé, $$葵$$.\n　Giờ phải gọi là $$新世界大陸$$ rồi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_feb0390bba7fe1fb": {
+      "text": "$$葵$$\n「Xin lỗi, đúng vậy nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_8a78bcec22029401": {
+      "text": "$$ギミー$$\n「Ở $$新世界大陸$$,\n　anh $$ロシウ$$ đang làm thủ lĩnh tạm quyền.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_f42017dfce31dea9": {
+      "text": "$$ダリー$$\n「Anh $$シモン$$ và chúng em đến đây\n　theo lệnh triệu tập của chỉ huy $$レディ・アン$$\n　thuộc tổ chức $$プリベンター$$.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_ef7426919f628d8a": {
+      "text": "$$ヴィラル$$\n「Đúng lúc tôi vừa trở về $$新世界大陸$$.\n　Muốn cho mọi người thấy thành quả chuyến tu luyện,\n　nên tôi đã lên $$グレンラガン$$.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_9e994a4b926d9906": {
+      "text": "$$竜馬$$\n「$$キタン$$ và $$ヨーコ$$ dạo này thế nào?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_ffae76d2a77abf5a": {
+      "text": "$$ギミー$$\n「Anh $$キタン$$ đang phụ giúp anh $$ロシウ$$,\n　có vẻ bận rộn lắm ạ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_3ac462d37e5893ff": {
+      "text": "$$ダリー$$\n「Chị $$ヨーコ$$ vẫn đang làm cô giáo trên đảo ạ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_fd6bdf7910d7d925": {
+      "text": "$$シモン$$\n「Anh không hỏi về nhóm $$隼人$$ và $$渓$$ sao?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_d38be46e6cd7a5e5": {
+      "text": "$$竜馬$$\n「Biết tính bọn họ rồi đấy.\n　Đến lúc cần thì chẳng phải gọi,\n　họ cũng tự tìm tới đây thôi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_3fe2078328753c16": {
+      "text": "$$葵$$\n「Nhưng ngạc nhiên thật đấy...\n　Gunmen của $$ダリー$$ và $$ギミー$$ đã là mẫu mới rồi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_c66844158d1ce600": {
+      "text": "$$ギミー$$\n「Gunmarl của em và $$ダリー$$ được gấp rút phát triển\n　vì chú $$リーロン$$ nói rằng\n　các trận chiến sắp tới sẽ diễn ra ngoài vũ trụ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_d037ecbc1e348dc9": {
+      "text": "$$葵$$\n「Ngoài vũ trụ...? Chẳng lẽ ý là\n　sẽ có chiến tranh với các thuộc địa sao?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_bcd53d14c4785426": {
+      "text": "$$ダリー$$\n「Không ạ...\n　Em nghĩ chú $$リーロン$$ muốn nói đến\n　việc chiến đấu với kẻ địch như $$宇宙魔王#pilot$$.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_9ca55ea7feca954a": {
+      "text": "$$シモン$$\n「Sao cũng được.\n　Dù kẻ nào xuất hiện, chỉ cần là kẻ thù của hòa bình\n　thì chúng ta sẽ đối đầu với chúng.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_554ae12c4c170253": {
+      "text": "$$竜馬$$\n「Chào mừng cậu, $$シモン$$.\n　$c chính là\n　đơn vị như cậu vừa nói đấy.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_fa59c6df081e6ae4": {
+      "text": "$$くらら$$\n「Vừa hay có liên lạc gửi đến cho $$シモン$$...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_ca3edf3b8b52aedf": {
+      "text": "$$シモン$$\n「Cho tôi à?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_aa5d235c78ebe19f": {
+      "text": "$$くらら$$\n「Tôi chuyển đường truyền qua đây nhé.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_0b3b19cddb871f90": {
+      "text": "$$ニア$$\n「Có vẻ anh đã hội quân an toàn với mọi người rồi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_304e98dac43c9333": {
+      "text": "$$シモン$$\n「$$ニア$$ đấy à...!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_b740d817a14afd3a": {
+      "text": "$$ニア$$\n「Nhìn thấy anh, em yên tâm rồi.\n　Anh đột nhiên nói sẽ lên vũ trụ\n　nên em đã rất lo lắng đấy.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_40e4c010d1b35b4c": {
+      "text": "$$シモン$$\n「Không sao đâu.\n　Hôm nay anh còn xử đẹp tay sai\n　của tên ác ôn gọi là $$宇宙魔王#pilot$$ nữa cơ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_c33abf00683a32bc": {
+      "text": "$$ニア$$\n「Cố gắng lên nhé, $$シモン$$.\n　Và nhất định phải trở về với em đấy.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_3036adce91d1f4a8": {
+      "text": "$$ニア$$\n「Em sẽ nấu cơm thật ngon rồi chờ anh về.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_019293cb83599509": {
+      "text": "$$シモン$$\n「$$ニア$$...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_9b949b9281aaeef1": {
+      "text": "$$くらら$$\n「Hai người vẫn tình tứ như mọi khi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_b39a1dd705fe6cbf": {
+      "text": "$$シモン$$\n「Ừ thì...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_c9016e3ab05470b0": {
+      "text": "$$葵$$\n「Thế này thì nhất định phải sống sót trở về đấy nhé.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_a684e6cea428e518": {
+      "text": "$$シモン$$\n「Tất nhiên là tôi định thế rồi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_cf907a4d5de8b5c9": {
+      "text": "$$シモン$$\n（Chờ anh nhé, $$ニア$$.\n　Anh nhất định sẽ sống sót trở về bên em...）",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_a5774604a0f00702": {
+      "text": "$$シモン$$\n（Và khi đó, lần này nhất định anh sẽ...）",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_b4fa30f33e84207f": {
+      "text": "Phòng làm việc tổng tư lệnh",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_9133b7e0b34de48f": {
+      "text": "Phòng làm việc tổng tư lệnh",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_4ae9c4bd77494c4a": {
+      "text": "Phòng làm việc tổng tư lệnh",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_7313331f4077d255": {
+      "text": "　\n　\n　～ $$新世界大陸$$, phòng làm việc thủ lĩnh ～",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_a84ab0c3c1ba44d4": {
+      "text": "$$リーロン$$\n「Nghe nói nhóm $$シモン$$\n　đã hội quân an toàn với $c rồi đấy.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_414e6e90094d1413": {
+      "text": "$$ロシウ$$\n「$$ロージェノム$$ thế nào rồi?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_83a9e41e15444c69": {
+      "text": "$$リーロン$$\n「Vẫn im như thóc thôi.\n　Từ khi $$再世戦争$$ kết thúc,\n　ông ta chẳng nói được mấy lời.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_09227dec2bd6f4d8": {
+      "text": "$$ロシウ$$\n「Vậy lời cuối cùng ông ta nói là đồng ý\n　cử nhóm anh $$シモン$$\n　đến $c sao...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_7b3a37f5039eb1f6": {
+      "text": "$$リーロン$$\n「Chắc chắn ông ta biết điều gì đó\n　nhưng cố tình giữ im lặng đấy.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_cb6d9ee71c24b042": {
+      "text": "$$ロシウ$$\n「Còn chúng ta thì cứ bất an\n　vì những lời ông ta đã nói...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_ddd97a6ef823929a": {
+      "text": "$$リーロン$$\n「Kẻ thù là vũ trụ...\n　Biết đến những thực thể như $$宇宙魔王#pilot$$ kia\n　thì cũng hiểu được câu đó nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_df349052cd9cdd0c": {
+      "text": "$$リーロン$$\n「Vấn đề nằm ở câu còn lại cơ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_a7ce9f908380694c": {
+      "text": "$$ロシウ$$\n「Tận cùng thần thoại...\n　Rốt cuộc nghĩa là gì...?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_de3cc1f733dcb073": {
+      "text": "$$リーロン$$\n「Ai biết được...\n　Chúng ta có phải thần đâu. Chừng nào $$ロージェノム$$\n　chưa chịu mở miệng thì nghĩ cũng vô ích thôi.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_0835ec3fff318aff": {
+      "text": "$$リーロン$$\n「Mà... dù nghĩ thế nào,\n　cũng chẳng có vẻ là chuyện vui vẻ gì...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_c32efc7394910997": {
+      "text": "$$ロシウ$$\n「Dù vậy, chúng ta không thể\n　chấp nhận bị hủy diệt.\n　Bất kể đó là gì, ta cũng phải dốc sức chống lại.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_b01db8213417811e": {
+      "text": "$$リーロン$$\n「Tôi hiểu mà, $$ロシウ$$.\n　Vì thế chúng ta mới để $$シモン$$ lên đường nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_bc0273c6ae91c929": {
+      "text": "$$ロシウ$$\n（Anh $$シモン$$...\n　Anh luôn là niềm hy vọng của chúng tôi...）",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_8deea7c70d7a76e7": {
+      "text": "$$ロシウ$$\n（Vì vậy, tôi tin...\n　rằng anh và $c\n　sẽ vượt qua mọi tai ương...）",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_660c72e627d873c7": {
+      "text": "Phông nền D-Trader",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_5d8b67b5bd8ce190": {
+      "text": "Phông nền D-Trader",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_7cf3c91395139f5c": {
+      "text": "Phông nền D-Trader",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_6ccd85652ef4ccf1": {
+      "text": "　\n　\n　　　～ D-Trader ～",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_fbe7bf7d854012a7": {
+      "text": "$$ＡＧ$$\n「Xin chào, xin chào, ngài $$シモン$$.\n　Chào mừng ngài đến với $c.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_1f438885dbc1359e": {
+      "text": "$$アンディ$$\n「Tôi chờ anh đến mãi rồi đấy!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_2e59226caa35f6e5": {
+      "text": "$$シモン$$\n「Robot bên kia là $$ＡＧ$$,\n　còn cậu đội mũ là $$アンディ$$, đúng không?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_5d7a3adb077ad934": {
+      "text": "$$アンディ$$\n「Em là $$アンディ・Ｗ・ホール$$!\n　Đúng như cái tên, em là người đàn ông\n　đặt cả sinh mệnh vào việc đào hố!」",
+      "status": "needs_review"
+    },
+    "stage0030_03:r_78d3b2a75e38d6f7": {
+      "text": "$$シモン$$\n「Ồ... dám nói đầy tự tin ngay trước mặt tôi cơ à.」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_8d461de418389bf8": {
+      "text": "$$シモン$$\n「Nhưng tôi cũng từng được gọi là $$シモン$$ Thợ Đào đấy!\n　Tôi chấp nhận lời thách đấu của cậu!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_5cb2acefa1e7c7fb": {
+      "text": "$$アンディ$$\n「Đúng ý em luôn!\n　Từ hôm nay, danh hiệu thợ đào số một\n　của $c sẽ thuộc về em!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_59ce7fd9524ec8be": {
+      "text": "$$ＡＧ$$\n「Danh hiệu này có vẻ chẳng mấy ai muốn nhỉ...」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_33f67c683bda9203": {
+      "text": "$$シモン$$\n「Gì cơ...?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_476fb20ab9d18957": {
+      "text": "$$ＡＧ$$\n「Không, không có gì ạ!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_6be0d6139fac197c": {
+      "text": "$$ＡＧ$$\n「Thế này... thi đấu thì được thôi,\n　nhưng các vị định đào hố ở đâu vậy?」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_df899b8031b4ca06": {
+      "text": "$$シモン$$\n「Cuộc đấu của đàn ông chẳng kể thời gian hay địa điểm!\n　Gặp nhau ở đâu thì quyết đấu ở đó!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_c5d048c7db7cac75": {
+      "text": "$$アンディ$$\n「Lên nào!!\n　Bùng cháy lên, sức mạnh đào hố của ta!!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_308e8ac66b1141ef": {
+      "text": "$$ＡＧ$$\n「Á, cô $$ＭＩＸ$$ ơi!!\n　Xin hãy dùng Lấp đầy Không gian giúp với!」",
+      "status": "reviewed"
+    },
+    "stage0030_03:r_64f25294d71a5d55": {
+      "text": "$$ＡＧ$$\n「À... D-Trader vẫn mở cửa, xin quý khách yên tâm.\n　Hôm nay cũng phải hăng hái... buôn bán, buôn bán!」",
+      "status": "reviewed"
+    }
+  }
+}

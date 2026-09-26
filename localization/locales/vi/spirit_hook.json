@@ -1,0 +1,158 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "spirit_hook:r_479b340ccc6c572b": {
+      "text": "Nhân đôi sát thương gây ra và hiệu quả bài hát một lần.\nNếu dùng cùng \"Hồn\", hiệu ứng của \"Hồn\" được ưu tiên.",
+      "status": "translated"
+    },
+    "spirit_hook:r_ca4acbac57a2a35e": {
+      "text": "Nhân sát thương gây ra với 2,2 một lần.\nNếu dùng cùng \"Nhiệt huyết\", hiệu ứng của \"Hồn\" được ưu tiên.",
+      "status": "translated"
+    },
+    "spirit_hook:r_77949221bf58f862": {
+      "text": "Đảm bảo đòn đánh chí mạng một lần.\nKhông có hiệu lực khi dùng cùng \"Nhiệt huyết\" hoặc \"Hồn\".",
+      "status": "translated"
+    },
+    "spirit_hook:r_70b9c4b9f1f37eff": {
+      "text": "Né tránh hoàn toàn đòn tấn công trong một trận giao chiến.",
+      "status": "translated"
+    },
+    "spirit_hook:r_9fcb3754cb1773c7": {
+      "text": "Giảm sát thương nhận vào còn 1/8 trong một trận giao chiến.",
+      "status": "translated"
+    },
+    "spirit_hook:r_3559d2fad32c2435": {
+      "text": "Giảm sát thương nhận vào còn 1/4 trong 1 lượt.",
+      "status": "translated"
+    },
+    "spirit_hook:r_f7570547e9f80a64": {
+      "text": "Tăng tỷ lệ trúng và né tránh cuối cùng thêm 30% trong 1 lượt.",
+      "status": "translated"
+    },
+    "spirit_hook:r_cbab0f4720e1fcf1": {
+      "text": "Đặt tỷ lệ trúng thành 100% trong 1 lượt.",
+      "status": "translated"
+    },
+    "spirit_hook:r_0bbe0b4f5364e732": {
+      "text": "Đặt tỷ lệ trúng của đơn vị đồng minh được chọn\nthành 100% trong 1 lượt.",
+      "status": "translated"
+    },
+    "spirit_hook:r_5dda5198137cb02a": {
+      "text": "Áp dụng đồng thời \"Tất trúng\" và \"Né tránh\".",
+      "status": "translated"
+    },
+    "spirit_hook:r_83ec59afbecdec14": {
+      "text": "Tăng sức di chuyển của đội thêm 3 một lần.\nHiệu lực kéo dài cho đến khi di chuyển.",
+      "status": "translated"
+    },
+    "spirit_hook:r_e20bfd42ad95a3c9": {
+      "text": "Cho đội thêm một lần hành động.\nKhông thể cộng dồn.",
+      "status": "translated"
+    },
+    "spirit_hook:r_0f58a8822381e57f": {
+      "text": "Hồi phục HP của máy đang điều khiển bằng 30% HP tối đa.",
+      "status": "translated"
+    },
+    "spirit_hook:r_6dbcc507fb61b51d": {
+      "text": "Hồi phục toàn bộ HP của máy đang điều khiển.",
+      "status": "translated"
+    },
+    "spirit_hook:r_b42ab697149a7c8a": {
+      "text": "Hồi phục 3000 HP cho một máy đồng minh được chọn.",
+      "status": "translated"
+    },
+    "spirit_hook:r_4de4fcf3b440baf4": {
+      "text": "Hồi phục 2500 HP cho mọi máy trong đội đồng minh được chọn.",
+      "status": "translated"
+    },
+    "spirit_hook:r_0121a166c715cdff": {
+      "text": "Hồi phục 5000 HP cho mọi máy thuộc các đội đồng minh.",
+      "status": "translated"
+    },
+    "spirit_hook:r_30fad37a42bd3ad3": {
+      "text": "Hồi phục toàn bộ đạn và EN cho một máy đồng minh được chọn.\nKhí lực của mục tiêu không bị giảm.",
+      "status": "translated"
+    },
+    "spirit_hook:r_80a0b2a84e05d81a": {
+      "text": "Tăng Khí lực thêm 10.",
+      "status": "translated"
+    },
+    "spirit_hook:r_4a9ac1dff86506d9": {
+      "text": "Tăng Khí lực thêm 30.",
+      "status": "translated"
+    },
+    "spirit_hook:r_bc8538e6af3d2577": {
+      "text": "Tăng Khí lực thêm 5 cho mọi phi công\ntrong đội đồng minh được chọn.",
+      "status": "translated"
+    },
+    "spirit_hook:r_924516c8de2b5342": {
+      "text": "Để lại cho địch 10 HP thay vì kết liễu.\nChỉ có hiệu lực nếu Kỹ lượng của địch thấp hơn người dùng.",
+      "status": "translated"
+    },
+    "spirit_hook:r_da1174533722333f": {
+      "text": "Tăng tầm bắn thêm 2 trong một trận giao chiến,\ntrừ vũ khí bản đồ và vũ khí có tầm bắn 1.",
+      "status": "translated"
+    },
+    "spirit_hook:r_fdeb8162976e72c1": {
+      "text": "Bỏ qua giảm sát thương do chênh lệch kích thước hoặc đánh toàn đội,\nvà vô hiệu hóa năng lực, kỹ năng phòng thủ của đối phương.",
+      "status": "translated"
+    },
+    "spirit_hook:r_0fadb5c26df92b42": {
+      "text": "Cho phép dùng mọi vũ khí trừ vũ khí bản đồ\nsau khi di chuyển, có hiệu lực một lần.",
+      "status": "translated"
+    },
+    "spirit_hook:r_6b15af9a0057cdc8": {
+      "text": "Xem chỉ số của đội địch được chọn.",
+      "status": "translated"
+    },
+    "spirit_hook:r_15b4a90140e8a33a": {
+      "text": "Giảm Khí lực của đội địch được chọn đi 10.",
+      "status": "translated"
+    },
+    "spirit_hook:r_af884a6b11dff121": {
+      "text": "Giảm một nửa tỷ lệ trúng của mọi kẻ địch trong 1 lượt.",
+      "status": "translated"
+    },
+    "spirit_hook:r_ac6fe7838e95647b": {
+      "text": "Áp dụng đồng thời \"Tăng tốc\", \"Tất trúng\", \"Né tránh\", \"Nhiệt huyết\",\n\"Khí thế\", \"Nỗ lực\" và \"May mắn\".",
+      "status": "translated"
+    },
+    "spirit_hook:r_77ca87eacd17ad52": {
+      "text": "Áp dụng đồng thời \"Tăng tốc\", \"Tất trúng\", \"Bất khuất\",\n\"Nhiệt huyết\", \"Khí thế\" và \"Trực kích\".",
+      "status": "translated"
+    },
+    "spirit_hook:r_bf3244994760e535": {
+      "text": "Nhân đôi số tiền nhận được khi hạ kẻ địch tiếp theo.",
+      "status": "translated"
+    },
+    "spirit_hook:r_aabfb21c9d069ce7": {
+      "text": "Áp dụng \"May mắn\" cho đội đồng minh được chọn.",
+      "status": "translated"
+    },
+    "spirit_hook:r_02479dc8fe989560": {
+      "text": "Nhân đôi EXP nhận được trong trận giao chiến tiếp theo.",
+      "status": "translated"
+    },
+    "spirit_hook:r_a2df00f91a9b0a9e": {
+      "text": "Áp dụng \"Nỗ lực\" cho đội đồng minh được chọn.",
+      "status": "translated"
+    },
+    "spirit_hook:r_48b60d6c48b9b142": {
+      "text": "Trong 1 lượt, nhân sát thương gây cho đội địch được chọn với 1,1\nvà sát thương nhận từ đội đó với 0,9.",
+      "status": "translated"
+    },
+    "spirit_hook:r_8927e6fb681aa809": {
+      "text": "Né tránh hoàn toàn đòn tấn công của địch trong một trận giao chiến.",
+      "status": "translated"
+    },
+    "spirit_hook:r_665f01666859013b": {
+      "text": "Giảm sát thương do địch gây ra còn 1/4 trong 1 lượt.",
+      "status": "translated"
+    },
+    "spirit_hook:r_a571eec59b258d11": {
+      "text": "?",
+      "status": "translated"
+    }
+  }
+}

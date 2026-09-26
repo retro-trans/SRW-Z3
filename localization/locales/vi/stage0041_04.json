@@ -1,0 +1,1026 @@
+{
+  "schema": 1,
+  "language": "vi",
+  "messages": {
+    "stage0041_04:r_caaab7bad760e16d": {
+      "text": "$$アマタ$$\n「Các máy khác không xuất kích được sao ạ?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_99b162aa6aa286a2": {
+      "text": "$$田中司令$$\n「Tiếc là các máy của $c\n　đang được bảo dưỡng tại chi nhánh Viễn Đông.\n　Có lẽ còn lâu mới tới đây được.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_58fb02434a1c40b2": {
+      "text": "$$ゼシカ$$\n「Còn có Aquarion đang bảo dưỡng ở Neo-DEAVA\n　và EVA vừa bảo dưỡng xong ở NERV\n　đã là may rồi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_1c0f94acd5a8a143": {
+      "text": "$$ミサト$$\n「Để nó đổ bộ vào đô thị thì phiền phức lắm.\n　Ta sẽ đánh chặn ngay tại đây.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_1263541f4071624e": {
+      "text": "$$シンジ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_3bc300bbdc277d82": {
+      "text": "$$ユノハ$$\n「$$シンジ$$...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_38762a09460d8b6b": {
+      "text": "$$アマタ$$\n「Anh đã nghe $$ユノハ$$ kể chuyện của $$ジン$$.\n　Tuy chưa rõ đầu đuôi, nhưng lúc này\n　hãy tập trung chiến đấu với Thiên Sứ đã.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_7ab28e70b4d4f641": {
+      "text": "$$シンジ$$\n「Nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_b05f6a6e8f3d9b24": {
+      "text": "$$ミサト$$\n「Cứ giao chuyện cậu ấy cho tư lệnh Ikari,\n　còn em hãy làm việc mình cần làm.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_ec335e69f984b8b3": {
+      "text": "$$シンジ$$\n「Vâng...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_0abcaf0c31978670": {
+      "text": "$$カイエン$$\n（Akbarjin...\n　Quả nhiên hắn là gián điệp của địch sao...）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_1d6bc48b7f246730": {
+      "text": "$$ゼシカ$$\n「Nó tới kìa!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_1af20fccc3c53cfc": {
+      "text": "$$シンジ$$\n「Đó là... $$第７の使徒$$...!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_f951916061232dcd": {
+      "text": "$$ミコノ$$\n「Hình dạng lại khác với con trong Chiến dịch Yashima...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_4d863c3fb88a4c39": {
+      "text": "$$ゼシカ$$\n「Nhưng vẫn ghê tởm như nhau thôi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_44f4742c3dcce39a": {
+      "text": "$$ミサト$$\n「Unit-01 và Aquarion phụ trách tiên phong.\n　Unit-00 hỗ trợ cả hai.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_9e701cdeb3842c21": {
+      "text": "$$レイ#333$$\n「Rõ.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_6fd81f4abebe60c5": {
+      "text": "$$ミサト$$\n「Các máy, bắt đầu tấn công!\n　Trước khi $c tới,\n　chúng ta phải tự xoay xở!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_da2132b5038ec737": {
+      "text": "$$Ｆ．Ｓ．$$\n「Không đủ lực lượng.\n　Giá mà có thêm một máy nữa...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_495d61d3ec7e16f2": {
+      "text": "$$ミサト$$\n「Không sao đâu ạ.\n　Máy còn thiếu ấy đã tới rồi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_5cd353758cfe474d": {
+      "text": "$$田中司令$$\n「Là cái đang hạ xuống kia sao?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_a653c8dec4c0f06f": {
+      "text": "$$Ｆ．Ｓ．$$\n「Evangelion màu đỏ...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_86d493e37a9799a7": {
+      "text": "$$ミサト$$\n「Đúng lúc lắm, $$アスカ$$.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_09d0fcc600cdd3df": {
+      "text": "$$アスカ$$\n「Tôi lên đây!!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_182faded068c15ed": {
+      "text": "$$カイエン$$\n「Cái gì thế kia!?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_9c206d19bfda4bd5": {
+      "text": "$$アマタ$$\n「Trông giống Evangelion, nhưng...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_6e558bc69acf5bf3": {
+      "text": "$$ゼシカ$$\n「Chị $$ミサト$$ vừa gọi là $$アスカ$$...!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_d60d0818e965232f": {
+      "text": "$$シンジ$$\n「EVA mới...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_5b23687574286204": {
+      "text": "$$アスカ$$\n「Đúng thế, Cậu ấm.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_6fd86c96891ea942": {
+      "text": "$$シンジ$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_43e4e548c0b28376": {
+      "text": "$$アスカ$$\n「Nói trước nhé, Unit-02 này\n　khác hẳn EVA của các cậu đấy.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_d80a9688790ed583": {
+      "text": "$$アスカ$$\n「Unit-00 và Unit-01 xét cho cùng chỉ là\n　mẫu nguyên bản và mẫu thử nghiệm khi phát triển!\n　Nhưng Unit-02 này thì khác!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_708bea61e3c43ada": {
+      "text": "$$アスカ$$\n「Đây mới là Evangelion thực thụ đầu tiên trên thế giới,\n　được chế tạo để chiến đấu!\n　Mẫu chính thức đấy!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_7b6f159eeaf4de0f": {
+      "text": "$$アスカ$$\n「Và người điều khiển Unit-02\n　chính là tôi... $$式波・アスカ・ラングレー$$.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_0827963cfd706e8d": {
+      "text": "$$ミサト$$\n「$$エヴァンゲリオン２号機$$, được phát triển ở châu Âu.\n　Người điều khiển là Cô gái thứ hai, $$アスカ$$.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_ff6f8bdca2dd2bc9": {
+      "text": "$$シンジ$$\n「Điều bất ngờ chị $$ミサト$$ nói là...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_3f4035fd9db81258": {
+      "text": "$$ミサト$$\n「Đúng thế.\n　Cô bé cũng sẽ gia nhập $c.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_567b361a454c4b73": {
+      "text": "$$アスカ$$\n「Ổn rồi, chị $$ミサト$$.\n　Em đến thì chẳng phải lo nữa.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_d22851aaafbbf8fc": {
+      "text": "$$ミサト$$\n「Vừa đến đã phải nhờ rồi,\n　em đánh chặn Thiên Sứ giúp chị nhé.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_352534f64413d954": {
+      "text": "$$アスカ$$\n「Cứ giao cho em!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_79f2664edb1af798": {
+      "text": "$$アスカ$$\n「Cậu ấm!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_a62c4e7f3c09f7ed": {
+      "text": "$$シンジ$$\n「Gọi mình à...?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_1c5aa0d15ae24846": {
+      "text": "$$アスカ$$\n「Cậu ngốc à?\n　Đừng có đứng đực ra đấy, yểm trợ tôi đi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_53bb64ee17750ee2": {
+      "text": "$$アスカ$$\n「Còn Con cưng nữa!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_7a7add80fde475ba": {
+      "text": "$$レイ#333$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_b2befefdbed1393d": {
+      "text": "$$アスカ$$\n「Cậu hỗ trợ phía sau!\n　Hiểu chưa?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_2103f6df2ea2e447": {
+      "text": "$$レイ#333$$\n「Ngay từ đầu đã định vậy rồi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_a12e3e130d896ff7": {
+      "text": "$$アスカ$$\n「Giờ ai cũng rõ vai trò của mình rồi,\n　bắt đầu tấn công!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_b6f7b219eb4bd64b": {
+      "text": "$$アマタ$$\n「Cô bé đó ghê thật đấy...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_91bf33c27ad39f0a": {
+      "text": "$$シンジ$$\n「V-vâng...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_ee220318b96ab538": {
+      "text": "$$シンジ$$\n「Có vẻ cũng xoay xở được rồi nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_ce1b55e526b6277a": {
+      "text": "$$アスカ$$\n「Khá đấy, Cậu ấm.\n　Có lẽ tôi nên nhìn cậu khác đi một chút.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_c304df6888eb78f7": {
+      "text": "$$シンジ$$\n「Mình thắc mắc nãy giờ,\n　Cậu ấm là sao vậy?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_c26958634526e597": {
+      "text": "$$アスカ$$\n「Còn phải hỏi à?\n　Là cậu đấy, được chọn làm phi công\n　nhờ dựa hơi cha là tư lệnh Ikari.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_cdb750c9d380881a": {
+      "text": "$$アスカ$$\n「Còn phi công Unit-00\n　thì nghe nói được chọn nhờ thiên vị.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_95fda74613c97b39": {
+      "text": "$$シンジ$$\n「Nói mình thì thôi,\n　nhưng rút lại lời cậu nói về Ayanami đi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_1956994937f8171e": {
+      "text": "$$アスカ$$\n「G-gì chứ... làm gì mà căng thế.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_48f49f6728c15612": {
+      "text": "$$アマタ$$\n「Hai người, cẩn thận!\n　Thiên Sứ đó... vẫn còn sống!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_0ebc5a6f1e0f81bf": {
+      "text": "$$シンジ$$\n「Giỏi quá, Ayanami...!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_f02c37d91387d0ad": {
+      "text": "$$レイ#333$$\n「Vì Ikari và mọi người đã giúp...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_6bbd5a3c5afb87e0": {
+      "text": "$$アスカ$$\n「Hừm...\n　Có vẻ Cậu ấm và Con cưng\n　thân nhau lắm nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_9796b3efa401a303": {
+      "text": "$$シンジ$$\n「Mình thắc mắc nãy giờ,\n　Cậu ấm là sao vậy?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_643b6eebfc0186b3": {
+      "text": "$$アスカ$$\n「Còn phải hỏi à?\n　Là cậu đấy, được chọn làm phi công\n　nhờ dựa hơi cha là tư lệnh Ikari.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_291280e5f7eb9d70": {
+      "text": "$$アスカ$$\n「Còn phi công Unit-00\n　thì nghe nói được chọn nhờ thiên vị.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_32eb462c1b4999cb": {
+      "text": "$$シンジ$$\n「Nói mình thì thôi,\n　nhưng rút lại lời cậu nói về Ayanami đi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_1f4337d6d393fc37": {
+      "text": "$$アスカ$$\n「G-gì chứ... làm gì mà căng thế.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_4740e748fae085ee": {
+      "text": "$$アマタ$$\n「Hai người, cẩn thận!\n　Thiên Sứ đó... vẫn còn sống!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_b76524cd840e1d37": {
+      "text": "$$アスカ$$\n「Đại khái là thế đấy.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_730ffe18400abfc2": {
+      "text": "$$シンジ$$\n「Shikinami giỏi thật đấy...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_ffe0fca26da5cd38": {
+      "text": "$$アスカ$$\n「T-tất nhiên rồi.\n　Tôi có phải Cậu ấm hay Con cưng đâu.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_bfb27f9eb2f7073e": {
+      "text": "$$シンジ$$\n「Mình thắc mắc nãy giờ,\n　Cậu ấm là sao vậy?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_859dfa27bcaafe30": {
+      "text": "$$アスカ$$\n「Còn phải hỏi à?\n　Là cậu đấy, được chọn làm phi công\n　nhờ dựa hơi cha là tư lệnh Ikari.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_71ebf05996a4b0fd": {
+      "text": "$$アスカ$$\n「Còn phi công Unit-00\n　thì nghe nói được chọn nhờ thiên vị.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_6214c11b1bca811e": {
+      "text": "$$シンジ$$\n「Nói mình thì thôi,\n　nhưng rút lại lời cậu nói về Ayanami đi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_8eaf6f3098ffed12": {
+      "text": "$$アスカ$$\n「G-gì chứ... làm gì mà căng thế.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_cf507214fe955d75": {
+      "text": "$$アマタ$$\n「Hai người, cẩn thận!\n　Thiên Sứ đó... vẫn còn sống!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_2113dcbabdfc758a": {
+      "text": "$$田中司令$$\n「Thiên Sứ đã ngừng di chuyển.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_4b0e43ba6a5f2f5b": {
+      "text": "$$Ｆ．Ｓ．$$\n「Đã được giao phó chiến trường này,\n　ít nhất cũng phải làm được chừng đó.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_6a74519e1fc29c4b": {
+      "text": "$$田中司令$$\n「Ha ha... tôi không ngờ chiến hạm\n　cũng có thể hạ được Thiên Sứ đấy.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_5b992878fee054b5": {
+      "text": "$$シンジ$$\n「Giỏi thật...\n　Đúng là $$ドラゴンズハイヴ$$ có khác.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_95a3dd16c2c4cc3e": {
+      "text": "$$アスカ$$\n「Sao cậu còn thản nhiên khen được thế!?\n　Cậu không hiểu vị trí của mình à!?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_4a14ec0c511c7f0d": {
+      "text": "$$シンジ$$\n「Vị trí là sao...?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_20cf167c0ec0d4d5": {
+      "text": "$$アスカ$$\n「EVA được tạo ra để tiêu diệt Thiên Sứ!\n　Nếu để người khác làm thay việc đó,\n　thì chúng ta còn lý do gì để tồn tại nữa!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_b591d812c96c6c99": {
+      "text": "$$シンジ$$\n「Cậu làm quá rồi...\n　Ai hạ được nó thì cũng tốt mà.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_e350fa099c1ab072": {
+      "text": "$$アスカ$$\n「Tức chết đi được...!\n　Đúng là đồ Cậu ấm!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_fb05d8e5f1ee93e5": {
+      "text": "$$シンジ$$\n「Mình thắc mắc nãy giờ,\n　Cậu ấm là sao vậy?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_c33bd700553abf91": {
+      "text": "$$アスカ$$\n「Còn phải hỏi à?\n　Là cậu đấy, được chọn làm phi công\n　nhờ dựa hơi cha là tư lệnh Ikari.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_feee5c91826230e1": {
+      "text": "$$アスカ$$\n「Còn phi công Unit-00\n　thì nghe nói được chọn nhờ thiên vị.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_bccc48e1964ad22d": {
+      "text": "$$シンジ$$\n「Nói mình thì thôi,\n　nhưng rút lại lời cậu nói về Ayanami đi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_f8736aaaa216c766": {
+      "text": "$$アスカ$$\n「G-gì chứ... làm gì mà căng thế.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_d1ec2522c87c361d": {
+      "text": "$$アマタ$$\n「Hai người, cẩn thận!\n　Thiên Sứ đó... vẫn còn sống!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_3599f0a4343fd95c": {
+      "text": "$$アマタ$$\n「Được rồi...! Nó ngừng di chuyển rồi!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_3bc7834a5bf3ee76": {
+      "text": "$$シンジ$$\n「Đúng là Aquarion có khác.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_366814efdc8b5800": {
+      "text": "$$アスカ$$\n「Sao cậu còn thản nhiên khen được thế!?\n　Cậu không hiểu vị trí của mình à!?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_9be1a4c10bb62515": {
+      "text": "$$シンジ$$\n「Vị trí là sao...?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_94a88c90e557e16e": {
+      "text": "$$アスカ$$\n「EVA được tạo ra để tiêu diệt Thiên Sứ!\n　Nếu để người khác làm thay việc đó,\n　thì chúng ta còn lý do gì để tồn tại nữa!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_1c208ca0cbf26f28": {
+      "text": "$$シンジ$$\n「Cậu làm quá rồi...\n　Ai hạ được nó thì cũng tốt mà.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_5b7ee307a700171a": {
+      "text": "$$アスカ$$\n「Tức chết đi được...!\n　Đúng là đồ Cậu ấm!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_8d8f065c932da30a": {
+      "text": "$$シンジ$$\n「Mình thắc mắc nãy giờ,\n　Cậu ấm là sao vậy?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_f5432119677514f7": {
+      "text": "$$アスカ$$\n「Còn phải hỏi à?\n　Là cậu đấy, được chọn làm phi công\n　nhờ dựa hơi cha là tư lệnh Ikari.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_4e5c8e989c4a7691": {
+      "text": "$$アスカ$$\n「Còn phi công Unit-00\n　thì nghe nói được chọn nhờ thiên vị.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_adec86483b13599a": {
+      "text": "$$シンジ$$\n「Nói mình thì thôi,\n　nhưng rút lại lời cậu nói về Ayanami đi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_2cf701bbcde3ec13": {
+      "text": "$$アスカ$$\n「G-gì chứ... làm gì mà căng thế.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_c17c58fdba72005e": {
+      "text": "$$アマタ$$\n「Hai người, cẩn thận!\n　Thiên Sứ đó... vẫn còn sống!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_1fe8564d2b959317": {
+      "text": "$$カイエン$$\n「Dai sức thật...!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_f527e012803f7f1c": {
+      "text": "$$ゼシカ$$\n「Không ổn rồi...!\n　Không thể chặn được nó!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_4b1247bd3ca4905d": {
+      "text": "$$ミサト$$\n「Nó tái sinh rồi!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_00c55e25f87b71d0": {
+      "text": "$$田中司令$$\n「Thế này thì càng không ổn...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_338f3b27e51dcc41": {
+      "text": "$$シンジ$$\n「Quái thú Máy...!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_d91d4bc2d52b61c4": {
+      "text": "$$アンディ$$\n「Lại là đám đã xuất hiện trong Chiến dịch Yashima à!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_0c8ea89b07432421": {
+      "text": "$$モロイ$$\n「Bọn chúng...!\n　Định tấn công chúng ta sao!?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_4dbfba00ba7744ee": {
+      "text": "$$サザンカ$$\n「Bọn chúng bị làm sao thế!\n　Thế giới có diệt vong cũng mặc kệ sao!?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_be100a32b731708d": {
+      "text": "$$ブロッケン$$\n「Ha ha ha ha, cứ yên tâm!\n　Chôn vùi các ngươi xong, ta sẽ xử luôn con quái vật đó!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_702f82442fcec8a9": {
+      "text": "$$ＷＩＬＬ$$\n「Tình hình bất lợi.\n　Tôi đề nghị rút lui và hội quân\n　với chủ lực $c.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_b1e38da4e8775ffe": {
+      "text": "$$Ｆ．Ｓ．$$\n「Cô định làm gì, đại tá Katsuragi?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_d2f1bf5ab2f0e41a": {
+      "text": "$$ミサト$$\n「Không thể rút lui.\n　Nếu lùi bước ở đây, Thiên Sứ sẽ đổ bộ được.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_2acc8ade0cc6dfa2": {
+      "text": "$$ミサト$$\n「Các em nghe rồi đấy.\n　Chị phải nhờ các em cố gắng quá sức một chút rồi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_3dad695c99e9e052": {
+      "text": "$$アスカ$$\n「Quá sức...?\n　Chị đang nói với ai thế, chị $$ミサト$$?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_66d4ae3a21caf881": {
+      "text": "$$カイエン$$\n「Em không định để đám khủng bố\n　chẳng nhìn ra đại cục muốn làm gì thì làm đâu...!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_0c18da7b3a37825d": {
+      "text": "$$アマタ$$\n「$$シンジ$$... em cũng làm được chứ?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_63249745ffae61b6": {
+      "text": "$$シンジ$$\n「Em...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_abdb034ae8509702": {
+      "text": "$$ユノハ$$\n「$$シンジ$$...!\n　Để tìm hiểu chuyện của $$ジン$$,\n　chúng ta nhất định phải sống sót trở về...!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_3ff2e21207d1d1d3": {
+      "text": "$$シンジ$$\n「...!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_e51ecf6d6aa42e75": {
+      "text": "$$シンジ$$\n「Đúng vậy...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_47ddabb7b60131c2": {
+      "text": "$$アマタ$$\n「$$シンジ$$...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_b025267f22788233": {
+      "text": "$$カイエン$$\n「Anh biết em là người làm được việc.\n　Trông cậy vào em đấy, $$シンジ$$.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_ec1a06a7023bf72c": {
+      "text": "$$シンジ$$\n「Vâng!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_8805f96e52aaa462": {
+      "text": "$$ミサト$$\n「Đổi chiến thuật!\n　Unit-01 phối hợp với Aquarion,\n　Unit-02 phối hợp với Unit-00!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_124591cb154fae64": {
+      "text": "$$アマタ$$\n「Rõ!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_7bdb6fecc8b3bde8": {
+      "text": "$$ミサト$$\n「$$アスカ$$...!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_4bf9b05b5f948170": {
+      "text": "$$アスカ$$\n「Em biết rồi!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_eaa52d152f444bfd": {
+      "text": "$$ミサト$$\n「Các máy, bắt đầu tấn công!\n　Đánh chặn Thiên Sứ và Quái thú Máy!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_b4bc9e9435b58e6f": {
+      "text": "$$ブロッケン$$\n「Ha ha ha ha!\n　Chiến đấu trong thế áp đảo\n　quả là sảng khoái!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_a9227573166977a9": {
+      "text": "$$ブロッケン$$\n「Nào, tiếp theo nên hành hạ chúng bằng cách gì đây...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_b0600ab9a9e8559d": {
+      "text": "$$ブロッケン$$\n「C-cái gì!?\n　Đòn tấn công từ đâu tới vậy!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_7cbc63dad295f862": {
+      "text": "Lính Thập Tự Sắt\n「Từ dưới biển ạ!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_07f53c816e0a51f5": {
+      "text": "$$ブロッケン$$\n「Tàu ngầm sao!?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_2d09c6f6a2d990ea": {
+      "text": "$$テッサ$$\n「$$ドラゴンズハイヴ$$, nghe rõ không? Tôi là $$テレサ・テスタロッサ$$,\n　thuyền trưởng $$トゥアハー・デ・ダナン$$,\n　thuộc hạm đội Tây Thái Bình Dương của $$ミスリル$$.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_3c5fcfc484a51913": {
+      "text": "$$テッサ$$\n「Từ giờ, tàu chúng tôi sẽ yểm trợ $c.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_0476ffd10c764b0e": {
+      "text": "$$Ｆ．Ｓ．$$\n「Đã rõ.\n　Cảm ơn sự hỗ trợ của tàu các vị.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_48c6c1ecfea6fe4a": {
+      "text": "$$アンディ$$\n「Cô thuyền trưởng dễ thương đã gặp ở Odaiba kìa!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_2b3479c4cf0680f4": {
+      "text": "$$ゼシカ$$\n「Nhưng liệu có ổn không?\n　Cô ấy... hình như hậu đậu lắm mà.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_e370696b8936b08c": {
+      "text": "$$マデューカス$$\n「...Có vẻ họ đang nói như thế về cô đấy.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_9d7b02c5e728b7aa": {
+      "text": "$$テッサ$$\n「Không sao đâu.\n　Lúc đó tôi quả thật đã bất lực.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_9af213fc64e0afec": {
+      "text": "$$テッサ$$\n「Nhưng một khi đã ngồi vào ghế thuyền trưởng này,\n　tôi và $$トゥアハー・デ・ダナン$$ sẽ không bại trận.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_d7f1c506e78e55ff": {
+      "text": "$$マデューカス$$\n「Vậy, thưa thuyền trưởng... xin cô ra lệnh.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_0c705091f748360e": {
+      "text": "$$テッサ$$\n「Mục tiêu là quân đoàn Quái thú Máy và Thiên Sứ...!\n　$$トゥアハー・デ・ダナン$$, bắt đầu tấn công!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_9eb8599304125b2f": {
+      "text": "$$マデューカス$$\n「Rõ, thưa thuyền trưởng!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_a072aa25e5f521e0": {
+      "text": "$$アンディ$$\n「Viện quân đã đến,\n　nhưng thế này vẫn khó quá còn gì!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_24e1a808a1609a1a": {
+      "text": "$$アスカ$$\n「Yếu đuối quá đấy, $c!\n　Nếu định gục ngã thì biến khỏi tầm mắt tôi\n　rồi hẵng gục nhé!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_53128ce8f154fd06": {
+      "text": "$$ミコノ$$\n「Cô bé ấy... ghê thật...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_03b5db9ce98fb8d6": {
+      "text": "$$ゼシカ$$\n「Không thể chịu thua người mới được!\n　Mọi người làm được chứ!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_3915fb4102f1c1dd": {
+      "text": "$$シンジ$$\n「Vâng!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_817b2773b4ed563e": {
+      "text": "$$ブロッケン$$\n「Kiên cường thật đấy!\n　Cô lập, không viện quân, chiến đấu trong tuyệt vọng\n　mà vẫn chưa mất ý chí sao!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_1cc233cbc8c80af7": {
+      "text": "$$ブロッケン$$\n「Nhưng sắp kết thúc rồi!\n　Ta, $$ブロッケン$$, sẽ cho các ngươi được giải thoát!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_3ce2f3e58cfdc3ba": {
+      "text": "$$ブロッケン$$\n「Muốn hận thì cứ hận $$兜甲児$$ ấy!\n　Kẻ đã bỏ rơi các ngươi!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_e180b22d18f48d38": {
+      "text": "$$ブロッケン$$\n「Hãy mang tên ta xuống địa ngục!\n　Cái tên $$ブロッケン伯爵$$ này!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_e598c2a0b27e7f50": {
+      "text": "$$ミサト$$\n「Cảm ơn bài diễn văn dài dòng của ngươi nhé.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_4d2a9066c4e7b27f": {
+      "text": "$$テッサ$$\n「Chính thói lắm lời đó khiến ông thất bại.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_10340119af3ed6db": {
+      "text": "$$ブロッケン$$\n「Cái gì!?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_23a9c7ab620ab112": {
+      "text": "$$Ｆ．Ｓ．$$\n「Nhìn đi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_4f0aca6deda07883": {
+      "text": "$$ブロッケン$$\n「$c!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_8fe40600ce62dfbc": {
+      "text": "$$甲児$$\n「$$ブロッケン$$!\n　Dám hành hạ đồng đội của ta hả!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_ff4ce5f3cf96b617": {
+      "text": "$n\n「Thủ đoạn bẩn thỉu của ngươi khiến ta buồn nôn...\n　Có vẻ ngươi rất muốn nếm mùi đau khổ nhỉ.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_d73c21f119847e35": {
+      "text": "$$ブロッケン$$\n「Ơ...!\n　Chuyện... chuyện không phải như thế...!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_89766f5ffaa912d4": {
+      "text": "$$クルツ$$\n「Cả de Danaan cũng tới rồi à!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_c2df6b71e3b4b6ec": {
+      "text": "$$マオ$$\n「Cảm ơn, $$テッサ$$!\n　Nhờ em mà cứu được tình thế rồi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_451f726d4299ea35": {
+      "text": "$$テッサ$$\n「De Danaan cũng như một biệt đội\n　của $c mà.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_e3d111e8bb190cb1": {
+      "text": "$$アルト$$\n「Mọi người cầm cự giỏi lắm.\n　Còn lại cứ giao cho chúng tôi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_7c0d3c51f9a11ca0": {
+      "text": "$$アスカ$$\n「Cái gì chứ...!\n　Đã đến trễ còn lên giọng bề trên!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_ab97c2b2418ea732": {
+      "text": "$$アルト$$\n「Ơ...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_2ddff5064af78db4": {
+      "text": "$$アスカ$$\n「Tôi chẳng nhớ mình từng nhờ ai giúp cả...!\n　Đừng có nhúng tay vào làm chuyện thừa thãi!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_050d0532c4b24bfe": {
+      "text": "$$シン$$\n「Cô bé đó bị làm sao thế...!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_d583fcea31bdad2e": {
+      "text": "$$バナージ$$\n「Evangelion màu đỏ...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_475f7653621a91b5": {
+      "text": "$$カレン$$\n「Đã nói đến thế thì\n　cho bọn này xem thực lực của cậu đi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_f228ae702350849b": {
+      "text": "$$アスカ$$\n「Không cần nhắc đâu...!\n　Tôi sẽ cho các người thấy đủ sức mạnh\n　của $$式波・アスカ・ラングレー$$ này!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_d69dc027cba3003f": {
+      "text": "$$ミサト$$\n「Các máy, nhanh chóng tiêu diệt\n　quân đoàn Quái thú Máy và Thiên Sứ!\n　Trông cậy vào mọi người!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_3c3735172a480b72": {
+      "text": "$$アスカ$$\n（Nhìn cho kỹ, $c...!\n　Tôi sẽ cho các người biết\n　tôi và Unit-02 mới là số một!）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_1f418b5594cea300": {
+      "text": "$$レイアム$$\n「Xác nhận toàn bộ địch đã bị tiêu diệt.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_f87fb889124bfaef": {
+      "text": "$$オットー$$\n「Ngoài vũ trụ là chiến tranh giữa con người...\n　Trên Trái Đất lại chiến đấu với kẻ thù của nhân loại...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_79c90de32a79212d": {
+      "text": "$$テッサ$$\n「Mọi người phải vất vả rồi,\n　chúng tôi cũng sẽ hỗ trợ hết khả năng.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_33f7fd55913419e8": {
+      "text": "$$テッサ$$\n「Con đường phía trước có thể gian nan,\n　nhưng đây là sứ mệnh của chúng ta... của $c.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_473d9a88b4ca96e7": {
+      "text": "$$桂$$\n「Tất nhiên là hiểu rồi!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_4de6ac85c63bac12": {
+      "text": "$$青山$$\n「Dĩ nhiên, chúng tôi cũng chung chí hướng mà.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_4c92652c9b1adf6f": {
+      "text": "$$ミシェル$$\n「Nếu cô muốn, vài người của $c,\n　trong đó có tôi, sang bên cô công tác nhé?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_ce90563a934d49fb": {
+      "text": "$$クラン$$\n「Mấy người im hết đi!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_4fb296e63cb1fb46": {
+      "text": "$$葵$$\n「Vừa biết bên kia là nữ thuyền trưởng xinh đẹp\n　đã tỏ thái độ thế này rồi...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_6d77e72dbbcd7dfe": {
+      "text": "$$ＭＩＸ$$\n「Thật là! Đám con trai đúng là...!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_9dc59affd40f32fc": {
+      "text": "$$竜馬$$\n「Đừng nói thế.\n　Đó cũng là bản tính đàn ông thôi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_0cea115be526a319": {
+      "text": "$$スズネ$$\n「Thật vậy sao?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_d36072babd12aeb4": {
+      "text": "$n\n「Em không biết...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_09ee921a85025fd3": {
+      "text": "$$テッサ$$\n「Cảm ơn mọi người.\n　Nhưng lúc này phân tán lực lượng\n　không phải kế hay.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_fae689f2a1057b61": {
+      "text": "$$テッサ$$\n「Chúng tôi sẽ thực hiện nhiệm vụ như một biệt đội.\n　Mong đến ngày gặp lại mọi người.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_91c6d0bb53854ecc": {
+      "text": "$$ジェフリー$$\n「Cảm ơn sự hợp tác của các vị.\n　Chúc quý tàu gặp nhiều may mắn trong chiến đấu.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_42a3149105314ab8": {
+      "text": "$$テッサ$$\n「Vậy tôi xin phép.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_62ecd978c667bd29": {
+      "text": "$$テッサ$$\n「Anh $$宗介$$, hẹn gặp lại nhé.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_d441e6cc908ac01b": {
+      "text": "$$宗介$$\n「Thưa đại tá...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_b2aab8873350ea1f": {
+      "text": "$$甲児$$\n「C-cái gì chứ!\n　Chỉ có $$宗介$$ được đối xử đặc biệt thôi sao!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_2c7af4c55d8ac938": {
+      "text": "$$シン$$\n「Chuyện này không thể bỏ qua được!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_653b741d07545dff": {
+      "text": "$$カレン$$\n（Khá lắm, $$テッサ$$.）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_d584d4b5af55b1cf": {
+      "text": "$$クルツ$$\n（Thật đấy à...\n　$$テッサ$$ thích $$宗介$$ sao...）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_db0ee69ece206fcd": {
+      "text": "$$マオ$$\n（Nghe $$テッサ$$ kể thì trong vụ ở Odaiba hôm trước,\n　con bé đã tuyên chiến với $$かなめ$$ rồi đấy.）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_f97e6925c9e37332": {
+      "text": "$$マオ$$\n（Khoan nói đến Liên bang và Neo Zeon,\n　tôi muốn hai cô bé bên này đấu thật quyết liệt cơ.）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_422861e0b8d77d0c": {
+      "text": "$$アスカ$$\n「Nào, chị $$ミサト$$...\n　Đã dọn sạch địch rồi, chị giới thiệu em\n　với $c được chưa?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_ef16bcaa2b0e0c45": {
+      "text": "$$ミサト$$\n「Xin lỗi, $$アスカ$$.\n　Trước đó chị phải giải quyết một chuyện phiền phức đã.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_2b93cca10f1c36a8": {
+      "text": "$$ユノハ$$\n（$$ジン$$...）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_7980fd37141d88d0": {
+      "text": "$$シンジ$$\n（Cậu... là gián điệp sao...?）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_ac21212c36d2b9ad": {
+      "text": "$$ミサト$$\n「Làm tốt lắm, $$シンジ$$!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_a26e2108358af7a4": {
+      "text": "$$シンジ$$\n「Nhờ có mọi người giúp đỡ đấy ạ.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_a8118b2e37aa1382": {
+      "text": "$$アスカ$$\n「Chán thật, lại giọng học sinh gương mẫu...\n　Những lúc thế này cứ thẳng thắn vui mừng đi chứ.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_017a56991b7b8ca4": {
+      "text": "$$シンジ$$\n（$$エヴァンゲリオン２号機$$... Cô gái thứ hai...\n　$$式波・アスカ・ラングレー$$... à...）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_ad3e1db3419665fb": {
+      "text": "$$ミサト$$\n「Làm tốt lắm, $$アスカ$$!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_0149e3a5f2e5ef78": {
+      "text": "$$アスカ$$\n「Em mà nghiêm túc thì đại khái là thế đấy.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_3ad10e705167a3fa": {
+      "text": "$$シンジ$$\n（$$エヴァンゲリオン２号機$$... Cô gái thứ hai...\n　$$式波・アスカ・ラングレー$$... à...）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_bdc546b199c80996": {
+      "text": "$$ミサト$$\n「Làm tốt lắm.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_22c8caf8c08c5119": {
+      "text": "$$アスカ$$\n「.........」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_9c13714b3efbc7a8": {
+      "text": "$$シンジ$$\n「...Chẳng lẽ cậu khó chịu\n　vì không tự mình hạ được Thiên Sứ sao?」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_96f156e19b53fc09": {
+      "text": "$$アスカ$$\n「Im đi...!\n　Đúng thế thì đã sao!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_feb0390bba7fe1fb": {
+      "text": "$$シンジ$$\n「X-xin lỗi...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_8a78bcec22029401": {
+      "text": "$$シンジ$$\n（$$エヴァンゲリオン２号機$$... Cô gái thứ hai...\n　$$式波・アスカ・ラングレー$$... à...）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_f42017dfce31dea9": {
+      "text": "$$ブロッケン$$\n「Khốn kiếp!\n　Hôm nay lại bị kẻ ngoài dự tính phá đám!\n　Hãy nhớ đấy, $c!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_ef7426919f628d8a": {
+      "text": "$$甲児$$\n「Có giỏi thì quay lại từ hôm kia đi!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_9e994a4b926d9906": {
+      "text": "$$ボス$$\n「Giỏi đấy, $$シンジ$$!\n　Từ Chiến dịch Yashima đến giờ cậu phong độ thật!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_ffae76d2a77abf5a": {
+      "text": "$$シンジ$$\n「Em cảm ơn...」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_3ac462d37e5893ff": {
+      "text": "$$ユノハ$$\n（$$シンジ$$... cậu đang lo chuyện của $$ジン$$ nhỉ...）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_fd6bdf7910d7d925": {
+      "text": "$$ミサト$$\n（Vậy mà em vẫn hoàn thành việc phải làm...\n　Em đã trưởng thành rồi nhỉ.）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_d38be46e6cd7a5e5": {
+      "text": "$$甲児$$\n「Có giỏi thì quay lại từ hôm kia đi!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_3fe2078328753c16": {
+      "text": "$$ボス$$\n「Lời hăm dọa lúc bỏ chạy hay đấy.\n　Hắn càng ngày càng quen vai kẻ thua cuộc rồi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_c66844158d1ce600": {
+      "text": "$$ミサト$$\n「Cứ thế nhé, $$シンジ$$!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_d037ecbc1e348dc9": {
+      "text": "$$シンジ$$\n（Lúc này đừng nghĩ đến chuyện của $$ジン$$...\n　Phải tập trung vào việc trước mắt.）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_bcd53d14c4785426": {
+      "text": "$$シンジ$$\n（$$ジン$$...）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_9ca55ea7feca954a": {
+      "text": "$$シンジ$$\n（Vậy mà mình cứ tưởng cuối cùng đã thành bạn...!）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_554ae12c4c170253": {
+      "text": "$$アマタ$$\n（Sao thế nhỉ...\n　Chiến đấu với thứ gọi là Thiên Sứ này,\n　mình vừa thấy sợ, vừa thấy như thân quen...）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_fa59c6df081e6ae4": {
+      "text": "$$アマタ$$\n（Nhưng có một điều chắc chắn,\n　không thể để nó đi qua...!）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_ca3edf3b8b52aedf": {
+      "text": "$$レイ#333$$\n（Chiến đấu với Thiên Sứ là vai trò của mình...\n　Mình sẽ chiến đấu bên Ikari...）",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_aa5d235c78ebe19f": {
+      "text": "$$アスカ$$\n「Ngươi xui rồi...!\n　Giá mà xuất hiện sớm hơn chút nữa,\n　thì đã không phải đánh với ta...!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_0b3b19cddb871f90": {
+      "text": "$$アスカ$$\n「Nhưng đã xuất hiện ở đây thì vận may hết rồi!\n　Ngươi sẽ làm nền cho ta và Unit-02 tỏa sáng!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_304e98dac43c9333": {
+      "text": "$$アスカ$$\n「Nghe nói $c còn chiến đấu\n　với những kẻ khác ngoài Thiên Sứ, nhưng không ngờ\n　vừa đến Nhật đã gặp ngay...!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_b740d817a14afd3a": {
+      "text": "$$アスカ$$\n「Nhưng ta sẽ không thua...!\n　Dù đối thủ là ai, ta và Unit-02\n　cũng nhất định sẽ chiến thắng!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_40e4c010d1b35b4c": {
+      "text": "$$甲児$$\n「Vẫn giậu đổ bìm leo như mọi khi nhỉ, $$ブロッケン$$!\n　Lần này còn nhân lúc bọn ta vắng mặt\n　mà nhắm vào $$シンジ$$ và mọi người nữa!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_c33abf00683a32bc": {
+      "text": "$$ブロッケン$$\n「Im đi!\n　Chiến đấu chỉ cần thắng là được!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_3036adce91d1f4a8": {
+      "text": "$$甲児$$\n「Thế à!\n　Vậy thua bọn ta thì đừng có phàn nàn đấy!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_019293cb83599509": {
+      "text": "$$甲児$$\n「Ta cũng chán nghe lời hăm dọa lúc bỏ chạy của ngươi rồi!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_9b949b9281aaeef1": {
+      "text": "$$テッサ$$\n「Ông $$マデューカス$$, mọi người.\n　Đối thủ là tàn quân khủng bố mưu đồ thống trị thế giới\n　và một thực thể sẽ hủy diệt cả thế giới này.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_b39a1dd705fe6cbf": {
+      "text": "$$テッサ$$\n「Không cần nương tay.\n　Ta sẽ dốc toàn lực loại bỏ mục tiêu.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_c9016e3ab05470b0": {
+      "text": "$$マデューカス$$\n「Rõ, thưa thuyền trưởng.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_a684e6cea428e518": {
+      "text": "$$テッサ$$\n「$$トゥアハー・デ・ダナン$$, bắt đầu chiến đấu...!\n　Cho chúng biết ai mới là bá chủ vùng biển này!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_cf907a4d5de8b5c9": {
+      "text": "$$ブロッケン$$\n「Chỉ một chiếc tàu ngầm mà tưởng\n　thắng được $$飛行要塞グール$$ này sao!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_a5774604a0f00702": {
+      "text": "$$マデューカス$$\n「Tự tin chẳng có căn cứ...\n　Có vẻ đây là loại người không thích hợp\n　làm chỉ huy nhất đấy.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_b4fa30f33e84207f": {
+      "text": "$$テッサ$$\n「Vậy ta hãy cho ông ấy biết\n　nhận định của bản thân phiến diện đến mức nào,\n　khi chỉ dựa vào suy nghĩ viển vông có lợi cho mình.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_9133b7e0b34de48f": {
+      "text": "$$ブロッケン$$\n「Gừ, con nhóc này!\n　Vốn dĩ ta đã chẳng ưa gì\n　đám thủy thủ tàu ngầm rồi!」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_4ae9c4bd77494c4a": {
+      "text": "$$テッサ$$\n「Vậy thì tiện quá.\n　Tôi cũng chẳng mong được ông yêu mến đâu.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_7313331f4077d255": {
+      "text": "$$テッサ$$\n「Và ông sẽ phải trả giá\n　vì đã đánh giá thấp sức mạnh\n　của $$トゥアハー・デ・ダナン$$ của tôi.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_a84ab0c3c1ba44d4": {
+      "text": "$$テッサ$$\n「Đó là sứ mệnh của người bị ông coi thường là con nhóc...\n　của tôi, thuyền trưởng con tàu này.」",
+      "status": "reviewed"
+    },
+    "stage0041_04:r_414e6e90094d1413": {
+      "text": "$n\n「A!」",
+      "status": "reviewed"
+    }
+  }
+}

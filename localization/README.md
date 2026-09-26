@@ -7,9 +7,11 @@ needs these inputs for source-dependent checks, comparison and exports;
 see [local source setup and limitations](../docs/LOCAL_SOURCE_DATA.md).
 
 Edit **`locales/<language>/<group>.json`**, not the old `translation/` files.
-English is `en`; the 244 preserved Vietnamese opening drafts are under `vi`
-and marked `needs_review`. They predate glossary tokenization and are not a
-ready-to-build Vietnamese release.
+English is `en`. The Vietnamese worktree's 188 locale files are now merged
+under `vi`: 43,104 entries, including 42,155 passing current structural checks,
+402 pending reviews and 547 explicit missing entries. Other catalog entries
+still lack Vietnamese. See [Vietnamese status](locales/vi/README.md); this
+content-only merge is not a ready-to-build Vietnamese release.
 `locale.schema.json` describes the editable file format for JSON-aware editors;
 the checker additionally verifies IDs, placeholders and link markers.
 
