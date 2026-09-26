@@ -1,16 +1,39 @@
 # Changelog
 
+## Fresh public repository and 0.6.21 reissue preparation (2026-09-26)
+
+- User approved renaming/preserving the original repository as a private archive
+  and creating a separate public SRW-Z3, avoiding retained old source objects.
+- Updated README and 0.6.21 notes for Retro Trans, exact original/0.6.19 input
+  routes, withdrawn historical assets and the cleaned source-history boundary.
+  Explicitly distinguish unchanged 0.6.21 binaries from later source-only fixes
+  and Vietnamese work; no new game build or installation.
+
 ## Public-repository preparation authorized (2026-09-26)
 
 - User authorized committing the Vietnamese integration, replacing hosted
   history and making the repository public only after the hosted-content audit.
-- Read-only GitHub inventory confirms the repository is still private, with
-  one master branch, nine historical release tags and nine releases. Tags
-  retain old source history, so a master-only force push is insufficient.
-- User chose local backup followed by deletion of historical releases/tags.
-  Publication is pending renewed CLI authentication and backup/audit completion.
-  No remote history, release assets or repository visibility changed yet.
-  This authorization does not request a new game build or new patch release.
+- Initial inventory found one master branch, nine historical tags and nine
+  releases. User authorized their local backup and removal, then explicitly
+  requested public visibility and a Retro Trans-compatible release.
+- Backed up all 36 assets (1,662,554,942 bytes), release notes/metadata and tag
+  identities; verified every asset's size and SHA-256 against GitHub twice.
+  Replaced hosted master with clean history at 36e601c and deleted all nine
+  tags in a leased atomic push, then deleted all nine backed-up releases.
+  Verified no remaining releases/tags. Local old Git and linked worktrees remain
+  intact. Recovery copies/receipts are in work/publication-audit-20260926/.
+- Hosted audit found no artifacts across 85 Actions runs; the sole failed job
+  stopped at app authentication. The one closed PR's initial tool/doc history
+  contains no source dumps. Current tracked content excludes local source data.
+- Publication stopped while PRIVATE: GitHub still returns a removed Japanese
+  source catalog file by old commit 1cc692a despite removing its branches/tags.
+  Requesting permission for a fresh public repository while preserving this one
+  privately; no repository deletion, rename, visibility change or catalog entry.
+- Existing PS3 English 0.6.21 assets pass Retro Trans 0.3.0 release validation;
+  no patch bytes changed and no new game build/install was run. Re-publication
+  awaits the safe destination. Later fixes and VI content remain source-only.
+- Corrected the earlier authentication diagnosis: normal Windows keyring access
+  works; only the restricted session reported invalid CLI authentication.
 
 ## Vietnamese worktree content merge (2026-09-26)
 

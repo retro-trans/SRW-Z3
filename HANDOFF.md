@@ -1,13 +1,36 @@
 # Handoff
 
-**2026-09-26 public-repository preparation authorized, not published:** user
-approved committing VI content, replacing hosted history and publication after
-audit. GitHub connector confirms PRIVATE, one master branch, nine releases and
-nine old tags; those tags must be handled or source history remains reachable.
-CLI accounts report invalid authentication; prompted user to re-authenticate.
-User chose local backup, then removal of historical GitHub releases/tags.
-No remote writes or visibility change yet. Do not publish before audit and
-tag handling. No new game build or release requested.
+**2026-09-26 fresh-public replacement authorized:** user approved preserving the
+old repository as retro-trans/SRW-Z3-private-archive-20260926 (PRIVATE, archived)
+and creating an independent public retro-trans/SRW-Z3. Publish only cleaned
+master ancestry, never old refs or source dumps. Reissue existing 0.6.21's five
+unchanged protocol assets; validate uploads before publication and enroll via
+Retro Trans catalog workflow. No new build/install. Release notes now distinguish
+historical patch bytes from the cleaned source snapshot and later unbuilt fixes.
+The receipt work/publication-audit-20260926/fresh-public-repository.json records
+both repository identities; old worktree remotes must point to the private
+archive, not the newly public destination. Earlier blocked entry below records
+why the original repository must never be made public.
+
+**2026-09-26 hosted cleanup complete; publication blocked by retained objects:**
+User explicitly requested public visibility and Retro Trans-compatible release.
+Normal Windows-session GitHub authentication works; the earlier invalid-login
+report was a restricted-session failure, not an expired account credential.
+All nine historical releases and tags were removed after verifying local backup
+of 36 assets (1,662,554,942 bytes), notes and tag identities. Master was replaced
+atomically with clean history at 36e601c using exact force-with-lease guards.
+Receipts/backups: ignored work/publication-audit-20260926/{remote-cleanup.json,
+release-backup/}. Old Git/worktrees remain preserved separately as below.
+GitHub still serves localization/messages/activation_prompts.json (10,141 bytes)
+at removed commit 1cc692a4fd1d3b7d6ba0b40eb9d842f4c84a5932 after all old tags and
+releases are gone. KEEP PRIVATE: a force push does not purge retained objects.
+Ask permission to rename/preserve this repository privately and create a fresh
+public repository under the original name before publishing. Do not delete the
+whole repository or assume this expanded action is authorized.
+Existing PS3 English 0.6.21's five artifacts pass current Retro Trans 0.3.0
+validation (local/remote tools HEAD a84454d); patch bytes remain unchanged.
+No new build/install, recreated release, visibility change or public catalog
+entry yet. Latest source-only fixes and Vietnamese merge are NOT in that build.
 
 **2026-09-26 Vietnamese content merged from the linked worktree:** imported
 188 locale JSON files /43,104 entries from codex/vietnamese-silver 5dd5d66.

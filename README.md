@@ -20,13 +20,19 @@ This does not authorize publication or a repository visibility change.
 
 **Players:** see [docs/INSTALL.md](docs/INSTALL.md) -- download a release, apply the xdelta patches to your own dump.
 
-Latest published PS3 release: [**0.6.13**](https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.13). See
-[0.6.13 installation and release notes](docs/releases/0.6.13-github.md).
-The ISO patches target RPCS3; physical PS3 CFW testing is separate and unverified.
-The private GitHub release includes the full ISO patch, the v0.6.3 update
-patch only; the per-file ZIP and its checksum were removed at user request.
-See the release Downloads
-section for source/output hashes and ISO patch instructions.
+PS3 English release: [**0.6.21**](https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.21).
+See [installation, hashes and known limitations](docs/releases/0.6.21.md).
+Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools) in Automatic
+mode with your matching original Japanese ISO or exact 0.6.19 ISO, or download
+one xdelta from the release for manual application. Both routes produce the
+same 0.6.21 image. Physical PS3 compatibility is a hardware candidate, not a
+blanket CFW/HEN guarantee.
+
+The public release preserves the existing 0.6.21 patch bytes; it is not a new
+build. Later source fixes and the Vietnamese translation are not included.
+Historical releases were backed up privately and withdrawn during the public
+repository cleanup. This fresh repository excludes Japanese script dumps and
+the old Git history; see [local source requirements](docs/LOCAL_SOURCE_DATA.md).
 
 An open toolchain for translating **Dai-3-Ji Super Robot Taisen Z: Jigoku-hen**
 (PlayStation 3, BLJS10256; Vita port starting for PCSG00264) into English.
