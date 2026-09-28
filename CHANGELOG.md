@@ -1,10 +1,11 @@
 # Changelog
 
-## 0.6.22 release preparation (2026-09-28)
+## 0.6.22 release (2026-09-28)
 
 - User requested a new release containing the pending source fixes listed
-  below. Preparing English PS3 hardware/RPCS3 packaging and Retro Trans
-  original-to-0.6.22 plus exact-0.6.21-to-0.6.22 routes; not yet published.
+  below. Published English PS3 hardware-candidate/RPCS3 packaging with Retro
+  Trans original-to-0.6.22 plus exact-0.6.21-to-0.6.22 routes as latest:
+  https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.22.
 - Strict build and dual-target packaging passed; all pending source batches
   recorded below are included. The older "unbuilt" entries describe the
   state when those changes were made, not the contents of this new build.
@@ -13,8 +14,16 @@
   plus 153 previous-file patches created and decode-verified.
 - Both whole-ISO patches passed complete decode/hash verification and Retro
   Trans 0.3.1's release validator: 155,522,047 bytes from original and
-  22,069,326 bytes from exact 0.6.21. Public-download/catalog checks follow
-  publication; no original or translated game images are distribution assets.
+  22,069,326 bytes from exact 0.6.21. Five uploaded asset hashes match; actual
+  public downloads passed the tools' release reader. No original or translated
+  game images are distribution assets.
+- Retro Trans catalog workflow36431167008 succeeded, catalog commitdf0541dc.
+  The live app URL exposes both routes; refresh from the previous cached
+  catalog preserves immutable identities and selects .22 directly from either
+  original or .21. No reset, old-release mutation or visibility change.
+- Documented current passing build checks, 96 passing test modules and twelve
+  historical-fixture/Vita limitations without suppressing failures. This exact
+  image still needs RPCS3/physical-console runtime confirmation.
 - Release preflight caught the D-Trader three-item unlock report exceeding
   the general 850px check (857.5px at 28px text). Reworded it to "Completed:
   Get Repair Kit, Propellant Tank, Cartridge" (742px), retaining all items.

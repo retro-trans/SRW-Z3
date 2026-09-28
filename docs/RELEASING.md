@@ -12,6 +12,23 @@ private testing and public catalog enrollment are separate steps; publication,
 tags and uploads require an explicit user request.
 
 
+## Public release: 0.6.22 (2026-09-28)
+
+Published latest at2026-09-28T13:47:10Z, release398292582:
+https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.22.
+The explicitly requested release uses the existing public destination without
+changing visibility. Exactly five assets: original/.21 whole-ISO patches plus
+BUILD-MANIFEST.json, SHA256SUMS.txt and VALIDATION.json. Both local round trips,
+uploaded digests and actual public downloads passed Retro Trans0.3.1 checks.
+Catalog workflow36431167008 succeeded, commitdf0541dc; previous cached-catalog
+refresh preserves immutable identities and selects both direct .22 routes.
+Existing .21 assets are unchanged. Build source b1ee149, tag57a56ad includes
+records/test maintenance. Wrapped snapshot installed,220 hashes verified,
+26 saves unchanged. Local snapshot and per-file patches retained. No Vita/VI
+game package or full-game upload. Preserved layout remains a PS3 hardware
+candidate, and this exact build needs runtime confirmation. See release notes
+docs/releases/0.6.22.md and checks/limitations docs/validation/0.6.22.md.
+
 ## Public reissue: 0.6.21 (2026-09-26)
 
 **Current download policy:** at the user's later request, the .19->.21 upgrade

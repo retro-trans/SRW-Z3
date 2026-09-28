@@ -1,6 +1,6 @@
 # Handoff
 
-**2026-09-28 release 0.6.22 in progress:** user explicitly requested release.
+**2026-09-28 release 0.6.22 complete:** user explicitly requested release.
 All pending source batches below are now in the successful strict English
 build work/build_0.6.22_english_20260928, source b1ee149. Hardware package
 work/ps3_hardware_0.6.22_20260928 passed all554 files in both directory trees;
@@ -13,7 +13,17 @@ unchanged; recoverable game/cache backup work/install_backups/0.6.22_20260928_20
 Snapshot releases/0.6.22 created; local per-file patches220 original +153
 previous all decode-verified. See docs/validation/0.6.22.md for current
 checks, 96 passing test modules and twelve historical/Vita test limitations.
-No runtime confirmation of this exact image. Publication/catalog pending.
+Published latest at2026-09-28T13:47:10Z, release398292582:
+https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.22.
+Tag57a56ad adds records/test maintenance to actual build source b1ee149.
+Five uploaded digests match local artifacts; actual public downloads passed
+Retro Trans release_record. Scoped catalog run36431167008 succeeded;
+live catalog commitdf0541dc exposes both routes. Refresh from the saved prior
+20-release cache passes immutable identities and Latest planning for original
+and.21, with no cache reset. Existing.21 assets unchanged. No game/ISO upload,
+Vita/VI package or visibility change. No runtime confirmation of this exact image.
+Earlier pending/unbuilt entries below are chronological source-fix records;
+their English changes are now included in.22 unless explicitly excluded above.
 
 **2026-09-28 pending demo series captions:** screenshot84f786ec is OP.CPK
 member0/texture0, Mobile Suit Gundam Unicorn. All four BTLC/OP.CPK members
