@@ -82,8 +82,11 @@ class CurrentPackageTests(unittest.TestCase):
                  patch.object(m.preserved_iso, 'write', side_effect=preserved), \
                  patch.object(m.d, 'wrap', return_value=(b'wrapped', {})), \
                  patch.object(m.b, 'rpc_decode', return_value=b'folded'), \
+                 patch.object(m, 'check_code_permissions', return_value={'direct_branch_edges': 4}) as permissions, \
                  patch.object(m.layout, 'verify', return_value={'passed': True}):
                 report = m.package(root / 'source', build, output, root / 'fself', state, fresh=fresh)
+                permissions.assert_called_once_with(b'folded')
+                self.assertEqual(report['code_permission_checks']['direct_branch_edges'], 4)
             derived = json.loads((output / 'snapshot/build_manifest.json').read_text())
             self.assertEqual(manifest, original_manifest)
             self.assertEqual((build / 'EBOOT.BIN').read_bytes(), b'raw ELF')

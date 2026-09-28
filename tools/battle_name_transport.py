@@ -14,6 +14,10 @@ DRAW_SITE = 0x10826c
 STRCPY = 0x55a460
 DRAW = 0x110c3c
 CAPACITY = 31
+# Reserved RX gap after runtime-name data, before search_layout at0x78E000.
+# EXT is data-only, including after hardware packaging; never emit code there.
+CAVE = 0x78DC00
+CAVE_END = 0x78DD00
 MAGIC = 0x01424e50  # control byte + BNP; cannot be a canonical name prefix
 # Guard the cache lifetime contract, 31-byte clear, display field selection,
 # and native snapshot transfer, not merely the four replaced instructions.
@@ -73,21 +77,21 @@ def patch(blob, cursor):
     out = bytearray(blob)
     segs = eboot._segments(out)
     assert cursor % 4 == 0
-    start = cursor
-    copy_va = eboot._va(segs, cursor)
+    import ppc_permissions
+    copy_va = CAVE
     copy = copy_stub()
     draw_va = copy_va + len(copy)
     payload = copy + draw_stub(draw_va)
-    limit = eboot._off(segs, eboot.EXT_VA) + eboot.EXT_SIZE
-    assert cursor + len(payload) <= limit, 'Battle transport exceeds existing EXT'
-    assert not any(out[cursor:cursor + len(payload)]), 'Battle transport cave occupied'
+    assert copy_va + len(payload) <= CAVE_END, 'Battle transport exceeds RX reservation'
+    start = ppc_permissions.executable_offset(out, copy_va, len(payload))
+    assert not any(out[start:start + len(payload)]), 'Battle transport cave occupied'
     for site, original, target in [(s, STRCPY, copy_va) for s in COPY_SITES] + [(DRAW_SITE, DRAW, draw_va)]:
         off = eboot._off(segs, site)
         assert out[off:off + 4] == branch(site, original), ('Battle transport source changed', hex(site))
         out[off:off + 4] = branch(site, target)
     out[start:start + len(payload)] = payload
     check(out)
-    return out, start + len(payload)
+    return out, cursor  # no translation-data allocation
 
 
 def target(blob, site):
@@ -101,17 +105,19 @@ def target(blob, site):
 
 def check(blob):
     import eboot
+    import ppc_permissions
     segs = eboot._segments(blob)
     for start, end, digest in NATIVE_REGIONS:
         off = eboot._off(segs, start)
         assert hashlib.sha256(blob[off:off + end - start]).hexdigest() == digest, ('Battle transport contract changed', hex(start))
     copy_va = target(blob, COPY_SITES[0])
+    assert copy_va == CAVE, 'Battle transport must use reserved RX cave'
     assert all(target(blob, site) == copy_va for site in COPY_SITES)
     draw_va = target(blob, DRAW_SITE)
     assert draw_va == copy_va + len(copy_stub())
     for va, raw in ((copy_va, copy_stub()), (draw_va, draw_stub(draw_va))):
-        assert eboot.EXT_VA <= va and va + len(raw) <= eboot.EXT_VA + eboot.EXT_SIZE
-        off = eboot._off(segs, va)
+        assert CAVE <= va and va + len(raw) <= CAVE_END
+        off = ppc_permissions.executable_offset(blob, va, len(raw))
         assert blob[off:off + len(raw)] == raw, hex(va)
     # Dialogue and the encoding flag loads are NOT routed through the token.
     for va, raw in ((0x108258, '809f0020'), (0x108260, '88bf0028'),

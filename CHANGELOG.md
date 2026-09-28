@@ -1,5 +1,56 @@
 # Changelog
 
+## Local 0.6.23 build (2026-09-29)
+
+- User authorized building and installing the combat-crash correction, not
+  publishing a release. Strict full-build preflight passed:143 containers,
+  62772 dialogue records and693 input paths; localization543 views/zero issues.
+- Strict build completed in work/build_0.6.23_english_20260929. Dual-target
+  packaging dry-run/write passed; all554 files verified in both ISO trees.
+  Wrapped code-permission audit passes283 branches/1068 injected instructions.
+  ISO SHA256a2e45536da32fef9ef3c2c64202ddf02e3f24edfec4f573733b0e382abe88e8d,
+  5,018,877,952 bytes. See docs/validation/0.6.23.md for exact identities.
+- Preserved .22 as reproduction evidence. Installation preflight passed with
+  220 target files and26 protected saves. Installation completed: all220 hashes
+  match and all26 saves are unchanged; complete554-file game folder verified.
+  Backup work/install_backups/0.6.23_20260929_010804; cache moved, not deleted.
+  RPCS3 BLJS10256 now points to game/, not the faulty.22 ISO. Installed wrapped
+  EBOOT independently passed branch checks. Runtime combat retest still pending.
+
+## Unbuilt source fix - combat executable permissions (2026-09-29)
+
+- Moved battle-name copy/draw instructions out of the data-only extension
+  into a reserved existing RX cave0x78DC00..0x78DD00. Translation-data cursor,
+  LOAD flags and native structures are unchanged; no RWX workaround.
+- Added checks for changed direct branches and reachable injected code paths,
+  including conditional branches and call continuations. Rejects non-executable,
+  writable, unmapped/BSS targets and fallthrough into padding. Integrated with
+  source build verification, issue checks and hardware packaging, including
+  the decoded final SELF. Indirect targets remain outside this static audit.
+- PPC test harness now enforces executable permissions. Regression fixtures
+  reject the shipped .22 raw/wrapped executables and exercise relocated code
+  before/after hardware folding, alongside all1625 name bindings and full
+  current EBOOT composition in memory. No full game build, install, release
+  mutation or runtime claim; the installed and published .22 are unchanged.
+- Validation:44 tests passed across transport, permission negatives, current
+  executable composition, hardware packaging/layout, battle rendering, link
+  identity and D-Trader helpers. Current folded-code audit covers283 direct
+  branch edges and1068 injected instructions; all remain file-backed RX.
+  Updated .22 validation notes to flag its now-confirmed combat failure.
+
+## 0.6.22 combat crash confirmed (2026-09-29; diagnosis only)
+
+- Local reproduction boots the released .22 ISO and faults executing
+  0xC8C4B8 from battle-name draw0x10826C. All four new name-transport branches
+  target code emitted into the non-executable translation-data LOAD.
+- Delivered SELF header checks confirm the cause: copies at0xC8C460 and draw
+  at0xC8C4B8 are inside RW, not executable, memory. The prior byte/ABI/layout
+  checks missed this permission requirement; their pass did not establish
+  runtime safety. Retained the crash log and read-only binary diagnosis locally.
+- No corrective code, game build, installation, published-asset change or
+  withdrawal in this diagnosis. A fix needs executable-space placement and
+  branch-target permission regression checks, retaining the no-RWX constraint.
+
 ## 0.6.22 release (2026-09-28)
 
 - User requested a new release containing the pending source fixes listed

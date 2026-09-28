@@ -1514,6 +1514,8 @@ def patch(b, names, mapping, pairs_used=(), widths=None, pair_mapping=None):
 
 def verify(orig, new, names, mapping, vwf=None):
     """Read the patched file back the way the game will."""
+    import ppc_permissions
+    ppc_permissions.check_changed_branches(orig, new)
     import trader_spirit_prompts
     trader_spirit_prompts.check_elf(new,mapping)
     if vwf:

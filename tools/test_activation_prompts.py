@@ -62,6 +62,13 @@ class ActivationPromptsTests(unittest.TestCase):
         import command_swap_labels
         command_swap_labels.check_elf(new, self.mapping, self.widths)
         eboot.verify(self.source, new, names, self.mapping, report['vwf'])
+        import sys
+        sys.path.insert(0, str(Path('platforms/ps3').resolve()))
+        import cfw_loader_layout
+        import ppc_permissions
+        folded = cfw_loader_layout.fold(new)
+        permissions = ppc_permissions.check_changed_branches(self.source, folded)
+        print('PASS: folded current EBOOT branch permissions:', permissions)
         import check_command_layout
         from cpk import CPK
         archive = CPK('work/build_0.6.19_english_20260924_r3/AIDDATAPACK.CPK')

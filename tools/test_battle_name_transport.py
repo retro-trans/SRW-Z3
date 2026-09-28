@@ -11,6 +11,7 @@ import digraph
 import eboot
 import rpw
 import trdata
+import ppc_permissions
 from cpk import CPK
 from test_ps3_link_identity import CPU
 
@@ -29,11 +30,11 @@ class TransportTests(unittest.TestCase):
         trdata.use_glossary('analysis/glossary.json')
         cls.old = ROOT.joinpath('EBOOT.BIN').read_bytes()
         segs = eboot._segments(cls.old)
-        # .21's final reported free tail is 5,792 bytes; do not allocate over
-        # any existing table/string. Full current patch composition is also
-        # exercised by test_activation_prompts.
+        # Data cursor is preserved; code must use its separate RX reservation.
         cls.cursor = eboot._off(segs, eboot.EXT_VA) + eboot.EXT_SIZE - 5792
         cls.new, cls.end = B.patch(cls.old, cls.cursor)
+        cls.code_offset = ppc_permissions.executable_offset(cls.new, B.CAVE)
+        cls.code_size = len(B.copy_stub()) + len(B.draw_stub(B.CAVE + len(B.copy_stub())))
         cls.mapping = json.loads(ROOT.joinpath('pairs.json').read_text())
 
     def cpu(self, raw, patched=True):
@@ -144,16 +145,17 @@ class TransportTests(unittest.TestCase):
 
     def test_patch_scope_guards_and_no_translation_collision(self):
         allowed = {i for va in (*B.COPY_SITES, B.DRAW_SITE) for i in range(va - 0x10000, va - 0x10000 + 4)}
-        allowed.update(range(self.cursor, self.end))
+        allowed.update(range(self.code_offset, self.code_offset + self.code_size))
         self.assertEqual(len(self.old), len(self.new))
         self.assertTrue(all(a == b or i in allowed for i, (a, b) in enumerate(zip(self.old, self.new))))
-        self.assertLess(self.end - self.cursor, 256)
+        self.assertEqual(self.end, self.cursor)
+        self.assertLessEqual(self.code_size, B.CAVE_END - B.CAVE)
         for va in (*B.COPY_SITES, B.DRAW_SITE):
             broken = bytearray(self.old)
             broken[va - 0x10000] ^= 1
             with self.assertRaises(AssertionError):B.patch(broken, self.cursor)
         with self.assertRaises(AssertionError):B.patch(self.new, self.cursor)
-        broken = bytearray(self.old); broken[self.cursor] = 1
+        broken = bytearray(self.old); broken[self.code_offset] = 1
         with self.assertRaises(AssertionError):B.patch(broken, self.cursor)
         with self.assertRaises(AssertionError):B.check(self.old)
         for start, _, _ in B.NATIVE_REGIONS:
@@ -163,6 +165,37 @@ class TransportTests(unittest.TestCase):
         for mid, _, _ in S.rows():
             if S.localization.english().definition(mid)['source'] == 'マリーメイア兵':
                 self.assertEqual(S.localization.message(mid), 'Mariemaia Soldier')
+
+    def test_permissions_before_and_after_hardware_fold(self):
+        import sys
+        sys.path.insert(0, str(Path('platforms/ps3').resolve()))
+        import cfw_loader_layout
+        source = Path('work/EBOOT_dec.elf').read_bytes()
+        for blob in (self.new, cfw_loader_layout.fold(self.new)):
+            B.check(blob)
+            report = ppc_permissions.check_changed_branches(source, blob)
+            self.assertGreater(report['direct_branch_edges'], 4)
+            for site in (*B.COPY_SITES, B.DRAW_SITE):
+                ppc_permissions.executable_offset(blob, B.target(blob, site))
+                c = CPU(blob)
+                c.put(BASE, b'\xcc' * 0x10000)
+                c.put(SOURCE, b'A' * 64 + b'\0')
+                self.produce(c, site if site in B.COPY_SITES else B.COPY_SITES[0])
+                self.assertEqual(self.resolve(c), b'A' * 64)
+
+    def test_shipped_crash_is_rejected_raw_and_wrapped(self):
+        import struct
+        source = Path('work/EBOOT_dec.elf').read_bytes()
+        raw = Path('work/build_0.6.22_english_20260928/EBOOT.BIN').read_bytes()
+        wrapped = Path('work/ps3_hardware_0.6.22_20260928/snapshot/EBOOT.BIN').read_bytes()
+        folded = wrapped[struct.unpack_from('>Q', wrapped, 16)[0]:]
+        for blob in (raw, folded):
+            with self.assertRaisesRegex(ValueError, 'not in a read-only executable LOAD'):
+                ppc_permissions.check_changed_branches(source, blob)
+            # The PPC execution harness must reject what it previously ran.
+            c = CPU(blob)
+            with self.assertRaisesRegex(AssertionError, 'non-executable'):
+                c.run(B.DRAW_SITE, {B.DRAW})
 
 
 if __name__ == '__main__':

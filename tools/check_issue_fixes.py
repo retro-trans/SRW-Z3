@@ -107,6 +107,8 @@ def main():
     # not the printf template or a generic month/day substring.
     date_rows=json.loads(Path('translation/date_cards.json').read_text(encoding='utf-8'))['lines']
     pristine=Path('work/EBOOT_dec.elf').read_bytes()
+    import ppc_permissions
+    ppc_permissions.check_changed_branches(pristine, b)
     prefix='新多元世紀０００１年'
     assert pristine[0x6e5048:].startswith((prefix+'%s\0').encode('cp932'))
     expected_dates={}

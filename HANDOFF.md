@@ -1,5 +1,48 @@
 # Handoff
 
+**2026-09-29 local0.6.23 built and installed:** user explicitly authorized
+build/install, not release. Full strict build work/build_0.6.23_english_20260929
+passed; wrapped package work/ps3_hardware_0.6.23_20260929 dry-run/write passed.
+ISO SRW-Z3-English-0.6.23-hardware-test1.iso,5018877952 bytes,
+SHA256a2e45536da32fef9ef3c2c64202ddf02e3f24edfec4f573733b0e382abe88e8d.
+All554 disc files verified in both trees. Game/ now contains wrapped snapshot:
+220 installed hashes match,26 saves unchanged, backup/cache retained at
+work/install_backups/0.6.23_20260929_010804. RPCS3 registration confirmed game/,
+not.22 ISO. Installed SELF SHA197ef76d9a888d93178913bb19cbe0daaf6e5d4a0a59b97e61d90222def7a1a9;
+independent branch audit passes283 edges/1068 instructions. Copy0x78DC00,
+draw0x78DC58 both RX. Counter now.23. See docs/validation/0.6.23.md.
+No runtime combat confirmation yet. No tag/upload/release/catalog change;
+public.22 is still faulty and unchanged. Older unbuilt entries below record
+the earlier source-fix state; that correction is now in this local build.
+
+**2026-09-29 combat crash source fix:** battle_name_transport now reserves
+RX0x78DC00..0x78DD00 instead of emitting instructions at the EXT data cursor.
+Cursor/LOAD flags/structure sizes unchanged; zero-space/size/permission guards.
+Added ppc_permissions direct-branch/CFG audit in eboot.verify, issue gate,
+hardware preflight raw/folded and decoded final SELF. CPU harness now rejects
+NX instruction fetch. Original released raw/.22 SELF fixtures fail, corrected
+raw/folded cases pass; no full build/install or published asset changes.
+Full current EBOOT composition exercised only in memory. Still requires a new
+explicitly requested build and RPCS3 combat retest before claiming runtime fix.
+44 focused tests pass; full current folded audit283 direct edges/1068 injected
+instructions. Existing installed/published .22 is still faulty and unchanged.
+
+**2026-09-29 confirmed .22 combat crash, diagnosis only:** local RPCS3 log
+confirms the exact published .22 ISO was booted, then execution failed at
+0xC8C4B8, LR0x108270, from battle name draw0x10826C. Earlier startup warnings
+flag all four battle_name_transport branches: three copies ->0xC8C460 and
+name draw ->0xC8C4B8. Delivered SELF inspection confirms these stubs sit in
+the non-executable RW LOAD0x790000..0xC90000, flags0x600006. They were emitted
+into EXT, which is translation data, not executable code. Static tests checked
+bytes/ABI but missed executable permission; two-LOAD packaging preserves the
+data-only permission. This is a confirmed patch defect, not merely a reporter
+configuration issue. Preserve work/RPCS3_combat_crash_20260929.log; read-only
+reproducer work/diagnose_combat_0622.py. No fix/build/install/publication or
+release withdrawal performed. Fix must put stubs in verified executable space
+and guard permissions on all injected branch targets; do not make RW data RWX.
+The earlier reporter's page_unmap popup can be secondary cleanup, but their
+original log is still needed to prove the same first failure.
+
 **2026-09-28 release 0.6.22 complete:** user explicitly requested release.
 All pending source batches below are now in the successful strict English
 build work/build_0.6.22_english_20260928, source b1ee149. Hardware package

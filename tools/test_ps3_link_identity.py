@@ -4,12 +4,15 @@ import unittest
 from pathlib import Path
 import eboot
 import link_identity_geometry as I
+import ppc_permissions
 
 SOURCE=Path('work/ps3_link_background_v2_20260917/installed-backup-01/EBOOT-original.BIN')
 
 
 class CPU:
     def __init__(self,blob):
+        self.executable = [(r[3], r[3] + r[5]) for r in ppc_permissions.loads(blob)
+                           if r[1] & 1 and not r[1] & 2]
         self.regions=[(s['va'],blob[s['off']:s['off']+s['filesz']]) for s in eboot._segments(blob) if s['filesz']]
         self.mem={};self.r=[0]*32;self.f=[0.]*32;self.cr=[0]*8;self.lr=0;self.calls={};self.writes=set()
         self.r[1]=0x2000000;self.r[2]=0x7dd920
@@ -34,6 +37,8 @@ class CPU:
             return x-(1<<bits) if x>>(bits-1) else x
         for step in range(400000):
             if pc in ends:return pc
+            assert any(lo <= pc and pc + 4 <= hi for lo, hi in self.executable), \
+                'non-executable instruction fetch ' + hex(pc)
             if pc in self.calls:
                 result=self.calls[pc](self)
                 # Native callees may clobber volatile state; helpers must not

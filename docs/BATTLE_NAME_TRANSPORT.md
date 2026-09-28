@@ -4,6 +4,14 @@ September 26, 2026. Source-only fix; physical PS3/RPCS3 visual verification
 still required after an explicitly requested build. User confirmed the
 Mariemaia corruption screenshot comes from 0.6.21.
 
+**September 29 correction:** the initial transport shipped in 0.6.22 crashed
+at combat startup. Its instructions were incorrectly emitted into the
+non-executable translation-data extension. Local RPCS3 reproduced a fault
+at0xC8C4B8 from the name draw. Source now reserves RX space at0x78DC00..0x78DD00
+after runtime-name data and before the search-layout helper. The data cursor
+is unchanged; no LOAD is made writable/executable. This correction is not yet
+built, installed or runtime-confirmed.
+
 ## Established cause
 
 The native caption object has a **31-byte name array** at `+0xf94`, followed
@@ -78,5 +86,15 @@ Source guards cover the replaced calls plus hashes of the native cache,
 clear, selection and snapshot contracts. The build and production issue gate
 verify that all producers and the name drawer use the same emitted transport.
 The full in-memory executable patch test checks composition and the unchanged
-extension budget. Static/data checks alone must not be described as gameplay
-confirmation. Other unrelated text buffers are not enlarged or patched here.
+extension budget. The CPU harness now enforces executable LOAD permissions
+on instruction fetch, which was missing from the initial tests. Both raw and
+folded .22 fixtures fail the new gate; corrected code executes in both layouts.
+
+`ppc_permissions.py` checks changed direct branches in the original executable
+sections and follows reachable injected code, including conditional paths and
+call continuations. Targets must be file-backed RX, not R/RW/RWX or BSS. It runs
+in EBOOT validation, issue checks, hardware preflight before/after folding,
+and on the decoded final SELF before ISO creation. Tests cover negative paths
+and the released failure. Indirect branch targets and runtime pointer lifetime
+are outside this static check. Static/data checks alone must not be described
+as gameplay confirmation. Other unrelated buffers are not enlarged here.

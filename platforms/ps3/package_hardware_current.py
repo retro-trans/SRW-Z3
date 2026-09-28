@@ -18,8 +18,14 @@ import shutil
 
 import build_dual_0614 as b
 import preserved_iso
+import ppc_permissions
 
 c, d, layout = b.c, b.d, b.layout
+
+
+def check_code_permissions(elf):
+    return ppc_permissions.check_changed_branches(
+        (c.ROOT / 'work/EBOOT_dec.elf').read_bytes(), elf)
 
 
 def preflight(source, build, output, fself):
@@ -35,6 +41,8 @@ def preflight(source, build, output, fself):
     c.control_records(original)
     elf = (build / 'EBOOT.BIN').read_bytes()
     folded = layout.fold(elf)  # Rejects any incompatible input layout.
+    check_code_permissions(elf)
+    check_code_permissions(folded)
     print(json.dumps(layout.verify(elf, folded), indent=2), flush=True)
     print('Packaging override: ONE full unsplit ISO, no FAT32 parts or delta.')
     print('Fresh validated source build; NOT the frozen 0.6.14 translations.')
@@ -49,6 +57,7 @@ def package(source, build, output, fself, state, fresh=False):
     elfpath.write_bytes(folded)
     wrapped, self_report = d.wrap(elfpath, original, fself, output / 'wrapper-generated.bin')
     c.require(b.rpc_decode(wrapped) == folded, 'RPCS3 SELF extraction differs')
+    permission_checks = check_code_permissions(b.rpc_decode(wrapped))
     stage = output / 'intermediate_disc'
     stage.mkdir()
     print('Extracting and verifying original disc...', flush=True)
@@ -93,6 +102,7 @@ def package(source, build, output, fself, state, fresh=False):
                   fself_sha256=d.FSELF_SHA256, raw_elf_sha256=b.sha(elf),
                   folded_elf=d.info(elfpath), executable=derived['files']['EBOOT.BIN'],
                   self_checks=self_report, layout_checks=layout.verify(elf, folded),
+                  code_permission_checks=permission_checks,
                   rpcs3_debug_self_extraction_verified=True,
                   files=files, replacements=len(replacements),
                   translation_complete=manifest.get('translation_complete', False),
