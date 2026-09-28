@@ -1,5 +1,20 @@
 # Handoff
 
+**2026-09-28 release 0.6.22 in progress:** user explicitly requested release.
+All pending source batches below are now in the successful strict English
+build work/build_0.6.22_english_20260928, source b1ee149. Hardware package
+work/ps3_hardware_0.6.22_20260928 passed all554 files in both directory trees;
+ISO SHA553a85e458843eb4b28cd0c7105776ed56576cf42c1564f2e7a375d2cc6afbfd,
+5,018,877,952 bytes. Original and exact.21 upgrade ISO patches both decoded
+to that exact image and passed Retro Trans0.3.1 validation; ready directory
+work/retro-trans/ready_0.6.22 contains exactly five protocol artifacts.
+Installed wrapped snapshot in game/: all220 hashes match, all26 save files
+unchanged; recoverable game/cache backup work/install_backups/0.6.22_20260928_203448.
+Snapshot releases/0.6.22 created; local per-file patches220 original +153
+previous all decode-verified. See docs/validation/0.6.22.md for current
+checks, 96 passing test modules and twelve historical/Vita test limitations.
+No runtime confirmation of this exact image. Publication/catalog pending.
+
 **2026-09-28 pending demo series captions:** screenshot84f786ec is OP.CPK
 member0/texture0, Mobile Suit Gundam Unicorn. All four BTLC/OP.CPK members
 contain six 1280x64 linear ARGB title textures at GTF0x60: 24 distinct series.

@@ -3,9 +3,11 @@ import copy
 import json
 from pathlib import Path
 import tempfile
+import sys
 import unittest
 from unittest.mock import patch
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'platforms/ps3'))
 import package_hardware_current as m
 
 
@@ -27,6 +29,12 @@ class CurrentPackageTests(unittest.TestCase):
             package.assert_not_called()
 
     def test_snapshot_overlay_preserves_source_and_other_files(self):
+        self.overlay_case(fresh=True)
+
+    def test_preserved_layout_overlay_preserves_source_and_other_files(self):
+        self.overlay_case(fresh=False)
+
+    def overlay_case(self, fresh):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
             build = root / 'build'
@@ -62,13 +70,20 @@ class CurrentPackageTests(unittest.TestCase):
                 return {'sha256': 'test-hash', 'name': path.name}
 
             state = ((manifest, replacements, {}, {}), b'original', b'raw ELF', b'folded')
+            def preserved(path, source, inventory, primary, staged, expected):
+                self.assertEqual(set(staged), set(replacements))
+                for name, target in staged.items():
+                    self.assertEqual(m.d.info(target), expected[name])
+                return image(path, output/'intermediate_disc', primary, expected)
+
             with patch.object(m.c, 'ROOT', root), \
                  patch.object(m.d, 'extract_original', side_effect=extract), \
                  patch.object(m.d, 'write_image', side_effect=image), \
+                 patch.object(m.preserved_iso, 'write', side_effect=preserved), \
                  patch.object(m.d, 'wrap', return_value=(b'wrapped', {})), \
                  patch.object(m.b, 'rpc_decode', return_value=b'folded'), \
                  patch.object(m.layout, 'verify', return_value={'passed': True}):
-                report = m.package(root / 'source', build, output, root / 'fself', state)
+                report = m.package(root / 'source', build, output, root / 'fself', state, fresh=fresh)
             derived = json.loads((output / 'snapshot/build_manifest.json').read_text())
             self.assertEqual(manifest, original_manifest)
             self.assertEqual((build / 'EBOOT.BIN').read_bytes(), b'raw ELF')

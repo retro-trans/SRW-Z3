@@ -5,9 +5,22 @@
 - User requested a new release containing the pending source fixes listed
   below. Preparing English PS3 hardware/RPCS3 packaging and Retro Trans
   original-to-0.6.22 plus exact-0.6.21-to-0.6.22 routes; not yet published.
+- Strict build and dual-target packaging passed; all pending source batches
+  recorded below are included. The older "unbuilt" entries describe the
+  state when those changes were made, not the contents of this new build.
+- Installed the wrapped snapshot into game/: 220 hashes verified, 26 saves
+  unchanged, prior game files/cache backed up. Local snapshot and 220 original
+  plus 153 previous-file patches created and decode-verified.
+- Both whole-ISO patches passed complete decode/hash verification and Retro
+  Trans 0.3.1's release validator: 155,522,047 bytes from original and
+  22,069,326 bytes from exact 0.6.21. Public-download/catalog checks follow
+  publication; no original or translated game images are distribution assets.
 - Release preflight caught the D-Trader three-item unlock report exceeding
   the general 850px check (857.5px at 28px text). Reworded it to "Completed:
   Get Repair Kit, Propellant Tank, Cartridge" (742px), retaining all items.
+- Made the current hardware-packaging test independently importable and
+  covered both preserved-layout and fresh-layout overlays. The former test
+  mocked only the old fresh writer, despite the preserved writer being default.
 
 ## Unbuilt source fixes - demo series titles (2026-09-28)
 
