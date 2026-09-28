@@ -12,7 +12,26 @@ private testing and public catalog enrollment are separate steps; publication,
 tags and uploads require an explicit user request.
 
 
+## Public release: 0.6.23 (2026-09-29 local)
+
+Published latest2026-09-28T18:48:00Z, release398528967:
+https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.23.
+Combat-crash code placement corrected; the exact locally built/installed ISO
+is reused, without rebuilding. Source a4be7ac, tag73902e3 adds release records.
+Five assets: original/.22 ISO patches and three standard verification files.
+Both local round trips, uploaded digests and actual public downloads passed
+Retro Trans0.3.1. Catalog workflow36467800044 succeeded, commitcaa702b0;
+live/cached catalog refresh routes original/.22 directly and.21 via.22 to.23,
+preserving immutable identities. Earlier assets unchanged. Combat runtime
+confirmation and physical-console testing remain pending; see
+docs/releases/0.6.23.md and docs/validation/0.6.23.md.
+
 ## Public release: 0.6.22 (2026-09-28)
+
+**Superseded by0.6.23:** a combat-startup crash was subsequently reproduced
+and traced to injected battle-name instructions in non-executable data memory.
+Its release checks below missed that condition;0.6.23 corrects placement and
+adds permission-aware regression checks. Existing.22 assets remain immutable.
 
 Published latest at2026-09-28T13:47:10Z, release398292582:
 https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.22.

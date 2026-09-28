@@ -1,11 +1,11 @@
 # Changelog
 
-## 0.6.23 public release preparation (2026-09-29)
+## 0.6.23 public release (2026-09-29)
 
 - User explicitly requested publication of the existing validated0.6.23 build.
   No rebuild/version increment. Recorded actual build-source changes in
   a4be7acc4987ee13a370e53b853448427439aead; snapshot220 files locally.
-- Preparing original-to-.23 and exact-.22-to-.23 whole-ISO patches through
+- Published original-to-.23 and exact-.22-to-.23 whole-ISO patches through
   Retro Trans0.3.1. Existing.21 users retain the catalog's.21->.22->.23 path.
   Earlier assets/tags stay immutable; no game images or source dumps uploaded.
 - Release notes retain the established Apply/compatibility/acknowledgements/
@@ -15,7 +15,15 @@
   all decode-verified. These and the game snapshot remain local only.
 - Both whole-ISO round trips passed:155,522,037-byte original patch and
   21,203,347-byte .22 upgrade reproduce the exact validated .23 image.
-  Retro Trans release-directory validation passed; ready for public upload.
+  Retro Trans release-directory validation passed.
+- Published latest at2026-09-28T18:48:00Z (Sep29 local), release398528967:
+  https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.23.
+  Five uploaded asset hashes/sizes match; actual public downloads passed
+  Retro Trans's release reader. Tag73902e3 adds records to source a4be7ac.
+- Catalog workflow36467800044 succeeded (commitcaa702b0). Live catalog and
+  refresh from the saved21-release cache preserve immutable identities and
+  route original/.22 directly, .21 via.22, to latest.23 without a cache reset.
+  No earlier release assets were changed or withdrawn; no visibility change.
 
 ## Local 0.6.23 build (2026-09-29)
 

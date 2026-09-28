@@ -1,5 +1,20 @@
 # Handoff
 
+**2026-09-29 public0.6.23 release complete:** explicit publication request.
+https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.23
+Published latest2026-09-28T18:48:00Z (Sep29 local), release398528967.
+Actual source a4be7acc4987ee13a370e53b853448427439aead, tag73902e3 adds records.
+Reuses the exact installed/validated .23 ISO below, no rebuild. Exactly five
+assets: original->.23 xdelta155522037 bytes, .22->.23 xdelta21203347 bytes,
+BUILD-MANIFEST.json, SHA256SUMS.txt, VALIDATION.json. Both full local decode
+round trips, uploaded digests and actual public downloads passed Retro Trans
+0.3.1. Scoped catalog run36467800044 succeeded, commitcaa702b0f45dbbc72e7fcbce3ccec21fc5d3db2e.
+Live catalog and saved21-release cache refresh pass immutable identities;
+original/.22 route directly to.23 and.21 chains via.22 without launching it.
+Local snapshot220 files and per-file patches220+145 verified; no game-file/ISO
+uploads, old-release mutations or visibility changes. Repo was already public.
+Combat retest still pending; no runtime confirmation implied by publication.
+
 **2026-09-29 local0.6.23 built and installed:** user explicitly authorized
 build/install, not release. Full strict build work/build_0.6.23_english_20260929
 passed; wrapped package work/ps3_hardware_0.6.23_20260929 dry-run/write passed.
