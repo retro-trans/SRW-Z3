@@ -18,6 +18,18 @@ When translating dialogue:
 - Do not supply what the source omits. Japanese drops the subject constantly and English usually needs one, but where the scene doesn't settle who, prefer a construction that keeps the ambiguity — a passive, an imperative — over inventing "I" or "we".
 
 When translating any kind of text:
+- Sphere titles use **Sorrowful Maiden**, **Wounded Lion**, **Lying Black
+  Sheep**, and **Inexhaustable Water Gourd**, exactly as specified by the user
+  on 2026-09-28 (including the spelling "Inexhaustable"). Use glossary tokens
+  悲しみの乙女 / 傷だらけの獅子 / 偽りの黒羊 / 尽きぬ水瓶. Do not revert to
+  Maiden of Sorrow, Scarred Lion, False Black Ram, or Water Jar/Bearer variants.
+- The characters ランド and メール are **Rand** and **Mel** (Rand Travis,
+  Mel Beater), not Land and Mail. Use the canonical glossary references;
+  ordinary uses of land/mail and unrelated proper names are unaffected.
+- The lore terms **Sphere** (スフィア) and **Dimensional Power** (次元力)
+  always retain these capitals, including mid-sentence. Use their canonical
+  glossary tokens without `|lc`. Do not apply this rule to an ordinary
+  geometric sphere, "sphere of human life", or Earth-sphere references.
 - The stat 気力 is **Focus**, abbreviated **Foc** in compact labels. Do not
   call this stat Morale. The separate Spirit command 集中 remains Focus;
   ordinary references to morale in character dialogue are not stat labels.

@@ -181,6 +181,7 @@ LAYOUT = {
     "AIDDATAPACK.CPK": "DATA/AIDDATA",
     "EFFPS3.CPK": "DATA/ANIME",
     "CMN.CPK": "DATA/BTLC",
+    "OP.CPK": "DATA/BTLC",
 }
 # Terrain-label candidates include complete, text-only map copies. Keep them
 # in the same manifest/verification workflow as EBOOT; never deploy half a set.

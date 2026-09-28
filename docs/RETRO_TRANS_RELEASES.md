@@ -11,6 +11,37 @@ build and snapshot workflow. Full builds and installation retain their existing
 authorization requirements. This document adds the distribution contract; it
 does not replace platform-specific build or game-testing checks.
 
+## Mandatory compatibility gate for every new release
+
+Standing user requirement, 2026-09-26: every new release must work with
+[Retro Trans](https://github.com/retro-trans/retro-trans-tools). For an authorized
+release, compatibility validation and catalog enrollment are part of completion,
+not optional follow-up work.
+
+1. Check the supported formats and release contract against the current tools
+   version and record the version/commit used. Do not label an unsupported Vita
+   installer or directory package compatible; resolve support before release.
+2. Include exactly one BUILD-MANIFEST.json, the referenced patches,
+   SHA256SUMS.txt and VALIDATION.json. Preserve stable identities and actual
+   build-source provenance. Verify each patch's complete local decode round trip
+   and run the tools' release validator without weakening its checks.
+3. Before publishing, verify uploaded asset names, sizes and hashes. After
+   publication, validate the actual public downloads through the tools' release
+   reader and confirm every offered input routes to the intended target.
+4. Enroll the verified release in the live public catalog and confirm the
+   catalog URL used by the app exposes it. A dispatched workflow alone is not
+   evidence of success; investigate failures and report incomplete enrollment.
+5. Check compatibility with the previous catalog, including immutable binary
+   identities and existing cached-client refresh. Do not silently remove or
+   replace published routes or require a cache reset as the normal update path.
+   An explicit withdrawal requires a separately assessed client migration.
+6. Keep exact input requirements, platform/runtime test results and remaining
+   limitations in the release notes; keep README instructions version-neutral.
+
+Do not mark release work complete if any required gate fails. This standing
+requirement is not permission to build, publish, change unrelated projects,
+or distribute private source/game files without the relevant authorization.
+
 ## What the desktop patcher can apply
 
 | Project output | Retro Trans v1 handling |

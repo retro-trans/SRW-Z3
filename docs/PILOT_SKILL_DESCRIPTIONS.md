@@ -27,7 +27,8 @@ rounding, sub-unit/sub-pilot exclusions and activation conditions.
 
 ## Reference differences and gaps
 
-- Feral: Akurasu gives a +30% critical bonus, while the Japanese help says
+- Aggressive Beast (originally labeled Feral; name corrected in source on
+  2026-09-28): Akurasu gives a +30% critical bonus, while the Japanese help says
   +20%. Per the requested reference and project rules, descriptions now say
   +30%. Runtime behavior has not been measured or changed.
 - Negotiator follows Akurasu's on-hit condition; Japanese help says the

@@ -5,11 +5,7 @@ The maintained converter is in its **Z3 saves** tab. Choose PS3 to Vita,
 Vita to PS3, or both directions; check both save profiles before converting.
 Read the [save conversion guide](https://github.com/retro-trans/retro-trans-tools/blob/main/retro_trans/resources/Z3-SAVE-CONVERSION.txt).
 Supports decrypted Jigoku-hen RPCS3/Vita3K saves only; it does not decrypt,
-resign or install physical-console saves. Existing standalone 0.6.14 files
-and historical packagers remain as compatibility references. Develop and
-distribute future converter changes through Retro Trans, not another Z3
-standalone package. No version tag, release, upload or publication is authorized
-by this migration. Game builds, installed games and live saves are unchanged.
+resign or install physical-console saves.
 
 **Release maintainers:** see [Retro Trans release preparation](docs/RETRO_TRANS_RELEASES.md)
 for the standard patch manifest, PS3/Vita boundaries and private-project workflow.
@@ -18,19 +14,16 @@ This does not authorize publication or a repository visibility change.
 
 **Players:** see [docs/INSTALL.md](docs/INSTALL.md) -- download a release, apply the xdelta patches to your own dump.
 
-PS3 English release: [**0.6.21**](https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.21).
-See [installation, hashes and known limitations](docs/releases/0.6.21.md).
+Download the [latest release](https://github.com/retro-trans/SRW-Z3/releases/latest).
+Each release includes its installation instructions, required input hashes,
+translation coverage and compatibility notes.
 Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools) in Automatic
-mode with your matching original Japanese ISO, or download the full xdelta
-from the release for manual application. The 0.6.19 upgrade was withdrawn;
-use your original game dump. Physical PS3 compatibility is a hardware candidate, not a
-blanket CFW/HEN guarantee.
+mode with your own matching game dump, or download a patch from the release
+for manual application. Follow that release's instructions for the required
+source image and supported platform.
 
-The public release preserves the existing 0.6.21 patch bytes; it is not a new
-build. Later source fixes and the Vietnamese translation are not included.
-Historical releases were backed up privately and withdrawn during the public
-repository cleanup. This fresh repository excludes Japanese script dumps and
-the old Git history; see [local source requirements](docs/LOCAL_SOURCE_DATA.md).
+This repository excludes Japanese script dumps; see
+[local source requirements](docs/LOCAL_SOURCE_DATA.md).
 
 An open toolchain for translating **Dai-3-Ji Super Robot Taisen Z: Jigoku-hen**
 (PlayStation 3, BLJS10256; Vita port starting for PCSG00264) into English.
@@ -49,28 +42,10 @@ versions. See [shared/README.md](shared/README.md) for the consistency policy.
 - `game/`: existing PS3 test installation, unchanged.
 - `work/vita/`: ignored Vita review/extraction/build intermediates.
 
-Vita has a **complete installable ZIP with an opening-stage English pilot**
-(244 dialogue records), but no runtime/visual test yet. It is NOT the full
-PS3 English port. Use [Vita ZIP instructions](platforms/vita/INSTALL_ZIP.md);
-no original-PKG install or separate overlay is needed for that ZIP.
 See [platforms/vita/README.md](platforms/vita/README.md) for scope and limits.
-
-Successor to the PS2 [SRW Z project](../SRWZClean/SRW-Z). The *doctrine* is
-inherited; almost none of the *plumbing* is, because the platform changed
-underneath it. See [`docs/FINDINGS.md`](docs/FINDINGS.md) for what actually
-carried over.
 
 You need your own copy of the game. This repository contains no disc image, no
 game data, no extracted Lua and no dump of the Japanese script.
-
-## Status
-
-**PS3: end to end, proven in-game.** An edited line has been translated, repacked,
-re-encrypted, loaded by the real game and seen on screen. Every layer of the
-chain works in both directions.
-
-For PS3, the base pipeline works; translation and UI corrections continue.
-Vita still needs source verification and platform-specific reverse engineering.
 
 ## Check the translation
 
@@ -195,67 +170,12 @@ python tools/cpk.py unpack <file.cpk> <outdir>
 Pure stdlib, no dependencies. `unsdat.py` shells out to RPCS3's `--decrypt`
 rather than reimplementing PS3 crypto.
 
-## The working recipe
-
-Historical format demonstration, not the current contributor workflow. Use
-[TRANSLATING.md](TRANSLATING.md) for canonical edits; do not follow these older
-direct-write examples to prepare or install a current release.
-
-```sh
-# 1. decrypt (close RPCS3 first - it is single-instance)
-python tools/unsdat.py "<game>/PS3_GAME/USRDIR/DATA/STAGE" work/stage
-
-# 2. unwrap one stage to its Lua
-python tools/extract_stage.py work/stage/STG0001A.SDAT work/lua
-
-# 3. edit the Lua - English must be FULLWIDTH, see docs/TEXT_RULES.md
-python tools/fullwidth.py --width "Look, everyone!"
-
-# 4. rebuild the CPK
-python tools/cpkpatch.py work/stage/STG0001A.SDAT out.cpk --replace 4=edited.lua
-
-# 5. re-encrypt - VERSION 2, not 4; v3/v4 output is rejected
-make_npdata -e out.cpk STG0001A.SDAT 2 0 00 1 16 0 "" 0
-
-# 6. check acceptance in seconds instead of booting (close RPCS3 first)
-rpcs3.exe --decrypt STG0001A.SDAT     # a .unedat appears == the game will load it
-
-# 7. copy into DATA/STAGE and run
-```
-
-Three traps, each of which cost a cycle here:
-
-1. **`make_npdata` version 4 is broken** even though the originals are v4. Use
-   2. See [`docs/WRITEBACK.md`](docs/WRITEBACK.md).
-2. **English must be fullwidth** or it renders as unrelated kanji, at two
-   columns per character. See [`docs/TEXT_RULES.md`](docs/TEXT_RULES.md).
-3. **Close RPCS3 before the oracle.** Single-instance means a running copy
-   makes every check look like a rejection.
-
-## Inherited from the PS2 project
-
-The rules worth keeping, all verified as still relevant in Z3:
-
-- **A glossary term and its `《》` links are ONE edit.** Balanced `《》` pairs
-  exist in the Z3 script. On PS2 a link with no bank entry crashed the scene.
-  Assume the same until proven otherwise; rename the bank first.
-- **`$` placeholders expand at runtime.** `$n $F $l $D $R $A` all appear.
-  Widths must be re-measured on PS3 — do not carry the PS2 column counts over.
-- **cp932 limits what you can write.** No em-dashes, no curly quotes, no
-  umlauts.
-- **A tool being correct is not evidence that its output shipped.** Verify
-  against the artifact the game actually loads.
-- **`analysis/glossary.json` from the PS2 project is the highest-value
-  carryover** — same continuity, overlapping cast and mecha roster. Bring it
-  across with its `glossary_sources.json` provenance intact, especially the
-  `ambiguous` entries, which are the ones a global rename gets wrong.
-
 ## Credits
 
 | Role | Contributors |
 | --- | --- |
 | Project Lead | pow |
-| Playtesting | SecondarySebs, gabrielgamer99, Theoldnile, Kapt, mr.notaru, rikineko |
+| Playtesting | SecondarySebs, gabrielgamer99, Theoldnile, Kapt, mr.notaru |
 
 ## Not in this repository
 

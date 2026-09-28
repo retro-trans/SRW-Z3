@@ -678,7 +678,7 @@
     },
     {
       "jp": "メール",
-      "en": "Mail",
+      "en": "Mel",
       "kind": "keyword",
       "source": "「オリジナル」",
       "zukan_id": 107,
@@ -12761,6 +12761,61 @@
       "status": "confirmed",
       "note": "User-approved Igura spelling, 2026-09-25. Singular here; plural s stays outside the token.",
       "src": "User screenshot correction; scenario_titles:r_d029fa3a95e174a1 and stage0037_03"
+    },
+    {
+      "jp": "悲しみの乙女",
+      "en": "Sorrowful Maiden",
+      "kind": "keyword",
+      "source": "Super Robot Wars Z",
+      "zukan_id": null,
+      "field": "",
+      "status": "confirmed",
+      "note": "Sphere title. Preserve user-approved English spelling, including Inexhaustable.",
+      "src": "User correction, 2026-09-28"
+    },
+    {
+      "jp": "傷だらけの獅子",
+      "en": "Wounded Lion",
+      "kind": "keyword",
+      "source": "Super Robot Wars Z",
+      "zukan_id": null,
+      "field": "",
+      "status": "confirmed",
+      "note": "Sphere title. Preserve user-approved English spelling, including Inexhaustable.",
+      "src": "User correction, 2026-09-28"
+    },
+    {
+      "jp": "偽りの黒羊",
+      "en": "Lying Black Sheep",
+      "kind": "keyword",
+      "source": "Super Robot Wars Z",
+      "zukan_id": null,
+      "field": "",
+      "status": "confirmed",
+      "note": "Sphere title. Preserve user-approved English spelling, including Inexhaustable.",
+      "src": "User correction, 2026-09-28"
+    },
+    {
+      "jp": "尽きぬ水瓶",
+      "en": "Inexhaustable Water Gourd",
+      "kind": "keyword",
+      "source": "Super Robot Wars Z",
+      "zukan_id": null,
+      "field": "",
+      "status": "confirmed",
+      "note": "Sphere title. Preserve user-approved English spelling, including Inexhaustable.",
+      "src": "User correction, 2026-09-28"
+    },
+    {
+      "jp": "ランド",
+      "en": "Rand",
+      "kind": "pilot",
+      "source": "Super Robot Wars Z",
+      "zukan_id": null,
+      "field": "",
+      "status": "confirmed",
+      "note": "Rand Travis, Mel Beater's partner. User-approved spelling; never change ordinary land nouns or verbs.",
+      "src": "User screenshot correction, 2026-09-28"
     }
   ]
 }

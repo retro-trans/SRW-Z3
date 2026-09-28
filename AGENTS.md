@@ -9,6 +9,11 @@ Before preparing patch releases, read
 shared Retro Trans manifest, local validation gate, PS3/Vita boundaries and
 private-project workflow.
 
+Every future release must work with Retro Trans (retro-trans/retro-trans-tools).
+Treat the compatibility checklist in docs/RETRO_TRANS_RELEASES.md as a release
+completion gate, including public downloads, catalog discovery and cached-catalog
+upgrade checks. Do not declare a release complete while this gate is failing.
+
 Keep this project private. Editing, testing or preparing artifacts does not
 authorize a version tag, GitHub release, upload, publication, visibility change,
 or addition to the public patch catalog. Do those only when the user explicitly

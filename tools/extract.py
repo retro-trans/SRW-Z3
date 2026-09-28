@@ -180,6 +180,7 @@ DISC = {
     "STG0272.SDAT": "DATA/STAGE",
     "SRVC.BIN": "DATA/BTLC",
     "CMN.CPK": "DATA/BTLC",
+    "OP.CPK": "DATA/BTLC",
     "MTZKN_KW.CPK": "COMMONDATA/MTDATA",
     "MTZKN_PT.CPK": "COMMONDATA/MTDATA",
     "MTZKN_RT.CPK": "COMMONDATA/MTDATA",
@@ -430,7 +431,7 @@ def main(argv):
         print(m)
 
     steps = [
-        ("battle_ui", lambda: [S.path("CMN.CPK")]),
+        ("battle_ui", lambda: [S.path("CMN.CPK"), S.path("OP.CPK")]),
         ("stages", lambda: do_stages(S, a.out, a.work, a.rpcs3, log)),
         ("rpw", lambda: do_rpw(S, a.out, log)),
         ("library", lambda: do_library(S, a.out, log)),

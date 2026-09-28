@@ -728,6 +728,8 @@ def main(argv):
         location_caption.build(outdir, spec[0], title_version=title_version)
         import maximum_break_art
         maximum_break_art.build(outdir, spec[0])
+        import demo_series_titles
+        demo_series_titles.build(outdir)
         subprocess.run([sys.executable, os.path.join(here, "build_ui.py"),
                         "--out", outdir, "--ttf", spec[0]], check=True)
         if "--eboot" in argv:

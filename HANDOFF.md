@@ -1,5 +1,97 @@
 # Handoff
 
+**2026-09-28 pending demo series captions:** screenshot84f786ec is OP.CPK
+member0/texture0, Mobile Suit Gundam Unicorn. All four BTLC/OP.CPK members
+contain six 1280x64 linear ARGB title textures at GTF0x60: 24 distinct series.
+tools/demo_series_titles.py maps their visually checked order to existing
+glossary IDs, guards each original member hash, and replaces only pixels.
+Original input remains game/PS3_GAME/USRDIR/DATA/BTLC/OP.CPK until the next
+explicit build caches it at work/orig/OP.CPK (validated before copying).
+Integrated build_project/check_issue_fixes and extract/deploy/apply_xdelta;
+release/install/hardware packaging inherit deploy.LAYOUT. Registered in
+localization/assets.json. Five focused tests, including temporary archive
+round trip; work/demo_series_english_preview.png visually checked. No full
+game build/install/release or runtime demo verification. Vita not mapped.
+
+**2026-09-28 pending Sphere title corrections:** user explicitly wants
+Sorrowful Maiden / Wounded Lion / Lying Black Sheep / Inexhaustable Water
+Gourd (preserve exact spelling). Four new glossary entries use source keys
+悲しみの乙女 / 傷だらけの獅子 / 偽りの黒羊 / 尽きぬ水瓶. Seven dialogue
+records in0052_03/0087_04/0091_04/0097_04 plus four library entries now use
+tokens; Black Sheep no longer contains the unrelated character-Ram token.
+Source token inventories and local PS3 glossary template updated. Two VI
+records migrated with four VI glossary values preserving existing prose.
+BASE_RULES and conflicting work/tr/CONVENTIONS.md spellings corrected.
+test_sphere_titles.py: four pass; all2,135 dialogue records across four files
+pass font/structure checks; localization/543 compatibility views pass.
+Wavering Scales and other titles unchanged. No build/install/runtime test.
+
+**2026-09-28 pending Rand/Mel correction:** user wants Rand and Mel, not
+Land/Mail. Existing glossary:r_47ca0c51f435e8f8 now Mel. Added glossary:rand
+(ランド, Rand) to EN/VI catalogs, local source definition and PS3 legacy
+glossary template. Eight dialogue records in0052_03/0060_03/0069_03/0070_04/
+0071_04/0087_04/0091_04 and Mel's library.kw_104 biography now reference Rand;
+full names resolve Rand Travis / Mel Beater. Nine local source token lists
+and six VI token references migrated; unrelated ordinary words untouched.
+BASE_RULES records spellings, test_rand_mel.py has four passing tests. All
+3,044 dialogue records in those files pass font/structure checks; English
+localization/543 compatibility views pass. No build/install/runtime check.
+
+**2026-09-28 pending Sphere/Dimensional Power capitalization:** screenshot
+2cd18b45 comes from stage0052_03, Kouji r_adec86483b13599a and Banagher
+r_2cf701bbcde3ec13. Glossary already correct; `|lc` overrides caused the bug.
+Removed21 overrides in18 English dialogue records (stage0052_03/0055_03/0084_03),
+canonicalized25 lowercase literal library references in13 records
+(library.kw_000/library.rt_240). Shared source token inventories updated,
+plus token-only case-modifier migration for17 Vietnamese records in0052/0055;
+no VI prose changes. Ordinary spheres/Earth sphere untouched. Standing rule
+in BASE_RULES and terms.py docs; tools/test_lore_capitalization.py guards this.
+All869 dialogue records pass font/structure checks; localization/543 views
+pass. No build, installation or runtime verification; source batch only.
+
+**2026-09-28 pending chapter narration (source only):** screenshotfcdfb14d
+is STG0052 member7, offsets0x114/154/194. Missing three-line page plus related
+STG0026(3), STG0083(3), STG0098A(4): 13 rows in new chapter_narration catalog.
+tools/chapter_narration.py supplies exact draw hooks through eboot.load_ui_hook;
+never patch these resources using narration.py's 84-byte record assumptions.
+Their source hashes/offsets are guarded, with single-row translations and
+1000px/32px font checks in check_issue_fixes. Three tests pass, including full
+UI hook-table emission in memory. All 144 stage CPKs' small padded members
+(IDs6+,<=20KB) scanned via work/audit_narration_members.py: only these four
+missing pages plus existing opening/post-prologue narration found. Opening
+uses member index6 = ID7 and is already handled by narration_0001a.json.
+No stage/game file edits, build, install or runtime verification performed.
+
+**2026-09-28 pending Aggressive Beast terminology correction:** user reported
+Feral; Akurasu Z3 Pilot Abilities confirms Aggressive Beast with the same
+130 Focus / critical +30% / damage x1.1 description. Updated canonical
+skills:r_671a3037d9a84efd and bonus_descriptions:va_70a2d8. Existing source key
+野性化 remains unchanged (Akurasu spells it 野生化). Tests in
+tools/test_aggressive_beast.py cover label export, bonus hook, font fit and
+in-memory RPW relocation. No build/install; runtime verification pending.
+
+**2026-09-28 pending MAP weapon info fix (source only):** screenshot457ddb34
+shows Japanese IFF 有効 and Pattern/Self-Centered overlap. New
+`map_weapon_info` catalog/hooks provide On/Off; `tools/map_weapon_info.py`
+repoints the two FSSA Off defaults and moves all three Pattern headers from
+native x607.5 to570.5. Canonical ui_hook pattern labels are Centered / Target /
+Line Scan / Direction. Native value anchors, font sizes and targeting logic
+are unchanged. Source inventory covers both states, four modes, all matching
+member-0 widgets; .21 font widths enforce 8px column gaps and right edge830.
+Integrated build_ui + check_issue_fixes gates. Five focused tests, three
+weapon-heading and four destroy-quote tests pass; full UI hook emission tested
+in memory, localization check/543 compatibility views pass. No build/install
+or runtime visual verification: batch with other pending fixes only on an
+explicit build request. Source definitions remain local/ignored as usual.
+
+**2026-09-26 standing release requirement:** every future release must work with
+Retro Trans. AGENTS.md/CLAUDE.md now require the compatibility completion gate in
+docs/RETRO_TRANS_RELEASES.md: local round trips, uploaded/public artifact checks,
+live catalog discovery, correct routes and previous-cache compatibility.
+Unsupported packages or failed enrollment block completion; do not weaken
+validators or use cache resets as the normal release process. No new build or
+publication is authorized merely by this requirement.
+
 **2026-09-26 original-only public release withdrawal:** user requested removing
 the .19->.21 upgrade because .21 is the first public release. Retain only the
 unchanged from-original xdelta; regenerate the three metadata assets for that

@@ -10,12 +10,13 @@ So prose refers to a term by its JAPANESE, and the build expands it:
 
     "The $$スフィア$$ reacts to his will."  ->  "The Sphere reacts to his will."
     "three $$スフィア$$s"                  ->  "three Spheres"
-    "a $$スフィア|lc$$ bearer"             ->  "a sphere bearer"
 
 Suffixes stay OUTSIDE the token so plurals and possessives need no syntax.
 `|lc` lower-cases the first letter for mid-sentence use; nothing else is
 supported, because anything cleverer hides the real text from the person
 writing the line.
+Never use `|lc` for the lore terms Sphere (スフィア) or Dimensional Power
+(次元力); their capitalization is required even in the middle of a sentence.
 
 The key is the Japanese and NOT a slug of the English, because the English is
 the thing that changes -- an English-derived id starts lying the moment a term

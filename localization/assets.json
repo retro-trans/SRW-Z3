@@ -3,6 +3,14 @@
   "policy": "Text sprites are catalog messages; raster logos require separately approved localized art. Audio is not converted into a dub by translating subtitles.",
   "assets": [
     {
+      "id": "demo.series_titles",
+      "kind": "text_rasterization",
+      "message_groups": ["glossary"],
+      "ps3_adapter": "tools/demo_series_titles.py: 24 glossary message IDs mapped to OP.CPK members 0-3, textures 0-5",
+      "vita_adapter": "Not source-mapped; do not reuse PS3 offsets",
+      "other_languages": "Resolve canonical series titles and validate font coverage and 1280x64 strip fit. English adapter currently requires ASCII."
+    },
+    {
       "id": "ability.berserk_banner",
       "kind": "text_rasterization",
       "message_id": "abilities:r_3633df5b7b8f47fa",

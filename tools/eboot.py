@@ -228,6 +228,9 @@ UI_KEY_VWF = set()                 # mixed keys with already translated Latin le
 # (the bonus descriptions): the copies would not fit the unchanged extension.
 # check_issue_fixes reads every key back, so an overwritten key fails the gate.
 UI_ELF_RESIDENT = set()
+# keys a later build step overwrites in place, so they keep an EXT copy:
+# movement_type_cells rewrites the first standalone 陸 (see name_hook)
+UI_OWN_COPY = {'陸'}
 
 
 def load_ui_hook(paths=UI_HOOK_FILES):
@@ -277,6 +280,12 @@ def load_ui_hook(paths=UI_HOOK_FILES):
     out.update(mission_conditions.line_hooks(mission_rows))
     import episode_heading_hooks
     out.update(episode_heading_hooks.hooks())
+    import chapter_narration
+    for jp, en in chapter_narration.hooks().items():
+        if jp in out and out[jp] != en:
+            raise ValueError('Conflicting chapter narration: ' + jp)
+        out[jp] = en
+        no_line_pairs.add(jp)
     import name_entry_labels
     out.update(name_entry_labels.hooks())
     import team_order_labels
@@ -299,6 +308,13 @@ def load_ui_hook(paths=UI_HOOK_FILES):
             raise ValueError('Conflicting command/swap label: ' + jp)
         out[jp] = en
         no_line_pairs.add(jp)
+    import map_weapon_info
+    for jp, en in map_weapon_info.hooks().items():
+        if jp in out and out[jp] != en:
+            raise ValueError('Conflicting MAP weapon IFF state: ' + jp)
+        out[jp] = en
+        no_line_pairs.add(jp)
+        UI_ELF_RESIDENT.add(jp)
     import bonus_descriptions
     import weapon_requirement_runtime
     for jp, en in weapon_requirement_runtime.hooks().items():
@@ -313,6 +329,13 @@ def load_ui_hook(paths=UI_HOOK_FILES):
         UI_ELF_RESIDENT.add(jp)
         # drawn whole, like the parts/skill description tables, which opt
         # out too; per-line pairs would also overflow the extension
+        no_line_pairs.add(jp)
+    import destroy_quotes
+    for jp, en in destroy_quotes.hooks().items():
+        if jp in out and out[jp] != en:
+            raise ValueError('Conflicting shot-down quote: ' + jp)
+        out[jp] = en
+        UI_ELF_RESIDENT.add(jp)     # same table kind: resident keys, drawn whole
         no_line_pairs.add(jp)
     import trade_list_flavor,record_screen_labels
     out.update(trade_list_flavor.hooks())
@@ -721,8 +744,15 @@ def name_hook(b, segs, names, mapping):
         # to silently change the Grd hook's lookup key into its English cell.
         # Own a stable copy in EXT even when Japanese exists in the ELF.
         jp_at[jp] = None
-        if jp in UI_ELF_RESIDENT:
-            m = rod.find(NUL + jp.encode('cp932') + NUL)
+        # Point at the ELF's own copy wherever it holds the key verbatim and
+        # no later step rewrites it: owning a copy of every key cost ~25 KB
+        # of the unchanged extension. UI_OWN_COPY lists the known rewrites;
+        # check_issue_fixes reads every key back, so a new one fails the gate.
+        if jp not in UI_OWN_COPY and jp not in UI_KEY_VWF:
+            try:
+                m = rod.find(NUL + jp.encode('cp932') + NUL)
+            except UnicodeEncodeError:
+                m = -1
             if m >= 0:
                 jp_at[jp] = segs[0]['va'] + rod_lo + m + 1
     # Strings start right after the largest table this run can emit (every

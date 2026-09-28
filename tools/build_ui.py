@@ -19,6 +19,7 @@ import io
 import json
 import os
 import sys
+from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import aiddata            # noqa: E402
@@ -169,6 +170,9 @@ def main(argv):
     new = search_list_headers.apply(new,mapping,widths)
     import weapon_info_layout
     new = weapon_info_layout.apply(new,mapping,widths)
+    import map_weapon_info
+    map_weapon_info.check_source(Path('work/EBOOT_dec.elf').read_bytes(),blob)
+    new = map_weapon_info.apply(new,mapping,widths,blob)
     import weapon_requirements
     new = weapon_requirements.apply(new,mapping,widths)
     import battle_screen_labels

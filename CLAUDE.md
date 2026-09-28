@@ -108,6 +108,13 @@
 
 ## Retro Trans distribution instructions (2026-09-18)
 
+**Standing user requirement (2026-09-26): every new release must work with
+Retro Trans.** Apply the mandatory compatibility checklist in
+docs/RETRO_TRANS_RELEASES.md; a valid local manifest alone is not sufficient.
+Preserve existing clients' catalog refresh and patch routes. If a platform or
+package is unsupported, resolve that before release or report it as blocked.
+This requirement does not itself authorize a new build or publication.
+
 Before preparing future patch releases, read
 [docs/RETRO_TRANS_RELEASES.md](docs/RETRO_TRANS_RELEASES.md) and its example
 configuration. Use the shared manifest and local round-trip validation gate for

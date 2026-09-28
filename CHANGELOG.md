@@ -1,5 +1,231 @@
 # Changelog
 
+## 0.6.22 release preparation (2026-09-28)
+
+- User requested a new release containing the pending source fixes listed
+  below. Preparing English PS3 hardware/RPCS3 packaging and Retro Trans
+  original-to-0.6.22 plus exact-0.6.21-to-0.6.22 routes; not yet published.
+- Release preflight caught the D-Trader three-item unlock report exceeding
+  the general 850px check (857.5px at 28px text). Reworded it to "Completed:
+  Get Repair Kit, Propellant Tank, Cartridge" (742px), retaining all items.
+
+## Unbuilt source fixes - demo series titles (2026-09-28)
+
+- Traced the reported Japanese Gundam UC caption to BTLC/OP.CPK member 0,
+  texture 0. These are baked-in images, not the already translated library
+  series-name tables. It now resolves **Mobile Suit Gundam Unicorn**.
+- Added a source-guarded rasterizer for all 24 series captions across four
+  members, using existing canonical glossary IDs. Retains centered white
+  serif lettering with a black outline; all titles fit the native 1280x64
+  strips. No duplicate translations or extracted game images are tracked.
+- Registered OP.CPK in extraction, full-build validation, deployment and
+  patch application so future requested builds include the correction.
+  Demo scripts, participants, timing and every non-texture byte are preserved.
+- Five focused tests cover all slots, source guards, pixel boundaries,
+  delivery paths and a temporary archive round trip. The rendered contact
+  sheet was inspected; this is not in-game verification. No full game build,
+  installation or release performed.
+
+## Unbuilt source fixes - Sphere title names (2026-09-28)
+
+- Standardized four titles to the user's exact names: **Sorrowful Maiden**,
+  **Wounded Lion**, **Lying Black Sheep**, **Inexhaustable Water Gourd**.
+  "Inexhaustable" deliberately preserves the requested spelling.
+- Four new canonical glossary entries replace inconsistent literal variants
+  in seven dialogue records and four library records. This covers Maiden of
+  Sorrow, Scarred Lion, False Black Ram, Deceiving Black Ram, Endless Water
+  Jar, Never-Emptying Water Jar and Inexhaustible Water Bearer. The library's
+  stray character-Ram token is removed from the Black Sheep title.
+  Wavering Scales and other Sphere titles are unchanged.
+- Updated local source token inventories, the PS3 glossary binding, BASE_RULES
+  and the old conflicting work/tr/CONVENTIONS.md rule. Two VI records use the
+  same new tokens; VI glossary values preserve their existing Vietnamese
+  wording rather than substituting English titles.
+- Four focused tests pass. All 2,135 records across the four affected stage
+  files pass structure/font checks with the full names; localization has zero
+  issues and all 543 compatibility views match. No build, installation,
+  release, or new runtime visual verification.
+
+## Unbuilt source fixes - Rand / Mel names (2026-09-28)
+
+- Corrected the existing メール glossary entry from Mail to **Mel**, so
+  linked keyword headings and existing dialogue/biography references use the
+  user's spelling. Her biography now reads **Mel Beater**.
+- Added ランド -> **Rand** to the canonical glossary and its local PS3
+  compatibility binding. Replaced character-name Land with glossary tokens in
+  eight dialogue records across seven files and twice in Mel's biography
+  (including **Rand Travis**). Ordinary land/mail words, Land Battleship,
+  Fumofumo Land and "Land on Earth" are untouched.
+- Updated the nine source token inventories without changing IDs or Japanese
+  source. Six corresponding Vietnamese records now use the same Rand token,
+  with its VI glossary entry; other Vietnamese wording remains unchanged.
+- Added the spelling rule to BASE_RULES and four regression tests covering
+  names; superseded the old Land Travis rule in work/tr/CONVENTIONS.md. Tests cover
+  both screenshot contexts, ordinary words and shared VI tokens.
+  All 3,044 records in the seven affected dialogue files pass structure/font
+  checks; English localization has zero issues and 543 compatibility views
+  match. No build, installation, publication or new runtime visual test.
+
+## Unbuilt source fixes - Sphere / Dimensional Power capitals (2026-09-28)
+
+- The glossary already spelled Sphere and Dimensional Power correctly;
+  explicit `|lc` references caused the reported lowercase dialogue. Removed
+  21 such overrides in 18 dialogue records and replaced 25 lowercase literal
+  Dimensional Power references in 13 library records with canonical tokens.
+  Total: 31 English records across five files, including both screenshot lines.
+- Ordinary geometric spheres, Earth-sphere references and "sphere of human
+  life" are untouched. BASE_RULES and the token documentation now explicitly
+  preserve these two lore terms' capitalization mid-sentence.
+- Updated only the token inventories in the corresponding local message
+  definitions (no IDs/source text changed). Kept the Vietnamese shared-token
+  contracts consistent by removing the same case modifier in 17 records;
+  no Vietnamese prose, statuses or other references were rewritten.
+- Regression tests cover capitalization, both screenshot lines, ordinary-word
+  exclusions and Vietnamese token compatibility. All 869 records across the
+  three affected dialogue files pass check_stage, including font widths;
+  localization has zero issues and all 543 compatibility views match.
+  No game build, installation, publication or new runtime visual test.
+
+## Unbuilt source fixes - chapter narration pages (2026-09-28)
+
+- Screenshot fcdfb14d is STG0052's standalone member-7 narration, not Lua
+  dialogue. Its three Japanese rows had no translations. Added the complete
+  related family: STG0026 (3), STG0052 (3), STG0083 (3), STG0098A (4).
+- New shared `chapter_narration` catalog and exact whole-row draw hooks.
+  All 13 rows retain their original page/row boundaries; stage resources,
+  timing fields, native buffers and animation metadata remain untouched.
+  The screenshot now reads: "The cycle of the cosmos, the cycle of life" /
+  "All long to break free of these cycles." / "That is the path to evolution..."
+- Scanned small padded members (IDs 6+, <=20 KB) in all 144 local stage CPKs:
+  these four missing pages plus the already-covered 28-row opening crawl
+  and 18-row post-prologue section. Not a claim about unrelated art/video text.
+- Three tests pass: all four source hashes/13 offsets, exact single-row hook
+  registration, full UI hook-table emission in memory and measured 32px font
+  widths. Added the family to the post-build regression gate. Source-only:
+  no game build, installation, publication or runtime visual verification.
+
+## Unbuilt source fixes - Aggressive Beast (2026-09-28)
+
+- Renamed the pilot skill previously shipped as Feral to **Aggressive Beast**,
+  confirmed against Akurasu's Z3 Pilot Abilities page at the user's request.
+  Updated its Ace Bonus reference too. The existing Focus threshold and
+  critical/damage effect description are unchanged; no gameplay changes.
+- Source-only correction; no build, installation or release. Regression
+  coverage checks the canonical name, generated label, Ace Bonus hook, font
+  widths and full-name RPW relocation without changing unrelated strings.
+
+## Unbuilt source fixes - MAP weapon IFF / pattern row (2026-09-28)
+
+- Added exact translations for both live IFF states: On / Off. The enabled
+  state in the screenshot was absent from the draw hooks; both native FSSA
+  disabled-state defaults are now translated too.
+- Moved the Pattern header left in all three matching layouts, keeping the
+  value positions and 28-pixel font unchanged. All four pattern values now use
+  compact labels: Centered, Target, Line Scan and Direction. The original
+  Self-Centered overflowed its panel; Pattern overlapped the value column.
+- Added source inventory guards, pixel-width checks with at least 8 pixels
+  between row columns, and a post-build gate for the complete family.
+  Five focused tests pass, including pristine/released UI composition and the
+  full UI hook table emitted in memory; three weapon-heading and four
+  shot-down-quote regression tests also pass. Localization: zero issues,
+  543 compatibility views checked (only ui_hook needed regeneration).
+- Source-only: no build, installation, release, or new in-game visual test.
+
+## Unbuilt source fixes - Hibiki is he/him, shot-down quotes, EXT space (2026-09-27)
+
+- **Hibiki is male.** The user ruled that characters must call Hibiki he/him.
+  A rule in the brief template (`export_stage.py` rule 8, and SLICE_RULES)
+  said `$n`/`$l` is "always gender-neutral", so translators put "they" on
+  him across the corpus. The Japanese itself calls him 男 (「あの$lという男」).
+  The rule now says the player may rename Hibiki but he is always male;
+  CONVENTIONS.md too.
+  - Sweep: 768 candidate lines in 151 files (a they/them/their in a scene
+    where Hibiki appears, with no Japanese plural marker). Five review agents
+    read every one in scene context.
+  - **82 changes (83 records)** where the pronoun means Hibiki alone,
+    including the user's examples in stage0051a_03 (Suzune "I couldn't find
+    him...", Shinn "He went and did as he pleased again...!").
+  - Real plurals, Hibiki with others, unknown people and Ashura were left
+    alone. About 8 ambiguous cases are listed in the agents' notes and were
+    not changed.
+  - Applied by matching each line's old English and its Japanese source.
+    `check_stage` reports 0 problems in all 27 changed files; 543 views.
+  - Found on the way, not changed: one reviewer noticed that sha 9309287dc2
+    ("Their words and feelings don't match at all") is $n talking about
+    Sosuke. Other male characters may have the same over-applied "they".
+- **Shot-down / retreat quotes:** the user reported Michel's
+  「ミスった…！　スカル２、撤退する！」 in Japanese. The whole EBOOT table
+  (VA 0x6f5980..0x6f72d0, 146 lines, allies and enemies) had no hooks.
+  - New catalog group `destroy_quotes` and `tools/destroy_quotes.py`.
+    Resident keys and no line pairs, like the bonus descriptions.
+  - A translation agent identified speakers from the table's character keys,
+    neighbours and content (e.g. Skull 1-4 = Ozma, Michel, Luca, Alto). The
+    ~80 lines shared by many characters are written neutrally. Every line is
+    measured under 900 px.
+  - `tools/test_destroy_quotes.py` has 4 tests.
+- **EBOOT extension space:** with the other session's new hook families plus
+  these 146 quotes, only 7,590 bytes remained after the hook strings. The
+  UTF-8 labels and unlock notices that follow them used 7,476 bytes in
+  0.6.19, so a build would have been about 100 bytes from failing.
+  - Every UI hook used to own a copy of its Japanese key. Keys are now read
+    from the ELF wherever it holds them verbatim (725 keys, about 26 KB).
+  - The exception is `UI_OWN_COPY = {'陸'}`: the one key a later step
+    rewrites in place (movement_type_cells). The 0.6.19 output confirms it
+    is the only one of the 726 that changes.
+  - Now 5,603 entries and 34,000 bytes free after the hook strings.
+    check_issue_fixes still reads every key back.
+- Not mine, still failing: test_mission_conditions' width check on the
+  other session's unlock line "Completed: Obtain a Repair Kit, Propellant
+  Tank and Cartridge".
+
+## README credit update (2026-09-26)
+
+- Removed rikineko from the README playtesting credits at the user's request.
+  Other contributors and release-note acknowledgements are unchanged.
+
+## Shared release-note format (2026-09-26)
+
+- Restructured the current Z3 release to follow SRW-Z's section order and style:
+  Apply, What changed, compatibility, What's included, translation method,
+  Acknowledgements, Source code and Contribute. Kept Z3-specific hashes,
+  full-patch-only downloads, cache guidance and unbuilt-fix/provenance caveats.
+- Replaced the outdated blanket claim of no visual testing with the known
+  playtesting reports and remaining issues; retained the separate physical-PS3
+  disc-layout limitation. No patch, manifest, catalog or game build changes.
+
+## Release-note cleanup (2026-09-26)
+
+- Removed the historical-release/withdrawn-asset paragraph from the current
+  release notes. Retained PS3 scope and the Retro Trans save-converter pointer.
+  Local history/backup records and release assets are unchanged.
+
+## Release contribution section (2026-09-26)
+
+- Added Contribute to the current release notes, matching SRW-Z's invitation
+  for bug reports, proofreading and playtesting and its shared Discord link.
+  Release-body change only; patch assets and Retro Trans catalog unchanged.
+
+## Mandatory Retro Trans compatibility for future releases (2026-09-26)
+
+- Recorded the user's standing requirement in project instructions and handoff.
+  Every release must pass local and public artifact validation, live catalog
+  discovery, route checks and compatibility with previously cached catalogs.
+- Added a release completion checklist; unsupported packages and failed checks
+  must be resolved or reported as blockers, not bypassed. Release-specific
+  requirements remain in release notes. No build or publication performed.
+
+## Version-independent README cleanup (2026-09-26)
+
+- Replaced numbered patch links and release-specific installation/coverage
+  details with the latest-release link and a pointer to each release's notes.
+- Removed the outdated no-runtime/visual-test statement, the Status section,
+  and references to the separate SRW-Z/PS2 project. Initially retained general
+  text-handling rules under a new heading; removed that entire former inheritance
+  section on follow-up, along with The working recipe and its historical examples.
+  The chain remains as contributor-oriented extraction background.
+  No new test or compatibility claims.
+- Documentation only; release assets, catalog, game builds and installs unchanged.
+
 ## Withdraw 0.6.19 upgrade from first public release (2026-09-26)
 
 - User requested original-only downloads for 0.6.21. Withdrew the 21,234,653-byte
@@ -4252,10 +4478,12 @@ including Half Cut, Support Attack's per-available-use Assist bonus, and
 conditional/leveled skills. Existing skill names and gameplay data unchanged.
 `skill_description_catalog.py` plus dry-run-first `build_skill_descriptions.py`
 generate the complete hook file; every variant fits <=3 lines / 740px at 28px.
-Retained game-specific variants missing from the wiki; Feral's critical bonus
+Retained game-specific variants missing from the wiki; Aggressive Beast's critical bonus
 follows the wiki's +30% rather than the JP help's +20%, without changing
 runtime behavior. Other reference differences are recorded in
 `docs/PILOT_SKILL_DESCRIPTIONS.md`.
+The skill name was originally left as Feral; corrected to Akurasu's
+Aggressive Beast in the pending 2026-09-28 source update above.
 Disabled automatic line pairing for this description file only. Isolated
 candidate EBOOT update: 124 full replacements, 181 obsolete fragments removed,
 9673 new text bytes; code/voice/RPW data and file size preserved. Six new tests
@@ -4841,8 +5069,9 @@ fullwidth Latin was needed, and two invented tokens (`$$ＮＥＲＶ$$`,
 `$$ランド$$`) for names that are not glossary entries.
 
 A translator asked whether `ランド・トラビス` should be "Rand"; the library
-already ships "Land Travis", so it stays until someone decides otherwise, and
-`work/tr/CONVENTIONS.md` now says so rather than leaving it to be rediscovered.
+then shipped "Land Travis", so that spelling was retained at the time.
+Superseded by the user's 2026-09-28 correction: **Rand Travis** and **Mel
+Beater**, with a new Rand glossary entry and corrected translation convention.
 
 **Stages 49, 50A and 50B translated** (1,056 records over 8 Sonnet slices):
 `STG0049` 542, `STG0050A` 111, `STG0050B` 233. `check_stage.py`,

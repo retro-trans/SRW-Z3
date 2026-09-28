@@ -118,10 +118,12 @@ your report how many you reused.
    a token is what you check, not something to add afterwards.
 7. **Use the glossary below verbatim** for any term in it. Consistency across
    the project matters more than a nicer phrasing.
-8. **Never infer gender.** `$n`/`$l` is the player-named protagonist: always
-   gender-neutral. For anyone else, use he/she only when the cast sheet or
-   glossary establishes it; an unknown or offscreen person gets they/them or
-   a rephrase. A name is not evidence of gender.
+8. **Never infer gender.** `$n`/`$l` is the protagonist Hibiki: the player
+   may rename him, but he is always male -- he/him/his (the user's ruling,
+   2026-09-27; the Japanese itself calls him 男). For anyone else, use he/she
+   only when the cast sheet or glossary establishes it; an unknown or
+   offscreen person gets they/them or a rephrase. A name is not evidence of
+   gender.
 9. **When a line will not fit, compress or abbreviate -- never cut the end
    of a sentence.** If it still cannot fit, translate it as best you can and
    FLAG the sha in your report rather than silently overflowing. And leave

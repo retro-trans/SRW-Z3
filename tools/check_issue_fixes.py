@@ -201,6 +201,9 @@ def main():
         assert ink(en, mapping, narration_widths, 28) < 850
     print('PASS: Hibiki defeat conditions, unnumbered and 1/2/3; legacy name variants preserved.')
     narration_layout.check(hooks, mapping, narration_widths)
+    import chapter_narration
+    chapter_narration.check_source()
+    chapter_narration.check_hooks(entries,mapping,narration_widths)
     import backlog_layout
     backlog_layout.check(hooks, mapping, narration_widths)
     import terrain_labels
@@ -242,6 +245,8 @@ def main():
     team_order_labels.check_hooks(entries,mapping)
     import bonus_descriptions
     bonus_descriptions.check_hooks(entries,mapping)
+    import destroy_quotes
+    destroy_quotes.check_hooks(entries,mapping)
     import required_skill_levels
     required_skill_levels.check(entries,mapping)
     import operation_indent
@@ -273,6 +278,10 @@ def main():
                             member(CPK(str(out / 'EFFPS3.CPK')), 96), dg.LETTER_FACE.path)
     print('PASS: Jindai school caption; animation, frame and photo unchanged.')
     import maximum_break_art
+    import demo_series_titles
+    demo_series_titles.verify_archive(CPK(str(demo_series_titles.SOURCE)),
+                                     CPK(str(out/'OP.CPK')))
+    print('PASS: All 24 demo series titles; non-texture bytes unchanged.')
     maximum_break_art.verify(member(CPK(str(maximum_break_art.SOURCE)),0),
                              member(CPK(str(out/'CMN.CPK')),0),dg.LETTER_FACE.path)
     import scenario_title
@@ -349,6 +358,9 @@ def main():
     search_list_headers.check(ui_data,mapping,preview_widths)
     import weapon_info_layout
     weapon_info_layout.check(ui_data,mapping,preview_widths)
+    import map_weapon_info
+    map_weapon_info.check_ui(ui_data,mapping,preview_widths)
+    map_weapon_info.check_hooks(entries,mapping)
     import weapon_requirements
     weapon_requirements.check(ui_data,mapping,preview_widths)
     import mech_info_layout
