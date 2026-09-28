@@ -1,5 +1,22 @@
 # Changelog
 
+## 0.6.23 public release preparation (2026-09-29)
+
+- User explicitly requested publication of the existing validated0.6.23 build.
+  No rebuild/version increment. Recorded actual build-source changes in
+  a4be7acc4987ee13a370e53b853448427439aead; snapshot220 files locally.
+- Preparing original-to-.23 and exact-.22-to-.23 whole-ISO patches through
+  Retro Trans0.3.1. Existing.21 users retain the catalog's.21->.22->.23 path.
+  Earlier assets/tags stay immutable; no game images or source dumps uploaded.
+- Release notes retain the established Apply/compatibility/acknowledgements/
+  Contribute format, describe the confirmed.22 defect and corrected placement,
+  and explicitly state that.23 combat runtime confirmation is still pending.
+- Local per-file patch sets complete:220 original and145 from.22 patches,
+  all decode-verified. These and the game snapshot remain local only.
+- Both whole-ISO round trips passed:155,522,037-byte original patch and
+  21,203,347-byte .22 upgrade reproduce the exact validated .23 image.
+  Retro Trans release-directory validation passed; ready for public upload.
+
 ## Local 0.6.23 build (2026-09-29)
 
 - User authorized building and installing the combat-crash correction, not
