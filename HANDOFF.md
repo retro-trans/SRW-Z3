@@ -1,14 +1,19 @@
 # Handoff
 
-**2026-09-30 release0.6.24 preparation:** explicitly requested. Source
+**2026-09-30 public0.6.24 release complete:** explicitly requested. Source
 afad7b70e0bdd3a4c8f89cf31dcccf8a487ab83f pushed, no rebuild/install.
 Retro Trans0.3.1 current source fd35841c47555f9461a802ff47e15784caa8156f
 in work/retro-trans/tools_0624; local builder/validator passed, ready_0.6.24
 contains exactly five assets. Original patch155533114bytes; .23upgrade21491238.
 Both full round trips match verified ISO; per-file sets220+149 also pass.
 Before-catalog23records saved in work/release_0.6.24_audit/catalog-before.json.
-work/verify_release_0624.py handles uploaded/public/catalog gates, still pending.
-Release notes docs/releases/0.6.24.md; validation docs/validation/0.6.24.md.
+work/verify_release_0624.py uploaded/public/catalog gates ALL passed.
+Published latest2026-09-30T01:55:53Z, release399655691, tagf3865ac:
+https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.24.
+Catalog workflow36657500064 succeeded, catalog76c1f65289092067426e3f3c2ad8b22d074e6868.
+Live and older cached catalog refresh preserve identities: original/.23 direct,
+.22 two steps, .21 three. Existing assets untouched; no visibility change or
+game-file upload. Notes docs/releases/0.6.24.md; validation docs/validation/0.6.24.md.
 
 **2026-09-30 local0.6.24 build:** user requested an ISO. Strict source build
 work/build_0.6.24_english_20260930 passed (143containers,5635hooks,

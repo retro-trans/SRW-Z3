@@ -1,6 +1,6 @@
 # Changelog
 
-## Release 0.6.24 preparation (2026-09-30)
+## Public release 0.6.24 (2026-09-30)
 
 - Explicit release request; reuse the exact verified local ISO without a
   rebuild or installation. Source commit afad7b70 records all build changes;
@@ -13,7 +13,13 @@
   notes retain Apply/changes/compatibility/credits/Contribute sections, with
   exact source requirements and runtime limitations. No original/translated
   ISO, extracted game files or Japanese source catalogs are upload assets.
-  Public-download and live/cached catalog gates remain pending publication.
+- Published latest2026-09-30T01:55:53Z, release399655691. All five uploaded
+  sizes/SHA256digests matched; Retro Trans downloaded and verified the public
+  assets. Scoped catalog run36657500064 succeeded, commit76c1f652. Live and
+  saved23-release cache refresh pass immutable identities and routes from
+  original/.23 (direct), .22 (two steps) and .21 (three). No cache reset,
+  older-release mutation, visibility change or game-file upload. Release
+  notes retain the established format and point to the final validation record.
 
 ## Local build 0.6.24 (2026-09-30)
 

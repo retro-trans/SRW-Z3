@@ -12,6 +12,21 @@ private testing and public catalog enrollment are separate steps; publication,
 tags and uploads require an explicit user request.
 
 
+## Public release: 0.6.24 (2026-09-30)
+
+Published latest2026-09-30T01:55:53Z, release399655691:
+https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.24.
+Reuses the verified local ISO with the accumulated translation/UI corrections;
+source afad7b70, tagf3865ac adds preparation notes. Exactly five protocol assets:
+original/.23 ISO patches and three verification files. Both local round trips,
+uploaded digests and public downloads passed Retro Trans0.3.1 at fd35841c.
+Catalog run36657500064 succeeded, commit76c1f652; live and older cached-client
+refresh pass immutable identities and original/.23/.22/.21 upgrade routes.
+No previous assets were changed, no cache reset required, and no game files
+uploaded. Local installation remains blocked by RPCS3 being open; no new
+gameplay or hardware confirmation. See docs/releases/0.6.24.md and
+docs/validation/0.6.24.md.
+
 ## Public release: 0.6.23 (2026-09-29 local)
 
 Published latest2026-09-28T18:48:00Z, release398528967:
