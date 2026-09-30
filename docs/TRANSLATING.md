@@ -1681,6 +1681,14 @@ the zukan -- and the Mech Info list draws it through 0x140f4. So
 reads it after `ui_hook.json`. Two names carry a trailing fullwidth space
 in the data (ジャミング機能　, ラムダ・ドライバ　) and are listed both ways.
 
+**Combat-banner exception (2026-09-29):** this did not cover the separate
+UTF-8 battle-effect table. The .23 A.T. Field banner still used Japanese at
+VA0x6ED6E0 through two references. `battle_effect_labels.py` now binds all39
+labels/51 table pointers to canonical translations through `load_commands`.
+It reuses ability names and adds context-specific status labels; source and
+final-output guards cover every reference. This is an unbuilt source fix,
+not a runtime-tested claim. CP932 ability hooks alone cannot cover this path.
+
 Enumerate a family like this by finding one standalone member as
 `NUL + cp932 + NUL` in the executable and dumping the NUL-separated
 neighbourhood: the tables are contiguous and the names come in the order

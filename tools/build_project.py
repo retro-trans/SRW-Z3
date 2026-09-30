@@ -523,9 +523,13 @@ def main(argv):
         if vwf and '--eboot' in argv:
             ovr = battle_name_rendering.defer_overrides(rraw, ovr)
         ov = {k_: dg.encode_mixed(v, tmap, newline=bytes((10,))) for k_, v in ovr.items()}
+        if vwf and '--eboot' in argv:
+            import skill_name_transport
+            ov.update(skill_name_transport.overrides(rraw))
         new_raw, appended = rpw.build_grown(rraw, enc, ov)
         rpw.check_compound_names(rraw, new_raw, gl['terms'], tmap)
         if vwf and '--eboot' in argv:
+            skill_name_transport.check_rpw(rraw, new_raw)
             deferred_count = battle_name_rendering.check_rpw(rraw, new_raw)
             print('  [rpw]   %d long-name slots deferred to the exact draw-time hook' % deferred_count)
         tmp = os.path.join(outdir, "rpw.member"); open(tmp, "wb").write(new_raw)

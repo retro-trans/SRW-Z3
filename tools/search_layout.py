@@ -3,7 +3,8 @@
 The FSSA centered-text call at 0x513d4 has r31=record and r26=UI resource.
 The grid color path (0xadecc..0xae404) passes a stack copy of its template,
 not the original record address. Recognize that exact caller as well.
-Only the records below opt in. Other centered widgets keep the original
+Shared unit-name templates also opt in by their unique string references,
+including copied/recolored records. Other centered widgets keep the original
 routine (including confirmation overlays). Unknown/control strings also
 fall back, so the game's hidden-name question marks are not rewritten.
 """
@@ -34,6 +35,8 @@ def stub():
     for record in GRID + TABS:
         const(10, record - RECORD_BASE)
         emit('cmplw', 9, 10); a.br('beq', 'measure')
+    import battle_unit_name_layout
+    battle_unit_name_layout.emit_opt_in(emit,const,a)
     # 0x510cc saves its caller's LR at +0xf0 in its 0xe0-byte frame.
     # The grid's colored entries use an exact 32-byte template copy made at
     # 0xadecc..0xadf10, passed via stack +0x78 at 0xae404. Address-only
@@ -107,7 +110,8 @@ def stub():
     a.label('fallback'); emit('addi', 1, 1, 0x80)
     a.label('original'); tail(0x14954)
     code = a.code()
-    assert len(code) <= 0x800
+    # command_layout starts at 0x78e400; do not consume its reservation.
+    assert len(code) <= 0x400
     return code
 
 

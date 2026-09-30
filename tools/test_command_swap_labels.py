@@ -82,6 +82,28 @@ build_ui.main(['build_ui.py'])
         self.assertNotIn('なし', hooks)
         self.assertNotIn('を使用します。', hooks)
 
+    def test_tactical_title_fits_shared_targeting_anchors(self):
+        import digraph as dg
+        root = Path('work/build_0.6.23_english_20260929')
+        mapping = json.loads((root / 'pairs.json').read_text())
+        widths = {int(k): v for k, v in json.loads((root / 'widths.json').read_text()).items()}
+        k = CPK(str(root / 'AIDDATAPACK.CPK'))
+        shipped = k.read(k.files[0])
+        self.assertEqual(text(shipped, C.TACTICAL_TITLE), dg.encode_mixed('＜Tactical Cmd＞', mapping))
+        with self.assertRaises(AssertionError):
+            C.check_tactical_spacing(shipped, mapping, widths, '＜Tactical Cmd＞')
+        fixed = C.apply(self.ui, mapping, widths, self.ui)
+        self.assertEqual(text(fixed, C.TACTICAL_TITLE), dg.encode_mixed('＜Tactics＞', mapping))
+        C.check_tactical_spacing(fixed, mapping, widths)
+        for r in (C.TACTICAL_TITLE,) + C.TACTICAL_HINTS:
+            self.assertEqual(fixed[r+4:r+32], self.ui[r+4:r+32])
+        # Only the compact footer changes; command-menu terminology remains.
+        self.assertEqual(C.hooks()['戦術指揮'], 'Tactical Cmd')
+        self.assertEqual(C.hooks()['＜戦術指揮＞'], '＜Tactics＞')
+        for jp in ('効果範囲を選択します。', '効果範囲を決定します。',
+                   '味方のチームを選択します。', '敵方のチームを選択します。'):
+            self.assertIn(jp, C.hooks())
+
     def test_speaker_patch_is_scoped_and_disambiguated(self):
         before = bytearray(self.original)
         eboot.add_segment(before)

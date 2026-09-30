@@ -51,6 +51,12 @@ class ActivationPromptsTests(unittest.TestCase):
         with patch.object(eboot, 'HOOK_ALL_SET', set(all_names)):
             new, report = eboot.patch(self.source, names, self.mapping, widths=self.widths)
         prompts.check(new, self.mapping, self.widths)
+        import skill_name_transport
+        skill_name_transport.check_elf(new, self.mapping)
+        import battle_reports
+        battle_reports.check_gold_elf(new, self.mapping)
+        import command_choice_labels
+        command_choice_labels.check_built(new,self.mapping,self.widths)
         import trader_upgrade_text
         trader_upgrade_text.check(new,self.mapping,self.widths)
         import weapon_requirement_runtime

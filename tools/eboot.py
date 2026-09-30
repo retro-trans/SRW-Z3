@@ -354,6 +354,24 @@ def load_ui_hook(paths=UI_HOOK_FILES):
         if jp in UI_PREFIX | UI_JOINED | UI_KEY_VWF or (jp in out and out[jp] != en):
             raise ValueError('Deferred battle name conflicts with another UI hook: ' + jp)
         out[jp] = en
+    import skill_name_transport
+    skill_labels, skill_prefixes = skill_name_transport.hooks()
+    for jp, en in skill_labels.items():
+        if jp in out and out[jp] != en:
+            raise ValueError('Deferred skill name conflicts with another UI hook: ' + jp)
+        out[jp] = en
+    UI_PREFIX.update(skill_prefixes)
+    import command_choice_labels
+    for jp,en in command_choice_labels.hooks().items():
+        if jp in out and out[jp]!=en:
+            raise ValueError('Command choice hook conflict: '+jp)
+        out[jp]=en
+    import battle_reports
+    for jp,en in battle_reports.gold_hook().items():
+        if jp in out and out[jp]!=en:
+            raise ValueError('Gold reward hook conflict: '+jp)
+        out[jp]=en
+        UI_PREFIX.add(jp)
     # Some boxes draw a multi-line string ONE LINE PER CALL (the Operation
     # End conditions: stage 3's three-line SR condition stayed Japanese
     # although the whole string was hooked). Register each line pair too,
@@ -1179,6 +1197,16 @@ def load_commands(path=COMMAND_FILE):
             if jp in labels and labels[jp] != en:
                 raise ValueError('Battle/help UTF-8 label conflicts with canonical text: ' + jp)
             labels[jp] = en
+        import battle_effect_labels
+        for jp,en in battle_effect_labels.labels().items():
+            if jp in labels and labels[jp]!=en:
+                raise ValueError('Battle effect UTF-8 label conflicts with canonical text: '+jp)
+            labels[jp]=en
+        import command_choice_labels
+        for jp,en in command_choice_labels.utf8_labels().items():
+            if jp in labels and labels[jp]!=en:
+                raise ValueError('Command choice UTF-8 conflict: '+jp)
+            labels[jp]=en
         import key_help_labels
         for jp,en in {**key_help_labels.LABELS,**key_help_labels.EXTRA}.items():
             # Existing shared labels retain their established wording.
@@ -1465,6 +1493,12 @@ def patch(b, names, mapping, pairs_used=(), widths=None, pair_mapping=None):
     if utf8 and u_cur:
         import battle_screen_labels
         battle_screen_labels.check_source_elf(b)
+        import battle_effect_labels
+        battle_effect_labels.check_source(b)
+        import command_choice_labels
+        command_choice_labels.check_source(b)
+        import skill_name_transport
+        skill_name_transport.check_source(b)
         import battle_speaker_names
         battle_speaker_names.check_source(b)
     utf8_labels = command_labels(b, segs, utf8, u_cur, mapping, widths, window=False) if (utf8 and u_cur) else None

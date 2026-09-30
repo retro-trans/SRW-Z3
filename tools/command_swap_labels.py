@@ -14,6 +14,12 @@ from intermission_layout import text, ink
 GROUP = 'command_swap_labels'
 SWAP_TABLES = ((0x84b9fc, 0x6d93b0), (0x858d1c, 0x710800))
 SWAP_DELTAS = (0, 8, 32, 48, 0, 64, 0, 64, 0, 64)
+# Targeting footer: the title and instruction are independently positioned.
+# At native 1280x720 their anchors are only 150px apart. A standalone
+# full-screen width budget misses collisions between these adjacent fields.
+TACTICAL_TITLE = 0xac9b4
+TACTICAL_HINTS = (0xac9f4, 0xaca14)
+TACTICAL_GAP = 12
 # Existing canonical terminology, including the already translated command.
 ALIASES = (
     ('Ｅチェンジ', 'ui_eboot:r_6b15af9a0057cdc8', (0xac934,), (), 230, ''),
@@ -46,6 +52,11 @@ def hooks():
 
 
 def check_source(elf, ui):
+    for r, x in ((TACTICAL_TITLE, -0.32421875),
+                 (TACTICAL_HINTS[0], -0.08984375),
+                 (TACTICAL_HINTS[1], -0.08984375)):
+        assert ui[r+4:r+12] == struct.pack('>ff', x, -0.9305555820465088), hex(r)
+        assert ui[r+19] == 23, hex(r)
     # Both complete runtime tables: four equipment names, repeated BWS and
     # native None entries. Do not confuse unused FSSA sample lists with these.
     for table, base in SWAP_TABLES:
@@ -78,6 +89,16 @@ def apply(blob, mapping, widths, original):
     return bytes(out)
 
 
+def check_tactical_spacing(blob, mapping, widths, title=None):
+    if title is None:
+        title = localization.english().text('command_swap_labels:tactical_title')
+    x = struct.unpack_from('>f', blob, TACTICAL_TITLE + 4)[0] * 640
+    right = x + ink(title, mapping, widths, blob[TACTICAL_TITLE + 19])
+    for r in TACTICAL_HINTS:
+        hint_x = struct.unpack_from('>f', blob, r + 4)[0] * 640
+        assert right + TACTICAL_GAP <= hint_x, ('Tactical footer overlap', title, hex(r))
+
+
 def check_ui(blob, mapping, widths):
     count = 0
     for jp, en, widgets, _, width, _ in rows():
@@ -85,7 +106,8 @@ def check_ui(blob, mapping, widths):
             assert text(blob, r) == dg.encode_mixed(en, mapping), (jp, hex(r))
             assert ink(en, mapping, widths, blob[r + 19]) <= width, (jp, width)
             count += 1
-    print('PASS: %d command/footer widgets; geometry and dynamic placeholders unchanged.' % count)
+    check_tactical_spacing(blob, mapping, widths)
+    print('PASS: %d command/footer widgets; targeting-title clearance >=12px; geometry unchanged.' % count)
 
 
 def check_hooks(entries, mapping, widths):

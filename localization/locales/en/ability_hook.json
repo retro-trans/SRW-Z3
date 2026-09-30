@@ -211,8 +211,8 @@
       "status": "imported"
     },
     "ability_hook:r_d5e0a2317c40d322": {
-      "text": "At Focus 140+, the Sphere of the Quarreling Twins\nactivates: enemy Focus -3 at each phase start.",
-      "status": "imported"
+      "text": "At Focus 140+, the Sphere of the $$いがみ合う双子$$\nactivates: enemy Focus -3 at each phase start.",
+      "status": "translated"
     },
     "ability_hook:r_ec2ea17765052401": {
       "text": "At Focus 140+, the Sphere of the Silent Crab\nactivates: enemy units within 10 tiles at phase\nstart gain no SP.",

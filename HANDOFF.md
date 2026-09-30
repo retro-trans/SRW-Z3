@@ -1,5 +1,130 @@
 # Handoff
 
+**2026-09-30 local0.6.24 build:** user requested an ISO. Strict source build
+work/build_0.6.24_english_20260930 passed (143containers,5635hooks,
+2119mission variants,0missing);48 focused tests passed. Packaging dry-run/write
+work/ps3_hardware_0.6.24_20260930 passed; ISO5018877952bytes,554files verified
+in both trees, SHA2569ef889abf4a433a06c7627954f1dea9ab36b026abfe515cd18896aa4fcbd0c07.
+Wrapped SELF SHA256e727c958802943afdc0fe3c0ccdd0eeb8282a7ddb6867c58674ddf1ed455687f;
+permission gates300edges/1137instructions. All prior pending fixes below are
+in this ISO. Install preflight220targets/32saves passed, but write stopped
+at install_build.ps1:106 because RPCS3 started during preflight. This guard
+is before backup creation or any installed-file/cache/registration mutation.
+Installation NOT performed; observed registration still points to the.23 ISO.
+Ask user to close RPCS3 before retrying dry-run then write with this snapshot.
+No runtime claim; no tag/upload/publication/catalog/visibility change.
+
+**2026-09-29 pending Tactical targeting overlap:** screenshot83df62c4.
+command_swap_labels:tactical_title now bracketed Tactics (126.5px at23),
+not Tactical Cmd (190.46875px). Native title0xac9b4 and hints0xac9f4/aca14
+are150px apart, leaving23.5px clearance. Menu name stays Tactical Cmd.
+Source-anchor/font guards and paired12px-minimum gap check added, regression
+reproduces .23 overflow. Only text changes; no full build/install/runtime claim.
+Six focused tests/catalog+543 views/full in-memory executable checks pass;
+300branch edges/1137instructions,12900centering cases,14240extension bytes free.
+
+**2026-09-29 pending Tactical/Tag choices:** screenshots28eb91cf/fbdbba93.
+command_choice_labels centralizes ten canonical ui.tag_reward_layout entries:
+3Tactical Cmd names,4Tag names,3Tactical stat help lines. FSSA0x9cfb4/a95d4
+now English;0x9cf94 reuses canonical Tag text. Live UTF-8 seven-pointer table
+file0x780578..0x780590 is source-inventoried/repointed/readback-checked;
+previous static-only Tag fix did not affect that live table. Four focused
+tests pass; original fonts/styles/spacing untouched, width<280. English
+catalog/543 views clean. No full build/install/release/runtime claim.
+Full current in-memory executable passes all seven live-pointer readbacks;
+300branch edges/1137instructions,12900centering cases,14224extension bytes free.
+
+**2026-09-29 pending Quarreling Twins terminology:** screenshotcd3f18e0.
+glossary:quarreling_twins (いがみ合う双子), user-approved Quarreling Twins.
+22 English records standardized:13 title-bearing dialogue rows, one simile,
+scenario title, seven library/ability entries. Existing voices unchanged.
+Four Vietnamese records tokenized with previous rendered wording preserved.
+New local definition and oversized legacy-template binding preserved locally;
+work/register_quarreling_twins.py performed guarded mechanical insertion.
+Five title tests/14 dialogue checks/catalog+543 views pass. No build/install.
+
+**2026-09-29 pending Annalotta pronouns:** stage0053_04 IDs
+r_abdb034ae8509702 and r_b4bc9e9435b58e6f now say "her", not "him".
+Screenshot28b6e7b3 and18 nearby JP/EN records reviewed; Annalotta is the
+opponent in both lines. User-confirmed female/she/her noted in BASE_RULES.
+Only two dialogue records changed; no build/install.
+
+**2026-09-29 pending Suzaku pronoun correction:** stage0053_04 stable ID
+r_b6f7b219eb4bd64b: Shinn now says "This is bad! He's surrounded!", not
+"We're surrounded!" Eight adjacent JP/EN records checked; source context
+confirms Suzaku alone. One canonical line changed, no build/install.
+
+**2026-09-29 pending Gold Bar reward label:** screenshot0be97ede.
+battle_reports.gold_hook uses canonical ui.battle_reports:gold_reward;
+qualified prefix includes source fullwidth separator, retains native digits.
+SourceVA0x71F988/TOC0x7DBAFC and constructor0x30019C..0x300298 guarded.
+Native seven-byte copy and64-byte reward slot unchanged. Four focused tests
+pass, catalog zero issues/543 compatibility views/sync clean. No build,
+install, release or runtime claim; earlier pending fixes remain intact.
+Full in-memory executable/hook readback passes; folded permissions300edges/
+1137instructions,12900centering cases,14472extension bytes free.
+
+**2026-09-29 pending level-up skill row overflow:** screenshot9943bc00
+reproduced: Aggressive Beast is32 VWF bytes+NUL, native result slot32;
+next row writes dashes over terminator. Producer0x2ffb38..0x2ffca0 and
+suffix assembly0x300058..0x30017c source-hash guarded. skill_name_transport
+selects by capacity (32, reserve8 for L9/+9+NUL), not spelling; also catches
+glossary-priority Abnormal Survivor. build_project overrides six sk-pri
+name fields to original compact source; final draw hooks expand exact names
+or qualified L/plus suffixes. Gate covers all207 fields/69records. No native
+structure/code changes; no build/install/release. Existing pending work kept.
+Six transport+two terminology tests pass; full in-memory executable including
+hook readback and folded permissions passes (300edges/1137instructions,
+12900centering cases,14512extension bytes free). Runtime confirmation pending.
+
+**2026-09-29 pending upgrade Weapon/Rank overlap:** screenshot7e17e28b
+shows a separate RANK caption drawn53px after Weapon (109.375px wide).
+upgrade_list_labels now combines Wpn Rank (135.625px at28, budget145) and
+blanks the suffix in all three pairs:0x9a454/474,0xb9034/054,0xb9334/354.
+First is shared template; others are stat-panel variants. Only text pointers
+change; numeric ranks, bars, arrows, coordinates and style bytes unchanged.
+Canonical ui.upgrade_list_labels:weapon_rank_short added; source local-only.
+Five regression tests pass, catalog/compatibility sync clean. Prior historical
+list-footer claim clarified in changelog. No build/install/runtime/release.
+
+**2026-09-29 pending combat effect-banner translations:** screenshot5a1d56fa
+is the UTF-8 A.T. Field label atVA0x6ED6E0, refs0x84E638/63C, both still JP
+in.23 despite the existing CP932 ability hook. tools/battle_effect_labels.py
+maps all39 labels/51 references in0x84E61C..0x84E6E4, using22 existing IDs
+and17 new English battle_effect_labels entries (registered in manifest).
+Source definitions local/ignored. eboot.load_commands merges canonical text;
+source and check_issue_fixes gates validate the table/English/font. Five tests
+pass including shipped reproduction and changed-byte isolation. Catalog zero
+issues/543 compatibility views/sync clean. No full build/install/release or
+in-game check. All earlier pending Maximum Break/unit-name edits preserved.
+Full current executable composed in memory and folded permission audit passed
+(300 edges/1137 instructions),12900 centering cases;14744 extension bytes free.
+
+**2026-09-29 pending unit-name centering:** screenshot bb0410de has EVA-00
+Kai name escaping left of battle-preview panel. At25px, native24-cell
+width600 versus VWF306.25 explains146.875px left error. Full name unchanged.
+battle_unit_name_layout inventories17 centered Nirvash-placeholder templates
+and their unique references. search_layout hook now opts these in, including
+descriptor copies/recolors; Japanese/hidden/unsupported names fall back.
+battle_preview_layout.check validates source/built template identity. Six tests
+pass, including all281 packed unit-name variants (252 VWF/29 fallback),17
+template/copy cases, existing795+1060 search cases and executable audit.
+search_layout cap corrected from0x800 to0x400 (command_layout at0x78E400);
+stub1004 bytes/20 spare. No full build/install/runtime confirmation/release.
+Japanese Wait badge in the same crop is separate and still unchanged.
+
+**2026-09-29 pending Maximum Break artwork fix:** screenshot bdaa22e9 is
+reproduced by projecting .23 CMN texture16 through its native nine XY/UV
+pieces. Two pieces sample the same Japanese glyph; the continuous English
+repaint was intrinsically incompatible with those overlapping rectangles.
+maximum_break_art now packs nine whole-letter cells and patches exactly nine
+16-byte XY/UV records, guarded by the original member hash/rectangles/anchors.
+Common screen baseline and contiguous settled phrase; dimensions, palette,
+all timing/motion commands, ribbons and other artwork unchanged. Seven tests
+in test_maximum_break_art.py pass, including temporary archive round trip.
+CPU-projected comparison work/maximum_break_layout_comparison.png reviewed.
+Source only; no full build/install/ISO/release change, no live playback claim.
+
 **2026-09-29 public0.6.23 release complete:** explicit publication request.
 https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.23
 Published latest2026-09-28T18:48:00Z (Sep29 local), release398528967.

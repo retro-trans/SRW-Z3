@@ -2,6 +2,10 @@
   "schema": 1,
   "language": "en",
   "messages": {
+    "ui.battle_reports:gold_reward": {
+      "text": "Gold Bar ",
+      "status": "translated"
+    },
     "ui.battle_reports:r_4998c9f909424a08": {
       "text": "President skill bonus:",
       "status": "imported"

@@ -2,6 +2,13 @@
 
 ## Coverage
 
+- Pending 2026-09-29: shared unit-name centering now measures English glyph
+  advances rather than fixed character cells. All17 centered unit-name
+  templates (including copied/recolored records) are inventoried by
+  `battle_unit_name_layout.py`. Full names and panel/font settings stay
+  unchanged; native/hidden strings fall back. Six focused tests cover all281
+  distinct packed unit-name variants and existing search-grid behavior.
+  Source only; no in-game placement verification or new build yet.
 - Power Parts: verified the previously implemented selection heading, together
   with Transform, Spirit Commands, Element Change and adjacent Search Settings.
 - Six battle action-menu variants at 0x9c934..0x9c9d4, plus Center/Wide at
@@ -38,12 +45,35 @@ AIDDATAPACK's shared word atlas. `maximum_break_art.py` now composes:
 - Texture 10 (192x48): Combo Attack.
 - Texture 11 (272x256), four 64 px rows: Counter, Attack Again, Support Attack,
   Support Defend, retaining the pink/purple/gold category colors.
-- The two previously translated Maximum Break surfaces remain composed.
+- The Maximum Break badge remains composed. The large texture16 banner now
+  uses nine English whole-letter cells and corresponding XY/UV rectangles;
+  see the 2026-09-29 correction below.
 
-All other pixels, framing, arrows, animation commands, UVs, timing, numeric
+All other pixels, framing, arrows, animation commands, timing, numeric
 textures and controller icons are byte-identical. The source member hash is
 validated before editing. Badge and banner atlas previews were visually
 reviewed; this is not a claim of live emulator QA.
+
+### Maximum Break nine-piece correction (2026-09-29, not yet built)
+
+The original continuous English banner repaint was wrong despite its clean
+atlas preview: nine animated quads sample eight unique Japanese glyph cells,
+reusing the first glyph for the fourth letter. Their screen rectangles also
+overlap. Projecting the shipped texture with those rectangles reproduces the
+user's sliced/repeated English lettering.
+
+`maximum_break_art.BANNER_PIECES` inventories all nine signed XY/unsigned UV
+records and their initial anchors. The fix packs MA / XI / M / U / M / B / R /
+EA / K separately, with transparent gutters and a larger word gap, and changes
+only those nine 16-byte rectangles alongside the texture. Settled screen
+bounds are contiguous with one baseline; all keyframe bytes remain intact.
+The source hash and exact native rectangle/anchor values fail closed on drift.
+
+`test_maximum_break_art.py` has seven source-level tests, including actual
+packed-rectangle projection, old-layout rejection, sampling-edge clearance,
+non-target byte preservation and a temporary archive round trip. The local
+before/after CPU projection was visually reviewed. This is not a full build
+or RPCS3 animation playback test; installation/release remains unchanged.
 
 ## Verification and delivery status
 

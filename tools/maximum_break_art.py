@@ -1,7 +1,8 @@
 """Translate battle action labels and Maximum Break in BTLC/CMN.CPK.
 
-Keep the 1472x176 banner texture, 136x192 badge atlas, UVs and animation
-commands unchanged. Includes the four cyan attack badges, Combo Attack,
+Keep texture sizes and animation timing unchanged. Repack the nine animated
+banner pieces and their XY/UV rectangles together (the native atlas repeats
+one Japanese glyph). Includes the four cyan attack badges, Combo Attack,
 Counter, Attack Again, Support Attack and Support Defend. The already-English
 red ribbons are texture 1 and remain unchanged.
 """
@@ -18,6 +19,51 @@ SOURCE=Path('work/orig/CMN.CPK')
 GTF=0x9de0
 SOURCE_HASH='1359e4fa6b1adb2ab711a5e7c88960d82d37ae4d927ac9f737fd0e263247e2cc'
 RECTS={16:(0,0,1472,176),6:(5,164,126,24)}
+# Left-to-right native pieces: rectangle offset, initial X, initial Y,
+# signed XY bounds and unsigned UV endpoints. The fourth piece reuses the
+# first glyph; a continuous English repaint cannot work with these samples.
+BANNER_PIECES=(
+    (0x419c,-632,0,(-88,-88,88,88,1,0,175,176)),
+    (0x4080,-504,0,(-84,-88,84,88,177,0,343,176)),
+    (0x3f70,-344,4,(-96,-96,96,80,345,0,535,176)),
+    (0x3e60,-160,0,(-88,-88,88,88,1,0,175,176)),
+    (0x3d58,-56,0,(-84,-88,84,88,537,0,703,176)),
+    (0x3c48,176,0,(-96,-92,96,84,705,0,895,176)),
+    (0x3b38,332,0,(-92,-84,92,92,897,0,1079,176)),
+    (0x3a24,496,0,(-100,-86,100,90,1081,0,1279,176)),
+    (0x3910,624,0,(-96,-84,96,92,1281,0,1471,176)),
+)
+BANNER_CHUNKS=('MA','XI','M','U','M','B','R','EA','K')
+
+
+def banner_layout(font_path):
+    """Nine whole-letter cells, with a common baseline and font scale."""
+    font=ImageFont.truetype(str(Path(font_path).with_name('SCE-PS3-RD-BI-LATIN.TTF')),210)
+    boxes=[font.getbbox(s) for s in BANNER_CHUNKS]
+    top=min(b[1] for b in boxes);bottom=max(b[3] for b in boxes)
+    # Transparent gutters protect outlines from bilinear sampling of neighbours.
+    # An extra word gap follows MAXIMUM. Widths sum exactly to the native atlas.
+    pads=[16]*9;pads[4]+=24
+    scale=(1472-sum(pads))/sum(b[2]-b[0] for b in boxes)
+    widths=[round((b[2]-b[0])*scale)+pad for b,pad in zip(boxes,pads)]
+    widths[-1]+=1472-sum(widths)
+    result=[];x=0
+    for label,box,width,pad in zip(BANNER_CHUNKS,boxes,widths,pads):
+        result.append((x,width,label,box,pad))
+        x+=width
+    return font,top,bottom,result
+
+
+def patch_banner_pieces(out,font_path):
+    for (p,anchor_x,anchor_y,expected),cell in zip(BANNER_PIECES,banner_layout(font_path)[3]):
+        assert struct.unpack_from('<4h4H',out,p)==expected,'Maximum Break sprite source drift'
+        anchor_offset=p-(16 if p==0x419c else 12)
+        assert struct.unpack_from('<2h',out,anchor_offset)==(anchor_x,anchor_y)
+        x,w,_,_,_=cell
+        # Lay out the settled phrase in screen space, not in the original
+        # overlapping Japanese glyph boxes. Keep all keyframe values intact.
+        struct.pack_into('<4h4H',out,p,x-736-anchor_x,-88-anchor_y,
+                         x+w-736-anchor_x,88-anchor_y,x+1,0,x+w-1,176)
 # Native battle-animation surfaces, separate from the map UI word atlas.
 ACTION_RECTS=(
     (6,(5,36,126,24),_l10n.literal('maximum_break_art.ACTION_RECTS/0'),'cyan'),
@@ -60,11 +106,13 @@ def texture(blob,index):
 def banner(original,font_path):
     # Use the existing PS3 bold italic face and sample the original gold
     # stripe palette by row. No external bitmap or screenshot is embedded.
-    font=ImageFont.truetype(str(Path(font_path).with_name('SCE-PS3-RD-BI-LATIN.TTF')),210)
-    l,t,r,b=font.getbbox('MAXIMUM BREAK')
-    mask=Image.new('L',(r-l,b-t));ImageDraw.Draw(mask).text((-l,-t),'MAXIMUM BREAK',font=font,fill=255)
-    mask=mask.resize((1400,144),Image.Resampling.LANCZOS)
-    canvas=Image.new('L',(1472,176));canvas.paste(mask,(36,16))
+    font,top,bottom,cells=banner_layout(font_path)
+    canvas=Image.new('L',(1472,176))
+    for x,w,label,(l,t,r,b),pad in cells:
+        mask=Image.new('L',(r-l,bottom-top))
+        ImageDraw.Draw(mask).text((-l,-top),label,font=font,fill=255)
+        mask=mask.resize((w-pad,144),Image.Resampling.LANCZOS)
+        canvas.paste(mask,(x+8,16))
     out=Image.new('RGBA',canvas.size)
     for radius,color in ((5,(30,25,16,255)),(4,(246,245,228,255)),(2,(85,49,12,255))):
         edge=canvas.filter(ImageFilter.MaxFilter(radius*2+1))
@@ -101,18 +149,21 @@ def apply(blob,font_path):
     paint_rect(out,GTF,6,RECTS[6],badge(small,font_path))
     for index,rect,label,color in ACTION_RECTS:
         paint_rect(out,GTF,index,rect,action_tile(rect,label,color,font_path))
+    patch_banner_pieces(out,font_path)
     return bytes(out)
 
 def verify(original,built,font_path):
     assert built==apply(original,font_path) and built!=original
     restored=bytearray(built)
+    for p,_,_,_ in BANNER_PIECES:
+        restored[p:p+16]=original[p:p+16]
     for index,(x,y,w,h) in list(RECTS.items())+[(i,r) for i,r,_,_ in ACTION_RECTS]:
         p=GTF+12+36*index;tw=struct.unpack_from('>H',original,p+20)[0]
         off=GTF+struct.unpack_from('>I',original,p+4)[0]
         for row in range(h):
             q=off+((y+row)*tw+x)*4;restored[q:q+w*4]=original[q:q+w*4]
-    assert restored==original,'non-lettering texture or animation bytes changed'
-    print('PASS: Maximum Break plus nine battle action surfaces; frames, arrows, controls, UVs and animation bytes unchanged.')
+    assert restored==original,'bytes outside lettering and nine banner rectangles changed'
+    print('PASS: Maximum Break nine-piece XY/UV layout and battle action surfaces; all other pixels and animation commands unchanged.')
 
 def build(out,font_path):
     assert SOURCE.exists(),'extract the pristine BTLC/CMN.CPK to work/orig first'

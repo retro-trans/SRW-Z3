@@ -1,0 +1,74 @@
+{
+  "schema": 1,
+  "language": "en",
+  "messages": {
+    "battle_effect_labels:barrier_field": {
+      "text": "Barrier Field",
+      "status": "translated"
+    },
+    "battle_effect_labels:radiation_wave": {
+      "text": "Radiation Wave",
+      "status": "translated"
+    },
+    "battle_effect_labels:beam_coat": {
+      "text": "Beam Coat",
+      "status": "translated"
+    },
+    "battle_effect_labels:shield_defense": {
+      "text": "Shield Defense",
+      "status": "translated"
+    },
+    "battle_effect_labels:parry": {
+      "text": "Parry",
+      "status": "translated"
+    },
+    "battle_effect_labels:stats_halved": {
+      "text": "Stats Halved",
+      "status": "translated"
+    },
+    "battle_effect_labels:incapacitated": {
+      "text": "Incapacitated",
+      "status": "translated"
+    },
+    "battle_effect_labels:focus_down": {
+      "text": "Focus Down",
+      "status": "translated"
+    },
+    "battle_effect_labels:sp_down": {
+      "text": "SP Down",
+      "status": "translated"
+    },
+    "battle_effect_labels:en_down": {
+      "text": "EN Down",
+      "status": "translated"
+    },
+    "battle_effect_labels:mobility_down": {
+      "text": "Mobility Down",
+      "status": "translated"
+    },
+    "battle_effect_labels:accuracy_down": {
+      "text": "Accuracy Down",
+      "status": "translated"
+    },
+    "battle_effect_labels:armor_down": {
+      "text": "Armor Down",
+      "status": "translated"
+    },
+    "battle_effect_labels:focus_up": {
+      "text": "Focus Up",
+      "status": "translated"
+    },
+    "battle_effect_labels:stats_up": {
+      "text": "Stats Up",
+      "status": "translated"
+    },
+    "battle_effect_labels:spirit_effect": {
+      "text": "Spirit Effect",
+      "status": "translated"
+    },
+    "battle_effect_labels:move_up": {
+      "text": "Move Up",
+      "status": "translated"
+    }
+  }
+}

@@ -1,5 +1,226 @@
 # Changelog
 
+## Local build 0.6.24 (2026-09-30)
+
+- User requested an ISO. Strict current-source English build completed at
+  work/build_0.6.24_english_20260930:143 stage containers,5635 executable
+  text hooks,2119 inventoried mission variants and zero missing variants.
+  Includes the pending fixes recorded below: Maximum Break pieces, battle
+  unit-name centering, combat-effect labels, Weapon Rank and skill-row
+  overflow, Gold Bar, pronouns/Sphere titles, Tactical/Tag choices and footer.
+- All48 focused tests across nine affected test modules passed; full build
+  regression gate passed. Hardware packaging dry-run passed. No publication,
+  tag, upload, catalog or visibility change is authorized by this local build.
+- Packaging completed: one unsplit5,018,877,952-byte ISO, all554 files
+  verified through both ISO9660 and Joliet. ISO SHA-256:
+  9ef889abf4a433a06c7627954f1dea9ab36b026abfe515cd18896aa4fcbd0c07.
+  Wrapped SELF SHA-256:
+  e727c958802943afdc0fe3c0ccdd0eeb8282a7ddb6867c58674ddf1ed455687f.
+  Raw/folded/wrapped executable permission gates passed300branch edges/
+  1137instructions. Package:work/ps3_hardware_0.6.24_20260930.
+  This is a hardware candidate, not a new gameplay/hardware confirmation.
+- Installation dry-run passed220targets/32save files. The write attempt
+  stopped at the emulator-open guard before creating a backup or changing
+  game/cache/registration files: RPCS3 started during preflight. Installed
+  version remains unchanged; close RPCS3 before retrying this snapshot.
+
+## Unbuilt source fix - Tactical targeting footer overlap (2026-09-29)
+
+- Screenshot83df62c4: the separate targeting heading and instruction collide.
+  Changed only the compact heading from "Tactical Cmd" to "Tactics"; the
+  command-menu name and full selection/confirmation instructions stay intact.
+  At23px the bracketed heading is126.5px instead of190.46875px, fitting the
+  150px title-to-hint anchor distance with23.5px clearance.
+- Added a paired-layout guard (minimum12px gap) for both ally/enemy targeting
+  templates, and a regression reproducing the shipped .23 heading overflow.
+  Text pointers only: fonts, positions, controls and gameplay are unchanged.
+  No complete game build, installation or runtime visual confirmation.
+- Six focused tests, catalog/543 compatibility views and complete in-memory
+  executable checks pass (300 branch edges,1137 injected instructions,
+  12900 centering cases;14240 extension bytes free).
+
+## Unbuilt source fix - Tactical and Tag Command choices (2026-09-29)
+
+- Screenshots28eb91cf/fbdbba93: Tactical choices now read Attack Cmd,
+  Defense Cmd and Assault Cmd in both FSSA variants. Compact Cmd keeps the
+  original31px font within280px. All four Tag choices use canonical Multi
+  Action, Bonus PP, Bonus Chips and Charge SP.
+- The earlier Tag fix covered only its static FSSA template; the live menu
+  instead reads a separate UTF-8 table at file0x780584..0x780590. Added all
+  four bindings, plus the three adjacent Tactical effect descriptions at
+  0x780578..0x780580 (CQB/RNG+15,HIT+15; DEF+20,EVD+15;
+  CQB/RNG+30,DEF-40,EVD-20). Existing Tag help remains unchanged.
+- Canonical wording feeds FSSA, live UTF-8 and exact CP932 name hooks. Source
+  and output gates cover the complete seven-pointer table; no gameplay,
+  styles, row spacing or selection behavior edits. Four focused tests pass,
+  including shipped omission, widths, negative guards and byte isolation.
+  Catalog/543 compatibility views pass. No full build/install/release.
+- Full current executable composition passes in memory, including all seven
+  live-pointer readbacks, folded permission audit300edges/1137instructions
+  and12900 centering cases;14224 extension bytes remain. Runtime pending.
+
+## Unbuilt terminology correction - Quarreling Twins (2026-09-29)
+
+- User screenshotcd3f18e0 settles いがみ合う双子 as Quarreling Twins.
+  Added one canonical glossary entry and replaced Feuding/Bickering title
+  variants in13 dialogue records and the scenario title (The Quarreling
+  Twins). Suzune's ordinary simile now says lowercase "quarreling twins".
+- Unified existing correct library/ability references through the same term;
+  battle subtitles already use the requested wording and remain unchanged.
+  Total22 English records updated. Existing four Vietnamese references use
+  the shared token with their previous wording retained verbatim in the
+  Vietnamese glossary; no Vietnamese translation or build change.
+- Five Sphere-title tests, all14 affected dialogue structure/font/width
+  checks and English catalog/543 compatibility-view checks pass. Updated
+  BASE_RULES. No complete build, installation or release.
+
+## Unbuilt dialogue correction - Annalotta pronouns (2026-09-29)
+
+- Screenshot28b6e7b3: changed Hibiki's "Then I'll beat him in that one
+  minute!" to "Then I'll beat her in that one minute!" in stage0053_04,
+  IDr_abdb034ae8509702. Also corrected the later "I'm beating him here,
+  no matter what!" to "her" (IDr_b4bc9e9435b58e6f).
+- Examined18 nearby source/English records; both omitted Japanese subjects
+  refer to Annalotta in this confrontation. Only these two records changed;
+  runtime protagonist token and line structure preserved. Added the user's
+  she/her clarification to BASE_RULES to prevent recurrence. No build/install.
+- Both records pass structure, glyph and measured-width checks. Canonical
+  catalog and543 compatibility views pass after the one-file sync.
+
+## Unbuilt dialogue correction - Suzaku surrounded (2026-09-29)
+
+- Corrected Shinn's line in stage0053_04:r_b6f7b219eb4bd64b from
+  "This is bad! We're surrounded!" to "This is bad! He's surrounded!"
+  Screenshot29ae9e4f and the adjacent source dialogue identify Suzaku alone:
+  Alto says he cannot do it alone; Kallen then tells Suzaku to run.
+- Examined eight nearby source/English records; changed only the reported
+  line. Speaker token and dialogue structure preserved. No build/install.
+- Target dialogue structure, glyph and measured-width checks pass; canonical
+  catalog and543 compatibility views pass after the one-file sync.
+
+## Unbuilt source fix - Gold Bar reward label (2026-09-29)
+
+- Screenshot0be97ede reports untranslated 金塊 followed by40000 in the
+  result reward list. The native constructor copies a fixed seven-byte
+  prefix fromVA0x71F988, then appends fullwidth amount digits. Shipped.23
+  has no matching draw hook; changing that source in place would break the
+  fixed copy, so it remains intact.
+- Added canonical Gold Bar prefix and a qualified draw-time prefix hook
+  including the source separator. All dynamic amounts are preserved, not
+  just40000; no reward value, cap, numeric conversion or buffer changes.
+- Four focused tests pass: canonical/prefix scope, shipped omission,
+  one-to-eight-digit amounts and constructor/source guards. Localization
+  check has zero issues;543 compatibility views agree, sync clean.
+- Source only; no full build, installation or release. In-game confirmation
+  remains pending the next requested build.
+- Full in-memory executable composition passes, including Gold Bar hook
+  readback,300 branch edges/1137 injected instructions and12900 centering
+  cases;14472 extension bytes remain. No game output generated.
+
+## Unbuilt source fix - level-up skill rows running together (2026-09-29)
+
+- Screenshot9943bc00 is a missing terminator, not a font-width problem:
+  the native level-up producer copies skill strings into32-byte slots.
+  Aggressive Beast encodes to32 bytes plus NUL; the following empty row
+  overwrites that NUL with dashes, causing both rows to draw as one string.
+- Added capacity-based skill_name_transport. Names that cannot fit with the
+  native L9/+9 suffix reserve retain their compact Japanese transport in
+  sk-pri name columns and expand at the final draw hook. Full English names
+  remain unchanged. Also catches Abnormal Survivor (34 bytes), whose
+  glossary wording takes precedence over the shorter skills-catalog alias.
+- All207 name fields across69 skill records are checked, not only the
+  screenshot's name. Only six fields require deferral today; unrelated RPW
+  slots, descriptions, gameplay values, result row stride and code unchanged.
+  Level/bonus hooks match only their qualified suffix; base names are exact.
+- Regression checks reproduce the adjacent-row corruption, verify every
+  field with all four suffix forms, isolate changed slots, guard the native
+  producer and ensure future long names use the same rule. Source only;
+  no full build/install/release or runtime visual confirmation.
+- Six transport tests, two terminology tests and the full in-memory
+  executable composition pass. Draw-hook entries verified; folded permission
+  audit300 edges/1137 instructions,12900 centering cases,14512 extension
+  bytes free. No game output was generated by these checks.
+
+## Unbuilt source fix - upgrade Weapon/Rank overlap (2026-09-29)
+
+- Screenshot7e17e28b exposes separate Weapon and RANK widgets in the stat
+  upgrade panels, missed by the earlier list-footer correction. Their anchors
+  are53 native pixels apart; English Weapon spans109.375px at size28.
+- Combined the label as Wpn Rank and suppressed the duplicate RANK draw in
+  both stat-panel variants and their shared template. The135.625px label fits
+  the145px budget. Only text pointers change; positions, styles, numeric
+  rank values, arrows, bars and unrelated RANK controls remain unchanged.
+- Five focused regression tests pass: complete three-pair inventory, shipped
+  overlap reproduction, combined-label fit, byte isolation and duplicate
+  suffix rejection. Canonical locale checks and compatibility sync pass.
+- Source only; no full build, install or release. Runtime confirmation awaits
+  the next explicitly requested build.
+
+## Unbuilt source fix - battle effect banner translations (2026-09-29)
+
+- Screenshot5a1d56fa reports untranslated A.T. Field during combat. The
+  canonical ability name and CP932 hook were already English; both live
+  banner pointers in .23 still reference the separate Japanese UTF-8 string
+  atVA0x6ED6E0. This is a missing rendering-path binding, not missing wording.
+- Added battle_effect_labels: complete39-label/51-pointer UTF-8 table at
+  file offsets0x84E61C..0x84E6E4. Covers barrier/defense/evasion labels plus
+  status reductions, recovery and boosts. Reuses22 existing canonical names;
+  adds17 context-specific labels to the English catalog. Source definitions
+  remain local/ignored. No sprite, battle logic, timing or color edits.
+- Hooked the family into the normal UTF-8 relocation/font path and added
+  source-reference and final-output checks to the build gates. All51 pointers
+  are checked, including repeated A.T. Field, Barrier and Double Image rows.
+- Five focused tests pass: shipped defect reproduction, canonical wording,
+  all-label/font readback, negative guards and exact changed-byte isolation.
+  English catalog has zero issues;543 compatibility views agree, sync clean.
+- Full current executable composition also passes in memory, including
+  folded executable-permission checks (300 edges/1137 injected instructions)
+  and12900 centering cases.14744 bytes remain in the extension; no game
+  output was generated by this compatibility test.
+- No complete build, installation, ISO or release. In-game confirmation
+  remains pending the next explicitly requested build.
+
+## Unbuilt source fix - centered unit names (2026-09-29)
+
+- Screenshot bb0410de shows Evangelion Unit-00 (Kai) extending left of the
+  battle-preview name panel. Its 24 translated cells reserve600px at size25
+  in the native centered drawer, while their rendered advance is306.25px:
+  a146.875px leftward error before display scaling. Gurren Lagann has the
+  same length-dependent error, not a separate fixed-position problem.
+- Extended the existing screen-local VWF centering hook to the17 shared
+  centered unit-name templates, including copied/recolored descriptors,
+  identified by their source-validated unique string references. Full names,
+  font sizes, colors, panel anchors, RPW data and left-aligned widgets stay
+  unchanged. Japanese/hidden/unsupported strings retain native fallback.
+- Added six tests: complete template/reference inventory, emitted-PPC tests
+  across17 templates and copies, screenshot arithmetic, all281 distinct
+  packed unit-name variants (252 narrowed-font cases,29 native fallbacks),
+  negative scope cases and the executable-permission audit. Existing795
+  direct-record/1060 copied search-grid cases also pass in memory.
+- Tightened search_layout's code reservation to0x400: command_layout begins
+  at0x78E400. The new1004-byte stub fits with20 bytes spare; the prior0x800
+  bound was too loose. No neighbouring hook is changed.
+- Source only, no full build/install/release; in-game placement confirmation
+  remains pending. The separate Japanese Wait badge was not changed here.
+
+## Unbuilt source fix - Maximum Break animated lettering (2026-09-29)
+
+- Reproduced screenshot bdaa22e9 by sampling the shipped banner with the
+  native animation rectangles. The previous continuous English repaint used
+  nine overlapping Japanese glyph quads, including a repeated atlas glyph;
+  unchanged UVs therefore duplicated and sliced the English letters.
+- Repacked nine whole-letter English pieces with transparent sampling gutters
+  and updated their signed screen bounds and UV endpoints together. Common
+  baseline and contiguous settled bounds replace the Japanese glyph geometry.
+  Texture dimensions, gold palette, red ribbons, all keyframe timing/motion,
+  other battle artwork and other archive members are preserved.
+- Added seven focused tests for native duplication, distinct samples, complete
+  lettering, contiguous geometry, unclipped ink, exact byte isolation, source
+  drift/old-layout rejection and a temporary CMN archive round trip. CPU
+  projection before/after visually reviewed; not live animation verification.
+- Source fix only: no full game build, install, ISO or public release change.
+  In-game playback confirmation is pending the next explicitly requested build.
+
 ## 0.6.23 public release (2026-09-29)
 
 - User explicitly requested publication of the existing validated0.6.23 build.
@@ -211,6 +432,10 @@
 - Source-only correction; no build, installation or release. Regression
   coverage checks the canonical name, generated label, Ace Bonus hook, font
   widths and full-name RPW relocation without changing unrelated strings.
+  That initial relocation was later shipped, but missed the32-byte level-up
+  row buffer. The2026-09-29 transport fix above preserves the full displayed
+  name while deferring its expansion until drawing; the earlier RPW-only
+  regression has been updated to cover the safe representation.
 
 ## Unbuilt source fixes - MAP weapon IFF / pattern row (2026-09-28)
 
@@ -666,6 +891,9 @@
   cover runtime text. Gepard/Spada prose uses canonical glossary tokens.
   September 26 follow-up: this pass left the separate Spirit-use quote frames
   and caster SP-cost label Japanese; trader_spirit_prompts now covers them.
+  September 29 follow-up: its standalone width checks missed the Tactical
+  heading/instruction overlap; the compact Tactics heading and paired-layout
+  guard above correct that omission without moving either field.
 - Covered all four named swap-equipment options in BOTH native tables:
   Round Mover, Lightweight Configuration, Assault Configuration and BWS.
   Reuses the existing reward-message terminology; None, equipment IDs,
@@ -2175,6 +2403,8 @@ any of it.
   left alone; a sweep of the stage's other quoted terms found no second case.
 - The `'Feuding Twins'` versus `'Bickering Twins'` question is recorded in
   CONVENTIONS.md as the user's, since settling it moves shipped records.
+  Resolved by the user's2026-09-29 correction: Quarreling Twins. The pending
+  canonical glossary sweep above replaces both historical title variants.
 - FOUR TOKENISATIONS WERE REJECTED and the tool fixed; see the entry above.
 - `マリィ` WAS A PHONETIC GUESS THAT DID NOT NEED TO BE. The name is spelled
   out in seven `voice_*.json` records, which the sha cache cannot see. The
@@ -4627,7 +4857,10 @@ In-game visual verification remains pending. No ISO/deployment/build stamp.
 
 **Upgrade labels / blank intermission Library / support counter follow-up:**
 translated both Weapon Rank headers and both Sight/Wpn Rank footer blocks,
-suppressing only the old separate RANK suffix widgets. Support Def's narrow
+suppressing only the old separate RANK suffix widgets in those list footers.
+This did not cover the separate stat-panel Weapon/RANK pair; the2026-09-29
+pending correction above handles both stat panels and their shared template.
+Support Def's narrow
 preview title is now S. Def; the adjacent Re-Attack title is Re-Atk, alongside
 the previously fixed S. Atk. All three leave over 12 native pixels before
 the existing use-counter position, with numeric widgets unchanged.
@@ -5740,12 +5973,18 @@ eight save files unchanged. Previous changed files and stale install cache
 are recoverably backed up. In-game visual confirmation remains pending.
 
 **Tag Command, Maximum Break, reward alignment and Weapons (prepared; not deployed).**
-Translate the four Tag Commands and Z Chips caption. Replace the gold
+Translate the four Tag Commands and Z Chips caption. This initial change
+covered the static template, not the live UTF-8 Tag choices; corrected by
+the2026-09-29 pending source fix above. Replace the gold
 Maximum Break banner and small red badge while preserving animation and
 other battle artwork. Center both SR Point reward lines by actual English
 width, and shorten Weapon Select to Weapons to fit its header. Full checks
 passed; texture previews reviewed. In-game confirmation remains pending.
 The combined _v2 bundle adds DATA/BTLC/CMN.CPK (28 game files total).
+Correction (2026-09-29): the original continuous banner repaint did not match
+the nine native animated glyph samples and shipped with sliced/repeated
+letters. The pending source fix repacks the nine pieces and changes their
+XY/UV rectangles together; timing/motion and unrelated artwork remain intact.
 
 **Map-hover popup overlaps (prepared; not deployed).**
 Use MV in the narrow movement field, smaller S.Atk / S.Def without trailing

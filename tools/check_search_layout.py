@@ -9,7 +9,7 @@ from check_confirmation_tabs import f32
 
 
 def execute(code, widths, raw, record, x, sizes, flags=(1,1,1,1,1), mode=1,
-            copied=None, caller=0):
+            copied=None, caller=0, record_data=None):
     memory = {}
     def put(p, b): memory.update(enumerate(b, p))
     def get(p,n): return bytes(memory[p+i] for i in range(n))
@@ -23,6 +23,7 @@ def execute(code, widths, raw, record, x, sizes, flags=(1,1,1,1,1), mode=1,
     r[7]=1
     ui, recbase, style = r[26], 0x4000000, 0x5000000
     r[31] = recbase + record-layout.RECORD_BASE
+    put(r[31],record_data if record_data is not None else bytes(32))
     stack = r[1]
     put(stack+0xf0, struct.pack('>Q',caller))
     if copied is not None:

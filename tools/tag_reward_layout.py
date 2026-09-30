@@ -4,9 +4,10 @@ import struct
 import aiddata
 import digraph as dg
 from intermission_layout import text,ink
+import command_choice_labels as choices
 
 ROWS={0x9cf94:('・マルチアクション\n・ボーナスＰＰ\n・ボーナスチップ\n・チャージＳＰ',
-                '・Multi Action\n・Bonus PP\n・Bonus Chips\n・Charge SP'),
+                choices.choices(choices.TAGS)),
       0xa06b4:('武器選択',_l10n.literal('tag_reward_layout.ROWS/0'))}
 CHIPS=(0xabbf4,0xabc74,0xabd74,0xabdf4,0xabe74,0xabef4,0xabf74,0xabff4)
 ROWS.update({r:('Ｚチップ：','Z Chips:') for r in CHIPS})
@@ -29,6 +30,11 @@ ACTION_ROWS={
     0xa9174:('・アシスト攻撃','・Assist Attack'),
 }
 ROWS.update(ACTION_ROWS)
+TACTICAL_ROWS={
+    0x9cfb4:('・『攻撃指揮』\n・『防御指揮』\n・『特攻指揮』',choices.choices(choices.TACTICS)),
+    0xa95d4:('『攻撃指揮』\n『防御指揮』\n『特攻指揮』',choices.choices(choices.TACTICS,bullet=False)),
+}
+ROWS.update(TACTICAL_ROWS)
 
 def apply(blob,mapping,widths):
     out=bytearray(blob);allowed=set()
@@ -58,7 +64,8 @@ def check(blob,mapping,widths):
     for r,(jp,en) in ROWS.items():
         assert text(blob,r)==dg.encode_mixed(en,mapping,newline=b'\n')
         for line in en.split('\n'):
-            assert ink(line,mapping,widths,blob[r+16])<(280 if r==0x9cf94 or r in HEADERS or r in ACTION_ROWS else 150 if r==0xa06b4 else 120)
+            assert ink(line,mapping,widths,blob[r+16])<(280 if r==0x9cf94 or r in HEADERS or r in ACTION_ROWS or r in TACTICAL_ROWS else 150 if r==0xa06b4 else 120)
+        if r in TACTICAL_ROWS:assert en.count('\n')==jp.count('\n')==2
         if r in ACTION_ROWS:assert en.count('\n')==jp.count('\n')
         if r in HEADERS:
             assert not blob[r+23]&0x40

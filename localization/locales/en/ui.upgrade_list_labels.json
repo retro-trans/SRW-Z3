@@ -2,6 +2,10 @@
   "schema": 1,
   "language": "en",
   "messages": {
+    "ui.upgrade_list_labels:weapon_rank_short": {
+      "text": "Wpn Rank",
+      "status": "translated"
+    },
     "ui.upgrade_list_labels:r_0ea619af31c0a4bc": {
       "text": "Weapon Rank",
       "status": "imported"

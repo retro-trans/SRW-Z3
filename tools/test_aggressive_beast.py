@@ -9,6 +9,7 @@ import digraph as dg
 import eboot
 import localization
 import rpw
+import skill_name_transport
 import trdata
 from intermission_layout import ink
 
@@ -40,14 +41,15 @@ class AggressiveBeastTests(unittest.TestCase):
             self.assertTrue(all(c in self.mapping for c in line))
             self.assertLess(ink(line, self.mapping, self.widths, 28), 600)
 
-    def test_rpw_relocates_full_name_and_preserves_other_strings(self):
+    def test_rpw_keeps_safe_native_name_and_preserves_other_strings(self):
         cpk = CPK('work/orig/RPW_DATA.CPK')
         before = cpk.read(cpk.files[0])
         strings = rpw.jstrings(before)
         plan = rpw.plan_all(strings, {'野性化': 'Aggressive Beast'})
         self.assertTrue(plan)
         encoded = {i: dg.encode_mixed(en, self.mapping) for i, en in plan.items()}
-        after, appended = rpw.build_grown(before, encoded)
+        overrides = skill_name_transport.overrides(before)
+        after, appended = rpw.build_grown(before, encoded, overrides)
         self.assertGreater(appended, 0)
         def raw_strings(blob):
             _, _, start, end, _ = next(c for c in rpw.chunks(blob) if c[0] == 'j-string')
@@ -57,9 +59,10 @@ class AggressiveBeastTests(unittest.TestCase):
         self.assertEqual(slots_old.keys(), slots_new.keys())
         found = 0
         for slot, i in slots_old.items():
-            self.assertEqual(new[slots_new[slot]], encoded.get(i, old[i]), slot)
+            self.assertEqual(new[slots_new[slot]], overrides.get(slot, encoded.get(i, old[i])), slot)
             found += i in plan
         self.assertGreater(found, 0)
+        self.assertEqual(skill_name_transport.hooks()[0]['野性化'], 'Aggressive Beast')
 
 
 if __name__ == '__main__':

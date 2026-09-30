@@ -18,6 +18,12 @@ When translating dialogue:
 - Do not supply what the source omits. Japanese drops the subject constantly and English usually needs one, but where the scene doesn't settle who, prefer a construction that keeps the ambiguity — a passive, an imperative — over inventing "I" or "we".
 
 When translating any kind of text:
+- The Sphere title いがみ合う双子 is **Quarreling Twins**, not Feuding Twins
+  or Bickering Twins (user correction 2026-09-29). Use $$いがみ合う双子$$
+  in prose; keep grammatical "the" outside the glossary term.
+- Annalotta Stohls (アンナロッタ / アンナロッタ・ストールス) is female;
+  use she/her when the scene identifies her as the referent. User-confirmed
+  2026-09-29. Do not confuse her with Gadlight in scenes featuring both.
 - Sphere titles use **Sorrowful Maiden**, **Wounded Lion**, **Lying Black
   Sheep**, and **Inexhaustable Water Gourd**, exactly as specified by the user
   on 2026-09-28 (including the spelling "Inexhaustable"). Use glossary tokens

@@ -2,6 +2,46 @@
   "schema": 1,
   "language": "en",
   "messages": {
+    "ui.tag_reward_layout:attack": {
+      "text": "Attack Cmd",
+      "status": "translated"
+    },
+    "ui.tag_reward_layout:defense": {
+      "text": "Defense Cmd",
+      "status": "translated"
+    },
+    "ui.tag_reward_layout:assault": {
+      "text": "Assault Cmd",
+      "status": "translated"
+    },
+    "ui.tag_reward_layout:multi": {
+      "text": "Multi Action",
+      "status": "translated"
+    },
+    "ui.tag_reward_layout:pp": {
+      "text": "Bonus PP",
+      "status": "translated"
+    },
+    "ui.tag_reward_layout:chips": {
+      "text": "Bonus Chips",
+      "status": "translated"
+    },
+    "ui.tag_reward_layout:sp": {
+      "text": "Charge SP",
+      "status": "translated"
+    },
+    "ui.tag_reward_layout:attack_help": {
+      "text": "CQB/RNG +15, HIT +15",
+      "status": "translated"
+    },
+    "ui.tag_reward_layout:defense_help": {
+      "text": "DEF +20, EVD +15",
+      "status": "translated"
+    },
+    "ui.tag_reward_layout:assault_help": {
+      "text": "CQB/RNG +30, DEF -40, EVD -20",
+      "status": "translated"
+    },
     "ui.tag_reward_layout:r_0ea619af31c0a4bc": {
       "text": "Weapons",
       "status": "imported"

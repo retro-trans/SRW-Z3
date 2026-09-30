@@ -234,6 +234,8 @@ def main():
     import battle_screen_labels
     battle_screen_labels.check_ui(member(built_ui,0),mapping,cv_widths)
     battle_screen_labels.check_elf(b,mapping)
+    import battle_effect_labels
+    battle_effect_labels.check_built(b,mapping,cv_widths)
     import battle_speaker_names
     battle_speaker_names.check(b)
     import battle_name_transport
@@ -255,6 +257,10 @@ def main():
     operation_indent.check(b)
     import battle_name_rendering
     battle_name_rendering.check_elf(b,mapping)
+    import skill_name_transport
+    skill_name_transport.check_elf(b,mapping)
+    skill_name_transport.check_rpw(member(CPK('work/lib/RPW_DATA.CPK'),0),
+                                  member(CPK(str(out / 'RPW_DATA.CPK')),0))
     battle_name_rendering.check_rpw(member(CPK('work/lib/RPW_DATA.CPK'),0),
                                     member(CPK(str(out / 'RPW_DATA.CPK')),0))
     import rpw
@@ -356,6 +362,8 @@ def main():
     map_popup_layout.check(ui_data, mapping, preview_widths)
     import tag_reward_layout
     tag_reward_layout.check(ui_data, mapping, preview_widths)
+    import command_choice_labels
+    command_choice_labels.check_built(b,mapping,preview_widths)
     import search_list_headers
     search_list_headers.check(ui_data,mapping,preview_widths)
     import weapon_info_layout
