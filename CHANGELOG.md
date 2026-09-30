@@ -1,5 +1,20 @@
 # Changelog
 
+## Release 0.6.24 preparation (2026-09-30)
+
+- Explicit release request; reuse the exact verified local ISO without a
+  rebuild or installation. Source commit afad7b70 records all build changes;
+  current English source fingerprint matches the build manifest.
+- Current Retro Trans0.3.1 at fd35841c supplies the shared builder/validator.
+  Original->.24 patch155533114bytes and .23->.24 patch21491238bytes both
+  reproduce ISO SHA2569ef889abf4a433a06c7627954f1dea9ab36b026abfe515cd18896aa4fcbd0c07.
+  Independent directory validation passed; exactly five protocol assets.
+- Local snapshot220files and per-file patches220+149 verified. New release
+  notes retain Apply/changes/compatibility/credits/Contribute sections, with
+  exact source requirements and runtime limitations. No original/translated
+  ISO, extracted game files or Japanese source catalogs are upload assets.
+  Public-download and live/cached catalog gates remain pending publication.
+
 ## Local build 0.6.24 (2026-09-30)
 
 - User requested an ISO. Strict current-source English build completed at

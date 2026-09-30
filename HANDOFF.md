@@ -1,5 +1,15 @@
 # Handoff
 
+**2026-09-30 release0.6.24 preparation:** explicitly requested. Source
+afad7b70e0bdd3a4c8f89cf31dcccf8a487ab83f pushed, no rebuild/install.
+Retro Trans0.3.1 current source fd35841c47555f9461a802ff47e15784caa8156f
+in work/retro-trans/tools_0624; local builder/validator passed, ready_0.6.24
+contains exactly five assets. Original patch155533114bytes; .23upgrade21491238.
+Both full round trips match verified ISO; per-file sets220+149 also pass.
+Before-catalog23records saved in work/release_0.6.24_audit/catalog-before.json.
+work/verify_release_0624.py handles uploaded/public/catalog gates, still pending.
+Release notes docs/releases/0.6.24.md; validation docs/validation/0.6.24.md.
+
 **2026-09-30 local0.6.24 build:** user requested an ISO. Strict source build
 work/build_0.6.24_english_20260930 passed (143containers,5635hooks,
 2119mission variants,0missing);48 focused tests passed. Packaging dry-run/write
