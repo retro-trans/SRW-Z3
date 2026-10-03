@@ -12,6 +12,23 @@ private testing and public catalog enrollment are separate steps; publication,
 tags and uploads require an explicit user request.
 
 
+## Public release: 0.6.25 (2026-10-03)
+
+Published latest2026-10-03T16:37:57Z, release402597044:
+https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.25.
+Includes pending pilot-name, banner/Ace, ECOAS and dialogue corrections.
+Source601fba9, tagb76fe08 adds release records. Strict build,41focused tests,
+full packaging and all554disc files pass; historical-suite limitations are
+documented, not claimed all-green. Wrapped snapshot installed in game/,
+220hashes/full-disc audit verified and32saves unchanged, old files/cache retained.
+Exactly five standard assets: original/.24ISO patches plus verification files.
+Both full round trips, uploaded hashes and actual public downloads passed
+Retro Trans0.3.1 at11cd60e7. Catalog run37137618661 succeeded, commit017f5882;
+the app's live URL and previous/older cached refresh preserve identities and
+original/.24/.23/.22/.21 routes. No prior asset or visibility changes; no game
+file upload. Exact-build gameplay/physical-console testing remains unverified.
+See docs/releases/0.6.25.md and docs/validation/0.6.25.md.
+
 ## Public release: 0.6.24 (2026-09-30)
 
 Published latest2026-09-30T01:55:53Z, release399655691:

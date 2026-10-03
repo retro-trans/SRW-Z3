@@ -1,6 +1,6 @@
 # Handoff
 
-**2026-10-03 release0.6.25 in progress:** user explicitly approved build and
+**2026-10-03 release0.6.25 complete:** user explicitly approved build and
 publication. Strict build work/build_0.6.25_english_20261003 passed; source
 601fba9e2816d4f8dd1e43c63baf4100bd687117 records all pending fixes below.
 Wrapped work/ps3_hardware_0.6.25_20261003 verified554files in both trees,
@@ -9,7 +9,13 @@ Wrapped work/ps3_hardware_0.6.25_20261003 verified554files in both trees,
 Snapshot220files and per-file deltas220+149 passed. Retro Trans0.3.1 at
 11cd60e78134ce2de37857c7056ea49b85346c4a; original/.24 ISO routes validated
 under work/retro-trans/ready_0.6.25, exactly5assets (patches155527453/21211106B).
-No publication yet. Installation passed:
+Published latest2026-10-03T16:37:57Z, release402597044, tagb76fe08:
+https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.25.
+Five uploaded hashes and actual public downloads pass. Catalog run37137618661
+and live catalog017f588249d39936690a08c224bbc68f651f4890 pass. Previous31-release
+and older cached refresh preserve identities/routes: original/.24direct,
+.23two/.22three/.21four steps, no cache reset. No game upload, old asset or
+visibility changes. Installation passed:
 220hashes/full-disc audit and32unchanged saves; registration uses game/,
 other games preserved. Recoverable backup
 work/install_backups/0.6.25_20261003_232321.

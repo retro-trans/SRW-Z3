@@ -1,10 +1,10 @@
 # Changelog
 
-## 0.6.25 release preparation (2026-10-03)
+## 0.6.25 released (2026-10-03)
 
 - User explicitly approved building the pending fixes and publishing the
-  Retro Trans-compatible release. New strict build and release notes prepared;
-  packaging, installation and publication results will be recorded below.
+  Retro Trans-compatible release. Includes every unbuilt source fix recorded
+  below since 0.6.24; review-only Gyunei/Quess wording was not changed.
 - Current Retro Trans 0.3.1 contract checked at
   11cd60e78134ce2de37857c7056ea49b85346c4a. Saved the existing 31-release
   catalog for immutable-identity and cached-refresh verification. Existing
@@ -32,6 +32,13 @@
 - Both ISO patch round trips and standard release-directory validation
   passed: original155527453bytes, .24upgrade21211106bytes. Exactly five
   standard assets prepared; per-file sets220+149 remain local only.
+- Published latest2026-10-03T16:37:57Z, release402597044, tagb76fe08:
+  https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.25.
+  Uploaded hashes and all actual public downloads verified. Catalog run
+  37137618661 passed; live catalog017f588249d39936690a08c224bbc68f651f4890
+  exposes .25. Previous31-release and older cached-client refresh both pass;
+  original/.24 direct, .23/.22/.21 chains preserved. No cache reset, old
+  asset changes, game upload or visibility change. Completion gate passed.
 
 ## Unbuilt source fix - Pilot Info name separators (2026-10-03)
 
