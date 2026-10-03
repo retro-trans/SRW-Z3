@@ -16,6 +16,22 @@
 - Updated the voice glossary regression to verify every token's exact
   expansion while retaining explicit Igura coverage. The old test assumed
   all voice tokens were Igura; ECOAS is now tokenized there as well.
+- All 41 focused tests plus nine ace/Igura tests passed. The unrestricted
+  all-platform run aborted in an emulator allocation failure; a 519-test
+  PS3-oriented diagnostic run reported historical-fixture/replay failures
+  and temporary-runner import errors. Exact limitations and reruns are
+  documented in docs/validation/0.6.25.md; no blanket suite-pass claim.
+- Hardware packaging passed: 554 files verified in both trees, 310 branch
+  edges / 1,168 injected instructions, ISO SHA256
+  6f24821375687edce6fabe684e2ccd6b14811731023de5a3e4f0ab5342cf1f1b.
+  Raw build remains intermediate; wrapped snapshot is the delivery target.
+- Installed the wrapped snapshot into the single game folder after dry-run:
+  220 matching output hashes, full-disc verification, 32 unchanged saves,
+  other registrations preserved. Old files/cache retained in
+  work/install_backups/0.6.25_20261003_232321. No runtime test claimed.
+- Both ISO patch round trips and standard release-directory validation
+  passed: original155527453bytes, .24upgrade21211106bytes. Exactly five
+  standard assets prepared; per-file sets220+149 remain local only.
 
 ## Unbuilt source fix - Pilot Info name separators (2026-10-03)
 

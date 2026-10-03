@@ -1,5 +1,22 @@
 # Handoff
 
+**2026-10-03 release0.6.25 in progress:** user explicitly approved build and
+publication. Strict build work/build_0.6.25_english_20261003 passed; source
+601fba9e2816d4f8dd1e43c63baf4100bd687117 records all pending fixes below.
+Wrapped work/ps3_hardware_0.6.25_20261003 verified554files in both trees,
+310branches/1168instructions; ISO5018877952bytes SHA256
+6f24821375687edce6fabe684e2ccd6b14811731023de5a3e4f0ab5342cf1f1b.
+Snapshot220files and per-file deltas220+149 passed. Retro Trans0.3.1 at
+11cd60e78134ce2de37857c7056ea49b85346c4a; original/.24 ISO routes validated
+under work/retro-trans/ready_0.6.25, exactly5assets (patches155527453/21211106B).
+No publication yet. Installation passed:
+220hashes/full-disc audit and32unchanged saves; registration uses game/,
+other games preserved. Recoverable backup
+work/install_backups/0.6.25_20261003_232321.
+41focused and9ace/Igura tests pass; broad historical-suite limitations are
+documented in docs/validation/0.6.25.md, not claimed all-green. New gameplay
+and physical-console test remain unverified. Notes docs/releases/0.6.25.md.
+
 **2026-10-03 pending Pilot Info dot removal:** status_name_separator replaces
 only two immediate values at0x31b99c/0x31b9a8 with the encoded space bytes.
 The native western-order UI join previously inserted CP9320x8145 after col2
