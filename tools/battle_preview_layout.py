@@ -28,6 +28,8 @@ def encoded(label, mapping):
 def check(blob, mapping, widths):
     import battle_unit_name_layout
     battle_unit_name_layout.check_ui(blob)
+    import pilot_name_layout
+    pilot_name_layout.check_ui(blob)
     for record, (_, label) in ROWS.items():
         pos = struct.unpack_from('>I', blob, record)[0] + aiddata.STR_BASE
         raw = encoded(label, mapping)

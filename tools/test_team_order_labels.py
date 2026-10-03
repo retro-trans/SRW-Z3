@@ -69,6 +69,19 @@ class TeamOrderTests(unittest.TestCase):
                 if nxt not in {x for _, rows in t.BINDINGS.values() for x in rows}:
                     self.assertEqual(self.ui[nxt - 8:nxt + 0x18], self.new[nxt - 8:nxt + 0x18], key)
 
+    def test_ace_notification_translates_both_layers(self):
+        import digraph as dg
+        self.assertEqual(text(self.new, 0xaa814), dg.encode_mixed('Ace Bonus obtained.', self.mapping))
+        self.assertEqual(text(self.new, 0xaa834), dg.encode_mixed('Ace Bonus', self.mapping))
+        self.assertEqual(self.new[0xaa818:0xaa81c], self.new[0xaa838:0xaa83c])
+        center = struct.unpack_from('>f', self.ui, 0xaa818)[0]*640
+        left = struct.unpack_from('>f', self.new, 0xaa818)[0]*640
+        self.assertAlmostEqual(left+ink('Ace Bonus obtained.', self.mapping, self.widths, 28)/2, center, places=4)
+        # Screenshot's original black sentence was never covered by the hook.
+        self.assertEqual(text(self.ui, 0xaa814).decode('cp932'), 'エースボーナスを獲得しました。')
+        for r in (0xaa814, 0xaa834):
+            self.assertFalse(self.new[r+23] & 0x40)
+
     def test_reject_changed_source(self):
         new = bytearray(self.ui)
         struct.pack_into('>I', new, t.BINDINGS['tf_reorder'][1][0], 0)

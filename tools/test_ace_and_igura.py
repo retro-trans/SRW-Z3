@@ -22,7 +22,9 @@ ROOT = Path(__file__).resolve().parents[1]
 class IguraTests(unittest.TestCase):
     def test_battle_subtitles_expand_before_encoding(self):
         trdata.use_glossary(str(ROOT / 'analysis/glossary.json'))
+        glossary = terms.index(json.loads((ROOT / 'analysis/glossary.json').read_text(encoding='utf-8')))
         affected = 0
+        igura_affected = 0
         for path in (ROOT / 'translation').glob('voice_*.json'):
             original = json.loads(path.read_text(encoding='utf-8'))
             loaded = trdata.voice_document(str(path))
@@ -33,7 +35,10 @@ class IguraTests(unittest.TestCase):
                 if '$$' in (before or ''):
                     affected += 1
                     self.assertNotIn('$$', after)
-                    self.assertIn('Igura', after)
+                    self.assertEqual(after, terms.expand(before, glossary))
+                    if '$$イグラー$$' in before or '$$レア・イグラー$$' in before:
+                        igura_affected += 1
+                        self.assertIn('Igura', after)
                 else:
                     self.assertEqual(before, after)
                 if isinstance(row, dict):
@@ -42,6 +47,7 @@ class IguraTests(unittest.TestCase):
             self.assertEqual({k: v for k, v in original.items() if k != 'lines'},
                              {k: v for k, v in loaded.items() if k != 'lines'})
         self.assertGreater(affected, 0)
+        self.assertGreater(igura_affected, 0)
 
     def test_word_boundaries_and_plural_tokens(self):
         normalize = normalize_igura_terms.normalized

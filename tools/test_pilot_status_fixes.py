@@ -49,6 +49,7 @@ class PilotStatusTests(unittest.TestCase):
 
     def test_rpw_fix_composes_without_touching_other_slots(self):
         overrides = rpw.compound_name_overrides(self.rpw,self.terms)
+        overrides.update(rpw.surname_first_overrides(self.rpw,self.terms))
         encoded = {k:digraph.encode_mixed(v,self.mapping) for k,v in overrides.items()}
         # Test both pristine data and the current installed translation.
         for before in (self.rpw,self.current_rpw):

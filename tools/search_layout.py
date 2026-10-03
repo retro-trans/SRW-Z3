@@ -37,6 +37,8 @@ def stub():
         emit('cmplw', 9, 10); a.br('beq', 'measure')
     import battle_unit_name_layout
     battle_unit_name_layout.emit_opt_in(emit,const,a)
+    import pilot_name_layout
+    pilot_name_layout.emit_opt_in(emit,const,a)
     # 0x510cc saves its caller's LR at +0xf0 in its 0xe0-byte frame.
     # The grid's colored entries use an exact 32-byte template copy made at
     # 0xadecc..0xadf10, passed via stack +0x78 at 0xae404. Address-only

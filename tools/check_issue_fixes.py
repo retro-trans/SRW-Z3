@@ -236,6 +236,8 @@ def main():
     battle_screen_labels.check_elf(b,mapping)
     import battle_effect_labels
     battle_effect_labels.check_built(b,mapping,cv_widths)
+    import battle_effect_layout
+    battle_effect_layout.check(b,mapping,cv_widths)
     import battle_speaker_names
     battle_speaker_names.check(b)
     import battle_name_transport
@@ -412,6 +414,8 @@ def main():
     for text in settings_descriptions.LABELS:
         assert sum(preview_widths[dg.cell_index(mapping[c])] for c in text)*31/32 < 950, text
     import check_search_layout
+    import status_name_separator
+    status_name_separator.check(b, mapping)
     check_search_layout.check(b, mapping, ui_data)
     import check_command_layout
     import activation_prompts

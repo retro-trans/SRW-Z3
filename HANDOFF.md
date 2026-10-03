@@ -1,5 +1,76 @@
 # Handoff
 
+**2026-10-03 pending Pilot Info dot removal:** status_name_separator replaces
+only two immediate values at0x31b99c/0x31b9a8 with the encoded space bytes.
+The native western-order UI join previously inserted CP9320x8145 after col2
+and before col1. Full32-byte source guard; no new code allocation, save-name
+builder or unrelated punctuation edits. eboot composition and check_issue_fixes
+include patch/readback. Four new tests pass, executing original/patched stores,
+covering7 Heero/Otto/Zechs records and6 Atsui/Kakikouji/Kinoshita variants already
+handled by pending surname_first_overrides; raw/folded permissions pass.
+All13 focused separator/pilot tests and English catalog/543 views pass.
+No build/install/release. Earlier pending work remains preserved.
+
+**2026-10-03 pending pilot/link screenshot fixes:** surname_first_overrides
+resolves52 pilot-nw records using surname nickname0 plus surname1/given2;
+status surname gains a separator (Akagi Shunsuke), nickname0 unchanged.
+Integrated after compound overrides; existing production RPW readback extended.
+pilot_name_layout opts Spirit-card row0xb9914/ref0x14bf2 into search_layout's
+measured center hook, retaining full Commander Tanaka. Stub occupies exactly
+0x400 bytes through0x78e400, next reservation unchanged; no room remains here.
+Hilde Schbeiker corrected in EN glossary/library/surname fallback and BASE_RULES.
+Stage25 White Fang/PS links now have surrounding spaces. Prior pending work
+preserved. Source only; no build/install/release or visual-runtime claim.
+Existing4 pilot-status and6 shared-centering tests pass; screenshot regression
+reproduces old negative-X start and checks new239.84px Tanaka label fits its
+card at x47.58..287.42. English catalog and543 compatibility views pass.
+All5 new screenshot tests pass, including raw/folded PS3 permissions and
+untouched adjacent code reservation. No Schubaker remains in English locales.
+
+**2026-10-03 pending Pony Man dialogue fixes:** two entries in
+localization/locales/en/stage0011_03.json (r_d60d0818e965232f and
+r_5b23687574286204). Rewrote the fused speculationtheories/monsterhorse
+phrases as grammatical descriptions, preserving varying speculative accounts,
+the half-man/half-beast appearance, horse lower body/speed/snorts and carrots.
+Japanese and adjacent context checked; two focused tests cover wording,
+structure, encoding and measured font widths. Catalog clean; only Stage 11
+compatibility view changes. Source only; no build/install/release.
+
+**2026-10-03 pending Stage 19 screenshot corrections:** four entries in
+localization/locales/en/stage0019_03.json. Misato now says "Destroying it is";
+Ryouma's quiet-Hibiki and adults/show-a-way-forward lines each use two body
+rows without changing wording. Hibiki thinks "Did he miss the sarcasm...?"
+about Akagi's response to Tanigawa, confirmed against Japanese/context.
+Three focused tests cover wording, structure, encoding and actual font widths
+(Hibiki plus eight-wide-letter stress case). English catalog check passes;
+only the Stage 19 compatibility view changes. Earlier pending work preserved.
+Source only; no build/install/release or new in-game validation.
+
+**2026-10-02 pending ECOAS correction:** screenshotf08e7892. Corrected45
+English entries in23 files (34dialogue,4library,7voice), replacing organization
+Echoes with glossary tokenエコーズ -> ECOAS. New canonical glossary:ecoas;
+local-only source contracts/legacy binding updated. Corresponding28 Vietnamese
+entries now use the same token without changing rendered text or review status.
+Existing ECOAS squad label/Loto description unchanged. BASE_RULES records the
+spelling. Earlier banner/Ace fixes preserved. No build/install/release.
+Four terminology tests and English catalog/543 compatibility views pass;
+independent old/new comparison isolates45 English naming edits and preserves
+all28 Vietnamese rendered texts/statuses.
+
+**2026-09-30 pending combat banner / Ace Bonus fixes:** screenshots0f38a731
+and2d5fedd2. battle_effect_layout patches the centered draw at0x110860 only
+for caller0x103634, UTF-8, normal font and39 known label pointers. Measured
+half-width replaces native full-cell counting; guarded RX0x78DD00 code,
+0x78DE00 width table (ends0x78DF40). Shared fallback paths untouched.
+team_order_labels adds Ace notification base0xAA814/accent0xAA834 with two
+canonical ui_aiddata entries: Ace Bonus obtained. / Ace Bonus, aligned.
+Five banner tests (459 PPC cases plus fallbacks/guards/folded permissions)
+and eight Team Setup tests pass; catalog/543 views clean. Full executable
+composition/readback passes in memory; raw/folded permissions309edges/
+1163instructions. No build/install. Ace sentence retains its native center.
+Earlier Parry screenshot still awaits version confirmation;0.6.24 raw and
+wrapped EBOOT both contain English Parry at the live UTF-8 pointer.
+
 **2026-09-30 public0.6.24 release complete:** explicitly requested. Source
 afad7b70e0bdd3a4c8f89cf31dcccf8a487ab83f pushed, no rebuild/install.
 Retro Trans0.3.1 current source fd35841c47555f9461a802ff47e15784caa8156f

@@ -2,6 +2,8 @@
   "schema": 1,
   "language": "en",
   "messages": {
+    "ui_aiddata:team_order_ab_got": {"text":"Ace Bonus obtained.","status":"translated"},
+    "ui_aiddata:team_order_ab_got_accent": {"text":"Ace Bonus","status":"translated"},
     "ui_aiddata:team_order_so_training": {"text":"「Training」","status":"translated"},
     "ui_aiddata:team_order_so_patrol": {"text":"「Patrol」","status":"translated"},
     "ui_aiddata:team_order_so_simulator": {"text":"「Simulator」","status":"translated"},

@@ -2,6 +2,7 @@
   "schema": 1,
   "language": "en",
   "messages": {
+    "glossary:ecoas": {"text":"ECOAS","status":"translated"},
     "glossary:quarreling_twins": {
       "text": "Quarreling Twins",
       "status": "translated"
@@ -2491,8 +2492,8 @@
       "status": "imported"
     },
     "glossary:r_94c2a0c1f414ed06": {
-      "text": "Hilde Schubaker",
-      "status": "imported"
+      "text": "Hilde Schbeiker",
+      "status": "translated"
     },
     "glossary:r_a8c83479fc2fe534": {
       "text": "Mariemaia",

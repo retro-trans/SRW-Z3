@@ -5,7 +5,7 @@ happened to hook at draw time came out English, which is why the menu read
 "Change Pilots / Transform / 並び替え / チーム名称".
 
 Wording lives in the shared catalog (`ui_aiddata:team_order_<key>`); this module
-only binds it to FSSA widgets in AIDDATAPACK member 0. Four kinds of binding:
+only binds it to FSSA widgets in AIDDATAPACK member 0. Binding kinds:
 
   label    repoint the widget's string.
   blank    repoint to an empty string: the Japanese split one phrase across
@@ -17,6 +17,8 @@ only binds it to FSSA widgets in AIDDATAPACK member 0. Four kinds of binding:
            English position, as weapon_requirements does. Without this the
            accent keeps its Japanese x -- that is the overlapping "Custom Bonus"
            the user reported.
+  accent_center  an accent base retaining its native center with English
+           measurement (the Ace Bonus acquired notification).
   gap      a template with full-width spaces where a live number is drawn by
            another widget. The English keeps a gap of the same width and is
            moved so the gap starts exactly where the Japanese one did; the
@@ -110,6 +112,8 @@ BINDINGS = {
     'tf_update_hint_accent2': ('accent', (0xb20f4,)),
     'cb_got': ('accent_base', (0xaaa34,)),
     'cb_got_accent': ('accent', (0xaaa54,)),
+    'ab_got': ('accent_center', (0xaa814,)),
+    'ab_got_accent': ('accent', (0xaa834,)),
 }
 # EBOOT-drawn copies and runtime messages, supplied to the exact draw hook
 RUNTIME = ('rt_renamed', 'rt_rename_marked', 'rt_balance_run', 'rt_grab', 'rt_place',
@@ -184,8 +188,10 @@ def apply(blob, mapping, widths):
                 left = _left(blob, row, ink(jp, mapping, widths, size))
                 shift = (ink(jp_pre, mapping, widths, size) - ink(en_pre, mapping, widths, size)) / 640.
                 place(row, left + shift)
-            elif kind == 'accent_base':
-                left = _left(blob, row, ink(jp, mapping, widths, size))
+            elif kind in ('accent_base', 'accent_center'):
+                # The acquired-Ace notice retains the native sentence center.
+                measured = en if kind == 'accent_center' else jp
+                left = _left(blob, row, ink(measured, mapping, widths, size))
                 place(row, left)
                 for akey, (akind, arows) in BINDINGS.items():
                     if akind == 'accent' and base_of(akey) == key:
@@ -215,6 +221,11 @@ def check(blob, mapping, widths, original=None):
                 continue                      # measured as part of its base
             limit = BUDGET.get(key, max(len(l) for l in jp.split('\n')) * size)
             assert _width(en, mapping, widths, size) <= limit, (key, en, limit)
+            if kind == 'accent_center' and original is not None:
+                assert original[row+23] & 0x40
+                center = struct.unpack_from('>f', original, row+4)[0]*640
+                left = struct.unpack_from('>f', blob, row+4)[0]*640
+                assert abs(left+ink(en,mapping,widths,size)/2-center)<.01, key
     # accents sit exactly over their English substring
     for key, (kind, rows) in BINDINGS.items():
         if kind != 'accent':

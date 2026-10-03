@@ -1535,6 +1535,10 @@ def patch(b, names, mapping, pairs_used=(), widths=None, pair_mapping=None):
         import battle_name_transport
         b,extra_cursor=battle_name_transport.patch(b,extra_cursor)
         report['battle_name_transport_end'] = extra_cursor
+        import battle_effect_layout
+        b=battle_effect_layout.patch(b,mapping,widths)
+        import status_name_separator
+        b=status_name_separator.patch(b,mapping)
     import message_class_formats
     b=message_class_formats.patch(b,mapping)
     import trader_spirit_prompts
@@ -1555,6 +1559,8 @@ def verify(orig, new, names, mapping, vwf=None):
     if vwf:
         import battle_name_transport
         battle_name_transport.check(new)
+        import status_name_separator
+        status_name_separator.check(new,mapping)
         import runtime_names
         runtime_names.verify(new, _segments(new), mapping)
         for off, jp, pua in TRAINING_STAT_CELLS:

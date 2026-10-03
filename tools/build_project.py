@@ -515,6 +515,7 @@ def main(argv):
         ovr, unres = rpw.piece_overrides(rraw, gl["terms"])
         ovr.update(rpw.name_overrides(rraw, gl["terms"]))
         ovr.update(rpw.compound_name_overrides(rraw, gl["terms"]))
+        ovr.update(rpw.surname_first_overrides(rraw, gl["terms"]))
         print("  [rpw]   %d name-piece slots per record (%d records unresolved)" % (len(ovr), unres))
         spirit_names = json.load(open(os.path.join(here, "..", "translation", "spirits.json"), encoding="utf-8"))
         spirit_ovr = rpw.spirit_name_overrides(rraw, spirit_names)

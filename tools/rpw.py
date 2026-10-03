@@ -337,6 +337,41 @@ def compound_name_overrides(b, terms):
     return out
 
 
+def surname_first_overrides(b, terms):
+    """Status names using col1 surname + col2 given, with col0 nickname.
+
+    Akagi and other surname nicknames cannot resolve through piece_overrides:
+    col0 and col1 both contain the surname. Preserve their native family-first
+    order, supplying the missing separator only in the status surname slot.
+    """
+    js = jstrings(b)
+    records = {}
+    for (chunk, rec, col), index in slots(b).items():
+        if chunk == 'pilot-nw':
+            records.setdefault(rec, {})[col] = js[index]
+    full_names = {}
+    for term in terms:
+        if term.get('kind') == 'pilot' and term.get('en'):
+            full_names.setdefault(term['jp'], set()).add(term['en'])
+    out = {}
+    for rec, cols in records.items():
+        surname, given = cols.get(1, ''), cols.get(2, '')
+        if cols.get(0) != surname or not surname or not given or given == '-':
+            continue
+        candidates = full_names.get(surname + given)
+        if not candidates:
+            continue
+        if len(candidates) != 1:
+            raise ValueError('Ambiguous surname-first pilot: ' + surname + given)
+        english = next(iter(candidates))
+        if ' ' not in english:
+            raise ValueError('Unsplit surname-first pilot: ' + english)
+        first, family = english.rsplit(' ', 1)
+        out[('pilot-nw', rec, 1)] = family + ' '
+        out[('pilot-nw', rec, 2)] = first
+    return out
+
+
 def spirit_name_overrides(b, names):
     """Spirit full-name slots take their own terms, even when a weapon shares
     the Japanese string (e.g. 突撃: Assail spirit versus Charge weapon).
@@ -350,13 +385,14 @@ def spirit_name_overrides(b, names):
 def check_compound_names(original, patched, terms, mapping):
     import digraph
     expected = compound_name_overrides(original, terms)
+    expected.update(surname_first_overrides(original, terms))
     assert expected, 'Compound pilot-name inventory unexpectedly empty'
     _, _, start, end, _ = next(c for c in chunks(patched) if c[0] == 'j-string')
     strings = patched[start:end].split(b'\0')
     new_slots = slots(patched)
     for slot, en in expected.items():
         assert strings[new_slots[slot]] == digraph.encode_mixed(en, mapping), (slot, en)
-    print('PASS: %d compound pilot status names match canonical full names.' % (len(expected)//2))
+    print('PASS: %d compound/surname-first status names match canonical full names.' % (len(expected)//2))
 
 
 def build_grown(b, swap, overrides=None):

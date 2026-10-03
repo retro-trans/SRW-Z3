@@ -6585,7 +6585,7 @@
     },
     {
       "jp": "ヒルデ・シュバイカー",
-      "en": "Hilde Schubaker",
+      "en": "Hilde Schbeiker",
       "kind": "pilot",
       "source": "新機動戦記ガンダムＷ　Ｅｎｄｌｅｓｓ　Ｗａｌｔｚ",
       "zukan_id": 87,
@@ -12816,6 +12816,17 @@
       "status": "confirmed",
       "note": "Sphere title: Quarreling Twins.",
       "src": "User screenshot correction, 2026-09-29"
+    },
+    {
+      "jp": "エコーズ",
+      "en": "ECOAS",
+      "kind": "keyword",
+      "source": "Mobile Suit Gundam Unicorn",
+      "zukan_id": null,
+      "field": "",
+      "status": "confirmed",
+      "note": "Organization acronym; never Echoes.",
+      "src": "User correction 2026-10-02; https://akurasu.net/wiki/ECOAS"
     },
     {
       "jp": "ランド",

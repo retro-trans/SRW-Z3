@@ -1,5 +1,138 @@
 # Changelog
 
+## 0.6.25 release preparation (2026-10-03)
+
+- User explicitly approved building the pending fixes and publishing the
+  Retro Trans-compatible release. New strict build and release notes prepared;
+  packaging, installation and publication results will be recorded below.
+- Current Retro Trans 0.3.1 contract checked at
+  11cd60e78134ce2de37857c7056ea49b85346c4a. Saved the existing 31-release
+  catalog for immutable-identity and cached-refresh verification. Existing
+  public destination retained; no visibility change or older asset changes.
+- Strict build 0.6.25 passed all integrated checks, including the new
+  separator/banner/card guards, 143 stage containers, 5,635 text hooks and
+  all 2,119 mission variants. English source fingerprint is
+  6cf14bbd3b2dadd7b693606048fbe26105c8b53c942d802fdd36d7c61099776a.
+- Updated the voice glossary regression to verify every token's exact
+  expansion while retaining explicit Igura coverage. The old test assumed
+  all voice tokens were Igura; ECOAS is now tokenized there as well.
+
+## Unbuilt source fix - Pilot Info name separators (2026-10-03)
+
+- Screenshots0d22360b/4059aecb/8c5476dd: Pilot Info inserts a Japanese
+  middle dot between western-order name fields even though the glossary
+  already spells Heero Yui, Otto Mitas and Zechs Marquise with spaces.
+  Changed only the two separator-byte immediates at0x31b99c/0x31b9a8 to the
+  build's encoded space cell. Guarded the complete32-byte join sequence;
+  no code cave, buffer length, field order, saved name or other dot changes.
+- Screenshots5f60fa67/d1e78e07/ef0fba2a: confirmed all six RPW variants for
+  Atsui Tetsuo, Kakikouji Umemaro and Kinoshita Touhachirou are already covered
+  by the pending surname-first spacing resolver; added explicit regressions.
+- Four new tests execute the actual separator stores, reproduce the old
+  dots, check all seven Heero/Otto/Zechs records, verify the six surname-first
+  records, isolate edits to the two immediates, reject source drift and pass
+  raw/folded PS3 permission checks. Integrated patch and production readback.
+  All13 focused separator/pilot tests and English catalog/543 compatibility
+  checks pass; earlier name/Spirit fixes remain intact.
+  Source only; no game build, ISO, install, release or in-game QA claim.
+
+## Unbuilt source fixes - pilot names and linked-term spacing (2026-10-03)
+
+- Pilot Info's "AkagiShunsuke" comes from surname+given slots1/2, with
+  surname also used as nickname slot0. Added a canonical-name resolver for
+  this layout:52 records get a separator, preserving family-first status
+  order and leaving short battle names untouched. Production RPW readback
+  now checks these alongside the existing compound-name fixes.
+- Commander Tanaka's Spirit card used fixed-cell centering, placing the
+  16-letter label at x=-32.5. Opted only its template0xb9914/reference0x14bf2
+  into the existing measured-width centering hook; full name/font/position
+  preserved. Original template/style guards retained; hook stays inside its
+  existing0x400-byte RX reservation. No new executable region or global change.
+- Corrected Hilde Schubaker to user-specified Hilde Schbeiker in the canonical
+  glossary, library name and surname fallback; recorded the spelling in
+  BASE_RULES. Added missing spaces on both sides of the
+  White Fang and PS links in the two reported Stage25 lines, preserving
+  link markers, glossary references and all other wording.
+- Source only; no complete build, ISO, installation or release. In-game
+  confirmation remains pending a separately requested build.
+- Four pilot-status and six shared-centering regressions pass, including
+  795 grid and1060 copied-grid PPC cases. New screenshot tests verify all52
+  surname-first records' isolation and Tanaka's239.84px label now centered at
+  x47.58..287.42 inside its card, versus the old x=-32.5 start.
+  All five new screenshot tests pass, including raw/folded PS3 permission
+  checks and the unchanged adjacent executable reservation. English catalog
+  has zero issues; all543 compatibility views agree.
+
+## Unbuilt source fixes - Pony Man description (2026-10-03)
+
+- Corrected two Stage 11 dialogue records reported in screenshots82f1eece
+  andcb5b4003. Replaced the run-together "speculationtheories" wording with
+  "Accounts of his appearance vary, but so far, it's all speculation."
+- Replaced "monsterhorse" and the broken list grammar with a half-man,
+  half-beast creature description: a horse's lower body, racehorse speed,
+  horse-like snorts and a love of carrots. Checked the Japanese source and
+  adjacent Pony Man exchange; preserved all reported traits and the $n speaker.
+- Both entries marked translated. Two focused wording/structure/encoding/
+  font-width tests pass; English catalog is clean. Only the Stage 11 generated
+  compatibility view changes. Prior fixes retained; no build/install/release.
+
+## Unbuilt source fixes - Stage 19 dialogue (2026-10-03)
+
+- Corrected Misato's "Destroying it's" to "Destroying it is" in the Angel
+  Core explanation. Reflowed the two reported Ryouma lines into two dialogue
+  rows each, preserving their wording while removing mid-clause breaks.
+- Changed Hibiki's thought to "Did he miss the sarcasm...?" The Japanese
+  and adjacent exchange show him reacting to Akagi missing Tanigawa's tease,
+  not claiming the sarcasm as his own. Four canonical entries marked translated.
+- Three focused regression tests pass, covering the exact corrections,
+  source structure, encoding and measured dialogue widths, including the
+  default Hibiki name and an eight-wide-letter name stress case. English
+  catalog checks pass; compatibility sync changes only the Stage 19 view.
+  Prior pending fixes preserved. No game build, install or release.
+
+## Unbuilt terminology correction - ECOAS (2026-10-02)
+
+- Screenshotf08e7892 identifies the organization as ECOAS, not Echoes.
+  Corrected45 English records across23 files:34 dialogue,4 character-profile
+  descriptions and7 battle subtitles, including both versions of Ozma's
+  introduction scene. Existing ECOAS squad label and Loto description kept.
+- Added canonical glossary:ecoas (エコーズ) and used its token in all corrected
+  prose. User-approved spelling also agrees with https://akurasu.net/wiki/ECOAS.
+  Ordinary vocabulary is not subject to a global replacement. Recorded the
+  spelling in BASE_RULES; all unrelated wording and controls preserved.
+- Updated local-only source token contracts and legacy glossary binding.
+  Tokenized28 corresponding Vietnamese lines with the same ECOAS spelling;
+  rendered Vietnamese text and review statuses are unchanged. Existing
+  banner/Ace Bonus source fixes retained. No build, install or release.
+- Four terminology tests pass; English catalog has zero issues and543
+  compatibility views agree. Independent comparison confirms all45 English
+  edits change only the organization spelling and all28 Vietnamese lines
+  retain exactly their previous rendered text and review statuses.
+
+## Unbuilt source fixes - combat banner alignment and Ace Bonus (2026-09-30)
+
+- Screenshot0f38a731: Lambda Driver is translated but the shared centered
+  drawer still measures full Japanese cells. Added a caller-, encoding- and
+  font-scoped VWF width correction for all39 canonical combat effect labels
+  (51 live references). It preserves their native centers, colors, timing
+  and wording; unrelated strings/callers retain native drawing. Code/data
+  occupy the guarded RX gap0x78DD00..0x78DF40, not the data-only extension.
+- Screenshot2d5fedd2: the Ace Bonus notice's black base sentence was still
+  Japanese beneath the separately translated gold overlay. Bound both FSSA
+  widgets0xAA814/0xAA834 to "Ace Bonus obtained." / "Ace Bonus" and reused
+  the existing measured overlay placement. Pilot name, score and bonus
+  description remain untouched; source definitions stay local-only.
+- Five banner regressions execute the actual emitted instructions for all51
+  references across nine size/center combinations, verify unrelated-path
+  fallbacks and register preservation, reject source/cave drift, and check
+  byte isolation and folded PS3 executable permissions. Eight notification/
+  Team Setup tests pass. Catalog has zero issues;543 views agree, sync clean.
+- Source only: no full game build, ISO, install, release or runtime claim.
+  Full executable composition/readback also passes in memory; raw and folded
+  PS3 permission audits pass (309 branch edges/1163 injected instructions).
+  The preceding Japanese Parry screenshot's version remains unconfirmed;
+  the0.6.24 executable already contains its canonical English text.
+
 ## Public release 0.6.24 (2026-09-30)
 
 - Explicit release request; reuse the exact verified local ISO without a
@@ -178,6 +311,11 @@
   the next explicitly requested build.
 
 ## Unbuilt source fix - battle effect banner translations (2026-09-29)
+
+- Follow-up2026-09-30: these translations shipped in0.6.24, but the Lambda
+  Driver screenshot exposed an uncorrected fixed-cell centering path. The
+  source-only alignment fix above adds measured widths; translation-table
+  validation alone did not prove the banner layout correct.
 
 - Screenshot5a1d56fa reports untranslated A.T. Field during combat. The
   canonical ability name and CP932 hook were already English; both live

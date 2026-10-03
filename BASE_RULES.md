@@ -18,6 +18,11 @@ When translating dialogue:
 - Do not supply what the source omits. Japanese drops the subject constantly and English usually needs one, but where the scene doesn't settle who, prefer a construction that keeps the ambiguity — a passive, an imperative — over inventing "I" or "we".
 
 When translating any kind of text:
+- ヒルデ・シュバイカー is **Hilde Schbeiker**, not Hilde Schubaker
+  (user correction 2026-10-03). Preserve the shared glossary spelling.
+- The Gundam Unicorn organization エコーズ is **ECOAS**, never Echoes.
+  Use $$エコーズ$$ in prose (user correction 2026-10-02); ordinary echoes
+  are unrelated and must not be replaced.
 - The Sphere title いがみ合う双子 is **Quarreling Twins**, not Feuding Twins
   or Bickering Twins (user correction 2026-09-29). Use $$いがみ合う双子$$
   in prose; keep grammatical "the" outside the glossary term.
