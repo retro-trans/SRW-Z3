@@ -28,6 +28,29 @@ This repository excludes Japanese script dumps; see
 An open toolchain for translating **Dai-3-Ji Super Robot Taisen Z: Jigoku-hen**
 (PlayStation 3, BLJS10256; Vita port starting for PCSG00264) into English.
 
+## Physical Vita rePatch
+
+Use the latest [Retro Trans](https://github.com/retro-trans/retro-trans-tools/releases/latest)
+and select **Vita rePatch**: choose your original **PCSG00264 v01.00 PKG** and
+matching **NoNpDrm work.bin**, choose a new output folder, then **Create rePatch**.
+Keep internet available and at least **6 GB free** on the output drive. The app
+automatically downloads the patch and official conversion tool, converts the
+PKG locally in an isolated temporary folder, and verifies the output.
+
+Close the game and back up saves/older mods. Copy the generated
+`rePatch/PCSG00264` to `ux0:rePatch/PCSG00264` with VitaShell. Compatible rePatch
+and your installed original game are required. Do not merge old mods or
+overwrite app, updates, or savedata. No Python, terminal commands, pre-decrypted
+folder, configured emulator, firmware, or personal auth dump is needed.
+Your game package and work.bin stay local and unchanged; they are not supplied
+by this release. Download only the app; it handles the bare patch assets.
+
+See the [Vita guide](https://github.com/retro-trans/retro-trans-tools/blob/main/docs/VITA_REPATCH.md)
+for exact source hashes, obtaining your own work.bin, privacy and copy steps.
+Follow the release notes for tested coverage and runtime limitations. Current
+Vita staff roll/ending teaser remain Japanese; physical testing of this exact
+integration remains pending. This is not a Vita3K installer or PKG xdelta.
+
 ## Shared PS3 / Vita project
 
 One repository and one English translation/glossary source are used for both
