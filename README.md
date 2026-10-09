@@ -175,7 +175,7 @@ rather than reimplementing PS3 crypto.
 | Role | Contributors |
 | --- | --- |
 | Project Lead | pow |
-| Playtesting | SecondarySebs, gabrielgamer99, Theoldnile, Kapt, mr.notaru |
+| Playtesting | SecondarySebs, gabrielgamer99, Theoldnile, Kapt, mr.notaru, GethN7 |
 
 ## Not in this repository
 
