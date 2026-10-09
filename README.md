@@ -43,10 +43,11 @@ and your installed original game are required. Do not merge old mods or
 overwrite app, updates, or savedata. No Python, terminal commands, pre-decrypted
 folder, configured emulator, firmware, or personal auth dump is needed.
 Your game package and work.bin stay local and unchanged; they are not supplied
-by this release. Retro Trans 0.5.3+ automatically downloads the single verified
+by this release. Retro Trans 0.5.4+ automatically downloads the single verified
 [`SRW-Z3-v0.9.0-Vita-patches.zip`](https://github.com/retro-trans/SRW-Z3/releases/download/v0.9.0/SRW-Z3-v0.9.0-Vita-patches.zip)
 (15.1 MB), or you can select that ZIP directly in **Local patch** without
-extracting it. Individual patches remain available for older 0.5.2 clients.
+extracting it. The 153 individual Vita patches have been retired. **Upgrade from 0.5.2/0.5.3
+to 0.5.4 or newer** for online Vita patching. The two PS3 patches remain unchanged.
 The ZIP contains patches and metadata, not a ready-to-copy game overlay.
 See [Getting work.bin](https://github.com/retro-trans/retro-trans-tools/blob/main/docs/VITA_WORK_BIN.md)
 for step-by-step license instructions.
